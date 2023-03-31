@@ -498,4 +498,5 @@ Stopping at the bottom of the stairs, Sweetie Belle asked, “how did the party 
 
 “That sounds delicious,” Sweetie Belle answered.
 
-Rarity began to make the dinner softly humming to herself with a pang of exhaustion in her voice. She was tired but happy.
+Rarity began to make the dinner, softly humming to herself with a pang of exhaustion in her voice. She was tired but happy.
+

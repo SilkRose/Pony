@@ -1,5 +1,8 @@
-### Name
-Dearest and Date (old), Darling and Date
+# Darling & Date
+
+Mane Characters: [Rarity](../../ponies/rarity), [Pinkie Pie](../../ponies/pinkie-pie)
+
+Location: [Ponyville](../../places/ponyville)
 
 ### Synopsis
 Sequel to Pretty and Pink. Pinkie plans a date for them.
