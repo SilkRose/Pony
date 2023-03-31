@@ -1,15 +1,18 @@
-Name: Dearest and Date (old), Darling and Date
+### Name
+Dearest and Date (old), Darling and Date
 
-Synopsis: Sequel to Pretty and Pink. Pinkie plans a date for them.
+### Synopsis
+Sequel to Pretty and Pink. Pinkie plans a date for them.
 
-Dec: Rarity and Pinkie throw a party announcing and celebrating their relationship. Rainbow asks if they’ve gone on a date, Pinkie thinks it's a great idea, asking Rarity out on the dance floor.
+### Description
+Rarity and Pinkie throw a party announcing and celebrating their relationship. Rainbow asks if they’ve gone on a date, Pinkie thinks it's a great idea, asking Rarity out on the dance floor.
 
 With the help of her friends, can Pinkie plan an amazing date for Rarity? Will she still be able to do it while helping Rainbow deal with her feelings for Fluttershy?
 
-Short Dec: Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow with their feelings for each other.
+### Short Description
+Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow with their feelings for each other.
 
-Ideas:
-
+### Ideas
 - Have sub-plot of Rainbow and Fluttershy liking each other, they ask each other out in an epilogue.
 - Each friend helps with one thing:
 	- Applejack - Provides the place and sets up the picnic with food for the end of the date.
@@ -18,8 +21,7 @@ Ideas:
 	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell ‘Rarity <3 Pinkie’.
 * At the end of the party, Twilight walks with Rarity home, they talk on the way. Rarity is excited about the date, something she says gives Twilight the idea to barrow the royal carriage.
 
-Flow:
-
+### Flow
 1. Pinkie throws a party to reveal and celebrate her and rarity getting together.
 2. Their friends congratulate them.
 3. One of them asks Pinkie if they’ve gone on a date, Pinkie thinks it's a great idea.
@@ -34,8 +36,7 @@ Flow:
 12. They kiss.
 13. The end?
 
-Chapters:
-
+### Chapters
 [Chapter 1](chapter-1.md) Announce and Ask, The Party?:
  - Announce the relationship and Pinkie asks Rarity on a date.
 2. Practice and Plan:
@@ -46,5 +47,5 @@ Chapters:
  - Rainbow and Fluttershy ask each other out.
 
 
-Cover:
+### Cover
 ![Cover](cover.png)
