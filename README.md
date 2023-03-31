@@ -9,6 +9,7 @@ All non-copyrighted material such as ideas, stories, plot-lines, and the like ar
 ## Copyright
 
 My Little Pony: Friendship is Magic © Hasbro, Inc.
+
 All artwork featured belongs to their respective owners.
 
 [Obsidian]: https://obsidian.md/
