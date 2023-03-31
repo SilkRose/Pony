@@ -1,8 +1,8 @@
 # Darling & Date
 
-Mane Characters: [Rarity](../../ponies/rarity), [Pinkie Pie](../../ponies/pinkie-pie)
+Mane Characters: [Rarity](../../ponies/rarity.md), [Pinkie Pie](../../ponies/pinkie-pie.md)
 
-Location: [Ponyville](../../places/ponyville)
+Location: [Ponyville](../../places/ponyville.md)
 
 ### Synopsis
 Sequel to Pretty and Pink. Pinkie plans a date for them.

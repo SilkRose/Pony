@@ -1,7 +1,7 @@
 # Sugarcube Corner
 
 Location type: #House #Store
-Town: [Ponyville](./ponyville)
+Town: [Ponyville](./ponyville.md)
 
 Occupants:
-[Pinkie Pie](../ponies/pinkie-pie)
+[Pinkie Pie](../ponies/pinkie-pie.md)
