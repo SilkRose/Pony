@@ -1,7 +1,7 @@
 # Carousel Boutique
 
-Location type: #House #Store
+Location type: #House #Store \
 Town: [Ponyville](./ponyville.md)
 
-Occupants:
+Occupants: \
 [Rarity](../ponies/rarity.md)
