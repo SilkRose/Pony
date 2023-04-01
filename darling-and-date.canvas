@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"000692f0e0aab31f","x":-220,"y":-120,"width":286,"height":66,"type":"text","text":"# <center>Darling & Date</center>"},
+		{"id":"c8eceee1a1d55085","x":-148,"y":480,"width":142,"height":60,"type":"text","text":"## <center>Story</center>"},
+		{"id":"bbcdc1b0d1566f95","x":-548,"y":0,"width":400,"height":400,"type":"file","file":"src/stories/darling-and-date/darling-and-date-meta.md"},
+		{"id":"4aa71e29d2120b15","x":-411,"y":-117,"width":126,"height":60,"type":"text","text":"## <center>Info</center>"},
+		{"id":"e30ed509bfb07102","x":120,"y":-117,"width":148,"height":60,"type":"text","text":"## <center>Cover</center>"},
+		{"id":"7cc855aeb83910c9","x":70,"y":20,"width":248,"height":360,"type":"file","file":"src/stories/darling-and-date/cover.png"},
+		{"id":"ab1b7eb91ceecf0c","x":-442,"y":600,"width":189,"height":63,"type":"text","text":"### <center>Chapter 1</center>"},
+		{"id":"7e13c7bde31d35ba","x":-674,"y":740,"width":653,"height":800,"type":"file","file":"src/stories/darling-and-date/01-announce-and-ask.md"}
+	],
+	"edges":[
+		{"id":"79c6840784c5f148","fromNode":"000692f0e0aab31f","fromSide":"bottom","toNode":"c8eceee1a1d55085","toSide":"top"},
+		{"id":"2927e29b7d7ccf4e","fromNode":"000692f0e0aab31f","fromSide":"right","toNode":"e30ed509bfb07102","toSide":"left"},
+		{"id":"4fa23795db3f89ee","fromNode":"e30ed509bfb07102","fromSide":"bottom","toNode":"7cc855aeb83910c9","toSide":"top"},
+		{"id":"a34bc2f5039acc11","fromNode":"000692f0e0aab31f","fromSide":"left","toNode":"4aa71e29d2120b15","toSide":"right"},
+		{"id":"0725ddb6080a5ce2","fromNode":"4aa71e29d2120b15","fromSide":"bottom","toNode":"bbcdc1b0d1566f95","toSide":"top"},
+		{"id":"6e50db660d9d2829","fromNode":"c8eceee1a1d55085","fromSide":"left","toNode":"ab1b7eb91ceecf0c","toSide":"top"},
+		{"id":"907a2478010b2cee","fromNode":"ab1b7eb91ceecf0c","fromSide":"bottom","toNode":"7e13c7bde31d35ba","toSide":"top"}
+	]
+}
