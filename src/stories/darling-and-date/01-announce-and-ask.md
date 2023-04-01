@@ -1,4 +1,4 @@
-# The Party
+# Announce & Ask
 
 Rarity stood with Pinkie in the latter’s room, waiting on their friends to show up for the party. The two stood in silence for some time, Pinkie smiling, while Rarity pondered their friend's reaction to their new relationship.
 

@@ -40,7 +40,7 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 13. The end?
 
 ### Chapters
-[Chapter 1](chapter-1.md) Announce and Ask, The Party?:
+[Chapter 1: Announce & Ask](01-announce-and-ask.md):
  - Announce the relationship and Pinkie asks Rarity on a date.
 2. Practice and Plan:
  - Fluttershy practices asking Rainbow out, while Pinkie plans her date with Rarity.
