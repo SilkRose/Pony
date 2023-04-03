@@ -102,7 +102,7 @@ Rainbow quickly replied, “I mean.. Uh.. I have one last question, have you guy
 
 Pinkie Pie replied, “No, not yet,” as gears in her head started turning, “but I'm going to change that soon.”
 
-Rainbow replied, “Ok.”
+Rainbow replied, “Okay.”
 
 Pinkie Pie, mind now in full motion, thinking about how she was going to plan their first date, asked Rainbow, “Can you help me?”
 
@@ -110,7 +110,7 @@ Rainbow answered, “Sure, with what?”
 
 Pinkie replied, “The date, silly.”
 
-Rainbow, while look at Fluttershy, replied, “Ok, but I'm not the best at this sort of stuff.”
+Rainbow, while look at Fluttershy, replied, “Okay, but I'm not the best at this sort of stuff.”
 
 Pinkie hugged Rainbow, “Thank you.”
 
@@ -336,7 +336,7 @@ Fluttershy replied, “bye, Rarity, see you tomorrow.”
 
 Twilight replied, “I’ll walk with you, Rarity, I was going to leave soon, anyway.”
 
-Rarity said, “ok, darling.”
+Rarity said, “okay, darling.”
 
 Twilight said, “goodbye girls, see you next time.”
 
@@ -392,7 +392,7 @@ Pinkie let go of the hug and looked at Rainbow with a smile, awaiting her contin
 
 Rainbow continued, “I wanted to ask you more about your and Rarity’s relationship and how it started, just so that I’m more prepared in case me and Fluttershy start dating.”
 
-Pinkie replied, “ok, ask away,” as she started cleaning up.
+Pinkie replied, “okay, ask away,” as she started cleaning up.
 
 “How did you work up the courage to ask her? Not that I’m having any trouble with that,” Rainbow said, a tinge of nervousness in her voice on the later half.
 
