@@ -1,3 +1,4 @@
+.obsidian/plugins/**/*.css
 .obsidian/plugins/**/*.js
 .obsidian/community*
 .obsidian/workspace*
