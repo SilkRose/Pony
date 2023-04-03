@@ -1,10 +1,10 @@
 # Announce & Ask
 
-Rarity stood with Pinkie in the latter’s room, waiting on their friends to show up for the party. The two stood in silence for some time, Pinkie smiling, while Rarity pondered their friend's reaction to their new relationship.
+Rarity stood with Pinkie in Pinkie’s room, waiting on their friends to show up for the party. The two stood in silence for some time, Pinkie smiling, while Rarity pondered their friend's reaction to their new relationship.
 
-_What if they don’t approve?_
+*What if they don’t approve?*
 
-_What if they don’t want to be friends with us anymore?_
+*What if they don’t want to be friends with us anymore?*
 
 Thinking about it made Rarity fidget slightly, she hoped pinkie hadn't noticed.
 
@@ -34,7 +34,7 @@ Pinkie replied, “You’ll see when everypony gets here, it's a secret.”
 
 Rainbow replied, “Okay, sounds exciting,” she turned to Rarity and asked, “does this secret involve you or is it a Pinkie thing?”
 
-Before Rarity could think of a reply, somepony knocked on Pinkie’s door. _Thank Celestia._
+Before Rarity could think of a reply, somepony knocked on Pinkie’s door. *Thank Celestia.*
 
 Everypony turned to the door as Pinkie trotted to the door and opened it, revealing Applejack.
 
@@ -52,7 +52,7 @@ Pinkie walked over to Rarity, about to make their big announcement, when she not
 
 Pinkie puts her hoof around Rarity, pulling her close.
 
-_We can do this, together, _Rarity thought as she loosened up and smiled in the embrace.
+*We can do this, together*, Rarity thought as she loosened up and smiled in the embrace.
 
 Pinkie whispers, “are you okay? We don't have to do this if you don't want to.”
 
@@ -126,15 +126,15 @@ Rainbow fallowed her gaze, seeing the pair’s locked eyes.
 
 Rarity found herself staring at Pinkie from across the room, watching her whisper back and forth with Rainbow Dash.
 
-_Wonder what they’re talking about?_
+*Wonder what they’re talking about?*
 
 “Rarity,” Twilight tried to get her attention.
 
-_Maybe they’re planning something?_
+*Maybe they’re planning something?*
 
 “Rarity,” She tried again.
 
-_Pinkie sure is cute when she’s being sneaky._
+*Pinkie sure is cute when she’s being sneaky.*
 
 Finally, Rarity noticed Twilight, who poked her with a hoof.
 
@@ -162,19 +162,19 @@ The pair met in the middle of the room, staring at each other before Pinkie spea
 
 Catching Rarity off guard, Pinkie asked, “Care for a dance?” as somepony changed the music, playing to a slow song, perfect for a waltz type of dance.
 
-_Does Pinkie know how to waltz?_
+*Does Pinkie know how to waltz?*
 
 Stopping herself from embarrassing herself, she answered, “yes.”
 
 The two ponies came together, holding each other close, and started dancing.
 
-As they danced, Rarity couldn't help but smile. _Of course Pinkie knows how to waltz._
+As they danced, Rarity couldn't help but smile. *Of course Pinkie knows how to waltz.*
 
-Rarity looked around as they danced in circles, looking at the smiling faces of their friends. _How could I have ever thought these ponies would be anything but supportive. I have the best friends a pony could ask for._
+Rarity looked around as they danced in circles, looking at the smiling faces of their friends. *How could I have ever thought these ponies would be anything but supportive. I have the best friends a pony could ask for.*
 
 She held Pinkie closer in the dance, sneaking a peck on her cheek, causing Pinkie to blush a little.
 
-After the song was over, they stopped dancing. Standing in the middle of the room, staring into each other's eyes, Rarity thought, _This day can’t get any better._
+After the song was over, they stopped dancing. Standing in the middle of the room, staring into each other's eyes, Rarity thought, *This day can’t get any better.*
 
 And then it did.
 
@@ -198,7 +198,7 @@ Fluttershy cheered for her friends, causing the pair to notice their friends wat
 
 Rarity looked at Fluttershy cheering for them, happy to have such a supportive friend. Changing her gaze to Rainbow, she saw Rainbow staring back at her, before looked at Fluttershy in her wing, then tensing up.
 
-_Are those two together? Why does Rainbow look so tense all of a sudden?_
+*Are those two together? Why does Rainbow look so tense all of a sudden?*
 
 She didn't have long to ponder, as Rainbow quietly removed her wing from around Fluttershy, who, by Rarity’s best guess, hadn’t noticed the wing at all.
 
@@ -216,7 +216,7 @@ Fluttershy took her time answering, as she looked up at Rarity, pondering what t
 
 “Of course, darling, come with me,” Rarity said as she leaded Fluttershy out of Pinkie’s room.
 
-_What could be wrong, I hope everything is alright._
+*What could be wrong, I hope everything is alright.*
 
 <center>***</center>
 
@@ -236,7 +236,7 @@ As the hug ended, Rainbow dash walks up to the pair.
 
 Rainbow looks over her shoulder at Fluttershy and Rarity, then speaks to Pinkie, “you should ask our friends for help too, I’m sure they’ll all love to help, besides, I’m not that good at that stuff, so you’ll need more than just me helping.”
 
-Pinkie Pie thought, _That's a great idea._
+Pinkie Pie thought, *That's a great idea.*
 
 Looking at Twilight, who had a confused expression on her face, Pinkie asked, “will you help me and Rainbow plan mine and Rairty’s date?”
 
@@ -264,7 +264,7 @@ Rarity looked at Fluttershy with concern, “Is everything alright, dear?”
 
 Fluttershy answered, “yes, I.. I..”
 
-Rarity could see it on her face, she was having trouble saying it. _Oh, dear._
+Rarity could see it on her face, she was having trouble saying it. *Oh, dear.*
 
 Rarity sat in front of Fluttershy, putting her hooves around her, holding her in a comforting embrace, “It’s alright darling, I’m here for you, I won’t judge or tell anypony.”
 
@@ -456,7 +456,7 @@ Pinkie replied, “goodbye.”
 
 After the hug was over, Rainbow flew out of Pinkies window, eager to see her crush.
 
-Pinkie closed the window behind her. Then finished cleaning up the rest of the party, she yawned as she looked around the room, seeing nothing left to pick up. She thought about starting to plan her date, but decided she would be more prepared after a good night's sleep. Going to bed early tonight, Pinkie laid down in her bed. She smiled as she fell asleep thinking of all the possibilities for her date, and the idea of her two friends dating, _I hope everything goes well for them, _she thought as she drifted off to sleep.
+Pinkie closed the window behind her. Then finished cleaning up the rest of the party, she yawned as she looked around the room, seeing nothing left to pick up. She thought about starting to plan her date, but decided she would be more prepared after a good night's sleep. Going to bed early tonight, Pinkie laid down in her bed. She smiled as she fell asleep thinking of all the possibilities for her date, and the idea of her two friends dating, *I hope everything goes well for them, *she thought as she drifted off to sleep.
 
 <center>***</center>
 
