@@ -42,6 +42,25 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 ### Chapters
 [Chapter 1: Announce & Ask](01-announce-and-ask.md):
  - Announce the relationship and Pinkie asks Rarity on a date.
+	1. Rarity and Pinkie are waiting in Pinkie's room.
+	2. Rarity is nervous but Pinkie reassures her.
+	3. Their friends show up over time.
+	4. They announce they are dating.
+	5. Pinkie dances while Rarity talks with Twilight.
+	6. After Pinkie is wore out from dancing, she goes to get a drink and talks with Rainbow.
+	7. Rainbow is curious about her relationship with Rarity, trying to hide the fact she likes Fluttershy.
+	8. After talking a bit Pinkie dances with Rarity as a result of Rainbows suggestion.
+	9. they dance as there friends are happy for them.
+	10. Rarity notices Rainbow being very *close* to Fluttershy while her and Pinkie are dancing.
+	11. After they dance Pinkie asks Rarity out on a date.
+	12. Rarity says yes and they kiss.
+	13. Once they turn to their friends Rarity notices Fluttershy's demeanor change.
+	14. Fluttershy goes over to the punch bowl and Rarity decides to follow.
+	15. Rarity is concerned for Fluttershy and talks to her.
+	16. Fluttershy needs privacy so they decide to go talk in private in Pinkie's bathroom.
+	17. Rarity leads Fluttershy into the bathroom, concerned for her friend.
+	18. 
+
 2. Practice and Plan:
  - Fluttershy practices asking Rainbow out, while Pinkie plans her date with Rarity.
 3. Darling and Date:
