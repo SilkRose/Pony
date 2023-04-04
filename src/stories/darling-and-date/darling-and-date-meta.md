@@ -59,10 +59,64 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 	15. Rarity is concerned for Fluttershy and talks to her.
 	16. Fluttershy needs privacy so they decide to go talk in private in Pinkie's bathroom.
 	17. Rarity leads Fluttershy into the bathroom, concerned for her friend.
-	18. 
+	18. Fluttershy opens up to Rarity, revealing she has feelings for Rainbow Dash.
+	19. Fluttershy explains she is confused by Rainbow's actions, sometimes seeming intimate, sometime distant.
+	20. Rarity comforts her and says she cane do it.
+	21. Fluttershy doesn't believe her at first.
+	22. Rarity explains she can practice to get the courage she needs.
+	23. Fluttershy agrees to practice asking Rainbow out with Rarity's help.
+	24. while they are in the bathroom Rainbow suggests their other friends could also help Pinkie plan the date.
+	25. The friends there all agree to help.
+	26. After they come back the ponies split into two groups.
+	27. While Rarity is in the other group, Pinkie takes the opportunity to ask Fluttershy for help planning the date.
+	28. Initially she doesn't know what to do to help, she agrees anyway.
+	29. Rarity comes over to the group and says she has to leave.
+	30. Twilight decides to walk her home, since she lives in the same direction.
+	31. The pair leave then Applejack decides to leave too, having chores to do at home.
+	32. Fluttershy decides to walk with Applejack home, since her cottage is on the way.
+	33. Fluttershy asks Rainbow if she wants to walk with them.
+	34. She says yes, but says she will catch up in a minute so she can help Pinkie clean up.
+	35. After they leave Rainbow and Pinkie start cleaning up.
+	36. Rainbow asks Pinkie to keep a secret and tells her that she has a crush on Fluttershy.
+	37. Pinkie is initially very excited but calms herself to hear all of what Rainbow has to say.
+	38. Rainbow wants guidance from Pinkie on how she can tell Fluttershy she likes her.
+	39. Rainbow is surprised by her good advice.
+	40. Rainbow and Pinkie finish cleaning up.
+	41. They hug and Rainbow leaves.
+	42. Pinkie goes to bed, worn out from the dancing.
+	43. Twilight and Rarity walk towards Carousel Boutique.
+	44. On the way they talk about the upcoming date between Pinkie and Rarity.
+	45. After they get to Rarity's home, they hug and Rarity goes inside.
+	46. Rarity goes into the kitchen and asks Sweetie Belle if she is okay with mac n' cheese for dinner.
+	47. Sweetie Belle says yes.
+	48. Rarity hums to herself and make their food.
+	49. As they eat Sweetie Belle asks about the party.
+	50. Rarity tells her it was to announce her being in a relationship with Pinkie.
+	51. Sweetie Belle is curious about it and asks her questions about being in a relationship.
+	52. Rarity answers a few but cuts her off, saying she will learn more when she's older and in a relationship herself.
+	53. (Potentially leads into side story where Sweetie Belle has a crush on a pony from school?)
+	54. After they eat Rarity tucks Sweetie Belle into sleep and lays down herself.
 
 2. Practice and Plan:
- - Fluttershy practices asking Rainbow out, while Pinkie plans her date with Rarity.
+ - Alternating Fluttershy practicing with Rarity to ask Rainbow Dash out, and Pinkie planning her date with Rarity. 4 practice session, 4 ponies to help Pinkie.
+	 1. Pinkie goes to Rainbow Dash to start planning her date.
+	 2. Rainbow doesn't immediately know how she can help.
+	 3. Pinkie asks her what she would say she is good at.
+	 4. Rainbow says flying.
+	 5. Pinkie thinks of a few non-starter ideas before suggesting she could do a flight show.
+	 6. Rainbow really likes this idea, deciding she will practice it the whole week.
+	 7. Pinkie is excited to see it.
+	 8. Fluttershy practices with Rarity to have the courage to ask Rainbow Dash out.
+	 9. Rarity tells Fluttershy about the dress she gave Pinkie, as a gesture of her feelings towards her.
+	 10. This gives Fluttershy the idea that maybe she could help Pinkie by helping her make a dress to give to Rarity for their date.
+	 11. Pinkie goes to Twilight with Rainbow to see how she can help.
+	 12. Rainbow tells Twilight about her flight show idea.
+	 13. Twilight has an aha moment and realizes what she might be able to do.
+	 14. She explains to them she could try to get a royal carriage for them, as transportation to and from the places of the date.
+	 15. Pinkie likes this idea.
+	 16. Twilight says to check back with her tomorrow to see what Celestia says.
+	 17. Fluttershy practices more with Rarity the next day, getting more confident in herself.
+	 18. 
 3. Darling and Date:
  - Rarity and Pinkie go on the date.
 4. Epilogue - ?:
