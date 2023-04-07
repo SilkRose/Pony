@@ -94,7 +94,7 @@ Rainbow asked another question, “How long did you wait before you asked her ou
 
 Pinkie replied, “A few weeks, but at the end, it was hard not to just blurt it out and kiss her then and there.”
 
-Rainbow muttered under her breath, “Tell me about it…” as her eyes flashed to their yellow pegasus friend.
+Rainbow muttered under her breath, “Tell me about it…” as her eyes flashed to Fluttershy.
 
 Pinkie, not quite hearing it, asked, “What was that?”
 
@@ -284,7 +284,7 @@ Rarity answered, “I can help you build courage, you can pretend I’m Rainbow 
 
 “You think it will work?” Fluttershy asked.
 
-“It’s worth a shot, isn’t it, you’ll never ask her out if you don’t try,” Rarity answered, “besides, maybe she likes you and will ask you out first, that’s how it happened to me and Pinkie. I made her a cute dress, saying it was for a client, then I was about to ask her out and give her the dress, when she said she wanted to say something, and asked me out first.”
+“It’s worth a shot, isn’t it, you’ll never ask her out if you don’t try,” Rarity answered, “besides, maybe she likes you and will ask you out first, that’s how it happened to me and Pinkie. I was about to ask her out, when she said she wanted to say something, and asked me out first.”
 
 “You really think she might like me already?” Fluttershy asked.
 
@@ -484,19 +484,37 @@ Twilight took a moment to answer, thinking before saying, “I’m sure she will
 
 “Thanks Twilight,” Rarity said as they stopped in front of her door, she turned to Twilight and gave her a hug, “I probably sound like a broken record with how much I’ve thanked you guys.”
 
-Twilight returned the hug, saying, ”don’t worry about it, we're all here for you and want to be you be happy.”
+Twilight returned the hug, saying, ”don’t worry about it, we're all here for you and want you to be happy.”
 
 Letting go of the hug, Rarity said, “goodnight,” as she smiled at Twilight.
 
 Twilight smiled back and said, “goodnight,” a moment later, Twilight started walking towards her home as Rarity opened the door to her boutique.
 
-Rarity trotted in the kitchen, where she found Sweetie Belle coming down the stairs.
+Rarity trotted in the kitchen, looking around she found nothing out of place but could hear a pony walking down the stairs. Looking at the stairs, she found Sweetie Belle stop at the bottom and look at her.
 
-Stopping at the bottom of the stairs, Sweetie Belle asked, “how did the party go?”
+Sweetie Belle asked, “how did the party go?”
 
-“It went well. Does mac n’ cheese sound good for dinner? I am somewhat drained from the party, so something easy would be nice,” Rarity asked.
+"The party was great, I was a little nervous at the start but everything turned out great", Rarity answered.
 
-“That sounds delicious,” Sweetie Belle answered.
+"Why would you be nervous, aren't parties suppose to be fun?" Sweetie Belle asked, looking at Rarity confused.
 
-Rarity began to make the dinner, softly humming to herself with a pang of exhaustion in her voice. She was tired but happy.
+"Yes, yes they are, but this was a different kind of party, Pinkie and I had a bit of an announcement to make to our friends,"
+
+"Oh, what kind of announcement?"
+
+"How about I tell you over dinner, what do you want to eat?" Rarity asked. *Please be something simple*, she thought.
+
+Sweetie Belle thought for a moment before asking, "how about sandwiches, and chocolate milk?"
+
+*Yay, something easy*, Rarity thought, then replied, "sounds delicious, what would you like on yours?"
+
+Sweetie Belle answered, "daisies."
+
+Rarity began to make the dinner, softly humming to herself quieter that she normally would.
+
+She quickly made both of their sandwiches and placed them on the table, then levitated out some glasses and poured them each a cup of chocolate milk.
+
+Sweetie Belle smiled at Rarity before saying, "thank you!"
+
+"You're most welcome," Rarity replied as she sat down and started eating her food.
 
