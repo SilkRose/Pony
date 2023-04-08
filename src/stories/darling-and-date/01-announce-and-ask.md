@@ -518,3 +518,28 @@ Sweetie Belle smiled at Rarity before saying, "thank you!"
 
 "You're most welcome," Rarity replied as she sat down and started eating her food.
 
+After eating one third of her sandwich, Rarity placed it on her plate, then said, "Pinkie and I are dating, and the party was to announce our relationship to our friends."
+
+Sweetie Belle finished the bit of food she was chewing, sat her food down, then looked at Rarity with her mouth agape.
+
+"What, it can't be that much of a shock," Rarity said.
+
+Sweetie Belle closed her mouth before going silent for a moment, then asking, "what's it like, being with somepony?" before picking up her sandwich and continuing to eat.
+
+"Well, if you're with the right pony, it can be everything you've ever wanted," Rarity answered.
+
+Setting her food down again, Sweetie Belle asked, "how do you know you've found the right pony?" before again continuing to eat.
+
+"Its a feeling, and if both ponies feel it you'll know. Think if both ponies want to spend a lot of time together and are fond of each other romantically," Rarity answered.
+
+Sweetie Belle finished her food, then drank the last of her chocolate milk.
+
+Rarity sat her food down and asked, "is there somepony you've got your eye on?"
+
+Sweetie Belle blushed, looked away and said, "time for bed, I'm done with my dinner."
+
+Rarity got up and embraced Sweetie Belle in a hug, "you don't have to tell me anything, but I'm always here if you need advice or want to talk."
+
+Sweetie Belle hugged Rarity back, "thanks, love you big sis."
+
+Rarity smiled, "love you too."
