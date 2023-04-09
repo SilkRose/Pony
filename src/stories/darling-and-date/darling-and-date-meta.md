@@ -98,7 +98,7 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 	54. (Potentially leads into side story where Sweetie Belle has a crush on a pony from school?)
 	55. Rarity tucks Sweetie Belle into sleep and lays down herself.
 
-2. Practice and Plan:
+[Chapter 2: Practice and Plan](02-practive-and-plan.md):
  - Alternating Fluttershy practicing with Rarity to ask Rainbow Dash out, and Pinkie planning her date with Rarity. 4 practice session, 4 ponies to help Pinkie.
 	 1. Fluttershy shows up at Rarity's.
 	 2. Sweetie Belle wants to ask Rarity more about dating.
