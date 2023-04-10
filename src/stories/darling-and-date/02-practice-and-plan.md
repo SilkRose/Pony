@@ -22,3 +22,17 @@ Rarity looked at Sweetie Belle with a raised eyebrow before turning to Fluttersh
 
 Fluttershy sat down and both adult ponies looked at Sweetie Belle expectantly.
 
+Sweetie Belle took a moment before asking, "how do I know if somepony I like, likes me back?"
+
+Rarity answered, "the easiest way is to ask, but there are other signs you can look for."
+
+Fluttershy looked at Rarity, "like what?"
+
+Rarity replied, "behavioral changes are probably the biggest tell. Do they walk closer to you? Are they wanting to spend more time together? Do they stare at you? Are they more shy around you? Are they more intimate with you? There's more but you probably get the idea."
+
+Sweetie Belle asked another question, "you are dating Pinkie Pie, does that mean its fine that I like another filly?"
+
+"Absolutely," Rarity said, "you can like whatever you like, we won't judge you for being you."
+
+"Thank you," Sweetie Belle replied.
+
