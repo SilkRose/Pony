@@ -34,5 +34,17 @@ Sweetie Belle asked another question, "you are dating Pinkie Pie, does that mean
 
 "Absolutely," Rarity said, "you can like whatever you like, we won't judge you for being you."
 
-"Thank you," Sweetie Belle replied.
+"Thank you," Sweetie Belle replied, "last question, how do I ask them out?"
+
+Rarity answered, "if you have the willpower a simple 'hey, do you want to go out with me?', but you can also add flair to give it a personal touch."
+
+Sweetie Belle said, "okay."
+
+Rarity continued, "when I was pinning for Pinkie I waited a while before deciding to just ask her, and she ended up beating me to it, maybe that will happen to you too."
+
+Sweetie Belle replied, "Thank you for answering my questions, I'm going to go hang out with her today."
+
+Rarity said, "okay, be safe darling."
+
+Sweetie Belle got down from the table and left the kitchen, then leaving her house.
 
