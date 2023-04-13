@@ -48,3 +48,51 @@ Rarity said, "okay, be safe darling."
 
 Sweetie Belle got down from the table and left the kitchen, then leaving her house.
 
+Rarity turned to Fluttershy and asked, "are you ready to start practice?"
+
+Fluttershy answered, "yes."
+
+"Let's go into the main room, we can sit on the couch for this," Rarity said before walking into the other room.
+
+Fluttershy followed her and sat on the couch, looking at Rarity for guidance.
+
+Rarity explained, "pretend I'm Rainbow Dash and ask me out."
+
+*You can do this*, Fluttershy thought.
+
+Giving it her best shot, Fluttershy opened her mouth... and mouthed the words with nothing coming out.
+
+Rarity said, "well, that's a start."
+
+"How do I make the words come out?" Fluttershy asked.
+
+"You've got to make them come out," Rarity said, "your desire to be with Rainbow must be higher than your fear of rejection."
+
+"How is practicing going to help do that?" Fluttershy asked.
+
+"Hopefully its going to lower your fear of rejection, by showing you how it *could* go," Rarity answered, "we will also practice being rejected."
+
+"What do I do now?" Fluttershy asked.
+
+"Keep practicing, even if it is just mouthing the words," Rarity answered.
+
+Fluttershy tried again, still only mouthing the words.
+
+*Come on Fluttershy, you can do this!*
+
+She tried again, same result.
+
+She kept trying again and again, all while Rarity sat there patiently.
+
+Every time she failed, she only wanted to prove she could do it more.
+
+*You got this. You must do this if you want the chance to be with her.*
+
+She tried again, this time making a sound, not even a full word or part of a word, but a sound.
+
+"That's progress, you're doing great," Rarity said.
+
+This made Fluttershy feel better.
+
+*You will ask Rainbow out!*, she thought.
+
