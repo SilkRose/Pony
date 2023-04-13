@@ -96,3 +96,9 @@ This made Fluttershy feel better.
 
 *You will ask Rainbow out!*, she thought.
 
+She tried again.
+
+"R..." She managed to say.
+
+Rarity smiled at Fluttershy, "you can do it!"
+
