@@ -102,3 +102,23 @@ She tried again.
 
 Rarity smiled at Fluttershy, "you can do it!"
 
+Fluttershy tried again. "R..." same result.
+
+She tried over and over, each time giving herself a little pep talk before each attempt.
+
+*You can do this, Fluttershy!*
+
+*You will overcome this obstacle!*
+
+*You must be able to do this!*
+
+*You will do it for her.*
+
+Eventually she managed something resembling a word.
+
+"Rain..." Fluttershy said.
+
+Rarity hugged Fluttershy, "you got this, you're doing great darling."
+
+Fluttershy returned the hug, "thank you."
+
