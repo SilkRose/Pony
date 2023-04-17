@@ -4,5 +4,7 @@
   "note-refactor-obsidian",
   "obsidian-hover-editor",
   "obsidian-text-format",
-  "better-word-count"
+  "better-word-count",
+  "longform",
+  "obsidian-pandoc"
 ]
