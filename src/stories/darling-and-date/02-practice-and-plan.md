@@ -122,3 +122,19 @@ Rarity hugged Fluttershy, "you got this, you're doing great darling."
 
 Fluttershy returned the hug, "thank you."
 
+Fluttershy closed her eyes, letting her mind wonder. She thought of the pony she yearned for.
+
+*Oh Rainbow, I wish I could just tell you. Hopefully this practice works.*
+
+Rarity had let go of the hug, but Fluttershy only hugged Rainbow tighter. Rarity just sat there for her friend, letting her have a break.
+
+A few moments later Fluttershy realized she wasn't holding Rainbow Dash, "oh, sorry Rarity."
+
+"Ti's nothing, darling," Rarity answered, "I'm always here to help."
+
+"Thanks," Fluttershy replied.
+
+"Do you want to keep practicing?" Rarity asked.
+
+"Yes," Fluttershy answered with a determined look.
+
