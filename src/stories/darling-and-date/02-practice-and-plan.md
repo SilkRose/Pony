@@ -138,3 +138,7 @@ A few moments later Fluttershy realized she wasn't holding Rainbow Dash, "oh, so
 
 "Yes," Fluttershy answered with a determined look.
 
+Fluttershy continued to practice, "Rainb..."
+
+She would get so far and then just freeze up, taking her a moment before she could try again.
+
