@@ -130,7 +130,7 @@ Rarity had let go of the hug, but Fluttershy only hugged Rainbow tighter. Rarity
 
 A few moments later Fluttershy realized she wasn't holding Rainbow Dash, "oh, sorry Rarity."
 
-"Ti's nothing, darling," Rarity answered, "I'm always here to help."
+"Ti's nothing, darling," Rarity answered, "I'm always here for you."
 
 "Thanks," Fluttershy replied.
 
@@ -141,4 +141,18 @@ A few moments later Fluttershy realized she wasn't holding Rainbow Dash, "oh, so
 Fluttershy continued to practice, "Rainb..."
 
 She would get so far and then just freeze up, taking her a moment before she could try again.
+
+"Rainb..."
+
+*Come on Fluttershy, you can do this!*
+
+"Rainbo..."
+
+She kept going until she was able to say her full name.
+
+"Rainbow Dash..."
+
+Rarity congratulated Fluttershy on her progress, "you are doing great, darling."
+
+"thank you, Rarity," Fluttershy replied, "your patience and support are really helping."
 
