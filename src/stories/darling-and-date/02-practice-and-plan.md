@@ -156,3 +156,41 @@ Rarity congratulated Fluttershy on her progress, "you are doing great, darling."
 
 "thank you, Rarity," Fluttershy replied, "your patience and support are really helping."
 
+Fluttershy leaned back on the couch, lowering her shoulders and letting out a tired breath.
+
+Rarity asked, "would you like to take a break darling?"
+
+"Sure," Fluttershy answered, "overcoming social interactions is hard."
+
+"Yes, it took me quite a while before I was able to just ask her out," Rarity said.
+
+"Do, you really think I can do it, Rarity?" Fluttershy asked in a demur tone.
+
+"I know you can," Rarity answered, "I believe in you and will do everything I can to help you ask her out!"
+
+"Thank you, Rarity," Fluttershy said.
+
+After a few seconds of silence Rarity asked, "what made you realize you liked her more than a friend? If you don't mind sharing, of course."
+
+"I feel safest around her," Fluttershy said after a few seconds, "she is always there for me and does things for me even when I know she doesn't want to."
+
+Fluttershy continued, "we have been close friends since childhood, I feel a closeness to her that's hard to explain. When she puts her wing around me, I can barely keep it in, my heart just flutters..."
+
+"don't even get me started on her looks, she's so pretty. How does she look so cool and beautiful at the same time? How am I suppose to get her interested in me? Oh, I want to kiss her so much..."
+
+Fluttershy realized she was rambling, stopped speaking and turned to Rarity.
+
+"Sounds like you love her," Rarity said.
+
+"I do," Fluttershy said.
+
+Rarity replied, "you need to channel you love into asking her out, use it as your determination to ask her out."
+
+Fluttershy said, "I'll try, Rarity."
+
+After a moment of silence Fluttershy asked, "how about you?"
+
+"Beg your pardon?" Rarity asked.
+
+Fluttershy asked, "what made you realize you liked Pinkie romantically?"
+
