@@ -18,10 +18,13 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 ### Ideas
 - Have sub-plot of Rainbow and Fluttershy liking each other, they ask each other out in an epilogue.
 - Each friend helps with one thing:
-	- Applejack - Provides the place and sets up the picnic with food for the end of the date.
-	- Fluttershy - Helps make Rarity a dress for Pinkie to give her.
-	- Twilight Sparkle - Provides royal carriage for transportation on the date.
 	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell ‘Rarity <3 Pinkie’.
+	- Fluttershy - Helps make Rarity a dress for Pinkie to give her.
+	- Applejack - Provides the place and sets up the picnic with food for the end of the date.
+	- Twilight Sparkle - Provides royal carriage for transportation on the date.
+- Rarity and Pinkie also pick something for the date:
+	- Rarity - Rarity just wants to spend time with Pinkie.
+	- Pinkie - Pinkie wants the same so she comes with the idea of ending the date with a sleepover.
 * At the end of the party, Twilight walks with Rarity home, they talk on the way. Rarity is excited about the date, something she says gives Twilight the idea to barrow the royal carriage.
 
 ### Flow
@@ -102,30 +105,33 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
  - Alternating Fluttershy practicing with Rarity to ask Rainbow Dash out, and Pinkie planning her date with Rarity. 4 practice session, 4 ponies to help Pinkie.
 	 1. Fluttershy shows up at Rarity's.
 	 2. Sweetie Belle wants to ask Rarity more about dating.
-	 3. Rarity says she cant because she is doing something with Fluttershy, but Fluttershy says she is kinda curious too.
-	 4. Rarity agrees and they sit down together to ask about relationships.
+	 3. Sweetie Belle says Fluttershy can stay.
+	 4. They sit down together to ask about relationships.
 	 5. After they are done Sweetie Belle leaves to go play with her friends.
 	 6. Fluttershy practices with Rarity to have the courage to ask Rainbow Dash out.
-	 7. Pinkie goes to Rainbow Dash to start planning her date.
-	 8. Rainbow doesn't immediately know how she can help.
-	 9. Pinkie asks her what she would say she is good at.
-	 10. Rainbow says flying.
-	 11. Pinkie thinks of a few non-starter ideas before suggesting she could do a flight show.
-	 12. Rainbow really likes this idea, deciding she will practice it the whole week.
-	 13. Pinkie is excited to see it.
-	 14. Fluttershy practices more with Rarity the next day, getting more confident in herself.
-	 15. Rarity tells Fluttershy about the dress she gave Pinkie, as a gesture of her feelings towards her.
-	 16. This gives Fluttershy the idea that maybe she could help Pinkie by helping her make a dress to give to Rarity for their date.
-	 17. Pinkie goes to Twilight with Rainbow to see how she can help.
-	 18. Rainbow tells Twilight about her flight show idea.
-	 19. Twilight has an aha moment and realizes what she might be able to do.
-	 20. She explains to them she could try to get a royal carriage for them, as transportation to and from the places of the date.
-	 21. Pinkie likes this idea.
-	 22. Twilight says to check back with her tomorrow to see what Celestia says.
-	 23. After they leave Twilight's Pinkie asks how her routine is going.
-	 24. Rainbow says its going good, she's confident it will be ready in time.
-	 25. This makes Pinkie excited. Pinkie hugs dash.
-	 26. 
+	 7. While practicing they talk about what made them realize they liked the other pony.
+	 8. At the end of the first practice session Fluttershy is able to say out loud "Rainbow Dash, will you go out with me?"
+	 9. Rarity tells her next practice session she will dress up to look like Rainbow Dash.
+	 10. Pinkie goes to Rainbow Dash to start planning her date.
+	 11. Rainbow doesn't immediately know how she can help.
+	 12. Pinkie asks her what she would say she is good at.
+	 13. Rainbow says flying.
+	 14. Pinkie thinks of a few non-starter ideas before suggesting she could do a flight show.
+	 15. Rainbow really likes this idea, deciding she will practice it the whole week.
+	 16. Pinkie is excited to see it.
+	 17. Fluttershy practices more with Rarity the next day, getting more confident in herself.
+	 18. Rarity tells Fluttershy about the dress she gave Pinkie, as a gesture of her feelings towards her.
+	 19. This gives Fluttershy the idea that maybe she could help Pinkie by helping her make a dress to give to Rarity for their date.
+	 20. Pinkie goes to Twilight with Rainbow to see how she can help.
+	 21. Rainbow tells Twilight about her flight show idea.
+	 22. Twilight has an aha moment and realizes what she might be able to do.
+	 23. She explains to them she could try to get a royal carriage for them, as transportation to and from the places of the date.
+	 24. Pinkie likes this idea.
+	 25. Twilight says to check back with her tomorrow to see what Celestia says.
+	 26. After they leave Twilight's Pinkie asks how her routine is going.
+	 27. Rainbow says its going good, she's confident it will be ready in time.
+	 28. This makes Pinkie excited. Pinkie hugs dash.
+	 29. 
 3. Darling and Date:
  - Rarity and Pinkie go on the date.
 4. Epilogue - ?:
