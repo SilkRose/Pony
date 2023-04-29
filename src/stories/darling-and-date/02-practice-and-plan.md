@@ -194,3 +194,25 @@ After a moment of silence Fluttershy asked, "how about you?"
 
 Fluttershy asked, "what made you realize you liked Pinkie romantically?"
 
+Rarity answered, "how she can always makes me smile. She is always doing her best to make everypony smile. Whenever I'm having a bad day, she is always there for me. Even her just being with me makes me feel better."
+
+"Her creativity, if I'm out of ideas for a dress, she tries so hard to help come up with some, sure some of them don't always work, but she gets there in the end."
+
+"She's so pretty, my heart skips a beat just looking at her. Her smile is just so infectious, it's impossible to not smile back at her. Her kisses are like magic, each one makes my head spin and my ears drop."
+
+"I wish we could spend more time together, but we're both very busy mares," Rarity finished.
+
+Fluttershy replied, "you should get your wish when you go on your date."
+
+"Yes, I'm very excited for it, I can't wait to see what Pinkie has planned," Rarity said.
+
+"The idea of going on a date with Rainbow Dash makes me nervous, I would probably ruin it by being too shy," Fluttershy lamented.
+
+"Oh, don't say that, I bet you two would have a lovely time. I do hope she says yes, I'm positive you two would be great together!" Rarity said.
+
+"You really think so?" Fluttershy asked.
+
+"Absolutely darling," Rarity answered.
+
+"Thanks, Rarity, I hope so too," Fluttershy said.
+
