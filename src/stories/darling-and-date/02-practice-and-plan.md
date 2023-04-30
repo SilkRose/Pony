@@ -214,5 +214,45 @@ Fluttershy replied, "you should get your wish when you go on your date."
 
 "Absolutely darling," Rarity answered.
 
-"Thanks, Rarity, I hope so too," Fluttershy said.
+"Thanks Rarity, I hope so too," Fluttershy said.
+
+"do you want to get back to practicing?" Rarity asked.
+
+Fluttershy answered, "yes."
+
+<p align="center">***</p>
+
+Rainbow Dash stepped out of her front door, closing it behind her. She took a few steps to the ledge of her houses landing, before falling off and spreading her wings. She flew towards Sugarcube Corner while grappling with her feelings for Fluttershy.
+
+*You've got to ask her out at some point.*
+
+*but what if she says no?* she argued with herself.
+
+*Then accept it, go cry to yourself and move on.*
+
+*I don't want to cry, I want to be with Fluttershy...*
+
+*The only way you will find out if she likes you back is to ask.*
+
+*I know...*
+
+*Why are you putting it off?*
+
+*...I don't want to be vulnerable, I'm supposed to be tough.*
+
+*You are tough, but you of all ponies should know that to get the reward you have to accept the risk, besides, would Fluttershy ever want to hurt you?*
+
+*No.*
+
+*Then when are you going to ask her out?*
+
+Rainbow thought for a moment before deciding.
+
+*After Rarity and Pinkie go on their date, don't want to get in their way of having a good time.*
+
+*Okay, I'm holding you to it.*
+
+*...But you're me?*
+
+Before she could think about it anymore she spotted her destination and started descending down to it. Landing a few steps from the door she trotted into the establishment. She looked around, not seeing Pinkie anywhere she trotted up the stairs and knocked on her door.
 
