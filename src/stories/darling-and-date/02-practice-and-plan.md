@@ -222,7 +222,7 @@ Fluttershy answered, "yes."
 
 <p align="center">***</p>
 
-Rainbow Dash stepped out of her front door, closing it behind her. She took a few steps to the ledge of her houses landing, before falling off and spreading her wings. She flew towards Sugarcube Corner while grappling with her feelings for Fluttershy.
+Rainbow Dash stepped out of her front door, closing it behind her. She took a few steps to the ledge of her house's landing, before falling off and spreading her wings. She flew towards Sugarcube Corner while grappling with her feelings for Fluttershy.
 
 *You've got to ask her out at some point.*
 
@@ -240,6 +240,8 @@ Rainbow Dash stepped out of her front door, closing it behind her. She took a fe
 
 *...I don't want to be vulnerable, I'm supposed to be tough.*
 
+Rainbow noticed Fluttershy walking into Carousel Boutique below her but didn't comment on it.
+
 *You are tough, but you of all ponies should know that to get the reward you have to accept the risk, besides, would Fluttershy ever want to hurt you?*
 
 *No.*
@@ -255,4 +257,26 @@ Rainbow thought for a moment before deciding.
 *...But you're me?*
 
 Before she could think about it anymore she spotted her destination and started descending down to it. Landing a few steps from the door she trotted into the establishment. She looked around, not seeing Pinkie anywhere she trotted up the stairs and knocked on her door.
+
+Waiting a few moments with no answer she knocks again. After another moment with no answer, she says, "Pinkie, are you in there?" then places her ear against the door.
+
+Not hearing any response she opens the door and walks inside, looking around, she finds out why she hadn't got an answer, Pinkie was still in bed.
+
+Rainbow trotted to her bedside and placed her hoof on Pinkie's resting form saying, "Pinkie?" as she gently shook her.
+
+Pinkie didn't wake up, instead whispering in her sleep, "Rarity.. I want to kiss.. you.."
+
+Rainbow tried again, shaking her a little harder, "Pinkie?"
+
+This time it seemed to work, as Pinkie opened her eyes and started to yawn.
+
+Turning to Rainbow she asked, "hi Dashie, what's up?"
+
+"I came over to help you plan your date, and to eat breakfast if you're willing to make some," Rainbow answered as her stomach growled.
+
+"Sure," Pinkie said with a smile as she got out of bed. She started to stretch before trotting to the door, "let's go downstairs and I'll make us something deliciously delectable."
+
+Rainbow followed her out her door and down into the restaurant's kitchen.
+
+"Got any requests?" Pinkie asked.
 
