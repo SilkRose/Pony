@@ -176,7 +176,7 @@ After a few seconds of silence Rarity asked, "what made you realize you liked he
 
 Fluttershy continued, "we have been close friends since childhood, I feel a closeness to her that's hard to explain. When she puts her wing around me, I can barely keep it in, my heart just flutters..."
 
-"don't even get me started on her looks, she's so pretty. How does she look so cool and beautiful at the same time? How am I suppose to get her interested in me? Oh, I want to kiss her so much..."
+"Don't even get me started on her looks, she's so pretty. How does she look so cool and beautiful at the same time? How am I suppose to get her interested in me? Oh, I want to kiss her so much..."
 
 Fluttershy realized she was rambling, stopped speaking and turned to Rarity.
 
@@ -284,7 +284,7 @@ Rainbow thinks for a second before deciding, "pancakes."
 
 "Okay, coming right up," Pinkie says before starting to get out the bake ware for pancakes.
 
-"you're pancakes are the best, Pinkie," Rainbow said.
+"You're pancakes are the best, Pinkie," Rainbow said.
 
 "Thanks," Pinkie replied before she started humming to herself.
 
@@ -296,7 +296,7 @@ Rainbow answered, "four."
 
 "You got it," Pinkie said before continuing to hum.
 
-Rainbow starred off into space as she thought about Pinkie's words from last night.
+Rainbow stared off into space as she thought about Pinkie's words from last night.
 
 *Has Fluttershy's behavior changed lately?*
 
@@ -328,13 +328,13 @@ Rainbow thought about Fluttershy while Pinkie ate.
 
 *Fluttershy sure is special, I hope she says yes.*
 
-starring at her empty plate she thought, *maybe one day I''ll make pancakes for Fluttershy, that'd be cool.*
+staring at her empty plate she thought, *maybe one day I''ll make pancakes for Fluttershy, that'd be cool.*
 
 *Pinkie would be happy to teach you, you know.*
 
 *Yea, I'll ask her when she's done eating.*
 
-*Isn't that a crazy idea, Rainbow Dash making pancakes for her mare-friend. Love makes you do stuff you never thought you would. I'd be happy to do it for her though.*
+*Isn't that a crazy idea, Rainbow Dash making pancakes for her marefriend. Love makes you do stuff you never thought you would. I'd be happy to do it for her though.*
 
 As Pinkie finished her pancakes, Rainbow looked up at her and asked, "hey, Pinkie, do you think you could teach me how to make pancakes some time? I was thinking it'd be cool if I could make them for Fluttershy."
 
@@ -427,4 +427,28 @@ Rainbow asks, "is it okay if we separate them? You talk to Fluttershy about the 
 "Okay, sounds like a plan," Pinkie said.
 
 <p align="center">***</p>
+
+"Rainbow Dash, w..." Fluttershy managed.
+
+"You're doing great, darling," Rarity exclaimed.
+
+"Rarity, how do I know I wont just lose all my progress once I'm in front of Rainbow Dash?" Fluttershy asked.
+
+"I saw that coming, and I am prepared, after you are fully able to say it, I am going to barrow a Rainbow Dash costume from Pinkie. I will wear the costume and we can practice you asking me out while I'm dressed liked Rainbow," Rarity answered.
+
+"Oh, my," Fluttershy said, "you thought of everything."
+
+"I do my best," Rarity said.
+
+Fluttershy continued her practicing, "Rainbow Dash, W..."
+
+*You will ask her out.*
+
+"Rainbow Dash, W..." Fluttershy said.
+
+*You can do this, Fluttershy!*
+
+"Rainbow Dash, Wi..." Fluttershy said.
+
+"You got this!" Rarity said.
 
