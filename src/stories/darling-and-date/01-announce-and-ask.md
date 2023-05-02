@@ -416,7 +416,7 @@ Pinkie asked, “any other questions?”
 
 "What made you want to date Rarity?" Rainbow asked.
 
-"Well, at first, I didn’t realize I liked her, I just wanted to spend more time around her, started noticing her perfume more, savoring her hugs. Once I realized I had a crush I noticed more, I was more giddy in her presence, I liked how she was generous and tries to make ponies smile. I really like her sparkle, as a pony from the far distant future might say. And she is super-duper pretty,” Pinkie answered.
+"Well, at first, I didn’t realize I liked her, I just wanted to spend more time around her, started noticing her perfume more, savoring her hugs. Once I realized I had a crush I noticed more, I was more giddy in her presence, I liked how she is generous and tries to make ponies smile. I really like her sparkle, as a pony from the far distant future might say. And she is super-duper pretty, I could stare at those eyes for hours, so beautiful,” Pinkie answered.
 
 “That's awesome, I’m glad you two got together,” Rainbow replied.
 
@@ -434,7 +434,7 @@ They continued to clean for a bit before Pinkie broke the silence.
 
 “Do you think Fluttershy likes you?” Pinkie asked.
 
-Rainbow thought for a moment before answering, eventually saying, “I don’t know, sometimes I think she does and others I don’t. At this party while you two danced I was distracted and put my wing around her, at first she leaned into it, I thought that was a sign, but then she went real quick to get a drink and left the room with Rarity.”
+Rainbow thought for a moment before answering, eventually saying, “I don’t know, sometimes I think she does and others I don’t. At this party while you two danced I was distracted and put my wing around her, at first she leaned into it, I thought that was a sign, but then I tensed up when Rarity was looking, I probably ruined the moment... Then she went real quick to get a drink and left the room with Rarity.”
 
 Pinkie responded, “maybe you should ask Rarity what they did, they could have been just using the bathroom.”
 
@@ -446,6 +446,14 @@ Rainbow replied, “I’m going to ask Rarity tomorrow.”
 
 Pinkie said, ”okie-dokie-lokie.”
 
+After a bit more cleaning, Pinkie asked another question, "What made you realize you liked Fluttershy?"
+
+Rainbow thought for a seconds, before saying, "I feel a connection with her, I want to always be there for her. I want to protect her. I feel safe around her in a sense of judgement, I know you girls would never judge me, but its different with her. I feel like I don't always have to be the tough cool pony all the time with her. I feel like I could let my guard down and she would never hurt me. Also, she's really hot."
+
+"I hope it works out, I love seeing my friends happy," Pinkie said.
+
+"thanks, me too," Rainbow said.
+
 Rainbow put away the last of the balloons into Pinkie’s cabinet, then turns to Pinkie saying, “That’s almost all the decorations cleaned up, I’m going to head out, so I can catch up to Fluttershy and Applejack before they get home.”
 
 “Okay, thanks for the help,” Pinkie said as she walked to Rainbow and hugged her.
@@ -456,7 +464,7 @@ Pinkie replied, “goodbye.”
 
 After the hug was over, Rainbow flew out of Pinkies window, eager to see her crush.
 
-Pinkie closed the window behind her. Then finished cleaning up the rest of the party, she yawned as she looked around the room, seeing nothing left to pick up. She thought about starting to plan her date, but decided she would be more prepared after a good night's sleep. Going to bed early tonight, Pinkie laid down in her bed. She smiled as she fell asleep thinking of all the possibilities for her date, and the idea of her two friends dating, *I hope everything goes well for them, *she thought as she drifted off to sleep.
+Pinkie closed the window behind her. Then finished cleaning up the rest of the party, she yawned as she looked around the room, seeing nothing left to pick up. She thought about starting to plan her date, but decided she would be more prepared after a good night's sleep. Going to bed early tonight, Pinkie laid down in her bed. She smiled as she fell asleep thinking of all the possibilities for her date, and the idea of her two friends dating, *I hope everything goes well for them,* she thought as she drifted off to sleep.
 
 <p align="center">***</p>
 
