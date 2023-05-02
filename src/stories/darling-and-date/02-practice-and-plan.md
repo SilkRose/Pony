@@ -280,3 +280,151 @@ Rainbow followed her out her door and down into the restaurant's kitchen.
 
 "Got any requests?" Pinkie asked.
 
+Rainbow thinks for a second before deciding, "pancakes."
+
+"Okay, coming right up," Pinkie says before starting to get out the bake ware for pancakes.
+
+"you're pancakes are the best, Pinkie," Rainbow said.
+
+"Thanks," Pinkie replied before she started humming to herself.
+
+Rainbow sat down at the kitchen table and watched Pinkie work.
+
+Pinkie looked back at Dash, asking, "how many you want?"
+
+Rainbow answered, "four."
+
+"You got it," Pinkie said before continuing to hum.
+
+Rainbow starred off into space as she thought about Pinkie's words from last night.
+
+*Has Fluttershy's behavior changed lately?*
+
+*Well, there was last night, I put my wing around her and she leaned into me.*
+
+*..But then I ruined it by tensing up, that's probably why her and Rarity left the room.*
+
+*I hope not..*
+
+*But Fluttershy is at Rarity's right now, doesn't that make Pinkie's theory of Rarity needing help make sense?*
+
+*You make a good point, me. We'll find out for sure when I ask Rarity today.*
+
+*Okay.*
+
+Rainbow lost her train of thought as Pinkie sat a stack of pancakes in front of her.
+
+Rainbow said, "wow, you make them fast."
+
+Pinkie replied, "thank you," as she started making her own pancakes.
+
+Rainbow started eating, she finished 3 of her pancakes by the time Pinkie sat down with her own stack, twice as high as Dash's own.
+
+Rainbow finished her last one then said, "that was great, thank you for the breakfast."
+
+"You're welcome," Pinkie said in between bites of her own pancakes.
+
+Rainbow thought about Fluttershy while Pinkie ate.
+
+*Fluttershy sure is special, I hope she says yes.*
+
+starring at her empty plate she thought, *maybe one day I''ll make pancakes for Fluttershy, that'd be cool.*
+
+*Pinkie would be happy to teach you, you know.*
+
+*Yea, I'll ask her when she's done eating.*
+
+*Isn't that a crazy idea, Rainbow Dash making pancakes for her mare-friend. Love makes you do stuff you never thought you would. I'd be happy to do it for her though.*
+
+As Pinkie finished her pancakes, Rainbow looked up at her and asked, "hey, Pinkie, do you think you could teach me how to make pancakes some time? I was thinking it'd be cool if I could make them for Fluttershy."
+
+"Sure," Pinkie said before she got up from the table. She picked up their dishes and placed them in the sink. Sitting back down at the table she said, "when do you wanna learn?"
+
+"How about after we get your date planned? So it doesn't get in the way of the planning," Rainbow answered.
+
+"Okay," Pinkie said.
+
+"How are you wanting to plan the date?" Rainbow asked.
+
+"I can use my party planning skills and all our friends ideas to make the best date we can," Pinkie answered.
+
+"Okay," Rainbow said, "do you have any idea what I could contribute?"
+
+"I want you to keep the weather clear for the date," Pinkie answered.
+
+"I can do that," Rainbow said, "but I want to do more, if I can."
+
+"Like what?" Pinkie asked.
+
+"I don't know yet," Rainbow said, "got any ideas?"
+
+Pinkie thought for a moment before saying, "maybe you could pull us around on our date in a chariot."
+
+Rainbow thought on this for a moment.
+
+*While I think that would be helpful I don't know if that would be awkward or not.*
+
+*I don't think I'd fit the part, they'd probably want a fancy chariot and I'm no fancy pony.*
+
+*Hmm*
+
+"Aha," Rainbow Dash said, "you should ask Twilight for a royal chariot, I feel like that would suit Rarity far more than a boring old chariot pulled by me."
+
+"Ooh, that's a great idea," Pinkie said, "but what would you do then?"
+
+*Hmm, what am I good at?*
+
+*Oh yea, being awesome!*
+
+"I could perform for your date as private entertainment, what do you think?" Rainbow answered.
+
+"That's a awesome idea," Pinkie said.
+
+"I can practice for it every day until the date, I'm sure I can come up with something awesome by then," Rainbow confidently said.
+
+"Okay, thank you," Pinkie said.
+
+"Now, what are you planning on bringing to the date, besides yourself?" Rainbow asked.
+
+"Rarity," Pinkie answered earnestly.
+
+"No, I mean what is your contribution," Rainbow clarified.
+
+"Oh," Pinkie replied, "I haven't figured something out yet."
+
+"What are some ideas you think you could contribute?" Rainbow asked.
+
+Pinkie sits there in thought for a bit, before saying, "I'm good at singing and baking sweets. Maybe I could make our desert."
+
+"That's good," Rainbow said.
+
+"But I feel like I want to do more," Pinkie lamented.
+
+Rainbow thought for a moment before saying, "well, you said you're a good singing so write her a song to show her you're love."
+
+"That's a great idea," Pinkie said.
+
+Pinkie got up from the table and hugged Rainbow, "thank you."
+
+Rainbow hugged back, "you're welcome Pinkie."
+
+After the hug was over Pinkie asked, "who should we go talk to next about planning the party?"
+
+Rainbow thought for a moment as a memory of Fluttershy entering Carousel Boutique entered her mind, "Rarity and Fluttershy, their both at Rarity's I think."
+
+Pinkie said, ”okie-dokie-lokie,” before starting for the door, Rainbow following behind her.
+
+After leaving the establishment, Rainbow said, "I need to ask Rarity about why her and Fluttershy left the room last night."
+
+Pinkie said, "okay."
+
+Rainbow asks, "is it okay if we separate them? You talk to Fluttershy about the date plan and I can ask Rarity about last night."
+
+"Sure," Pinkie said, "but what about asking Rarity about her part of the date?"
+
+"I can ask her if you want," Rainbow said.
+
+"Okay, sounds like a plan," Pinkie said.
+
+<p align="center">***</p>
+
