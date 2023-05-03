@@ -452,3 +452,65 @@ Fluttershy continued her practicing, "Rainbow Dash, W..."
 
 "You got this!" Rarity said.
 
+"Rainbow Dash, Wi..." Fluttershy said.
+
+*You will overcome your anxiety.*
+
+"Rainbow Dash, Wil..." Fluttershy managed.
+
+Fluttershy continued to practice, each time giving herself encouragement.
+
+*You can do it!*
+
+*Rainbow Dash will hear you.*
+
+*You must be able to ask her out.*
+
+*She will know how you truly feel.*
+
+Fluttershy managed to say, "Rainbow Dash, will you..."
+
+Rarity gave Fluttershy a congratulatory hug, "you are doing great darling, you've made good progress."
+
+"Thanks Rarity," Fluttershy said returning the hug.
+
+After the hug was over, Rarity asked, "how do you feel now? Do you have more confidence than when we started?"
+
+Fluttershy answered, "I feel better, I feel like I have hope that I could actually do it eventually."
+
+"That's excellent darling," Rarity said.
+
+Fluttershy started practicing again, determined to do this.
+
+*You got this, Fluttershy!*
+
+"Rainbow Dash, will you..." Fluttershy said.
+
+"Rainbow Dash, will you g..." Fluttershy said.
+
+*You will succeed.*
+
+"Rainbow Dash, will you g..." Fluttershy said.
+
+"You can do it," Rarity said.
+
+"Rainbow Dash, will you go..." Fluttershy said.
+
+*Make progress, Fluttershy.*
+
+"Rainbow Dash, will you go..." Fluttershy said.
+
+Rarity sat there patiently, occasionally giving Fluttershy words of encouragement.
+
+"You will ask her out," Rarity said.
+
+"Rainbow Dash, will you go o..." Fluttershy said.
+
+*You're doing great!*
+
+"Rainbow Dash, will you go o..." Fluttershy said.
+
+*I believe in me.*
+
+"Rainbow Dash, will you go ou..." Fluttershy said.
+
