@@ -486,6 +486,8 @@ Fluttershy started practicing again, determined to do this.
 
 "Rainbow Dash, will you..." Fluttershy said.
 
+*I will do this!*
+
 "Rainbow Dash, will you g..." Fluttershy said.
 
 *You will succeed.*
@@ -513,4 +515,12 @@ Rarity sat there patiently, occasionally giving Fluttershy words of encouragemen
 *I believe in me.*
 
 "Rainbow Dash, will you go ou..." Fluttershy said.
+
+*I am determined!*
+
+"Rainbow Dash, will you go ou..." Fluttershy said.
+
+*My feelings will be known.*
+
+"Rainbow Dash, will you go out..." Fluttershy said.
 
