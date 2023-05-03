@@ -18,14 +18,13 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 ### Ideas
 - Have sub-plot of Rainbow and Fluttershy liking each other, they ask each other out in an epilogue.
 - Each friend helps with one thing:
-	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell ‘Rarity <3 Pinkie’.
+	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell ‘Rarity <3 Pinkie’, and clears the skies for their date.
 	- Fluttershy - Helps make Rarity a dress for Pinkie to give her.
-	- Applejack - Provides the place and sets up the picnic with food for the end of the date.
-	- Twilight Sparkle - Provides royal carriage for transportation on the date.
+	- Applejack - Provides the place and sets up the picnic with food for the end of the date, and provides dinner for the two.
+	- Twilight Sparkle - Provides royal carriage for transportation on the date, and helps time the date for sunset.
 - Rarity and Pinkie also pick something for the date:
-	- Rarity - Rarity just wants to spend time with Pinkie.
-	- Pinkie - Pinkie wants the same so she comes with the idea of ending the date with a sleepover? And maybe Pinkie sings Rarity a song.
-* At the end of the party, Twilight walks with Rarity home, they talk on the way. Rarity is excited about the date, something she says gives Twilight the idea to barrow the royal carriage.
+	- Rarity - Rarity just wants to spend time with Pinkie, so Pinkie asks Rarity is she wants to have a sleepover at the end of the date.
+	- Pinkie - Pinkie sings Rarity a song.
 
 ### Chapters
 [Chapter 1: Announce & Ask](01-announce-and-ask.md):
@@ -42,13 +41,19 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
  - Each pony contributes something, including Rarity and Pinkie. (See [ideas](#Ideas))
  - Pinkie, Rarity, Rainbow, and Fluttershy each at some point say why they fell in love with their desired pony.
 
-3. Darling and Date:
+3. Dressmaking and Determination
+ - Fluttershy helps Pinkie make a dress for Rarity.
+ - Pinkie teaches Rainbow how to make pancakes.
+
+5. Darling and Date:
  - Rarity and Pinkie go on the date.
 
-4. Epilogue - ?:
- - Fluttershy asks Rainbow out before Rainbow can ask her out.
- - Rainbow is taken aback, and says yes, excitedly.
- - They hug, then say that Rarity and Pinkie each knew their crushes respectively.
+6. Epilogue - Breakfast and Bonding:
+ - Rainbow Dash wakes Fluttershy up, asking her to come eat breakfast at her place.
+ - Rainbow Dash makes pancakes for Fluttershy.
+ - Fluttershy asks Rainbow out after they eat.
+ - Rainbow is taken aback but says yes excitedly.
+ - They hug while smiling.
 
 
 ### Cover
