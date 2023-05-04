@@ -426,6 +426,12 @@ Rainbow asks, "is it okay if we separate them? You talk to Fluttershy about the 
 
 "Okay, sounds like a plan," Pinkie said.
 
+"What day are you planning to have the date?" Rainbow asked.
+
+Pinkie thought for a few seconds before saying, "the day after tomorrow. Today we plan, tomorrow we get everything ready and the next day we date."
+
+"Okay," Rainbow said.
+
 <p align="center">***</p>
 
 "Rainbow Dash, w..." Fluttershy managed.
@@ -523,4 +529,56 @@ Rarity sat there patiently, occasionally giving Fluttershy words of encouragemen
 *My feelings will be known.*
 
 "Rainbow Dash, will you go out..." Fluttershy said.
+
+*You are so close Fluttershy.*
+
+"Rainbow Dash, will you go out..." Fluttershy said.
+
+*Two more words and you can take a break.*
+
+"Rainbow Dash, will you go out..." Fluttershy said.
+
+*I will do this.*
+
+"Rainbow Dash, will you go out w..." Fluttershy said.
+
+"I know you can do it!" Rarity cheered.
+
+"Rainbow Dash, will you go out wi..." Fluttershy said.
+
+*Come on Fluttershy, you can do it.*
+
+"Rainbow Dash, will you go out wi..." Fluttershy said.
+
+*I am able to do this.*
+
+"Rainbow Dash, will you go out with..." Fluttershy said.
+
+*I am brave enough to ask her out.*
+
+"Rainbow Dash, will you go out with..." Fluttershy said.
+
+*I am determined to ask her out!*
+
+"You are doing great!" Rarity said.
+
+"Rainbow Dash, will you go out with me?" Fluttershy asked.
+
+Rarity cheered for her, "you did it darling, you did it!"
+
+Fluttershy said, "I did it!"
+
+Rarity hugged Fluttershy, patting her on the back, "you did amazing."
+
+Fluttershy hugged her back, "Thank you Rarity, I couldn't have done it without you."
+
+Rarity pulled away from the hug and asked, "would you like some celebratory pancakes?"
+
+Fluttershy said, "yes, is it Pinkie recipe, I really like her pancakes."
+
+"Yes," Rarity answered, "let's go to the kitchen," before getting up from the couch and going into the kitchen.
+
+Fluttershy followed her into the kitchen and sat down at the table, "thanks for the pancakes, I need the energy if we're going to do more practicing."
+
+"You are most welcome, darling, you've earned it," Rarity said.
 
