@@ -582,3 +582,33 @@ Fluttershy followed her into the kitchen and sat down at the table, "thanks for 
 
 "You are most welcome, darling, you've earned it," Rarity said.
 
+Rarity began making the pancakes while Fluttershy waited patiently. She was about to pour the pancake mix into a pan when she heard a knock at her door.
+
+Rarity set everything down on the counter and trotted to her door, opening it she find Pinkie Pie and Rainbow Dash.
+
+"Hi Rarity," Pinkie said.
+
+"Hello darlings, what brings you by today?" Rarity asked.
+
+"I need to talk to you and Pinkie needs to talk to Fluttershy if she's still here," Rainbow said.
+
+"Okay darling, Fluttershy is in the kitchen," Rarity said.
+
+Pinkie said, "thank you," before trotting past Rarity and heading into the kitchen.
+
+Rarity lead Rainbow over to the couch, sitting on it she turned to Rainbow, "what did you need to talk about darling?"
+
+"Why did you and Fluttershy leave the room together last night?" Rainbow asked.
+
+Rarity was not prepared for that question but was able to think quickly, coming up with, "I needed to ask her for help in private, I've got a surprise for Pinkie and I couldn't ask while Pinkie was in the room."
+
+"What surprise?" Rainbow asked.
+
+Rarity bought some time by saying, "promise not to tell her?"
+
+*What is the surprise Rarity, think.*
+
+"I promise Rarity," Rainbow said.
+
+"A gift, I want to give her a matching set of earrings and necklace on our date," Rarity said.
+
