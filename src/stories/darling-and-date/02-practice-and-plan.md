@@ -204,7 +204,7 @@ Rarity answered, "how she can always makes me smile. She is always doing her bes
 
 Fluttershy replied, "you should get your wish when you go on your date."
 
-"Yes, I'm very excited for it, I can't wait to see what Pinkie has planned," Rarity said.
+"Yes, I'm very excited for it, I can't wait to see what Pinkie has planned, I thought about making a new dress to wear on the date, but I don't really know what type of date she's planning," Rarity said.
 
 "The idea of going on a date with Rainbow Dash makes me nervous, I would probably ruin it by being too shy," Fluttershy lamented.
 
@@ -584,11 +584,52 @@ Fluttershy followed her into the kitchen and sat down at the table, "thanks for 
 
 Rarity began making the pancakes while Fluttershy waited patiently. She was about to pour the pancake mix into a pan when she heard a knock at her door.
 
-Rarity set everything down on the counter and trotted to her door, opening it she find Pinkie Pie and Rainbow Dash.
+Rarity set everything down on the counter and trotted out of the room to see who was at the door, Fluttershy stayed in the kitchen.
+
+Fluttershy waited patiently for Rarity to return. Moments later Pinkie trotted into the room, not Rarity.
+
+"Hi Fluttershy, how's it going?" Pinkie asked.
+
+"Good, how is your day going?" Fluttershy said.
+
+"Great, I wanted to ask you about helping with mine and Rarity's date," Pinkie said before looking around the room, noticing the pancake paraphernalia.
+
+"Sure, do you have any suggestions for how I can help?" Fluttershy asked.
+
+"No, but I can tell you what we have planned so far," Pinkie said as she started to make the pancakes.
+
+"I'll take four," Fluttershy said.
+
+Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our desert. Rainbow is going to provide entertainment. We're going to ask Twilight to see if we can use a royal carriage for the date."
+
+Fluttershy thought for a moment, trying to figure out how to help, *a royal carriage sounds fancy, and Rarity did comment on making a new dress, maybe I could help make it with Pinkie.*
+
+"Maybe I can help you make a dress to give her for the date, a royal carriage is rather fancy, it would be fitting for you both to wear dresses," Fluttershy suggested.
+
+"That's a great idea Fluttershy," Pinkie said before making the next pancake.
+
+"We could make it match the dress she gave you, she would love it," Fluttershy said. 
+
+"I bet you're right," Pinkie said before she paused the food making to give Fluttershy a big hug, "thank you."
+
+Fluttershy returned the hug, "you're welcome."
+
+After Pinkie has return to making the pancakes, Rarity and Rainbow Dash enter the room together.
+
+
+
+
+
+
+<p align="center">***</p>
+
+Rainbow waits beside Pinkie as she knocks on Rarity's door.
+
+A few moments later Rarity opens the door then says, "hello darlings."
 
 "Hi Rarity," Pinkie said.
 
-"Hello darlings, what brings you by today?" Rarity asked.
+"What brings you by today?" Rarity asked.
 
 "I need to talk to you and Pinkie needs to talk to Fluttershy if she's still here," Rainbow said.
 
