@@ -614,9 +614,23 @@ Fluttershy thought for a moment, trying to figure out how to help, *a royal carr
 
 Fluttershy returned the hug, "you're welcome."
 
-After Pinkie has return to making the pancakes, Rarity and Rainbow Dash enter the room together.
+After Pinkie returned to making the pancakes, Rarity and Rainbow Dash enter the room together.
 
+Rainbow goes over to the table and sits in the chair beside Fluttershy. Fluttershy wasn't paying close attention but she swore Rainbow had scooted her chair a lot closer to her, *probably just your imagination.*
 
+"I could eat one more, Pinkie," Rainbow said to Pinkie, who had turned around to notice the pair.
+
+"Got it," Pinkie said before setting a plate of four pancakes in from of Fluttershy.
+
+"Thank you Pinkie," Fluttershy said before starting to eat her pancakes.
+
+"You're welcome," Pinkie said before asking. "how many pancakes would you like Rarity?"
+
+"Thank you for making them darling, I'll take four," Rarity said before walking over to Pinkie.
+
+Pinkie turned to Rarity and gave her a hug. Rarity returned the hug, and started whispering to Pinkie.
+
+After they we're done hugging, Rarity kissed Pinkie, who graciously started kissing back. Fluttershy looked at Rainbow, curious of her reaction.
 
 
 
