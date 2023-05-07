@@ -630,9 +630,21 @@ Rainbow goes over to the table and sits in the chair beside Fluttershy. Flutters
 
 Pinkie turned to Rarity and gave her a hug. Rarity returned the hug, and started whispering to Pinkie.
 
-After they we're done hugging, Rarity kissed Pinkie, who graciously started kissing back. Fluttershy looked at Rainbow, curious of her reaction.
+After they we're done hugging, Rarity surprised Pinkie with a kiss. Pinkie graciously started kissing back as both of them began to blush. Fluttershy looked at Rainbow, curious of her reaction.
 
+Rainbow was looking at them kiss before she looked down at the table, her face going expressionless. Fluttershy became worried for her.
 
+Fluttershy stopped her eating and leaned over to Rainbow and gave her a hug, whispering, "are you alright?"
+
+Rainbow hugged back before whispering, "yes, just a little distracted."
+
+As Fluttershy and Rainbow hugged, Fluttershy could hear Rarity say, "a little birdie told me you wanted a kiss."
+
+Fluttershy closed her eyes and tightened her hold on Rainbow.
+
+Rainbow whispered, "are you okay?"
+
+""
 
 
 <p align="center">***</p>
