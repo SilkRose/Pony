@@ -620,7 +620,7 @@ Rainbow goes over to the table and sits in the chair beside Fluttershy. Flutters
 
 "I could eat one more, Pinkie," Rainbow said to Pinkie, who had turned around to notice the pair.
 
-"Got it," Pinkie said before setting a plate of four pancakes in from of Fluttershy.
+"Got it," Pinkie said before setting a plate of four pancakes in front of Fluttershy.
 
 "Thank you Pinkie," Fluttershy said before starting to eat her pancakes.
 
@@ -628,11 +628,11 @@ Rainbow goes over to the table and sits in the chair beside Fluttershy. Flutters
 
 "Thank you for making them darling, I'll take four," Rarity said before walking over to Pinkie.
 
-Pinkie turned to Rarity and gave her a hug. Rarity returned the hug, and started whispering to Pinkie.
+Pinkie turned to Rarity and gave her a hug. Rarity returned the hug, and started whispering to Pinkie. Pinkie whispered back for a second.
 
 After they we're done hugging, Rarity surprised Pinkie with a kiss. Pinkie graciously started kissing back as both of them began to blush. Fluttershy looked at Rainbow, curious of her reaction.
 
-Rainbow was looking at them kiss before she looked down at the table, her face going expressionless. Fluttershy became worried for her.
+Rainbow was looking at them kiss before she looked down at the table, her ears folded back as her face became expressionless. Fluttershy became worried for her.
 
 Fluttershy stopped her eating and leaned over to Rainbow and gave her a hug, whispering, "are you alright?"
 
@@ -642,40 +642,40 @@ As Fluttershy and Rainbow hugged, Fluttershy could hear Rarity say, "a little bi
 
 Fluttershy closed her eyes and tightened her hold on Rainbow.
 
-Rainbow whispered, "are you okay?"
+Rainbow whispered, "thank you," as she also tightened her grip.
 
-""
+*If only this could last forever...*
+
+After the hug was over, both ponies turned to look at Rarity and Pinkie.
+
+Pinkie had returned to making pancakes, while Rarity had taken the seat across from Rainbow.
+
+Fluttershy said, "these pancakes are delicious Pinkie," before starting to eat again.
+
+Pinkie responded, "it's because they're made with love."
+
+Moments later Pinkie slid a plate with one pancake on it in front of Rainbow.
+
+Rainbow said, "thank you," before beginning to eat.
+
+"You're welcome," Pinkie replied before starting to make Rarity's pancakes.
+
+Fluttershy finished her pancakes, getting down from the table she took her dishes and placed then in the sink before returning to her seat.
+
+Fluttershy asked, "do you two have a set date for your date?"
+
+Pinkie answered, "I was thinking the day after tomorrow, if that's okay with you, Rarity?"
+
+Rarity answered, "that should work for me, darling."
+
+Fluttershy remarked, "that party was great last night, I'm happy for you girls."
+
+Rarity said, "thank you, I'm glad it went well."
+
+Pinkie replied, "me too, I love when my friends are happy."
+
+
 
 
 <p align="center">***</p>
-
-Rainbow waits beside Pinkie as she knocks on Rarity's door.
-
-A few moments later Rarity opens the door then says, "hello darlings."
-
-"Hi Rarity," Pinkie said.
-
-"What brings you by today?" Rarity asked.
-
-"I need to talk to you and Pinkie needs to talk to Fluttershy if she's still here," Rainbow said.
-
-"Okay darling, Fluttershy is in the kitchen," Rarity said.
-
-Pinkie said, "thank you," before trotting past Rarity and heading into the kitchen.
-
-Rarity lead Rainbow over to the couch, sitting on it she turned to Rainbow, "what did you need to talk about darling?"
-
-"Why did you and Fluttershy leave the room together last night?" Rainbow asked.
-
-Rarity was not prepared for that question but was able to think quickly, coming up with, "I needed to ask her for help in private, I've got a surprise for Pinkie and I couldn't ask while Pinkie was in the room."
-
-"What surprise?" Rainbow asked.
-
-Rarity bought some time by saying, "promise not to tell her?"
-
-*What is the surprise Rarity, think.*
-
-"I promise Rarity," Rainbow said.
-
-"A gift, I want to give her a matching set of earrings and necklace on our date," Rarity said.
 
