@@ -674,6 +674,68 @@ Rarity said, "thank you, I'm glad it went well."
 
 Pinkie replied, "me too, I love when my friends are happy."
 
+All four ponies went silent for a moment as Pinkie continued to make pancakes.
+
+Rarity broke the silence, asking, "so, Rainbow, do you think you could see yourself having a special somepony anytime?"
+
+Everypony turned to look at Rainbow, awaiting her answer. Fluttershy's heart started beating faster.
+
+*I hope so...*
+
+Rainbow played it cool, simply answering, "yes."
+
+Rarity followed it up with another question, "pardon the intrusion, but would you rather be with a mare or a stallion?"
+
+Fluttershy's mouth hung open at Rarity's boldness, *I hope she likes mare...*
+
+Rainbow, a little perturbed, answered, "if you must know, I like both, but I prefer mares. Now if you don't mind, I'd like to change the subject."
+
+Rarity apologized, "sorry darling, I was just curious, I do think you'd look absolutely adorable in a relationship."
+
+Rainbow, having calmed herself, said, "well, I appreciate the thought, but I can handle my own dating life."
+
+Everypony went quite again, this time being interrupted by Pinkie, "pancakes are done."
+
+Pinkie brought over three plates one by one, setting them in front of Rainbow, Rarity, and herself.
+
+Each of the ponies began to eat.
+
+*I should tell them I like mares, it will let her know I'm available, right?*
+
+Fluttershy practically whispered, "I like mares too."
+
+Rainbow, who was closest to Fluttershy, turned to her, "did you say something?"
+
+Fluttershy tried again, "I like mares," this time louder, but still nopony could make it out.
+
+Rarity and Pinkie did notice she was trying to say something.
+
+Fluttershy sat there, all three pairs of eyes trained on her.
+
+*You can do this, Fluttershy, remember your practice.*
+
+Fluttershy confidently said, "I like mares," but Rainbow was the only one able to hear it.
+
+"Could you repeat that, I'm not sure I heard you correctly," Rainbow said.
+
+Fluttershy took a deep breath, *you got this.*
+
+Fluttershy achieved her small victory, "I like mares too."
+
+Rainbow Dash and Pinkie's mouth were agape, both ponies surprised.
+
+Rarity recovered the quickest, "oh darling, that's wonderful."
+
+Rainbow did her best to not act excited, "that's cool."
+
+Pinkie encouraged her, "I hope you find that special mare soon."
+
+*Me too,* she thought as she looked at Rainbow.
+
+Rainbow buried her head in her food as she ate. Fluttershy could have sworn she saw her checks turning red.
+
+Pinkie and Rarity started eating their pancakes again. The room was silent except for the sound of eating.
+
 
 
 
