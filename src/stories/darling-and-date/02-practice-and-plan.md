@@ -720,7 +720,7 @@ Fluttershy confidently said, "I like mares," but Rainbow was the only one able t
 
 Fluttershy took a deep breath, *you got this.*
 
-Fluttershy achieved her small victory, "I like mares too."
+Fluttershy achieved her small victory, "I like mares too," she said speaking at normal volume.
 
 Rainbow Dash and Pinkie's mouth were agape, both ponies surprised.
 
@@ -736,8 +736,58 @@ Rainbow buried her head in her food as she ate. Fluttershy could have sworn she 
 
 Pinkie and Rarity started eating their pancakes again. The room was silent except for the sound of eating.
 
+Fluttershy thought about Rainbow, *I can't tell from her reaction. She's acting weird, but I don't know if it's in a good way or not.*
 
+Rainbow finished her pancake, mouth covered in pancake debris. Fluttershy looked at her a giggled.
 
+"You're mouth is a mess," Fluttershy informed her.
+
+Rainbow wiped her mouth, "thanks."
+
+Fluttershy offered, "want me to get that for you?" as she gestured towards her plate.
+
+"Sure," Rainbow said.
+
+Fluttershy took Rainbow's plate to the sink and placed it atop hers. Returning to her chair, she sat down and looked over at Pinkie and Rarity, both were still eating but Pinkie was far closer to finishing.
+
+Fluttershy looked at Rainbow, seeing her starring back. Both ponies just starred at each other for a moment until Fluttershy broke, averting her gaze to look at Pinkie and Rarity.
+
+Pinkie had finished her food and was getting down from the table and taking her plate to the sink. Fluttershy looked at Rarity, who still had 2 pancakes left to eat.
+
+Fluttershy heard water running, looking over she saw Pinkie had started to do the dishes. *How nice of her,* Fluttershy thought.
+
+Fluttershy turned back to Rainbow, who looked like she had something to say.
 
 <p align="center">***</p>
 
+Rainbow looked at Fluttershy, *might as well get this started,* she thought.
+
+When Fluttershy looked back at her, she said, "Fluttershy, could you come with me for a second, I wanted to talk to you in the other room."
+
+Fluttershy replied, "sure," with a unsure look on her face.
+
+Getting up from the table, Rainbow trotted into the other room with Fluttershy behind her.
+
+The pair sat down on Rarity's couch, turning to face each other.
+
+*Here goes nothing,* she thought.
+
+"Would you like to have breakfast at my place in 3 days?" Rainbow asked.
+
+Fluttershy looked a little confused, "sure, but why the secrecy?" she asked with genuine curiosity in her voice.
+
+Rainbow sat there in thought for a moment.
+
+*Why did you need to go to another room?*
+
+*Because I'm afraid...*
+
+*Of what?*
+
+*Showing emotion in front of my friends.*
+
+*But Fluttershy is your friend.*
+
+*I'm trying... Alright...  I'm showing her emotion.*
+
+Rainbow replied, ""
