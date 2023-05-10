@@ -790,4 +790,79 @@ Rainbow sat there in thought for a moment.
 
 *I'm trying... Alright...  I'm showing her emotion.*
 
-Rainbow replied, ""
+Rainbow sighed, "it's hard to explain... I just wanted to show you how much I care... I don't deal well with emotions, I'm trying, it's just... you'll understand after breakfast."
+
+Fluttershy didn't immediately respond, taking a moment to take in her emotional answer.
+
+Fluttershy said, "okay, I'm looking forward to it," before she hugged Rainbow.
+
+Rainbow hugged back, "me too."
+
+After the hug was over, Fluttershy said, "I'm always here for you, I would never judge you for feeling any way you do."
+
+"Thanks," Rainbow said, "also, could you not tell anyone, for now?"
+
+"Okay," Fluttershy said.
+
+"Let's go back in there, they probably are done eating by now," Rainbow said.
+
+The pair trotted back into the kitchen. Rarity was sitting at the table, while Pinkie was just finishing the last of the dishes.
+
+Rarity greeted the two, "welcome back."
+
+Fluttershy said, "thank you."
+
+Rainbow said, "thanks."
+
+Pinkie looked over at Rainbow, "are you about ready to leave, I'm almost done here."
+
+Rainbow replied, "yes."
+
+Pinkie finished the dishes before going to Rarity, giving her a hug.
+
+Rarity hugged back, saying, "goodbye darling."
+
+Pinkie replied, "goodbye."
+
+Fluttershy addressed the two, "goodbye girls."
+
+"See you later," Rainbow said.
+
+"Bye," Pinkie said.
+
+Pinkie and Rainbow left the room, trotting out of the building.
+
+Rainbow closed the door behind them and started walking next to Pinkie.
+
+Pinkie said, "we need to go back to Sugarcube Corner first, Rarity needs to barrow something from me. Could you fly it back to her once we get there?"
+
+"Sure, what is it?" Rainbow asked.
+
+"A costume," Pinkie answered.
+
+"Of what?" Rainbow asked.
+
+"A pegasus," Pinkie answered, "I think she needs it for modeling a dress."
+
+"Okay," Rainbow said.
+
+They trotted in silence for a moment before Rainbow asked, "did you think Fluttershy was acting weird in there?"
+
+"How so?" Pinkie asked.
+
+"Why would she say she likes mares?" Rainbow said.
+
+"She could have just been trying to keep the conversation going," Pinkie said, "or my theory of her secretly having a crush on you is true."
+
+A moment later Pinkie continued, "probably the first one, but you never know."
+
+"Yeah," Rainbow said.
+
+They walked in silence for a bit before Pinkie said, "oh, what did Rarity say she wanted for out date?"
+
+"She said all she wants it to spend quality time with you," Rainbow answered.
+
+"Aw, how sweet," Pinkie said before asking, "does the date count as quality time?"
+
+"I would think so, but maybe you should add something to it where you two can be together in private," Rainbow answered.
+
