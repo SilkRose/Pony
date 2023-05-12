@@ -866,3 +866,25 @@ They walked in silence for a bit before Pinkie said, "oh, what did Rarity say sh
 
 "I would think so, but maybe you should add something to it where you two can be together in private," Rainbow answered.
 
+"That's a good idea," Pinkie said.
+
+Rainbow asked, "what did Fluttershy say about her helping with the date?"
+
+"She's going to help me make a dress to give Rarity for the date, and she suggested I can wear the dress she gave me when I asked her out," Pinkie answered.
+
+"Sounds like you two are going to have a fancy date as long as Twilight can get you a carriage," Rainbow said.
+
+"Oh, that's a great idea, we can go to a fancy restaurant on the date," Pinkie said.
+
+Rainbow replied, "if you got a private booth I'd consider that quality time."
+
+*I'd consider any time with Fluttershy as quality time.*
+
+"Me too," Pinkie said.
+
+""
+
+"Yes, I just know Rarity will love it," Pinkie said.
+
+"What about you?" Rainbow asked, "I know Rarity would want you to have fun on your own date."
+
