@@ -1104,3 +1104,53 @@ Fluttershy asked, "Rainbow Dash, will you go out with me?"
 
 "You did it darling, congratulations!" Rarity Dash said.
 
+"Thank you so much Rarity, I'm going to ask Rainbow Dash out, and it's because you believed in me," Fluttershy said as hers eyes started to water.
+
+Rarity Dash leaned over and gave Fluttershy a big hug, "you did this Fluttershy, you were able to do this all along, you just had to believe in yourself."
+
+Fluttershy returned the hug, closing her eyes as tears streamed down her face.
+
+Rarity held her tight and patted her back, "I'm so proud of you darling."
+
+They held the hug for a while, Fluttershy's tears slowed to a craw, then she opened her eyes, seeing the blue coat of Rainbow Dash.
+
+"I love you, Rainbow Dash," Fluttershy said.
+
+"I love you too, darling," Rarity said.
+
+They let go of the hug, pulling back Fluttershy saw Rarity's eyes, "I'm sorry Rarity, I didn't mean to call you Rainbow Dash."
+
+"It's alright, I mean I am wearing a Rainbow Dash costume after all," Rarity replied, "besides, I do love you, you're one of my best friends."
+
+"Thanks, love you too," Fluttershy said with a smile.
+
+<p align="center">***</p>
+
+Rainbow landed next to Pinkie, saying, "delivered."
+
+"Thanks," Pinkie replied.
+
+"So, earlier when you were inside getting the costume for Rarity, I had an idea for your date," Rainbow said.
+
+"Ooh, what is it?" Pinkie asked.
+
+"You two should play some game together," Rainbow answered.
+
+"I like that idea, but what about Rarity?" Pinkie countered.
+
+"I think if she loves you, she will have fun doing it because it's with you, you know," Rainbow said.
+
+"I think you're right," Pinkie said, "but what game?"
+
+"I don't know, if it's a physical game, I wouldn't make it last too long, probably don't want to get drenched in sweat on your date," Rainbow said.
+
+"Yea," Pinkie said.
+
+"We're almost there, be on the lookout for Applejack," Rainbow said.
+
+"Okay," Pinkie said.
+
+"You should pick the game, it's your date, you should pick something *you* want to do with Rarity," Rainbow said.
+
+"Sounds good, I'll think about what to pick," Pinkie said.
+
