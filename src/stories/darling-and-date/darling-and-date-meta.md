@@ -47,6 +47,21 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 
 5. Darling and Date:
  - Rarity and Pinkie go on the date.
+   - Pinkie gives the dress to Rarity.
+   - They ride in the chariot to dinner at a fancy restaurant.
+   - They eat dinner.
+   - They go watch Rainbow's flight show for entertainment.
+   - They ride out to Sweet Apple Acres.
+   - They take off the dresses and the chariot leaves.
+   - They play tag together.
+   - They relax on a picnic blanket.
+   - They eat desert.
+   - Pinkie sings a song to Rarity.
+   - They watch the sunset together.
+   - They walk into town together.
+   - Pinkie asks Rarity is she wants to have a slumber party at her place.
+   - She says yes.
+   - They have a slumber party and fall asleep in Pinkies bed, cuddled together.
 
 6. Epilogue - Breakfast and Bonding:
  - Rainbow Dash wakes Fluttershy up, asking her to come eat breakfast at her place.
