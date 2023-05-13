@@ -858,9 +858,9 @@ A moment later Pinkie continued, "probably the first one, but you never know."
 
 "Yeah," Rainbow said.
 
-They walked in silence for a bit before Pinkie said, "oh, what did Rarity say she wanted for out date?"
+They walked in silence for a bit before Pinkie said, "oh, what did Rarity say she wanted for our date?"
 
-"She said all she wants it to spend quality time with you," Rainbow answered.
+"She said all she wants is to spend quality time with you," Rainbow answered.
 
 "Aw, how sweet," Pinkie said before asking, "does the date count as quality time?"
 
@@ -874,17 +874,43 @@ Rainbow asked, "what did Fluttershy say about her helping with the date?"
 
 "Sounds like you two are going to have a fancy date as long as Twilight can get you a carriage," Rainbow said.
 
-"Oh, that's a great idea, we can go to a fancy restaurant on the date," Pinkie said.
+"Oh, that gives me a great idea, we can go to a fancy restaurant on the date," Pinkie said.
 
 Rainbow replied, "if you got a private booth I'd consider that quality time."
 
-*I'd consider any time with Fluttershy as quality time.*
-
 "Me too," Pinkie said.
 
-""
+*I'd consider any time with Fluttershy as quality time.*
+
+"Your date is going to be awesome," Rainbow said.
 
 "Yes, I just know Rarity will love it," Pinkie said.
 
 "What about you?" Rainbow asked, "I know Rarity would want you to have fun on your own date."
+
+"I will love it," Pinkie started, "we just need to think of more stuff, right?"
+
+"I guess," Rainbow said.
+
+"We should probably make a schedule, I was thinking we could watch the sunset at the end," Pinkie said, "what do you think?"
+
+"Yea, that's a good idea, Twilight might be able to help, she's good at scheduling," Rainbow said.
+
+"Sounds like a plan," Pinkie said.
+
+"We should probably go to Applejack then Twilight, so we have as much info to give to Twilight as we can," Rainbow suggested.
+
+"Good idea," Pinkie said.
+
+"We're here," Rainbow said, "do you want me to just wait out here?"
+
+"Sure," Pinkie said before she went inside.
+
+While Pinkie was inside, Rainbow tried to think of something to add to the date for Pinkie.
+
+*Pinkie is going to sing Rarity a song, so that's one thing she will love, what else?*
+
+*I know Pinkie loves games, maybe they could play a game together?*
+
+*But which game is suitable for a date?*
 
