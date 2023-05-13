@@ -914,3 +914,193 @@ While Pinkie was inside, Rainbow tried to think of something to add to the date 
 
 *But which game is suitable for a date?*
 
+*Pinkie should probably pick the game, since it is her date, I'll tell her my idea later.*
+
+Rainbow's thoughts drifted to Fluttershy.
+
+*I'm starting to think she likes me, I feel like she wouldn't announce her interest in mares if she wasn't trying to tip me off.*
+
+*Fluttershy's very shy so I bet that took a lot to say.*
+
+*I sure hope I'm right, that mare is so cute.*
+
+*I don't even know why Rarity asked that kind of a question, I'm probably reading way to much into this, but she could have been prying for a reason.*
+
+*I guess I'll get an answer as to whether or not she likes me in three days.*
+
+Before Rainbow could think of anything else, Pinkie came out the shop's door holding a box.
+
+"Here you go," Pinkie said, giving the box to Rainbow.
+
+Rainbow took the box, "you start going towards Sweet Apple Acres, I'll catch up after I drop this off."
+
+"Okay, thanks," Pinkie said before trotting away.
+
+Rainbow held the package to her chest and took off, flying over Ponyville.
+
+While she flew she thought of the package in her hooves.
+
+*Why does Rarity need a pegasus costume?*
+
+*Fluttershy is there and she's a pegasus, couldn't she model for her?*
+
+*Even then, I've seen her make dresses for pegasi on her poniquines.*
+
+*I'm going to ask her about it when I get there.*
+
+*should I open it?*
+
+*Pinkie didn't say I couldn't open it.*
+
+*But I would still feel bad if I did, I don't know.*
+
+*I better not open it, hopefully Rarity tells me whats up.*
+
+Rainbow saw Carousel Boutique coming into view. She slowed down and dropped to the ground in front of the shop.
+
+She knocked on the door a few times and waited.
+
+a few moments later, Rarity answered the door, "hello darling, is that the package from Pinkie?"
+
+"Yes, what's inside it? Pinkie said it's a pegasus costume," Rainbow replied.
+
+"Yes, that's it," Rarity said.
+
+"What do you need it for?" Rainbow asked.
+
+"I'm going to use it to model a dress," Rarity said.
+
+"Why? Isn't Fluttershy still here?" Rainbow asked.
+
+Rarity took a second to answer, "well yes, but the customers coat is a different color and I wanted Fluttershy to wear the costume so I could make sure it matches."
+
+*I guess that makes sense.*
+
+"Oh, okay," Rainbow said.
+
+"Was there anything else?" Rarity asked.
+
+"No," Rainbow answered.
+
+"Goodbye darling," Rarity said.
+
+"See ya," Rainbow said.
+
+Rarity took the package inside with her magic and closed the door.
+
+Rainbow flew up into the sky, heading for Sweet Apple Acres.
+
+<p align="center">***</p>
+
+Fluttershy was sitting on the couch when Rarity came back from answering the door, she had a package in her magic.
+
+"I'm going to go put this on, when I get back we can start practicing again," Rarity said.
+
+"Okay," Fluttershy said.
+
+Rarity left the room, Fluttershy sat on the couch and thought about Rainbow's request.
+
+*Rainbow said she wanted to show me how much she cares, wouldn't it be wild if she was planning on asking me out.*
+
+*No, I don't know about that, but maybe I should ask her out after we eat breakfast.*
+
+*Yea, that's a good idea.*
+
+*She's going to be so surprised when I ask her out, I hope she says yes.*
+
+*It makes me really happy knowing she likes mares. I'm glad Rarity asked.*
+
+*I hope this practice goes well, hopefully I don't lose a bunch of progress from Rarity being dressed as Rainbow.*
+
+As if on queue, Rarity came into the room, She looked just like Rainbow Dash, except her eyes were still blue.
+
+"Wow," Fluttershy said.
+
+"I knew Pinkie would have what we need," Rarity said.
+
+"Isn't it hot in there?" Fluttershy asked.
+
+"A little, but I'm alright," Rarity answered.
+
+"Okay, if you say so," Fluttershy said.
+
+"Ready to practice," Rarity asked.
+
+"Yes," Fluttershy said.
+
+Rarity came over and sat next to Fluttershy on the couch.
+
+"For now I'm not going to say anything, once you get more confident I can try to respond like Rainbow Dash," Rarity said.
+
+"Okay," Fluttershy said.
+
+Fluttershy looked at Rarity Dash, her heart started beating faster. She knew it wasn't really Rainbow, but still, this felt a little more real now.
+
+*Time to prove you can do it.*
+
+Fluttershy said, "Rainbow..."
+
+*That's better than nothing, but you can do this Fluttershy.*
+
+Fluttershy tried again, "Rainbow..."
+
+*I can do this!*
+
+Fluttershy tried again, "Rainbow D..."
+
+*I will not back down.*
+
+Fluttershy tried again, "Rainbow Da..."
+
+*You will ask her out.*
+
+Fluttershy tried again, "Rainbow Dash..."
+
+*She will know how I feel.*
+
+Fluttershy tried again, "Rainbow Dash, wi..."
+
+*I got this.*
+
+Fluttershy tried again, "Rainbow Dash, will..."
+
+*I will not give up.*
+
+Fluttershy tried again, "Rainbow Dash, will you..."
+
+*Rainbow will hear me say it.*
+
+Fluttershy tried again, "Rainbow Dash, will you g.. g..."
+
+*I will overcome my shyness.*
+
+Fluttershy tried again, "Rainbow Dash, will you go..."
+
+*I will succeed.*
+
+Fluttershy tried again, "Rainbow Dash, will you go ou..."
+
+*I am going to ask her out.*
+
+Fluttershy tried again, "Rainbow Dash, will you go out..."
+
+*I cannot give up.*
+
+Fluttershy tried again, "Rainbow Dash, will you go out wi..."
+
+*This practicing will not go to waste.*
+
+Fluttershy tried again, "Rainbow Dash, will you go out with..."
+
+*I will surprise her.*
+
+Fluttershy tried again, "Rainbow Dash, will you go out with m.. m..."
+
+*I will tell the mare I love how I feel.*
+
+Fluttershy asked, "Rainbow Dash, will you go out with me?"
+
+*I did it!*
+
+"You did it darling, congratulations!" Rarity Dash said.
+
