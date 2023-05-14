@@ -42,8 +42,18 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
  - Pinkie, Rarity, Rainbow, and Fluttershy each at some point say why they fell in love with their desired pony.
 
 3. Dressmaking and Determination
- - Fluttershy helps Pinkie make a dress for Rarity.
- - Pinkie teaches Rainbow how to make pancakes.
+ - Pinkie tries to do all 3 things at once, make a dress with Fluttershy, teach Rainbow how to make pancakes, bake a special cake for her date with Rarity.
+ - This backfires as she is unable to give enough attention to each task.
+ - Rainbow isn't learning, the cake is burnt, the dress looks bad.
+ - Pinkie leaves her room, where Fluttershy is, and breaks down on the stairs, crying.
+ - Mr. Cake finds her, asking her whats wrong.
+ - Pinkie explains everything.
+ - He reassures her, saying he will make the cake, his wife will help make the dress, and Pinkie will help Rainbow.
+ - Pinkie succeeds in teaching Rainbow.
+ - Mr. Cake makes the cake.
+ - The dress is redesigned and looks good.
+ - The chapter ends as Pinkie hugs everypony while she cries tears of joy.
+ - The cake and dress aren't described in detail in this chapter.
 
 5. Darling and Date:
  - Rarity and Pinkie go on the date.
