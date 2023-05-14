@@ -1214,3 +1214,35 @@ Applejack suggested, "like before you watch the sunset?"
 
 "Good idea," Rainbow said.
 
+Pinkie said, "I'll be right back, I need to use the bathroom," before walking to the bathroom.
+
+Applejack seized the moment to ask, "when are you going to tell Fluttershy how you feel?"
+
+Rainbow's face froze for a second. *How'd she know?*
+
+"I know Pinkie didn't tell you, how'd you know?" Rainbow asked.
+
+"It was more obvious than the start of cider season, the way you were fawning over her last night the whole walk home," Applejack answered.
+
+"Was it really that obvious?" Rainbow asked.
+
+"Yes," Applejack answered.
+
+"Do you think she likes me back?" Rainbow asked as she felt her face turning red.
+
+"I don't know if you could tell from how close you was walking to her, but she had a blush to match your own right now," Applejack answered.
+
+Rainbow's blush intensified.
+
+"I think she might like you back," Applejack finished.
+
+In a softer voice, Rainbow said, "I sure hope you're right."
+
+"Even if she does like you back, you know how that girl is, you are going to need to make the first move," Applejack said.
+
+"I am, the day after Pinkie and Rarity's date, me and Fluttershy are having breakfast at my place, after we eat I am going to ask her out," Rainbow said.
+
+Pinkie walked back in the room, ", I'm back."
+
+"I wish you two the best of luck," Applejack said.
+
