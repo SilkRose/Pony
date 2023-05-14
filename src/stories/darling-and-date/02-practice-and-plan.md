@@ -1142,7 +1142,7 @@ Rainbow landed next to Pinkie, saying, "delivered."
 
 "I think you're right," Pinkie said, "but what game?"
 
-"I don't know, if it's a physical game, I wouldn't make it last too long, probably don't want to get drenched in sweat on your date," Rainbow said.
+"I don't know, I think you should pick it, pick a game you want to do specifically with Rarity," Rainbow said.
 
 "Yea," Pinkie said.
 
@@ -1150,7 +1150,67 @@ Rainbow landed next to Pinkie, saying, "delivered."
 
 "Okay," Pinkie said.
 
-"You should pick the game, it's your date, you should pick something *you* want to do with Rarity," Rainbow said.
+The pair made it all the way to the Apple family home without seeing Applejack.
 
-"Sounds good, I'll think about what to pick," Pinkie said.
+"Must be inside," Rainbow said.
+
+Pinkie knocked on the door and waited, moments later Applejack answered.
+
+"Howdy y'all," Applejack said.
+
+"We're here to talk about my date with Rarity," Pinkie said.
+
+"Well, come on inside, I was just baking some pies," Applejack said, moving aside for the pair to enter.
+
+Pinkie and Rainbow followed Applejack into her kitchen, sitting down at her kitchen table.
+
+"What can I do you for? How can I help with this here date?" Applejack asked.
+
+"Well, we haven't figured that out yet, we should probably tell you the stuff we have planned and maybe we can think of something with you," Pinkie suggested.
+
+"Okay, whats all in this plan so far?" Applejack asked.
+
+Rainbow answered, "I'm going to do an air show for their entertainment."
+
+Pinkie said, "I'm making the desert, and I'm going to sing Rarity a song, oh and I want to play a fun game with Rarity."
+
+Rainbow continued, "Fluttershy is going to help Pinkie make a dress to give to Rarity for there date."
+
+Pinkie continued, "I'm going to wear the dress Rarity gave me when I asked her out. And we're going to a fancy restaurant for dinner."
+
+Rainbow continued, "Rarity said she wants to spend quality time with Pinkie. also, Pinkie wants to watch the sunset with Rarity on the date."
+
+Pinkie finished, "we're going to ask Twilight to see if we can use a royal chariot for the date, and to see if she can help schedule the date."
+
+"Wow, sounds you two are planning a mighty fine date," Applejack said.
+
+"Yes, I hope she loves it," Pinkie said.
+
+Applejack sat there in thought for a moment, thinking of how she could help, before offering, "I can give you my land, I can find a nice secluded spot for you two that has a great view of the sunset, I can even prepare it with a picnic blanket and such."
+
+"Thank you Applejack, that's a great idea," Pinkie replied before the gears in her own head started to turn.
+
+moments later, Pinkie asked, "can we play our game here?"
+
+"Sure, just try not to damage anything," Applejack answered.
+
+Rainbow thought about the date activities.
+
+*Dresses, Song, Dinner, Chariot, Game, Sunset, Show, Time, Picnic.*
+
+*What am I missing from the list?*
+
+...Desert.
+
+*Hmm, when is desert?*
+
+Rainbow decided to ask, "Pinkie, when were you planning to have desert? I don't think the restaurant will let you bring in your own food."
+
+Pinkie thought for a moment, responding, "maybe we could eat it later in the date?"
+
+Applejack suggested, "like before you watch the sunset?"
+
+"That's it, I can bring you the food beforehoof and you can have it there waiting for us," Pinkie exclaimed.
+
+"Good idea," Rainbow said.
 
