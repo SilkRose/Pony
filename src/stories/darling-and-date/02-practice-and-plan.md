@@ -1222,7 +1222,7 @@ Rainbow's face froze for a second. *How'd she know?*
 
 "I know Pinkie didn't tell you, how'd you know?" Rainbow asked.
 
-"It was more obvious than the start of cider season, the way you were fawning over her last night the whole walk home," Applejack answered.
+"It was more obvious than the start of cider season, the way you were fawning over her last night the whole way to her home," Applejack answered.
 
 "Was it really that obvious?" Rainbow asked.
 
@@ -1230,11 +1230,11 @@ Rainbow's face froze for a second. *How'd she know?*
 
 "Do you think she likes me back?" Rainbow asked as she felt her face turning red.
 
-"I don't know if you could tell from how close you was walking to her, but she had a blush to match your own right now," Applejack answered.
+"I'm surprised you couldn't see from how close you was walking to her, she had a blush to match the one you got right there," Applejack answered.
 
 Rainbow's blush intensified.
 
-"I think she might like you back," Applejack finished.
+"I think she *might* like you back," Applejack finished.
 
 In a softer voice, Rainbow said, "I sure hope you're right."
 
@@ -1242,7 +1242,45 @@ In a softer voice, Rainbow said, "I sure hope you're right."
 
 "I am, the day after Pinkie and Rarity's date, me and Fluttershy are having breakfast at my place, after we eat I am going to ask her out," Rainbow said.
 
-Pinkie walked back in the room, ", I'm back."
+Pinkie walked back in the room," I'm back."
 
-"I wish you two the best of luck," Applejack said.
+"I wish you two the best of luck," Applejack said as she tipped her hat to Rainbow.
+
+"Thanks," Pinkie said with a smile.
+
+Rainbow got up and went over to Applejack, giving her a hug, "thank you."
+
+After the hug, Applejack said, "goodbye y'all."
+
+"Bye," Pinkie said before also hugging Applejack.
+
+"Goodbye," Rainbow said with a smile.
+
+With that the two ponies walked out of Applejack's house.
+
+Rainbow looked up in the sky, noticing how late it had become.
+
+*We need to hurry if I am going to have time to practice for the show.*
+
+Pinkie turned to Rainbow, "onward to Twilight," but as she was about to start trotting, Rainbow stopped her.
+
+"Pinkie, you wanna make the trip to Twilight's a little more fun?" Rainbow asked.
+
+"Absolutely," Pinkie answered.
+
+"Let's race there, I won't even use my wings," Rainbow said.
+
+"Let's do it," Pinkie said with a smile.
+
+They lined up next to each other, Rainbow getting in a running stance while Pinkie just stood there.
+
+"On your marks," Rainbow announced.
+
+"Get set," Rainbow continued.
+
+"Go," Rainbow finished.
+
+With that they were off, Rainbow dashed off the line, running as fast as she could.
+
+<p align="center">***</p>
 
