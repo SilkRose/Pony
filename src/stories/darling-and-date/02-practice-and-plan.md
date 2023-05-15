@@ -1284,3 +1284,65 @@ With that they were off, Rainbow dashed off the line, running as fast as she cou
 
 <p align="center">***</p>
 
+"Are you ready to continue practicing?" Rarity Dash asked.
+
+"Yes," Fluttershy said.
+
+"Okay, this time after you ask me, I will either say yes or no, and you won't know which beforehoof," Rarity Dash explained.
+
+"Okay," Fluttershy said.
+
+*You got this. Just pretend she is Rainbow Dash.*
+
+Fluttershy asked, "Rainbow Dash, will you go out with me?"
+
+*She is Rainbow Dash*
+
+"Yes," Rarity Dash said.
+
+Fluttershy's trick worked, as her heart exploded, beating fast, she hugged Rainbow tight, "I love you," she proclaimed.
+
+Rarity Dash held Fluttershy, rubbing her back.
+
+When Rainbow didn't respond, Fluttershy remembered this wasn't real, she let go of the hug.
+
+"I'm sorry," Fluttershy said, looking down at her hooves.
+
+"No darling, you did great," Rarity Dash said.
+
+"I did?" Fluttershy asked looking up at Rarity Dash.
+
+"Yes, you reacted like I was Rainbow Dash, it let you experience it so you can be prepared for when she says yes," Rarity Dash said.
+
+"Thank you, Rarity," Fluttershy said.
+
+"You're welcome darling, let's keep going," Rarity Dash said.
+
+Fluttershy asked, "Rainbow Dash, will you go out with me?"
+
+*She is Rainbow Dash*
+
+"Yes," Rarity Dash answered, again.
+
+Again, Fluttershy's trick worked, but this time she realized much sooner, right after giving Rarity Dash a hug.
+
+Letting go of the hug Fluttershy asked, "was that right?"
+
+"Yes darling," Rarity Dash said.
+
+"Are you going to say no?" Fluttershy asked.
+
+"No," Rarity Dash answered.
+
+"But, why not?" Fluttershy asked in a questioning tone.
+
+"You've achieved your goal darling," Rarity Dash said.
+
+"What, how so?" Fluttershy asked.
+
+"You have the courage to ask her out," Rarity Dash answered.
+
+"But what if she says no?" Fluttershy asked.
+
+"I could have said no, and you still asked me twice, you don't need to practice how to get rejected, you just needed the courage to ask her out. That feeling when I said yes, imagine that but for real, it will feel so much better darling. If she does reject you, that's something you need to handle with Rainbow Dash, you and her are the only ones qualified to deal with your friendship. If you really want to practice being rejected I will, I'm your friend and I will help you however I can, but I don't think you need it, I think you are ready now," Rarity Dash said.
+
