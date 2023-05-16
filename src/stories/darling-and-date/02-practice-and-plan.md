@@ -1394,3 +1394,61 @@ Fluttershy's eyes were watering by the end of her speech. Fluttershy hugged Rari
 
 <p align="center">***</p>
 
+Rainbow rounded the last corner, galloping at a good pace. *No Pinkie Pie in sight,* she thought.
+
+She made it halfway to Twilight's door when she spotted her, Pinkie Pie. She was just bouncing at a leisurely pace towards the door, and she was closer, way closer.
+
+*How?*
+
+Rainbow sped up, galloping as fast as she could, *I'm not giving up that easily.*
+
+Rainbow was gaining ground at a quick pace, but not quick enough. It was a forgone conclusion.
+
+Pinkie won.
+
+Rainbow skidded to a stop, almost crashing into Twilight's door. Catching her breath, she just starred at Pinkie.
+
+"How did you win? you weren't even running," Rainbow said.
+
+Pinkie just shrugged, "I don't know."
+
+"Well, you won, good job I guess," Rainbow said.
+
+"Thanks," Pinkie said, "you did great too."
+
+"Let's talk to Twilight," Rainbow said before knocking on Twilight's tree-house door.
+
+Moments later Twilight answered, "hello girls."
+
+"Hi Twilight," Pinkie said.
+
+"Sup," Rainbow said.
+
+"What can I do for you?" Twilight asked.
+
+"We're here to plan Pinkie's date," Rainbow explained.
+
+"Oh, then come on inside," Twilight said while gesturing them inside.
+
+The pair came into her home, following Twilight. Twilight led them into her kitchen. They all sat down at her kitchen table.
+
+"What's the plan? What can I do to help?" Twilight asked.
+
+Pinkie said, "we wanted to ask you to do two things for the date."
+
+"What's the first one?" Twilight asked.
+
+"Can you get us a royal carriage to use for the date?" Pinkie asked.
+
+Twilight though for a moment before saying, "I think I can, I'm a princess now so I should be able to use one on a personal request."
+
+"Thank you Twilight," Pinkie said before getting up to hug Twilight.
+
+Twilight hugged back, saying, "I'll write to Princess Celestia as soon as Spike gets back home."
+
+After the hug was over, Pinkie returned to her seat.
+
+Rainbow asked, "we also wanted to see if you could schedule the date? Pinkie wants to watch the sunset so we need the timing to be correct."
+
+"Yes, Yes, I can do that," Twilight said with a big smile and a glint in her eye.
+
