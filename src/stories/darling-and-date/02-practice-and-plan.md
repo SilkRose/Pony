@@ -608,9 +608,13 @@ Fluttershy thought for a moment, trying to figure out how to help, *a royal carr
 
 "That's a great idea Fluttershy," Pinkie said before making the next pancake.
 
-"We could make it match the dress she gave you, she would love it," Fluttershy said. 
+"Pinkie, I know it's your date, but is it okay if the dress is from me and you? Rarity is helping me a lot and I wanted to do something nice for her," Fluttershy asked. 
 
-"I bet you're right," Pinkie said before she paused the food making to give Fluttershy a big hug, "thank you."
+"Absolutely, it's always nice to share," Pinkie exclaimed happily.
+
+"Thank you," Fluttershy said.
+
+Pinkie paused the food making to give Fluttershy a big hug, "thank you."
 
 Fluttershy returned the hug, "you're welcome."
 
@@ -944,7 +948,7 @@ While she flew she thought of the package in her hooves.
 
 *Fluttershy is there and she's a pegasus, couldn't she model for her?*
 
-*Even then, I've seen her make dresses for pegasi on her poniquines.*
+*Even then, I've seen her make dresses for pegasi on her ponnequines.*
 
 *I'm going to ask her about it when I get there.*
 
@@ -1286,7 +1290,47 @@ With that they were off, Rainbow dashed off the line, running as fast as she cou
 
 "Are you ready to continue practicing?" Rarity Dash asked.
 
-"Yes," Fluttershy said.
+"Not yet, I wanted to ask you something first," Fluttershy said.
+
+"Okay, what is it darling?" Rarity Dash said.
+
+"Can I barrow a ponnequin? And could I have some fabrics?" Fluttershy asked.
+
+"Well of course, are you making a dress?" Rarity Dash asked.
+
+"Yes," Fluttershy answered.
+
+"Would you like any help making it?" Rarity Dash asked.
+
+"No, you can't help," Fluttershy said.
+
+"Who is it for?" Rarity Dash asked.
+
+"You," Fluttershy said.
+
+"Me?" Rarity Dash asked in surprise.
+
+"Yes, I want to make you a dress," Fluttershy explained.
+
+"Why?" Rarity Dash asked.
+
+"You've practically taken up a whole day to help me out, you are literally dressed like Rainbow Dash, I want to give you something for all you've done today," Fluttershy said.
+
+Rarity Dash said in a loving tone, "you don't have to do anything for me, I'm your friend and I would help you do anything without expecting compensation darling."
+
+"I know, but this is something I want to do," Fluttershy said.
+
+Rarity Dash hugged Fluttershy, "thank you darling, I can't wait to see it."
+
+Fluttershy hugged back, "thank you."
+
+After the hug was over Rarity Dash asked, "when do you need the stuff?"
+
+"Tomorrow morning, if you can," Fluttershy answered.
+
+"Okay, I'll set everything by the door, you can just come by and grab it," Rarity Dash said.
+
+"Okay, now I think I'm ready to start practicing again," Fluttershy said.
 
 "Okay, this time after you ask me, I will either say yes or no, and you won't know which beforehoof," Rarity Dash explained.
 
@@ -1345,4 +1389,8 @@ Letting go of the hug Fluttershy asked, "was that right?"
 "But what if she says no?" Fluttershy asked.
 
 "I could have said no, and you still asked me twice, you don't need to practice how to get rejected, you just needed the courage to ask her out. That feeling when I said yes, imagine that but for real, it will feel so much better darling. If she does reject you, that's something you need to handle with Rainbow Dash, you and her are the only ones qualified to deal with your friendship. If you really want to practice being rejected I will, I'm your friend and I will help you however I can, but I don't think you need it, I think you are ready now," Rarity Dash said.
+
+Fluttershy's eyes were watering by the end of her speech. Fluttershy hugged Rarity Dash tightly, "I'm ready," she proclaimed.
+
+<p align="center">***</p>
 
