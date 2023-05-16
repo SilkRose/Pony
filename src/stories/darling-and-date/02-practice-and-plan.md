@@ -340,7 +340,7 @@ As Pinkie finished her pancakes, Rainbow looked up at her and asked, "hey, Pinki
 
 "Sure," Pinkie said before she got up from the table. She picked up their dishes and placed them in the sink. Sitting back down at the table she said, "when do you wanna learn?"
 
-"How about after we get your date planned? So it doesn't get in the way of the planning," Rainbow answered.
+"How about tomorrow morning? So it doesn't get in the way of the planning," Rainbow answered.
 
 "Okay," Pinkie said.
 
@@ -600,7 +600,7 @@ Fluttershy waited patiently for Rarity to return. Moments later Pinkie trotted i
 
 "I'll take four," Fluttershy said.
 
-Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our desert. Rainbow is going to provide entertainment. We're going to ask Twilight to see if we can use a royal carriage for the date."
+Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our desert. Rainbow is going to provide entertainment and clear the weather. We're going to ask Twilight to see if we can use a royal carriage for the date."
 
 Fluttershy thought for a moment, trying to figure out how to help, *a royal carriage sounds fancy, and Rarity did comment on making a new dress, maybe I could help make it with Pinkie.*
 
@@ -1174,7 +1174,7 @@ Pinkie and Rainbow followed Applejack into her kitchen, sitting down at her kitc
 
 "Okay, whats all in this plan so far?" Applejack asked.
 
-Rainbow answered, "I'm going to do an air show for their entertainment."
+Rainbow answered, "I'm going to do an air show for their entertainment, and keep the weather clear."
 
 Pinkie said, "I'm making the desert, and I'm going to sing Rarity a song, oh and I want to play a fun game with Rarity."
 
@@ -1451,4 +1451,12 @@ After the hug was over, Pinkie returned to her seat.
 Rainbow asked, "we also wanted to see if you could schedule the date? Pinkie wants to watch the sunset so we need the timing to be correct."
 
 "Yes, Yes, I can do that," Twilight said with a big smile and a glint in her eye.
+
+"Yay," Pinkie said excitedly.
+
+"What locations will you be visiting on the date?" Twilight asked.
+
+Pinkie answered, "let's see, my house, Rarity's house, Sweet Apple Acres, the fairground field, and a fancy restaurant."
+
+"Which fancy restaurant?" Twilight asked.
 
