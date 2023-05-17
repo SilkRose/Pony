@@ -394,7 +394,7 @@ Rainbow thought on this for a moment.
 
 "What are some ideas you think you could contribute?" Rainbow asked.
 
-Pinkie sits there in thought for a bit, before saying, "I'm good at singing and baking sweets. Maybe I could make our desert."
+Pinkie sits there in thought for a bit, before saying, "I'm good at singing and baking sweets. Maybe I could make our dessert."
 
 "That's good," Rainbow said.
 
@@ -600,7 +600,7 @@ Fluttershy waited patiently for Rarity to return. Moments later Pinkie trotted i
 
 "I'll take four," Fluttershy said.
 
-Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our desert. Rainbow is going to provide entertainment and clear the weather. We're going to ask Twilight to see if we can use a royal carriage for the date."
+Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our dessert. Rainbow is going to provide entertainment and clear the weather. We're going to ask Twilight to see if we can use a royal carriage for the date."
 
 Fluttershy thought for a moment, trying to figure out how to help, *a royal carriage sounds fancy, and Rarity did comment on making a new dress, maybe I could help make it with Pinkie.*
 
@@ -1176,7 +1176,7 @@ Pinkie and Rainbow followed Applejack into her kitchen, sitting down at her kitc
 
 Rainbow answered, "I'm going to do an air show for their entertainment, and keep the weather clear."
 
-Pinkie said, "I'm making the desert, and I'm going to sing Rarity a song, oh and I want to play a fun game with Rarity."
+Pinkie said, "I'm making the dessert, and I'm going to sing Rarity a song, oh and I want to play a fun game with Rarity."
 
 Rainbow continued, "Fluttershy is going to help Pinkie make a dress to give to Rarity for there date."
 
@@ -1204,11 +1204,11 @@ Rainbow thought about the date activities.
 
 *What am I missing from the list?*
 
-...Desert.
+...Dessert.
 
-*Hmm, when is desert?*
+*Hmm, when is dessert?*
 
-Rainbow decided to ask, "Pinkie, when were you planning to have desert? I don't think the restaurant will let you bring in your own food."
+Rainbow decided to ask, "Pinkie, when were you planning to have dessert? I don't think the restaurant will let you bring in your own food."
 
 Pinkie thought for a moment, responding, "maybe we could eat it later in the date?"
 
@@ -1460,3 +1460,120 @@ Pinkie answered, "let's see, my house, Rarity's house, Sweet Apple Acres, the fa
 
 "Which fancy restaurant?" Twilight asked.
 
+"Horse Dēla Hay," Pinkie answered.
+
+"Okay, what are you doing at each place?" Twilight asked.
+
+Pinkie started, "at my place I will be picked up, at Rarity's I will give her a dress as a gift and pick her up for the date."
+
+Rainbow continued, "at the field they will watch my show, at the restaurant they will eat dinner."
+
+Pinkie finished, "at Sweet Apple Acres we will play a game and watch the sunset and eat dessert and I'm going to sing her a song."
+
+"You two just almost created the schedule yourselves," Twilight said.
+
+"What do you mean?" Pinkie asked.
+
+Twilight explained, "the date starts at your place Pinkie, then to Rarity's. The middle section will be the dinner and a show. The end will all be at Sweet Apple Acres."
+
+"Oh," Pinkie said.
+
+"That is all well and good, but we need the timings set," Rainbow said.
+
+"That's why I said almost," Twilight explained.
+
+"Okay," Rainbow said.
+
+"Pinkie, let me ask you this, do you want to watch the show or eat dinner first?" Twilight asked.
+
+"Dinner, I feel like starting the date with dialogue would be nice," Pinkie said.
+
+"Okay, so the current timeline is this: Pinkie's, Rarity's, dinner, show," Twilight said.
+
+"Yes," Pinkie said.
+
+"And after that everything happens at Sweet Apple Acres?" Twilight asked.
+
+"Yes," Rainbow answered.
+
+"Is the sunset going to be the last activity?" Twilight asked.
+
+"That sounds good," Pinkie said.
+
+"So, that leaves, dessert, game, and song," Twilight said.
+
+"Yes," Pinkie said.
+
+"I'd suggest this order: game, dessert, song, sunset," Twilight said.
+
+"That's good," Pinkie said, "what's the full order?"
+
+Twilight answered, "the chariot will start here, I will give them the schedule to follow so you don't need to worry about it. Then they will come pick you up, then to Rarity's, then to dinner, entertainment, game, dessert, song, sunset. After the date is over the chariot can take you two home."
+
+"Twilight, what do you think about the chariot leaving after we arrive at Sweet Apple Acres? I think walking her home sounds kinda romantic," Pinkie said.
+
+"That's fine, it is your date," Twilight said.
+
+Rainbow interjected, "Pinkie, you might want to take off your dresses and leave them in the chariot, you two probably don't want to sweat in the dresses, and Rarity would probably freak out if you eat dessert in your dress."
+
+"good idea," Pinkie said before turning to Twilight, "is that fine, can they bring the dresses back to you?"
+
+Twilight answered, "yes."
+
+Pinkie smiled, "I think that's it, we planned a whole date, girls."
+
+"Yes," Rainbow said, "the best date I've ever planned."
+
+*Also the only...*
+
+*Hopefully not for long.*
+
+Twilight smiled, "I'm glad I could help."
+
+Pinkie got up from the table, grabbing both ponies into a group hug, "thank you girls, I wouldn't have been able to do this without you."
+
+Twilight hugged the group, "anytime Pinkie."
+
+Rainbow hugged too, "I'm always there for a friend."
+
+After the hug was over, Pinkie proclaimed, "now, time to prepare for the best date ever!"
+
+Rainbow turned to Twilight, "good bye Twi."
+
+Pinkie also said bye, "bye Twilight."
+
+"Goodbye girls," Twilight said.
+
+With that the two ponies left Twilight's abode.
+
+Rainbow turned to Pinkie once they were outside, "Pinkie, I gotta go practice for the flight show, I'll catch up with you later."
+
+"Rainbow, before you go, I wanted to give you a special thank you," Pinkie said.
+
+"Oh," Rainbow said.
+
+"You stepped up big time for me, I know your not the first pony most would think of when they think of date planner, but you did a great job, and I really appreciate it," Pinkie said.
+
+"Like I said, I'm always there for my friends, besides, I'm glad you asked me. Helping you gave me a lot to think about, with my feelings for Fluttershy and all," Rainbow said.
+
+"Are you going to ask her out?" Pinkie asked.
+
+"Yes, the day after your date, me and Fluttershy are going to have breakfast together, I'm going to ask her out after we eat," Rainbow said, blushing a little.
+
+"That's awesome, I hope she says yes," Pinkie said.
+
+"Me too," Rainbow said.
+
+"Good luck," Pinkie said.
+
+"Thanks," Rainbow said before giving Pinkie one last hug.
+
+Pinkie hugged back with a smile.
+
+"I gotta go now, bye Pinkie," Rainbow said.
+
+"Bye Dashie," Pinkie said.
+
+With that Rainbow took off into the air, heading toward her practice spot.
+
+*Time to make the best show you can, for your friends,* she thought.
