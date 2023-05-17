@@ -1,10 +1,12 @@
 # Announce & Ask
 
-Rarity stood with Pinkie in Pinkie’s room, waiting on their friends to show up for the party. The two stood in silence for some time, Pinkie smiling, while Rarity pondered their friend's reaction to their new relationship.
+Rarity stood with Pinkie in the later’s room, waiting on their friends to show up for the party. The two stood in silence for some time, Pinkie smiling, while Rarity pondered their friend's reaction to their new relationship.
 
 *What if they don’t approve?*
 
 *What if they don’t want to be friends with us anymore?*
+
+*What if one of them had a crush on one of us and we ruin the entire party and they become miserable and resentful?*
 
 Thinking about it made Rarity fidget slightly, she hoped pinkie hadn't noticed.
 
@@ -12,15 +14,15 @@ She had.
 
 “Rarity, are you alright?” Pinkie asked, head tilting slightly.
 
-Rarity responded, “yes, just a little nervous, darling.”
+Rarity responded, “yes, just a little nervous darling.”
 
 Pinkie asked, “why? It’ll be fine, our friends will be nothing but supportive!”
 
 Rarity smiled, “yes, I know, but it still makes me a little nervous thinking about it.”
 
-Pinkie hugged her, “Everything will be fine, they’ll all be super supportive and excited for us.”
+Pinkie hugged her, “everything will be fine, they’ll all be super supportive and excited for us.”
 
-Rarity smiled in the hug, replying, “You’re right, thank you darling.”
+Rarity smiled in the hug, replying, “you’re right, thank you darling.”
 
 After the hug was over, their first guests knocked on Pinkie’s door. Pinkie hopped over to the door and opened it to reveal Rainbow Dash and Fluttershy.
 
@@ -30,17 +32,39 @@ After the exchange of hugs had completed, Rainbow asked, “What’s this party 
 
 Rarity, letting her nerves get to her, gulped, not knowing what Pinkie was going to say, luckily she had an answer.
 
-Pinkie replied, “You’ll see when everypony gets here, it's a secret.”
+Pinkie replied, “You’ll see when everypony gets here, it's a surprise.”
 
-Rainbow replied, “Okay, sounds exciting,” she turned to Rarity and asked, “does this secret involve you or is it a Pinkie thing?”
+*Good job, Pinkie.*
 
-Before Rarity could think of a reply, somepony knocked on Pinkie’s door. *Thank Celestia.*
+Rainbow replied, “Okay, sounds exciting,” she turned to Rarity and asked, “does this surprise involve you or is it a Pinkie thing?”
 
-Everypony turned to the door as Pinkie trotted to the door and opened it, revealing Applejack.
+"It's an 'us' kind of surprise," Rarity said, trying not to give it away.
+
+Before Rainbow could speak again, Rarity had hugged her.
+
+"Nice to see you again," Rarity said to Rainbow.
+
+"Same," Rainbow said to Rarity, returning the hug.
+
+After the hug was over, Rarity went to Fluttershy and hugged her, "I'm glad you could make it darling."
+
+"Glad to be here Rarity," Fluttershy said with a smile as she returned the hug.
+
+After the hug, their next guest knocked on the door.
+
+Everypony turned to the door as Pinkie trotted to it and opened it, revealing Applejack.
 
 Applejack trotted into the room, Pinkie closing the door behind her. She soon found herself the recipient of a Pinkie Pie hug, and returned it.
 
 After the hug was over, Pinkie said, “once Twilight gets here, we can get this party started.”
+
+Rarity said, "welcome Applejack," before giving her a hug.
+
+Applejack returned the hug, "thank you kindly."
+
+After the hug was over, Applejack asked, "what's the occasion? Or is it a regular Pinkie party?"
+
+Rarity answered, "you'll know soon enough, just waiting on Twilight."
 
 As if on cue, somepony knocked on Pinkie’s door, Pinkie went and opened it, revealing their final guest, Twilight.
 
@@ -48,15 +72,21 @@ As if on cue, somepony knocked on Pinkie’s door, Pinkie went and opened it, re
 
 Pinkie hugged Twilight, who returned it.
 
-Pinkie walked over to Rarity, about to make their big announcement, when she noticed something was up with Rarity. She leaned close to Rarity, hearing her fast breath and seeing her nervous micro-fidgets.
+Rarity joined the hug, making it a group hug.
 
-Pinkie puts her hoof around Rarity, pulling her close.
+After the hug was over, Pinkie said, "thank you all for coming, it means a lot to me and Rarity."
 
-*We can do this, together*, Rarity thought as she loosened up and smiled in the embrace.
+"What's going on?" Rainbow asked.
 
-Pinkie whispers, “are you okay? We don't have to do this if you don't want to.”
+Pinkie stood beside Rarity, about to make their big announcement when she looked over at Rarity.
 
-Rarity whispers back, “I am now, let’s do this.”
+Rarity could feel herself start to become nervous. *Come on Rarity, you can do this.*
+
+Pinkie had noticed, putting her hoof around Rarity she leaned over, whispering, “are you okay? We don't have to do this if you don't want to.”
+
+Pinkie's embraced calmed her some. *We can do this, together*, Rarity thought.
+
+Rarity whispers back, “I am now, let’s do this,” as she smiled in Pinkie's comforting embrace.
 
 The two turned to the rest of their friends, who looked confused as to what was going on.
 
@@ -80,39 +110,39 @@ Rarity returned the hug, smiling.
 
 Pinkie Pie stopped dancing, wanting a break. She walked over to the food table to grab a drink. She pours herself some punch, turning back towards her friends, she noticed Rainbow had followed her.
 
-Rainbow poured her own drink, then turned to Pinkie, saying, “Congratulations, you guys are cool together.”
+Rainbow poured her own drink, then turned to Pinkie, saying, “congratulations, you guys are cool together.”
 
-Pinkie replied, “Thanks,” then took a drink of her punch.
+Pinkie replied, “thanks,” then took a drink of her punch.
 
 Pinkie notices Rainbow’s eye dart towards the rest of their friends, then back to her.
 
-Rainbow, in a hushed tone, asked, “Who asked first? Did you both have feelings for each-other?”
+Rainbow, in a hushed tone, asked, “who asked first? Did you both have feelings for each-other?”
 
-Pinkie Pie, taking the hint, replied in a hushed tone, “Technically me, but she was about to ask too. And yes.”
+Pinkie Pie, taking the hint, replied in a hushed tone, “technically me, but she was about to ask too. And yes.”
 
-Rainbow asked another question, “How long did you wait before you asked her out?”
+Rainbow asked another question, “how long did you wait before you asked her out?”
 
-Pinkie replied, “A few weeks, but at the end, it was hard not to just blurt it out and kiss her then and there.”
+Pinkie replied, “a few weeks, but at the end, it was hard not to just blurt it out and kiss her then and there.”
 
-Rainbow muttered under her breath, “Tell me about it…” as her eyes flashed to Fluttershy.
+Rainbow muttered under her breath, “tell me about it…” as her eyes flashed to Fluttershy.
 
-Pinkie, not quite hearing it, asked, “What was that?”
+Pinkie, not quite hearing it, asked, “what was that?”
 
 Rainbow quickly replied, “I mean.. Uh.. I have one last question, have you guys went on a date yet?”
 
-Pinkie Pie replied, “No, not yet,” as gears in her head started turning, “but I'm going to change that soon.”
+Pinkie Pie replied, “no, not yet,” as gears in her head started turning, “but I'm going to change that soon.”
 
-Rainbow replied, “Okay.”
+Rainbow replied, “okay.”
 
-Pinkie Pie, mind now in full motion, thinking about how she was going to plan their first date, asked Rainbow, “Can you help me?”
+Pinkie Pie, mind now in full motion, thinking about how she was going to plan their first date, asked Rainbow, “can you help me?”
 
-Rainbow answered, “Sure, with what?”
+Rainbow answered, “sure, with what?”
 
-Pinkie replied, “The date, silly.”
+Pinkie replied, “the date, silly.”
 
-Rainbow, while look at Fluttershy, replied, “Okay, but I'm not the best at this sort of stuff.”
+Rainbow, while look at Fluttershy, replied, “okay, but I'm not the best at this sort of stuff.”
 
-Pinkie hugged Rainbow, “Thank you.”
+Pinkie hugged Rainbow, “thank you.”
 
 After the hug, Pinkie looked over at Rarity, seeing those blue eyes staring back.
 
