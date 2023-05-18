@@ -148,7 +148,7 @@ After the hug, Pinkie looked over at Rarity, seeing those blue eyes staring back
 
 Rainbow fallowed her gaze, seeing the pair’s locked eyes.
 
-“Pinkie, go ask her to dance,” Rainbow said, then she went over to the turntable.
+“Pinkie, go ask her to dance,” Rainbow said before she went over to the turntable.
 
 “Okay,” Pinkie said, starting for Rarity.
 
@@ -304,9 +304,9 @@ Speaking at almost a whisper, Fluttershy said, “I.. have a.. crush on Rainbow 
 
 Rarity replied, “why, darling, that's wonderful.”
 
-Fluttershy meekly asked, “how?”
+Fluttershy meekly asked, “how? I can't ask her out, no mater how much I want too...”
 
-Rarity answered, “you know what you want, and are wiling to share that with me. You can work towards your goal, and I can help you.”
+Rarity answered, “you know what you want, that's the first step. You can work towards your goal, and I can help you.”
 
 Fluttershy, in a more hopeful tone, asked, “how can you help?”
 
@@ -320,7 +320,7 @@ Rarity answered, “I can help you build courage, you can pretend I’m Rainbow 
 
 “Didn’t I see her wing around you earlier tonight?” Rarity asked.
 
-“Well yes, she put her wing around me and I leaned into it, then she tensed up and removed her wing, I don’t know what I did wrong, I thought..” Fluttershy trailed off.
+“Well yes, she put her wing around me and I leaned into it, then she tensed up and removed her wing, I don’t know what I did wrong, I thought...” Fluttershy trailed off.
 
 “I think she removed her wing because of me, I was looking at her when she tensed up, she’s probably just self-conscious about being affectionate in public, you know Rainbow,” Rarity said.
 
@@ -348,7 +348,7 @@ Pinkie looked up when she heard her door open, turning to look, she saw Rarity f
 
 “Thanks Pinkie,” Fluttershy said, returning the hug.
 
-“Hey, Fluttershy, can you help me plan my date with Rarity? I already asked everypony else, well, except Rarity, probably shouldn’t ask,” Pinkie said.
+“Hey, Fluttershy, can you help me plan my date with Rarity? I already asked everypony else, well, except Rarity,” Pinkie said.
 
 “Oh, um, sure,” Fluttershy answered.
 
@@ -364,15 +364,15 @@ Rarity returned the hug, “love you too.” After the hug, Rarity said, “good
 
 Fluttershy replied, “bye, Rarity, see you tomorrow.”
 
-Twilight replied, “I’ll walk with you, Rarity, I was going to leave soon, anyway.”
+Twilight replied, “I’ll walk with you, Rarity, I was about to say that I needed to leave soon anyway.”
 
-Rarity said, “okay, darling.”
+Rarity said, “okay darling.”
 
 Twilight said, “goodbye girls, see you next time.”
 
 Pinkie said, “goodbye,” as she hugged Twilight.
 
-Fluttershy hugged Twilight after her previous hug was over, saying, “goodbye, Twilight.”
+Fluttershy hugged Twilight after her previous hug was over, saying, “goodbye Twilight.”
 
 Twilight and Rarity walked away from Pinkie and Fluttershy, towards Rainbow and Applejack, exchanging goodbyes and hugs with the two.
 
@@ -384,7 +384,7 @@ After the exchange was over, Twilight and Rarity walked out of Pinkie’s room, 
 
 Soon after, Applejack and Rainbow walked over to Pinkie and Fluttershy.
 
-“I’ve got to get goin’ too, sugar cube, I’ve got a few chores around the farm that need doin’ before the day's end,” Applejack said.
+“I’ve got to get goin’ too sugar cube, I’ve got a few chores around the farm that need doin’ before the day's end,” Applejack said.
 
 Pinkie hugged Applejack, saying, “It’s okay, thanks for coming.”
 
@@ -438,7 +438,7 @@ Pinkie asked, “any other questions?”
 
 “Yes, what do I say?” Rainbow asked, a bit bashfully, averting her gaze to hide a blush.
 
-“Just be honest with her, tell her how you feel, maybe she secretly has a crush on you and just hasn’t asked because she's you know, shy. I had no idea Rarity liked me until after I asked her out,” Pinkie answered as she started cleaning again.
+“Just be honest with her, tell her how you feel, maybe she secretly has a crush on you and just hasn’t asked because she's you know, shy. I had suspicions Rarity liked me, but no way to confirm them without asking,” Pinkie answered as she started cleaning again.
 
 “Wow, that’s surprising good advice, thanks Pinkie,” Rainbow said.
 
@@ -452,9 +452,9 @@ Pinkie asked, “any other questions?”
 
 “Thanks,” Pinkie said, smiling as she worked.
 
-“Last question, I swear, did you know she had feelings for you before you asked her out?” Rainbow asked.
+“Last question, I swear, you said you thought she liked you before you asked her, what were the signs?” Rainbow asked.
 
-“At the time, I had suspicions, but I didn’t know if they were real or just me wanting them to be. The only way to know is to ask. Now, looking back, I can easily tell they were real, they way she smiled at me changed, it was more radiant. She wanted to do more stuff together. I’d catch her staring, then looking away when I noticed. She even started blushing around me, rarely.
+"The way she acted changed, we spent more time together, her smile was more radiant. Our hugs were longer, she hugged me tighter. I'd catch her starring then looking away when I noticed. She even blushed around me a few times. Looking back now it is all so clear, but at the time I didn't know if they were real or just my imagination wanting them to be real," Pinkie said.
 
 “Thanks, Pinkie, you’ve helped me a lot and given me a lot to think about,” Rainbow said.
 
@@ -484,7 +484,7 @@ Rainbow thought for a seconds, before saying, "I feel a connection with her, I w
 
 "thanks, me too," Rainbow said.
 
-Rainbow put away the last of the balloons into Pinkie’s cabinet, then turns to Pinkie saying, “That’s almost all the decorations cleaned up, I’m going to head out, so I can catch up to Fluttershy and Applejack before they get home.”
+Rainbow put away the last of the balloons into Pinkie’s cabinet, then turns to Pinkie saying, “that’s almost all the decorations cleaned up, I’m going to head out, so I can catch up to Fluttershy and Applejack before they get home.”
 
 “Okay, thanks for the help,” Pinkie said as she walked to Rainbow and hugged her.
 
@@ -528,7 +528,7 @@ Letting go of the hug, Rarity said, “goodnight,” as she smiled at Twilight.
 
 Twilight smiled back and said, “goodnight,” a moment later, Twilight started walking towards her home as Rarity opened the door to her boutique.
 
-Rarity trotted in the kitchen, looking around she found nothing out of place but could hear a pony walking down the stairs. Looking at the stairs, she found Sweetie Belle stop at the bottom and look at her.
+Rarity trotted in the kitchen, looking around she found nothing out of place but could hear a pony walking down the stairs. Looking at the stairs, she found Sweetie Belle had stopped at the bottom, and was looking at her.
 
 Sweetie Belle asked, “how did the party go?”
 
@@ -574,7 +574,7 @@ Sweetie Belle finished her food, then drank the last of her chocolate milk.
 
 Rarity sat her food down and asked, "is there somepony you've got your eye on?"
 
-Sweetie Belle blushed, looked away and said, "time for bed, I'm done with my dinner."
+Sweetie Belle blushed, looked away and said, "oh look, I'm done eating, time for bed."
 
 Rarity got up and embraced Sweetie Belle in a hug, "you don't have to tell me anything, but I'm always here if you need advice or want to talk."
 
