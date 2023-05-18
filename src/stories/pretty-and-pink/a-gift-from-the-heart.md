@@ -16,7 +16,7 @@ Not at all to Rarity’s surprise, Mrs. Cake answered the door, “hello.”
 
 Mrs. Cake let Rarity inside and closed the door behind her. Rarity walked up the stairs to the upper part of the establishment, while Mrs. Cake went back into the kitchen.
 
-Once Rarity had ascended the stairs, she knocked on Pinkie’s door, *here goes nothing,* she thought.
+Once Rarity had ascended the stairs, she knocked on Pinkie’s door, *here goes nothing*, she thought.
 
 Pinkie Pie answered the door a moment later and said, “hey Rarity, what's up?”
 
@@ -46,7 +46,7 @@ Rarity took a moment to admire Pinkie as she hopped beside her, none the ware of
 
 Her thoughts were interrupted when Pinkie asked, “how’s your day going, Rarity?”
 
-“Good, and yours darling?”
+“Good, and yours, darling?”
 
 “It’s going great!”
 
@@ -80,21 +80,21 @@ Pinkie nodded, “yes.”
 
 Rarity levitated the cake over the table and cut 2 pieces and put them on their plates. She put the cake back and got the milk from the fridge and poured them each a glass.
 
-“Here you are darling,” Rarity said as she laid the plate of cake and glass of milk in front of her crush. Then laying hers in front of herself.
+“Here you are, darling,” Rarity said as she laid the plate of cake and glass of milk in front of her crush. Then laying hers in front of herself.
 
 “Thank you, Rarity,” Pinkie said as she started munching on her cake.
 
 “You're welcome,” Rarity replied.
 
-Rarity looked over at Pinkie and couldn't believe her eyes. *How on earth does that mare look so cute doing something as simple as eating,* Rarity thought. Then started eating to hide her blush.
+Rarity looked over at Pinkie and couldn't believe her eyes. *How on earth does that mare look so cute doing something as simple as eating*, Rarity thought. Then started eating to hide her blush.
 
 They sat quietly eating their cake and drinking their milk, once they were done Rarity cleaned up the dishes.
 
-“Are you ready darling?” Rarity asked.
+“Are you ready, darling?” Rarity asked.
 
 “Yes,” Pinkie said.
 
-Rarity led Pinkie to her work area and said, “get on the stand and we can begin.”
+Rarity led Pinkie to her work area and said, “get on the stand, and we can begin.”
 
 <p align="center">***</p>
 
