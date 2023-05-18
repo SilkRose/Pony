@@ -1,6 +1,6 @@
 # A Gift From The Heart
 
-Rarity closed the door to her shop, turning toward Sugarcube Corner she started trotting.
+Rarity closed the door to her shop, turning toward Sugarcube Corner, she started trotting.
 
 *Today is the day*, she thought.
 
@@ -14,7 +14,7 @@ Rarity closed the door to her shop, turning toward Sugarcube Corner she started 
 
 *Not that she doesn't look beautiful already*, she thought as a blush started to form on her cheeks.
 
-Rarity thought about the dress, *I hate that I'm lying to her about who the dress is for, I just want it to be a surprise.*
+Rarity thought about the dress, *I hate that I'm lying to her about whom the dress is for, I just want it to be a surprise.*
 
 *Pinkie is always trying to make her friends happy, she is like a gift to us all.*
 
@@ -32,7 +32,7 @@ Rarity's thoughts turned towards her affection for Pinkie, *that mare has a hold
 
 *But not today*, she thought. 
 
-Her thoughts ceased when she arrived at Sugarcube Corner. Walking inside she found Mrs. Cake at the counter.
+Her thoughts ceased when she arrived at Sugarcube Corner. Walking inside, she found Mrs. Cake at the counter.
 
 "Hello, is Pinkie Pie in?" Rarity asked.
 
@@ -88,7 +88,7 @@ They walked in silence for a while as Rarity couldn't help but stare.
 
 *So carefree and full of fun*, she thought, *I could use a little of that in my life.*
 
-Pinkie had noticed the starring, "are you okay, you're face is a little red."
+Pinkie had noticed the staring, "are you okay, your face is a little red."
 
 Rarity said, "oh, I'm fine... just excited about this dress," averting her gaze.
 
@@ -198,7 +198,7 @@ Pinkie returned the hug.
 
 Pinkie’s mouth hung open for a second, then she closed it and started tearing up, “oh, thank you Rarity, you're the best!” She wrapped Rarity in a tight hug.
 
-They pulled away from the hug and starred into each other's eyes, not speaking.
+They pulled away from the hug and stared into each other's eyes, not speaking.
 
 They slowly moved their heads closer until their lips met. They held the kiss for a long while, both parties releasing weeks of pent-up lust and passion into the kiss.
 
