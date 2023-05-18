@@ -98,23 +98,23 @@ Rarity led Pinkie to her work area and said, “get on the stand, and we can beg
 
 <p align="center">***</p>
 
-Pinkie got up on the stand, so Rarity could do her work. Rarity floated over her red work glasses and placed them on her snout. *Why do you have to wear those while you work, you are too cute already,* Pinkie thought and turned her head to hide her blush.
+Pinkie got up on the stand, so Rarity could do her work. Rarity floated over her red work glasses and placed them on her snout. *Why do you have to wear those while you work, you are too cute already*, Pinkie thought and turned her head to hide her blush.
 
 “Pinkie, I need you to look at me, so I can make this dress,” Rarity said.
 
-*Oh shoot, hopefully, she doesn't notice,* Pinkie thought, reluctantly turning her head to face Rarity.
+*Oh shoot, hopefully, she doesn't notice*, Pinkie thought, reluctantly turning her head to face Rarity.
 
-“That's better, thank you darling,” Rarity said.
+“That's better, thank you, darling,” Rarity said.
 
-*Good, she doesn't seem to have noticed,* Pinkie looked at Rarity, she was levitating different shades of pink fabric above Pinkie’s coat.
+*Good, she doesn't seem to have noticed*, Pinkie looked at Rarity, she was levitating different shades of pink fabric above Pinkie’s coat.
 
-*You can do this Pinkie, all you have to do is stand here while the mare you have a crush on is a mere foot away, unknowingly being cute,* Pinkie thought, gulping.
+*You can do this Pinkie, all you have to do is stand here while the mare you have a crush on is a mere foot away, unknowingly being cute*, Pinkie thought, gulping.
 
 Rarity had chosen the main fabric for the dress while Pinkie was thinking and was cutting it in the shape of the main dress layer.
 
 Once Rarity had finished cutting it, she laid it on Pinkie’s back and started staring at Pinkie.
 
-*Why is she staring at me like that? That doesn't look like a ‘I'm making a dress’ kind of look,* Pinkie thought.
+*Why is she staring at me like that? That doesn't look like a ‘I'm making a dress’ kind of look*, Pinkie thought.
 
 Rarity stopped staring and floated a sizable piece of fabric in front of her face for a few seconds. When she moved it away, Pinkie could notice the barest hint of a blush on Rarity’s cheeks. 
 
