@@ -5,9 +5,11 @@ Mane Characters: [Rarity](../../ponies/rarity.md), [Pinkie Pie](../../ponies/pin
 Location: [Ponyville](../../places/ponyville.md)
 
 ### Synopsis
+
 Sequel to Pretty and Pink. Pinkie plans a date for them.
 
 ### Description
+
 Rarity and Pinkie throw a party announcing and celebrating their relationship. Rainbow asks if they’ve gone on a date, Pinkie thinks it's a great idea, asking Rarity out on the dance floor.
 
 With the help of her friends, can Pinkie plan an amazing date for Rarity? Will she still be able to do it while helping Rainbow deal with her feelings for Fluttershy?
@@ -15,20 +17,23 @@ With the help of her friends, can Pinkie plan an amazing date for Rarity? Will s
 Cover done by IrradiatedPirateBooty#7892 on Discord.
 
 ### Short Description
-Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow with their feelings for each other.
+
+Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow deal with their feelings for each other.
 
 ### Ideas
+
 - Have sub-plot of Rainbow and Fluttershy liking each other, they ask each other out in an epilogue.
 - Each friend helps with one thing:
 	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell ‘Rarity <3 Pinkie’, and clears the skies for their date.
 	- Fluttershy - Helps make Rarity a dress for Pinkie to give her.
-	- Applejack - Provides the place and sets up the picnic with food for the end of the date, and provides dinner for the two.
+	- Applejack - Provides the place and sets up the picnic with desert for the end of the date.
 	- Twilight Sparkle - Provides royal carriage for transportation on the date, and helps time the date for sunset.
 - Rarity and Pinkie also pick something for the date:
-	- Rarity - Rarity just wants to spend time with Pinkie, so Pinkie asks Rarity is she wants to have a sleepover at the end of the date.
-	- Pinkie - Pinkie sings Rarity a song.
+	- Rarity - Rarity just wants to spend time with Pinkie, so Pinkie asks Rarity if she wants to have a sleepover at the end of the date.
+	- Pinkie - Pinkie sings Rarity a song. She picks the game they play. She makes the desert they eat.
 
 ### Chapters
+
 [Chapter 1: Announce & Ask](01-announce-and-ask.md):
  - Rarity and Pinkie Pie announce to their friends that they are dating.
  - Pinkie asks Rarity to go on their first date.
@@ -36,14 +41,16 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
  - Rarity agrees to help Fluttershy overcome her fear.
  - Pinkie asks their friends to help with the date.
  - Rainbow confides in Pinkie that she has a crush on Fluttershy.
+ - Pinkie and Rainbow each at some point say why they fell in love with their desired pony.
 
 [Chapter 2: Practice and Plan](02-practice-and-plan.md):
  - Fluttershy practices with Rarity a number of times to be able to ask out Rainbow Dash.
  - Pinkie goes to each friend asking how they could help, slowly piecing together a date plan.
  - Each pony contributes something, including Rarity and Pinkie. (See [ideas](#Ideas))
- - Pinkie, Rarity, Rainbow, and Fluttershy each at some point say why they fell in love with their desired pony.
+ - Rainbow asked Fluttershy to breakfast at Rainbow's place the day after Rarity and Pinkie have their date.
+ - Rarity and Fluttershy each at some point say why they fell in love with their desired pony.
 
-3. Dressmaking and Determination
+[Chapter 3: Dressmaking and Determination](03-dressmaking-and-determination.md):
  - Pinkie tries to do all 3 things at once, make a dress with Fluttershy, teach Rainbow how to make pancakes, bake a special cake for her date with Rarity.
  - This backfires as she is unable to give enough attention to each task.
  - Rainbow isn't learning, the cake is burnt, the dress looks bad.
@@ -57,7 +64,7 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
  - The chapter ends as Pinkie hugs everypony while she cries tears of joy.
  - The cake and dress aren't described in detail in this chapter.
 
-5. Darling and Date:
+[Chapter 4: Darling and Date](04-darling-and-date.md):
  - Rarity and Pinkie go on the date.
    - Pinkie gives the dress to Rarity.
    - They ride in the chariot to dinner at a fancy restaurant.
@@ -75,8 +82,8 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
    - She says yes.
    - They have a slumber party and fall asleep in Pinkies bed, cuddled together.
 
-6. Epilogue - Breakfast and Bonding:
- - Rainbow Dash wakes Fluttershy up, asking her to come eat breakfast at her place.
+[Epilogue: Breakfast and Bonding](05-breakfast-and-bonding.md):
+ - Fluttershy goes to Rainbow's place to have breakfast.
  - Rainbow Dash makes pancakes for Fluttershy.
  - Fluttershy asks Rainbow out after they eat.
  - Rainbow is taken aback but says yes excitedly.
@@ -84,4 +91,5 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 
 
 ### Cover
+
 ![Cover](cover.png)
