@@ -134,7 +134,7 @@ They sat quietly eating their cake and drinking their milk, once they were done 
 
 Rarity led Pinkie to her work area and said, “get on the stand, and we can begin.”
 
-<p align="center">***</p>
+***
 
 Pinkie got up on the stand, so Rarity could do her work. Rarity floated over her red work glasses and placed them on her snout.
 
@@ -166,7 +166,7 @@ Pinkie stopped paying attention to what Rarity was doing, lost in her thoughts.
 
 *How long will this take? I don’t know how long I can last.. I.. need to tell her. Yea. I’ll do it after we're done making the dress. I can’t hide my feelings any longer.*
 
-<p align="center">***</p>
+***
 
 “There,” Rarity said, “it looks absolutely beautiful,” *and so do you*, she thought.
 

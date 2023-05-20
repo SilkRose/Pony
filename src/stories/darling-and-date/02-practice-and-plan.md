@@ -220,7 +220,7 @@ Fluttershy replied, "you should get your wish when you go on your date."
 
 Fluttershy answered, "yes."
 
-<p align="center">***</p>
+***
 
 Rainbow Dash stepped out of her front door, closing it behind her. She took a few steps to the ledge of her house's landing, before falling off and spreading her wings. She flew towards Sugarcube Corner while grappling with her feelings for Fluttershy.
 
@@ -432,7 +432,7 @@ Pinkie thought for a few seconds before saying, "the day after tomorrow. Today w
 
 "Okay," Rainbow said.
 
-<p align="center">***</p>
+***
 
 "Rainbow Dash, w..." Fluttershy managed.
 
@@ -762,7 +762,7 @@ Fluttershy heard water running, looking over she saw Pinkie had started to do th
 
 Fluttershy turned back to Rainbow, who looked like she had something to say.
 
-<p align="center">***</p>
+***
 
 Rainbow looked at Fluttershy, *might as well get this started,* she thought.
 
@@ -994,7 +994,7 @@ Rarity took the package inside with her magic and closed the door.
 
 Rainbow flew up into the sky, heading for Sweet Apple Acres.
 
-<p align="center">***</p>
+***
 
 Fluttershy was sitting on the couch when Rarity came back from answering the door, she had a package in her magic.
 
@@ -1128,7 +1128,7 @@ They let go of the hug, pulling back Fluttershy saw Rarity's eyes, "I'm sorry Ra
 
 "Thanks, love you too," Fluttershy said with a smile.
 
-<p align="center">***</p>
+***
 
 Rainbow landed next to Pinkie, saying, "delivered."
 
@@ -1286,7 +1286,7 @@ They lined up next to each other, Rainbow getting in a running stance while Pink
 
 With that they were off, Rainbow dashed off the line, running as fast as she could.
 
-<p align="center">***</p>
+***
 
 "Are you ready to continue practicing?" Rarity Dash asked.
 
@@ -1392,7 +1392,7 @@ Letting go of the hug Fluttershy asked, "was that right?"
 
 Fluttershy's eyes were watering by the end of her speech. Fluttershy hugged Rarity Dash tightly, "I'm ready," she proclaimed.
 
-<p align="center">***</p>
+***
 
 Rainbow rounded the last corner, galloping at a good pace. *No Pinkie Pie in sight,* she thought.
 

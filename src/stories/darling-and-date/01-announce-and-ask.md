@@ -106,7 +106,7 @@ Pinkie started dancing, a few of her friends deciding to join her. Twilight stay
 
 Rarity returned the hug, smiling.
 
-<p align="center">***</p>
+***
 
 Pinkie Pie stopped dancing, wanting a break. She walked over to the food table to grab a drink. She pours herself some punch, turning back towards her friends, she noticed Rainbow had followed her.
 
@@ -152,7 +152,7 @@ Rainbow fallowed her gaze, seeing the pair’s locked eyes.
 
 “Okay,” Pinkie said, starting for Rarity.
 
-<p align="center">***</p>
+***
 
 Rarity found herself staring at Pinkie from across the room, watching her whisper back and forth with Rainbow Dash.
 
@@ -248,7 +248,7 @@ Fluttershy took her time answering, as she looked up at Rarity, pondering what t
 
 *What could be wrong, I hope everything is alright.*
 
-<p align="center">***</p>
+***
 
 Pinkie Pie decides to go talk to Twilight after Rarity went to get a drink.
 
@@ -286,7 +286,7 @@ Twilight, Rainbow, and Pinkie all shook their heads.
 
 Pinkie hugged applejack, saying, “thanks.”
 
-<p align="center">***</p>
+***
 
 Rarity lead Fluttershy into Pinkie’s upstairs bathroom, closing the door behind them.
 
@@ -340,7 +340,7 @@ Fluttershy in a determined tone, asked, “when can we practice?”
 
 “You’re most welcome,” Rarity said, hugging back.
 
-<p align="center">***</p>
+***
 
 Pinkie looked up when she heard her door open, turning to look, she saw Rarity followed by Fluttershy returning to her room. The pair split, Rarity walked up to Rainbow and Applejack, while Fluttershy walked to Twilight and Pinkie.
 
@@ -496,7 +496,7 @@ After the hug was over, Rainbow flew out of Pinkies window, eager to see her cru
 
 Pinkie closed the window behind her. Then finished cleaning up the rest of the party, she yawned as she looked around the room, seeing nothing left to pick up. She thought about starting to plan her date, but decided she would be more prepared after a good night's sleep. Going to bed early tonight, Pinkie laid down in her bed. She smiled as she fell asleep thinking of all the possibilities for her date, and the idea of her two friends dating, *I hope everything goes well for them,* she thought as she drifted off to sleep.
 
-<p align="center">***</p>
+***
 
 Rarity closed the door to Pinkie’s room with a smile and a slight blush on her face. She and Twilight walked down the stairs, trotting out of the store, the pair turned towards Rarity’s house.
 
