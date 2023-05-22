@@ -17,7 +17,7 @@ A stallion falls for his mailmare, inspired by [this](https://www.youtube.com/wa
 ### Flow
 
 ### Chapters
-[Day 1](01.md) Saturday - he notices her:
+[Day 1](./01.md) Saturday - he notices her:
  - He moves in, came from a big city, takes in the surroundings. thinks about how much nicer and quieter it is here, like the small village he grew up in.
  - mail comes, sees Derpy, briefly interacts. (she greets him.)
  - takes mail in as he takes his shit in and starts unpacking as he briefly thinks about how friendly the mail mare was.

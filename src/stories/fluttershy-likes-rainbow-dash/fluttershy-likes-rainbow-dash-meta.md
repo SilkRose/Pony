@@ -26,7 +26,7 @@ Fluttershy has a crush on Rainbow Dash. She decides to ask her out.
 
 
 ### Chapters
-[01](01.md)
+[01](./01.md)
 
 ### Cover
 
