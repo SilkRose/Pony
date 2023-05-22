@@ -52,3 +52,39 @@ Twilight asks out pinkie, but when she goes to Rarity’s for date advice she is
 
 ### Short Description:
 Do you know where your Pinkie Pie is?
+
+## That one time Pinkie Pie’s butt lead to another dimension
+
+No details provided.
+
+## Unnamed Chrysalis as Twilight romance story
+
+### Synopsis:
+Guy is cuddling twilight Sparkle and loving it in chapter one, chapter two is from Twilight's perspective revealing she is actually Queen Chrysalis and thinks this human is president of earth when he is actually just a president of a fan club or something.
+
+## Pinkie Pie, The Worst Assassin Ever
+
+### Synopsis:
+Pinkie Pie is hired to kill a pony. She misunderstands, and plays tag with them.
+
+### Short Description:
+Pinkie Pie is hired to take out somepony. Can she do it? Will she choke? Does she even know what she’s doing?
+
+## Map Mishaps
+
+No details provided.
+
+## Unnamed Rainbow x Rarity romance story
+
+### Synopsis:
+Rarity and Rainbow are lost in the wilderness and become close as they find there way home.
+
+## Unnamed Fluttershy x Pinkie romance story
+
+### Synopsis:
+Pinkie stays at Fluttershy's house during a thunder storm over night, what will they get up to during the night?
+
+## Unnamed Pinkie x Twilight romance story
+
+### Synopsis:
+Pinkie sleeps over at Twilight's and they have a play date where everything is made of books.
