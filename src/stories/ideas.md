@@ -47,3 +47,8 @@ Twilight asks out pinkie, but when she goes to Rarity’s for date advice she is
 26. Pinkie says she is on board if Twilight is.
 27. Twilight says she will do it.
 28. 
+
+## Continuity of Ponks
+
+### Short Description:
+Do you know where your Pinkie Pie is?
