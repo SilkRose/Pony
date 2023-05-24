@@ -34,7 +34,7 @@ She was about to head upstairs to her room when she heard the door open, looking
 
 Fluttershy recovers and says, "Pinkie, I'm here to make the dress, I carried a ponnequin from Rarity's, it's outside. Can you carry it to your room, those things are surprisingly heavy."
 
-"Sure," Pinkie says as she heads outside, spotting the ponnequin and a small bag with fabric inside.
+"Sure," Pinkie says as she heads outside, spotting the ponnequin and a large bag with fabric inside.
 
 Pinkie takes the bag in her mouth and does her best to carry the ponnequin inside and upstairs to her room.
 
@@ -54,5 +54,17 @@ Pinkie reassured her, "that was a good idea."
 
 "Thank you," Fluttershy said.
 
-"Well, let's see what we have to work with," Pinkie said before taking the small bag and dumping the fabric over her bed.
+"Well, let's see what we have to work with," Pinkie said before taking the big bag and dumping the fabric over her bed.
+
+Bolts of fabric flew from the bag, landing on every corner of her bedspread. There were lots of colors and more than one shade of some colors.
+
+Pinkie pointed to each one as she said its color, "white, blue, pink, purple, light blue, green, light pink."
+
+Pinkie looked inside the bag, finding dozens of differently colored gemstones, "there's more in here," she said as she dumped then in the center of her bed.
+
+"Looks like we have a lot to work with," Fluttershy said.
+
+"We sure do," Pinkie said before looking over the pile of dress ingredients splayed out on her bed, "Rarity made my dress pink, should we make her dress white?" Pinkie asked, picking up the white bolt of fabric.
+
+"That sounds good," Fluttershy said.
 
