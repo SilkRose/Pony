@@ -68,3 +68,51 @@ Pinkie looked inside the bag, finding dozens of differently colored gemstones, "
 
 "That sounds good," Fluttershy said.
 
+Pinkie brought the bolt of fabric and gave it to Fluttershy.
+
+Fluttershy began by unrolling a few lengths of fabric, "hold this," she said, giving the end of the fabric to Pinkie.
+
+Pinkie took it between her hooves before Fluttershy got some scissors and cut the fabric at the bolt end.
+
+Fluttershy placed the cut fabric over the ponnequin, centering it on its back.
+
+Pinkie looked at Fluttershy, asking, "how do you make a dress?"
+
+Fluttershy answered, "I don't know, all we can do is think it though. I know we made Rarity's dress for the Gala, but that was already designed, now we have to design and make the dress."
+
+"Yea, did you have any ideas in mind?" Pinkie asked.
+
+"We should try to use colors that go well with Rarity's appearance, Rarity already did that by picking the colors of the fabric," Fluttershy said.
+
+"That's good," Pinkie said.
+
+Fluttershy asked, "do you have some safety pins? I need to hold this fabric in place."
+
+"Yes, I'll be right back" Pinkie said before leaving the room.
+
+Going into her upstairs bathroom. She opened a drawer on a cabinet and found them, she took as many as she could carry and returned to Fluttershy.
+
+"Here you go," Pinkie said after she laid them down in front of Fluttershy.
+
+"Thanks," Fluttershy said before she picked one up in her mouth. She pinned it in the fabric, holding the front two side together at the chest of the ponnequin.
+
+"Do you think we should put gems on it?" Pinkie asked.
+
+"Maybe, Rarity did include them in the bag," Fluttershy said.
+
+A few seconds later, Fluttershy asked, "how long do you want the dress to be? Do you want it short or do you want it long?"
+
+"Let's make it long, more regal like, I think," Pinkie answered.
+
+"Okay, I need you to hold up the skirt so I can cut it at the right length," Fluttershy said.
+
+"Okay," Pinkie said as she lifted the skirt in her hooves, spreading it out behind the ponnequin.
+
+Fluttershy carefully went around in a circle cutting the fabric at the right length. After the cut was over, Pinkie let the fabric hang.
+
+Taking a step back, both mares looked at the newly cut skirt.
+
+Fluttershy said, "I think it looks good, the cut wasn't perfect, but we should be able to fix it."
+
+Pinkie said, "yea, I think it looks good too."
+
