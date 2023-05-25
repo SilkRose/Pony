@@ -94,7 +94,7 @@ Going into her upstairs bathroom. She opened a drawer on a cabinet and found the
 
 "Here you go," Pinkie said after she laid them down in front of Fluttershy.
 
-"Thanks," Fluttershy said before she picked one up in her mouth. She pinned it in the fabric, holding the front two side together at the chest of the ponnequin.
+"Thanks," Fluttershy said before she picked one up in her mouth. She pinned it in the fabric, holding the front two sides together at the chest of the ponnequin.
 
 "Do you think we should put gems on it?" Pinkie asked.
 
@@ -115,4 +115,58 @@ Taking a step back, both mares looked at the newly cut skirt.
 Fluttershy said, "I think it looks good, the cut wasn't perfect, but we should be able to fix it."
 
 Pinkie said, "yea, I think it looks good too."
+
+Fluttershy asked, "do you have any ideas for the dress?"
+
+Pinkie took a moment looking at the current state of the dress.
+
+*We haven't done much so far, what would be good to do next?*
+
+*I like the flowing skirt, maybe we should bring more attention to it?*
+
+Pinkie said, "let's make the skirt pop somehow."
+
+Fluttershy thought for a second before suggesting, "like an edge trim?"
+
+"Yea, let's make it purple to match her mane," Pinkie said ecstatically.
+
+"Okay," Fluttershy said before she went and picked up the purple bolt of fabric.
+
+She unwound a single fold from the bolt, "how thick do you want the trim?" Fluttershy asked.
+
+Pinkie imagined the trim on the dress, *hmm.* She held her hoof up to her imagination and said, "about half my hoof."
+
+"Okay," Fluttershy said as she began to cut the fabric to length.
+
+Fluttershy held the purple strip up to the skirt, aligning it, "can you hold this?" Fluttershy asked.
+
+Pinkie held it as Fluttershy pinned it with a safely pin.
+
+"Every time I add a pin, move a few inches along and I'll pin it again," Fluttershy explained.
+
+They worked together slowly getting the purple trim held in place, occasionally stopping to cut more purple fabric.
+
+"There," Fluttershy said as they finished, "now it's held in place we can sew it on."
+
+Fluttershy looked at Pinkie, "do you have a sewing needle and thread?"
+
+Pinkie shook her head before thinking, *maybe Rarity sent some.*
+
+Going over to the bag Rarity had sent, she looked inside, finding exactly what she needed, a small pouch. Pulling it out she opened it, find several sewing needles and spools of thread.
+
+"Here you go," Pinkie said with a smile, handing the pouch to Fluttershy.
+
+Fluttershy began sewing the purple trim to the skirt, slowly, taking her time.
+
+Pinkie remembered the cake, *oh, I should go check on it.*
+
+"Do you need me?" Pinkie asked, "I need to go check the cake I have in the over, its for the date."
+
+Fluttershy answered, "not right now, you can go."
+
+"Thank you," Pinkie said, gently giving her a hug, trying not to disturb her.
+
+"You're welcome," Fluttershy said with a smile.
+
+With that Pinkie trotted out of the room, making her way downstairs.
 
