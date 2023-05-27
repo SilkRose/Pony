@@ -170,3 +170,117 @@ Fluttershy answered, "not right now, you can go."
 
 With that Pinkie trotted out of the room, making her way downstairs.
 
+Turning the corner at the bottom of the stairs, she sees Rainbow walking towards her.
+
+"Hi Pinkie, I'm here to learn how to make pancakes," Rainbow said.
+
+*I guess I can do two things at once.*
+
+"Okay, let's go to the kitchen," Pinkie said before leading Rainbow to the kitchen.
+
+Pinkie checks the timer, *still a while till the cake is ready.*
+
+Pinkie got out a box of pancake mix and a big bowl, and two of everything they needed; frying pan, mixing bowl, various measuring cups, whisk, plate and spatula.
+
+Pinkie turns to Rainbow, "we are going to start with making pancakes from pancake mix, this will help you learn the basics."
+
+Rainbow said, "okay."
+
+Pinkie continued, "after we are good with these we will move onto homemade pancakes."
+
+Rainbow said, "okay, I'm excited to learn."
+
+Pinkie finished, "I'm going to make pancakes right beside you so you can watch and ask questions."
+
+"Sounds good," Rainbow said.
+
+Pinkie got out a stick of butter from the fridge and two butter knives from a drawer.
+
+Pinkie instructed, "open the pancake mix and pour a decent amount into that big bowl," as she pointed to the bowl.
+
+Rainbow did as instructed, "is that good?"
+
+"Yes," Pinkie said, "now take a one cup measuring cup and put 2 cups of pancake mix into your mixing bowl."
+
+Rainbow did as she was told before Pinkie also did it.
+
+"Okay, now add one and a half cups of water," Pinkie said.
+
+Rainbow does as instructed, "now we stir it, right?"
+
+"Yes, good eye," Pinkie said as she added her water.
+
+They both picked up their whisks and started to stir, Rainbow watched Pinkie closely, making sure she was stirring correctly.
+
+After Pinkie stopped stirring, Rainbow stopped too.
+
+Pinkie looked at Rainbow's mixed batter, "looks good."
+
+"Now what?" Rainbow asked.
+
+"Take your pan, and place it on the stove, and place your plate next to the stove," Pinkie said.
+
+Rainbow did so in step with Pinkie.
+
+"Now, we are going to turn the stove on," Pinkie said as she turned on her burner to the four setting.
+
+Rainbow followed suit, "how long do we wait to pour the batter?"
+
+"A few minutes, but before we place in the batter we want to add some butter to the pan, to keep it from sticking," Pinkie explained.
+
+Rainbow looked at the butter, "how much do we add?"
+
+"One tablespoon," Pinkie said before cutting off said amount from the stick of butter.
+
+Rainbow copied her.
+
+After waiting till the pans were hot, Pinkie took the wrapping on her butter and placed it in the center of the pan.
+
+The butter in Pinkie's pan started to sizzle as Rainbow unwrapped her butter before putting it in her own pan.
+
+Pinkie used her butter knife to spread the butter around the pan, Rainbow following suit.
+
+"Now pour in the batter, the amount you pour in makes them bigger or smaller," Pinkie said before picking up her mixing bowl.
+
+Pinkie waited for Rainbow to be ready to pour, once ready they poured in the same amount, Rainbow stopping on Pinkie's queue, "that's good."
+
+"Now, we let them cook, depending on the stove it can take different amounts of time, for this one we wait ninety seconds on the first half and sixty seconds on the second half," Pinkie said.
+
+"Okay," Rainbow said.
+
+Pinkie picked up her spatula, Rainbow mimicking her.
+
+About ninety seconds later Pinkie flipped her pancake, Rainbow watched and then flipped her own, almost dropping it in the process.
+
+"You're doing good," Pinkie said.
+
+"Thanks," Rainbow said.
+
+Sixty seconds later Pinkie picked up her pancake and laid it on her plate, Rainbow doing the same.
+
+"You did it!" Pinkie exclaimed excitedly.
+
+"How'd it turn out?" Rainbow asked.
+
+Pinkie took a closer look at Rainbow's pancake, "it definitely is a beginner pancake, but a good beginner pancake at that."
+
+"Cool," Rainbow said.
+
+"Let's make a few more," Pinkie said.
+
+"Okay," Rainbow said.
+
+With that they both made three more pancakes, making a total of four each.
+
+Pinkie noticed Rainbow's quality going up somewhat with each one Rainbow made.
+
+"You're getting better," Pinkie said.
+
+"Awesome," Rainbow said.
+
+"Why don't you make 4 more while I'm gone, I need to go upstairs for a bit," Pinkie explained.
+
+"Okay," Rainbow said, as she started on the next pancake.
+
+Pinkie checked the timer on the cake and went upstairs to work with Fluttershy.
+
