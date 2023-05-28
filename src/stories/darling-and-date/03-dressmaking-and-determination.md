@@ -42,9 +42,9 @@ Pinkie takes the bag in her mouth and does her best to carry the ponnequin insid
 
 Once upstairs, Fluttershy opens Pinkie's bedroom door for her and closes it behind herself once Pinkie has made it inside.
 
-Pinkie sets the ponnequin down in the center of her room, then setting the bag of fabric beside it.
+Pinkie sat the ponnequin down in the center of her room, then setting the bag of fabric beside it.
 
-Fluttershy looks at Pinkie, saying, "I may have told Rarity the dress was for her... but I only told her it was from me, she will be surprised when you give it to her for the date."
+Fluttershy looked at Pinkie and said, "I may have told Rarity the dress was for her... but I only told her it was from me, she will be surprised when you give it to her for the date."
 
 "Oh," Pinkie replied, "that's okay."
 
@@ -78,7 +78,7 @@ Fluttershy placed the cut fabric over the ponnequin, centering it on its back.
 
 Pinkie looked at Fluttershy, asking, "how do you make a dress?"
 
-Fluttershy answered, "I don't know, all we can do is think it though. I know we made Rarity's dress for the Gala, but that was already designed, now we have to design and make the dress."
+Fluttershy answered, "I don't know, all we can do is think it through. I know we made Rarity's dress for the Gala, but that was already designed, now we have to design and make the dress."
 
 "Yea, did you have any ideas in mind?" Pinkie asked.
 
