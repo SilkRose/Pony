@@ -284,3 +284,89 @@ Pinkie noticed Rainbow's quality going up somewhat with each one Rainbow made.
 
 Pinkie checked the timer on the cake and went upstairs to work with Fluttershy.
 
+Pinkie walked into her room, seeing Fluttershy sitting in front of the dress.
+
+"I'm back," Pinkie said.
+
+"Welcome back," Fluttershy said.
+
+"How's the dress going?" Pinkie asked.
+
+"Good, I finished the trim, now I'm trying to think of what to do next," Fluttershy said.
+
+Pinkie looked at the dress, *it looks good so far, the purple makes it pop.*
+
+"Got any ideas so far?" Pinkie asked, looking back at Fluttershy.
+
+"I was thinking maybe we should add some sleeves to the front legs," Fluttershy suggested.
+
+"That sounds good," Pinkie said.
+
+"How long should they be?" Fluttershy asked.
+
+Pinkie imagined how different length sleeves would look on Rarity.
+
+*Short ones would look good, but maybe not as fancy.*
+
+*Medium ones just don't feel right, not for this dress anyway.*
+
+*Long ones feel better, maybe better than short.*
+
+"Long, but maybe short, what do you think?" Pinkie asked.
+
+Fluttershy thought for a seconds before she said, "I think either would work, so long it is?"
+
+"Sure," Pinkie said.
+
+Fluttershy unrolled another length of the white fabric, cutting two rectangles from it.
+
+"Come hold this," Fluttershy protested.
+
+Pinkie walked to the ponnequin and held the sleeve on one of the front legs, "this good?"
+
+"Yes," Fluttershy said as she pinned it to the fabric that made up the main dress.
+
+Fluttershy slowly pinned the sleeve together, going from top to bottom making sure it had equal circumference all the way down.
+
+"Okay, now I want you yo sew it," Fluttershy said.
+
+"Me?" Pinkie asked.
+
+"Yes, it will mean a lot more to her if you put your own love into it, don't you think?" Fluttershy said.
+
+"You're right, so I'm learning how to sew?" Pinkie asked.
+
+"Yes," Fluttershy said.
+
+*Looks like Rainbow isn't the only one learning something today.*
+
+"We're going to use white thread so it will be harder to see the seems," Fluttershy explained.
+
+"Okay," Pinkie said.
+
+"Take this," Fluttershy said as she gave Pinkie a needle with white thread already on it.
+
+Pinkie took it between her hooves.
+
+Fluttershy explained, "to sew, you need to push the needle through the two layers and back out, over and over, moving a little bit with each puncture."
+
+"How do you hold the fabric so it doesn't move?" Pinkie asked.
+
+"Since I'm here, I'll just hold the fabric for you, but if your by yourself you can hold it with your face, by pushing against it, or sometimes I've bitten the fabric and stuck it straight through," Fluttershy explained.
+
+"Okay," Pinkie said as she moved the needle up to the fabric, she waited for Fluttershy to take the fabric in her hooves, holding it taught so she could pierce it.
+
+Pinkie applied pressure as she felt the needle puncture both layers.
+
+"Good, now bring it back through, turn the need and apply pressure so you can see where it's coming back out at," Fluttershy said.
+
+Pinkie did as instructed, rotating the need and it was flat with the fabric, almost losing grip as she saw the imprint of the needle. She pulled more and pressed down, seeing the need come back through.
+
+"I did it," Pinkie exclaimed excitedly.
+
+"You're doing great, now just pull it all the way, you want the knot at the end of the string to be up against the fabric," Fluttershy said.
+
+Pinkie pulled it taught and placed the needle against the dress again, a tiny bit farther around the circle of where the sleeve met the dress proper. She looked to Fluttershy for approval.
+
+"Yes, there is good," Fluttershy said.
+
