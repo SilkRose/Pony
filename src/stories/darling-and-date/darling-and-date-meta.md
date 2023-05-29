@@ -57,18 +57,17 @@ White flowing dress, with a purple stitch going all the way around the skirt abo
  - Rarity and Fluttershy each at some point say why they fell in love with their desired pony.
 
 [Chapter 3: Dressmaking and Determination](03-dressmaking-and-determination.md):
- - Pinkie tries to do all 3 things at once, make a dress with Fluttershy, teach Rainbow how to make pancakes, bake a special cake for her date with Rarity.
- - This backfires as she is unable to give enough attention to each task.
- - Rainbow isn't learning, the cake is burnt, the dress looks bad.
- - Pinkie leaves her room, where Fluttershy is, and breaks down on the stairs, crying.
- - Mr. Cake finds her, asking her whats wrong.
- - Pinkie explains everything.
- - He reassures her, saying he will make the cake, his wife will help make the dress, and Pinkie will help Rainbow.
- - Pinkie succeeds in teaching Rainbow.
- - Mr. Cake makes the cake.
- - The dress is redesigned and looks good.
- - The chapter ends as Pinkie hugs everypony while she cries tears of joy.
- - The cake and dress aren't described in detail in this chapter.
+ - The dress looks good and is finished in 3 parts.
+ - Rainbow learns to make pancakes in 2 parts.
+ - The timer goes off while Pinkie is making the dress with Fluttershy, on the 2nd pass.
+ - Rainbow tries to pull it out but it falls on the ground, she feels bad for messing up.
+ - Pinkie is sad about to cake, but has a heart to heart with Rainbow that makes her have a change of heart about the date. (spending time with Rarity instead of making everything perfect.)
+ - Pinkie tell Fluttershy the cake needs to be remade and asks if its fine if she does it now.
+ - Rainbow offers to help make a new cake with Pinkie for the date.
+ - Rainbow learns to make a cake.
+ - They put it in the oven and rainbow and Pinkie go help Fluttershy finish the dress.
+ - After its done, they go down stairs where the cake is almost done.
+ - They pull it out and have a group hug over their success.
 
 [Chapter 4: Darling and Date](04-darling-and-date.md):
  - Rarity and Pinkie go on the date.
