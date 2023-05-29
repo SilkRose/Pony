@@ -62,10 +62,12 @@ White flowing dress, with a purple stitch going all the way around the skirt abo
  - The timer goes off while Pinkie is making the dress with Fluttershy, on the 2nd pass.
  - Rainbow tries to pull it out but it falls on the ground, she feels bad for messing up.
  - Pinkie is sad about to cake, but has a heart to heart with Rainbow that makes her have a change of heart about the date. (spending time with Rarity instead of making everything perfect.)
- - Pinkie tell Fluttershy the cake needs to be remade and asks if its fine if she does it now.
- - Rainbow offers to help make a new cake with Pinkie for the date.
- - Rainbow learns to make a cake.
+ - Pinkie tells Rainbow how to make homemade pancakes while she makes a new cake.
  - They put it in the oven and rainbow and Pinkie go help Fluttershy finish the dress.
+ - They bring Rainbow's pancakes and give them to Fluttershy.
+ - Pinkie and Dash discuss the dress while Fluttershy eats pancakes.
+ - Rainbow suggests making the dress match somewhat with Pinkie's dress.
+ - Rainbow suggests a v neck and blushes when asked why.
  - After its done, they go down stairs where the cake is almost done.
  - They pull it out and have a group hug over their success.
 
