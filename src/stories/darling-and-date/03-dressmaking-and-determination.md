@@ -328,7 +328,7 @@ Pinkie walked to the ponnequin and held the sleeve on one of the front legs, "th
 
 Fluttershy slowly pinned the sleeve together, going from top to bottom making sure it had equal circumference all the way down.
 
-"Okay, now I want you yo sew it," Fluttershy said.
+"Okay, now I want you to sew it," Fluttershy said.
 
 "Me?" Pinkie asked.
 
@@ -360,13 +360,89 @@ Pinkie applied pressure as she felt the needle puncture both layers.
 
 "Good, now bring it back through, turn the need and apply pressure so you can see where it's coming back out at," Fluttershy said.
 
-Pinkie did as instructed, rotating the need and it was flat with the fabric, almost losing grip as she saw the imprint of the needle. She pulled more and pressed down, seeing the need come back through.
+Pinkie did as instructed, rotating the needle so it was flat with the fabric, almost losing grip as she saw the imprint of the needle. She pulled more and pressed down, seeing the need come back through.
 
 "I did it," Pinkie exclaimed excitedly.
 
 "You're doing great, now just pull it all the way, you want the knot at the end of the string to be up against the fabric," Fluttershy said.
 
-Pinkie pulled it taught and placed the needle against the dress again, a tiny bit farther around the circle of where the sleeve met the dress proper. She looked to Fluttershy for approval.
+Pinkie pulled it tight and placed the needle against the dress again, a tiny bit farther around the circle of where the sleeve met the dress proper. She looked to Fluttershy for approval.
 
 "Yes, there is good," Fluttershy said.
+
+Pinkie punctured the dress again, then rotated the needle before she brought it back through, feeling more confident.
+
+*This isn't so hard, especially with Fluttershy helping.*
+
+Pinkie moved to the next spot as they talked while working.
+
+"You're getting the hang of this quickly," Fluttershy said proudly.
+
+"Love is a good motivator," Pinkie said, "and it's fun!"
+
+"It sure is," Fluttershy said.
+
+"Do you think Rarity is going to like the dress?" Pinkie asked.
+
+"I think she will," Fluttershy said.
+
+"What if we make a bad dress?" Pinkie asked.
+
+"I think we will make a good dress," Fluttershy said.
+
+"Me too, I'm just worried, I'm trying to make everything be perfect," Pinkie explained.
+
+"That's good, but I don't think you should worry, I think you're doing a great job," Fluttershy said.
+
+"Thanks," Pinkie said as she missed, pushing the needle through in the wrong spot, "sorry..."
+
+"It's okay, just pull it out and continue from where it should be," Fluttershy said.
+
+"After it's sewed to the dress are we going to sew the sleeve together?" Pinkie asked.
+
+"Yes, then we will do the second sleeve," Fluttershy said.
+
+"Okay," Pinkie said as she got to the end of the circle, and asked, "what do we do at the end?"
+
+"We tie the thread in a knot," Fluttershy answered.
+
+"How?" Pinkie asked.
+
+"Like this," Fluttershy said as she took the needle, slowly demonstrating. She stuck the needle between the fabric and the thread at the start, looping it through before tying it in a knot. She cut the remaining thread with the scissors.
+
+"Okay," Pinkie said.
+
+"You can finish this sleeve and I'll do the other one so you can take a break," Fluttershy said.
+
+"Sounds good," Pinkie said as she moved to get at the sleeve better.
+
+Fluttershy held the fabric while Pinkie sewed.
+
+*After this sleeve I should go check the cake.*
+
+*Rainbow has probably finished making the rest of those pancakes by now.*
+
+"Do you think you could bring up some food after you finish this sleeve?" Fluttershy asked.
+
+"Are you okay with pancakes? I know you ate them yesterday, but I was planning on making some when I go down to check the cake again," Pinkie said.
+
+"Oh, that's fine, I love your pancakes," Fluttershy answered.
+
+"Okay," Pinkie said.
+
+*I wonder if Rainbow's pancakes would be good?*
+
+Pinkie got to the end of the sleeve, and attempted to tie the thread herself, taking it slowly she was able to tie it off and Fluttershy cut the thread for her.
+
+"You did a great job," Fluttershy complimented.
+
+"Thanks to you," Pinkie said as she gave Fluttershy a big hug.
+
+Fluttershy hugged back, "you're welcome."
+
+After the hug was over Pinkie stood up, "I'll be back with those pancakes."
+
+"Okay," Fluttershy said.
+
+Pinkie walked out of her room and back downstairs.
 
