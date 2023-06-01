@@ -444,5 +444,47 @@ After the hug was over Pinkie stood up, "I'll be back with those pancakes."
 
 "Okay," Fluttershy said.
 
-Pinkie walked out of her room and back downstairs.
+Pinkie walked out of her room, as she closed the door she heard the distinct sound of her oven timer going off.
+
+She ran down the stairs to try to remove the cake as soon as possible.
+
+*hopefully it just started going off and isn't burnt.*
+
+Turning the corner at speed, she saw Rainbow holding the cake tray in her mouth. She was running too fast, she tried to stop it time, but it was too late, she ran into Rainbow, causing the cake to fall to the floor, the pan landing upside down.
+
+"No," Pinkie said in a saddened tone.
+
+Both ponies just sat there in silence before Rainbow spoke up, "I'm sorry..."
+
+"It's not your fault, I was the one running too fast," Pinkie said before she sat down in a sad state.
+
+They sat in silence again for a bit before Pinkie said, "that cake was suppose to show Rarity how much I love her," before tears started falling from her eyes.
+
+Rainbow leaned down and hugged Pinkie, who hugged back.
+
+Rainbow said, "that cake isn't going to do that, you are."
+
+Pinkie said, "what do you mean?"
+
+Rainbow held Pinkie tight, "you're going to show her how much you love her, you already are. Look at how much effort you are putting into this date, even without that cake, Rarity will know. She already knows, and tomorrow will just be more proof."
+
+"She does?" Pinkie asked.
+
+"Yes, Pinkie," Rainbow said before nuzzling Pinkie, "yesterday when I was talking to her alone, she was worried that she didn't know how to show you her love, besides giving you that dress."
+
+"I know she loves me, she even gave me a kiss when you two came into the kitchen," Pinkie said.
+
+"I told her to give you that kiss," Rainbow explained, "when I woke you up, you muttered about wanting a kiss from Rarity, so I relayed the information."
+
+"Thank you," Pinkie said, holding Rainbow tighter.
+
+"You're welcome," Rainbow said, "I told her to talk to you about it, you two need to love each other in ways the other wants to be loved on."
+
+"That's really good advice, not advice I'd normally expect from you," Pinkie said smiling.
+
+"I've been doing a lot of thinking in the process of dealing with my feelings for Fluttershy, it's been difficult to figure out these new emotions, but I think its made me more empathetic," Rainbow said.
+
+"That's good," Pinkie said.
+
+"When I was talking to Rarity yesterday, she was also surprised at my words. I almost told her about my feelings for Fluttershy, but I didn't want to with Fluttershy being in the next room and all," Rainbow said.
 
