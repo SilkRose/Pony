@@ -476,15 +476,35 @@ Rainbow held Pinkie tight, "you're going to show her how much you love her, you 
 
 "I told her to give you that kiss," Rainbow explained, "when I woke you up, you muttered about wanting a kiss from Rarity, so I relayed the information."
 
-"Thank you," Pinkie said, holding Rainbow tighter.
+"Oh, thank you," Pinkie said, holding Rainbow tighter.
 
-"You're welcome," Rainbow said, "I told her to talk to you about it, you two need to love each other in ways the other wants to be loved on."
+"You're welcome," Rainbow said, "I told her to talk to you about it, you two need to love each other in ways the other wants to be loved in."
 
-"That's really good advice, not advice I'd normally expect from you," Pinkie said smiling.
+"That's really good advice," Pinkie said as she smiled, "didn't expect love advice from you, but it's welcome," Pinkie said sheepishly.
 
 "I've been doing a lot of thinking in the process of dealing with my feelings for Fluttershy, it's been difficult to figure out these new emotions, but I think its made me more empathetic," Rainbow said.
 
 "That's good," Pinkie said.
 
 "When I was talking to Rarity yesterday, she was also surprised at my words. I almost told her about my feelings for Fluttershy, but I didn't want to with Fluttershy being in the next room and all," Rainbow said.
+
+"You know, Fluttershy is upstairs right now, she's working on the dress we're giving Rarity. And she asked for something to eat," Pinkie said.
+
+"What are you suggesting?" Rainbow asked.
+
+"you should make her some pancakes," Pinkie said.
+
+"But what about the cake?" Rainbow asked.
+
+Pinkie thought for a second, *Homemade pancakes and cake have a similar enough ingredient list I could make the cake while Rainbow makes the pancakes.*
+
+Pinkie answered, "I'll make a new cake while you make homemade pancakes."
+
+Rainbow asked, "what about my learning, how will I learn if you're making a cake and not pancakes?"
+
+Pinkie explained, "the ingredients are similar enough that can you still follow along, I'll just tell you the different measurements for pancakes."
+
+"Okay, but we should probably clean up the cake on the floor first," Rainbow said.
+
+"Oh, yea," Pinkie said with a small chuckle.
 
