@@ -234,7 +234,7 @@ Rainbow looked at the butter, "how much do we add?"
 
 Rainbow copied her.
 
-After waiting till the pans were hot, Pinkie took the wrapping on her butter and placed it in the center of the pan.
+After waiting till the pans were hot, Pinkie took the wrapping off her butter and placed it in the center of the pan.
 
 The butter in Pinkie's pan started to sizzle as Rainbow unwrapped her butter before putting it in her own pan.
 
@@ -507,4 +507,70 @@ Pinkie explained, "the ingredients are similar enough that can you still follow 
 "Okay, but we should probably clean up the cake on the floor first," Rainbow said.
 
 "Oh, yea," Pinkie said with a small chuckle.
+
+The pair stood up and started cleaning, Pinkie grabbing the pan, placing it in the sink, while Rainbow swept the cake into the trash.
+
+"Thank you," Pinkie said in a sincere tone.
+
+"Thank you too," Rainbow said.
+
+"Bring me all your dishes and mine," Pinkie said.
+
+"You got it," Rainbow said enthusiastically before she started to do so.
+
+Pinkie turned on the water, letting it get almost too hot, and started to wash each dish one at a time.
+
+After Rainbow had finished bringing the dishes, she asked, "what kind of cake was it?"
+
+"Vanilla," Pinkie answered.
+
+Rainbow asked, "how much more complicated is that cake over pancakes?"
+
+"Not much, just a few more ingredients," Pinkie said.
+
+"You sure I'll be able to learn fine, I'm a little nervous, especially if we're giving them to Fluttershy," Rainbow said as a slightly anxious tone.
+
+"I'm sure you will do great, if you want, I can taste test one to make sure it's good," Pinkie said reassuringly.
+
+"Okay, thanks," Rainbow said in an eased tone.
+
+"The secret ingredient is love, so just channel your love for Fluttershy into the pancakes and I know they'll be the best!" Pinkie said with a smile.
+
+"I'll try," Rainbow said.
+
+"If you're not happy with giving her them today, I can make some more for her, I don't want to do it if you don't want to," Pinkie said.
+
+"I'm fine with doing it," Rainbow said.
+
+"Do you want to help us finish the dress?" Pinkie asked.
+
+"Sure," Rainbow said.
+
+"Awesome!" Pinkie exclaimed.
+
+"When you give them to her, can you say *we* made them and not specify me?" Rainbow asked.
+
+"Sure," Pinkie said.
+
+"I'll tell her I made them later," Rainbow said.
+
+"Okay," Pinkie said as she finished the last dish.
+
+Rainbow looked at Pinkie, who had turned toward her, "what now?"
+
+Pinkie said, "now we bake," before she got out all new bake wear for them to use: cake pan, mixing bowls, whisks, measuring cups, measuring spoons, frying pan, plate, and a spatula.
+
+"That's a lot of stuff," Rainbow said.
+
+"This is for two cooking jobs, silly," Pinkie explained as she separated the bake wear into two places; one for herself, and one for Rainbow.
+
+Rainbow looked at her smaller assortment of utensils and said, "now for the ingredients?"
+
+"Correct," Pinkie said as she got all the ingredients out: flour, baking powder, sugar, salt, milk, butter, eggs, cornstarch, vanilla extract, almond extract.
+
+"So, you're going to tell me what to do while you do the same for the cake?" Rainbow asked.
+
+"Yes, kinda, I may do some stuff differently, but I will make sure I tell you if I need to deviate," Pinkie explained.
+
+"Okay, what's the first step?" Rainbow asked.
 
