@@ -558,7 +558,7 @@ Rainbow asked, "how much more complicated is that cake over pancakes?"
 
 Rainbow looked at Pinkie, who had turned toward her, "what now?"
 
-Pinkie said, "now we bake," before she got out all new bake wear for them to use: cake pan, mixing bowls, whisks, measuring cups, measuring spoons, frying pan, plate, and a spatula.
+Pinkie said, "now we bake," before she got out all new bake wear for them to use: cake pan, mixing bowls, whisks, measuring cups, measuring spoons, frying pan, plate, butter knives, and a spatula.
 
 "That's a lot of stuff," Rainbow said.
 
@@ -566,11 +566,27 @@ Pinkie said, "now we bake," before she got out all new bake wear for them to use
 
 Rainbow looked at her smaller assortment of utensils and said, "now for the ingredients?"
 
-"Correct," Pinkie said as she got all the ingredients out: flour, baking powder, sugar, salt, milk, butter, eggs, cornstarch, vanilla extract, almond extract.
+"Correct," Pinkie said as she got all the ingredients out: flour, baking powder, sugar, salt, milk, stick butter, eggs, cornstarch, vanilla extract, almond extract.
 
 "So, you're going to tell me what to do while you do the same for the cake?" Rainbow asked.
 
 "Yes, kinda, I may do some stuff differently, but I will make sure I tell you if I need to deviate," Pinkie explained.
 
 "Okay, what's the first step?" Rainbow asked.
+
+"Flour," Pinkie said as she moved the flour in between them, "one and a half cups for both of us," she said as she set the one and one half measuring cups by the flour, before moving one of her mixing bowls close to it.
+
+Rainbow watched as Pinkie scooped out one cup, and used a butter knife to push off the excess back into the container.
+
+Rainbow followed Pinkie's lead, moving her utensils close before putting the right amount of flour into her own mixing bowl.
+
+"Good job, next is baking powder, three and a half teaspoons for you, one and three quarters for me," Pinkie said before pushing the flour back and bringing the baking powder to the front.
+
+Rainbow watched Pinkie use the measuring spoons and followed her example.
+
+"Now we add sugar," Pinkie said, swapping the baking powder with sugar, "one tablespoon for you, one cup for me."
+
+Rainbow went first this time, feeling confident.
+
+Pinkie followed suite, "you're doing great."
 
