@@ -128,3 +128,13 @@ Pinkie has a crush on Rarity and decides to throw her a surprise 'I love you' pa
 
 ### Synopsis
 Rarity has a crush on Pinkie and decides to try to help her plan parties so they can spend more time together, over time their parties are awesome and even better than when it was just Pinkie, but Rarity feels like she is sad from doing so many parties and leaving her dressmaking behind. Pinkie can sense something if off and Rarity tells her she wants to make dresses. Pinkie decides to help. Pinkie places a order under a fake name and they make a beautiful dress which she gives to Rarity, afterword, Rarity confesses and they kiss.
+
+## Unnamed Fluttershy x Pinkie romance story
+
+### Synopsis:
+Pinkie has a crush on Fluttershy, she wants to tell her how she feels but is worried about Fluttershy's timidness. Afraid that Fluttershy will not be able to handle romantic advances. Pinkie misjudges her friend and takes Fluttershy on a date, without telling her it's a date. Fluttershy figures it out halfway through and decides to go with it, and at the end of the date, Fluttershy kisses Pinkie before she can ask her out.
+
+## Unnamed Pinkie x Fluttershy romance story
+
+### Synopsis:
+Fluttershy likes Pinkie, but is worried about Pinkie's reaction, fear of rejection. Fluttershy decides to ask Pinkie for help with things that lead to them being together in *close* engagements, as they spend more time together, Fluttershy gains the confidence to ask her out, but Pinkie beats her too it, and they kiss.
