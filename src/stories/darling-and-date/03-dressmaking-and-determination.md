@@ -584,9 +584,53 @@ Rainbow followed Pinkie's lead, moving her utensils close before putting the rig
 
 Rainbow watched Pinkie use the measuring spoons and followed her example.
 
-"Now we add sugar," Pinkie said, swapping the baking powder with sugar, "one tablespoon for you, one cup for me."
+"Now you add sugar, I'm going to add the sugar in a different bowl later" Pinkie said, swapping the baking powder with sugar, "one tablespoon."
 
-Rainbow went first this time, feeling confident.
+Rainbow added the sugar, "okay."
 
-Pinkie followed suite, "you're doing great."
+Pinkie encouraged her, "you're doing great," then she said, "salt next, one fourth a teaspoon for you, one half for me," before swapping the sugar for salt in front of them.
+
+They both added the correct amount to their mixing bowls, before Pinkie said, "that was your last dry ingredient, I still need to add cornstarch, three tablespoons."
+
+Pinkie added the cornstarch before saying, "now we need to sift the dry ingredients."
+
+They both picked up their whisk, Rainbow following Pinkie's lead as she started to sift the ingredients together.
+
+Once each bowl was sufficiently mixed, Pinkie said, "that's good."
+
+"What's next?" Rainbow asked.
+
+"Now for the wet ingredients, I'm going to use a second mixing bowl, you are going to make a hole in your dry ingredients and pour into that," Pinkie explained.
+
+Rainbow used the one cup measuring cup to make an indent before Pinkie brought the milk, eggs, and butter to the front.
+
+Pinkie said, "we are going to split here, we will do your stuff first, then I'll do mine," Pinkie said.
+
+"Okay," Rainbow said.
+
+"We need to melt some butter, cut off three tablespoons of butter from the stick," Pinkie said as she got out a small bowl.
+
+Rainbow cut the butter before unwrapping it and putting it in the bowl.
+
+Pinkie put it in the microwave, checking on it every few seconds, making sure it wasn't burning.
+
+After it was melted, Pinkie took it out, "pour this into the well you made."
+
+Rainbow did as told, "now milk and eggs?" she asked.
+
+"Yes, one and a quarter cups of milk, and one egg," Pinkie said.
+
+Rainbow poured in the butter, then measuring out the milk she poured it in too, "how many eggs? And how do you crack them?"
+
+"One, tap the egg really fast against the edge of the bowl, then bring it over to your mix before peeling the two halves of the shell apart," Pinkie answered.
+
+Rainbow looked a little nervous picking up the egg.
+
+*You got this!*
+
+Rainbow flicked the egg against the rim of the mixing bowl, it cracking in two. She quickly brought it to the well and split it apart, bolstering her confidence, "that was easy."
+
+"I knew you could do it! Now whisk it until it's smooth," Pinkie said.
+
+Rainbow mixed her batter while Pinkie worked with her own wet ingredients.
 
