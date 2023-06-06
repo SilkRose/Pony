@@ -634,3 +634,35 @@ Rainbow flicked the egg against the rim of the mixing bowl, it cracking in two. 
 
 Rainbow mixed her batter while Pinkie worked with her own wet ingredients.
 
+Pinkie moved her first mixing bowl, placing a second one in it's place. She measured out one cup of sugar, placing it in the empty bowl.
+
+Pinkie grabbed the small bowl Rainbow had used, then unwrapping a whole stick of butter, put half a cup into the bowl. Pinkie placed the bowl in the microwave and turned it on.
+
+While she waited she checked on Rainbow.
+
+"How's the mixing going?" Pinkie asked.
+
+"Good, mixing takes time, it seems," Rainbow said.
+
+"Yep, but it'll be worth it when you give her those delicious pancakes," Pinkie said.
+
+"I hope she likes them," Rainbow said.
+
+"I know she will," Pinkie said.
+
+"Thanks," Rainbow said.
+
+Pinkie looked at Rainbow's batter, *not there yet, but making progress.*
+
+"You're doing great," Pinkie complemented.
+
+Rainbow was about to respond when she was cut off by the microwave going off.
+
+Pinkie took the melted butter out of the microwave, pouring it into her second mixing bowl.
+
+Pinkie started beating the sugar and melted butter then asked, "what were you about to say?"
+
+"Thanks for believing in me, I never would have thought I'd ever be excited about making food, but look at me now," Rainbow said with a smile.
+
+"You're most welcome, I know you can do anything you set your mind to," Pinkie said.
+
