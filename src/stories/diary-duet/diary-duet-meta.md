@@ -21,6 +21,8 @@ A guy gets sent to Equestria. The story switches between his diary and pinkie pi
 - Over time Anon becomes equated with Equestria.
 - Anon and Pinkie become friends and by the end have feelings for each other.
 - Typical diary entries are one big paragraph but I want to make it more readable.
+- Anon and Pinkie have different dynamics, Anon's entries are more detail oriented, Pinkie's entries are more sporadic and emotional.
+- Anon has trouble sleeping the first night, meets spike while walking the halls, they bond.
 
 
 ### Flow
