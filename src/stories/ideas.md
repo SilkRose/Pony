@@ -129,12 +129,32 @@ Pinkie has a crush on Rarity and decides to throw her a surprise 'I love you' pa
 ### Synopsis
 Rarity has a crush on Pinkie and decides to try to help her plan parties so they can spend more time together, over time their parties are awesome and even better than when it was just Pinkie, but Rarity feels like she is sad from doing so many parties and leaving her dressmaking behind. Pinkie can sense something if off and Rarity tells her she wants to make dresses. Pinkie decides to help. Pinkie places a order under a fake name and they make a beautiful dress which she gives to Rarity, afterword, Rarity confesses and they kiss.
 
-## Unnamed Fluttershy x Pinkie romance story
+## Unnamed Pinkie x Fluttershy romance story
 
 ### Synopsis:
 Pinkie has a crush on Fluttershy, she wants to tell her how she feels but is worried about Fluttershy's timidness. Afraid that Fluttershy will not be able to handle romantic advances. Pinkie misjudges her friend and takes Fluttershy on a date, without telling her it's a date. Fluttershy figures it out halfway through and decides to go with it, and at the end of the date, Fluttershy kisses Pinkie before she can ask her out.
 
-## Unnamed Pinkie x Fluttershy romance story
+## Unnamed Fluttershy x Pinkie romance story
 
 ### Synopsis:
 Fluttershy likes Pinkie, but is worried about Pinkie's reaction, fear of rejection. Fluttershy decides to ask Pinkie for help with things that lead to them being together in *close* engagements, as they spend more time together, Fluttershy gains the confidence to ask her out, but Pinkie beats her too it, and they kiss.
+
+## Unnamed Twilight x Rarity romance story
+
+### Synopsis:
+Twilight has a crush on Rarity, but doesn't know how to express her feelings, she decides to read a book about dating, when the advice in the book fails, she turns to Pinkie Pie for help. Pinkie gladly helps, giving her advice that initially doesn't work until Twilight realizes she needs to tailor the advice for Rarity. After spending enough time with Rarity, Pinkie convinces Twilight to just ask her out, but before Twilight can, Rarity asks her out first.
+
+## Unnamed Rarity x Twilight romance story
+
+### Synopsis:
+Rarity has a crush on Twilight, she decides to try and woe Twilight by taking her to fancy restaurants and events. Twilight is very gracious but doesn't understand why Rarity is being so generous to her. Eventually Twilight asks if they can do other things together, like reading, star gazing, maybe even make a dress together. Over time Twilight realizes she has feelings for Rarity, and that Rarity likes her back, figuring out why she was being so generous in the first place. They ask each other out at the same time and kiss under the stars.
+
+## Unnamed Rainbow Dash x Fluttershy romance story
+
+### Synopsis:
+Rainbow has a crush on Fluttershy, but is worried about alienating her best friend if she says no, and other ponies thinking she isn't cool if they knew she was into 'mushy stuff'. Rainbow decides to ask her out in private and ask her not to tell anyone. Fluttershy says yes and they date in secret for a bit, eventually Fluttershy can't take it and takes Rainbow on a public date and acts very romantic the whole time. Rainbow is super conflicted, loving the date while feeling embarrassed for her ego. at the end of the date, Rainbow says she's sorry and they hug. They share their first kiss before Fluttershy reveals that everypony already knew.
+
+## Unnamed Fluttershy x Rainbow Dash romance story
+
+### Synopsis:
+Fluttershy has a crush on Rainbow, but is too shy to directly ask her out, so she tries to be romantic towards her in various ways, tight hugs, wing hugs, kissing her on the cheek, etc. Rainbow takes a liking too this, but doesn't say anything for fear it might stop. After a while Rainbow realizes she has feelings for Fluttershy and that Fluttershy was doing it because she had feelings for her. Rainbow is about to ask Fluttershy out when Fluttershy kisses her on the lips.
