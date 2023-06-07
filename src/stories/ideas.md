@@ -158,3 +158,13 @@ Rainbow has a crush on Fluttershy, but is worried about alienating her best frie
 
 ### Synopsis:
 Fluttershy has a crush on Rainbow, but is too shy to directly ask her out, so she tries to be romantic towards her in various ways, tight hugs, wing hugs, kissing her on the cheek, etc. Rainbow takes a liking too this, but doesn't say anything for fear it might stop. After a while Rainbow realizes she has feelings for Fluttershy and that Fluttershy was doing it because she had feelings for her. Rainbow is about to ask Fluttershy out when Fluttershy kisses her on the lips.
+
+## Unnamed Applejack x Rainbow romance story
+
+### Synopsis
+Applejack has a crush on Rainbow, she decides to be straightforward and ask her out. Rainbow thinking it is some kind of joke agrees. They agree to go on a date, at the start of the date, Applejack is optimistic and excited. Rainbow acts likes a fool most of the date, believing it isn't serious. by the end of the date Applejack is heart broken and blows up at Rainbow, storming off angry and sad. Rainbow realizes that she fucked up,  she looks back at the date, seeing how genuine and excited Applejack was. Rainbow's heart breaks as she realizes she can't do that too her friend, deciding that she needs to apologize and give it an honest try, musing on how good of a friend Applejack is and how pretty she is. Rainbow goes and apologizes and Applejack accepts it after berating her a bit. Rainbow kisses her on the cheek and tells her she will make it up to her with a new date.
+
+## Unnamed Rainbow x Applejack romance story
+
+### Synopsis
+Rainbow has a crush on Applejack, she tells Applejack she loves her. Applejack says to prove it, thinking if she means it she will just kiss her on the lips. Rainbow doesn't know how so she flies away defeated. Rainbow turns to Rarity, the only pony she thinks might be able to help. Rarity gives generic advice, gifts, serenade, etc. These don't work. As the ideas get more and more outrageous, Applejack has had enough and kisses Rainbow on the lips, saying "was that so hard?"
