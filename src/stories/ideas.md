@@ -168,3 +168,13 @@ Applejack has a crush on Rainbow, she decides to be straightforward and ask her 
 
 ### Synopsis
 Rainbow has a crush on Applejack, she tells Applejack she loves her. Applejack says to prove it, thinking if she means it she will just kiss her on the lips. Rainbow doesn't know how so she flies away defeated. Rainbow turns to Rarity, the only pony she thinks might be able to help. Rarity gives generic advice, gifts, serenade, etc. These don't work. As the ideas get more and more outrageous, Applejack has had enough and kisses Rainbow on the lips, saying "was that so hard?"
+
+## Unnamed Twilight x Rainbow romance story
+
+### Synopsis
+Twilight has a crush on Rainbow, she tries to get Rainbow to read romance books, seeing how she reacts, Rainbow likes them. Twilight tries being close with Rainbow as they read. Eventually Rainbow confides in Twilight, saying she likes romance and is worried she won't be able to find someone. Twilight cuddles up to her and says she might be able to help. Rainbow got the hint and kisses Twilight on the cheek. Twilight blushes.
+
+## Unnamed Rainbow x Twilight romance story
+
+### Synopsis
+Rainbow had a crush on Twilight, she decided to try to get her feelings across by showing Twilight a romantic flight show. Twilight enjoys the show but doesn't get the hint. Rainbow at a lose confides in Fluttershy. Fluttershy says she could write her a letter if she can't tell her in person. Rainbow likes this idea. She decided to turn it into a scavenger hunt, that leads Twilight around town to where her and Rainbow had bonded in the past. At the end Twilight figures it out, she is surprised but is happy, she kisses Rainbow saying yes.
