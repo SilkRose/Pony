@@ -666,3 +666,83 @@ Pinkie started beating the sugar and melted butter then asked, "what were you ab
 
 "You're most welcome, I know you can do anything you set your mind to," Pinkie said.
 
+Pinkie turned her attention to the ingredients she was beating, looking down, she saw they were now creamy.
+
+She grabbed an egg, cracking it and pouring it into the mix. She threw the shell away and started beating the egg into the mix.
+
+After the first egg was mixed in, she cracked and poured in another, beating it too.
+
+"Is this done?" Rainbow asked.
+
+Pinkie looked over at Rainbow's batter, it was now smooth, "yes, that looks good."
+
+Rainbow stopped mixing, asking, "now I just do the same as the last pancakes?"
+
+"Yes, but the timing might be different, do you remember how they looked when you flipped them?" Pinkie said.
+
+"There were some bubbles, I think," Rainbow said.
+
+"Yes, you want to flip them when the edges are solid and the middle has bubbles," Pinkie explained.
+
+"Okay, I'll do my best," Rainbow said as she turned the burner on.
+
+"I'll make sure you don't mess up," Pinkie reassured her.
+
+As Rainbow waited for the burner to heat up, she watched Pinkie.
+
+Pinkie poured in her last two ingredients, one teaspoon of vanilla extract and one teaspoon of almond extract, after which she started mixing them in.
+
+As Pinkie mixed she looked over at the stove, realizing she forgot to turn the oven back on to preheat.
+
+*It's probably still hot from the first cake.*
+
+"Can you turn the oven to one hundred and seventy five degrees Fahrenheit," Pinkie asked, "I forgot to turn it back on to preheat."
+
+Rainbow did as asked, figuring out how the stove works, "done."
+
+"Thanks," Pinkie said.
+
+After a couple more minutes of mixing, Pinkie was done. She pulled the first mixing bowl beside the second one. She lifted the first bowl and poured the dry ingredients on top of the wet ingredients.
+
+Pinkie started to mix the ingredients together as Rainbow buttered the pan before pouring in her first pancake.
+
+Pinkie carefully watched her mix and Rainbow's pancake, looking back and forth.
+
+As Rainbow's pancake was about to need flipped, Pinkie was about to say something when Rainbow noticed it too, and flipped the pancake over.
+
+"Good job," Pinkie congratulated.
+
+Rainbow didn't respond, too focused on pancakes.
+
+As Pinkie was done mixing the wet and dry ingredients, Rainbow put her first homemade pancake onto the done plate.
+
+Pinkie poured in three fourths a cup of milk into her mix, then mixing it for the last time.
+
+Both ponies worked in silence for a bit, Pinkie mixed while Rainbow made pancake after pancake.
+
+By the time Pinkie was done mixing, the oven had dinged, letting her know it had reached the set temperature.
+
+As Rainbow put her fourth pancake on the plate, Pinkie poured her batter into the cake pan.
+
+After the batter had settled into the pan, Pinkie took it in her mouth, lowering the oven door, she set it inside. After she closed the door Rainbow poured in her fifth pancake.
+
+Pinkie set the timer for thirty five minutes.
+
+"Cake is in the oven," Pinkie announced, "how's the pancakes going?"
+
+"Good, I think I can make one more after this," Rainbow said.
+
+Pinkie took it upon herself to eat the first pancake Rainbow made, making sure it was good.
+
+*Pretty good, definitely made with love.*
+
+After finishing it, she complimented Rainbow, "pancakes taste good."
+
+"Thanks, I'm glad to hear," Rainbow said.
+
+As Rainbow continued making her pancakes, Pinkie put all the dishes in the sink, resolving to clean them later.
+
+Pinkie turned back to Rainbow, seeing her flip the last pancake onto its second half.
+
+*She's learned quick, I'm proud of her.*
+
