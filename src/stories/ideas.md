@@ -197,3 +197,13 @@ Twilight has a crush on Rainbow, she tries to get Rainbow to read romance books,
 
 ### Synopsis
 Rainbow had a crush on Twilight, she decided to try to get her feelings across by showing Twilight a romantic flight show. Twilight enjoys the show but doesn't get the hint. Rainbow at a lose confides in Fluttershy. Fluttershy says she could write her a letter if she can't tell her in person. Rainbow likes this idea. She decided to turn it into a scavenger hunt, that leads Twilight around town to where her and Rainbow had bonded in the past. At the end Twilight figures it out, she is surprised but is happy, she kisses Rainbow saying yes.
+
+## Unnamed Twilight x Pinkie romance story
+
+### Synopsis
+Twilight has a crush on Pinkie, Twilight tries to hint to Pinkie that she likes her, giving her a book about romance, Pinkie doesn't get the hint saying this book won't teach you about romance, I will. Pinkie decides to take Twilight on a fake date, which Twilight agrees to. They go on the date and have a great time, but at the end Twilight is sad. Pinkie notices and asks why. Twilight confesses, saying she likes her and that she loved the date, wishing it was real. Pinkie reveals that is was, saying she knew Twilight had feelings for her and that she herself had developed feelings for Twilight. They hug and then kiss.
+
+## Unnamed Pinkie x Twilight romance story
+
+### Synopsis
+Pinkie has a crush on Twilight, one day she goes over to Twilight's, who is reading a book about prose. Pinkie asks if Twilight has written any fiction, she says no, and Pinkie has a great idea, they should write a book together. Twilight is hesitant at first, but Pinkie assures her it will be fun. They start writing, both coming up with ideas and taking turns writing it. Pinkie is making it a romance story, which Twilight doesn't notice for a bit. At then end of the story they write, Twilight reads it aloud to them, slowly realizing the characters are them and in the story Pinkie asks her out. Twilight blushes before Pinkie asks, "will you go out with me?" Twilight says yes and they hug.
