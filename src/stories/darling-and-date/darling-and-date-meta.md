@@ -6,7 +6,7 @@ Location: [Ponyville](../../places/ponyville.md)
 
 ### Synopsis
 
-Sequel to Pretty and Pink. Pinkie plans a date for them.
+Sequel to [Pretty and Pink](../pretty-and-pink/pretty-and-pink-meta.md). Pinkie plans a date for them.
 
 ### Description
 
@@ -32,10 +32,7 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 	- Rarity - Rarity just wants to spend time with Pinkie, so Pinkie asks Rarity if she wants to have a sleepover at the end of the date.
 	- Pinkie - Pinkie sings Rarity a song. She picks the game they play. She makes the desert they eat.
 
-#### Bad dress design:
-White flowing dress, with a purple trim going all the way around the skirt, about about an inch and a half thick, with gems every few inches. It has a second layer that goes two thirds the way down the dress that is light blue. The front has sleeves that go all the way down her legs, that end with a green cuff. The neck has a purple collar.
-
-#### Good dress design:
+#### Dress Design:
 White flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth her front legs with elastic cuffs that are a slightly darker white. The neck has that same purple stitch going around with a V neck in the front.
 
 ### Chapters
@@ -59,8 +56,8 @@ White flowing dress, with a purple stitch going all the way around the skirt abo
 [Chapter 3: Dressmaking and Determination](03-dressmaking-and-determination.md):
  - The dress looks good and is finished in 3 parts.
  - Rainbow learns to make pancakes in 2 parts.
- - The timer goes off while Pinkie is making the dress with Fluttershy, on the 2nd pass.
- - Rainbow tries to pull it out but it falls on the ground, she feels bad for messing up.
+ - The timer goes off while Pinkie is leaving her room, on the 2nd pass.
+ - Rainbow tries to pull it out but it falls on the ground when Pinkie runs into her on accident.
  - Pinkie is sad about to cake, but has a heart to heart with Rainbow that makes her have a change of heart about the date. (spending time with Rarity instead of making everything perfect.)
  - Pinkie tells Rainbow how to make homemade pancakes while she makes a new cake.
  - They put it in the oven and rainbow and Pinkie go help Fluttershy finish the dress.
@@ -90,13 +87,13 @@ White flowing dress, with a purple stitch going all the way around the skirt abo
    - They have a slumber party and fall asleep in Pinkies bed, cuddled together.
 
 [Epilogue: Breakfast and Bonding](05-breakfast-and-bonding.md):
+ - Mirrors [Pretty and Pink](../pretty-and-pink/pretty-and-pink-meta.md) in a way, short and sweet.
+ - Spiritual remake of my first story, [Fluttershy Likes Rainbow Dash](../fluttershy-likes-rainbow-dash/fluttershy-likes-rainbow-dash-meta.md).
  - Fluttershy goes to Rainbow's place to have breakfast.
  - Rainbow Dash makes pancakes for Fluttershy.
  - Fluttershy asks Rainbow out after they eat.
  - Rainbow is taken aback but says yes excitedly.
  - They hug while smiling.
 
-
 ### Cover
-
 ![Cover](cover.png)
