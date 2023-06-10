@@ -746,3 +746,73 @@ Pinkie turned back to Rainbow, seeing her flip the last pancake onto its second 
 
 *She's learned quick, I'm proud of her.*
 
+Pinkie waited for Rainbow to finish, "I'm proud of you, let's go give Fluttershy those pancakes."
+
+"Thanks," Rainbow said, turning off her burner before placing the pan in the sink.
+
+"You should give them to her," Pinkie said.
+
+"Okay," Rainbow said, picking up the plate of four pancakes in her mouth.
+
+Pinkie trotted upstairs and opened the door for Rainbow, who was right behind her.
+
+Rainbow walked in the room and looked around, spotting Fluttershy she walked to her, setting the pancakes at her hooves, "we made these for you."
+
+"Thank you," Fluttershy said in a surprised tone.
+
+Pinkie walked to the dress, seeing that Fluttershy had indeed finished the other sleeve, *looking good.*
+
+Fluttershy began to eat the pancakes, while Rainbow turned to Pinkie.
+
+Pinkie asked Rainbow, "what do you think of the dress so far?"
+
+Rainbow took a second to answer, looking at the dress from a few angles, "I think it looks good, how does it compare to the dress you're wearing, Pinkie?"
+
+"Oh, I didn't think to compare them, why?" Pinkie asked.
+
+"Well, if you're wearing the dress she made you, and she's wearing this dress, shouldn't they go together," Rainbow said.
+
+"Oh, like take inspiration from it?" Pinkie said.
+
+"Yea," Rainbow said.
+
+"Hold on a sec, I'll get my dress out," Pinkie said before she went to her closet and rummaged through it, moments later coming back with her dress.
+
+Pinkie held up the dress next to the one they were making for Rarity.
+
+Pinkie's dress was pink with 2 layers, one going to within an inch of the floor and the 2nd going halfway down the dress. It had light blue stitching about an inch from the bottom of each layer that ran along the dress. Going from one side to the other on her chest was a darker pink ribbon with a light blue bow in the center.
+
+Rainbow looked at the dresses, thinking of ideas to improve the dress.
+
+"I think the trim is too much, you might want to replace it with just a line thing like Rarity did on your dress," Rainbow suggested.
+
+Both Pinkie and Fluttershy looked at the dresses, considering her idea.
+
+"I like that idea," Pinkie said.
+
+Fluttershy nodded in agreement as she ate.
+
+"Got any more ideas?" Pinkie prodded.
+
+"Uh, maybe," Rainbow said as she went to staring down the dresses again.
+
+After a few moments of pondering, Rainbow said, "I think you should give it a v neck, and put a blue line around the neck to match her eyes."
+
+"That sounds good, but why a v neck?" Pinkie asked.
+
+"The blue outline is so it stands out," Rainbow blushed slightly, "the v neck is so the dress doesn't get in the way."
+
+"Of what?" Pinkie asked.
+
+Rainbow sighed, "so you can place your head on her chest and not have the dress get in the way." Rainbow's blush was far more noticeable now.
+
+Pinkie thought about laying her head on Rarity's chest, listening to her heart beat.
+
+*I really wanna do that now. Maybe on our date?*
+
+Moments later, Fluttershy spoke up, "if we're doing that, maybe we should cut the sleeves to be short, so they don't get the way of her holding you..." Fluttershy trailed off at the end, face blushing slightly as her eyes darted to Rainbow then back to Pinkie.
+
+"Those are great idea, let's do them," Pinkie said with a smile.
+
+Pinkie opened the pouch she had given Fluttershy earlier, looking for blue and purple thread for the stitching. Moments later she pulled out both and set them next to the ponnequin.
+
