@@ -33,7 +33,7 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 	- Pinkie - Pinkie sings Rarity a song. She picks the game they play. She makes the desert they eat.
 
 #### Dress Design:
-White flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth her front legs with elastic cuffs that are a slightly darker white. The neck has that same purple stitch going around with a V neck in the front.
+White flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth her front legs. The neck has a blue stitch going around with a V neck in the front.
 
 ### Chapters
 
