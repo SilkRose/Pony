@@ -816,3 +816,164 @@ Moments later, Fluttershy spoke up, "if we're doing that, maybe we should cut th
 
 Pinkie opened the pouch she had given Fluttershy earlier, looking for blue and purple thread for the stitching. Moments later she pulled out both and set them next to the ponnequin.
 
+Fluttershy finished eating and stood up, "those pancakes were delicious, thank you."
+
+"You're welcome," Rainbow and Pinkie said in unison, Rainbow with a bashful voice, Pinkie with a smile.
+
+Fluttershy suggested, "why don't you and Rainbow cut the sleeves short, and I'll remove the trim and add the purple stitch."
+
+"Sounds good," Pinkie said.
+
+Pinkie picked up the scissors, "how short should we make it?"
+
+"Two inches," Rainbow suggested.
+
+"Okay," Pinkie agreed.
+
+Fluttershy went to work while they cut the sleeves.
+
+Pinkie picked up a ruler, "can you hold this up to the sleeve?"
+
+"Sure," Rainbow said, taking the ruler and holding it as instructed.
+
+Pinkie cut up the sleeve, stopping at the one and a half inch mark, leaving extra space for errors.
+
+Rainbow moves the ruler to the other sleeve and Pinkie splits it to the same length.
+
+Pinkie rummaged around her room until she found a belt, bringing it back to the ponnequin, she said, "we are going to use this as our cutting edge."
+
+Rainbow and Pinkie carefully wrapped the belt around the sleeve, making sure it was at an even length all the way around.
+
+Pinkie took the scissors and carefully made her way around the leg, cutting the excess fabric on the bottom side of the belt.
+
+Taking the belt off, they inspected the cut.
+
+"That looks good," Rainbow said in surprise.
+
+"Yea," Pinkie agreed.
+
+They repeated the process on the second leg, making sure to get it the same length as the first.
+
+Both sleeves looked good, but there was thread hanging from where it had been cut.
+
+"What do we do about that?" Rainbow asked.
+
+"Uh, I don't know," Pinkie said, "Fluttershy, can you fix this hanging thread?"
+
+Fluttershy stopped her work and came to see what was needed.
+
+Fluttershy looked at the thread and said, "sure, I should just be able to tie it off after I make sure it's tight."
+
+"Okay," Pinkie said.
+
+Fluttershy fished out a needle from the pouch before she threaded the hanging thread through it.
+
+Fluttershy tied off the thread on each sleeve before going back to removing the trim.
+
+"What should we do now?" Rainbow asked.
+
+"Maybe we can make the v neck?" Pinkie asked.
+
+"Do you have a triangle we can use to make the cut?" Rainbow asked.
+
+Pinkie again rummaged through her room, looking for something triangle shaped with some hardness to it.
+
+She picked up a piece of cardboard as an idea came to her.
+
+*Aha!*
+
+Pinkie took the cardboard to the ponnequin, she slid the cardboard behind the fabric, positioning it so it formed a triangle shaped outline.
+
+"Can you hold this?" Pinkie asked.
+
+"Okay," Rainbow said, putting her hoof on the triangle.
+
+Pinkie left Rainbow, looking around her room for a third time.
+
+After a moment, Rainbow asked, "what are you doing?"
+
+Pinkie found her stapler, "got it."
+
+Pinkie brought the stapler to the dress, and stapled the triangle outline to the cardboard.
+
+Rainbow realized what she had done, "oh," and let go of holding it.
+
+Pinkie picked up the scissors, and slowly cut the v neck into the dress, being careful not to over cut.
+
+After she was done, the cardboard and patch of fabric fell to the floor.
+
+Stepping back, Pinkie looked at the v neck.
+
+*Looks good, great for cuddling.*
+
+Pinkie walked around back of the dress, Rainbow following after.
+
+Pinkie looked at the skirt, seeing the purple stitch going around.
+
+*Looks good too, makes it pop but doesn't distract from her beauty.*
+
+Fluttershy was almost done with the purple stitch, finishing it she said, "done."
+
+"It looks great, Fluttershy," Pinkie said.
+
+"Yea, you did awesome," Rainbow commented.
+
+"Thanks," Fluttershy said bashfully.
+
+The trio walked to the front of the dress.
+
+Fluttershy asked, "so, it's just the blue stitching left to do around the neck?"
+
+"Yep," Pinkie said.
+
+"Okay, I'll do it," Fluttershy said.
+
+Fluttershy worked on the stitching as Rainbow and Pinkie watched.
+
+*She sure is good at this.*
+
+Rainbow leaned over to Pinkie and whispered, "you know, if Fluttershy made me a dress, I'd wear it. I might even be happy," she quietly chuckled.
+
+Pinkie teased in a whisper back, "me and Fluttershy might just do that."
+
+Rainbow's face turned to terror before slowly shifting to resigned content, "go ahead, I'll look good in anything."
+
+Pinkie hugged Rainbow, who hugged back.
+
+Pinkie cleaned up her room, putting all the excess fabric and unused gemstones back into the bag. Rainbow helped, cleaning up the floor.
+
+The pair cleaned even messes that weren't from the dressmaking, making the room spotless.
+
+Fluttershy finished the stitch, "all done."
+
+All three ponies looked at the complete dress.
+
+It was white flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth her front legs. The neck has a blue stitch going around with a V neck in the front.
+
+"I love it," Pinkie said.
+
+"Rarity is going to love it," Fluttershy said.
+
+"You girls did an awesome job," Rainbow said.
+
+Pinkie hugged both ponies at once, "we did an awesome job, you helped too."
+
+"No problem, anything for a friend," Rainbow said, returning the hug.
+
+"Thanks," Fluttershy said, returning the hug.
+
+Pinkie hugged them tighter and said, "I love you girls."
+
+"Love you too, Pinkie," Fluttershy said.
+
+"Same," Rainbow said.
+
+Pinkie let go of the hug, giving their spines a break.
+
+"Do you girls want to help me design the frosting for the cake?" Pinkie asked with a big smile.
+
+"Sure," Rainbow said.
+
+"Sounds fun," Fluttershy said.
+
+*I have the best friends a pony could ask for.*
