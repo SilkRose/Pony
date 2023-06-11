@@ -977,3 +977,5 @@ Pinkie let go of the hug, giving their spines a break.
 "Sounds fun," Fluttershy said.
 
 *I have the best friends a pony could ask for.*
+
+"Let's go," Pinkie said with a big smile, before leaving the room with her two friends to design a heartfelt diorama on a delightfully delectable desert.
