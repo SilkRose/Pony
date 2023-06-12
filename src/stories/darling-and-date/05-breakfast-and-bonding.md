@@ -54,5 +54,37 @@ She flew up and stood at the door, giving herself one last pep talk before knock
 
 *You got this!*
 
-Moments later Rainbow answered the door, "hi."
+Moments later Rainbow answered the door with a smile, "hi."
+
+Fluttershy smiled, "Hello, I'm here for breakfast."
+
+"Come on in," Rainbow said as stood aside.
+
+Fluttershy trotted inside, closing the door behind her before following Rainbow into her dinning room.
+
+Rainbow pulled out a chair for Fluttershy.
+
+Fluttershy sat down, "thank you."
+
+"You're welcome," Rainbow said, "I'm going to make us breakfast."
+
+"What are we having?" Fluttershy asked.
+
+*I hope it's pancakes, the ones I ate at Pinkie's the other day were awesome.*
+
+"It's a surprise," Rainbow said with a grin.
+
+"Oh, okay," Fluttershy said.
+
+"I'll be back when it's done," Rainbow said before disappearing into the kitchen.
+
+***
+
+Rainbow trotted into the kitchen, the door closing behind her.
+
+*Why didn't you just say pancakes, it wasn't a secret.*
+
+She shook her head, trying to clear her mind.
+
+*Come on Rainbow, don't blow it now, focus.*
 
