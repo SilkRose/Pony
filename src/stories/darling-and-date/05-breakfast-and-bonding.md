@@ -88,3 +88,55 @@ She shook her head, trying to clear her mind.
 
 *Come on Rainbow, don't blow it now, focus.*
 
+Rainbow went over to her mixing bowl and starting adding the ingredients one at a time, mentally checking them off after adding them.
+
+Flour, *check.*
+
+Baking powder, *check.*
+
+Sugar, *check.*
+
+Salt, *check.*
+
+Rainbow picked up her whisk and began to sift the ingredients as her mind wandered to the mare in the other room.
+
+*I love her.*
+
+*...It's just, does she love me like that?*
+
+*I'll know soon.*
+
+*I hope she does.*
+
+Her thoughts drifted to her desires.
+
+*I just want to hold her.*
+
+*To kiss her.*
+
+*To protect her.*
+
+Her train of thought ended when she looked down and saw she was done sifting.
+
+She shook her head again, trying to clear away the intense blush that had formed.
+
+*You'll never have the chance to kiss her if you mess this up. Remember, pancakes.*
+
+Rainbow pressed a hole into the dry mix, and added the wet ingredients, checking them off in her head, again.
+
+Butter, *check.*
+
+Milk, *check.*
+
+Egg, *check.*
+
+Rainbow picked up her whisk again and mixed the ingredients for the last time.
+
+As she mixed, her thoughts again turned to Fluttershy.
+
+*I want to tell her she's the prettiest mare I've ever seen.*
+
+*...and I want her to tell me it back,* she admitted to herself as the idea of Fluttershy calling her pretty brought her blush back in full force.
+
+*I'm willing to be vulnerable for her.*
+
