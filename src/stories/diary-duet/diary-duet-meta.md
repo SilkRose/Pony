@@ -23,6 +23,7 @@ A guy gets sent to Equestria. The story switches between his diary and pinkie pi
 - Typical diary entries are one big paragraph but I want to make it more readable.
 - Anon and Pinkie have different dynamics, Anon's entries are more detail oriented, Pinkie's entries are more sporadic and emotional.
 - Anon has trouble sleeping the first night, meets spike while walking the halls, they bond.
+- The last entry for each is addressed to each other instead of to the diary.
 
 
 ### Flow
