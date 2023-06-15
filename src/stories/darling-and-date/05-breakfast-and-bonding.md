@@ -136,7 +136,65 @@ As she mixed, her thoughts again turned to Fluttershy.
 
 *I want to tell her she's the prettiest mare I've ever seen.*
 
-*...and I want her to tell me it back,* she admitted to herself as the idea of Fluttershy calling her pretty brought her blush back in full force.
+*...and I want her to say it back to me,* she admitted to herself as the idea of Fluttershy calling her pretty brought her blush back in full force.
 
 *I'm willing to be vulnerable for her.*
+
+She thought about her plan.
+
+*We're going to have a lovely breakfast.*
+
+*We will move to the couch where I will open my heart up to her.*
+
+*Hopefully she says feels the same way.*
+
+*Then we kiss?* she thought as her blush intensified.
+
+*That would be so awesome!*
+
+She finished mixing the batter, setting it to the side.
+
+She turned the burner on, placing a frying pan on top.
+
+As she waited for it to heat up she prepared the dinning ware. She got out a serving tray and placed two plates on it, along with a bottle of syrup and two forks and two knives.
+
+Rainbow cut off a piece of butter and placed it in the pan to melt.
+
+She placed a heart shaped metal cookie cutter into the pan, using it as a wall to make heart shaped pancakes.
+
+*She's going to love these pancakes, I bet.*
+
+Rainbow made eight pancakes, four for Fluttershy, and four for herself. She made sure to give the four best looking pancakes to Fluttershy.
+
+After turning the burner off, she did a double take to make sure she had everything she needed on the tray.
+
+*Pancakes, knives, forks, syrup, hmm.*
+
+*Milk, I forgot milk.*
+
+She poured out two glasses of milk, setting them onto the tray.
+
+*Okay, I think that's everything.*
+
+Rainbow picked up the tray and headed back into the dinning room.
+
+***
+
+Rainbow walked out of the kitchen door, holding a tray with their food on it.
+
+She set the tray between their two seats, before she said, "Breakfast is served."
+
+Rainbow cleared the tray, setting the food, drinks, and silverware in front of each of them.
+
+Fluttershy was taken aback by the presentation, Rainbow had put a lot of effort into this.
+
+That's when Fluttershy noticed the pancakes, they were shaped like hearts.
+
+Fluttershy's mind immediately went in two directions.
+
+*This means she loves me and wants to date or I'm reading way to much into this and she just wanted show me how much our friendship means to her.*
+
+*Please be the first one.*
+
+*Please.*
 
