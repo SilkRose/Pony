@@ -8,7 +8,7 @@ Fluttershy walked to her door and opened it, resolving that this was it.
 
 *Rainbow Dash will know today what is in my heart.*
 
-Fluttershy closed the door behind and her started trotting to Rainbow's house.
+Fluttershy closed the door behind her and started trotting to Rainbow's house.
 
 Fluttershy thought of her crush as she trotted.
 
@@ -54,19 +54,19 @@ She flew up and stood at the door, giving herself one last pep talk before knock
 
 *You got this!*
 
-Moments later Rainbow answered the door with a smile, "hi."
+Moments later Rainbow answered the door with a smile. "Hi."
 
-Fluttershy smiled, "Hello, I'm here for breakfast."
+Fluttershy smiled. "Hello, I'm here for breakfast."
 
-"Come on in," Rainbow said as stood aside.
+"Come on in," Rainbow said as she stood aside.
 
 Fluttershy trotted inside, closing the door behind her before following Rainbow into her dinning room.
 
 Rainbow pulled out a chair for Fluttershy.
 
-Fluttershy sat down, "thank you."
+Fluttershy sat down. "Thank you."
 
-"You're welcome," Rainbow said, "I'm going to make us breakfast."
+"You're welcome," Rainbow said. "I'm going to make us breakfast."
 
 "What are we having?" Fluttershy asked.
 
