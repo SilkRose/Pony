@@ -25,6 +25,9 @@ A guy gets sent to Equestria. The story switches between his diary and pinkie pi
 - Anon has trouble sleeping the first night, meets spike while walking the halls, they bond.
 - The last entry for each is addressed to each other instead of to the diary.
 
+#### Sequel Idea
+They stop writing in their diaries and instead write each other a letter every day.
+name: Love Letters
 
 ### Flow
 
