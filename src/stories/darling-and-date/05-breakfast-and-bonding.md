@@ -212,3 +212,21 @@ Fluttershy blushed as Rainbow cut her pancakes for her.
 
 "Thank you," Fluttershy said after Rainbow had finished.
 
+"You're welcome," Rainbow said before she sat down and started cutting her own pancakes into pieces.
+
+Fluttershy poured syrup over the pancakes before she gave it to Rainbow, who did the same.
+
+*This is nice.*
+
+Fluttershy ate her pancakes slowly, savoring each bite as she watched Rainbow eat.
+
+Rainbow noticed her watching and blushed, but didn't say anything.
+
+Fluttershy blushed in response to Rainbow's own blush and averting her gaze.
+
+*She's so cute when she blushes.* The thought only making Fluttershy blush more.
+
+Looking back at Rainbow, Fluttershy noticed her smiling and smiled back.
+
+The pair had eaten in silence, occasionally trading glances, smiles, and of course, blushes.
+
