@@ -192,9 +192,23 @@ That's when Fluttershy noticed the pancakes, they were shaped like hearts.
 
 Fluttershy's mind immediately went in two directions.
 
-*This means she loves me and wants to date or I'm reading way to much into this and she just wanted show me how much our friendship means to her.*
+*This means she loves me and wants to date or I'm reading way too much into this and she just wanted show me how much our friendship means to her.*
 
 *Please be the first one.*
 
 *Please.*
+
+As Fluttershy stared at her heart shaped pancakes, an errant thought entered her mind.
+
+"Rainbow?" Fluttershy asked.
+
+"Yes," Rainbow answered.
+
+Fluttershy averted her gaze. "Could you cut up my pancakes for me, please?" she asked.
+
+"Sure," Rainbow said without hesitation.
+
+Fluttershy blushed as Rainbow cut her pancakes for her.
+
+"Thank you," Fluttershy said after Rainbow had finished.
 
