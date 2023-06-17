@@ -230,3 +230,112 @@ Looking back at Rainbow, Fluttershy noticed her smiling and smiled back.
 
 The pair had eaten in silence, occasionally trading glances, smiles, and of course, blushes.
 
+After she finished eating, Fluttershy said, "Thank you, they were delicious."
+
+Rainbow finished moments later and said, "You're welcome, I'm glad you enjoyed them."
+
+Fluttershy asked, "Could we go sit on the couch? There is something I wanted to talk to you about..."
+
+"Sure, I was planning on moving to the couch and talking to you about something there too. I'll let you go first," Rainbow said.
+
+The pair got up and trotted to the couch, Rainbow sat down first while Fluttershy took the opportunity to sit really close to Rainbow.
+
+Both ponies blushed from the close proximity to each other.
+
+*This is it, Fluttershy.*
+
+The pair stared into each others eyes, sitting in silence for a moment.
+
+*You got this!*
+
+Fluttershy summoned all her courage and asked, "Rainbow Dash, will you go out with me?"
+
+Rainbow's face froze, taken aback from the question.
+
+Moments later, Fluttershy got her answer as Rainbow's mouth grew a smile the likes of which would rival Pinkie Pie. Rainbow's eyes sparkled in delight as they began to water.
+
+"Yes, yes, yes, yes, and yes," Rainbow answered.
+
+Fluttershy's eyes began to water too as she grabbed Rainbow in a tight hug.
+
+Rainbow hugged her back as she let the floodgates loose, tears of joy flowing onto Fluttershy's back.
+
+Fluttershy overwhelmed with emotion, said, "I love you," before starting to cry when she felt Rainbow's tears on her back.
+
+Rainbow responded, "I love you too." She held Fluttershy tighter.
+
+Fluttershy held Rainbow tighter in response, as if not doing so would make this reality untrue.
+
+*This is real!*
+
+*THIS IS REAL!*
+
+She tried to slow her breathing, but at the same time, never wanted to let go of this embrace, this moment.
+
+Both ponies slowed their tears, and their breath before finally letting go of the loving embrace.
+
+Fluttershy looked Rainbow in the eye, and to confirm, asked, "This is real, right?"
+
+Rainbow enthusiastically nodded before she said, "Yes, absolutely yes."
+
+Both ponies blushed as they just stared into each others eyes.
+
+Rainbow broke the serene calm that had overtaken the duo, and said, "I was actually about to ask you out, I've kinda had a crush on you for a while now..."
+
+Fluttershy said, "Oh, that's amazing, I've also had a crush on you for a while now too..."
+
+Both ponies' blushes increased.
+
+Fluttershy admitted, "I was practicing with Rarity the other day. I was asking you out that whole day, pretending she was you. She even dressed up as you at the end."
+
+Rainbow's mouth opened in surprise before slowly turning into another wide smile. "That is possibly the cutest thing I've ever heard."
+
+Fluttershy blush intensified again.
+
+Rainbow apologized, "I'm sorry I didn't ask you out sooner." Her ears dropped down in an apologetic way.
+
+Fluttershy smiled. "It's okay, we're together now and that's all that matters."
+
+Rainbow asked, "So, this means like, we're dating?"
+
+Fluttershy giggled. "Yes."
+
+"Awesome," Rainbow said, pumping a hoof in the air.
+
+Fluttershy nuzzled Rainbow, bringing back both of their blushes to full force.
+
+Rainbow asked in a bashful tone, "Can we kiss?"
+
+*I've waited so long to kiss you.*
+
+Fluttershy didn't answer, instead she leaned into Rainbow, they were about to kiss when Rainbow toppled backwards on the couch. Neither pony had payed attention to their balance, causing Fluttershy to fall onto Rainbow.
+
+Both ponies just giggled, reveling in their closeness.
+
+Fluttershy, laying on top of Rainbow, leaned down and kissed Rainbow on the lips.
+
+*I love this.*
+
+Rainbow wrapped her front hooves around her and kissed back with passion.
+
+*I love her.*
+
+They held the kiss for a long while, neither pony wanting to be the one who broke their first kiss.
+
+Eventually they came to an understanding, closing their eyes, they both broke the kiss.
+
+Fluttershy just stared at Rainbow, falling in love all over again.
+
+Rainbow broke the silence. "You know, you are the prettiest mare in all of Equestria."
+
+Fluttershy blushed. "No, I think that title belong to you, I'll settle for second place," she said before she giggled.
+
+Rainbow blushed back as she smiled again. "How about we call it a tie?"
+
+"Sounds good to me."
+
+Rainbow, who wasn't done making her new marefriend blush, wrapped her wings around her, held her in a comforting embrace. She said in a serene voice, "I love you, Fluttershy."
+
+Fluttershy, who somehow blushed harder, said, "I love you too, Rainbow Dash."
+
+Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would be their most cherished moment in their lives up until that point.
