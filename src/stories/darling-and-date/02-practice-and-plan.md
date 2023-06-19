@@ -1,60 +1,46 @@
 # Practice and Plan
 
-Fluttershy knocked on Rarity's door again, this time a little louder. Getting no answer she sighed as she realized she wan't loud enough. Hanging her head for a second, then opening the door and walking inside.
+Fluttershy knocked on Rarity's door again, this time a little louder. Getting no answer she sighed as she realized she wasn't loud enough. She hung her head for a second, then opened the door and walked inside.
 
-Looking around the main room, she didn't see Rarity. She tries calling out to her, "Rarity, are you in here?"
+She looked around the main room, unable to locate Rarity. She tried calling out to her, "Rarity, are you in here?"
 
-Her call was answered, when from the kitchen she heard Rarity, "in here, darling."
+Her call was answered, when from the kitchen she heard Rarity, who said, "In here, darling."
 
-Fluttershy walked into the kitchen, seeing Rarity and Sweetie Belle sitting at the table. There wasn't any food on the table so it seems she may have interrupted them, "oh, I'm sorry, I didn't mean to interrupt you two."
+Fluttershy walked into the kitchen, she saw Rarity sitting at the table.
 
-Rarity replied, "Oh, not at all darling."
+Rarity asked, "Ready to practice?"
 
-Sweetie Belle piped up, "actually Rarity, I wanted to ask you a few questions about relationships, if that's fine?"
+Fluttershy said, "Actually Rarity, I wanted to ask you a few questions about relationships, if that's fine?"
 
-Rarity looked at Fluttershy and asked, "you don't mind if we wait a few minutes before we start, do you?"
+Rarity answered, "Yes."
 
-Fluttershy replied, "no, not at all, do you want me to wait in the other room?"
+Fluttershy sat down at the table, before she asked, "How do I know if Rainbow likes me back?"
 
-Rarity was about to say something when Sweetie Belle interrupted, "she can stay."
+Rarity answered, "The easiest way is to ask, but there are other signs you can look for."
 
-Rarity looked at Sweetie Belle with a raised eyebrow before turning to Fluttershy, "I guess you can have a seat," as she pulled a chair out with her magic.
+Fluttershy asked, "Like what?"
 
-Fluttershy sat down and both adult ponies looked at Sweetie Belle expectantly.
+Rarity replied, "Behavioral changes are probably the biggest tell. Do they walk closer to you? Are they wanting to spend more time together? Do they stare at you? Are they more shy around you? Are they more intimate with you? There's more but you probably get the idea."
 
-Sweetie Belle took a moment before asking, "how do I know if somepony I like, likes me back?"
+Fluttershy asked another question, "Do you think she might like me back?"
 
-Rarity answered, "the easiest way is to ask, but there are other signs you can look for."
+Rarity answered, "From what I saw last night and what you said, I think it's possible."
 
-Fluttershy looked at Rarity, "like what?"
+Rarity continued, "When I was pinning for Pinkie, I waited a while before deciding to just ask her. She ended up beating me to it, maybe that will happen to you too."
 
-Rarity replied, "behavioral changes are probably the biggest tell. Do they walk closer to you? Are they wanting to spend more time together? Do they stare at you? Are they more shy around you? Are they more intimate with you? There's more but you probably get the idea."
+Fluttershy said, "I'd love that."
 
-Sweetie Belle asked another question, "you are dating Pinkie Pie, does that mean its fine that I like another filly?"
+Rarity asked, "Any more questions?"
 
-"Absolutely," Rarity said, "you can like whatever you like, we won't judge you for being you."
+Fluttershy said, "No."
 
-"Thank you," Sweetie Belle replied, "last question, how do I ask them out?"
+Rarity asked, "Are you ready to start practice?"
 
-Rarity answered, "if you have the willpower a simple 'hey, do you want to go out with me?', but you can also add flair to give it a personal touch."
+Fluttershy answered, "Yes."
 
-Sweetie Belle said, "okay."
+"Let's go into the main room, we can sit on the couch for this," Rarity said before she walked into the other room.
 
-Rarity continued, "when I was pinning for Pinkie I waited a while before deciding to just ask her, and she ended up beating me to it, maybe that will happen to you too."
-
-Sweetie Belle replied, "Thank you for answering my questions, I'm going to go hang out with her today."
-
-Rarity said, "okay, be safe darling."
-
-Sweetie Belle got down from the table and left the kitchen, then leaving her house.
-
-Rarity turned to Fluttershy and asked, "are you ready to start practice?"
-
-Fluttershy answered, "yes."
-
-"Let's go into the main room, we can sit on the couch for this," Rarity said before walking into the other room.
-
-Fluttershy followed her and sat on the couch, looking at Rarity for guidance.
+Fluttershy followed her and sat on the couch. She looked at Rarity for guidance.
 
 Rarity explained, "pretend I'm Rainbow Dash and ask me out."
 
