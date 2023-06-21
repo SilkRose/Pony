@@ -10,7 +10,7 @@ Pinkie said, "Can I come in? I have a gift for you."
 
 Pinkie entered the shop as Rarity noticed a large flat present on Pinkie's back.
 
-Pinkie sat the present on a modeling pedestal. "This is from Fluttershy and I."
+Pinkie sat the present on a modeling pedestal. "This is from me and Fluttershy."
 
 Rarity smiled. "Oh, you didn't have to get me anything."
 
@@ -24,13 +24,13 @@ She lifted the lid and her suspicions were confirmed, they had made her a dress.
 
 Rarity picked the dress up in her magic and inspected it. "This is amazing, it matches your dress so well!"
 
-"Rainbow Dash helped too," Pinkie clarified.
+"Rainbow Dash helped too," Pinkie clarified, not actually clarifying anything.
 
 "Thank you so much, I'm going to put it on right now," Rarity said before she went behind her privacy wall and put the dress on.
 
 "You're welcome," Pinkie called out to her.
 
-Rarity trotted back to Pinkie after she had changed.
+Rarity trotted back to Pinkie after she had put the dress on.
 
 "You look so pretty!" Pinkie exclaimed.
 
@@ -40,19 +40,19 @@ Pinkie blushed in turn and asked, "You ready to date?"
 
 Rarity giggled. "Yes."
 
-Pinkie led Rarity outside, after which a royal carriage pulled by two royal guards stopped in front of the shop.
+Pinkie led Rarity outside, after which a royal chariot pulled by two royal guards stopped in front of the shop.
 
 Rarity's mouth hung open for a second before she asked, "Is this for us?"
 
 "Yes," Pinkie answered before she gestured for Rarity to enter first.
 
-Rarity smiled as she got in the carriage.
+Rarity smiled as she got in the chariot.
 
-*Pinkie has put so much effort into this. And it's just started.*
+*Pinkie has put so much effort into this. I'm impressed.*
 
-Pinkie stepped into the carriage and moments later it took off.
+Pinkie stepped into the chariot and moments later it took off.
 
-As the carriage moved along, Pinkie offered Rarity her hoof to hold.
+As the chariot moved along, Pinkie offered Rarity her hoof to hold.
 
 Rarity took the offer, holding Pinkie's hoof and nuzzled her cheek, causing her to blush.
 
