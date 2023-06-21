@@ -18,17 +18,17 @@ Rarity responded, “Yes, just a little nervous darling.”
 
 Pinkie asked, “Why? It’ll be fine, our friends will be nothing but supportive!”
 
-Rarity smiled, “Yes, I know, but it still makes me a little nervous thinking about it.”
+Rarity smiled. “Yes, I know, but it still makes me a little nervous thinking about it.”
 
 Pinkie hugged her, and said, “Everything will be fine; they’ll all be super supportive and excited for us.”
 
 Rarity smiled in the hug, and replied, “You’re right, thank you darling.”
 
-After the hug was over, their first guests knocked on Pinkie’s door. Pinkie hopped over to the door and opened it to reveal Rainbow Dash and Fluttershy.
+After the hug was over, their first guests appeared, Fluttershy and Rainbow Dash.
 
-They walked in and Pinkie closed the door behind them. Pinkie walked over to them and gave each a welcome hug, both pegasi returning the hug in kind.
+Pinkie greeted the pair with a hug, both returning it, in kind.
 
-After the exchange of hugs had completed, Rainbow asked, “What’s this party for? Anything special?”
+After the hug, Rainbow asked, “What’s this party for? Anything special?”
 
 Rarity, not knowing what to say, turned to Pinkie, who luckily had an answer.
 
@@ -38,41 +38,31 @@ Pinkie replied, “You’ll see when everypony gets here; it's a surprise.”
 
 Rainbow replied, “Okay, sounds exciting.” She turned to Rarity and asked, “Does this surprise involve you or is it a Pinkie thing?”
 
-"It's an 'us' kind of surprise," Rarity said, trying not to give it away.
+"It's an *us* kind of surprise," Rarity said, trying not to give it away.
 
-Before Rainbow could speak again, Rarity had hugged her.
+Before Rainbow could reply, Rarity said, "Nice to see you again."
 
-"Nice to see you again," Rarity said to Rainbow.
+"Same," Rainbow said.
 
-"Same," Rainbow said to Rarity, returning the hug.
+Rarity turned to Fluttershy, "I'm glad you could make it darling."
 
-After the hug was over, Rarity went to Fluttershy and hugged her, "I'm glad you could make it darling."
+"Glad to be here Rarity," Fluttershy said with a smile.
 
-"Glad to be here Rarity," Fluttershy said with a smile as she returned the hug.
+Moments later Applejack trotted through the door.
 
-After the hug, their next guest knocked on the door.
-
-Everypony turned to the door as Pinkie trotted to it and opened it, revealing Applejack.
-
-Applejack trotted into the room, Pinkie closing the door behind her. She soon found herself the recipient of a Pinkie Pie hug, and returned it.
+Pinkie hugged Applejack, who hugged back.
 
 After the hug was over, Pinkie said, “Once Twilight gets here, we can get this party started.”
 
-Rarity said, "Welcome Applejack," before giving her a hug.
+Rarity said, "Welcome Applejack."
 
-Applejack returned the hug, "Thank you kindly."
-
-After the hug was over, Applejack asked, "What's the occasion? Or is it a regular Pinkie party?"
+Applejack replied, "Thank you kindly. What's the occasion? Or is it a regular Pinkie party?"
 
 Rarity answered, "You'll know soon enough, just waiting on Twilight."
 
-As if on cue, somepony knocked on Pinkie’s door, Pinkie went and opened it, revealing their final guest, Twilight.
+As if on cue, seconds later, Twilight opened Pinkie's door. "Hello everypony."
 
-“Everypony is here!” Pinkie said excitedly as she led Twilight into the room, closing the door behind them.
-
-Pinkie hugged Twilight, who returned it.
-
-Rarity joined the hug, making it a group hug.
+Pinkie hugged Twilight. "Hi Twilight."
 
 After the hug was over, Pinkie said, "Thank you all for coming, it means a lot to me and Rarity."
 
@@ -90,9 +80,9 @@ Rarity whispered back, “I am now; let’s do this,” as she smiled in Pinkie'
 
 The two turned to the rest of their friends, who looked confused as to what was going on.
 
-Pinkie explained, “Rarity and I are together,” then smiled, happy to share the news.
+Pinkie explained, “Rarity and I are together; in a relationship,” then smiled, happy to share the news.
 
-Immediately, the two ponies were showered in congratulations and cheers, their friends excited for them. Their smiles grew as a group hug forms, both ponies feeling accepted and loved.
+Immediately, the two ponies were showered in congratulations and cheers, their friends excited for them. Their smiles grew as a group hug formed, both ponies feeling accepted and loved.
 
 After the hug was over, Pinkie let go of Rarity; excitedly exclaiming, “let’s get this party started!” as she hopped over to a turntable, pressing the start button; a second later, music started playing.
 
@@ -304,9 +294,9 @@ This calmed Fluttershy, as she relaxed into the embrace before holding her back.
 
 Speaking at almost a whisper, Fluttershy said, “I... have a... crush on Rainbow Dash...”
 
-Rarity replied, “Why, darling, that's wonderful.”
+Rarity replied, “Are you planning on asking her out?”
 
-Fluttershy meekly asked, “How? I can't ask her out, no matter how much I want too...”
+Fluttershy meekly said, “How? I can't ask her out, I've tried... I just choke and give up...”
 
 Rarity answered, “You know what you want; that's the first step. You can work towards your goal, and I can help you.”
 
