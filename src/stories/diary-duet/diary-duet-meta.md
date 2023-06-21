@@ -31,28 +31,45 @@ name: Love Letters
 
 ### Flow
 
-1. Gets sent to Equestria.
-2. Finds Applejack
-3. Applejack takes him to Twilight
-4. Twilight and he talk for a while
-5. She gives him a diary and lets him stay there
-6. She is gonna show him around town
-7. Pinkie shows up and offers to do it
-8. He thinks she is pretty
-9. Pinkie introduces him to the other 3
-10. He remarks on how soft she is and has no idea of personal space
-11. Once done they go back to the castle
-12. Pinkie hugs him
-13. He cries
-14. He goes inside
-15. Next day Pinkie throws him a welcome party
-16. Has fun at the party
-17. 
+#### Week 1
+ - Introduced to Equestria and ponies.
+ - Getting accustomed to a new world.
+ - Meets the mane 6.
+ - Becomes friends with Twilight and Pinkie.
+
+#### Week 2
+ - Hangs out with Pinkie more.
+ - Twilight makes progress on finding a way home for him. He laments the idea of leaving so soon.
+ - Becomes more comfortable in this world, using pony terms.
+ - Pinkie wants to throw him a 'Welcome to Ponyville Party', but he requests it just be the mane 6 and him.
+
+#### Week 3
+ - Progress on way home slows. He is excited by this news.
+ - Has cute moments with Pinkie, holding hoof/hand, playing tag, etc.
+ - Is far more comfortable in this world, even starts to try and find a job.
+ - Has a sleepover at Pinkie's. (Twilight comes too?)
+
+#### Week 4
+ - Twilight finds him a way home, but he chooses to stay.
+ - Pinkie and him realize they have feelings for each other, one before the other.
+ - They agree to see where it goes but don't officially start dating.
+ - Last entry is a letter to each other, leads into sequel where they write each other letters.
 
 ### Chapters
 
 [Day 1](./day-01.md)
+
 [Day 2](./day-02.md)
+
+[Day 3](./day-03.md)
+
+[Day 4](./day-04.md)
+
+[Day 5](./day-05.md)
+
+[Day 6](./day-06.md)
+
+[Day 7](./day-07.md)
 
 ### Cover
 
