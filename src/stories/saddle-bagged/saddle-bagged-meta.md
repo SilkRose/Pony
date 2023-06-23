@@ -54,17 +54,29 @@ Tim woke up in a weird place, on a trampoline, with nothing else to do, he jumps
 
 ### Chapters
 
-[Chapter 1: Boing](01-boing.md) - jumps on the trampoline a lot
+[Chapter 1: Boing](01-boing.md):
+ - jumps on the trampoline a lot.
 
-[Chapter 2: Underground](02-underground.md) - discovers the other saddlebags
+[Chapter 2: Underground](02-underground.md):
+ - discovers the other saddlebags.
 
-Chapter 3: Bags - Goes threw each saddlebag
+Chapter 3: Bags:
+ - Goes threw each saddlebag.
 
-Chapter 4: Escape - He uses the stuff in the bags to escape.
+Chapter 4: Escape:
+- He uses the stuff in the bags to escape.
 
-Chapter 5: 
+Chapter 5: Dragon:
+- Helps get the dragon to leave.
 
-Chapter 6:
+Chapter 6: Descent:
+- Goes down the mountain with the ponies.
+
+Chapter 7: Return:
+ - Twilight, curious about this magical space in their bags, goes back into them with Tim.
+
+Chapter 8: ????:
+ - 
 
 ### Cover
 
