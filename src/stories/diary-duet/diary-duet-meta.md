@@ -24,6 +24,7 @@ A guy gets sent to Equestria. The story switches between his diary and pinkie pi
 - Anon and Pinkie have different dynamics, Anon's entries are more detail oriented, Pinkie's entries are more sporadic and emotional.
 - Anon has trouble sleeping the first night, meets spike while walking the halls, they bond.
 - Epilogue is a letter from each addressed to each other instead of to the diary.
+- Include P.S.'s in his diary written by Pinkie, with her comments on some of his entries. And in the epilogue it is revealed that with his letter he sent her his diary.
 
 #### Sequel Idea
 They stop writing in their diaries and instead write each other a letter every day.
