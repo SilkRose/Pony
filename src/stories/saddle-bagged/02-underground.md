@@ -1,10 +1,10 @@
-# Underground
+# Chapter 2: Underground
 
 I try again to grab the cloth flap of the saddlebag to no avail.
 
 I stop jumping. *There has to be some way out of this mess. Maybe I could see what's under the trampoline?*
 
-I move to the edge of the trampoline. Moving the blue protecting flap off of the springs to get a better look at them. Just regular trampoline springs that I've removed hundreds of times. I remove a few of them and set them on the blue flap, so I don’t lose them.
+I move to the edge of the trampoline. Moving the blue protection flap off of the springs to get a better look at them. Just regular trampoline springs that I've removed hundreds of times. I remove a few of them and set them on the blue flap, so I don’t lose them.
 
 *I hope there's something down there.* I take the plunge and slowly lift myself below the trampoline feet first.
 
@@ -54,8 +54,8 @@ I go over to the edge and clamber under the trampoline, then crawl over to the l
 
 Once I get to the door I go through it and close it behind me. I walk down the previously unexplored hallway. *If I’m lucky this will lead out of this crazy place.*
 
-The hallway is the same as the last two. At the end of the hallway is a door, like the last two made of wood, but this one had a symbol on it, a pink 6 pointed star with a smaller white 6 pointed star behind it slightly rotated, and 5 smaller 6 pointed stars around that.
+The hallway is the same as the last two. At the end of the hallway is a door, like the last two made of wood, but this one had a symbol on it, a pink six pointed star with a smaller white six pointed star behind it slightly rotated, and five smaller six pointed stars around that.
 
-I open it, on the other side is a 6 sided room with 5 more doors just like the one I came through with different symbols. From left to right it went; The door I came from, A door with 3 apples on it. A door with 3 butterflies on it. A door with 3 balloons on it. A door with a cloud with a rainbow lightning bolt coming out of it. A door with 3 diamonds on it.
+I open it, on the other side is a six sided room with five more doors just like the one I came through with different symbols. From left to right it went; The door I came from, A door with three apples on it. A door with three butterflies on it. A door with three balloons on it. A door with a cloud with a rainbow lightning bolt coming out of it. A door with three diamonds on it.
 
 *I know I've seen these symbols before but where?*
