@@ -19,14 +19,8 @@ Cover image provided by: [ShutterflyEQD](https://shutterflyeqd.deviantart.com/)
 
 Fluttershy has a crush on Rainbow Dash. She decides to ask her out.
 
-### Ideas
-
-
-### Flow
-
-
-### Chapters
-[01](./01.md)
+### Story
+[Fluttershy Likes Rainbow Dash](fluttershy-likes-rainbow-dash.md)
 
 ### Cover
 

@@ -1,4 +1,4 @@
-# Chapter 1
+# Fluttershy Likes Rainbow Dash
 
 Fluttershy walked out her door worriedly. Today she was going to ask Rainbow Dash out if she didn't chicken out, that is. She'd had a crush on her for some time now.
 
