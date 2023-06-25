@@ -49,14 +49,14 @@ No details provided.
 ## Unnamed Rainbow x Rarity romance story
 
 ### Synopsis:
-Rarity and Rainbow are lost in the wilderness and become close as they find there way home.
+Rarity and Rainbow are lost in the wilderness and become close as they find their way home.
 
 ### Snippet:
-Rainbow Dash lead Rarity threw some brush, slowly trying to find a path. She stopped and started to look around, not seeing anything. She was about to continue walking when she heard a sob, looking back at Rarity, she could tell she wasn't okay. Her mane was completely disheveled, her makeup had completely run off, her mouth was hung low, and her ears were drooping, but it was her eyes that caught her attention most, she could see the wetness in them.
+Rainbow Dash led Rarity through some brush, slowly trying to find a path. She stopped and started to look around, not seeing anything. She was about to continue walking when she heard a sob, looking back at Rarity, she could tell she wasn't okay. Her mane was completely disheveled, her makeup had completely run off, her mouth was hung low, and her ears were drooping, but it was her eyes that caught her attention most, she could see the wetness in them.
 
-*She's trying not to cry so badly*, Rainbow thought.
+*She's trying so hard not to cry*, Rainbow thought.
 
-Rainbow sat down and said, “let's take a break her for a moment.”
+Rainbow sat down and said, “Let's take a break for a moment.”
 
 “Okay,” Rarity said while choking back a sob.
 
@@ -68,7 +68,7 @@ Rainbow sat down and said, “let's take a break her for a moment.”
 
 “We're miserable Rainbow Dash, we look like wild animals, and we haven't eaten in over a day, what are we going to do?” Rarity snapped at her before letting the floodgates loose. Tears started flowing from her eyes as she started to sob, “I don't want to die…”
 
-Rainbow Dash pulled Rarity close, wrapping both her wings and forelegs around her, “Shh, it's going to be fine, I'll make sure we get home.”
+Rainbow Dash pulled Rarity close, wrapping both her wings and forelegs around her. “Shh, it's going to be fine, I'll make sure we get home.”
 
 ***
 
