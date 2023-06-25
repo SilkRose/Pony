@@ -1,6 +1,6 @@
 # Fluttershy Likes Rainbow Dash
 
-Fluttershy trotted out of her door, almost tripping. Today she was going to ask Rainbow Dash out, and the thought of asking her out was all she could focus on.
+Fluttershy trotted out of her door, almost tripping. Today, she was going to ask Rainbow Dash out, and the thought of asking her out was all she could focus on.
 
 *Today is the day. You've waited too long already.*
 
@@ -14,7 +14,7 @@ Helping Rainbow find a pet.
 
 Acting in a play with Rainbow.
 
-Rainbow encouraging her when she thought she was a worthless flyer.
+Rainbow, encouraging her when she thought she was a worthless flyer.
 
 *such great memories, maybe we could make more if we are dating.*
 
@@ -26,7 +26,7 @@ Rainbow dash answered the door and said, "Hi Fluttershy, what's up?"
 
 Fluttershy blushed as she waited for Rainbow to answer.
 
-Rainbow Dash stood there mouth agape in shock, she had definitely not expected this from Fluttershy. She took a moment and thought then said, "Um.. sure Fluttershy, where were you thinking?"
+Rainbow Dash stood there, mouth agape in shock, she had definitely not expected this from Fluttershy. She took a moment and thought then said, "Um... sure, Fluttershy, where were you thinking?"
 
 "Sugarcube Corner, tonight at six?" Fluttershy said as her blushed intensified.
 
@@ -34,13 +34,13 @@ Rainbow Dash stood there mouth agape in shock, she had definitely not expected t
 
 “Bye,” Fluttershy said in a serene tone before she slowly flew away from Rainbow’s home.
 
-On the way home Fluttershy was so excited and nervous she could hardly think straight.
+On the way home, Fluttershy was so excited and nervous she could hardly think straight.
 
 *What should they do? What should they talk about? Where else should they go?*
 
 Fluttershy had never gone on a date before.
 
-Fluttershy got home and started to prepare for tonight. Seeing as it was noon she had time to prepare.
+Fluttershy got home and started to prepare for tonight. Seeing as it was noon, she had time to prepare.
 
 She practiced talking with one of her animals wearing a Rainbow Dash mask. She tried flirting and ultimately failed, deciding to just be herself and hope Rainbow would like that.
 
@@ -58,9 +58,9 @@ Pinkie trotted over to Fluttershy. “What brings you here, Fluttershy?”
 
 “Can I get you anything in the meantime?” Pinkie asked.
 
-“No thank you Pinkie, I'll wait,” Fluttershy said.
+“No, thank you Pinkie, I'll wait,” Fluttershy said.
 
-Moments later Rainbow Dash entered the establishment.
+Moments later, Rainbow Dash entered the establishment.
 
 “Hi Pinkie, hi Fluttershy,” Rainbow said before she took a seat across from Fluttershy.
 
@@ -98,9 +98,9 @@ Pinkie said, “That’s great,” and went on her way back to tending to the st
 
 Fluttershy blushed and started eating her salad. Rainbow started eating as well. They sat there eating their food for a bit.
 
-Rainbow finally broke the silence, “So, Fluttershy what all do you have planned for us tonight?”
+Rainbow finally broke the silence, “So, Fluttershy, what all do you have planned for us tonight?”
 
-Fluttershy replied sheepishly, “First we would eat here to get it started and then I thought we could go for a midnight stroll to the lake. Where we could sit together and watch the beautiful night sky.”
+Fluttershy replied sheepishly, “First we would eat here to get it started, and then I thought we could go for a midnight stroll to the lake. Where we could sit together and watch the beautiful night sky.”
 
 Rainbow smiled, “That sounds awesome.”
 
@@ -114,7 +114,7 @@ Fluttershy ate her food and watched Rainbow eat hers.
 
 They finished up their food and decided to go on a walk.
 
-They paid for their food and got up to leave. Once outside they started walking towards the lake.
+They paid for their food and got up to leave. Once outside, they started walking towards the lake.
 
 They got about three quarters the way there when Fluttershy said, “It’s so lovely out tonight.”
 
@@ -126,11 +126,11 @@ Rainbow replied, “Yes.”
 
 Rainbow leaned into Fluttershy as they walked. She felt her tense up and then loosen back down.
 
-Rainbow looked and saw Fluttershy blush intensely. “You know what Fluttershy, I’ve had a pretty good night tonight,” Rainbow said.
+Rainbow looked and saw Fluttershy blush intensely. “You know what, Fluttershy, I’ve had a pretty good night tonight,” Rainbow said.
 
 “Yeah,” Fluttershy whispered. “Me too.”
 
-They walked close together feeling each other's body heat against the cool air. It didn’t take long for them to reach the lake. It was there that Fluttershy unfolded a picnic blanket she had been carrying for this purpose.
+They walked close together, feeling each other's body heat against the cool air. It didn’t take long for them to reach the lake. It was there that Fluttershy unfolded a picnic blanket she had been carrying for this purpose.
 
 They both laid down on the blanket close to the other pony.
 
@@ -138,8 +138,8 @@ Fluttershy said, “There sure are a lot of stars out tonight.”
 
 “Sure are, and I’m looking at one right now,” Rainbow said as she looked at Fluttershy.
 
-Fluttershy blushed saying quietly, “Oh,” and giggled, causing Rainbow to blush.
+Fluttershy blushed, saying quietly, “Oh,” and giggled, causing Rainbow to blush.
 
-They laid there in silence for a minute before Fluttershy asked, “Would you um... like to go on a um... second date... maybe?” She was blushing vigorously.
+They laid there in silence for a minute before Fluttershy asked, “Would you um... like to go on an um... second date... maybe?” She was blushing vigorously.
 
 Rainbow slowly turned towards Fluttershy and leaned closer till their lips were firmly together, they stayed like that for a little bit. Once they parted, Rainbow said, “I would very much like that.”
