@@ -6,19 +6,19 @@ I stop jumping. *There has to be some way out of this mess. Maybe I could see wh
 
 I move to the edge of the trampoline. Moving the blue protection flap off of the springs to get a better look at them. Just regular trampoline springs that I've removed hundreds of times. I remove a few of them and set them on the blue flap, so I don’t lose them.
 
-*I hope there's something down there.* I take the plunge and slowly lift myself below the trampoline feet first.
+*I hope there's something down there.* I take the plunge and slowly lift myself below the trampoline, feet first.
 
-To my surprise, only a few feet down I hit something hard, the floor. I descend all the way onto the floor. Once I'm on the floor I feel it, its dirt.
+To my surprise, only a few feet down I hit something hard, the floor. I descend all the way onto the floor. Once I'm on the floor, I feel it, it's dirt.
 
-I decide to venture around on the floor looking for anything that would be of use. I don’t have to look far as in the center of the dirt ground is a small wooden frame built into the ground. *What do we have here?*
+I decide to venture around on the floor looking for anything that would be of use. I don’t have to look far, as in the center of the dirt ground is a small wooden frame built into the ground. *What do we have here?*
 
-It’s dark down here so I mostly have to feel around it, on one side I can feel some hinges and on the other side, I can feel a handle. Not being brain surgery I determine it is a door that leads somewhere. I open it and shield my eyes, not used to the amount of light that lay beyond.
+It’s dark down here, so I mostly have to feel around it, on one side I can feel some hinges and on the other side, I can feel a handle. Not being brain surgery, I determine it is a door that leads somewhere. I open it and shield my eyes, not used to the amount of light that lay beyond.
 
-Down the hatch is well lit. *thank god.* There is a ladder that leads down to a hallway. Having nothing better to do I go down it.
+Down the hatch is well lit. *thank god.* There is a ladder that leads down to a hallway. Having nothing better to do, I go down it.
 
-Once I'm down the ladder I look around the hallway. Its made of light grey stone and had an arched top running along its entire length. It was well lit somehow, I don't see any light sources. There was a purple carpet running down it to where it dead-ended at the ladder I just came down.
+Once I'm down the ladder, I look around the hallway. It's made of light gray stone and had an arched top running along its entire length. It was well lit somehow, I don't see any light sources. There was a purple carpet running down it to where it dead-ended at the ladder I just came down.
 
-I walk down the hallway. *What is this place? Why is it under a trampoline linked to a saddle bag? How is this even real? Am I in a coma? Where does this lead?*
+I walk down the hallway. *What is this place? Why is it under a trampoline linked to a saddlebag? How is this even real? Am I in a coma? Where does this lead?*
 
 I find the answer to that last question in a short time as I come up to a door.
 
@@ -46,16 +46,16 @@ Out of the corner of my right eye, I see the same hair from the other saddlebag 
 
 Boing
 
-AHH, Pinkie was staring at me with that same worried face, this time a lot closer. *Where did she come from?* I stop jumping from that near heart attack.
+AAH, Pinkie was staring at me with that same worried face, this time a lot closer. *Where did she come from?* I stop jumping from that near heart attack.
 
 I decide to go see where that hallway leads, hopefully, a way out of here.
 
 I go over to the edge and clamber under the trampoline, then crawl over to the ladder and go down it. I walk down the hallway at a brisk pace.
 
-Once I get to the door I go through it and close it behind me. I walk down the previously unexplored hallway. *If I’m lucky this will lead out of this crazy place.*
+Once I get to the door, I go through it and close it behind me. I walk down the previously unexplored hallway. *If I’m lucky, this will lead out of this crazy place.*
 
-The hallway is the same as the last two. At the end of the hallway is a door, like the last two made of wood, but this one had a symbol on it, a pink six pointed star with a smaller white six pointed star behind it slightly rotated, and five smaller six pointed stars around that.
+The hallway is the same as the last two. At the end of the hallway is a door, like the last two made of wood, but this one had a symbol on it, a pink six-pointed star with a smaller white six pointed star behind it slightly rotated, and five smaller six pointed stars around that.
 
 I open it, on the other side is a six sided room with five more doors just like the one I came through with different symbols. From left to right it went; The door I came from, A door with three apples on it. A door with three butterflies on it. A door with three balloons on it. A door with a cloud with a rainbow lightning bolt coming out of it. A door with three diamonds on it.
 
-*I know I've seen these symbols before but where?*
+*I know I've seen these symbols before, but where?*
