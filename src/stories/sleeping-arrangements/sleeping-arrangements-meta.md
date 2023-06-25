@@ -10,7 +10,7 @@ During the rainbow road trip, 3 pairs of ponies share a bed.
 
 ### Description
 
-During the Rainbow Roadtrip the Mane 6 wind up sharing beds on the overnight stay, what might happen this most wonderful of nights?
+During their stay in Hope Hollow, the Mane 6 wind up sharing beds on the overnight stay, what might happen this most wonderful of nights?
 
 ### Short Description
 
