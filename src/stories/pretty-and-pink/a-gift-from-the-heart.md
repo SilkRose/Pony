@@ -34,11 +34,11 @@ Rarity's thoughts turned towards her affection for Pinkie, *that mare has a hold
 
 Her thoughts ceased when she arrived at Sugarcube Corner. Walking inside, she found Mrs. Cake at the counter.
 
-"Hello, is Pinkie Pie in?" Rarity asked.
+“Hello, is Pinkie Pie in?” Rarity asked.
 
-"Yes, deary, I believe she is in her room upstairs," Mrs. Cake said.
+“Yes, deary, I believe she is in her room upstairs,” Mrs. Cake said.
 
-"Okay, thank you," Rarity said before walking to the stairs.
+“Okay, thank you,” Rarity said before walking to the stairs.
 
 Once Rarity had ascended the stairs, she knocked on Pinkie’s door. *Here goes nothing*, she thought.
 
@@ -88,11 +88,11 @@ They walked in silence for a while as Rarity couldn't help but stare.
 
 *So carefree and full of fun*, she thought. *I could use a little of that in my life.*
 
-Pinkie had noticed the staring. "Are you okay, your face is a little red."
+Pinkie had noticed the staring. “Are you okay, your face is a little red.”
 
-Rarity said, "Oh, I'm fine... just excited about this dress," and averting her gaze.
+Rarity said, “Oh, I'm fine… just excited about this dress,” and averting her gaze.
 
-Pinkie seemed to have bought it. "Me too!"
+Pinkie seemed to have bought it. “Me too!”
 
 Shortly after the conversation had ended, they arrived at Carousel Boutique.
 
@@ -164,7 +164,7 @@ Rarity moved the fabric around Pinkie’s back as to level it out.
 
 Pinkie stopped paying attention to what Rarity was doing, lost in her thoughts.
 
-*How long will this take? I don’t know how long I can last... I... need to tell her. Yea. I’ll do it after we're done making the dress. I can’t hide my feelings any longer.*
+*How long will this take? I don’t know how long I can last… I… need to tell her. Yea. I’ll do it after we're done making the dress. I can’t hide my feelings any longer.*
 
 ***
 

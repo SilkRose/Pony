@@ -38,15 +38,15 @@ Pinkie replied, “You’ll see when everypony gets here; it's a surprise.”
 
 Rainbow replied, “Okay, sounds exciting.” She turned to Rarity and asked, “Does this surprise involve you or is it a Pinkie thing?”
 
-"It's an *us* kind of surprise," Rarity said, trying not to give it away.
+“It's an *us* kind of surprise,” Rarity said, trying not to give it away.
 
-Before Rainbow could reply, Rarity said, "Nice to see you again."
+Before Rainbow could reply, Rarity said, “Nice to see you again.”
 
-"Same," Rainbow said.
+“Same,” Rainbow said.
 
-Rarity turned to Fluttershy, "I'm glad you could make it darling."
+Rarity turned to Fluttershy, “I'm glad you could make it darling.”
 
-"Glad to be here Rarity," Fluttershy said with a smile.
+“Glad to be here Rarity,” Fluttershy said with a smile.
 
 Moments later Applejack trotted through the door.
 
@@ -54,19 +54,19 @@ Pinkie hugged Applejack, who hugged back.
 
 After the hug was over, Pinkie said, “Once Twilight gets here, we can get this party started.”
 
-Rarity said, "Welcome Applejack."
+Rarity said, “Welcome Applejack.”
 
-Applejack replied, "Thank you kindly. What's the occasion? Or is it a regular Pinkie party?"
+Applejack replied, “Thank you kindly. What's the occasion? Or is it a regular Pinkie party?”
 
-Rarity answered, "You'll know soon enough, just waiting on Twilight."
+Rarity answered, “You'll know soon enough, just waiting on Twilight.”
 
-As if on cue, seconds later, Twilight opened Pinkie's door. "Hello everypony."
+As if on cue, seconds later, Twilight opened Pinkie's door. “Hello everypony.”
 
-Pinkie hugged Twilight. "Hi Twilight."
+Pinkie hugged Twilight. “Hi Twilight.”
 
-After the hug was over, Pinkie said, "Thank you all for coming, it means a lot to me and Rarity."
+After the hug was over, Pinkie said, “Thank you all for coming, it means a lot to me and Rarity.”
 
-"What's going on?" Rainbow asked.
+“What's going on?” Rainbow asked.
 
 Pinkie stood beside Rarity, about to make their big announcement when she looked over at Rarity.
 
@@ -284,7 +284,7 @@ Rarity led Fluttershy into Pinkie’s upstairs bathroom, closing the door behind
 
 Rarity looked at Fluttershy with concern, “Is everything alright, dear?”
 
-Fluttershy answered, “Yes, I... I...”
+Fluttershy answered, “Yes, I… I…”
 
 Rarity could see it on her face, she was having trouble saying it. *Oh, dear.*
 
@@ -292,11 +292,11 @@ Rarity sat in front of Fluttershy, putting her hooves around her, holding her in
 
 This calmed Fluttershy, as she relaxed into the embrace before holding her back.
 
-Speaking at almost a whisper, Fluttershy said, “I... have a... crush on Rainbow Dash...”
+Speaking at almost a whisper, Fluttershy said, “I… have a… crush on Rainbow Dash…”
 
 Rarity replied, “Are you planning on asking her out?”
 
-Fluttershy meekly said, “How? I can't ask her out, I've tried... I just choke and give up...”
+Fluttershy meekly said, “How? I can't ask her out, I've tried… I just choke and give up…”
 
 Rarity answered, “You know what you want; that's the first step. You can work towards your goal, and I can help you.”
 
@@ -312,7 +312,7 @@ Rarity answered, “I can help you build courage; you can pretend I’m Rainbow 
 
 “Didn’t I see her wing around you earlier tonight?” Rarity asked.
 
-“Well yes, she put her wing around me and I leaned into it, then she tensed up and removed her wing. I don’t know what I did wrong, I thought...” Fluttershy trailed off.
+“Well yes, she put her wing around me and I leaned into it, then she tensed up and removed her wing. I don’t know what I did wrong, I thought…” Fluttershy trailed off.
 
 “I think she removed her wing because of me. I was looking at her when she tensed up; she’s probably just self-conscious about being affectionate in public. You know Rainbow,” Rarity said.
 
@@ -386,7 +386,7 @@ Applejack returned the hug. After the hug she turned to Fluttershy. “Do you wa
 
 Pinkie hugged Fluttershy. “Thanks, bye.”
 
-Turning to Rainbow, Fluttershy asked, “Are you coming with us? I know we came together...” trailing off at the end.
+Turning to Rainbow, Fluttershy asked, “Are you coming with us? I know we came together…” trailing off at the end.
 
 “Sure, but I’ll catch up. I’m going to stay a bit longer and help clean up,” Rainbow said.
 
@@ -404,11 +404,11 @@ Rainbow started cleaning up some streamers, taking a second to respond, “Don�
 
 “You have my Pinkie promise,” Pinkie said as she did the motions.
 
-Rainbow looked at Pinkie, and quietly said, “I... have a crush on... Fluttershy.”
+Rainbow looked at Pinkie, and quietly said, “I… have a crush on… Fluttershy.”
 
-Pinkie, overwhelmed with excitement at the news, bounced over to Rainbow and gave her a big hug, exclaiming, "This is so amazing!"
+Pinkie, overwhelmed with excitement at the news, bounced over to Rainbow and gave her a big hug, exclaiming, “This is so amazing!”
 
-Rainbow, expecting this reaction, laughed a bit. "Slow down their Pinkie," she said before she returned the hug. "I have more to say."
+Rainbow, expecting this reaction, laughed a bit. “Slow down their Pinkie,” she said before she returned the hug. “I have more to say.”
 
 Pinkie let go of the hug and looked at Rainbow with a smile, awaiting her continuance.
 
@@ -436,9 +436,9 @@ Pinkie asked, “Any other questions?”
 
 “You’re welcome,” Pinkie said, picking up the last of the ribbon from the ground.
 
-"What made you want to date Rarity?" Rainbow asked.
+“What made you want to date Rarity?” Rainbow asked.
 
-"Well, at first, I didn’t realize I liked her, I just wanted to spend more time around her, started noticing her perfume more, savoring her hugs. Once I realized I had a crush I noticed more, I was more giddy in her presence, I liked how she is generous and tries to make ponies smile. I really like her sparkle, as a pony from the far distant future might say. And she is super-duper pretty, I could stare at those eyes for hours, so beautiful,” Pinkie answered.
+“Well, at first, I didn’t realize I liked her, I just wanted to spend more time around her, started noticing her perfume more, savoring her hugs. Once I realized I had a crush I noticed more, I was more giddy in her presence, I liked how she is generous and tries to make ponies smile. I really like her sparkle, as a pony from the far distant future might say. And she is super-duper pretty, I could stare at those eyes for hours, so beautiful,” Pinkie answered.
 
 “That's awesome, I’m glad you two got together,” Rainbow replied.
 
@@ -446,7 +446,7 @@ Pinkie asked, “Any other questions?”
 
 “Last question, I swear. You said you thought she liked you before you asked her, what were the signs?” Rainbow asked.
 
-"The way she acted changed, we spent more time together, her smile was more radiant. Our hugs were longer, she hugged me tighter. I'd catch her staring then looking away when I noticed. She even blushed around me a few times. Looking back now it is all so clear, but at the time I didn't know if they were real or just my imagination wanting them to be real," Pinkie said.
+“The way she acted changed, we spent more time together, her smile was more radiant. Our hugs were longer, she hugged me tighter. I'd catch her staring then looking away when I noticed. She even blushed around me a few times. Looking back now it is all so clear, but at the time I didn't know if they were real or just my imagination wanting them to be real,” Pinkie said.
 
 “Thanks, Pinkie, you’ve helped me a lot and given me a lot to think about,” Rainbow said.
 
@@ -456,7 +456,7 @@ They continued to clean for a bit before Pinkie broke the silence.
 
 “Do you think Fluttershy likes you?” Pinkie asked.
 
-Rainbow thought for a moment before answering, eventually she said, “I don’t know, sometimes I think she does and others I don’t. At this party while you two danced I was distracted and put my wing around her, at first she leaned into it, I thought that was a sign, but then I tensed up when Rarity was looking, I probably ruined the moment... Then she went real quick to get a drink and left the room with Rarity.”
+Rainbow thought for a moment before answering, eventually she said, “I don’t know, sometimes I think she does and others I don’t. At this party while you two danced I was distracted and put my wing around her, at first she leaned into it, I thought that was a sign, but then I tensed up when Rarity was looking, I probably ruined the moment… Then she went real quick to get a drink and left the room with Rarity.”
 
 Pinkie responded, “Maybe you should ask Rarity what they did, they could have been just using the bathroom.”
 
@@ -466,15 +466,15 @@ Pinkie thought for a second. “Hmm, maybe Rarity needed help with something and
 
 Rainbow replied, “I’m going to ask Rarity tomorrow.”
 
-Pinkie said, ”Okie-dokie-lokie.”
+Pinkie said, “Okie-dokie-lokie.”
 
-After a bit more cleaning, Pinkie asked another question, "What made you realize you liked Fluttershy?"
+After a bit more cleaning, Pinkie asked another question, “What made you realize you liked Fluttershy?”
 
-Rainbow thought for a few seconds, before she said, "I feel a connection with her, I want to always be there for her. I want to protect her. I feel safe around her in a sense of judgement, I know you girls would never judge me, but its different with her. I feel like I don't always have to be the tough cool pony all the time with her. I feel like I could let my guard down and she would never hurt me. Also, she's really hot."
+Rainbow thought for a few seconds, before she said, “I feel a connection with her, I want to always be there for her. I want to protect her. I feel safe around her in a sense of judgement, I know you girls would never judge me, but its different with her. I feel like I don't always have to be the tough cool pony all the time with her. I feel like I could let my guard down and she would never hurt me. Also, she's really hot.”
 
-"I hope it works out, I love seeing my friends happy," Pinkie said.
+“I hope it works out, I love seeing my friends happy,” Pinkie said.
 
-"Thanks, me too," Rainbow said.
+“Thanks, me too,” Rainbow said.
 
 Rainbow put away the last of the balloons into Pinkie’s cabinet, then turns to Pinkie. “That’s almost all the decorations cleaned up, I’m going to head out, so I can catch up to Fluttershy and Applejack before they get home.”
 
@@ -490,7 +490,7 @@ Pinkie closed the window behind her. Then finished cleaning up the rest of the p
 
 Going to bed early tonight, Pinkie laid down in her bed. She smiled as she fell asleep thinking of all the possibilities for her date, and the idea of her two friends dating.
 
-*I hope everything goes well for them,* she thought as she drifted off to sleep.
+*I hope everything goes well for them*, she thought as she drifted off to sleep.
 
 ***
 
@@ -518,7 +518,7 @@ Twilight took a moment to answer, thinking before saying, “I’m sure she will
 
 “Thanks Twilight,” Rarity said as they stopped in front of her door, she turned to Twilight and gave her a hug. “I probably sound like a broken record with how much I’ve thanked you guys.”
 
-Twilight returned the hug. ”Don’t worry about it, we're all here for you and want you to be happy.”
+Twilight returned the hug. “Don’t worry about it, we're all here for you and want you to be happy.”
 
 Letting go of the hug, Rarity said, “Goodnight,” as she smiled at Twilight.
 

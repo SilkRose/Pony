@@ -2,19 +2,19 @@
 
 Rarity opened her door, expecting Pinkie Pie, which she found. What she wasn't expecting, was the dress she had on. Pinkie Pie was wearing the dress Rarity gave her when they got together.
 
-"Hello, darling," Rarity said. "I didn't know we were wearing dresses or I would have put one on."
+“Hello, darling,” Rarity said. “I didn't know we were wearing dresses or I would have put one on.”
 
-Pinkie said, "Can I come in? I have a gift for you."
+Pinkie said, “Can I come in? I have a gift for you.”
 
-"Sure," Rarity said before she stepped aside.
+“Sure,” Rarity said before she stepped aside.
 
 Pinkie entered the shop as Rarity noticed a large flat present on Pinkie's back.
 
-Pinkie sat the present on a modeling pedestal. "This is from me and Fluttershy."
+Pinkie sat the present on a modeling pedestal. “This is from me and Fluttershy.”
 
-Rarity smiled. "Oh, you didn't have to get me anything."
+Rarity smiled. “Oh, you didn't have to get me anything.”
 
-Pinkie replied, "We didn't have to, but we wanted to."
+Pinkie replied, “We didn't have to, but we wanted to.”
 
 Rarity slowly opened the present.
 
@@ -22,29 +22,29 @@ Rarity slowly opened the present.
 
 She lifted the lid and her suspicions were confirmed, they had made her a dress.
 
-Rarity picked the dress up in her magic and inspected it. "This is amazing, it matches your dress so well!"
+Rarity picked the dress up in her magic and inspected it. “This is amazing, it matches your dress so well!”
 
-"Rainbow Dash helped too," Pinkie clarified, not actually clarifying anything.
+“Rainbow Dash helped too,” Pinkie clarified, not actually clarifying anything.
 
-"Thank you so much, I'm going to put it on right now," Rarity said before she went behind her privacy wall and put the dress on.
+“Thank you so much, I'm going to put it on right now,” Rarity said before she went behind her privacy wall and put the dress on.
 
-"You're welcome," Pinkie called out to her.
+“You're welcome,” Pinkie called out to her.
 
 Rarity trotted back to Pinkie after she had put the dress on.
 
-"You look so pretty!" Pinkie exclaimed.
+“You look so pretty!” Pinkie exclaimed.
 
-Rarity blushed and said, "You too, darling."
+Rarity blushed and said, “You too, darling.”
 
-Pinkie blushed in turn and asked, "You ready to date?"
+Pinkie blushed in turn and asked, “You ready to date?”
 
-Rarity giggled. "Yes."
+Rarity giggled. “Yes.”
 
 Pinkie led Rarity outside, after which a royal chariot pulled by two royal guards stopped in front of the shop.
 
-Rarity's mouth hung open for a second before she asked, "Is this for us?"
+Rarity's mouth hung open for a second before she asked, “Is this for us?”
 
-"Yes," Pinkie answered before she gestured for Rarity to enter first.
+“Yes,” Pinkie answered before she gestured for Rarity to enter first.
 
 Rarity smiled as she got in the chariot.
 
@@ -56,31 +56,31 @@ As the chariot moved along, Pinkie offered Rarity her hoof to hold.
 
 Rarity took her offer, holding Pinkie's hoof and nuzzled her cheek, causing her to blush.
 
-Rarity said, "This is lovely, darling."
+Rarity said, “This is lovely, darling.”
 
-Pinkie replied, "You are lovely."
+Pinkie replied, “You are lovely.”
 
 Rarity held Pinkie's hoof tighter, and nuzzled her again.
 
 Both mares blushed as they enjoyed the moment they were in.
 
-Rarity, against her best wishes to revel in this moment forever, interrupted the silence. "Where are we going first, darling?"
+Rarity, against her best wishes to revel in this moment forever, interrupted the silence. “Where are we going first, darling?”
 
-"Dinner," Pinkie answered.
+“Dinner,” Pinkie answered.
 
-"That's good, I am rather famished. I skipped lunch because I figured you would want to eat on the date," Rarity said.
+“That's good, I am rather famished. I skipped lunch because I figured you would want to eat on the date,” Rarity said.
 
-"I wanted to do dinner first so we could start the date off with a dialogue. A little birdie told me you had something we should talk about," Pinkie said, winking at Rarity.
+“I wanted to do dinner first so we could start the date off with a dialogue. A little birdie told me you had something we should talk about,” Pinkie said, winking at Rarity.
 
-"That little birdie sure is a good friend, we should do something nice for her after all this," Rarity commented.
+“That little birdie sure is a good friend, we should do something nice for her after all this,” Rarity commented.
 
-"Yes, that's a great idea," Pinkie said.
+“Yes, that's a great idea,” Pinkie said.
 
 Rarity could practically see the gears turning in Pinkie's head as she smiled, no doubt idea after idea was flying through her mind as how they could repay their dear friend Rainbow for helping with their relationship.
 
-Rarity hugged Pinkie. "You're too cute, you know that?"
+Rarity hugged Pinkie. “You're too cute, you know that?”
 
-"Awe, thanks," Pinkie said as she returned the hug.
+“Awe, thanks,” Pinkie said as she returned the hug.
 
 After the hug, both mares sat in silence and smiled, both content to enjoy each others company.
 
@@ -94,15 +94,15 @@ Rarity looked over the building they were in front of, the sign read 'Horse Dēl
 
 Pinkie led Rarity into the establishment, holding the door for her. They trotted up to the greeter's podium.
 
-The greeter was a dark gray unicorn stallion with a jet black mane, he was wearing a deep crimson suit and had dark green eyes. He greeted them, "Hello madams, welcome to Horse Dēla Hay. Do you have a reservation?"
+The greeter was a dark gray unicorn stallion with a jet black mane, he was wearing a deep crimson suit and had dark green eyes. He greeted them, “Hello madams, welcome to Horse Dēla Hay. Do you have a reservation?”
 
-Pinkie spoke up, "Yes, for Miss Rarity and Miss Pinkie."
+Pinkie spoke up, “Yes, for Miss Rarity and Miss Pinkie.”
 
-He gestured for them to follow him. "Right this way."
+He gestured for them to follow him. “Right this way.”
 
 The greeter led them into the back of the restaurant, into a closed off section through a weighted red curtain. He showed them to their private booth, opening its own privacy curtain before the two mares entered in.
 
-The greeter said, "Here are your menus," as he levitated two menus onto the table. "You're waiter will be with you shortly," he said before he left, closing the curtain.
+The greeter said, “Here are your menus,” as he levitated two menus onto the table. “You're waiter will be with you shortly,” he said before he left, closing the curtain.
 
 Rarity picked up her menu and started looking around.
 
@@ -130,9 +130,9 @@ The lights went out and Rarity could hear movement from Pinkie.
 
 She found out soon enough as Pinkie wrapped her hooves around her.
 
-Rarity hugged back. "That was surprisingly fun."
+Rarity hugged back. “That was surprisingly fun.”
 
-"Anything is fun when I do it with you," Pinkie replied.
+“Anything is fun when I do it with you,” Pinkie replied.
 
 Letting go of the hug, they got back into their seats. Pinkie turned the lights back on as both mares smiled at each other.
 

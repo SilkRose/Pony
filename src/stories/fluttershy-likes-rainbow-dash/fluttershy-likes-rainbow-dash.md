@@ -20,15 +20,15 @@ Rainbow, encouraging her when she thought she was a worthless flyer.
 
 Fluttershy arrived under Rainbow’s cloud home. She slowly lifted herself up to the front door and knocked. Her heart pounded in her chest, she was doing it.
 
-Rainbow dash answered the door and said, "Hi Fluttershy, what's up?"
+Rainbow dash answered the door and said, “Hi Fluttershy, what's up?”
 
-"I um... I... I wanted to know if you would um... go on a date with me?" Fluttershy asked as her eye's darted around, not wanting to match Rainbow's gaze.
+“I um… I… I wanted to know if you would um… go on a date with me?” Fluttershy asked as her eye's darted around, not wanting to match Rainbow's gaze.
 
 Fluttershy blushed as she waited for Rainbow to answer.
 
-Rainbow Dash stood there, mouth agape in shock, she had definitely not expected this from Fluttershy. She took a moment and thought then said, "Um... sure, Fluttershy, where were you thinking?"
+Rainbow Dash stood there, mouth agape in shock, she had definitely not expected this from Fluttershy. She took a moment and thought then said, “Um… sure, Fluttershy, where were you thinking?”
 
-"Sugarcube Corner, tonight at six?" Fluttershy said as her blushed intensified.
+“Sugarcube Corner, tonight at six?” Fluttershy said as her blushed intensified.
 
 “See you then,” Rainbow said before she smiled.
 
@@ -50,7 +50,7 @@ Fluttershy trotted down the road towards Sugarcube Corner slowly. Fluttershy was
 
 It was five minutes till six, as Fluttershy approached Sugarcube Corner. She opened the door and walked inside.
 
-"Hello Pinkie," Fluttershy said.
+“Hello Pinkie,” Fluttershy said.
 
 Pinkie trotted over to Fluttershy. “What brings you here, Fluttershy?”
 
@@ -140,6 +140,6 @@ Fluttershy said, “There sure are a lot of stars out tonight.”
 
 Fluttershy blushed, saying quietly, “Oh,” and giggled, causing Rainbow to blush.
 
-They laid there in silence for a minute before Fluttershy asked, “Would you um... like to go on an um... second date... maybe?” She was blushing vigorously.
+They laid there in silence for a minute before Fluttershy asked, “Would you um… like to go on an um… second date… maybe?” She was blushing vigorously.
 
 Rainbow slowly turned towards Fluttershy and leaned closer till their lips were firmly together, they stayed like that for a little bit. Once they parted, Rainbow said, “I would very much like that.”
