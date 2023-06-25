@@ -1,8 +1,8 @@
-# 03 The fashionista and the farmer
+# 03 The Fashionista and The Farmer
 
-I watch Rainbow and Fluttershy go to their bed, then turn to Applejack, "shall we?"
+I watch Rainbow and Fluttershy go to their bed, then turn to Applejack. "Shall we?"
 
-She looks at me and says, "sure."
+She looks at me and says, "Sure."
 
 I trot to the left side of the right bed and use my magic to fix the sheets and blanket that Applejack messed up earlier from jumping on the bed. Once done I slowly get in and notice Applejack does the same. *How considerate.*
 
@@ -12,7 +12,7 @@ Applejack whispers, "Goodnight Rarity."
 
 I reply, "Goodnight Applejack."
 
-Just before Applejack close her eyes I think, *Applejack sure does have beautiful eyes.*
+Just before Applejack closes her eyes I think, *Applejack sure does have beautiful eyes.*
 
 I close my own eyes and try and sleep.
 
@@ -26,7 +26,7 @@ As I’m trying to sleep I hear Applejack mumble in her sleep, "Rarity stay."
 
 I blush. *Maybe we should have a little talk tomorrow.*
 
-I whisper to Applejack as she slumbers on me, "sweet dreams."
+I whisper to Applejack as she slumbers on me, "Sweet dreams."
 
 ***
 
@@ -36,7 +36,7 @@ I decide to forget the whole incident and go back to bed. As I’m laying there 
 
 ***
 
-I woke up again sometime later. This time not to me laying on Rarity, but Rarity cuddlin’ me something fierce. She had herself pressed against my back, her hoof holding my chest, an’ her tail tucked between my legs. *How’d she done all this while I’m sleeping?*
+I woke up again sometime later. This time not to me laying on Rarity, but Rarity cuddlin’ me something fierce. She had herself pressed against my back, her hoof holding my chest, an’ her tail tucked between my legs. *How’d she done all this without waking me?*
 
 My heartbeat rises and I blush. *She sure is close.*
 
@@ -64,7 +64,7 @@ I go for it and fail.
 
 "I would be glad to talk about it, but first could you let go of my hoof," I say.
 
-"Oh uh sure, sorry about that," She replies as she lets go of my hoof. I let go of her and she turns to face me.
+"Oh uh sure, sorry about that," she replies as she lets go of my hoof. I let go of her and she turns to face me.
 
 "No, I’m the one who should be sorry I accidentally was cuddling you in my sleep," I say as Applejack turns over to face me.
 
@@ -72,33 +72,33 @@ I go for it and fail.
 
 "I may have noticed, and didn’t do anything about it," I say as a blush forms on my cheeks.
 
-Applejack blushes and says, "I noticed you all over me and did nothing as well. Tell you the truth I kinda liked it."
+Applejack blushes and says, "I noticed you all over me and did nothing as well. Tell you the truth, I kinda liked it."
 
-My blush deepens, "you did?"
+My blush deepens. "You did?"
 
-Applejack says sheepishly, "yes, you wouldn’t happen to have liked it too?"
+Applejack says sheepishly, "Yes, you wouldn’t happen to have liked it too?"
 
-I smile slyly, "I might have."
+I smile slyly. "I might have."
 
-She gives me a serious look and says, "did ya or didn’t ya?"
+She gives me a serious look and says, "Did ya or didn’t ya?"
 
 I answer, "yes I did like it."
 
-She asks, "what now?"
+She asks, "Well, what now?"
 
 I ask, "Applejack, how would you like to go out with me?"
 
 She replies with a smile, "I think I’d like that."
 
-I hug her and say, "oh Applejack, this is wonderful."
+I hug her and say, "Oh Applejack, this is wonderful."
 
-She hugs back saying, "sure is."
+She hugs back saying, "Sure is."
 
 Once the hug is over Applejack says, "I’m a might bit tired, we should try and get some sleep."
 
 I blush, asking, "I concur, although do you think we might be able to cuddle while we fall asleep?"
 
-Applejack smiles and says, "sure sugarcube."
+Applejack smiles and says, "sure thing, sugarcube."
 
 Applejack opens her hooves and I scoot close to her, I lay my head on her and she holds me. *I very much like this.*
 
