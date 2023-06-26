@@ -1,0 +1,18 @@
+{
+  "curlyQuotes": false,
+  "emDash": true,
+  "ellipsis": true,
+  "arrows": false,
+  "comparisons": false,
+  "fractions": false,
+  "guillemets": false,
+  "skipEnDash": false,
+  "openSingle": "‘",
+  "closeSingle": "’",
+  "openDouble": "“",
+  "closeDouble": "”",
+  "openGuillemet": "«",
+  "closeGuillemet": "»",
+  "leftArrow": "←",
+  "rightArrow": "→"
+}
