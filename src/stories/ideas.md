@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## The Heist of My Heart
+
+### Synopsis:
+Elaborate heist planned by Pinkie and Rainbow. They sneak into Twilight's castle and Pinkie steals a kiss from her, and leaves a love note next to her.
+
+***
+
 ## Factorio, Twilight Sparkle's Downfall
 
 ### Synopsis:
