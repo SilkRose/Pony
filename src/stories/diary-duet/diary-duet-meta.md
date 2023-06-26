@@ -6,7 +6,7 @@ Location:
 
 ### Synopsis
 
-A guy gets sent to Equestria. The story switches between his diary and pinkie pie’s diary, and they fall in love over time.
+A guy gets sent to Equestria. The story switches between his diary and pinkie pie's diary, and they fall in love over time.
 
 ### Description
 

@@ -29,7 +29,7 @@ Friendship truly is magic.
 4. It came from Twilight and her friends becoming friends at the start.
 5. You are born from the spark.
 6. You move in another dimension linked to Equestria.
-7. This dimension is where all magic is ‘stored’.
+7. This dimension is where all magic is 'stored'.
 8. All magic comes from friendship.
 9. You pass by the magic going to defeat Nightmare Moon.
 10. That magic is from when the Mane 6 got there cutie marks.

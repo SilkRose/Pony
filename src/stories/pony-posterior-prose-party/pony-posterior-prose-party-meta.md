@@ -18,15 +18,15 @@ Time to talk about butts.
 
 ### Ideas
 
- - Twilight Sparkle - soft, rather tense/slightly tight -- butt
- - Rarity - soft, well-kempt, slightly tight/some tension -- posterior
- - Pinkie Pie - very soft and plump, lose/tension free -- tooshie
- - Fluttershy - very soft, some tension, somewhat loose -- rump
- - Applejack - hard butt still soft, firm, muscular, tight -- behind
- - Rainbow Dash - soft with harder undertone, loose-ish, muscular -- hindquarters
- - Spike - hard and scaly -- ass
+ - Twilight Sparkle - soft, rather tense/slightly tight – butt
+ - Rarity - soft, well-kempt, slightly tight/some tension – posterior
+ - Pinkie Pie - very soft and plump, lose/tension free – tooshie
+ - Fluttershy - very soft, some tension, somewhat loose – rump
+ - Applejack - hard butt still soft, firm, muscular, tight – behind
+ - Rainbow Dash - soft with harder undertone, loose-ish, muscular – hindquarters
+ - Spike - hard and scaly – ass
 
-Todo: make the story from spike’s throne’s perspective.
+Todo: make the story from spike's throne's perspective.
 
  - Sat on by:
    - PPT - 2 - Human Twilight in pony form
@@ -40,13 +40,13 @@ Todo: make the story from spike’s throne’s perspective.
 ### Flow
 
 1. Start
-2. Twilight’s chair - 
-3. Rarity’s chair - 
-4. Rainbow Dash’s chair - 
-5. Spike’s chair - 
-6. Fluttershy’s chair - 
-7. Pinkie Pie’s chair - 
-8. Applejack’s chair - 
+2. Twilight's chair - 
+3. Rarity's chair - 
+4. Rainbow Dash's chair - 
+5. Spike's chair - 
+6. Fluttershy's chair - 
+7. Pinkie Pie's chair - 
+8. Applejack's chair - 
 9. Chosen pony comes in
 10. end
 

@@ -34,53 +34,53 @@ Rarity's thoughts turned towards her affection for Pinkie, *that mare has a hold
 
 Her thoughts ceased when she arrived at Sugarcube Corner. Walking inside, she found Mrs. Cake at the counter.
 
-“Hello, is Pinkie Pie in?” Rarity asked.
+"Hello, is Pinkie Pie in?" Rarity asked.
 
-“Yes, deary, I believe she is in her room upstairs,” Mrs. Cake said.
+"Yes, deary, I believe she is in her room upstairs," Mrs. Cake said.
 
-“Okay, thank you,” Rarity said before walking to the stairs.
+"Okay, thank you," Rarity said before walking to the stairs.
 
-Once Rarity had ascended the stairs, she knocked on Pinkie’s door. *Here goes nothing*, she thought.
+Once Rarity had ascended the stairs, she knocked on Pinkie's door. *Here goes nothing*, she thought.
 
-Pinkie Pie answered the door a moment later and said, “Hey Rarity, what's up?”
+Pinkie Pie answered the door a moment later and said, "Hey Rarity, what's up?"
 
-“Hello darling, I was wondering if you could be my model for a particular dress?” Rarity asked.
+"Hello darling, I was wondering if you could be my model for a particular dress?" Rarity asked.
 
-Pinkie smiled at her friend. “Sure, when?”
+Pinkie smiled at her friend. "Sure, when?"
 
-“Right now, if it wouldn't be a bother.”
+"Right now, if it wouldn't be a bother."
 
-“Okay!” Pinkie replied happily.
+"Okay!" Pinkie replied happily.
 
-Pinkie jumped out her door and closed it behind her. They walked down the steps. Once they reached the bottom, Pinkie said, “Mrs. Cake, I'm going out.”
+Pinkie jumped out her door and closed it behind her. They walked down the steps. Once they reached the bottom, Pinkie said, "Mrs. Cake, I'm going out."
 
-Mrs. Cake replied from the counter, “Okay, have fun.”
+Mrs. Cake replied from the counter, "Okay, have fun."
 
 Rarity opened the front door with her magic. They walked through it and Rarity closed it behind them. They started walking to Carousel Boutique.
 
-“So, who’s the client?” Pinkie asked.
+"So, who's the client?" Pinkie asked.
 
-“You wouldn't know them, they’re from Manehattan. Their coat is pink, so you would be the *perfect* model,” Rarity said, as her gaze averted from Pinkie.
+"You wouldn't know them, they're from Manehattan. Their coat is pink, so you would be the *perfect* model," Rarity said, as her gaze averted from Pinkie.
 
-“Are you sure?” Pinkie asked. “I know a lot of ponies.”
+"Are you sure?" Pinkie asked. "I know a lot of ponies."
 
-“Yes,” Rarity said, hoping Pinkie would drop it.
+"Yes," Rarity said, hoping Pinkie would drop it.
 
 Rarity took a moment to admire Pinkie as she hopped beside her, none the ware of the feelings she had towards her. She looked at her bouncing pink curls; *so adorable.* Her pink fluffy ears; *so cute.* Her blue eyes; *so beautiful.*
 
-Her thoughts were interrupted when Pinkie asked, “How’s your day going, Rarity?”
+Her thoughts were interrupted when Pinkie asked, "How's your day going, Rarity?"
 
-“Good, and yours, darling?”
+"Good, and yours, darling?"
 
-“It’s going great!”
+"It's going great!"
 
-“That’s good,” Rarity smiled.
+"That's good," Rarity smiled.
 
-“Do you have any ideas for how the dress will look?” Pinkie asked cheerfully.
+"Do you have any ideas for how the dress will look?" Pinkie asked cheerfully.
 
-“I have a few, we shall see how it goes. Thank you for doing this for me Pinkie, it means a lot to me,” Rarity replied.
+"I have a few, we shall see how it goes. Thank you for doing this for me Pinkie, it means a lot to me," Rarity replied.
 
-“No problem, Rarity, I’m glad to help,” Pinkie said.
+"No problem, Rarity, I'm glad to help," Pinkie said.
 
 They walked in silence for a while as Rarity couldn't help but stare.
 
@@ -88,51 +88,51 @@ They walked in silence for a while as Rarity couldn't help but stare.
 
 *So carefree and full of fun*, she thought. *I could use a little of that in my life.*
 
-Pinkie had noticed the staring. “Are you okay, your face is a little red.”
+Pinkie had noticed the staring. "Are you okay, your face is a little red."
 
-Rarity said, “Oh, I'm fine… just excited about this dress,” and averting her gaze.
+Rarity said, "Oh, I'm fine… just excited about this dress," and averting her gaze.
 
-Pinkie seemed to have bought it. “Me too!”
+Pinkie seemed to have bought it. "Me too!"
 
 Shortly after the conversation had ended, they arrived at Carousel Boutique.
 
-Rarity opened the front door with her magic and motioned for Pinkie to go first. “After you.”
+Rarity opened the front door with her magic and motioned for Pinkie to go first. "After you."
 
 Pinkie Pie walked through the door, Rarity soon followed after and shut the door behind them.
 
-“Would you like anything to eat or drink before we get started?” Rarity asked.
+"Would you like anything to eat or drink before we get started?" Rarity asked.
 
-“Do you have any cupcakes?” Pinkie inquired.
+"Do you have any cupcakes?" Pinkie inquired.
 
-“No, how about cake? I've got some left over from a party Sweetie Belle had the other day.”
+"No, how about cake? I've got some left over from a party Sweetie Belle had the other day."
 
-“Sure, I love cake,” Pinkie said.
+"Sure, I love cake," Pinkie said.
 
-“Let's go to the kitchen, and I’ll get it out for us,” Rarity said, trotting to the kitchen. Pinkie soon followed her.
+"Let's go to the kitchen, and I'll get it out for us," Rarity said, trotting to the kitchen. Pinkie soon followed her.
 
 Once they were there, Pinkie sat down at the kitchen table while Rarity got the food out.
 
-“Would you like some milk with that?” Rarity asked.
+"Would you like some milk with that?" Rarity asked.
 
-Pinkie nodded. “Yes.”
+Pinkie nodded. "Yes."
 
 Rarity levitated the cake over the table and cut two pieces and put them on their plates. She put the cake back and got the milk from the fridge and poured them each a glass.
 
-“Here you are, darling,” Rarity said as she laid the plate of cake and glass of milk in front of her crush. Then laying hers in front of herself.
+"Here you are, darling," Rarity said as she laid the plate of cake and glass of milk in front of her crush. Then laying hers in front of herself.
 
-“Thank you, Rarity,” Pinkie said as she started munching on her cake.
+"Thank you, Rarity," Pinkie said as she started munching on her cake.
 
-“You're welcome,” Rarity replied.
+"You're welcome," Rarity replied.
 
 Rarity looked over at Pinkie and couldn't believe her eyes. *How on earth does that mare look so cute doing something as simple as eating*, Rarity thought. Then started eating to hide her blush.
 
 They sat quietly eating their cake and drinking their milk, once they were done, Rarity cleaned up the dishes.
 
-“Are you ready, darling?” Rarity asked.
+"Are you ready, darling?" Rarity asked.
 
-“Yes,” Pinkie said.
+"Yes," Pinkie said.
 
-Rarity led Pinkie to her work area and said, “Get on the stand, and we can begin.”
+Rarity led Pinkie to her work area and said, "Get on the stand, and we can begin."
 
 ***
 
@@ -140,63 +140,63 @@ Pinkie got up on the stand, so Rarity could do her work. Rarity floated over her
 
 *Why do you have to wear those while you work, you are too cute already*, Pinkie thought as she turned her head to hide her blush.
 
-“Pinkie, I need you to look at me, so I can make this dress,” Rarity said.
+"Pinkie, I need you to look at me, so I can make this dress," Rarity said.
 
 *Oh shoot, hopefully she doesn't notice*, Pinkie thought, reluctantly turning her head to face Rarity.
 
-“That's better, thank you, darling,” Rarity said.
+"That's better, thank you, darling," Rarity said.
 
-*Good, she doesn't seem to have noticed*. Pinkie looked at Rarity, she was levitating different shades of pink fabric above Pinkie’s coat.
+*Good, she doesn't seem to have noticed*. Pinkie looked at Rarity, she was levitating different shades of pink fabric above Pinkie's coat.
 
 *You can do this Pinkie, all you have to do is stand here while the mare you have a crush on is a mere foot away, unknowingly being super cute*, Pinkie thought, gulping.
 
 Rarity had chosen the main fabric for the dress while Pinkie was thinking, and Rarity was cutting it in the shape of the main dress layer.
 
-Once Rarity had finished cutting it, she laid it on Pinkie’s back and started staring at Pinkie.
+Once Rarity had finished cutting it, she laid it on Pinkie's back and started staring at Pinkie.
 
-*Why is she staring at me like that? That doesn't look like a ‘I'm making a dress’ kind of look*, Pinkie thought.
+*Why is she staring at me like that? That doesn't look like a 'I'm making a dress' kind of look*, Pinkie thought.
 
-Rarity stopped staring and floated a sizable piece of fabric in front of her face for a few seconds. When she moved it away, Pinkie could notice the barest hint of a blush on Rarity’s cheeks. 
+Rarity stopped staring and floated a sizable piece of fabric in front of her face for a few seconds. When she moved it away, Pinkie could notice the barest hint of a blush on Rarity's cheeks. 
 
 *Why is she hiding her face, what's going on?* Pinkie wondered.
 
-Rarity moved the fabric around Pinkie’s back as to level it out.
+Rarity moved the fabric around Pinkie's back as to level it out.
 
 Pinkie stopped paying attention to what Rarity was doing, lost in her thoughts.
 
-*How long will this take? I don’t know how long I can last… I… need to tell her. Yea. I’ll do it after we're done making the dress. I can’t hide my feelings any longer.*
+*How long will this take? I don't know how long I can last… I… need to tell her. Yea. I'll do it after we're done making the dress. I can't hide my feelings any longer.*
 
 ***
 
-“There,” Rarity said. “It looks absolutely beautiful.” *And so do you*, she thought.
+"There," Rarity said. "It looks absolutely beautiful." *And so do you*, she thought.
 
 The dress was pink with two layers, one going to within an inch of the floor and the second going halfway down the dress. It had light blue stitching about an inch from the bottom of each layer that ran along the dress. Going from one side to the other on her chest was a darker pink ribbon with a light blue bow in the center.
 
 Rarity led Pinkie over to a mirror, so she could see her work.
 
-“Rarity it looks amazing, I’m sure whoever gets it will love it,” Pinkie said happily.
+"Rarity it looks amazing, I'm sure whoever gets it will love it," Pinkie said happily.
 
-“Well, um, there is something I wanted to ask you,” Rarity said, fidgeting a bit.
+"Well, um, there is something I wanted to ask you," Rarity said, fidgeting a bit.
 
-“Oh, there’s something I want to ask you too. Can I go first?” Pinkie asked.
+"Oh, there's something I want to ask you too. Can I go first?" Pinkie asked.
 
-“Sure,” Rarity replied. *What could she want to ask me at a time like this?* Rarity thought.
+"Sure," Rarity replied. *What could she want to ask me at a time like this?* Rarity thought.
 
-“Would you like to go out with me?” Pinkie asked, looking nervous.
+"Would you like to go out with me?" Pinkie asked, looking nervous.
 
 Rarity stood still for a half second. *Did she just ask me out?* 
 
-“Yes,” Rarity answered, leaning forward to hug Pinkie in a tight hug.
+"Yes," Rarity answered, leaning forward to hug Pinkie in a tight hug.
 
 Pinkie returned the hug.
 
-“I was actually about to ask you the same thing, believe it or not,” Rarity said, pulling away from the hug with a slight blush on her face.
+"I was actually about to ask you the same thing, believe it or not," Rarity said, pulling away from the hug with a slight blush on her face.
 
-“Wow, that's amazing,” Pinkie said with a giant smile on her face.
+"Wow, that's amazing," Pinkie said with a giant smile on her face.
 
-“The dress is yours, there never was a client. I made them up. I’m sorry I lied, I just wanted to surprise you with a dress,” Rarity said.
+"The dress is yours, there never was a client. I made them up. I'm sorry I lied, I just wanted to surprise you with a dress," Rarity said.
 
-Pinkie’s mouth hung open for a second, then she closed it and started tearing up. “Oh, thank you, Rarity, you're the best!” She wrapped Rarity in a tight hug.
+Pinkie's mouth hung open for a second, then she closed it and started tearing up. "Oh, thank you, Rarity, you're the best!" She wrapped Rarity in a tight hug.
 
 They pulled away from the hug and stared into each other's eyes, not speaking.
 
@@ -204,6 +204,6 @@ They slowly moved their heads closer until their lips met. They held the kiss fo
 
 Once they were done, they leaned back and just stared at each other for a moment.
 
-“Hey, you know what this calls for?” Pinkie asked with a big smile on her face.
+"Hey, you know what this calls for?" Pinkie asked with a big smile on her face.
 
-Rarity gulped and asked, “A party?”
+Rarity gulped and asked, "A party?"

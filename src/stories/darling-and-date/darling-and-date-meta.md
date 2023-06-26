@@ -10,7 +10,7 @@ Sequel to [Pretty and Pink](../pretty-and-pink/pretty-and-pink-meta.md). Pinkie 
 
 ### Description
 
-Rarity and Pinkie throw a party announcing and celebrating their relationship. Rainbow asks if they’ve gone on a date, Pinkie thinks it's a great idea, asking Rarity out on the dance floor.
+Rarity and Pinkie throw a party announcing and celebrating their relationship. Rainbow asks if they've gone on a date, Pinkie thinks it's a great idea, asking Rarity out on the dance floor.
 
 With the help of her friends, can Pinkie plan an amazing date for Rarity? Will she still be able to do it while helping Rainbow deal with her feelings for Fluttershy?
 
@@ -24,7 +24,7 @@ Pinkie Pie and Rarity throw a party to announce their relationship. Pinkie asks 
 
 - Have sub-plot of Rainbow and Fluttershy liking each other, they ask each other out in an epilogue.
 - Each friend helps with one thing:
-	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell ‘Rarity <3 Pinkie’, and clears the skies for their date.
+	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell 'Rarity <3 Pinkie', and clears the skies for their date.
 	- Fluttershy - Helps make Rarity a dress for Pinkie to give her.
 	- Applejack - Provides the place and sets up the picnic with desert for the end of the date.
 	- Twilight Sparkle - Provides royal carriage for transportation on the date, and helps time the date for sunset.

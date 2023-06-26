@@ -4,7 +4,7 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
-## Factorio, Twilight Sparkle’s Downfall
+## Factorio, Twilight Sparkle's Downfall
 
 ### Synopsis:
 Twilight becomes addicted to Factorio. Her friends try to get her away from it. Twilight gets them to play.
@@ -30,7 +30,7 @@ Do you know where your Pinkie Pie is?
 Pinkie Pie is hired to kill a pony. She misunderstands, and plays tag with them.
 
 ### Short Description:
-Pinkie Pie is hired to take out somepony. Can she do it? Will she choke? Does she even know what she’s doing?
+Pinkie Pie is hired to take out somepony. Can she do it? Will she choke? Does she even know what she's doing?
 
 ***
 
@@ -40,7 +40,7 @@ No details provided.
 
 ***
 
-## That one time Pinkie Pie’s butt lead to another dimension
+## That one time Pinkie Pie's butt lead to another dimension
 
 No details provided.
 
@@ -56,26 +56,26 @@ Rainbow Dash led Rarity through some brush, slowly trying to find a path. She st
 
 *She's trying so hard not to cry*, Rainbow thought.
 
-Rainbow sat down and said, “Let's take a break for a moment.”
+Rainbow sat down and said, "Let's take a break for a moment."
 
-“Okay,” Rarity said while choking back a sob.
+"Okay," Rarity said while choking back a sob.
 
-“Hey, we're going to get thought this, okay?” Rainbow said.
+"Hey, we're going to get thought this, okay?" Rainbow said.
 
-“How do you know that?” Rarity said between labored breathes.
+"How do you know that?" Rarity said between labored breathes.
 
-“Because I do, we got each other and that's all we need,” Rainbow tried to say with confidence, but failed.
+"Because I do, we got each other and that's all we need," Rainbow tried to say with confidence, but failed.
 
-“We're miserable Rainbow Dash, we look like wild animals, and we haven't eaten in over a day, what are we going to do?” Rarity snapped at her before letting the floodgates loose. Tears started flowing from her eyes as she started to sob, “I don't want to die…”
+"We're miserable Rainbow Dash, we look like wild animals, and we haven't eaten in over a day, what are we going to do?" Rarity snapped at her before letting the floodgates loose. Tears started flowing from her eyes as she started to sob, "I don't want to die…"
 
-Rainbow Dash pulled Rarity close, wrapping both her wings and forelegs around her. “Shh, it's going to be fine, I'll make sure we get home.”
+Rainbow Dash pulled Rarity close, wrapping both her wings and forelegs around her. "Shh, it's going to be fine, I'll make sure we get home."
 
 ***
 
 ## Unnamed Twilight x Pinkie x Rarity romance story
 
 ### Synopsis:
-Twilight asks out pinkie, but when she goes to Rarity’s for date advice she is ambushed and kissed by her friend before she gets a word in.
+Twilight asks out pinkie, but when she goes to Rarity's for date advice she is ambushed and kissed by her friend before she gets a word in.
 
 ### Flow:
 1. Twilight goes to Pinkie and asks her out.
@@ -98,10 +98,10 @@ Twilight asks out pinkie, but when she goes to Rarity’s for date advice she is
 18. Twilight goes home and thinks about it.
 19. Pinkie goes to Rarity.
 20. Pinkie tells Rarity about Twilight and what happened.
-21. Pinkie tells Rarity about Twilight’s unassuredness on who to date.
+21. Pinkie tells Rarity about Twilight's unassuredness on who to date.
 22. Rarity suggests they both go on a date with Twilight and let her decide.
 23. Pinkie agrees.
-24. The next day Twilight tells them she couldn’t sleep and that she doesn’t know what to do.
+24. The next day Twilight tells them she couldn't sleep and that she doesn't know what to do.
 25. Rarity tells Twilight her suggestion.
 26. Pinkie says she is on board if Twilight is.
 27. Twilight says she will do it.
@@ -231,7 +231,7 @@ Applejack has a crush on Rainbow, she decides to be straightforward and ask her 
 ## Unnamed Rainbow x Applejack romance story
 
 ### Synopsis
-Rainbow has a crush on Applejack, she tells Applejack she loves her. Applejack says to prove it, thinking if she means it she will just kiss her on the lips. Rainbow doesn't know how so she flies away defeated. Rainbow turns to Rarity, the only pony she thinks might be able to help. Rarity gives generic advice, gifts, serenade, etc. These don't work. As the ideas get more and more outrageous, Applejack has had enough and kisses Rainbow on the lips, saying “was that so hard?”
+Rainbow has a crush on Applejack, she tells Applejack she loves her. Applejack says to prove it, thinking if she means it she will just kiss her on the lips. Rainbow doesn't know how so she flies away defeated. Rainbow turns to Rarity, the only pony she thinks might be able to help. Rarity gives generic advice, gifts, serenade, etc. These don't work. As the ideas get more and more outrageous, Applejack has had enough and kisses Rainbow on the lips, saying "was that so hard?"
 
 ***
 
@@ -259,7 +259,7 @@ Twilight has a crush on Pinkie, Twilight tries to hint to Pinkie that she likes 
 ## Unnamed Pinkie x Twilight romance story
 
 ### Synopsis
-Pinkie has a crush on Twilight, one day she goes over to Twilight's, who is reading a book about prose. Pinkie asks if Twilight has written any fiction, she says no, and Pinkie has a great idea, they should write a book together. Twilight is hesitant at first, but Pinkie assures her it will be fun. They start writing, both coming up with ideas and taking turns writing it. Pinkie is making it a romance story, which Twilight doesn't notice for a bit. At then end of the story they write, Twilight reads it aloud to them, slowly realizing the characters are them and in the story Pinkie asks her out. Twilight blushes before Pinkie asks, “will you go out with me?” Twilight says yes and they hug.
+Pinkie has a crush on Twilight, one day she goes over to Twilight's, who is reading a book about prose. Pinkie asks if Twilight has written any fiction, she says no, and Pinkie has a great idea, they should write a book together. Twilight is hesitant at first, but Pinkie assures her it will be fun. They start writing, both coming up with ideas and taking turns writing it. Pinkie is making it a romance story, which Twilight doesn't notice for a bit. At then end of the story they write, Twilight reads it aloud to them, slowly realizing the characters are them and in the story Pinkie asks her out. Twilight blushes before Pinkie asks, "will you go out with me?" Twilight says yes and they hug.
 
 ***
 

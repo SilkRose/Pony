@@ -54,29 +54,29 @@ She flew up and stood at the door, giving herself one last pep talk before knock
 
 *You got this!*
 
-Moments later Rainbow answered the door with a smile. “Hi.”
+Moments later Rainbow answered the door with a smile. "Hi."
 
-Fluttershy smiled. “Hello, I'm here for breakfast.”
+Fluttershy smiled. "Hello, I'm here for breakfast."
 
-“Come on in,” Rainbow said as she stood aside.
+"Come on in," Rainbow said as she stood aside.
 
 Fluttershy trotted inside, closing the door behind her before following Rainbow into her dinning room.
 
 Rainbow pulled out a chair for Fluttershy.
 
-Fluttershy sat down. “Thank you.”
+Fluttershy sat down. "Thank you."
 
-“You're welcome,” Rainbow said. “I'm going to make us breakfast.”
+"You're welcome," Rainbow said. "I'm going to make us breakfast."
 
-“What are we having?” Fluttershy asked.
+"What are we having?" Fluttershy asked.
 
 *I hope it's pancakes, the ones I ate at Pinkie's the other day were awesome.*
 
-“It's a surprise,” Rainbow said with a grin.
+"It's a surprise," Rainbow said with a grin.
 
-“Oh, okay,” Fluttershy said.
+"Oh, okay," Fluttershy said.
 
-“I'll be back when it's done,” Rainbow said before disappearing into the kitchen.
+"I'll be back when it's done," Rainbow said before disappearing into the kitchen.
 
 ***
 
@@ -182,7 +182,7 @@ Rainbow picked up the tray and headed back into the dinning room.
 
 Rainbow walked out of the kitchen door, holding a tray with their food on it.
 
-She set the tray between their two seats, before she said, “Breakfast is served.”
+She set the tray between their two seats, before she said, "Breakfast is served."
 
 Rainbow cleared the tray, setting the food, drinks, and silverware in front of each of them.
 
@@ -200,19 +200,19 @@ Fluttershy's mind immediately went in two directions.
 
 As Fluttershy stared at her heart shaped pancakes, an errant thought entered her mind.
 
-“Rainbow?” Fluttershy asked.
+"Rainbow?" Fluttershy asked.
 
-“Yes,” Rainbow answered.
+"Yes," Rainbow answered.
 
-Fluttershy averted her gaze. “Could you cut up my pancakes for me, please?” she asked.
+Fluttershy averted her gaze. "Could you cut up my pancakes for me, please?" she asked.
 
-“Sure,” Rainbow said without hesitation.
+"Sure," Rainbow said without hesitation.
 
 Fluttershy blushed as Rainbow cut her pancakes for her.
 
-“Thank you,” Fluttershy said after Rainbow had finished.
+"Thank you," Fluttershy said after Rainbow had finished.
 
-“You're welcome,” Rainbow said before she sat down and started cutting her own pancakes into pieces.
+"You're welcome," Rainbow said before she sat down and started cutting her own pancakes into pieces.
 
 Fluttershy poured syrup over the pancakes before she gave it to Rainbow, who did the same.
 
@@ -230,13 +230,13 @@ Looking back at Rainbow, Fluttershy noticed her smiling and smiled back.
 
 The pair had eaten in silence, occasionally trading glances, smiles, and of course, blushes.
 
-After she finished eating, Fluttershy said, “Thank you, they were delicious.”
+After she finished eating, Fluttershy said, "Thank you, they were delicious."
 
-Rainbow finished moments later and said, “You're welcome, I'm glad you enjoyed them.”
+Rainbow finished moments later and said, "You're welcome, I'm glad you enjoyed them."
 
-Fluttershy asked, “Could we go sit on the couch? There is something I wanted to talk to you about…”
+Fluttershy asked, "Could we go sit on the couch? There is something I wanted to talk to you about…"
 
-“Sure, I was planning on moving to the couch and talking to you about something there too. I'll let you go first,” Rainbow said.
+"Sure, I was planning on moving to the couch and talking to you about something there too. I'll let you go first," Rainbow said.
 
 The pair got up and trotted to the couch, Rainbow sat down first while Fluttershy took the opportunity to sit really close to Rainbow.
 
@@ -248,21 +248,21 @@ The pair stared into each others eyes, sitting in silence for a moment.
 
 *You got this!*
 
-Fluttershy summoned all her courage and asked, “Rainbow Dash, will you go out with me?”
+Fluttershy summoned all her courage and asked, "Rainbow Dash, will you go out with me?"
 
 Rainbow's face froze, taken aback from the question.
 
 Moments later, Fluttershy got her answer as Rainbow's mouth grew a smile the likes of which would rival Pinkie Pie. Rainbow's eyes sparkled in delight as they began to water.
 
-“Yes, yes, yes, yes, and yes,” Rainbow answered.
+"Yes, yes, yes, yes, and yes," Rainbow answered.
 
 Fluttershy's eyes began to water too as she grabbed Rainbow in a tight hug.
 
 Rainbow hugged her back as she let the floodgates loose, tears of joy flowing onto Fluttershy's back.
 
-Fluttershy overwhelmed with emotion, said, “I love you,” before starting to cry when she felt Rainbow's tears on her back.
+Fluttershy overwhelmed with emotion, said, "I love you," before starting to cry when she felt Rainbow's tears on her back.
 
-Rainbow responded, “I love you too.” She held Fluttershy tighter.
+Rainbow responded, "I love you too." She held Fluttershy tighter.
 
 Fluttershy held Rainbow tighter in response, as if not doing so would make this reality untrue.
 
@@ -274,37 +274,37 @@ She tried to slow her breathing, but at the same time, never wanted to let go of
 
 Both ponies slowed their tears, and their breath before finally letting go of the loving embrace.
 
-Fluttershy looked Rainbow in the eye, and to confirm, asked, “This is real, right?”
+Fluttershy looked Rainbow in the eye, and to confirm, asked, "This is real, right?"
 
-Rainbow enthusiastically nodded before she said, “Yes, absolutely yes.”
+Rainbow enthusiastically nodded before she said, "Yes, absolutely yes."
 
 Both ponies blushed as they just stared into each others eyes.
 
-Rainbow broke the serene calm that had overtaken the duo, and said, “I was actually about to ask you out, I've kinda had a crush on you for a while now…”
+Rainbow broke the serene calm that had overtaken the duo, and said, "I was actually about to ask you out, I've kinda had a crush on you for a while now…"
 
-Fluttershy said, “Oh, that's amazing, I've also had a crush on you for a while now too…”
+Fluttershy said, "Oh, that's amazing, I've also had a crush on you for a while now too…"
 
 Both ponies' blushes increased.
 
-Fluttershy admitted, “I was practicing with Rarity the other day. I was asking you out that whole day, pretending she was you. She even dressed up as you at the end.”
+Fluttershy admitted, "I was practicing with Rarity the other day. I was asking you out that whole day, pretending she was you. She even dressed up as you at the end."
 
-Rainbow's mouth opened in surprise before slowly turning into another wide smile. “That is possibly the cutest thing I've ever heard.”
+Rainbow's mouth opened in surprise before slowly turning into another wide smile. "That is possibly the cutest thing I've ever heard."
 
 Fluttershy blush intensified again.
 
-Rainbow apologized, “I'm sorry I didn't ask you out sooner.” Her ears dropped down in an apologetic way.
+Rainbow apologized, "I'm sorry I didn't ask you out sooner." Her ears dropped down in an apologetic way.
 
-Fluttershy smiled. “It's okay, we're together now and that's all that matters.”
+Fluttershy smiled. "It's okay, we're together now and that's all that matters."
 
-Rainbow asked, “So, this means like, we're dating?”
+Rainbow asked, "So, this means like, we're dating?"
 
-Fluttershy giggled. “Yes.”
+Fluttershy giggled. "Yes."
 
-“Awesome,” Rainbow said, pumping a hoof in the air.
+"Awesome," Rainbow said, pumping a hoof in the air.
 
 Fluttershy nuzzled Rainbow, bringing back both of their blushes to full force.
 
-Rainbow asked in a bashful tone, “Can we kiss?”
+Rainbow asked in a bashful tone, "Can we kiss?"
 
 *I've waited so long to kiss you.*
 
@@ -326,16 +326,16 @@ Eventually they came to an understanding, closing their eyes, they both broke th
 
 Fluttershy just stared at Rainbow, falling in love all over again.
 
-Rainbow broke the silence. “You know, you are the prettiest mare in all of Equestria.”
+Rainbow broke the silence. "You know, you are the prettiest mare in all of Equestria."
 
-Fluttershy blushed. “No, I think that title belong to you, I'll settle for second place,” she said before she giggled.
+Fluttershy blushed. "No, I think that title belong to you, I'll settle for second place," she said before she giggled.
 
-Rainbow blushed back as she smiled again. “How about we call it a tie?”
+Rainbow blushed back as she smiled again. "How about we call it a tie?"
 
-“Sounds good to me.”
+"Sounds good to me."
 
-Rainbow, who wasn't done making her new marefriend blush, wrapped her wings around her, held her in a comforting embrace. She said in a serene voice, “I love you, Fluttershy.”
+Rainbow, who wasn't done making her new marefriend blush, wrapped her wings around her, held her in a comforting embrace. She said in a serene voice, "I love you, Fluttershy."
 
-Fluttershy, who somehow blushed harder, said, “I love you too, Rainbow Dash.”
+Fluttershy, who somehow blushed harder, said, "I love you too, Rainbow Dash."
 
 Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would be their most cherished moment in their lives up until that point.

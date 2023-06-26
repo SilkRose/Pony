@@ -56,5 +56,5 @@ As it would happen, there is a small green light about to pass you, moving at a 
 
 *A green unicorn hugging her beige earth pony friend.*
 
-*‘Who are those ponies? Where is that orb going? What happens when it gets there?’* you think to yourself.
+*'Who are those ponies? Where is that orb going? What happens when it gets there?'* you think to yourself.
 

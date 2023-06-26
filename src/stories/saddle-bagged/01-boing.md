@@ -2,7 +2,7 @@
 
 Walls… no, just one around what seems to be a trampoline… in what seems to be the worst practical joke ever in the history of ever… Who left me here and how and bloody why? Matters not, need to get out.
 
-Very well, mental note: climbing is hard, those bricks don’t offer much to hold on, guess it’s time to jump. If I'm lucky, I’m gonna hit myself hard enough and probably wake up from this.
+Very well, mental note: climbing is hard, those bricks don't offer much to hold on, guess it's time to jump. If I'm lucky, I'm gonna hit myself hard enough and probably wake up from this.
 
 Boing.
 
@@ -22,13 +22,13 @@ A purple creature. *What is that?*
 
 Boing.
 
-I can’t see it anymore. Everything starts to move. *What's going on?*
+I can't see it anymore. Everything starts to move. *What's going on?*
 
 Boing.
 
 The entire wall is made of bookshelves. This place is huge, talk about Jack and the Beanstalk. *How did I get here?*
 
-Either I’m conscious in my dream or I’m high on something. Gonna need some exercise after this, I’m losing my breath in my own fantasies.
+Either I'm conscious in my dream or I'm high on something. Gonna need some exercise after this, I'm losing my breath in my own fantasies.
 
 Boing.
 
@@ -40,7 +40,7 @@ Seems we are heading outside. *Why am I still jumping? I should grab the edge an
 
 Boing.
 
-I seem unable to grasp the edge. *Can anyone help me?!* I’m freaking out, gotta think hard. Things that I can do here: not much. The bricks are useless to climb on. There’s not much of a promise of what lies beneath the trampoline, and I'm pretty sure I don’t want to find out, though the movement isn’t felt on the inside I can see I am moving. It seems there’s nothing else to do here: JUMP.
+I seem unable to grasp the edge. *Can anyone help me?!* I'm freaking out, gotta think hard. Things that I can do here: not much. The bricks are useless to climb on. There's not much of a promise of what lies beneath the trampoline, and I'm pretty sure I don't want to find out, though the movement isn't felt on the inside I can see I am moving. It seems there's nothing else to do here: JUMP.
 
 Boing.
 
@@ -50,7 +50,7 @@ Boing.
 
 More of those creatures, slightly different, five I think, what are they? Horses? Are they using English? My they are! Please be friendly…
 
-They sound feminine, that’s promising. I see a yellow one with a long pink mane. She looks shy, is that why she is behind them more than in line with them?
+They sound feminine, that's promising. I see a yellow one with a long pink mane. She looks shy, is that why she is behind them more than in line with them?
 
 Boing.
 
@@ -74,11 +74,11 @@ How does this work? Will I have to wait till whatever is on wears off? Am I dead
 
 Boing.
 
-I think I heard something about a “mountain…” It’s not easy to keep doing this, and not much can be heard inside. It seems those 5 ponies are following whatever I’m mounted on, has to be the purple one I saw earlier. The yellow one looks scared, The blue one and the pink one are overly excited. *What are you planning?*
+I think I heard something about a "mountain…" It's not easy to keep doing this, and not much can be heard inside. It seems those 5 ponies are following whatever I'm mounted on, has to be the purple one I saw earlier. The yellow one looks scared, The blue one and the pink one are overly excited. *What are you planning?*
 
 Boing.
 
-“Dragon…” *What are they doing that involves a dragon? The yellow one quivers like it is scared, should I?* Not so sure I like being able to understand them anymore.
+"Dragon…" *What are they doing that involves a dragon? The yellow one quivers like it is scared, should I?* Not so sure I like being able to understand them anymore.
 
 Boing.
 
@@ -98,23 +98,23 @@ The yellow one gulps at every moment the journey is mentioned. *She looks really
 
 Boing.
 
-I see the yellow one approach whatever I'm attached to and say, “Excuse…” Always getting cut off, damn. *I need to find a way to grab the outside!*
+I see the yellow one approach whatever I'm attached to and say, "Excuse…" Always getting cut off, damn. *I need to find a way to grab the outside!*
 
 Boing.
 
-“Could go th…” That has to be the voice of the creature I'm attached to. *Who made that map, sweetheart? Are you seriously taking us to a dragon with a map drawn by a six-year-old child?!*
+"Could go th…" That has to be the voice of the creature I'm attached to. *Who made that map, sweetheart? Are you seriously taking us to a dragon with a map drawn by a six-year-old child?!*
 
 Boing!
 
-Jumping harder has paid off! Something tangible! *My silver lining is the damn ceiling, useless if I can’t grab it, gotta work on that.*
+Jumping harder has paid off! Something tangible! *My silver lining is the damn ceiling, useless if I can't grab it, gotta work on that.*
 
 Boing.
 
-“…ershy” Shy what? At least we agree on something about that one, she is shy. But she is also looking sad. “No, we wa…” *what is up with this scared yellow pony?*
+"…ershy" Shy what? At least we agree on something about that one, she is shy. But she is also looking sad. "No, we wa…" *what is up with this scared yellow pony?*
 
 Boing.
 
-“So uh I…” *Darling, your mood changes at the drop of a hat. You are not giving me any confidence about this. What did I get myself into?*
+"So uh I…" *Darling, your mood changes at the drop of a hat. You are not giving me any confidence about this. What did I get myself into?*
 
 Boing.
 
@@ -126,33 +126,33 @@ Boing.
 
 Boing.
 
-“Ponyville” *There you go, was that so hard? Is that the name of a location?* At least I was half right about something, they are horses… small gigantic horses. Whatever I’m high on has to be the best stuff.
+"Ponyville" *There you go, was that so hard? Is that the name of a location?* At least I was half right about something, they are horses… small gigantic horses. Whatever I'm high on has to be the best stuff.
 
 Gotta catch my breath and put some logic to this. Well, logic is down the drain.
 
 Boing.
 
-“I’ll stay…” *well, the shy gal is not coming. And here I was starting to like her. *Okay, I need a way to hold to the ceiling, can’t be hard to hold to some fabric, right? Not going to get cut off all the time.
+"I'll stay…" *well, the shy gal is not coming. And here I was starting to like her. *Okay, I need a way to hold to the ceiling, can't be hard to hold to some fabric, right? Not going to get cut off all the time.
 
 Boing.
 
-I hear the purple one say, “Wait,” and the yellow one looked defeated. *Maybe she is going. Where to thou?*
+I hear the purple one say, "Wait," and the yellow one looked defeated. *Maybe she is going. Where to thou?*
 
 Boing.
 
-I hear the purple one say “surely come…” as the yellow one looked back at the purple one, looking sad. *She seems like she doesn't want to go, don't make her go purple pony.*
+I hear the purple one say "surely come…" as the yellow one looked back at the purple one, looking sad. *She seems like she doesn't want to go, don't make her go purple pony.*
 
 Boing.
 
-The yellow one turned around looking worried as the purple one said, “Don't worry,” and a weird two legged purple thing with green spikes on its head approached with some animals. *What is that thing gonna do, eat the animals for lunch?*
+The yellow one turned around looking worried as the purple one said, "Don't worry," and a weird two legged purple thing with green spikes on its head approached with some animals. *What is that thing gonna do, eat the animals for lunch?*
 
 Boing.
 
-I hear the purple one say, “Spikes go…” and see the purple thing look happy, the yellow one is looking at the purple one with a worried expression. *Maybe she knows it's gonna eat the animals? Is its name spike?*
+I hear the purple one say, "Spikes go…" and see the purple thing look happy, the yellow one is looking at the purple one with a worried expression. *Maybe she knows it's gonna eat the animals? Is its name spike?*
 
 Boing.
 
-I heard spike say, “can coun…” and saw him look down at the animals. *He looks happy, likes he’s about to have a nice animal meal.*
+I heard spike say, "can coun…" and saw him look down at the animals. *He looks happy, likes he's about to have a nice animal meal.*
 
 Boing.
 
@@ -160,15 +160,15 @@ I see the bunny on Spike's head start to rap its foot up and down on his head. *
 
 Boing.
 
-I hear spike say, “hey, he…” as the animals run away from him. *Runaway animals, don't be spike food.*
+I hear spike say, "hey, he…" as the animals run away from him. *Runaway animals, don't be spike food.*
 
 Boing.
 
-I see spike running after one of the animals as the yellow one is saying, “I don’t…” *what am I doing? Am I becoming invested in a magical world of talking ponies? I need to get out of here.*
+I see spike running after one of the animals as the yellow one is saying, "I don't…" *what am I doing? Am I becoming invested in a magical world of talking ponies? I need to get out of here.*
 
 Boing.
 
-I hear the yellow one say, “I don’t…” as I see as the rolled-up map heading for my face, it comes through the portal and falls to the ground. I stop jumping to pick it up and look at it. The map must be of this land. It has a long river running through it and a city that looks like it is built on the side of a mountain. There is a mountain with a little drawing of a dragon, that must be where they're headed. *Why did the map come in here? Where does this portal lead to? Her saddlebag? I need to figure out what is going on.*
+I hear the yellow one say, "I don't…" as I see as the rolled-up map heading for my face, it comes through the portal and falls to the ground. I stop jumping to pick it up and look at it. The map must be of this land. It has a long river running through it and a city that looks like it is built on the side of a mountain. There is a mountain with a little drawing of a dragon, that must be where they're headed. *Why did the map come in here? Where does this portal lead to? Her saddlebag? I need to figure out what is going on.*
 
 Boing.
 
@@ -176,19 +176,19 @@ I hear the yellow one make a weird noise like she had given up fighting. *Makes 
 
 Boing.
 
-I see the blue one talking to the purple one, I hear her say “Fluttershy…” *Aha Fluttershy, that has to be the yellow shy one. So I know of spike and Fluttershy.*
+I see the blue one talking to the purple one, I hear her say "Fluttershy…" *Aha Fluttershy, that has to be the yellow shy one. So I know of spike and Fluttershy.*
 
 Boing.
 
-I hear the blue one say, “That pony is…” *She must be talking about Fluttershy. Is what?*
+I hear the blue one say, "That pony is…" *She must be talking about Fluttershy. Is what?*
 
 Boing.
 
-I hear the blue one say, “…own shadow.” *Fluttershy can't be… afraid of her own shadow? Is that what she is saying?*
+I hear the blue one say, "…own shadow." *Fluttershy can't be… afraid of her own shadow? Is that what she is saying?*
 
 Boing.
 
-I hear the purple one say, “Oh, she’ll b…” *She’ll be what? Scared to death, most likely.*
+I hear the purple one say, "Oh, she'll b…" *She'll be what? Scared to death, most likely.*
 
 Boing.
 
@@ -196,7 +196,7 @@ I see the world and hear nothing. *Why the silence, what are they looking at?*
 
 Boing.
 
-I hear the purple one say, “Alright girls…” and see the white one, the orange one, and the pink one. The pink one has a balloon and lets it go, it flew around as it depleted. *Why does the pink one have a balloon? What was she planning on doing with it?*
+I hear the purple one say, "Alright girls…" and see the white one, the orange one, and the pink one. The pink one has a balloon and lets it go, it flew around as it depleted. *Why does the pink one have a balloon? What was she planning on doing with it?*
 
 Boing.
 
@@ -234,14 +234,14 @@ I decided to see what's going on outside. *I wonder how far they've made it?*
 
 Boing.
 
-I see some dark blue hair with a streak of pink in it flailing in the wind from the corner of my left eye. *Must belong to the purple pony I’m attached to.*
+I see some dark blue hair with a streak of pink in it flailing in the wind from the corner of my left eye. *Must belong to the purple pony I'm attached to.*
 
 Boing.
 
-The pink one is staring worriedly at where I am. *She has to be able to see me or have some way of knowing I’m here. What does she know?*
+The pink one is staring worriedly at where I am. *She has to be able to see me or have some way of knowing I'm here. What does she know?*
 
 Boing.
 
-“…looking at Pinkie?” one of them says. *One of them noticed the pink one looking, her name must be Pinkie.*
+"…looking at Pinkie?" one of them says. *One of them noticed the pink one looking, her name must be Pinkie.*
 
 Boing.
