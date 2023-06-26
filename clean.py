@@ -2,41 +2,27 @@ import os
 import re
 
 def process_file(file):
-    quote_regex = r'[“”"‟″"]'
+    single_quote_regex = '[‘’`´ʹ]'
+    double_quote_regex = '[“”‟″]'
     ellipsis_regex = r'\.{3}'
     comma_star_regex = r',\*'
+    underscore_regex = '_'
+    en_dash_regex = '--'
+    em_dash_regex = '---'
 
     with open(file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    modified_content = re.sub(quote_regex, r'"', content)
+    modified_content = re.sub(single_quote_regex, "'", content)
+    modified_content = re.sub(double_quote_regex, '"', modified_content)
     modified_content = re.sub(ellipsis_regex, '…', modified_content)
+    modified_content = re.sub(em_dash_regex, '—', modified_content)
+    modified_content = re.sub(en_dash_regex, '–', modified_content)
+    modified_content = re.sub(underscore_regex, '*', modified_content)
     modified_content = re.sub(comma_star_regex, '*,', modified_content)
 
-    lines = modified_content.split('\n')
-    new_lines = []
-
-    for line in lines:
-        modified_line = ''
-        inside_quote = False
-
-        for char in line:
-            if char == '"':
-                if inside_quote:
-                    modified_line += '”'
-                    inside_quote = False
-                else:
-                    modified_line += '“'
-                    inside_quote = True
-            else:
-                modified_line += char
-
-        new_lines.append(modified_line)
-
-    updated_content = '\n'.join(new_lines)
-
     with open(file, 'w', encoding='utf-8') as f:
-        f.write(updated_content)
+        f.write(modified_content)
 
 directory = './'
 
