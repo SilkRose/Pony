@@ -82,3 +82,40 @@ I can feel my cheeks blush as I hold the kiss for a very long time, keeping my e
 
 I let go of Pinkie, ending the kiss. I open my eyes to a stunned Pinkie, just staring at me mouth agape. *Her blush could probably match mine.*
 
+"Wha… huh… um…" Pinkie tries to speak.
+
+I say, "I'm sorry, Pinkie."
+
+Pinkie composes herself. "What for?"
+
+"I wasn't asleep the whole time…"
+
+"Oh… so you heard what I said?" Pinkie asked as her blush intensified again.
+
+"Yes, but you don't need to worry about anything. You came here to steel my heart, well I'd say you succeeded, it's yours."
+
+"Does that mean what I think it does?" Pinkie said as a smile formed on her lips.
+
+"Yes Pinkie, will you go out with me?"
+
+Her eyes sparkle. "Yes."
+
+I kiss her again, this one short and sweet.
+
+I say, "As I was hugging, cuddling, and kissing you, I realized how much I liked it."
+
+"I liked it too," Pinkie said bashfully. "Would've liked it more if I was worrying the whole time."
+
+"Well, let me make it up to you."
+
+"How?"
+
+"We still have a few hours until it's time to get up. Get under this blanket and we can cuddle while we sleep."
+
+"I'd love that," Pinkie said in a serene voice.
+
+Pinkie gets under the blanket, scooting close to me. I lay her head on my chest, wrapping my forelegs around her.
+
+I kiss the top of her head and whisper, "Goodnight, Pinkie."
+
+Pinkie kisses my chest before she whispers back, "Goodnight, Twilight."
