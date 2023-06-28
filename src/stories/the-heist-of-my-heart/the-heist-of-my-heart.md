@@ -1,12 +1,12 @@
 # The Heist of My Heart
 
-A loud noise wakes me up, I look around my bedroom. I don't see anything, deciding to go back to bed.
+A loud noise wakes me up. I look around my bedroom. Not seeing anything, I decide to go back to bed.
 
-A few minutes later as I am about to fall back to sleep, I hear somepony call my name.
+A few minutes later, as I am about to fall back to sleep, I hear somepony call my name.
 
 "Twilight?" they say.
 
-I was about to respond when another voice spoke up, this one I recognized immediately.
+I was about to respond when another voice spoke up, one I recognized immediately.
 
 "Pinkie, what are you doing? Are you trying to wake her up?" Rainbow whispered.
 
@@ -18,9 +18,15 @@ Pinkie whispers back, "Sorry, I was just checking."
 
 Rainbow replies in a whisper, "Just give her a kiss and leave the note, okay?"
 
-*Give me a kiss? what?*
+*Give me a kiss? What?*
 
-"Okay," Pinkie whispers sheepishly.
+"I'm stealing her heart, remember" Pinkie whispers sheepishly.
+
+*What is she talking about?*
+
+"Okay, you want Twilight to love you, hurry up," Rainbow says in an annoyed whisper.
+
+*Love Pinkie?*
 
 The sound of what is presumably Pinkie Pie trotting quietly towards my bed can be heard.
 
@@ -32,9 +38,11 @@ The sound of what is presumably Pinkie Pie trotting quietly towards my bed can b
 
 I can feel her putting weight on the bed, to my left.
 
+*I need time to think.*
+
 *What if Pinkie stays here?*
 
-*If shes going to kiss me, she can at least give me some company, right?*
+*If she's going to kiss me, she can at least give me some company, right?*
 
 I make up my mind as I feel her hoof press down on the bed next to mine.
 
@@ -46,7 +54,7 @@ I grab her hoof, and hold it against my chest, doing my best to act asleep.
 
 I feel her tense up, she just stands there for a bit.
 
-Rainbow whispers, "Whats taking so long?"
+Rainbow whispers, "What's taking so long?"
 
 Pinkie whispers back, "She grabbed my leg in her sleep."
 
@@ -54,7 +62,7 @@ Rainbow whispers, "Well, pull it out."
 
 Pinkie tries to pull her leg free, but with each try I just hold on tighter, by the time she gives up, I am firmly cuddling her leg.
 
-Pinkie whispers to to Rainbow is a worried voice, "I can't, she's got it locked in."
+Pinkie whispers to Rainbow in a worried voice, "I can't, she's got it locked in."
 
 Rainbow takes a moment to reply, eventually whispering, "Lay down with her, she'll let go at some point."
 
@@ -62,15 +70,17 @@ I hear Pinkie gulp before she lays down beside me, I can feel her body beside me
 
 I lay there in silence for a while, until Pinkie starts to stroke my mane.
 
+*That feels nice.*
+
 "Pinkie, why are you doing that?" Rainbow asked in a whisper.
 
 Pinkie whispered back in a sheepish tone, "I'm sorry, she just looked so cute sleeping there."
 
 I blush. *Good thing the lights are off.*
 
-Rainbow sighs. "Just lay their until she lets go of you."
+Rainbow sighs. "Just lay there until she lets go of you."
 
-*not on my watch.*
+*Not on my watch.*
 
 I nuzzle her leg against my cheek.
 
@@ -82,11 +92,13 @@ Pinkie whispers back, "I think so."
 
 I lay my head on her leg, using it as a pillow.
 
+*I like this. Her leg makes a soft pillow.*
+
 Pinkie whispers, "Rainbow?"
 
 "Yes?"
 
-"You should probably leave, I think I'm going to be here a while. She just started using my leg as a pillow."
+"You should probably leave, I think I'm going to be here awhile. She just started using my leg as a pillow."
 
 "Are you sure?"
 
@@ -102,9 +114,9 @@ I do my best *totally talking in my sleep voice*, whispering, "…Pinkie's cute�
 
 I feel her shock, as she moves a little from hearing me speak.
 
-She settles down and whispers, "sounds like this is going to be one long, adorable night."
+She settles down and whispers, "Sounds like this is going to be one long, adorable night."
 
-*I want a softer pillow, time to get it.*
+*I want a softer pillow; time to get it.*
 
 I push myself closer to Pinkie, moving my head onto her chest. I wrap my right leg around her barrel, holding her.
 
@@ -112,15 +124,15 @@ Pinkie tenses up until I settle into place, before she relaxes, resting a hoof o
 
 I do my sleep voice again, "…so soft…"
 
-Pinkie whispers in a somber tone, "I wish this were real."
+Pinkie whispers in a somber tone, "I wish this were for real."
 
 *Maybe it could be?*
 
-I nuzzle her chest as I listen to rhythmic beating of her heart.
+I nuzzle her chest as I listen to the rhythmic beating of her heart.
 
-*I kinda like this, it's nice.*
+*I really like this; it's nice.*
 
-I can feel her heart beat go up slightly.
+I can feel her heart rate go up slightly.
 
 We lay there for a good ten minutes or so, before I kiss her chest.
 
@@ -128,31 +140,25 @@ This really gets her, her whole body freezes, she goes stiff for a few seconds.
 
 She relaxes and whispers, "I deserve this, don't I?"
 
-I do my sleep voice again, "…kiss me…"
+I wait a few minutes before I do my sleep voice again, "…kiss me…"
 
 And to my surprise, she does, she leans close and kisses the top of my head.
 
 After she leans back down on the bed, she whispers, "How's that?"
 
-I move my head upward, putting it under her chin, before I kiss her neck.
+I don't respond, instead I twitch my right foreleg, the one holding her.
 
-Pinkie, in a concerned tone, whispers, "Oh, my."
+After a few minutes of silence, Pinkie laments, "I don't know what to do, should I be enjoying this? Should I just wake you up? I don't know…"
 
-I move my head back to her chest.
-
-Pinkie laments, "I don't know what to do, should I be enjoying this? Should I just wake you up? I don't know…"
-
-I wait a few minutes then do my sleep voice again, "…hold me…" as I pretend to shiver like I'm cold.
+I wait a few minutes then do my sleep voice again, "…cold…" as I pretend to shiver like I'm cold.
 
 Pinkie wraps her legs around me, holding me tight.
-
-I do my sleep voice again, "Thank…"
 
 I lay there, enjoying the comforting embrace.
 
 *We definitely need to talk tomorrow, but so far I've really enjoyed being close to you.*
 
-The last thing I remember is saying, "…love…" in my sleep voice before actually falling asleep.
+The last thing I remember is saying, "…sleep…" in my sleep voice before actually falling asleep.
 
 ***
 
@@ -220,7 +226,7 @@ She pauses again before whispering, "It's kinda nice saying this stuff to you wh
 
 *I should probably kiss you now.*
 
-"You know, I could kiss you right now, but I can't do that to you, not without your consent. Heck, I'm going to consider myself lucky if you want to remain friends when you wake up."
+"As nice as this has been though, I wish I had just told you how I feel. Now I don't know if I'll get the chance too," Pinkie says, sounding like she is about to cry.
 
 *Yes, kiss now.*
 
@@ -244,7 +250,7 @@ Pinkie composes herself. "What for?"
 
 "Oh… so you heard what I said?" Pinkie asked as her blush intensified again.
 
-"Yes, but you don't need to worry about anything. You came here to steal my heart, well I'd say you succeeded, it's yours."
+"Yes, but you don't need to worry about anything. You came here to steal my heart, well I'd say you succeeded. It's yours."
 
 "Does that mean what I think it does?" Pinkie said as a smile formed on her lips.
 
@@ -252,19 +258,32 @@ Pinkie composes herself. "What for?"
 
 Her eyes sparkle. "Yes."
 
-I kiss her again, this one short and sweet.
+I ask, "What does the note say?"
+
+Pinkie gives me the note, pulling it from her mane.
+
+I read the note.
+
+> Twilight,  
+> Can I please have your heart?  
+> ~Pinkie  
+> P.S. You're cute!!  
+
+I kiss her again, this one short and sweet. "Yes, you can have my heart."
+
+We both smile and blush at each other for a few seconds.
 
 I say, "As I was hugging, cuddling, and kissing you, I realized how much I liked it."
 
 "I liked it too," Pinkie said bashfully. "Would've liked it more if I wasn't worrying the whole time."
 
-"Well, let me make it up to you."
+"I'm sorry I pretended to be asleep, let me make it up to you?"
 
 "How?"
 
-"We still have a few hours until it's time to get up. Get under this blanket and we can cuddle while we sleep."
+"We still have a few hours until it's time to get up. Get under the blanket and let me hold you while we sleep."
 
-"I'd love that," Pinkie said in a serene voice.
+"I'd love that," Pinkie said serenely.
 
 Pinkie gets under the blanket, scooting close to me. I lay her head on my chest, wrapping my forelegs around her.
 
