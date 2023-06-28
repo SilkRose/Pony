@@ -212,3 +212,55 @@ Rarity thought about it for a moment before she said, "I think words of affirmat
 
 Rarity blushed harder. "Thanks."
 
+They sat in silence before Pinkie asked, "When was the moment you realized you like me as more than a friend?"
+
+Rarity smiled. "It was a day like any other. I had noticed we were hanging out more than usual, but didn't think anything of it. When it was time for you to leave, you gave me a hug. It was that hug that tipped me off; I remember not wanting to let go. When you left, it hit me. I missed your presence; a lot. I missed the hug."
+
+"That's really sweat, like you." Pinkie blushed.
+
+*She's taken to giving compliments well.*
+
+"Thanks, how about you? When did you realize?"
+
+Pinkie's blush intensified. "When you told me I was pretty. I was excited to spend another day hanging out with my friend Rarity. Then you told me I was pretty, and my whole world turned upside down. I realized I liked you, but didn't know if you liked me. I spent all day with you, trying to look for signs. When it was time to leave, I gave you a hug. I wanted to stay in that hug forever, but I couldn't. I left, walking slow the entire way home, missing you."
+
+"Pinkie, I think we are talking about the same day!"
+
+"We are?" Pinkie asked in a surprised tone.
+
+"Yes, I remember telling you that you are pretty on the day I realized. When you showed up to hang out, I couldn't help but notice your beauty. I kept thinking that you looked extra pretty that day. I just had to tell you."
+
+"Oh, wow, that's amazing!" Pinkie smiled.
+
+"It sure is," Rarity said, smiling back at Pinkie.
+
+They sat there in silence and smiled at each other.
+
+Moments later, they hear a knock before the curtain opens.
+
+Balance Trick sets down a tray with their food and drinks on it.
+
+Rarity helped, using her magic to place the contents in front of Pinkie and herself.
+
+Balance said, "Thank you."
+
+Rarity said, "You're welcome."
+
+Balance removed the tray, and sat a bill on the edge of the table. "Enjoy the food."
+
+"We will," Pinkie said enthusiastically, before looking down at her food.
+
+Balance closed the curtain, leaving the two mares to eat.
+
+Pinkie began to eat immediately, leaning over the table as to not get anything on her dress.
+
+Rarity started to eat too. She used a napkin levitated under her sandwich to protect her own dress.
+
+they both dipped their grilled cheese into the tomato soup before each bite.
+
+*This is surprisingly good.*
+
+*Pinkie is definitely enjoying it.*
+
+With each bite Rarity took, she counted two that Pinkie had taken.
+
