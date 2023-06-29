@@ -214,9 +214,9 @@ Rarity blushed harder. "Thanks."
 
 They sat in silence before Pinkie asked, "When was the moment you realized you like me as more than a friend?"
 
-Rarity smiled. "It was a day like any other. I had noticed we were hanging out more than usual, but didn't think anything of it. When it was time for you to leave, you gave me a hug. It was that hug that tipped me off; I remember not wanting to let go. When you left, it hit me. I missed your presence; a lot. I missed the hug."
+Rarity smiled. "It was a day like any other. I had noticed we were hanging out more than usual, but didn't think anything of it. When it was time for you to leave, you gave me a hug. It was that hug that tipped me off; I remember not wanting to let go. When you left, it hit me. I missed your presence, a lot. I missed the hug."
 
-"That's really sweat, like you." Pinkie blushed.
+"That's really sweet, like you." Pinkie blushed.
 
 *She's taken to giving compliments well.*
 
@@ -256,11 +256,89 @@ Pinkie began to eat immediately, leaning over the table as to not get anything o
 
 Rarity started to eat too. She used a napkin levitated under her sandwich to protect her own dress.
 
-they both dipped their grilled cheese into the tomato soup before each bite.
+they both dipped their grilled cheese into their tomato soup before each bite.
 
 *This is surprisingly good.*
 
+With each bite Rarity took, she counted two that Pinkie had taken.
+
 *Pinkie is definitely enjoying it.*
 
-With each bite Rarity took, she counted two that Pinkie had taken.
+They ate their food in silence, occasionally exchanging glances.
+
+Pinkie finished her grilled cheese. "That was delicious." She started eating her soup.
+
+Rarity finished her sandwich. "I concur." She didn't immediately start eating her own soup, instead she watched Pinkie eat for a bit.
+
+*It was true when we got together, and it's true now; that mare is cute when she eats.*
+
+Pinkie noticed Rarity watching her, and blushed.
+
+Rarity smiled in response to Pinkie's blush, and started to eat her soup.
+
+*This is nice.*
+
+Pinkie finished her soup, taking the opportunity to watch Rarity eat. It was Rarity's turn to blush.
+
+Pinkie smiled at Rarity, who smiled back.
+
+Rarity finished her soup soon after, then asked, "Are we having desert here?"
+
+Pinkie replied, "No, I made something special for later on."
+
+"Oh, how exciting."
+
+"I'm going to go pay, I'll be right back."
+
+"Okay."
+
+With that, Pinkie left their booth.
+
+*The date has gone splendid so far.*
+
+*I'm excited for what's next, maybe I should ask?*
+
+*Pinkie is amazing, so whatever it is will be great.*
+
+Rarity waited for Pinkie to return, smiling the whole time.
+
+"Having a good time?" Pinkie asked after she opened the curtain.
+
+"Absolutely, darling. I love it, and you," Rarity replied, her voice going serene on the last part.
+
+Pinkie said, "I love you too," before she hugged Rarity.
+
+Rarity returned the hug as her smiled grew wider.
+
+After the hug, the pair trotted out of the restaurant, complimenting and saying farewell to the greeter.
+
+Once outside, they boarded the chariot, which was waiting for them.
+
+The chariot took off with no input from either of them.
+
+Rarity asked, "What's next?"
+
+Pinkie answered, "Entertainment."
+
+"Sounds lovely."
+
+"I'm positive it will be."
+
+Rarity offered her hoof this time, Pinkie taking it in hers.
+
+they sat in silence for the rest of the trip, leaning against each other, holding hooves.
+
+The chariot stopped behind the bleachers at Ponyville's fairground field.
+
+The pair exited the chariot before Rarity said, "Must be some show to be taking place here."
+
+"I bet," Pinkie said before she led Rarity up into the bleachers.
+
+The pair sat at the lowest row, in the middle.
+
+Pinkie tapped her hoof on the metal floor of the bleachers twice.
+
+Rarity didn't think anything of it.
+
+Moments later she realized what it was for, as Rainbow Dash flew up and hovered in front of them.
 
