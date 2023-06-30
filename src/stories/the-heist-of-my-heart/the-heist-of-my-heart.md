@@ -70,7 +70,7 @@ Rainbow takes a moment to reply, eventually whispering, "Lay down with her, she'
 
 I hear Pinkie gulp before she lays down beside me, I can feel her body beside me on the other side of the blanket.
 
-I lay there in silence for a while, until Pinkie starts to stroke my mane.
+I lay there in silence for a while, then Pinkie starts to stroke my mane.
 
 *That feels nice.*
 
@@ -90,7 +90,11 @@ Pinkie whispers, "She's nuzzling my leg."
 
 Rainbow whispers, "Are you sure she's asleep?"
 
+*Somepony's onto me.*
+
 Pinkie whispers back, "I think so."
+
+*Not Pinkie, though; good.*
 
 I lay my head on her leg, using it as a pillow.
 
@@ -180,11 +184,15 @@ I feel my heart flutter. *I think I could love you too.*
 
 She pauses for a second before continuing, "I should have just asked you out normally…"
 
-*With how much I've enjoyed holding, cuddling, and kissing you, I think we will start dating after this.*
+*No, you did it your way; the best way.*
+
+*Even though you don't know it, I've enjoyed being close to you so much.*
+
+*I want to date you.*
 
 She pauses again before she says, "I was going to kiss your cheek then leave a love note, but I guess you had other plans."
 
-*Don't worry, Pinkie, you've stolen my heart, it's yours.*
+*That's really cute, but don't worry, Pinkie, you've stolen my heart, it's yours.*
 
 She finishes by saying, "I'm sorry… I hope you can forgive me when you wake up…" Pinkie trails off as I can hear her trying to sob quietly.
 
@@ -193,6 +201,8 @@ My gut wrenches as I realize I messed up too.
 *I should be the one apologizing…*
 
 I squeeze my hold on her a little tighter, trying to still act asleep.
+
+*I don't want this closeness to end, but I don't want you to cry.*
 
 She notices and the tears slow down.
 
@@ -258,7 +268,7 @@ Pinkie composes herself. "No, I'm sorry."
 
 "I didn't mean to put you through all that, I just wanted to know what was going on, then I accidentally fell asleep."
 
-"I wanted you to love me. I was too nervous to ask you out, so I thought if this heist."
+"I wanted you to love me. I was too nervous to ask you out, so I thought of this heist."
 
 "The heist was a success. You came here to steal my heart, well, It's yours."
 
@@ -287,7 +297,7 @@ I say, "As I was hugging, cuddling, and kissing you, I realized how much I liked
 
 "I liked it too," Pinkie said bashfully. "Would've liked it more if I wasn't worrying the whole time."
 
-"I'm sorry I about that, let me make it up to you?"
+"I'm sorry about that, let me make it up to you?"
 
 "How?"
 
