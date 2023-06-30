@@ -342,3 +342,63 @@ Rarity didn't think anything of it.
 
 Moments later she realized what it was for, as Rainbow Dash flew up and hovered in front of them.
 
+Rainbow asked, voice full of bravado and gusto, "Are you ready for a show?"
+
+Pinkie and Rarity cheered. "Yeah!"
+
+Rainbow said, tauntingly, "I can't hear you."
+
+Pinkie and Rarity practically screamed. "YEAH!"
+
+"That's better, let's get the show started."
+
+With that Rainbow flew to the center of the field.
+
+*This is exciting.*
+
+She flew from the center to the left side of the field a decent way off the ground.
+
+She started flying, leaving trails of cloud behind her.
+
+*How does she do that?*
+
+Rainbow flew fast, making corners and bends with precision and accuracy.
+
+*She's spelling something.*
+
+Rainbow wrote the letters one by one.
+
+Rarity read the sentence out loud after it was complete.
+
+"Rarity & Pinkie forever!"
+
+*How sweet.*
+
+Rarity smiled as she watched.
+
+Rainbow waited 10 seconds after she finished the writing, hovering in the air at the end of the words.
+
+Rarity couldn't believe what she saw next.
+
+Rainbow flew through the letters in reverse, in the exact path she took to draw them.
+
+As Rainbow flew, the gray cloud trail that made up the letters changed colors as she passed over them.
+
+The exclamation mark turned pink.
+
+The word 'forever' turned purple.
+
+'Pinkie' turned pink.
+
+'&' turned blue.
+
+'Rarity' turned white.
+
+*How did she do that? That was amazing!*
+
+Rarity starred at the words in the sky.
+
+*I certainly hope there are no more truer words than these.*
+
+Rarity put her leg around Pinkie, hold her as they watched the show.
+
