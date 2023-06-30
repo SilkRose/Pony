@@ -8,7 +8,7 @@ A few minutes later, as I am about to fall back to sleep, I hear somepony call m
 
 I was about to respond when another voice spoke up, one I recognized immediately.
 
-Rainbow whispered, "Pinkie, what are you doing? Are you trying to wake her up?"
+Rainbow whispers, "Pinkie, what are you doing? Are you trying to wake her up?"
 
 *Pinkie and Rainbow are in my room, trying not to wake me up.*
 
@@ -20,7 +20,7 @@ Rainbow replies in a whisper, "Just give her a kiss and leave the note, okay?"
 
 *Give me a kiss? What?*
 
-"I'm stealing her heart, remember" Pinkie whispers sheepishly.
+"I'm stealing her heart, remember" Pinkie whispers.
 
 *What is she talking about?*
 
@@ -37,8 +37,6 @@ The sound of what is presumably Pinkie Pie trotting quietly towards my bed can b
 *Should I just pretend to stay asleep?*
 
 I can feel her putting weight on the bed, to my left.
-
-*I need time to think.*
 
 *What if Pinkie stays here?*
 
@@ -148,7 +146,7 @@ She relaxes and whispers, "I deserve this, don't I?"
 
 I wait a few minutes before I do my sleep voice again, "…kiss me…"
 
-And to my surprise, she does, she leans close and kisses the top of my head.
+And to my surprise, she does, she leans close and kisses the top of my head, making me blush again.
 
 After she leans back down on the bed, she whispers, "How's that?"
 
@@ -184,7 +182,7 @@ I feel my heart flutter. *I think I could love you too.*
 
 She pauses for a second before continuing, "I should have just asked you out normally…"
 
-*No, you did it your way; the best way.*
+*No, your doing it your way; the best way.*
 
 *Even though you don't know it, I've enjoyed being close to you so much.*
 
@@ -200,11 +198,15 @@ My gut wrenches as I realize I messed up too.
 
 *I should be the one apologizing…*
 
-I squeeze my hold on her a little tighter, trying to still act asleep.
+*I'm so sorry, Pinkie…*
+
+I squeeze my hold on her tighter, trying to comfort her and still act asleep.
 
 *I don't want this closeness to end, but I don't want you to cry.*
 
 She notices and the tears slow down.
+
+*Hopefully this helps.*
 
 I do my sleep voice again, whispering, "I'm… sorry…"
 
@@ -234,13 +236,13 @@ A few moments later, she whispers, "You're really cute, especially in your sleep
 
 *Maybe I need to see you sleeping, so I can judge the cuteness factor?*
 
-As I was thinking, I didn't notice the blush forming on my face, Pinkie however, did.
+As I am thinking, I don't notice the blush forming on my face, Pinkie however, did.
 
 "Twilight, I can see your blush."
 
-*I should probably kiss you now.*
-
 I involuntarily smile from being caught.
+
+*I should probably kiss you now.*
 
 "Twilight, I know your awake."
 
@@ -250,7 +252,7 @@ I do my best to figure out where her lips are from where her breath is hitting m
 
 Pinkie is surprised as I feel her tense up, but moments later she kisses back.
 
-I can feel my cheeks blush as I hold the kiss for a very long time, keeping my eyes closed.
+I can feel my blush intensify as I hold the kiss for a very long time, keeping my eyes closed.
 
 *My gosh, if I knew it was this good to kiss Pinkie, I would've asked her out.*
 
@@ -270,7 +272,7 @@ Pinkie composes herself. "No, I'm sorry."
 
 "I wanted you to love me. I was too nervous to ask you out, so I thought of this heist."
 
-"The heist was a success. You came here to steal my heart, well, It's yours."
+"The heist was a success."
 
 "Does that mean what I think it does?" Pinkie said as a smile formed on her lips.
 
@@ -280,7 +282,7 @@ Her eyes sparkle. "Yes."
 
 I ask, "What does the note say?"
 
-Pinkie gives me the note, pulling it from her mane.
+Pinkie gives me the note, pulling it out from her mane.
 
 I read the note.
 
@@ -288,6 +290,8 @@ I read the note.
 > Can I please have your heart?  
 > ~Pinkie  
 > P.S. You're cute!!  
+
+*That's adorable.*
 
 I kiss her again, this one short and sweet. "Yes, you can have my heart."
 
