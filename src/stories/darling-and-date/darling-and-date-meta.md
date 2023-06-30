@@ -14,7 +14,7 @@ Rarity and Pinkie throw a party announcing and celebrating their relationship. R
 
 With the help of her friends, can Pinkie plan an amazing date for Rarity? Will she still be able to do it while helping Rainbow deal with her feelings for Fluttershy?
 
-Cover done by IrradiatedPirateBooty#7892 on Discord.
+Cover done by irradiatedtittymilk on Discord.
 
 ### Short Description
 
