@@ -12,6 +12,8 @@ Pinkie tries to steal Twilight's heart with a kiss and a love note.
 
 Twilight has other plans.
 
+Cover done by irradiatedtittymilk on Discord.
+
 ### Short Description
 Pinkie tries to steal Twilight's heart, Twilight has other plans.
 
@@ -26,3 +28,4 @@ Pinkie tries to steal Twilight's heart, Twilight has other plans.
 
 ### Cover
 
+![Cover](./cover.png)
