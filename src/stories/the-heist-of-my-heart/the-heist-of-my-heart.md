@@ -8,7 +8,7 @@ A few minutes later, as I am about to fall back to sleep, I hear somepony call m
 
 I was about to respond when another voice spoke up, one I recognized immediately.
 
-"Pinkie, what are you doing? Are you trying to wake her up?" Rainbow whispered.
+Rainbow whispered, "Pinkie, what are you doing? Are you trying to wake her up?"
 
 *Pinkie and Rainbow are in my room, trying not to wake me up.*
 
@@ -66,6 +66,8 @@ Pinkie whispers to Rainbow in a worried voice, "I can't, she's got it locked in.
 
 Rainbow takes a moment to reply, eventually whispering, "Lay down with her, she'll let go at some point."
 
+*Nu-uh.*
+
 I hear Pinkie gulp before she lays down beside me, I can feel her body beside me on the other side of the blanket.
 
 I lay there in silence for a while, until Pinkie starts to stroke my mane.
@@ -74,7 +76,7 @@ I lay there in silence for a while, until Pinkie starts to stroke my mane.
 
 "Pinkie, why are you doing that?" Rainbow asked in a whisper.
 
-Pinkie whispered back in a sheepish tone, "I'm sorry, she just looked so cute sleeping there."
+Pinkie whispers back in a sheepish tone, "I'm sorry, she just looked so cute sleeping there."
 
 I blush. *Good thing the lights are off.*
 
@@ -222,11 +224,15 @@ A few moments later, she whispers, "You're really cute, especially in your sleep
 
 *Maybe I need to see you sleeping, so I can judge the cuteness factor?*
 
-She pauses again before whispering, "It's kinda nice saying this stuff to you while you sleep."
+As I was thinking, I didn't notice the blush forming on my face, Pinkie however, did.
+
+"Twilight, I can see your blush."
 
 *I should probably kiss you now.*
 
-"As nice as this has been though, I wish I had just told you how I feel. Now I don't know if I'll get the chance too," Pinkie says, sounding like she is about to cry.
+I involuntarily smile from being caught.
+
+"Twilight, I know your awake."
 
 *Yes, kiss now.*
 
@@ -244,13 +250,17 @@ I let go of Pinkie, ending the kiss. I open my eyes to a stunned Pinkie, just st
 
 I say, "I'm sorry, Pinkie."
 
-Pinkie composes herself. "What for?"
+Pinkie composes herself. "No, I'm sorry."
 
-"I wasn't asleep the whole time…"
+"I feel bad for pretending to be a sleep."
 
-"Oh… so you heard what I said?" Pinkie asked as her blush intensified again.
+"Well, I feel bad for trying to steal your heart."
 
-"Yes, but you don't need to worry about anything. You came here to steal my heart, well I'd say you succeeded. It's yours."
+"I didn't mean to put you through all that, I just wanted to know what was going on, then I accidentally fell asleep."
+
+"I wanted you to love me. I was too nervous to ask you out, so I thought if this heist."
+
+"The heist was a success. You came here to steal my heart, well, It's yours."
 
 "Does that mean what I think it does?" Pinkie said as a smile formed on her lips.
 
@@ -277,7 +287,7 @@ I say, "As I was hugging, cuddling, and kissing you, I realized how much I liked
 
 "I liked it too," Pinkie said bashfully. "Would've liked it more if I wasn't worrying the whole time."
 
-"I'm sorry I pretended to be asleep, let me make it up to you?"
+"I'm sorry I about that, let me make it up to you?"
 
 "How?"
 
