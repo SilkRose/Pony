@@ -376,7 +376,7 @@ Rarity read the sentence out loud after it was complete.
 
 Rarity smiled as she watched.
 
-Rainbow waited 10 seconds after she finished the writing, hovering in the air at the end of the words.
+Rainbow waited ten seconds after she finished the writing, hovering in the air at the end of the words.
 
 Rarity couldn't believe what she saw next.
 
@@ -396,9 +396,59 @@ The word 'forever' turned purple.
 
 *How did she do that? That was amazing!*
 
-Rarity starred at the words in the sky.
+Rarity stared at the words in the sky.
 
 *I certainly hope there are no more truer words than these.*
 
-Rarity put her leg around Pinkie, hold her as they watched the show.
+Rarity put her leg around Pinkie, holding her as they watched the show.
+
+Pinkie leaned into Rarity, snuggling into her embrace.
+
+Rainbow flew through the center of each letter, making each one dissipate into moisture, that fell to the ground.
+
+After she was done, Rainbow flew out of the fairgrounds. A minute later she returned, pushing a giant cloud to the left side of the field.
+
+Once in place, Rainbow flew around the giant cloud, sculpting it.
+
+She flew so fast around it she was just a blur, with each pass the cloud became more recognizable.
+
+*It's Pinkie.*
+
+Rainbow worked fast, adding details here or there, mane, eyes, nose, mouth.
+
+Rainbow finished the sculpt.
+
+Pinkie and Rarity stared in awe.
+
+*That's so cute!*
+
+"You look really cute as a cloud," Rarity said playfully.
+
+"So will yours," Pinkie said with a blush.
+
+*Awe.*
+
+Rainbow flew off again, presumably to get a cloud for a sculpt of Rarity.
+
+Moments later Rainbow returned, she had another large cloud. she took it to the right side of the field.
+
+Rainbow began sculpting the second cloud.
+
+*This show is amazing, Rainbow has outdone herself.*
+
+After a few moments the cloud became recognizable as Rarity.
+
+*It's me, like Pinkie said.*
+
+Rainbow took longer to sculpt Rarity, adding more detail in the mane.
+
+After Rainbow had finished, Pinkie commented, "See, cute!"
+
+Rarity blushed, squeezing Pinkie slightly as she kissed the top of her head.
+
+Rainbow pushed the Rarity cloud toward the center of the field.
+
+Rainbow flew quickly to the Pinkie cloud, pushing it toward the center too.
+
+*What's she doing?*
 
