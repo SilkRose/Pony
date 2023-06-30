@@ -17,14 +17,19 @@ Cover done by irradiatedtittymilk on Discord.
 ### Short Description
 Pinkie tries to steal Twilight's heart, Twilight has other plans.
 
-### Ideas
-
-
-### Flow
-
-
 ### Story
 [The Heist of My Heart](the-heist-of-my-heart.md)
+ - Pinkie and Rainbow sneak into Twilight's bedroom.
+ - Pinkie wants to steal Twilight's heart, metaphorically.
+ - Twilight is woken up, but pretends to be asleep.
+ - Twilight traps Pinkie and nuzzles, cuddles, holds, and kisses her.
+ - Pinkie thinks she is asleep the whole time.
+ - Twilight falls asleep on Pinkie.
+ - After Twilight wakes up, Pinkie catches her pretending to be asleep.
+ - Twilight kisses Pinkie, and apologizes.
+ - Twilight asks Pinkie out.
+ - Pinkie says yes.
+ - They cuddle and fall asleep together.
 
 ### Cover
 
