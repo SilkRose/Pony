@@ -12,7 +12,7 @@ Rarity can't keep her feelings for Pinkie a secret any longer. She decides to ma
 
 [The Mystery Fluttershy Fan](https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan) has made an audiobook of Pretty and Pink, you can listen to it [here](https://www.youtube.com/watch?v=haVP8dKX*Mg). **Please note**, the story has had a minor update since then, so the audiobook doesn't match exactly with the story now.
 
-Cover done by IrradiatedPirateBooty#7892 on Discord.
+Cover done by irradiatedtittymilk on Discord.
 
 ### Short Description
 Rarity decides to give Pinkie a gift to show her how much she means to her.
@@ -29,6 +29,9 @@ Rarity decides to give Pinkie a gift to show her how much she means to her.
 9. Rarity gives Pinkie the dress.
 10. They kiss.
 11. The end?
+
+### Story:
+[A Gift From The Heart](./a-gift-from-the-heart.md)
 
 ### Cover
 ![cover](./cover.png)
