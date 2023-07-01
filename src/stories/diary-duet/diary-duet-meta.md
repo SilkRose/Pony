@@ -6,7 +6,7 @@ Location:
 
 ### Synopsis
 
-A guy gets sent to Equestria. The story switches between his diary and pinkie pie's diary, and they fall in love over time.
+A human (Joshua Richards) gets sent to Equestria. The story switches between his diary and pinkie pie's diary, and they fall in love over time.
 
 ### Description
 
@@ -17,12 +17,12 @@ A guy gets sent to Equestria. The story switches between his diary and pinkie pi
 ### Ideas
 
 - Story takes place over a month, 31 days.
-- Each day contains 2 entries, one from Pinkie, one from Anon.
-- Over time Anon becomes equated with Equestria.
-- Anon and Pinkie become friends and by the end have feelings for each other.
+- Each day contains 2 entries, one from Pinkie, one from Josh.
+- Over time Josh becomes equated with Equestria.
+- Josh and Pinkie become friends and by the end have feelings for each other.
 - Typical diary entries are one big paragraph but I want to make it more readable.
-- Anon and Pinkie have different dynamics, Anon's entries are more detail oriented, Pinkie's entries are more sporadic and emotional.
-- Anon has trouble sleeping the first night, meets spike while walking the halls, they bond.
+- Josh and Pinkie have different dynamics, Josh's entries are more detail oriented, Pinkie's entries are more sporadic and emotional.
+- Josh has trouble sleeping the first night, meets spike while walking the halls, they bond.
 - Epilogue is a letter from each addressed to each other instead of to the diary.
 - Include P.S.'s in his diary written by Pinkie, with her comments on some of his entries. And in the epilogue it is revealed that with his letter he sent her his diary.
 
