@@ -20,7 +20,7 @@ She said this place is called Equestria, and this town is called Ponyville. She 
 
 this new pony had no idea what personal space was and decided to sing me a 'welcome to Ponyville' song. Twilight told her what we were doing and Pinkie Pie asks if she can show me the town instead, and Twilight agreed, assuring me Pinkie was a good guide.
 
-<p style="text-align: right">-Anon</p>
+~Josh
 
 ***
 
