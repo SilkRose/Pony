@@ -58,7 +58,7 @@ Pinkie whispers back, "She grabbed my leg in her sleep."
 
 Rainbow whispers, "Well, pull it out."
 
-Pinkie tries to pull her leg free, but with each try I just hold on tighter, by the time she gives up, I am firmly cuddling her leg.
+Pinkie tries to pull her leg free, but with each try I just hold on tighter, and by the time she gives up, I am firmly cuddling her leg.
 
 Pinkie whispers to Rainbow in a worried voice, "I can't, she's got it locked in."
 
@@ -244,7 +244,7 @@ I involuntarily smile from being caught.
 
 *I should probably kiss you now.*
 
-"Twilight, I know your awake."
+"Twilight, I know you're awake."
 
 *Yes, kiss now.*
 
@@ -264,7 +264,7 @@ I say, "I'm sorry, Pinkie."
 
 Pinkie composes herself. "No, I'm sorry."
 
-"I feel bad for pretending to be a sleep."
+"I feel bad for pretending to be asleep."
 
 "Well, I feel bad for trying to steal your heart."
 
