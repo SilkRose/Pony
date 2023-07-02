@@ -12,7 +12,11 @@ Pinkie tries to steal Twilight's heart with a kiss and a love note.
 
 Twilight has other plans.
 
+Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading.
+
 Cover done by irradiatedtittymilk on Discord.
+
+Featured: [07-02-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/the-heist-of-my-heart/featured-2023-07-02-11-51-53.png).
 
 ### Short Description
 Pinkie tries to steal Twilight's heart, Twilight has other plans.
