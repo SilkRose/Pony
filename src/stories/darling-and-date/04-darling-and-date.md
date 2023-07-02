@@ -452,3 +452,97 @@ Rainbow flew quickly to the Pinkie cloud, pushing it toward the center too.
 
 *What's she doing?*
 
+As the two clouds met, Rainbow flew around them. She pushed them together, merging the two clouds into one massive cloud.
+
+Once the clouds had merged, Rainbow flew around the massive cloud, shaping it.
+
+Moments later, Rarity realized what she was making.
+
+*It's a giant heart; how cute.*
+
+Once the heart had been made, Rainbow flew around it in circles, getting the hear to spin.
+
+Rainbow made the heart spin at a good pace before she backed off.
+
+Rainbow let the heart spin for a while before she went to the bottom of it.
+
+Rainbow pushed up from the bottom, moving the heart upward, spinning with it as she did.
+
+Rainbow stopped pushing, letting the heart shaped cloud drift upward by itself. She then flew quickly to the ground, going under the bleachers.
+
+*She's good at keeping me on my hooves. I have no idea what could be next.*
+
+Rarity took advantage of Rainbow's absence and nuzzled Pinkie's head.
+
+Pinkie said, "Thanks."
+
+Rarity asked, "What do you think she's doing?"
+
+"I don't know. She didn't tell me what the show would be. She did say the ending would be *awesome*."
+
+"I can't wait."
+
+Seconds later, Rainbow emerged from under the bleachers, but she looked different.
+
+*What did she do to herself?*
+
+Rainbow had dyed her mane and tail, they were now a two-tone pink and while.
+
+*What?*
+
+Rainbow took off from the field, flying fast towards the heart cloud, which had made it far up into the sky.
+
+Rainbow's regularly colored rainbow trail had now changed to pink and while.
+
+*That's why she dyed her hair.*
+
+Rainbow was speeding up, flying faster and faster.
+
+*Is she doing what I think she is?*
+
+Rainbow continued to gain speed, a cone formed in front of her.
+
+*She is.*
+
+Rainbow reached the heart with perfect timing, right as she entered the heart, she did a sonic rainboom.
+
+This rainboom was different however, it was bands of while and pink, not its usual rainbow hue.
+
+It evaporated the cloud immediately.
+
+"That's amazing!" Rarity said, giant smile plastered on her face.
+
+"Wow!" Pinkie said.
+
+The rainboom spread out, far and wide as the two ponies gawked in awe.
+
+By the time they had stopped looking at it, Rainbow was halfway back down to the ground.
+
+They watched as Rainbow descended to them, landing on the bleachers in from of them.
+
+Rainbow smirked. "So, best show you've ever seen or what?"
+
+Pinkie jumped up and hugged Rainbow. "Yes!"
+
+Rarity stood up. "Yes, it was absolutely amazing!"
+
+Rainbow said, after the hug was over, "I do not disappoint, especially for my friends."
+
+Rarity hugged Rainbow. "Thank you."
+
+Rainbow hugged back. "You're welcome, now go have fun on the rest of you date."
+
+"We will," Pinkie said ecstatically.
+
+"What about your mane and tail?" Rarity asked.
+
+"I'm going to go wash it out, if that fails, I don't know," Rainbow said.
+
+"Good luck, bye darling," Rarity said.
+
+"Goodbye Dashie," Pinkie said.
+
+"Goodbye," Rainbow said before she flew off in a hurry.
+
+Pinkie and Rarity trotted back to the chariot, and got into it.
+
