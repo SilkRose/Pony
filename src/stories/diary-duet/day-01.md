@@ -30,9 +30,19 @@ We talked about way different stuff than I talked to Twilight about. She asked a
 
 She's always smiling, makes it hard to not smile back. Her positive energy is just infectious. She reassured me that everything was going to be alright. I don't know how I feel exactly, but her confidence makes me feel better.
 
-Eventually the day was ending, and she took me back to Twilight's. When she left she gave me a hug. As I was hugging her I couldn't help but think of two things: *ponies are very soft*, and *Pinkie is ~~cute~~ cool.*
+Eventually the day was ending, and she took me back to Twilight's. When she left she gave me a hug. As I was hugging her I couldn't help but think of two things: *ponies are very soft*, and *Pinkie is ~~cute~~ cool.* ~~and then I~~
 
+I talked to Twilight again, she asked about how it went with Pinkie, what it's like to be in a new world, and a few more questions. We didn't talk for long, I was tired from all the fun and games with Pinkie.
 
+I think some of Pinkie rubbed off on me, I gave Twilight a hug before I told her thanks, and goodnight.
+
+I went back to my room and just laid down, thinking about what has happened to me.
+
+This is absolutely crazy. I'm in a new world making friends with a bunch of ponies.
+
+I'm going to stop writing now, my hand is hurting. I expect this is going to be the longest entry in this diary, so much has happened today.
+
+Goodnight.
 
 ~Josh
 
@@ -40,17 +50,23 @@ Eventually the day was ending, and she took me back to Twilight's. When she left
 
 Dear diary,
 
-I made a new friend today!!
+I made a new friend today!! I met him at Twilight's. His name is Joshua, or Josh for short.
 
-I met him at Twilight's. I was going to show him around town, but then it started raining.
+I was going to show him around town, but then it started raining.
 
-We hung out in my room, I made sure we had lots of fun!
+We hung out in my room, I made sure we had lots of fun! I could tell he was nervous being in a new place. I mean who wouldn't? I reassured him, and I think it helped.
 
-I could tell he was nervous being in a new place. I mean who wouldn't?
+After it stopped raining, I walked him back to Twilight's. I gave him a hug when I went to leave and… he started crying :(
 
-I reassured him, and I think it helped.
+I let the hug go on for as long as he needed. I don't know why he was crying, but I was there for him. I hope he's alright!
 
+I didn't ask about it, I figure he will tell me when he is ready.
 
+I went home and cleaned up my room, thinking about Josh and the day we had together.
+
+I think tomorrow I'll show him the town, like we were suppose to do today.
+
+Goodnight, Dairy.
 
 ~Pinkie
 
@@ -70,9 +86,7 @@ He seemed a little embarrassed when he asked if I wanted something to sleep with
 
 I didn't know what to say so I just agreed. He told me the white one he had was of Rarity, the mare he has a crush on. *That's cute.* He said tomorrow he could introduce me to her.
 
-He gave me one, of the same mare.
-
-Maybe it will help, we'll see.
+He gave me one, of the same mare. Maybe it will help, we'll see.
 
 He showed me back to my room, now I'm going to try and sleep now, night.
 
