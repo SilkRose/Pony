@@ -1,4 +1,4 @@
-# 01
+# Love Licks
 
 I sit in my study reading a book entitled 'The Construction of Languages'. I notice somepony opened the door but as the words fly by I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on, I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
 
