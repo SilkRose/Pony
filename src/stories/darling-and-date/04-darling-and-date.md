@@ -622,3 +622,49 @@ Pinkie dodged to the left as Rarity lunged for her.
 
 Rarity tried again, this time succeeding. "Tag, you're it!" she said before she heel turned, running the other way.
 
+Rarity ran as fast as she could, doing her best to evade Pinkie.
+
+*Gotta lose her.*
+
+Rarity did a u-turn around a tree, trying to catch Pinkie off guard. This however, failed as Pinkie poked her.
+
+"Tag!" Pinkie said before turning and running off.
+
+Rarity got on her trail, slowly gaining ground.
+
+"I'm coming for you!" Rarity said.
+
+Pinkie sped up, then Rarity.
+
+Rarity jolted forward, trying to poke her a few times. She succeeded on the last poke. "Tag!"
+
+Rarity ran past Pinkie, trying not to get immediately tagged.
+
+Pinkie chased Rarity, following her as she weaved through the trees.
+
+Rarity looked back at Pinkie while running, she stuck her tongue out at her before smiling.
+
+Pinkie smiled back.
+
+*She's so cute.*
+
+As Rarity turned her head back forward, Pinkie tagged her.
+
+"Tag," Pinkie said as she turned right.
+
+Rarity turned and followed her.
+
+Pinkie ran for a bit, then slowed down to a trot.
+
+*Why's she slowing down? Are we done?*
+
+Rarity caught up to Pinkie, trotting beside her.
+
+They trotted in silence for a moment before Pinkie asked, "What brings you out here, beautiful?"
+
+Rarity played along. "Oh, me, I'm just on a date with my best friend, the prettiest mare I know. How about you?"
+
+"What a coincidence, I'm also on a date with my best friend, but she's the most beautiful mare I know."
+
+Both mares giggled before they blushed.
+
