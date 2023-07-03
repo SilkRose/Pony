@@ -1,10 +1,10 @@
 # Love Licks
 
-I sit in my study reading a book entitled 'The Construction of Languages'. I notice somepony opened the door but as the words fly by I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on, I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
+I sit in my study reading a book entitled 'The Construction of Languages'. I notice somepony open the door but as the words fly by I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on. I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
 
-*Lick.*
+Lick.
 
-I sit stunned for a second as I process what Pinkie just did, she *licked* my face. What? I open my mouth to ask why she had done so when she closed my mouth with her hoof, instead pointing to the book. I look at the book as she closes it and motions over the tittle with her hoof, '*The Construction of Languages*'. She leans close again and licks me again as I try to connect to two instances.
+I sit stunned for a second as I process what Pinkie just did, she *licked* my face. What? I open my mouth to ask why she had done so, when she closed my mouth with her hoof, instead pointing to the book. I look at the book as she closes it and motions over the tittle with her hoof, '*The Construction of Languages*'. She leans close again and licks me again as I try to connect to two instances.
 
 *Language? Lick? What is she doing? How are they connected?*
 
@@ -16,13 +16,13 @@ I sit stunned for a second as I process what Pinkie just did, she *licked* my fa
 
 Aha!
 
-She's trying to make a language out of *licks*?… What?
+She's trying to make a language out of *licks*… what?
 
-She looks at me with pleading eyes, as if she knows I realized what she is trying to do.
+She looks at me with pleading eyes, as if she knows I realize what she is trying to do.
 
 Am I really about to do this?
 
-*Lick.*
+Lick.
 
 Yes, yes I am.
 
