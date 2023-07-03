@@ -546,3 +546,79 @@ Rainbow hugged back. "You're welcome, now go have fun on the rest of you date."
 
 Pinkie and Rarity trotted back to the chariot, and got into it.
 
+The chariot took off moments later.
+
+Pinkie wrapped her hoof around Rarity, who leaned into her.
+
+Rarity nuzzled Pinkie and smiled.
+
+*This is nice.*
+
+Pinkie kissed Rarity on the cheek, causing her to blush.
+
+Rarity reciprocated, kissing Pinkie on the cheek.
+
+Pinkie blushed.
+
+Rarity said, "You're really cute when you blush."
+
+Pinkie said, "You too," before she held Rarity tighter.
+
+Both mares blushes intensified.
+
+Rarity wrapped her hooves around Pinkie, holding her.
+
+Pinkie said, "Thanks, Pretty."
+
+Rarity replied, "You're welcome, Pink."
+
+Both mare giggled.
+
+They were silent for the rest of the chariot ride, occasionally exchanging nuzzles and blushes.
+
+The chariot stopped at the entrance to Sweet Apple Acres.
+
+They departed the chariot.
+
+"Oh, we need to leave our dresses in the chariot," Pinkie said.
+
+"Okay," Rarity said.
+
+"The guards are going to take the chariot to Twilight's. We can pick up the dresses there later."
+
+"Sounds good."
+
+Both mares took off their dresses, placing them neatly in the chariot.
+
+The chariot took off, leaving the two alone.
+
+"What did we do that for?" Rarity asked.
+
+"For this," Pinkie said before she poked Rarity. "Tag!"
+
+Pinkie ran off into the field of apple tress.
+
+*What?*
+
+*Were playing tag?*
+
+*Were playing tag!*
+
+Rarity started to run after Pinkie.
+
+*It is on!*
+
+Pinkie evaded Rarity, weaving around trees and taking random corners.
+
+"I'm going to get you," Rarity shouted in a playful tone.
+
+"Catch me if you can!" Pinkie said, playfully taunting her.
+
+Rarity sped up, gaining ground on Pinkie.
+
+Pinkie dodged to the left as Rarity lunged for her.
+
+*Almost.*
+
+Rarity tried again, this time succeeding. "Tag, you're it!" she said before she heel turned, running the other way.
+
