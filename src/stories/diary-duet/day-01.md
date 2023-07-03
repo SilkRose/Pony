@@ -10,13 +10,17 @@ WHAT!
 
 So, yea… I should probably start from the beginning. I went to bed last night and woke up in a strange new world. I was in a field of apple trees. I didn't know where I was or where to go so I headed to a barn I saw in the distance.
 
-I was not ready for what awaited me there, it was an orange talking magical horse… or pony as they like to be called. And we could understand each other. She introduced herself as Applejack and said she was glad to meet me.
+I was not ready for what awaited me there, it was an orange talking magical horse… or pony as they like to be called. She said hello in a tenuous tone, not sure of me. I said hello back, surprised we could understand each other.
 
-I was not sure if I was on something or dead, all I could say was 'Whats going on? Where am I?' She answered, saying I was at Sweet Apple Acres and that she didn't know where I came from or how I got there. Once I calmed down, we talked for a bit and she recommended I talk to her friend Twilight Sparkle, a magical magical talking horse pony thing.
+As we talked we both let our guards down. She said her name was Applejack. I introduced myself, and asked where I was, and what happened.
 
-Applejack leads me through town to a giant castle thing, from the outside It looked more like a child's play set than a castle. She introduced me and left to finish her chores.
+She answered, saying I was at Sweet Apple Acres and that she didn't know where I came from or how I got there. We talked a bit more and she recommended I talk to her friend Twilight Sparkle, a *magical* magical talking horse pony thing.
 
-Twilight and I talked for hours, about where I came from and where I am now. She said she would try and help me get home. That makes me feel better. She suggested I start writing in a diary to keep my thoughts in order, so now I have you.
+Applejack led me through town to a giant castle thing, from the outside It looked more like a child's play set than a castle. She introduced me and left to finish her chores.
+
+Twilight and I talked for hours, about where I came from and where I am now. She was very curious about my world, race, and everything else. She had to have asked a million questions.
+
+She said she would try and help me get home. That made me feel better. She suggested I start writing in a diary to keep my thoughts in order, so now I have you.
 
 She said this place is called Equestria, and this town is called Ponyville. She said I could stay with her for now. She offered to show me the town, but before we got out the door one of her friends shows up, a pink pony named Pinkie Pie.
 
@@ -24,9 +28,9 @@ This new pony had no idea what personal space was and decided to sing me a 'Welc
 
 Pinkie and I left the castle, heading to see the town, but right after we got to Sugarcube Corner, Pinkie's home, it started to rain. Pinkie suggested we could hang out in her room. I didn't have any other options, so I agreed.
 
-We hung out for a few hours, just talking about all sorts of stuff and playing games. Most of the games were hard to play, her room is too small to play tag effectively, not many places to hide for hide and seek. Even thought it wasn't the most optimal place to play, I still had a lot of fun.
+We hung out for a few hours, just talking about all sorts of stuff and playing games. Most of the games were hard to play, her room is too small to play tag effectively, not many places to hide for hide and seek. Even though it wasn't the most optimal place to play, I still had a lot of fun.
 
-We talked about way different stuff than I talked to Twilight about. She asked all sorts of random questions, favorite color, what I do for fun, if I'd eaten yet. Apparently she's a confectionery expert, and I can confirm. The food she made was delicious.
+We talked about all different kinds of stuff, more so than I talked to Twilight about. She asked all sorts of random questions, favorite color, what I do for fun, if I'd eaten yet. Apparently she's a confectionery expert, and I can confirm. The food she made was delicious.
 
 She's always smiling, makes it hard to not smile back. Her positive energy is just infectious. She reassured me that everything was going to be alright. I don't know how I feel exactly, but her confidence makes me feel better.
 
