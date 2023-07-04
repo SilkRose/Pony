@@ -668,3 +668,33 @@ Rarity played along. "Oh, me, I'm just on a date with my best friend, the pretti
 
 Both mares giggled before they blushed.
 
+They trotted side by side for a while in silence.
+
+Rarity said, "That was fun, exhausting, but fun."
+
+"Yep."
+
+"This date has been one amazing surprise after another, and that's what I love about you. You're like the perfect present, I never know what I'm going to get, but I know I'm going to love it."
+
+Pinkie blushed. "You're the perfect present for me," she said serenely before she kissed Rarity on the cheek.
+
+Rarity blushed, and nuzzled Pinkie.
+
+They trotted together in silence again for a bit, until they came upon a picnic blanket laid out.
+
+The picnic blanket had an array of silverware arranged on it, and a covered dish in the center.
+
+They sat down on the blanket.
+
+Rarity said, "This is nice."
+
+"I made this specially for out date. Rainbow and Fluttershy helped design the icing and frosting," Pinkie said before she removed the lid on the covered dish, revealing a cake.
+
+The cake was square. The left side was white with Rarity's cutie mark designed on it. The right side was pink with Pinkie's cutie mark designed on it. Along the sides were a line of dots, yellow on Rarity's side, blue on Pinkie's.
+
+"That's so adorable, thank you darling," Rarity said with a smile.
+
+"You're welcome, you ready to dig in?"
+
+"Absolutely, that game of tag worked up quite the appetite."
+
