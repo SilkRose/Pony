@@ -54,26 +54,6 @@ Goodnight.
 
 Dear diary,
 
-I made a new friend today!! I met him at Twilight's. His name is Joshua, or Josh for short. He's a human, something I've never seen before! They are tall and don't have fur, but they have a mane.
-
-I was going to show him around town, but then it started raining.
-
-We hung out in my room, I made sure we had lots of fun! I could tell he was nervous being in a new place. I mean who wouldn't? I reassured him, and I think it helped.
-
-After it stopped raining, I walked him back to Twilight's. I gave him a hug when I went to leave and… he started crying :(
-
-I don't know why he was crying, but I was there for him. I hope he's alright! I let the hug go on for as long as he needed. I didn't ask about it, I figure he will tell me when he is ready.
-
-I went home and cleaned up my room, thinking about Josh and the day we had together. I think tomorrow I'll show him the town, like we were suppose to do today.
-
-Goodnight, Dairy.
-
-~Pinkie
-
-***
-
-Dear diary,
-
 I was having trouble sleeping, I can only imagine why.
 
 I got up and wandered the halls, ending up getting lost. A small dragon found me, assuring me he wasn't going to eat me. His name is Spike, he's Twilight's assistant. He showed me around, and said it's easy to get lost in here. *Tell me about it.*
