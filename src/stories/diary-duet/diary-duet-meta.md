@@ -65,31 +65,31 @@ name: Love Letters
 
 ### Chapters
 
-[Day 1](./day-01.md)
+[Day 1](./story/day-01.md)
  - Wakes up in Equestria.
  - Meets Applejack, Twilight, and Pinkie.
 
-[Day 2](./day-02.md)
+[Day 2](./story/day-02.md)
  - Spike introduces him to Rarity.
  - Pinkie introduces him to Rainbow and Fluttershy.
 
-[Day 3](./day-03.md)
+[Day 3](./story/day-03.md)
  - He considers both Twilight and Pinkie as friends.
  - Takes a walk alone around town, gets lost, he recognizes the path to Fluttershy's cottage and ask her for help to get back to the castle.
 
-[Day 4](./day-04.md)
+[Day 4](./story/day-04.md)
  - Helps spike clean within the castle.
  - Hangs out with Pinkie.
 
-[Day 5](./day-05.md)
+[Day 5](./story/day-05.md)
  - Hang outs with Rarity, then with Applejack.
  - Talks more with Twilight about both their worlds.
 
-[Day 6](./day-06.md)
+[Day 6](./story/day-06.md)
  - Hangs out with Fluttershy and Pinkie.
  - Goes on a run with Rainbow Dash.
 
-[Day 7](./day-07.md)
+[Day 7](./story/day-07.md)
  - 
 
 ### Cover
