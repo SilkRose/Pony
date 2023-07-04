@@ -30,6 +30,14 @@ A human (Joshua Richards) gets sent to Equestria. The story switches between his
 They stop writing in their diaries and instead write each other a letter every day.
 name: Love Letters
 
+#### Cover changes
+ - Cover updates everyday, adding a new tick to his diary cover.
+ - 4 times throughout the story the cover gets a small change:
+   7. Pinkie gives him her pink pen when he loses his, the pen moving from her side to his.
+   16. He had a sentimental item with him, a card, coin, a dice, something and gives it to her. It moves from his side to hers.
+   26. Pinkie gives him the heart sticker from her diary as a hint. He puts it on his own diary.
+   32. Letter appears for epilogue, to the right of Pinkie's diary.
+
 ### Flow
 
 #### Week 1
@@ -90,6 +98,7 @@ name: Love Letters
  - Goes on a run with Rainbow Dash.
 
 [Day 7](./story/day-07.md)
+ - Josh loses his pen, Pinkie gives him her's.
  - 
 
 ### Cover
