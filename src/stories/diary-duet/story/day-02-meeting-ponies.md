@@ -1,4 +1,4 @@
-# Day 02
+# Day 02: Meeting Ponies
 
 Day 2: Fur-less Fun New Friend
 

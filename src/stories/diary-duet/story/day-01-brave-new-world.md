@@ -1,4 +1,4 @@
-# Day 01
+# Day 01: Brave New World
 
 Day 1: Brave New World
 
