@@ -1,8 +1,8 @@
 # The Heist of My Heart
 
-A loud noise wakes me up. I look around my bedroom. Not seeing anything, I decide to go back to bed.
+A loud noise wakes me up. After looking around my bedroom and not seeing anything, I decide to go back to bed.
 
-A few minutes later, as I am about to fall back to sleep, I hear somepony call my name.
+A few minutes later, right as I am about to fall back to sleep, somepony calls my name.
 
 "Twilight?" they say.
 
@@ -16,15 +16,15 @@ Rainbow whispers, "Pinkie, what are you doing? Are you trying to wake her up?"
 
 Pinkie whispers back, "Sorry, I was just checking."
 
-Rainbow replies in a whisper, "Just give her a kiss and leave the note, okay?"
+Rainbow replies, "Just give her a kiss and leave the note, okay?"
 
 *Give me a kiss? What?*
 
-"I'm stealing her heart, remember" Pinkie whispers.
+"I'm stealing her heart, remember."
 
 *What is she talking about?*
 
-"Okay, you want Twilight to love you, hurry up," Rainbow says in an annoyed whisper.
+"Okay, you want Twilight to love you, hurry up," Rainbow says in an annoyed tone.
 
 *Love Pinkie?*
 
@@ -138,9 +138,9 @@ I nuzzle her chest as I listen to the rhythmic beating of her heart.
 
 I can feel her heart rate go up slightly.
 
-We lay there for a good ten minutes or so, before I kiss her chest.
+We lay there for a good ten minutes or so before I kiss her chest.
 
-This really gets her, her whole body freezes, she goes stiff for a few seconds.
+This really gets her, her whole body freezes and she goes stiff for a few seconds.
 
 She relaxes and whispers, "I deserve this, don't I?"
 
@@ -150,7 +150,7 @@ And to my surprise, she does, she leans close and kisses the top of my head, mak
 
 After she leans back down on the bed, she whispers, "How's that?"
 
-I don't respond, instead I twitch my right foreleg, the one holding her.
+I don't respond, instead, I twitch my right foreleg, the one holding her.
 
 After a few minutes of silence, Pinkie laments, "I don't know what to do, should I be enjoying this? Should I just wake you up? I don't know…"
 
@@ -182,13 +182,13 @@ I feel my heart flutter. *I think I could love you too.*
 
 She pauses for a second before continuing, "I should have just asked you out normally…"
 
-*No, your doing it your way; the best way.*
+*No, you're doing it your way; the best way.*
 
 *Even though you don't know it, I've enjoyed being close to you so much.*
 
 *I want to date you.*
 
-She pauses again before she says, "I was going to kiss your cheek then leave a love note, but I guess you had other plans."
+She pauses again before she says, "I was going to kiss your cheek and then leave a love note, but I guess you had other plans."
 
 *That's really cute, but don't worry, Pinkie, you've stolen my heart, it's yours.*
 
@@ -218,7 +218,7 @@ I don't respond as I try to think of what I should do.
 
 *Maybe we can turn this around. Pinkie did come here for a kiss, maybe I can give it to her?*
 
-*Okay, so my head is on her chest, and my right foreleg is over her stomach. If I want to get my lips near hers, I need to move back and to her right, and pull her towards me as I move so she is facing me.*
+*Okay, so my head is on her chest, and my right foreleg is over her stomach. If I want to get my lips near hers, I need to move back and pull her towards me as I move so she is facing me.*
 
 I don't like the odds of success, but I do it anyway.
 
@@ -236,7 +236,7 @@ A few moments later, she whispers, "You're really cute, especially in your sleep
 
 *Maybe I need to see you sleeping, so I can judge the cuteness factor?*
 
-As I am thinking, I don't notice the blush forming on my face, Pinkie however, did.
+As I am thinking, I don't notice the blush forming on my face, Pinkie, however, did.
 
 "Twilight, I can see your blush."
 
