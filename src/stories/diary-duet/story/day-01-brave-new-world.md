@@ -1,14 +1,12 @@
 # Day 01: Brave New World
 
-Day 1: Brave New World
-
 Dear diary,
 
 I'M IN A LAND OF MAGICAL TALKING PONIES!
 
 WHAT!
 
-So, yea… I should probably start from the beginning. I went to bed last night and woke up in a strange new world. I was in a field of apple trees. I didn't know where I was or where to go so I headed to a barn I saw in the distance.
+So, yea… I should probably start from the beginning. I went to bed last night and woke up in a strange new world. I was in a field of apple trees. I didn't know where I was, or where to go, so I headed to a barn I saw in the distance.
 
 I was not ready for what awaited me there, it was an orange talking magical horse… or pony as they like to be called. She said hello in a tenuous tone, not sure of me. I said hello back, surprised we could understand each other.
 
@@ -22,15 +20,15 @@ Twilight and I talked for hours, about where I came from and where I am now. She
 
 She said she would try and help me get home. That made me feel better. She suggested I start writing in a diary to keep my thoughts in order, so now I have you.
 
-She said this place is called Equestria, and this town is called Ponyville. She said I could stay with her for now. She offered to show me the town, but before we got out the door one of her friends shows up, a pink pony named Pinkie Pie.
+She said this place is called Equestria, and this town is called Ponyville. She said I could stay with her for now. She offered to show me the town, but before we got out the door, one of her friends shows up, a pink pony named Pinkie Pie.
 
-This new pony had no idea what personal space was and decided to sing me a 'Welcome to Ponyville' song. Twilight told her what we were doing and Pinkie Pie asked if she can show me the town instead, and Twilight agreed, assuring me Pinkie was a good guide.
+This new pony had no idea what personal space was and decided to sing me a *Welcome to Ponyville* song. Twilight told her what we were doing and Pinkie Pie asked if she can show me the town instead, and Twilight agreed, assuring me Pinkie was a good guide.
 
 Pinkie and I left the castle, heading to see the town, but right after we got to Sugarcube Corner, Pinkie's home, it started to rain. Pinkie suggested we could hang out in her room. I didn't have any other options, so I agreed.
 
 We hung out for a few hours, just talking about all sorts of stuff and playing games. Most of the games were hard to play, her room is too small to play tag effectively, not many places to hide for hide and seek. Even though it wasn't the most optimal place to play, I still had a lot of fun.
 
-We talked about all different kinds of stuff, more so than I talked to Twilight about. She asked all sorts of random questions, favorite color, what I do for fun, if I'd eaten yet. Apparently she's a confectionery expert, and I can confirm. The food she made was delicious.
+We talked about all different kinds of stuff, more so than I talked to Twilight about. She asked all sorts of random questions, favorite color, what I do for fun, if I'd eaten yet. Apparently she's a confectionery expert, and I can confirm. The cake she made was delicious.
 
 She's always smiling, makes it hard to not smile back. Her positive energy is just infectious. She reassured me that everything was going to be alright. I don't know how I feel exactly, but her confidence makes me feel better.
 
@@ -38,11 +36,13 @@ Eventually the day was ending, and she took me back to Twilight's. When she left
 
 I talked to Twilight again, she asked about how it went with Pinkie, what it's like to be in a new world, and a few more questions. We didn't talk for long, I was tired from all the fun and games with Pinkie.
 
-I think some of Pinkie rubbed off on me, I gave Twilight a hug before I told her thanks, and goodnight.
+I think some of Pinkie rubbed off on me, as I gave Twilight a hug before I told her thanks, and goodnight.
 
 I went back to my room and just laid down, thinking about what has happened to me.
 
 This is absolutely crazy. I'm in a new world making friends with a bunch of ponies.
+
+Also, I should probably mention this, I went to bed in my underwear, but when I woke up here I was fully dressed, and in my pocket was INSERT ITEM HERE. I don't know why it was there.
 
 I'm going to stop writing now, my hand is hurting. I expect this is going to be the longest entry in this diary, so much has happened today.
 
@@ -54,7 +54,7 @@ Goodnight.
 
 Dear diary,
 
-I made a new friend today!! I met him at Twilight's. His name is Joshua, or Josh for short.
+I made a new friend today!! I met him at Twilight's. His name is Joshua, or Josh for short. He's a human, something I've never seen before! They are tall and don't have fur, but they have a mane.
 
 I was going to show him around town, but then it started raining.
 
@@ -62,13 +62,9 @@ We hung out in my room, I made sure we had lots of fun! I could tell he was nerv
 
 After it stopped raining, I walked him back to Twilight's. I gave him a hug when I went to leave and… he started crying :(
 
-I let the hug go on for as long as he needed. I don't know why he was crying, but I was there for him. I hope he's alright!
+I don't know why he was crying, but I was there for him. I hope he's alright! I let the hug go on for as long as he needed. I didn't ask about it, I figure he will tell me when he is ready.
 
-I didn't ask about it, I figure he will tell me when he is ready.
-
-I went home and cleaned up my room, thinking about Josh and the day we had together.
-
-I think tomorrow I'll show him the town, like we were suppose to do today.
+I went home and cleaned up my room, thinking about Josh and the day we had together. I think tomorrow I'll show him the town, like we were suppose to do today.
 
 Goodnight, Dairy.
 
@@ -78,7 +74,7 @@ Goodnight, Dairy.
 
 Dear diary,
 
-I was having trouble sleeping, I can only guess why.
+I was having trouble sleeping, I can only imagine why.
 
 I got up and wandered the halls, ending up getting lost. A small dragon found me, assuring me he wasn't going to eat me. His name is Spike, he's Twilight's assistant. He showed me around, and said it's easy to get lost in here. *Tell me about it.*
 
