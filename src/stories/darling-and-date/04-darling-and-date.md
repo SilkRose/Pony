@@ -698,3 +698,53 @@ The cake was square. The left side was white with Rarity's cutie mark designed o
 
 "Absolutely, that game of tag worked up quite the appetite."
 
+Pinkie cut the cake into small squares before setting a piece on two plates, one for each of them.
+
+Rarity took the plate in her magic and began to eat using the provided silverware.
+
+*This is good cake.*
+
+Pinkie ate the entire square in one bite.
+
+*Somepony is hungry.*
+
+Rarity got lost in thought as she ate.
+
+*I love her.*
+
+*I've said it to her before, a few times, but something's different now.*
+
+*I don't know what's different, I just have this feeling.*
+
+*I know this is literally our first date, and maybe that has something to do with it.*
+
+*But, I just want to hold her, and never let go.*
+
+*I want to make her smile, like she does me.*
+
+*I want to cuddle on the couch and read cheesy romance novels together.*
+
+*I want to surprise her with a random party out of nowhere.*
+
+*I want to do everything with her.*
+
+*I want to never stop.*
+
+"Rarity?" Pinkie said.
+
+Rarity snapped out of her thoughts. "Yes, darling?"
+
+"You've been staring at me for a while, is something up?"
+
+Rarity blushed. "I love you."
+
+Pinkie blushed in turn. "I love you too."
+
+Before Rarity had even realized it, she was slowly leaning towards Pinkie.
+
+Pinkie leaned in in response.
+
+Both ponies locked eyes as their lips met. Rarity wrapped her hooves around Pinkie, holding her gently.
+
+*I'm pretty sure I could kiss her a million times and still love every second of it.*
+
