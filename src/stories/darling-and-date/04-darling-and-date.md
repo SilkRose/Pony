@@ -746,5 +746,38 @@ Pinkie leaned in in response.
 
 Both ponies locked eyes as their lips met. Rarity wrapped her hooves around Pinkie, holding her gently.
 
-*I'm pretty sure I could kiss her a million times and still love every second of it.*
+*I could kiss her a million times and still love every one of them.*
+
+They held the kiss for a while, savoring the moment.
+
+Rarity broke the kiss, staring into Pinkie's eyes before she hugged her.
+
+"Thank you," Rarity whispered.
+
+"You're welcome," Pinkie replied, holding Rarity tight.
+
+Rarity nuzzled Pinkie before ending the hug.
+
+Pinkie smiled at Rarity before she grabbed her hoof, holding it.
+
+Rarity smiled back.
+
+Pinkie began to sing a poem to her.
+
+"You're the best gift I ever got,  
+"Stop loving you, I will not,  
+"Fur so white, eyes so bright,  
+"Everyday with you just feels right.
+
+"You're smile brings joy to my life,  
+"When I'm with you, there is no strife,  
+"When we kiss, it feels so great,  
+"There is nothing about you I hate.
+
+"Around you, I will always smile,  
+"For you, I would go every mile,  
+"You're the most beautiful mare I've seen,  
+"You make me the happiest I've ever been."
+
+"That was so beautiful," Rarity said as tears of joy slowly rolled down her face. She grabbed Pinkie, holding her in an extra tight hug.
 
