@@ -33,18 +33,48 @@ name: Love Letters
 #### Cover changes
  - Cover updates everyday, adding a new tick to his diary cover.
  - 4 times throughout the story the cover gets a small change:
-   7. Pinkie gives him her pink pen when he loses his, the pen moving from her side to his.
-   16. He had a sentimental item with him, a card, coin, a dice, something and gives it to her. It moves from his side to hers.
-   26. Pinkie gives him the heart sticker from her diary as a hint. He puts it on his own diary.
-   32. Letter appears for epilogue, to the right of Pinkie's diary.
+   - Week 2 - Pinkie gives him her pink pen when he loses his, the pen moving from her side to his.
+   - Week 3 - He had a sentimental item with him, a card, coin, a dice, something and gives it to her. It moves from his side to hers.
+   - Week 4 - Pinkie gives him the heart sticker from her diary as a hint. He puts it on his own diary.
+   - Epilogue - Letter appears for epilogue, to the right of Pinkie's diary.
 
-### Flow
+### Chapters
 
-#### Week 1
+#### [Week 1](./01.md)
  - Introduced to Equestria and ponies.
  - Getting accustomed to a new world.
  - Meets the mane 6.
  - Becomes friends with Twilight and Pinkie.
+
+##### Flow
+Day 1: Brave New World
+ - Wakes up in Equestria.
+ - Meets Applejack, Twilight, and Pinkie.
+
+Day 2: Meeting Ponies
+ - Spike introduces him to Rarity.
+ - Pinkie introduces him to Rainbow and Fluttershy.
+
+Day 3: Lost and Found
+ - He considers both Twilight and Pinkie as friends.
+ - Takes a walk alone around town, gets lost, he recognizes the path to Fluttershy's cottage and ask her for help to get back to the castle.
+
+Day 4: Castle Cleaning
+ - Helps spike clean within the castle.
+ - Hangs out with Pinkie.
+
+Day 5: Questioning the Questioner
+ - Hang outs with Rarity, then with Applejack.
+ - Talks more with Twilight about both their worlds.
+
+Day 6: Rainbow Run
+ - Hangs out with Fluttershy and Pinkie.
+ - Goes on a run with Rainbow Dash.
+
+Day 7: Pen Pals
+ - Josh loses his pen, Pinkie gives him her's.
+ - Thinks on his time there, commenting that it isn't that bad.
+
 
 #### Week 2
  - Hangs out with Pinkie more.
@@ -64,42 +94,12 @@ name: Love Letters
  - Has far more cute moments with Pinkie.
  - Pinkie and him realize they have feelings for each other, one before the other.
 
-#### Week 5 (3 days)
+#### Week 5 (3 days): 
  - Twilight finds him a way home, but he chooses to stay.
  - They agree to see where it goes but don't officially start dating.
 
-#### Epilogue
+#### Epilogue: Love Letter
  - Last entry is a letter to each other, leads into sequel where they write each other letters.
-
-### Chapters
-
-[Day 1: Brave New World](day-01-brave-new-world.md)
- - Wakes up in Equestria.
- - Meets Applejack, Twilight, and Pinkie.
-
-[Day 2: Meeting Ponies](day-02-meeting-ponies.md)
- - Spike introduces him to Rarity.
- - Pinkie introduces him to Rainbow and Fluttershy.
-
-[Day 3: Lost and Found](day-03-lost-and-found.md)
- - He considers both Twilight and Pinkie as friends.
- - Takes a walk alone around town, gets lost, he recognizes the path to Fluttershy's cottage and ask her for help to get back to the castle.
-
-[Day 4: Castle Cleaning](day-04-castle-cleaning.md)
- - Helps spike clean within the castle.
- - Hangs out with Pinkie.
-
-[Day 5: Questioning the Questioner](day-05-questioning-the-questioner.md)
- - Hang outs with Rarity, then with Applejack.
- - Talks more with Twilight about both their worlds.
-
-[Day 6: Rainbow Run](day-06-rainbow-run.md)
- - Hangs out with Fluttershy and Pinkie.
- - Goes on a run with Rainbow Dash.
-
-[Day 7: Pen Pals](day-07-pen-pals.md)
- - Josh loses his pen, Pinkie gives him her's.
- - Thinks on his time there, commenting that it isn't that bad.
 
 ### Cover
 
