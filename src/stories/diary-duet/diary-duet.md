@@ -1,6 +1,6 @@
 # Diary Duet
 
-## Day 01
+## Day 1: Discovery
 
 Dear diary,
 
@@ -12,7 +12,7 @@ Maybe tomorrow we can hang out some more, I might get a better grasp over my fee
 
 ~Fluttershy
 
-## Day 02
+## Day 2: Difference
 
 Dear diary,
 
@@ -24,7 +24,7 @@ We walked around town and before coming back home. she helped me work on a few d
 
 ~Rarity
 
-## Day 03
+## Day 3: Delay
 
 Dear diary,
 
@@ -34,7 +34,7 @@ Today I asked Rarity to help me around my house, she was happy to do so. When sh
 
 ~Fluttershy
 
-## Day 04
+## Day 4: Divulge
 
 Dear diary,
 
@@ -42,7 +42,7 @@ Dear diary,
 
 ~Rarity
 
-## Day 05
+## Day 5: Decide
 
 Dear diary,
 
@@ -50,7 +50,7 @@ Dear diary,
 
 ~Fluttershy
 
-## Day 06
+## Day 6: Daydream
 
 Dear diary,
 
@@ -58,7 +58,7 @@ Dear diary,
 
 ~Rarity
 
-## Day 07
+## Day 7: Dating
 
 Dear diary,
 
