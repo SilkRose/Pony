@@ -9,10 +9,12 @@ Location:
 Fluttershy and Rarity's diary entries alternating over a week. Fluttershy realizes she has a crush on Rarity, and asks her out at the end.
 
 ### Description
+Fluttershy and Rarity think about each other in ways they only tell their diaries, until one day.
 
+Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
 
 ### Short Description
-
+Fluttershy and Rarity think about each other in ways they only tell their diaries, until one day.
 
 ### Ideas
 
