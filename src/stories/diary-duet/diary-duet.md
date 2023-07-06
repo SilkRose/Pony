@@ -30,7 +30,9 @@ Dear diary,
 
 Today I asked Rarity to help me around my house, she was happy to do so. When she came out of her house, she was wearing a new hat. She looked so cute in the hat, I wanted to tell her she looked pretty, but didn't have the courage…
 
+After we were done doing what I needed done, I asked her to help with more, even stuff I didn't need help with. I feel bad for tricking her into staying, I just wanted to spend more time with her…
 
+Eventually she had to go home, I felt really lonely with her gone, not even my animals could cheer me up. I just sulked around the house, trying to think of how I was going to deal with these feelings.
 
 ~Fluttershy
 
@@ -38,7 +40,9 @@ Today I asked Rarity to help me around my house, she was happy to do so. When sh
 
 Dear diary,
 
+Today we hung out yet again. We had lunch together, and the whole time she stared at me. Her smile told me everything, she likes me. After lunch, we went and saw Twilight. Twilight did notice Fluttershy acting different, and asked me about it. I didn't want to reveal Fluttershy's hoof in case I was wrong, so I said I didn't know why.
 
+I am all but certain diary, that Fluttershy has a crush on me. they was she's acting different, they way she stares at me, it's the only conclusion I can come too. To tell you the truth, I don't know how to feel about it, sure I love her as a friend, but could I develop feelings for her? This is something I'm going to have to think about, and to divulge one of my thoughts so far, I do think Fluttershy is rather cute.
 
 ~Rarity
 
