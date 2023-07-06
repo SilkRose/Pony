@@ -779,5 +779,7 @@ Pinkie began to sing a poem to her.
 "You're the most beautiful mare I've seen,  
 "You make me the happiest I've ever been."
 
-"That was so beautiful," Rarity said as tears of joy slowly rolled down her face. She grabbed Pinkie, holding her in an extra tight hug.
+"That was beautiful," Rarity said as tears of joy slowly rolled down her face. She grabbed Pinkie, holding her in an extra tight hug.
+
+Pinkie returned the hug, serenely whispering, "Just like you, darling."
 
