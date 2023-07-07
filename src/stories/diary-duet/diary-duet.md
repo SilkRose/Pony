@@ -64,7 +64,7 @@ Dear diary,
 
 Today, Fluttershy told me I was pretty. It caught me off guard, making be blush hard. I did my best to hide my face, I don't think she saw. After that I had this desire to kiss her, I couldn't stop thinking about it, and how cute she looked.
 
-We didn't do much today of any substance, mostly just talking, walking around town, and we continued the newfound tradition of hugging a dozen times. I'm not complaining, she gives the best hugs, don't tell Pinkie. I'm looking forward to seeing her tomorrow.
+We didn't do much today of any substance, mostly just talking, walking around town, and we continued the newfound tradition of hugging a dozen times. I'm not complaining, she gives the best hugs, don't tell Pinkie. I've absolutely loved hanging out with her.
 
 After she left, I started daydreaming about us being in a relationship, and I think I want it too. I just don't think Fluttershy can ask me out, but maybe I'm wrong, she did tell me I was pretty. If she doesn't ask me out tomorrow, I'll ask her out at our spa visit in two days.
 
