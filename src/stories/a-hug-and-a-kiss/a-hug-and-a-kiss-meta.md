@@ -14,7 +14,9 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 
 
 ### Ideas
-
+ - During the hug contest, they sleep in Pinkie's bed. Dash loses the contest in her sleep, but Pinkie wakes up and makes it seem like she lost instead.
+ - When they kiss for the contest, Rainbow kisses her passionately, holding her. She breaks the kiss off and asks Pinkie out.
+ - Pinkie feels bad about lying about the hug contest, admitting that she just wanted to make her happy like she felt the whole time hugging her.
 
 ### Flow
 
