@@ -263,6 +263,13 @@ Pinkie has a crush on Twilight, one day she goes over to Twilight's, who is read
 
 ***
 
+## Unnamed Rainbow x Pinkie romance story
+
+### Synopsis
+Rainbow Dash and Pinkie get into a competition to see who can hold a hug the longest. They hug each other for days, Pinkie wins? Rainbow misses being close to Pinkie, so she challenges her to another contest, who can hold a kiss the longest. They hold the kiss for over and hour as Rainbow slowly realizes she has feelings for Pinkie. Rainbow breaks the kiss and asks Pinkie out.
+
+***
+
 ## Unnamed Chrysalis as Twilight romance story
 
 ### Synopsis:
