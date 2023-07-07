@@ -52,3 +52,4 @@ Fluttershy and Rarity think about each other in ways they only tell their diarie
 
 ### Cover
 
+![Cover](./cover/cover-5-full.png)
