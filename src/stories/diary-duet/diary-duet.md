@@ -50,7 +50,11 @@ I am all but certain diary, that Fluttershy has a crush on me. they was she's ac
 
 Dear diary,
 
+I tried again today to tell Rarity that she is pretty, I was so close. I'm going to try again tomorrow, wish me luck. I've also decided that I am going to ask her out, it just might take a day or two to build up the courage. I really hope she says yes.
 
+We hung out at her house again, we worked on dresses and I offered to make us lunch, it was really nice. I kept hugging her a lot. I just can't help it, she just makes me smile.
+
+She looked really cute when she was eating, it almost made me blush. I made us pancakes. I feel bad sometimes for taking up so much of her time, but she never complains. Could that mean she likes me back? I wish… I held our last hug long, it was really nice.
 
 ~Fluttershy
 
@@ -58,7 +62,11 @@ Dear diary,
 
 Dear diary,
 
+Today Fluttershy told me I was pretty. It caught me off guard, making be blush hard. I did my best to hide my face, I don't think she saw. After that I had this desire to kiss her, I couldn't stop thinking about it. I think if she asks me out, I'm going to say yes.
 
+I've been daydreaming a lot about us being in a relationship, and I think I want it too. I just don't think Fluttershy can ask me out, but maybe I'm wrong, she did tell me I was pretty. I guess if she doesn't ask me out in a day or two, I'll ask her out.
+
+We didn't do much today of any substance, mostly just talking, walking around town, and we continued the newfound tradition of hugging a dozen times. I'm not complaining, she gives the best hugs, don't tell Pinkie. I'm looking forward to seeing her tomorrow.
 
 ~Rarity
 
