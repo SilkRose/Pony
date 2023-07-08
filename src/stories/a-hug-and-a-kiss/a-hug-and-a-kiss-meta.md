@@ -5,7 +5,7 @@ Mane Characters:
 Location: 
 
 ### Synopsis
-Rainbow Dash and Pinkie get into a competition to see who can hold a hug the longest. They hug each other for days, Pinkie wins? Rainbow misses being close to Pinkie, so she challenges her to another contest, who can hold a kiss the longest. They hold the kiss for over and hour as Rainbow slowly realizes she has feelings for Pinkie. Rainbow breaks the kiss and asks Pinkie out.
+Rainbow Dash and Pinkie get into a competition to see who can hold a hug the longest. They hug each other for days, Pinkie wins, but makes it look like Rainbow won to make her happy. Rainbow realizes she likes Pinkie and asks for a kiss as the prize for winning. They kiss then Rainbow asks Pinkie out.
 
 ### Description
 
@@ -15,7 +15,8 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 
 ### Ideas
  - During the hug contest, they sleep in Pinkie's bed. Dash loses the contest in her sleep, but Pinkie wakes up and makes it seem like she lost instead.
- - When they kiss for the contest, Rainbow kisses her passionately, holding her. She breaks the kiss off and asks Pinkie out.
+ - The hugging contest has stakes, winner gets whatever they want.
+ - Rainbow asks for a kiss from Pinkie. Rainbow kisses her passionately, holding her. She breaks the kiss off and asks Pinkie out.
  - Pinkie feels bad about lying about the hug contest, admitting that she just wanted to make her happy like she felt the whole time hugging her.
 
 ### Flow
