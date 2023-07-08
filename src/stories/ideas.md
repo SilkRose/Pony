@@ -40,12 +40,6 @@ No details provided.
 
 ***
 
-## That one time Pinkie Pie's butt lead to another dimension
-
-No details provided.
-
-***
-
 ## Unnamed Rainbow x Rarity romance story
 
 ### Synopsis:
