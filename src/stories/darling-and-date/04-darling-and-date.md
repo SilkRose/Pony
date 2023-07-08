@@ -783,3 +783,29 @@ Pinkie began to sing a poem to her.
 
 Pinkie returned the hug, serenely whispering, "Just like you, darling."
 
+"I don't know what to say. Today has been so amazing," Rarity said, sniffling.
+
+"You don't have to say anything," Pinkie said, tightening her hold on Rarity.
+
+They held the hug for a while after Rarity's tears had stopped.
+
+As they let go of the hug, Rarity noticed the sun setting.
+
+"Are we watching the sunset now? I think it's starting," Rarity said.
+
+"Yes, good eye," Pinkie complimented.
+
+The two ponies sat side by side, one hoof around each other. They leaned against each other, trying to get as close as possible.
+
+"I always knew I was going to love today, but I never expected this; it's like a dream come true," Rarity said tenderly.
+
+Pinkie waited a few seconds then replied, "You're my dream come true, that's why I did all this for you. Because I love you." She emphasized the last part by tightening her hold on Rarity.
+
+Rarity smiled wide, nuzzling Pinkie. "I love you too."
+
+They sat in silence after that and watched as the rays of sunlight thinned out behind the trees and buildings on the horizon.
+
+*Beautiful.*
+
+After the sun had set, they stayed sat like that for a few minutes. Neither pony wanted to break the embrace.
+
