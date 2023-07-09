@@ -1,4 +1,4 @@
-# A Hug and A Kiss
+# A Hug and a Kiss
 
 Mane Characters: 
 
@@ -23,7 +23,7 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 
 
 ### Story
-[A Hug and A Kiss](./a-hug-and-a-kiss.md)
+[A Hug and a Kiss](./a-hug-and-a-kiss.md)
 
 ### Cover
 
