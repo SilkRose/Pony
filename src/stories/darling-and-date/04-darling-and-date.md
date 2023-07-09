@@ -809,3 +809,90 @@ They sat in silence after that and watched as the rays of sunlight thinned out b
 
 After the sun had set, they stayed sat like that for a few minutes. Neither pony wanted to break the embrace.
 
+Pinkie stood up and offered Rarity her hoof, helping her up.
+
+"Thank you," Rarity said.
+
+Pinkie gestured for Rarity to walk with her. They slowly walked back towards town, pressed against each other.
+
+Pinkie broke the silence. "You know planning this date was a lot of fun, but also a lot of work. Do you think you can plan the next one?"
+
+"Absolutely, darling," Rarity answered.
+
+*I guess this amazing date is almost over.*
+
+They walked in silence until they got to the entrance of Sweet Apple Acres.
+
+"All our friends helped big time with this date. Twilight helped schedule it and got the royal chariot. Fluttershy helped make the dress. Applejack found that spot and setup the silverware and desert. Rainbow cleared the weather and practiced really hard for that show," Pinkie said.
+
+"That's wonderful, we have the best friends a pony could ask for," Rarity said.
+
+"We sure do," Pinkie said.
+
+Rarity waited a bit before commenting, "I don't know how I'm going to make a date as amazing as this, but I'll try, for you."
+
+"You're date could be us cuddling on the couch and I'd love every second of it."
+
+"I'd love that too, actually."
+
+Both mares giggled as an idea formed in Rarity's mind.
+
+*Maybe this night doesn't have to end so soon.*
+
+"You're walking me home, right?" Rarity asked.
+
+"Yes, sadly our date is almost over."
+
+"Okay."
+
+Pinkie started walking slower, postponing the end.
+
+Rarity followed suit.
+
+They stayed silent the rest of the walk as they enjoyed each others company, and occasionally exchanging nuzzles.
+
+"Here we are," Pinkie said in a somber tone as they stopped in front of Carousel Boutique.
+
+"Yes, the end of our first date. This was the best date ever, I loved every second."
+
+"Me too."
+
+"Now we kiss?" Rarity asked, knowing the answer.
+
+"Yes," Pinkie said, blushing.
+
+They kissed in the cool night air, both ponies pouring as much passion as they could into the kiss.
+
+After the kiss, Pinkie said, "Goodnight, Rarity."
+
+Rarity replied, "Goodnight, Pinkie."
+
+Pinkie was about to turn away when Rarity stopped her.
+
+"Pinkie, so our first date is now over?"
+
+"Yes."
+
+Rarity opened her door with her magic. "Would you like to go on our second date? My couch is free."
+
+Pinkie hugged Rarity with a big smile. "Yes."
+
+Rarity giggled, returning the hug.
+
+After the hug, Rarity led Pinkie into her house, and over to the couch.
+
+They laid on the couch, cuddled together. Rarity levitated a blanket over to them and covered them up.
+
+"this is cozy," Pinkie said before yawning.
+
+"Are you tired?" Rarity asked before yawning herself.
+
+"Maybe."
+
+Rarity giggled. "Goodnight, Pinkie."
+
+Pinkie kissed Rarity on the cheek. "Goodnight, Rarity."
+
+Rarity blushed and kissed Pinkie back on the cheek. "I love you."
+
+"Love you too!"
