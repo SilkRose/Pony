@@ -24,6 +24,36 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 
 ### Story
 [A Hug and a Kiss](./a-hug-and-a-kiss.md)
+ - They have a hugging contest.
+ - They go to Twilight's.
+ - Twilight talks to Pinkie in a way Dash can't hear.
+ - Dash and Pinkie both take naps at Twilight's.
+ - Twilight suggests Dash thinking about a relationship with Pinkie.
+ - Rarity says they look cute together.
+ - Rarity feeds them, embarrassing Dash.
+ - They agree to go to Fluttershy's next, but stop at Applejack's for a rest.
+ - Dash thinks more on what Twilight and Rarity said.
+ - Dash asks Applejack if she should date Pinkie.
+ - They go to Fluttershy's.
+ - Dash asks Fluttershy for advice on asking Pinkie out.
+ - They communicate though a chalkboard so Pinkie cannot hear.
+ - Fluttershy doesn't know, suggesting a kiss?
+ - Fluttershy offers to let them sleep in her bed, so they don't have to walk all the way back into town.
+ - Dash thinks about how much she's liked being with Pinkie all day.
+ - They fall asleep.
+ - Pinkie wakes up to discover she has won.
+ - Pinkie makes it look like Dash won.
+ - Dash is excited about winning then she calms down.
+ - Dash hugs Pinkie.
+ - Pinkie is confused.
+ - Dash asks for a kiss, remembering what Fluttershy said.
+ - Pinkie is shocked.
+ - They kiss.
+ - After the kiss, Pinkie feels bad an confesses that she actually won.
+ - Dash doesn't care, and asks Pinkie out.
+ - Pinkie says yes.
+ - Dash asks what Pinkie was going to ask for, since she won.
+ - Pinkie simply says a kiss.
 
 ### Cover
 
