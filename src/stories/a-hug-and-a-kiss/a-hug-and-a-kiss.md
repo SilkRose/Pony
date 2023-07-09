@@ -124,3 +124,17 @@ I close my eyes and nuzzle Pinkie's back, holding her tight, I fall asleep.
 
 ***
 
+I wake up sometime later. I can feel Pinkie's head resting on my back.
+
+*She might have took a nap too.*
+
+Looking around, I don't see Twilight.
+
+"Twilight," I call for her.
+
+Moments later, Twilight comes from downstairs. "Yes?" She says as she approaches the couch.
+
+"Is Pinkie asleep?"
+
+"Yes, I believe so."
+
