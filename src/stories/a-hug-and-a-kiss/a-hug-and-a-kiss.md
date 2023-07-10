@@ -212,3 +212,37 @@ We say goodbye to Twilight and manage to leave her house.
 
 ***
 
+Rarity opens the door with a smile, once she's seen us, her smiles grows wider.
+
+*Here we go.*
+
+I lead us inside, walking past Rarity. I walk us to the couch, where we sit down.
+
+Rarity says, "I must say, you two look positively adorable together."
+
+I was about to say something when Pinkie spoke, "Thank you."
+
+Rarity asked, "Is this some way of telling me you two are dating or something?"
+
+I lay my head on Pinkie's back, defeated.
+
+*Is everypony going to mention something about us dating?*
+
+Pinkie explains, "We're having a hugging contest, to see who can hold a hug the longest."
+
+"Oh, okay."
+
+I stop paying attention to there conversation as I try and enjoy Pinkie's embrace.
+
+I close my eyes and start to think.
+
+*That's two ponies who mentioned it, next thing you know, Fluttershy is going to tell me to kiss her.*
+
+*I don't know what to do, it sure seems like our friends want us to get together, or at least half of them do so far.*
+
+*I guess now is the time I'm thinking about dating Pinkie.*
+
+*So, Pinkie Pie.*
+
+*She's definitely soft.*
+
