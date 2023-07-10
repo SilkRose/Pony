@@ -240,9 +240,67 @@ I close my eyes and start to think.
 
 *I don't know what to do, it sure seems like our friends want us to get together, or at least half of them do so far.*
 
-*I guess now is the time I'm thinking about dating Pinkie.*
+*I guess now is a good time to think about dating Pinkie.*
 
 *So, Pinkie Pie.*
 
 *She's definitely soft.*
+
+Without thinking about it, I nuzzle Pinkie's back, reaffirming her softness.
+
+*She's really pretty.*
+
+*Beautiful, beautiful is what she is.*
+
+*So, I think my best friend is hot, that doesn't mean anything, right?*
+
+Rarity interrupts my thought process, making me suddenly aware of the blush intensifying on my face. "Rainbow, are you alright? Your face is rather flush."
+
+My stomach grumbles as I find my excuse. "I'm hungry, could you feed us?"
+
+*Nice save.*
+
+"Absolutely, darling, come on into the kitchen," Rarity says before leading up into the kitchen.
+
+We sit down in two chairs placed beside each other.
+
+I sigh as I realize what I have to ask.
+
+"Rarity, can you spoon feed us? We can't let go to eat…"
+
+I could hear the excitement in her voice. "Yes."
+
+Pinkie asks, "Do you have any peas and carrots?"
+
+*That actually sounds kinda good right now.*
+
+Rarity answers, "Yes, is that what you want too, Rainbow?"
+
+"Sure."
+
+Rarity gets the food out, going to Pinkie first. "Here comes the choo-choo train."
+
+*This is so embarrassing…*
+
+Pinkie excitedly goes with it. "Yay."
+
+Rarity says, "Chugga chugga choo choo," as I can hear her feed Pinkie.
+
+Rarity walks over to me with the food.
+
+I deflate her fun. "No, if you do it, I am leaving."
+
+"You're no fun."
+
+"If you want fun, have it with Pinkie."
+
+Rarity relents, "Okay."
+
+Rarity feeds me quietly before going back to Pinkie.
+
+With each round of food, I think of a new thought.
+
+*I wonder what I should pick when I win.*
+
+*Maybe I could prank Rarity.*
 
