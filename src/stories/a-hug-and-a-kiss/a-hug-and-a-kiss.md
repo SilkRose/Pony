@@ -118,7 +118,7 @@ They go on for a couple minutes, having a conversation I'm not allowed in.
 
 *Boo.*
 
-*If there going to exclude me, I might as well take a nap.*
+*If they're going to exclude me, I might as well take a nap.*
 
 I close my eyes and nuzzle Pinkie's back, holding her tight, I fall asleep.
 
@@ -137,4 +137,38 @@ Moments later, Twilight comes from downstairs. "Yes?" She says as she approaches
 "Is Pinkie asleep?"
 
 "Yes, I believe so."
+
+"How long have we been asleep?"
+
+"About an hour."
+
+"Okay, thanks for letting up nap here."
+
+"You're welcome, can we talk before you wake Pinkie up?"
+
+"Sure, what's up?"
+
+"I know you laughed it off earlier, but have you considered a relationship with Pinkie?"
+
+*Date Pinkie?*
+
+"Like a romantic one?"
+
+"Yes."
+
+"No, I haven't, why?"
+
+"I think it's something you should think about."
+
+"Do you think Pinkie likes me?"
+
+"I don't know, but she seemed really excited about you two being closer from this."
+
+"Okay, I'll think it through."
+
+"Thank you, for her sake."
+
+I lay my head back down on Pinkie as I think.
+
+*Date Pinkie? That's a big question…*
 
