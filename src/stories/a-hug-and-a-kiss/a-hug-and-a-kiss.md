@@ -172,3 +172,43 @@ I lay my head back down on Pinkie as I think.
 
 *Date Pinkie? That's a big question…*
 
+*I mean sure, I've enjoyed* most *of the time I've spent holding her today, but dating is a lot more serious of a consideration.*
+
+*I guess I got plenty of time to think about it.*
+
+I decide to put it off till later. Thinking about dating your best friend is a daunting task, okay?
+
+I nudge Pinkie with my head, trying to wake her. "Pinkie?"
+
+She doesn't respond. I try again. "Pinkie?"
+
+She starts to wake up, I feel her start to remove her forelegs from around me.
+
+"Stop!" I shout.
+
+Pinkie freezes as I feel her tense up. A moment later she relaxes. "thanks."
+
+"You're welcome."
+
+*I guess I wasn't ready to stop hugging her.*
+
+"Have a good nap?"
+
+"Yes, I had a nice and soft pillow."
+
+"Me too," Pinkie says as I can hear the blush in her voice.
+
+"Where should we go now? It would be rude and probably boring to stay on Twilight's couch all day."
+
+Pinkie takes a few seconds to think, eventually she says, "Let's go see Rarity."
+
+*Oh, great…*
+
+"Okay, but I'm walking forward this time."
+
+"Okay."
+
+We say goodbye to Twilight and manage to leave her house.
+
+***
+
