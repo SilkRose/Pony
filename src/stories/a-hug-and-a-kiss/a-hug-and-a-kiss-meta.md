@@ -10,6 +10,8 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 ### Description
 
 
+Cover done by irradiatedtittymilk on Discord.
+
 ### Short Description
 
 
@@ -57,3 +59,4 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 
 ### Cover
 
+![cover](./cover.png)
