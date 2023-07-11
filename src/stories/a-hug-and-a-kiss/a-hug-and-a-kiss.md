@@ -304,7 +304,13 @@ With each round of food, I think of a new thought.
 
 *Maybe I could prank Rarity.*
 
+*Or I could get her to wait in line for me for cider season.*
 
+*I could do something nice for her?*
+
+*Like do whatever she wanted if she won.*
+
+*I wonder what she wants?*
 
 As Rarity comes back to me, I notice she only has one spoon in her magic.
 
@@ -338,7 +344,7 @@ She comes over to me and whispers, "It's sound deadening, if we whisper she won'
 
 "What about? If I may ask."
 
-"Everything, this contest, the hug, my feelings. It all seems so overwhelming, and when I start to think about how I feel about her, I accidentally blush and get interrupted."
+"Everything, this contest, the hug, my feelings. It's all so overwhelming, and when I start to think about how I feel about her, I accidentally blush and get interrupted."
 
 "Well, if it's making you blush, then, there is something there, wouldn't you say?"
 
@@ -357,4 +363,60 @@ She comes over to me and whispers, "It's sound deadening, if we whisper she won'
 "Thanks…"
 
 "Sorry."
+
+"What should I do?"
+
+"Follow your heart."
+
+"What does that mean? I don't know what to think with all these emotions in my head. Pinkie is my best friend and I love her more than anything. I think she's more beautiful than even you. Sorry, no offence. I can't think straight when all I wanna do is hug her and not let go."
+
+Rarity throws me a curve ball. "What do you want from winning?"
+
+"I don't know, I had thought about making her do a prank, or buy me cider."
+
+"What do you think Pinkie wants from winning?"
+
+"I don't know, but from what Twilight said, she might want *me*, like to date me, or to kiss me."
+
+"Think about you and Pinkie kissing."
+
+I try and imagine us kissing.
+
+*I bet her lips would be so soft.*
+
+*She would be a good kisser.*
+
+*I… wound't mind kissing her.*
+
+I can feel a blush forming again on my face.
+
+"Did it go well?" Rarity asks with a smile.
+
+"Yes."
+
+"I think we're done here. I would recommend considering Pinkie's feelings when choosing your prize if you win."
+
+"Okay," I say. "I would give you a hug if I could, thank you."
+
+Rarity hugs me. "You're welcome, darling."
+
+After the hug, Rarity pulls the fabric off Pinkie. "Sorry it took so long, darling."
+
+"It's alright," Pinkie says.
+
+Rarity asks us, "Do either of you want more food?"
+
+Pinkie answers, "No, I'm good."
+
+"I'm full," I say.
+
+"You two are welcome, to stay for as long as you want, my couch is always free."
+
+"We've burdened you enough. Do you wanna go see Fluttershy?" I ask Pinkie.
+
+"Sure."
+
+We say our goodbyes to Rarity and leave her abode.
+
+***
 
