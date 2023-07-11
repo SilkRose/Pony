@@ -378,15 +378,15 @@ Rarity throws me a curve ball. "What do you want from winning?"
 
 "I don't know, but from what Twilight said, she might want *me*, like to date me, or to kiss me."
 
-"Think about you and Pinkie kissing."
+"Do me a favor, think about you and Pinkie kissing."
 
-I try and imagine us kissing.
+I close my eyes and imagine us kissing.
 
-*I bet her lips would be so soft.*
+*I bet her lips would be super soft.*
 
 *She would be a good kisser.*
 
-*I… wouldn't mind kissing her.*
+*I wouldn't mind kissing her.*
 
 I can feel a blush forming again on my face.
 
