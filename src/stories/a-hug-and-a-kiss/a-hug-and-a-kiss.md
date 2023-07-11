@@ -132,7 +132,7 @@ Looking around, I don't see Twilight.
 
 "Twilight," I call for her.
 
-Moments later, Twilight comes from downstairs. "Yes?" She says as she approaches the couch.
+Moments later, Twilight comes from upstairs. "Yes?" She says as she approaches the couch.
 
 "Is Pinkie asleep?"
 
@@ -228,7 +228,7 @@ I lay my head on Pinkie's back, defeated.
 
 *Is everypony going to mention something about us dating?*
 
-Pinkie explains, "We're having a hugging contest, to see who can hold a hug the longest."
+Pinkie explains, "We're having a hugging contest, to see who can hold a hug the longest. Winner gets whatever they want from the loser."
 
 "Oh, okay."
 
@@ -366,7 +366,7 @@ She comes over to me and whispers, "It's sound deadening, if we whisper she won'
 
 "What should I do?"
 
-"Follow your heart."
+"Follow your heart, darling."
 
 "What does that mean? I don't know what to think with all these emotions in my head. Pinkie is my best friend and I love her more than anything. I do think she's more beautiful than even you. Sorry, no offence. I can't think straight when all I wanna do is hug her and not let go."
 
@@ -386,7 +386,7 @@ I try and imagine us kissing.
 
 *She would be a good kisser.*
 
-*I… wound't mind kissing her.*
+*I… wouldn't mind kissing her.*
 
 I can feel a blush forming again on my face.
 
