@@ -2,7 +2,7 @@
 
 I open the door to Pinkie's room and trot inside.
 
-"Hi, Dashie," Pinkie says to me.
+"Hi Dashie," Pinkie says to me.
 
 "Hey, I'm bored, wanna do something?"
 
@@ -126,7 +126,7 @@ I close my eyes and nuzzle Pinkie's back, holding her tight, I fall asleep.
 
 I wake up sometime later. I can feel Pinkie's head resting on my back.
 
-*She might have took a nap too.*
+*She must have taken a nap too.*
 
 Looking around, I don't see Twilight.
 
@@ -142,7 +142,7 @@ Moments later, Twilight comes from downstairs. "Yes?" She says as she approaches
 
 "About an hour."
 
-"Okay, thanks for letting up nap here."
+"Okay, thanks for letting us nap here."
 
 "You're welcome, can we talk before you wake Pinkie up?"
 
@@ -186,7 +186,7 @@ She starts to wake up, I feel her start to remove her forelegs from around me.
 
 "Stop!" I shout.
 
-Pinkie freezes as I feel her tense up. A moment later she relaxes. "thanks."
+Pinkie freezes as I feel her tense up. A moment later she relaxes. "Thanks."
 
 "You're welcome."
 
@@ -256,11 +256,11 @@ Without thinking about it, I nuzzle Pinkie's back, reaffirming her softness.
 
 Rarity interrupts my thought process, making me suddenly aware of the blush intensifying on my face. "Rainbow, are you alright? Your face is rather flush."
 
-My stomach grumbles as I find my excuse. "I'm hungry, could you feed us?"
+My stomach grumbles and I find my excuse. "I'm hungry, could you feed us?"
 
 *Nice save.*
 
-"Absolutely, darling, come on into the kitchen," Rarity says before leading up into the kitchen.
+"Absolutely darling, come on into the kitchen," Rarity says before leading us into the kitchen.
 
 We sit down in two chairs placed beside each other.
 
@@ -268,7 +268,7 @@ I sigh as I realize what I have to ask.
 
 "Rarity, can you spoon feed us? We can't let go to eat…"
 
-I could hear the excitement in her voice. "Yes."
+I can hear the excitement in her voice. "Yes."
 
 Pinkie asks, "Do you have any peas and carrots?"
 
@@ -368,7 +368,7 @@ She comes over to me and whispers, "It's sound deadening, if we whisper she won'
 
 "Follow your heart."
 
-"What does that mean? I don't know what to think with all these emotions in my head. Pinkie is my best friend and I love her more than anything. I think she's more beautiful than even you. Sorry, no offence. I can't think straight when all I wanna do is hug her and not let go."
+"What does that mean? I don't know what to think with all these emotions in my head. Pinkie is my best friend and I love her more than anything. I do think she's more beautiful than even you. Sorry, no offence. I can't think straight when all I wanna do is hug her and not let go."
 
 Rarity throws me a curve ball. "What do you want from winning?"
 
@@ -410,7 +410,7 @@ Pinkie answers, "No, I'm good."
 
 "I'm full," I say.
 
-"You two are welcome, to stay for as long as you want, my couch is always free."
+"You two are welcome to stay for as long as you want, my couch is always free."
 
 "We've burdened you enough. Do you wanna go see Fluttershy?" I ask Pinkie.
 
