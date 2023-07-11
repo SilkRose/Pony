@@ -420,3 +420,121 @@ We say our goodbyes to Rarity and leave her abode.
 
 ***
 
+Fluttershy opens her door before looking at us. She opens her mouth in surprise as her eyes widen.
+
+I say, "Hi, could we come in?"
+
+"Sure, what's going on?" Fluttershy asks.
+
+I lead us inside her cottage and over to the couch before we sit down.
+
+I explain, "Me and Pinkie are having a contest to see who can hug the longest. Winner gets a prize from the loser."
+
+"Oh, my, how are you holding up?" Fluttershy says.
+
+Pinkie answers first. "I'm good, having lots of fun."
+
+Fluttershy turns to me.
+
+I say, "I'm alright, kinda exhausted from having to walk like this, but other than that, its been fun."
+
+"How long do you think the contest will last?" Fluttershy asks with concern.
+
+"As long as it takes to win," I say with confidence.
+
+"How long has it been so far?"
+
+"Over seven hours."
+
+"What are you going to pick if you win?"
+
+"I don't know yet. I've had some ideas, but I'll pick something when I win."
+
+Fluttershy turns to Pinkie, awaiting her response.
+
+"I have an idea of what I want…" Pinkie says in a higher pitch.
+
+*Is she embarrassed?*
+
+*Is she talking about me?*
+
+The thought makes me blush.
+
+*Stupid face.*
+
+Thankfully, Fluttershy doesn't say anything about it.
+
+"Where have you been for all that time?"
+
+Pinkie answers, "We started the contest in my room, then, we went to Twilight's and took a nap. After that, we went to Rarity's and she fed us. Now, we're here."
+
+"Do you need anything from me? I'm happy to help."
+
+"I'm all good," Pinkie says.
+
+"Do you have a chalkboard?" I ask.
+
+"I'll look, I should somewhere," Fluttershy says before she starts looking.
+
+Pinkie puts her head on my back, sighing.
+
+*Is she annoyed?*
+
+*No way, right?*
+
+I turn my head a whisper to Pinkie, "Are you alright?"
+
+She says, "Yea," in a somber tone.
+
+*Maybe we should have a talk later.*
+
+Fluttershy returns with a small chalkboard as the reason for Pinkie's demeanor change doesn't register to me.
+
+I take the chalk in my mouth as Fluttershy holds the board for me.
+
+I write, 'Should I ask Pinkie out?'
+
+She erases the board and writs, 'Do you like her?'
+
+She erases the board for me.
+
+I write, 'I think so.'
+
+She writes, 'Does Pinkie like you?'
+
+I write, 'I think so.'
+
+Fluttershy writes something on the board I can't see and takes it to Pinkie.
+
+*What's she doing?*
+
+I feel Pinkie lift her head. She nods and then nuzzles my back.
+
+*What'd she ask her?*
+
+Fluttershy comes back and erases the board before writing, 'She does.'
+
+At the realization of what she asked her, my face blushes intensely.
+
+Fluttershy writes, 'I think you like her too.'
+
+My blush deepens as I write, 'does she think I'm pretty?'
+
+Fluttershy writes something new of the board before taking it to Pinkie again.
+
+Pinkie nods enthusiastically before she hugs me a little tighter.
+
+Fluttershy comes back to me and writes, 'Yes, very much so.'
+
+I write, 'What should I do?'
+
+Fluttershy writes, 'I don't know, kiss her?'
+
+I write, 'I'll kiss her once I win.'
+
+Fluttershy smiles as she writes something on the board, she shows it to Pinkie before erasing it.
+
+*What did she write?*
+
+*I guess secrecy works both ways.*
+
