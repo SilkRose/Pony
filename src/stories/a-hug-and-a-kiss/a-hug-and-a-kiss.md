@@ -304,3 +304,57 @@ With each round of food, I think of a new thought.
 
 *Maybe I could prank Rarity.*
 
+
+
+As Rarity comes back to me, I notice she only has one spoon in her magic.
+
+*We've been sharing a spoon.*
+
+The thought makes me blush.
+
+Rarity notices. "Rainbow, are you sure you're alright? Your face is red again."
+
+I decide we need to have a chat. "Rarity, can we talk, in private?"
+
+"Sure," Rarity says before she goes in the other room for a moment, coming back with some black cloth.
+
+Rarity levitates it over to Pinkie. "Pinkie, I need to talk with Rainbow, is it okay if I cover your head for privacy?"
+
+"Okay," Pinkie says.
+
+Rarity covers Pinkie's head with the fabric.
+
+She comes over to me and whispers, "It's sound deadening, if we whisper she won't be able to hear."
+
+"Okay," I whisper.
+
+"What's going on?"
+
+"I think Pinkie has a crush on me."
+
+"Oh, do you like her back?"
+
+"I don't know, I'm conflicted."
+
+"What about? If I may ask."
+
+"Everything, this contest, the hug, my feelings. It all seems so overwhelming, and when I start to think about how I feel about her, I accidentally blush and get interrupted."
+
+"Well, if it's making you blush, then, there is something there, wouldn't you say?"
+
+"Yes, but how do I know that isn't just from hugging her for hours straight?"
+
+"How have you liked hugging her so far?"
+
+"To be honest, way more than I expected."
+
+"Pinkie has blushed more than you since you've been here."
+
+"Why didn't you say anything about her blushing?"
+
+"It's more fun to tease you."
+
+"Thanks…"
+
+"Sorry."
+
