@@ -5,5 +5,11 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Fluttershy",
+    "Dashie",
+    "everypony",
+    "somepony"
+  ]
 }
