@@ -662,7 +662,7 @@ I can feel Rainbow rustling awake.
 
 *Oh, no!*
 
-My tears are now uncontrollable as I cry openly.
+My tears flow freely as I cry openly.
 
 *What have I done?*
 
@@ -698,11 +698,15 @@ I consul her, "I don't care, all I want is for you to be happy. Don't cry becaus
 
 "I had so much fun hugging you all day… I just wanted you to be happy like you made me… So I made it look like you won."
 
-"I didn't even notice, winning some contest means nothing when my best friend is crying."
+"I didn't even notice. Winning some contest means nothing when my best friend is crying her eyes out."
 
 "I'm sorry…"
 
-"Apology accepted, now what do you want for winning?"
+"Apology accepted," I say as I wipe away more tears and then nuzzle her.
+
+Her tears slow as she says, "Thank you…"
+
+I ask, "Now what do you want for winning?"
 
 "What about what you want? I want you to be happy."
 
@@ -717,4 +721,20 @@ We both say in unison, "A kiss."
 We look at each other shocked.
 
 Moments later we both blush.
+
+I slowly pull her closer, staring into her beautiful eyes.
+
+Our lips meet as her eyes sparkle.
+
+I savor the moment, her soft lips, my hooves holding her, her teary eyes.
+
+My eyes start to water too.
+
+*It's everything I imagined, and more.*
+
+We hold the kiss for a while, until I unfortunately end it.
+
+"Pinkie…" I breath.
+
+"Dashie…" Pinkie breathes.
 
