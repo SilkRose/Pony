@@ -257,6 +257,14 @@ Pinkie has a crush on Twilight, one day she goes over to Twilight's, who is read
 
 ***
 
+
+## Unnamed Rainbow x Rarity romance story
+
+### Synopsis:
+Rainbow has a crush on Rarity, she wants to spend more time with her. She decides to break something belonging to Rarity and offer to help work at her shop to pay it off. They bond while Rainbow works there. Eventually, Rainbow fesses up to doing it on purpose. She apologizes and admits to having a crush on her. Rarity is flattered that she would do that, but says she should have just asked her out. Rarity asks Rainbow out and they kiss.
+
+***
+
 ## Unnamed Chrysalis as Twilight romance story
 
 ### Synopsis:
