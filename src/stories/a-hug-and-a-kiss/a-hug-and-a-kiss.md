@@ -222,7 +222,7 @@ Rarity says, "I must say, you two look positively adorable together."
 
 I was about to say something when Pinkie spoke, "Thank you."
 
-Rarity asked, "Is this some way of telling me you two are dating or something?"
+Rarity asks, "Is this some way of telling me you two are dating or something?"
 
 I lay my head on Pinkie's back, defeated.
 
@@ -494,7 +494,7 @@ I take the chalk in my mouth as Fluttershy holds the board for me.
 
 I write, 'Should I ask Pinkie out?'
 
-She erases the board and writs, 'Do you like her?'
+She erases the board and writes, 'Do you like her?'
 
 She erases the board for me.
 
@@ -532,9 +532,55 @@ Fluttershy writes, 'I don't know, kiss her?'
 
 I write, 'I'll kiss her once I win.'
 
-Fluttershy smiles as she writes something on the board, she shows it to Pinkie before erasing it.
+Fluttershy nods.
 
-*What did she write?*
+Soon after, I yawn, followed by Pinkie.
 
-*I guess secrecy works both ways.*
+*Looks like we're both tired.*
+
+Fluttershy says, "It's getting late, you two should sleep here."
+
+I say, "I'm okay with that, Pinkie?"
+
+"Sounds good to me."
+
+Fluttershy continues, "You should take my bed, it's a lot bigger than the couch, and more comfortable."
+
+I ask, "Are you sure?"
+
+Fluttershy insists, "Yes."
+
+"Okay, thank you."
+
+Pinkie says, "Thanks."
+
+We get up from the couch and say goodnight to Fluttershy.
+
+We fumble our way up the stairs and fall onto the bed.
+
+I lay my head down on Pinkie's back and she does the same to me.
+
+I close my eyes as I start to think about kissing Pinkie again.
+
+*Staring into those beautiful blue eyes.*
+
+*Her hooves tenderly wrapped around me.*
+
+*Those soft lips pressing against mine.*
+
+As I'm fantasizing about kissing my best friend, it hits me.
+
+*I want Pinkie Pie.*
+
+*I want to date her.*
+
+*I want to kiss her.*
+
+*I want to hug her… romantically.*
+
+I can feel a massive blush on my face as I try to think of how to handle this.
+
+*I should wait till after this contest to talk to her.*
+
+*It would be awful since we can't see each others faces.*
 
