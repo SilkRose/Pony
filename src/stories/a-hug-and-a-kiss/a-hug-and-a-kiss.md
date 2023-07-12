@@ -42,7 +42,7 @@ I hug back as I realize what I just agreed too.
 
 *So, this is my life now.*
 
-As we hug, I cant help but notice how soft Pinkie is.
+As we hug, I can't help but notice how soft Pinkie is.
 
 *I guess our normal hugs don't last long enough to notice.*
 
@@ -50,7 +50,7 @@ Pinkie comments, "This is nice."
 
 I agree, surprisingly. "Yep."
 
-A few minutes into the hug I don't know what to do. "So, what now?"
+A few minutes into the hug, I don't know what to do. "So, what now?"
 
 "What do you wanna do?"
 
@@ -60,7 +60,7 @@ A few minutes into the hug I don't know what to do. "So, what now?"
 
 "Okay, let's go."
 
-With that we shamble to the door, opening it slowly.
+With that, we shamble to the door, opening it slowly.
 
 *This is going to be a rough day…*
 
@@ -78,7 +78,7 @@ We shuffle into her tree house.
 
 "Go for the couch, Pinkie, I need to sit down," I say.
 
-We make our way to her couch and sit down. I breath a sigh of relief.
+We make our way to her couch and sit down. I breathe a sigh of relief.
 
 *Phew.*
 
@@ -108,13 +108,13 @@ I don't get an answer, probably because I didn't as a question.
 
 I can hear Twilight moving something around before I hear chalk on a chalkboard.
 
-Seconds later I feel Pinkie nod.
+Seconds later, I feel Pinkie nod.
 
 "What's going on?" I ask.
 
 "I'm talking to Pinkie, in private. Sorry," Twilight says.
 
-They go on for a couple minutes, having a conversation I'm not allowed in.
+They go on for a couple of minutes, having a conversation I'm not allowed in.
 
 *Boo.*
 
@@ -172,7 +172,7 @@ I lay my head back down on Pinkie as I think.
 
 *Date Pinkie? That's a big question…*
 
-*I mean sure, I've enjoyed* most *of the time I've spent holding her today, but dating is a lot more serious of a consideration.*
+*I mean, sure, I've enjoyed* most *of the time I've spent holding her today, but dating is a lot more serious of a consideration.*
 
 *I guess I got plenty of time to think about it.*
 
@@ -186,7 +186,7 @@ She starts to wake up, I feel her start to remove her forelegs from around me.
 
 "Stop!" I shout.
 
-Pinkie freezes as I feel her tense up. A moment later she relaxes. "Thanks."
+Pinkie freezes as I feel her tense up. A moment later, she relaxes. "Thanks."
 
 "You're welcome."
 
@@ -212,7 +212,7 @@ We say goodbye to Twilight and manage to leave her house.
 
 ***
 
-Rarity opens the door with a smile, once she's seen us, her smiles grows wider.
+Rarity opens the door with a smile, once she's seen us, her smiles grew wider.
 
 *Here we go.*
 
@@ -228,11 +228,11 @@ I lay my head on Pinkie's back, defeated.
 
 *Is everypony going to mention something about us dating?*
 
-Pinkie explains, "We're having a hugging contest, to see who can hold a hug the longest. Winner gets whatever they want from the loser."
+Pinkie explains, "We're having a hugging contest, to see who can hold a hug the longest. The winner gets whatever they want from the loser."
 
 "Oh, okay."
 
-I stop paying attention to there conversation as I try and enjoy Pinkie's embrace.
+I stop paying attention to their conversation as I try and enjoy Pinkie's embrace.
 
 I close my eyes and start to think.
 
@@ -266,7 +266,7 @@ We sit down in two chairs placed beside each other.
 
 I sigh as I realize what I have to ask.
 
-"Rarity, can you spoon feed us? We can't let go to eat…"
+"Rarity, can you spoon-feed us? We can't let go to eat…"
 
 I can hear the excitement in her voice. "Yes."
 
@@ -278,7 +278,7 @@ Rarity answers, "Yes, is that what you want too, Rainbow?"
 
 "Sure."
 
-Rarity gets the food out, going to Pinkie first. "Here comes the choo-choo train."
+Rarity gets the food out, going to Pinkie first. "Here comes the choo choo train."
 
 *This is so embarrassing…*
 
@@ -308,7 +308,7 @@ With each round of food, I think of a new thought.
 
 *I could do something nice for her?*
 
-*Like do whatever she wanted if she won.*
+*Like, do whatever she wanted if she won.*
 
 *I wonder what she wants?*
 
@@ -330,7 +330,7 @@ Rarity levitates it over to Pinkie. "Pinkie, I need to talk with Rainbow, is it 
 
 Rarity covers Pinkie's head with the fabric.
 
-She comes over to me and whispers, "It's sound deadening, if we whisper she won't be able to hear."
+She comes over to me and whispers, "It's sound deadening, if we whisper, she won't be able to hear."
 
 "Okay," I whisper.
 
@@ -368,9 +368,9 @@ She comes over to me and whispers, "It's sound deadening, if we whisper she won'
 
 "Follow your heart, darling."
 
-"What does that mean? I don't know what to think with all these emotions in my head. Pinkie is my best friend and I love her more than anything. I do think she's more beautiful than even you. Sorry, no offence. I can't think straight when all I wanna do is hug her and not let go."
+"What does that mean? I don't know what to think with all these emotions in my head. Pinkie is my best friend and I love her more than anything. I do think she's more beautiful than even you. Sorry, no offense. I can't think straight when all I wanna do is hug her and not let go."
 
-Rarity throws me a curve ball. "What do you want from winning?"
+Rarity throws me a curveball. "What do you want from winning?"
 
 "I don't know, I had thought about making her do a prank, or buy me cider."
 
@@ -436,7 +436,7 @@ Pinkie answers first. "I'm good, having lots of fun."
 
 Fluttershy turns to me.
 
-I say, "I'm alright, kinda exhausted from having to walk like this, but other than that, its been fun."
+I say, "I'm alright, kinda exhausted from having to walk like this, but other than that, it's been fun."
 
 "How long do you think the contest will last?" Fluttershy asks with concern.
 
@@ -558,7 +558,7 @@ We get up from the couch and say goodnight to Fluttershy.
 
 We fumble our way up the stairs and fall onto the bed.
 
-I lay my head down on Pinkie's back and she does the same to me.
+I lay my head down on Pinkie's back, and she does the same to me.
 
 I close my eyes as I start to think about kissing Pinkie again.
 
@@ -582,7 +582,7 @@ I can feel a massive blush on my face as I try to think of how to handle this.
 
 *I should wait till after this contest to talk to her.*
 
-*It would be awful right now since we can't see each others face.*
+*It would be awful right now since we can't see each other's face.*
 
 I decide to think about it more tomorrow. I need to sleep.
 
@@ -590,7 +590,7 @@ I decide to think about it more tomorrow. I need to sleep.
 
 "Goodnight, Dashie."
 
-I nuzzle her back and she nuzzles mine in turn.
+I nuzzle her back, and she nuzzles mine in turn.
 
 *I love you, Pinkie.*
 
@@ -694,7 +694,7 @@ I pull her close, holding her.
 
 She averts her gaze. "I cheated," she says as more tears flow.
 
-I consul her, "I don't care, all I want is for you to be happy. Don't cry because of me."
+I console her, "I don't care, all I want is for you to be happy. Don't cry because of me."
 
 "I had so much fun hugging you all day… I just wanted you to be happy like you made me… So I made it look like you won."
 
@@ -720,7 +720,7 @@ We both say in unison, "A kiss."
 
 We look at each other shocked.
 
-Moments later we both blush.
+Moments later, we both blush.
 
 I slowly pull her closer, staring into her beautiful eyes.
 
@@ -728,13 +728,13 @@ Our lips meet as her eyes sparkle.
 
 I savor the moment, her soft lips, my hooves holding her, her teary eyes.
 
-My eyes start to water too.
+My eyes start to water, too.
 
 *It's everything I imagined, and more.*
 
 We hold the kiss for a while, until I unfortunately end it.
 
-"Pinkie…" I breath.
+"Pinkie…" I breathe.
 
 "Dashie…" Pinkie breathes.
 
