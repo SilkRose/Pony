@@ -232,7 +232,7 @@ Pinkie explains, "We're having a hugging contest, to see who can hold a hug the 
 
 "Oh, okay."
 
-I stop paying attention to their conversation as I try and enjoy Pinkie's embrace.
+I stop paying attention to their conversation as I try to enjoy Pinkie's embrace.
 
 I close my eyes and start to think.
 
@@ -678,7 +678,7 @@ I hear somepony crying, looking down, I see it's Pinkie.
 
 *She's crying!*
 
-I try and comfort her.
+I try to comfort her.
 
 "Shh," I say as I hold her tighter.
 
