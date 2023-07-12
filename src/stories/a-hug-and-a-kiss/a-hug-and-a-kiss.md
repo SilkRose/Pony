@@ -582,5 +582,139 @@ I can feel a massive blush on my face as I try to think of how to handle this.
 
 *I should wait till after this contest to talk to her.*
 
-*It would be awful since we can't see each others faces.*
+*It would be awful right now since we can't see each others face.*
+
+I decide to think about it more tomorrow. I need to sleep.
+
+"Goodnight, Pinkie."
+
+"Goodnight, Dashie."
+
+I nuzzle her back and she nuzzles mine in turn.
+
+*I love you, Pinkie.*
+
+***
+
+I wake up to a face full of rainbow mane.
+
+*Did she turn over?*
+
+I lift my head up, seeing Rainbow is facing the other way, no longer holding me.
+
+*Oh, no!*
+
+I lay my head back down, thinking.
+
+*She wanted to win so badly…*
+
+*I wanted the hug to last longer…*
+
+*What do I do?*
+
+*Do I wake her up?*
+
+*It would be okay if I enjoyed holding her for a bit longer before I wake her up, right?*
+
+I nuzzle Rainbow's mane as I hold her tighter.
+
+*I love you, Rainbow.*
+
+*I just wish I could tell you…*
+
+*I guess my prize will reveal it.*
+
+*I wish I knew what you and Rarity had talked about, and why Fluttershy asked me those questions.*
+
+*Makes me think you like me, but that's probably just me overthinking everything again.*
+
+*This hug has made me so happy, I enjoyed every second.*
+
+*I just wish I could make you that happy.*
+
+*That's why I kinda wanted you to win.*
+
+*To bring you the happiness this hug has given me.*
+
+*Maybe I still can…*
+
+*Do I make it look like she won?*
+
+*That means I don't get my…*
+
+*It feels so wrong to lie…*
+
+*I'm sorry…*
+
+Silent tears slowly flow from my eyes as I quietly move to the other side of Rainbow.
+
+I pull her legs around me as I lay there crying.
+
+*I'm doing this for you…*
+
+I feel so bad for lying that I can't control my tears and start to cry audible.
+
+I hold Rainbow's hoof to my chest.
+
+*No going back now…*
+
+I can feel Rainbow rustling awake.
+
+*Oh, no!*
+
+My tears are now uncontrollable as I cry openly.
+
+*What have I done?*
+
+***
+
+I wake up to a face full of pink mane.
+
+I feel my hooves wrapped around Pinkie, and what feels like a rapid heartbeat in the right one.
+
+I lift my head up, noticing Pinkie is facing away from me.
+
+I hear somepony crying, looking down, I see it's Pinkie.
+
+*She's crying!*
+
+I try and comfort her.
+
+"Shh," I say as I hold her tighter.
+
+I hear her crying slow as I nuzzle her.
+
+I use my hooves and motion for her to turn over and face me.
+
+As she looks at me, I can see the tears falling down her face. I wipe them away with my foreleg.
+
+I pull her close, holding her.
+
+"What's wrong?" I ask gently.
+
+She averts her gaze. "I cheated," she says as more tears flow.
+
+I consul her, "I don't care, all I want is for you to be happy. Don't cry because of me."
+
+"I had so much fun hugging you all day… I just wanted you to be happy like you made me… So I made it look like you won."
+
+"I didn't even notice, winning some contest means nothing when my best friend is crying."
+
+"I'm sorry…"
+
+"Apology accepted, now what do you want for winning?"
+
+"What about what you want? I want you to be happy."
+
+"Why don't we both say what we want at the same time, sound good?"
+
+"Okay."
+
+I count us down, "Three, two, one."
+
+We both say in unison, "A kiss."
+
+We look at each other shocked.
+
+Moments later we both blush.
 
