@@ -1,6 +1,6 @@
 # Dressmaking and Determination
 
-Pinkie Pie carefully placed the cake into the over, closing the door. She set the timer then started cleaning up the kitchen.
+Pinkie Pie carefully placed the cake into the over, closing the door. She set the timer, then started cleaning up the kitchen.
 
 *I just know Rarity will love this cake*, she thought excitedly to herself.
 
@@ -60,7 +60,7 @@ Bolts of fabric flew from the bag, landing on every corner of her bedspread. The
 
 Pinkie pointed to each one as she said its color. "White, blue, pink, purple, light blue, green, light pink."
 
-Pinkie looked inside the bag, finding dozens of differently colored gemstones. "There's more in here," she said as she dumped then in the center of her bed.
+Pinkie looked inside the bag, finding dozens of differently colored gemstones. "There's more in here," she said as she dumped them in the center of her bed.
 
 "Looks like we have a lot to work with," Fluttershy said.
 
@@ -104,11 +104,11 @@ A few seconds later, Fluttershy asked, "how long do you want the dress to be? Do
 
 "Let's make it long, more regal like, I think," Pinkie answered.
 
-"Okay, I need you to hold up the skirt so I can cut it at the right length," Fluttershy said.
+"Okay, I need you to hold up the skirt, so I can cut it at the right length," Fluttershy said.
 
 "Okay," Pinkie said as she lifted the skirt in her hooves, spreading it out behind the ponnequin.
 
-Fluttershy carefully went around in a circle cutting the fabric at the right length. After the cut was over, Pinkie let the fabric hang.
+Fluttershy carefully went around in a circle, cutting the fabric at the right length. After the cut was over, Pinkie let the fabric hang.
 
 Taking a step back, both mares looked at the newly cut skirt.
 
@@ -140,13 +140,13 @@ Pinkie imagined the trim on the dress, *hmm.* She held her hoof up to her imagin
 
 Fluttershy held the purple strip up to the skirt, aligning it. "Can you hold this?" Fluttershy asked.
 
-Pinkie held it as Fluttershy pinned it with a safely pin.
+Pinkie held it as Fluttershy pinned it with a safety pin.
 
-"Every time I add a pin, move a few inches along and I'll pin it again," Fluttershy explained.
+"Every time I add a pin, move a few inches along, and I'll pin it again," Fluttershy explained.
 
 They worked together slowly getting the purple trim held in place, occasionally stopping to cut more purple fabric.
 
-"There," Fluttershy said as they finished. "Now it's held in place we can sew it on."
+"There," Fluttershy said as they finished. "Now it's held in place, we can sew it on."
 
 Fluttershy looked at Pinkie. "Do you have a sewing needle and thread?"
 
@@ -168,7 +168,7 @@ Fluttershy answered, "Not right now, you can go."
 
 "You're welcome," Fluttershy said with a smile.
 
-With that Pinkie trotted out of the room, making her way downstairs.
+With that, Pinkie trotted out of the room, making her way downstairs.
 
 She turned the corner at the bottom of the stairs and sees Rainbow walking towards her.
 
@@ -180,17 +180,17 @@ She turned the corner at the bottom of the stairs and sees Rainbow walking towar
 
 Pinkie checked the timer, *still a while till the cake is ready.*
 
-Pinkie got out a box of pancake mix and a big bowl, and two of everything they needed: frying pan, mixing bowl, various measuring cups, whisk, plate and spatula.
+Pinkie got out a box of pancake mix and a big bowl, and two of everything they needed: frying pan, mixing bowl, various measuring cups, whisk, plate, and spatula.
 
 Pinkie turned to Rainbow. "We are going to start with making pancakes from pancake mix, this will help you learn the basics."
 
 Rainbow said, "Okay."
 
-Pinkie continued, "After we are good with these we will move onto homemade pancakes."
+Pinkie continued, "After we are good with these, we will move onto homemade pancakes."
 
 Rainbow said, "Okay, I'm excited to learn."
 
-Pinkie finished, "I'm going to make pancakes right beside you so you can watch and ask questions."
+Pinkie finished, "I'm going to make pancakes right beside you, so you can watch and ask questions."
 
 "Sounds good," Rainbow said.
 
@@ -250,13 +250,13 @@ Pinkie waited for Rainbow to be ready to pour, once ready they poured in the sam
 
 Pinkie picked up her spatula, Rainbow mimicking her.
 
-About ninety seconds later Pinkie flipped her pancake, Rainbow watched and then flipped her own, almost dropping it in the process.
+About ninety seconds later, Pinkie flipped her pancake, Rainbow watched and then flipped her own, almost dropping it in the process.
 
 "You're doing good," Pinkie said.
 
 "Thanks," Rainbow said.
 
-Sixty seconds later Pinkie picked up her pancake and laid it on her plate, Rainbow doing the same.
+Sixty seconds later, Pinkie picked up her pancake and laid it on her plate, Rainbow doing the same.
 
 "You did it!" Pinkie exclaimed excitedly.
 
@@ -270,7 +270,7 @@ Pinkie took a closer look at Rainbow's pancake. "It definitely is a beginner pan
 
 "Okay," Rainbow said.
 
-With that they both made three more pancakes, making a total of four each.
+With that, they both made three more pancakes, making a total of four each.
 
 Pinkie noticed Rainbow's quality going up somewhat with each one Rainbow made.
 
@@ -296,7 +296,7 @@ Pinkie walked into her room and saw Fluttershy sitting in front of the dress.
 
 "Good, I finished the trim, now I'm trying to think of what to do next," Fluttershy said.
 
-Pinkie looked at the dress. *it looks good so far, the purple makes it pop.*
+Pinkie looked at the dress. *It looks good so far, the purple makes it pop.*
 
 "Got any ideas so far?" Pinkie asked, looking back at Fluttershy.
 
@@ -328,7 +328,7 @@ Pinkie walked to the ponnequin and held the sleeve on one of the front legs. "Th
 
 "Yes," Fluttershy said as she pinned it to the main fabric of the dress.
 
-Fluttershy slowly pinned the sleeve together, going from top to bottom making sure it had equal circumference all the way down.
+Fluttershy slowly pinned the sleeve together, going from top to bottom, making sure it had equal circumference all the way down.
 
 "Okay, now I want you to sew it," Fluttershy stated.
 
@@ -342,7 +342,7 @@ Fluttershy slowly pinned the sleeve together, going from top to bottom making su
 
 *Looks like Rainbow isn't the only one learning something today.*
 
-"We're going to use white thread so it will be harder to see the seems," Fluttershy explained.
+"We're going to use white thread, so it will be harder to see the seems," Fluttershy explained.
 
 "Okay," Pinkie said.
 
@@ -352,17 +352,17 @@ Pinkie took it between her hooves.
 
 Fluttershy explained, "To sew, you need to push the needle through the two layers and back out, over and over, moving a little bit with each puncture."
 
-"How do you hold the fabric so it doesn't move?" Pinkie asked.
+"How do you hold the fabric, so it doesn't move?" Pinkie asked.
 
-"Since I'm here, I'll just hold the fabric for you, but if your by yourself you can hold it with your face, by pushing against it, or sometimes I've bitten the fabric and stuck it straight through," Fluttershy explained.
+"Since I'm here, I'll just hold the fabric for you, but if you're by yourself you can hold it with your face, by pushing against it, or sometimes I've bitten the fabric and stuck it straight through," Fluttershy explained.
 
-"Okay," Pinkie said as she moved the needle up to the fabric, she waited for Fluttershy to take the fabric in her hooves, holding it taught so she could pierce it.
+"Okay," Pinkie said as she moved the needle up to the fabric, she waited for Fluttershy to take the fabric in her hooves, holding it taut so she could pierce it.
 
 Pinkie applied pressure as she felt the needle puncture both layers.
 
 "Good, now bring it back through, turn the need and apply pressure so you can see where it's coming back out at," Fluttershy said.
 
-Pinkie did as instructed, rotating the needle so it was flat with the fabric, almost losing grip as she saw the imprint of the needle. She pulled more and pressed down, seeing the need come back through.
+Pinkie did as instructed, rotating the needle, so it was flat with the fabric, almost losing grip as she saw the imprint of the needle. She pulled more and pressed down, seeing the need come back through.
 
 "I did it!" Pinkie exclaimed excitedly.
 
@@ -400,7 +400,7 @@ Pinkie moved to the next spot as they talked while working.
 
 "It's okay, just pull it out and continue from where it should be," Fluttershy said.
 
-"After it's sewed to the dress are we going to sew the sleeve together?" Pinkie asked.
+"After it's sewed to the dress, are we going to sew the sleeve together?" Pinkie asked.
 
 "Yes, then we will do the second sleeve," Fluttershy said.
 
@@ -414,13 +414,13 @@ Pinkie moved to the next spot as they talked while working.
 
 "Okay," Pinkie said.
 
-"You can finish this sleeve and I'll do the other one so you can take a break," Fluttershy said.
+"You can finish this sleeve, and I'll do the other one, so you can take a break," Fluttershy said.
 
 "Sounds good," Pinkie said as she moved to get at the sleeve better.
 
 Fluttershy held the fabric while Pinkie sewed.
 
-*After this sleeve I should go check the cake.*
+*After this sleeve, I should go check the cake.*
 
 *Rainbow has probably finished making the rest of those pancakes by now.*
 
@@ -442,7 +442,7 @@ Pinkie got to the end of the sleeve, and attempted to tie the thread herself, ta
 
 Fluttershy hugged back. "You're welcome."
 
-After the hug was over Pinkie stood up. "I'll be back with those pancakes."
+After the hug was over, Pinkie stood up. "I'll be back with those pancakes."
 
 "Okay," Fluttershy said.
 
@@ -450,9 +450,9 @@ Pinkie walked out of her room, as she closed the door she heard the distinct sou
 
 She ran down the stairs to try to remove the cake as soon as possible.
 
-*hopefully it just started going off and isn't burnt.*
+*Hopefully it just started going off and isn't burnt.*
 
-Turning the corner at speed, she saw Rainbow holding the cake tray in her mouth. She was running too fast, she tried to stop it time, but it was too late. She ran into Rainbow, causing the cake to fall to the floor, the pan landing upside down.
+Turning the corner at speed, she saw Rainbow holding the cake tray in her mouth. She was running too fast, she tried to stop it in time, but it was too late. She ran into Rainbow, causing the cake to fall to the floor, the pan landing upside down.
 
 "No," Pinkie said in a saddened tone.
 
@@ -460,7 +460,7 @@ Both ponies just sat there in silence before Rainbow spoke up, "I'm sorry…"
 
 "It's not your fault, I was the one running too fast," Pinkie said before she sat down in a sad state.
 
-They sat in silence again for a bit before Pinkie said, "that cake was suppose to show Rarity how much I love her," before tears started falling from her eyes.
+They sat in silence again for a bit before Pinkie said, "that cake was supposed to show Rarity how much I love her," before tears started falling from her eyes.
 
 Rainbow leaned down and hugged Pinkie, who hugged back.
 
@@ -472,7 +472,7 @@ Rainbow held Pinkie tight. "You're going to show her how much you love her, you 
 
 "She does?" Pinkie asked.
 
-"Yes, Pinkie," Rainbow said before nuzzling Pinkie. "Yesterday when I was talking to her alone, she was worried that she didn't know how to show you her love, besides giving you that dress."
+"Yes, Pinkie," Rainbow said before nuzzling Pinkie. "Yesterday, when I was talking to her alone, she was worried that she didn't know how to show you her love, besides giving you that dress."
 
 "I know she loves me, she even gave me a kiss when you two came into the kitchen," Pinkie said.
 
@@ -484,7 +484,7 @@ Rainbow held Pinkie tight. "You're going to show her how much you love her, you 
 
 "That's really good advice," Pinkie said as she smiled. "Didn't expect love advice from you, but it's welcome," Pinkie said sheepishly.
 
-"I've been doing a lot of thinking in the process of dealing with my feelings for Fluttershy, it's been difficult to figure out these new emotions, but I think its made me more empathetic," Rainbow said.
+"I've been doing a lot of thinking in the process of dealing with my feelings for Fluttershy, it's been difficult to figure out these new emotions, but I think it's made me more empathetic," Rainbow said.
 
 "That's good," Pinkie said.
 
@@ -494,13 +494,13 @@ Rainbow held Pinkie tight. "You're going to show her how much you love her, you 
 
 "What are you suggesting?" Rainbow asked.
 
-"you should make her some pancakes," Pinkie said.
+"You should make her some pancakes," Pinkie said.
 
 "But what about the cake?" Rainbow asked.
 
 Pinkie thought for a second.
 
-*Homemade pancakes and cake have a similar enough ingredient list I could make the cake while Rainbow makes the pancakes.*
+*Homemade pancakes and cake have a similar enough ingredient list, I could make the cake while Rainbow makes the pancakes.*
 
 Pinkie answered, "I'll make a new cake while you make homemade pancakes."
 
@@ -532,7 +532,7 @@ Rainbow asked, "How much more complicated is that cake over pancakes?"
 
 "Not much, just a few more ingredients," Pinkie said.
 
-"You sure I'll be able to learn fine, I'm a little nervous, especially if we're giving them to Fluttershy," Rainbow said as a slightly anxious tone.
+"You're sure I'll be able to learn fine, I'm a little nervous, especially if we're giving them to Fluttershy," Rainbow said as a slightly anxious tone.
 
 "I'm sure you will do great, if you want, I can taste test one to make sure it's good," Pinkie said reassuringly.
 
@@ -624,25 +624,25 @@ Rainbow did as told. "Now milk and eggs?" she asked.
 
 "Yes, one and a quarter cups of milk, and one egg," Pinkie said.
 
-Rainbow poured in the butter, then measuring out the milk she poured it in too. "How do you crack them?"
+Rainbow poured in the butter, then measuring out the milk, she poured it in too. "How do you crack them?"
 
 "Tap the egg really fast against the edge of the bowl, then bring it over to your mix before peeling the two halves of the shell apart," Pinkie answered.
 
-Rainbow looked a little nervous picking up the egg.
+Rainbow looked a little nervous, picking up the egg.
 
 *You got this!*
 
-Rainbow flicked the egg against the rim of the mixing bowl, it cracking in two. She quickly brought it to the well and split it apart, bolstering her confidence. "That was easy."
+Rainbow flicked the egg against the rim of the mixing bowl, making it crack in two. She quickly brought it to the well and split it apart, bolstering her confidence. "That was easy."
 
 "I knew you could do it! Now whisk it until it's smooth," Pinkie said.
 
 Rainbow mixed her batter while Pinkie worked with her own wet ingredients.
 
-Pinkie moved her first mixing bowl, placing a second one in it's place. She measured out one cup of sugar, placing it in the empty bowl.
+Pinkie moved her first mixing bowl, placing a second one in its place. She measured out one cup of sugar, placing it in the empty bowl.
 
 Pinkie grabbed the small bowl Rainbow had used, then unwrapping a whole stick of butter, putting it into the bowl. Pinkie placed the bowl in the microwave and turned it on.
 
-While she waited she checked on Rainbow.
+While she waited, she checked on Rainbow.
 
 "How's the mixing going?" Pinkie asked.
 
@@ -664,7 +664,7 @@ Rainbow was about to respond when she was cut off by the microwave going off.
 
 Pinkie took the melted butter out of the microwave, pouring it into her second mixing bowl.
 
-Pinkie started beating the sugar and melted butter then asked, "What were you about to say?"
+Pinkie started beating the sugar and melted butter, then asked, "What were you about to say?"
 
 "Thanks for believing in me, I never would have thought I'd ever be excited about making food, but look at me now," Rainbow said with a smile.
 
@@ -696,11 +696,11 @@ As Rainbow waited for the burner to heat up, she watched Pinkie.
 
 Pinkie poured in her last two ingredients, one teaspoon of vanilla extract and one teaspoon of almond extract, after which she started mixing them in.
 
-As Pinkie mixed she looked over at the stove, realizing she forgot to turn the oven back on to preheat.
+As Pinkie mixed, she looked over at the stove, realizing she forgot to turn the oven back on to preheat.
 
 *It's probably still hot from the first cake.*
 
-"Can you turn the oven to one hundred and seventy five degrees Fahrenheit," Pinkie asked. "I forgot to turn it back on to preheat."
+"Can you turn the oven to one hundred and seventy-five degrees Fahrenheit," Pinkie asked. "I forgot to turn it back on to preheat."
 
 Rainbow did as asked, figuring out how the stove works. "Done."
 
@@ -720,7 +720,7 @@ Rainbow didn't respond, too focused on pancakes.
 
 As Pinkie was done mixing the wet and dry ingredients, Rainbow put her first homemade pancake onto the done plate.
 
-Pinkie poured in three fourths a cup of milk into her mix, then mixed it for the last time.
+Pinkie poured in three fourths of a cup of milk into her mix, then mixed it for the last time.
 
 Both ponies worked in silence for a bit, Pinkie mixed while Rainbow made pancake after pancake.
 
@@ -728,9 +728,9 @@ By the time Pinkie was done mixing, the oven had dinged, letting her know it had
 
 As Rainbow put her fourth pancake on the plate, Pinkie poured her batter into the cake pan.
 
-After the batter had settled into the pan, Pinkie took it in her mouth, lowering the oven door, she set it inside. After she closed the door Rainbow poured in her fifth pancake.
+After the batter had settled into the pan, Pinkie took it in her mouth, lowering the oven door, she set it inside. After she closed the door, Rainbow poured in her fifth pancake.
 
-Pinkie set the timer for thirty five minutes.
+Pinkie set the timer for thirty-five minutes.
 
 "Cake is in the oven," Pinkie announced. "How's the pancakes going?"
 
@@ -760,7 +760,7 @@ Pinkie waited for Rainbow to finish. "I'm proud of you, let's go give Fluttershy
 
 Pinkie trotted upstairs and opened the door for Rainbow, who was right behind her.
 
-Rainbow walked in the room and looked around, spotting Fluttershy she walked to her, setting the pancakes at her hooves. "We made these for you."
+Rainbow walked in the room and looked around, spotting Fluttershy, she walked to her, setting the pancakes at her hooves. "We made these for you."
 
 "Thank you," Fluttershy said in a surprised tone.
 
@@ -816,9 +816,9 @@ Pinkie thought about laying her head on Rarity's chest, listening to her heart b
 
 Moments later, Fluttershy spoke up, "If we're doing that, maybe we should cut the sleeves to be short, so they don't get the way of her holding you…" Fluttershy trailed off at the end, face blushing slightly as her eyes darted to Rainbow then back to Pinkie.
 
-"Those are great idea, let's do them," Pinkie said with a smile.
+"Those are great ideas, let's do them," Pinkie said with a smile.
 
-Pinkie opened the pouch she had given Fluttershy earlier, looking for blue and purple thread for the stitching. Moments later she pulled out both and set them next to the ponnequin.
+Pinkie opened the pouch she had given Fluttershy earlier, looking for blue and purple thread for the stitching. Moments later, she pulled out both and set them next to the ponnequin.
 
 Fluttershy finished eating and stood up. "Those pancakes were delicious, thank you."
 
@@ -886,7 +886,7 @@ She picked up a piece of cardboard as an idea came to her.
 
 *Aha!*
 
-Pinkie took the cardboard to the ponnequin, she slid the cardboard behind the fabric, positioning it so it formed a triangle shaped outline.
+Pinkie took the cardboard to the ponnequin, she slid the cardboard behind the fabric, positioning it, so it formed a triangle shaped outline.
 
 "Can you hold this?" Pinkie asked.
 
@@ -910,7 +910,7 @@ Stepping back, Pinkie looked at the v neck.
 
 *Looks good, great for cuddling.*
 
-Pinkie walked around back of the dress, Rainbow following after.
+Pinkie walked around the back of the dress, Rainbow following after.
 
 Pinkie looked at the skirt, seeing the purple stitch going around.
 
@@ -952,7 +952,7 @@ Fluttershy finished the stitch. "All done."
 
 All three ponies looked at the complete dress.
 
-It was a white flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth her front legs. The neck has a blue stitch going around with a V neck in the front.
+It was a white flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth of her front legs. The neck has a blue stitch going around with a V-neck in the front.
 
 "I love it," Pinkie said.
 
