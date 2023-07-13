@@ -738,3 +738,36 @@ We hold the kiss for a while, until I unfortunately end it.
 
 "Dashie…" Pinkie breathes.
 
+*This is awesome!*
+
+*Why didn't I just talk to Pinkie in the first place?*
+
+The realization of what I'd done hits me.
+
+"Pinkie?" I ask.
+
+"Yes?"
+
+"I'm sorry, I spent all day talking about you, literally behind your back. When I should have just talked to you about my feelings."
+
+"Well, I'm sorry too, I started it by talking to Twilight about my feelings for you. I also came up with the hug contest because I wanted us to be closer."
+
+"I'm glad you came up with the contest, I don't know if I'd have realized I liked you so soon."
+
+Pinkie blushes.
+
+*She's too cute.*
+
+I nuzzle her cheek.
+
+I ask gently, "Pinkie Pie, will you go out with me?"
+
+She smiles. "Yes," she says as more tears slowly trickle from her eyes.
+
+I pull her close, resting her head on my chest.
+
+We lay there cuddling for a while, enjoying our newfound closeness on a physical and emotional level.
+
+I nuzzle the top of her head. "Goodnight, Pinkie."
+
+Pinkie nuzzles my chest. "Goodnight, Dashie."
