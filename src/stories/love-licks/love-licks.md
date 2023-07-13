@@ -48,3 +48,45 @@ I open the door with a smile and instead of saying 'hello', I lean close to her 
 
 I lean back from the encounter, and she smiles at me, letting me know she understands.
 
+I lead her back inside and go over to a chalkboard. I write down, 'Hello: A vertical lick upward one inch to the left or right of the nose.'
+
+I point to Pinkie, indicating it's her turn.
+
+Pinkie thinks for a second before coming over to me. She licks downward one inch from my nose, then waves at me and walks away.
+
+*Goodbye.*
+
+I write it down on the chalkboard. Pinkie nods, confirming I got it right.
+
+*Aha, that's our next work.*
+
+I nod at Pinkie before licking her upward on her chin.
+
+She nods before licking my chin side to side, shaking her head afterward.
+
+*Yes and no.*
+
+I lick her chin upward, confirming my understanding, before I write them both down.
+
+I think, *Yes, I.*
+
+I point at my eye with a hoof before I lick horizontally under her right eye.
+
+Pinkie gets it immediately. She points at me before licking horizontally left eye.
+
+*I and you.*
+
+I write them down and start to think of the next word.
+
+*How should we handle names?*
+
+*Aha!*
+
+I got to Pinkie and point to her twice, trying to emphasize that it's her. I lick on her left cheek a 'P', for Pinkie and on her right cheek a 'P', for Pie.
+
+She licks upward on my chin before licking my initial onto my cheeks.
+
+*We work great together.*
+
+I write down, 'Names: Write initials on cheeks.'
+
