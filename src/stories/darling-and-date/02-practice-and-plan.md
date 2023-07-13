@@ -1074,7 +1074,7 @@ Fluttershy said, "Rainbow…"
 
 *Rainbow will hear me say it.*
 
-"Rainbow Dash, will you g... g…"
+"Rainbow Dash, will you g… g…"
 
 *I will overcome my shyness.*
 
@@ -1098,7 +1098,7 @@ Fluttershy said, "Rainbow…"
 
 *I will surprise her.*
 
-"Rainbow Dash, will you go out with m... m…"
+"Rainbow Dash, will you go out with m… m…"
 
 *I will tell the mare I love how I feel.*
 

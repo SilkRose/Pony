@@ -118,7 +118,7 @@ Rainbow muttered under her breath, "Tell me about it…" as her eyes flashed to 
 
 Pinkie, not quite hearing it, asked, "What was that?"
 
-Rainbow quickly replied, "I mean… Uh... I have one last question, have you guys gone on a date yet?"
+Rainbow quickly replied, "I mean… Uh… I have one last question, have you guys gone on a date yet?"
 
 Pinkie Pie replied, "No, not yet," as gears in her head started turning, "but I'm going to change that soon."
 
