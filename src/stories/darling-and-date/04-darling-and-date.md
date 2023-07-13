@@ -64,31 +64,31 @@ Rarity held Pinkie's hoof tighter, and nuzzled her again.
 
 Both mares blushed as they enjoyed the moment they were in.
 
-Rarity, against her best wishes to revel in this moment forever, interrupted the silence. "Where are we going first, darling?"
+Rarity, against her best wishes to revel at this moment forever, interrupted the silence. "Where are we going first, darling?"
 
 "Dinner," Pinkie answered.
 
 "That's good, I am rather famished. I skipped lunch because I figured you would want to eat on the date," Rarity said.
 
-"I wanted to do dinner first so we could start the date off with a dialogue. A little birdie told me you had something we should talk about," Pinkie said, winking at Rarity.
+"I wanted to do dinner first, so we could start the date off with a dialogue. A little birdie told me you had something we should talk about," Pinkie said, winking at Rarity.
 
 "That little birdie sure is a good friend, we should do something nice for her after all this," Rarity commented.
 
 "Yes, that's a great idea," Pinkie said.
 
-Rarity could practically see the gears turning in Pinkie's head as she smiled, no doubt idea after idea was flying through her mind as how they could repay their dear friend Rainbow for helping with their relationship.
+Rarity could practically see the gears turning in Pinkie's head as she smiled, no doubt idea after idea was flying through her mind as to how they could repay their dear friend Rainbow for helping with their relationship.
 
 Rarity hugged Pinkie. "You're too cute, you know that?"
 
-"Awe, thanks," Pinkie said as she returned the hug.
+"Aw, thanks," Pinkie said as she returned the hug.
 
-After the hug, both mares sat in silence and smiled, both content to enjoy each others company.
+After the hug, both mares sat in silence and smiled, both content to enjoy each other's company.
 
-A short while later the chariot stopped.
+A short while later, the chariot stopped.
 
 Rarity stepped out of the chariot, followed by Pinkie.
 
-Rarity looked over the building they were in front of, the sign read 'Horse Dēla Hay' in one of those hard to read cursive fonts. The building stood out from the rest around it, as it was made out of brick while the others were wood affairs. It had two large double doors leading into it and a nice outside eating area surround by a black wrought iron fence.
+Rarity looked over the building they were in front of, the sign read 'Horse Dēla Hay' in one of those hard to read cursive fonts. The building stood out from the surrounding rest, as it was made out of brick, while the others were wood affairs. It had two large double doors leading into it and a nice outside eating area surround by a black wrought iron fence.
 
 *I think I've heard good things about this place.*
 
@@ -102,11 +102,11 @@ He gestured for them to follow him. "Right this way."
 
 The greeter led them into the back of the restaurant, into a closed off section through a weighted red curtain. He showed them to their private booth, opening its own privacy curtain before the two mares entered in.
 
-The greeter said, "Here are your menus," as he levitated two menus onto the table. "You're waiter will be with you shortly," he said before he left, closing the curtain.
+The greeter said, "Here are your menus," as he levitated two menus onto the table. "Your waiter will be with you shortly," he said before he left, closing the curtain.
 
 Rarity picked up her menu and started looking around.
 
-She was about to ask Pinkie what she was thinking of getting when the lights dimmed real low. Looking up, she found the culprit, Pinkie was playing around with the dimmer switch.
+She was about to ask Pinkie what she was thinking of getting when the lights dimmed real low. Looking up, she found the culprit, Pinkie, was playing around with the dimmer switch.
 
 Rarity's initial reaction was to chastise her for fooling around, but she stopped herself.
 
@@ -114,7 +114,7 @@ Rarity's initial reaction was to chastise her for fooling around, but she stoppe
 
 Rarity decided to play along.
 
-As the lights changed in brightness from Pinkie's touch, Rarity slid down in time with the lights, hiding under the table in the dark and sitting up proper at fill brightness.
+As the lights changed in brightness from Pinkie's touch, Rarity slid down in time with the lights, hiding under the table in the dark and sitting up proper at full brightness.
 
 When Pinkie noticed, she watched Rarity out of the corner of her eye.
 
@@ -142,7 +142,7 @@ Letting go of the hug, they got back into their seats. Pinkie turned the lights 
 
 Rarity was glad the waiter hadn't showed up when they were under the table, but the thought did make her giggle.
 
-Pinkie tilted her head in a questioning way. "What's got you giggling?" she asked.
+Pinkie tilted her head curiously. "What's got you giggling?" she asked.
 
 "I thought about what if the waiter showed up while we were under the table," Rarity explained.
 
@@ -174,9 +174,9 @@ They both placed their menus at the end of the table and waited for the waiter.
 
 As they waited, Rarity filled the air. "You know, dēla means deliver, so the name means horse deliver hay."
 
-Both mares shared a small chuckle at the restaurants name.
+Both mares shared a small chuckle at the restaurant's name.
 
-Moments later the waiter showed up, knocking before opening the curtain.
+Moments later, the waiter showed up, knocking before opening the curtain.
 
 The waiter was a dark red earth pony mare, she had yellow eyes and a black mane. She said, "Hello, my name is Balance Trick and I will be your waiter. Do you know what you will be having this evening?"
 
@@ -198,7 +198,7 @@ Rarity turned to Pinkie. "I guess now is probably a good time to talk about *us*
 
 "What's on your mind?" Pinkie asked.
 
-"How do you want to be loved? I don't know how to show you my love. I have a few guesses, but it would be nice to hear it from the horses mouth."
+"How do you want to be loved? I don't know how to show you my love. I have a few guesses, but it would be nice to hear it from the horse's mouth."
 
 Pinkie took a while to respond, eventually she answered, "Physical affection is probably my favorite, hugs, kisses. I'd love to cuddle you." – Pinkie blushed – "I love any contact. After that, I would say, seeing your smile," – Pinkie's blush intensified – "it just makes me happy. And words, I love it when you say 'I love you', or call me pretty, it makes my day."
 
@@ -256,7 +256,7 @@ Pinkie began to eat immediately, leaning over the table as to not get anything o
 
 Rarity started to eat too. She used a napkin levitated under her sandwich to protect her own dress.
 
-they both dipped their grilled cheese into their tomato soup before each bite.
+They both dipped their grilled cheese into their tomato soup before each bite.
 
 *This is surprisingly good.*
 
@@ -326,7 +326,7 @@ Pinkie answered, "Entertainment."
 
 Rarity offered her hoof this time, Pinkie taking it in hers.
 
-they sat in silence for the rest of the trip, leaning against each other, holding hooves.
+They sat in silence for the rest of the trip, leaning against each other, holding hooves.
 
 The chariot stopped behind the bleachers at Ponyville's fairground field.
 
@@ -340,7 +340,7 @@ Pinkie tapped her hoof on the metal floor of the bleachers twice.
 
 Rarity didn't think anything of it.
 
-Moments later she realized what it was for, as Rainbow Dash flew up and hovered in front of them.
+Moments later, she realized what it was for, as Rainbow Dash flew up and hovered in front of them.
 
 Rainbow asked, voice full of bravado and gusto, "Are you ready for a show?"
 
@@ -352,11 +352,11 @@ Pinkie and Rarity practically screamed. "YEAH!"
 
 "That's better, let's get the show started."
 
-With that Rainbow flew to the center of the field.
+With that, Rainbow flew to the center of the field.
 
 *This is exciting.*
 
-She flew from the center to the left side of the field a decent way off the ground.
+She flew from the center to the left side of the field, a decent way off the ground.
 
 She started flying, leaving trails of cloud behind her.
 
@@ -398,7 +398,7 @@ The word 'forever' turned purple.
 
 Rarity stared at the words in the sky.
 
-*I certainly hope there are no more truer words than these.*
+*I certainly hope there are no truer words than these.*
 
 Rarity put her leg around Pinkie, holding her as they watched the show.
 
@@ -406,17 +406,17 @@ Pinkie leaned into Rarity, snuggling into her embrace.
 
 Rainbow flew through the center of each letter, making each one dissipate into moisture, that fell to the ground.
 
-After she was done, Rainbow flew out of the fairgrounds. A minute later she returned, pushing a giant cloud to the left side of the field.
+After she was done, Rainbow flew out of the fairgrounds. A minute later, she returned, pushing a giant cloud to the left side of the field.
 
 Once in place, Rainbow flew around the giant cloud, sculpting it.
 
-She flew so fast around it she was just a blur, with each pass the cloud became more recognizable.
+She flew so fast around it, she was just a blur, with each pass the cloud became more recognizable.
 
 *It's Pinkie.*
 
 Rainbow worked fast, adding details here or there, mane, eyes, nose, mouth.
 
-Rainbow finished the sculpt.
+Rainbow finished the sculpture.
 
 Pinkie and Rarity stared in awe.
 
@@ -428,15 +428,15 @@ Pinkie and Rarity stared in awe.
 
 *Awe.*
 
-Rainbow flew off again, presumably to get a cloud for a sculpt of Rarity.
+Rainbow flew off again, presumably to get a cloud for a sculpture of Rarity.
 
-Moments later Rainbow returned, she had another large cloud. she took it to the right side of the field.
+Moments later, Rainbow returned, she had another large cloud. She took it to the right side of the field.
 
 Rainbow began sculpting the second cloud.
 
 *This show is amazing, Rainbow has outdone herself.*
 
-After a few moments the cloud became recognizable as Rarity.
+After a few moments, the cloud became recognizable as Rarity.
 
 *It's me, like Pinkie said.*
 
@@ -460,7 +460,7 @@ Moments later, Rarity realized what she was making.
 
 *It's a giant heart; how cute.*
 
-Once the heart had been made, Rainbow flew around it in circles, getting the hear to spin.
+Once the heart had been made, Rainbow flew around it in circles, getting the heart to spin.
 
 Rainbow made the heart spin at a good pace before she backed off.
 
@@ -514,7 +514,7 @@ It evaporated the cloud immediately.
 
 "Wow!" Pinkie said.
 
-The rainboom spread out, far and wide as the two ponies gawked in awe.
+The rainboom spread out, far and wide, as the two ponies gawked in awe.
 
 By the time they had stopped looking at it, Rainbow was halfway back down to the ground.
 
@@ -530,7 +530,7 @@ Rainbow said, after the hug was over, "I do not disappoint, especially for my fr
 
 Rarity hugged Rainbow. "Thank you."
 
-Rainbow hugged back. "You're welcome, now go have fun on the rest of you date."
+Rainbow hugged back. "You're welcome, now go have fun on the rest of your date."
 
 "We will," Pinkie said ecstatically.
 
@@ -572,7 +572,7 @@ Pinkie said, "Thanks, Pretty."
 
 Rarity replied, "You're welcome, Pink."
 
-Both mare giggled.
+Both mares giggled.
 
 They were silent for the rest of the chariot ride, occasionally exchanging nuzzles and blushes.
 
@@ -600,9 +600,9 @@ Pinkie ran off into the field of apple tress.
 
 *What?*
 
-*Were playing tag?*
+*We're playing tag?*
 
-*Were playing tag!*
+*We're playing tag!*
 
 Rarity started to run after Pinkie.
 
@@ -620,13 +620,13 @@ Pinkie dodged to the left as Rarity lunged for her.
 
 *Almost.*
 
-Rarity tried again, this time succeeding. "Tag, you're it!" she said before she heel turned, running the other way.
+Rarity tried again, this time succeeding. "Tag, you're it!" she said before she heel-turned, running the other way.
 
 Rarity ran as fast as she could, doing her best to evade Pinkie.
 
-*Gotta lose her.*
+*I've got to lose her.*
 
-Rarity did a u-turn around a tree, trying to catch Pinkie off guard. This however, failed as Pinkie poked her.
+Rarity did an U-turn around a tree, trying to catch Pinkie off guard. This, however, failed as Pinkie poked her.
 
 "Tag!" Pinkie said before turning and running off.
 
@@ -676,7 +676,7 @@ Rarity said, "That was fun, exhausting, but fun."
 
 "This date has been one amazing surprise after another, and that's what I love about you. You're like the perfect present, I never know what I'm going to get, but I know I'm going to love it."
 
-Pinkie blushed. "You're the perfect present for me," she said serenely before she kissed Rarity on the cheek.
+Pinkie blushed. "You're the perfect present for me," she said serenely, before she kissed Rarity on the cheek.
 
 Rarity blushed, and nuzzled Pinkie.
 
@@ -688,11 +688,11 @@ They sat down on the blanket.
 
 Rarity said, "This is nice."
 
-"I made this specially for out date. Rainbow and Fluttershy helped design the icing and frosting," Pinkie said before she removed the lid on the covered dish, revealing a cake.
+"I made this specially for our date. Rainbow and Fluttershy helped design the icing and frosting," Pinkie said before she removed the lid on the covered dish, revealing a cake.
 
 The cake was square. The left side was white with Rarity's cutie mark designed on it. The right side was pink with Pinkie's cutie mark designed on it. Along the sides were a line of dots, yellow on Rarity's side, blue on Pinkie's.
 
-"That's so adorable, thank you darling," Rarity said with a smile.
+"That's so adorable, thank you, darling," Rarity said with a smile.
 
 "You're welcome, you ready to dig in?"
 
@@ -742,7 +742,7 @@ Pinkie blushed in turn. "I love you too."
 
 Before Rarity had even realized it, she was slowly leaning towards Pinkie.
 
-Pinkie leaned in in response.
+Pinkie leaned in, in response.
 
 Both ponies locked eyes as their lips met. Rarity wrapped her hooves around Pinkie, holding her gently.
 
@@ -767,12 +767,12 @@ Pinkie began to sing a poem to her.
 "You're the best gift I ever got,  
 "Stop loving you, I will not,  
 "Fur so white, eyes so bright,  
-"Everyday with you just feels right.
+"Every day with you just feels right.
 
-"You're smile brings joy to my life,  
+"Your smile brings joy to my life,  
 "When I'm with you, there is no strife,  
 "When we kiss, it feels so great,  
-"There is nothing about you I hate.
+"There is nothing about you, I hate.
 
 "Around you, I will always smile,  
 "For you, I would go every mile,  
@@ -815,7 +815,7 @@ Pinkie stood up and offered Rarity her hoof, helping her up.
 
 Pinkie gestured for Rarity to walk with her. They slowly walked back towards town, pressed against each other.
 
-Pinkie broke the silence. "You know planning this date was a lot of fun, but also a lot of work. Do you think you can plan the next one?"
+Pinkie broke the silence. "You know, planning this date was a lot of fun, but also a lot of work. Do you think you can plan the next one?"
 
 "Absolutely, darling," Rarity answered.
 
@@ -823,7 +823,7 @@ Pinkie broke the silence. "You know planning this date was a lot of fun, but als
 
 They walked in silence until they got to the entrance of Sweet Apple Acres.
 
-"All our friends helped big time with this date. Twilight helped schedule it and got the royal chariot. Fluttershy helped make the dress. Applejack found that spot and setup the silverware and desert. Rainbow cleared the weather and practiced really hard for that show," Pinkie said.
+"All our friends helped big time with this date. Twilight helped schedule it and got the royal chariot. Fluttershy helped make the dress. Applejack found that spot and set up the silverware and desert. Rainbow cleared the weather and practiced really hard for that show," Pinkie said.
 
 "That's wonderful, we have the best friends a pony could ask for," Rarity said.
 
@@ -831,7 +831,7 @@ They walked in silence until they got to the entrance of Sweet Apple Acres.
 
 Rarity waited a bit before commenting, "I don't know how I'm going to make a date as amazing as this, but I'll try, for you."
 
-"You're date could be us cuddling on the couch and I'd love every second of it."
+"Your date could be us cuddling on the couch, and I'd love every second of it."
 
 "I'd love that too, actually."
 
@@ -841,7 +841,7 @@ Both mares giggled as an idea formed in Rarity's mind.
 
 "You're walking me home, right?" Rarity asked.
 
-"Yes, sadly our date is almost over."
+"Yes, sadly, our date is almost over."
 
 "Okay."
 
@@ -849,7 +849,7 @@ Pinkie started walking slower, postponing the end.
 
 Rarity followed suit.
 
-They stayed silent the rest of the walk as they enjoyed each others company, and occasionally exchanging nuzzles.
+They stayed silent the rest of the walk as they enjoyed each other's company, and occasionally exchanging nuzzles.
 
 "Here we are," Pinkie said in a somber tone as they stopped in front of Carousel Boutique.
 
@@ -883,7 +883,7 @@ After the hug, Rarity led Pinkie into her house, and over to the couch.
 
 They laid on the couch, cuddled together. Rarity levitated a blanket over to them and covered them up.
 
-"this is cozy," Pinkie said before yawning.
+"This is cozy," Pinkie said before yawning.
 
 "Are you tired?" Rarity asked before yawning herself.
 
