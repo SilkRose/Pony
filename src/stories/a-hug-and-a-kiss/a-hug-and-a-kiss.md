@@ -162,9 +162,9 @@ Moments later, Twilight comes from upstairs. "Yes?" She says as she approaches t
 
 "Do you think Pinkie likes me?"
 
-"I don't know, but she seemed really excited about you two being closer from this."
+"I don't know, but she seemed really excited about you two being closer from this experience."
 
-"Okay, I'll think it through."
+"Okay, I'll think about it."
 
 "Thank you, for her sake."
 
@@ -212,7 +212,7 @@ We say goodbye to Twilight and manage to leave her house.
 
 ***
 
-Rarity opens the door with a smile, once she's seen us, her smiles grew wider.
+Rarity opens the door with a smile, once she sees us, her smile grew wider.
 
 *Here we go.*
 
@@ -250,7 +250,7 @@ Without thinking about it, I nuzzle Pinkie's back, reaffirming her softness.
 
 *She's really pretty.*
 
-*Beautiful, beautiful is what she is.*
+*Beautiful, she is beautiful.*
 
 *So, I think my best friend is hot, that doesn't mean anything, right?*
 
@@ -354,7 +354,7 @@ She comes over to me and whispers, "It's sound deadening, if we whisper, she won
 
 "To be honest, way more than I expected."
 
-"Pinkie has blushed more than you since you've been here."
+"Pinkie has blushed more than you since you've been here, you know."
 
 "Why didn't you say anything about her blushing?"
 
@@ -416,7 +416,7 @@ Pinkie answers, "No, I'm good."
 
 "Sure."
 
-We say our goodbyes to Rarity and leave her abode.
+We say our goodbyes to Rarity and leave her shop.
 
 ***
 
@@ -472,6 +472,8 @@ Pinkie answers, "We started the contest in my room, then, we went to Twilight's 
 
 "I'm all good," Pinkie says.
 
+*Maybe Fluttershy can help me figure out my feelings.*
+
 "Do you have a chalkboard?" I ask.
 
 "I'll look, I should somewhere," Fluttershy says before she starts looking.
@@ -494,9 +496,9 @@ I take the chalk in my mouth as Fluttershy holds the board for me.
 
 I write, 'Should I ask Pinkie out?'
 
-She erases the board and writes, 'Do you like her?'
+Fluttershy erases the board between each message.
 
-She erases the board for me.
+She writes, 'Do you like her?'
 
 I write, 'I think so.'
 
@@ -512,7 +514,7 @@ I feel Pinkie lift her head. She nods and then nuzzles my back.
 
 *What'd she ask her?*
 
-Fluttershy comes back and erases the board before writing, 'She does.'
+Fluttershy comes back and writes, 'She does.'
 
 At the realization of what she asked her, my face blushes intensely.
 
@@ -608,7 +610,7 @@ I lay my head back down, thinking.
 
 *She wanted to win so badly…*
 
-*I wanted the hug to last longer…*
+*I wanted this hug to last longer…*
 
 *What do I do?*
 
@@ -622,7 +624,7 @@ I nuzzle Rainbow's mane as I hold her tighter.
 
 *I just wish I could tell you…*
 
-*I guess my prize will reveal it.*
+*I guess my prize will reveal it…*
 
 *I wish I knew what you and Rarity had talked about, and why Fluttershy asked me those questions.*
 
