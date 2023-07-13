@@ -110,7 +110,7 @@ Pinkie stays at Fluttershy's house during a thunder storm over night, what will 
 
 ***
 
-## Unnamed Pinkie x Twilight romance story
+## Books and Best Friends
 
 ### Synopsis:
 Pinkie sleeps over at Twilight's and they have a play date where everything is made of books.
