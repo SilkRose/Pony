@@ -68,7 +68,7 @@ With that, we shamble to the door, opening it slowly.
 
 Twilight opens the door, or at least I think it's Twilight, Pinkie is facing the door at the moment.
 
-"Hi, girls?" Twilight says from behind me.
+"Hi, girls…" Twilight says from behind me, a quizzical tone in her voice.
 
 "Can we come in?" Pinkie asks.
 
