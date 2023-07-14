@@ -2,7 +2,7 @@
 
 I sit in my study reading a book entitled 'The Construction of Languages'.
 
-I notice somepony open the door, but as the words fly by I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on. I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
+I notice somepony open the door, but as the words fly by, I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on. I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
 
 Lick.
 
@@ -58,7 +58,7 @@ Pinkie thinks for a second before coming over to me. She licks downward one inch
 
 I write it down on the chalkboard. Pinkie nods, confirming I got it right.
 
-*Aha, that's our next work.*
+*Aha, that's our next word.*
 
 I nod at Pinkie before licking her upward on her chin.
 
@@ -68,7 +68,7 @@ She nods before licking my chin side to side, shaking her head afterward.
 
 I lick her chin upward, confirming my understanding, before I write them both down.
 
-I think, *Yes, I.*
+*I should be next.*
 
 I point at my eye with a hoof before I lick horizontally under her right eye.
 
@@ -82,11 +82,11 @@ I write them down and start to think of the next word.
 
 *Aha!*
 
-I got to Pinkie and point to her twice, trying to emphasize that it's her. I lick on her left cheek a 'P', for Pinkie and on her right cheek a 'P', for Pie.
+I go to Pinkie and point to her twice, trying to emphasize that it's her. I lick on her left cheek a 'P', for Pinkie and on her right cheek a 'P', for Pie.
 
 She licks upward on my chin before licking my initial onto my cheeks.
 
-*We work great together.*
+*We make a great team!*
 
 I write down, 'Names: Write initials on cheeks.'
 
