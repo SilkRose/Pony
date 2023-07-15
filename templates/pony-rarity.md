@@ -1,0 +1,1 @@
+[Rarity](../../ponies/rarity.md)

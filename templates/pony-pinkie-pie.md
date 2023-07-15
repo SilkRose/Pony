@@ -1,0 +1,1 @@
+[Pinkie Pie](../../ponies/pinkie-pie.md)
