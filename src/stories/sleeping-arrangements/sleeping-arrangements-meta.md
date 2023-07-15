@@ -38,4 +38,4 @@ Pairs:
 
 ### Cover
 
-![Cover](cover-3.png)
+![Cover](./cover/cover.png)
