@@ -1,10 +1,12 @@
-# Tittle
+# Title
 
 Mane Characters: 
 
 Secondary Characters: 
 
 Locations: 
+
+Genres:
 
 ## Synopsis
 
@@ -18,7 +20,7 @@ Locations:
 ## Ideas
 
 
-## Chapters
+## Story
 
 
 ## Cover
