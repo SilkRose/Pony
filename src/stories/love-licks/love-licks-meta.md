@@ -10,6 +10,8 @@ Twilight Sparkle and Pinkie Pie make a secret language out of licks, by the end 
 ### Description
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
+Cover done by irradiatedtittymilk on Discord.
+
 ### Short Description
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
@@ -28,3 +30,4 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
 [Love Licks](./love-licks.md)
 
 ### Cover
+![cover](./cover.png)
