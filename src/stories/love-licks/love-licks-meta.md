@@ -34,16 +34,20 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
  - No: A horizontal lick side to side on the chin.
  - I: A horizontal lick under the right eye.
  - You: A Horizontal lick under the left eye.
- - Out: 
- - Me: 
- - With: 
- - Go: 
- - Will: 
+ - Out: A long line from the edge of the mouth on the right side to the side of the head.
+ - Me: Two pokes to the left cheek.
+ - With: Draw a V under the left eye.
+ - Go: A long line from the edge of the mouth on the left side to the side of the head.
+ - Will: Draw a V under the right eye.
  - Love: A kiss on the lips.
  - Please: A Lick on the left side of the neck.
  - Thank: A lick on the right side of the neck.
  - And: Draw an '&' on the cheek.
- - 
+ - Hug: A hug.
+ - A: A vertical lick above the nose.
+ - Kiss: A kiss on the cheek.
+ - My: Two pokes to the right cheek.
+ - Lick: A vertical lick upward on the lips.
 
 
 ### Story
