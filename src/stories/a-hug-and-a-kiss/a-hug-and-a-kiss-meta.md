@@ -12,6 +12,8 @@ Rainbow and Pinkie get into a contest over who can hold a hug the longest. Who w
 
 Cover done by irradiatedtittymilk on Discord.
 
+Featured: [07-16-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/a-hug-and-a-kiss/featured-2023-07-16-13-02-00.png).
+
 ### Short Description
 Rainbow and Pinkie get into a contest over who can hold a hug the longest. Who will win? What might they discover along the way?
 
