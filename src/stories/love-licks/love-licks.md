@@ -72,7 +72,7 @@ I lick her chin upward, confirming my understanding, before I write them both do
 
 I point at my eye with a hoof before I lick horizontally under her right eye.
 
-Pinkie gets it immediately. She points at me before licking horizontally left eye.
+Pinkie gets it immediately. She points at me before licking horizontally under my left eye.
 
 *I and you.*
 
@@ -89,4 +89,36 @@ She licks upward on my chin before licking my initial onto my cheeks.
 *We make a great team!*
 
 I write down, 'Names: Write initials on cheeks.'
+
+I point at Pinkie, letting her know it's her turn.
+
+She thinks for a second before pointing at herself a bunch before she pokes my right cheek twice.
+
+*It's not I, or you, or her name…*
+
+*Me!*
+
+I write it down and wait for her confirmation to start on the next word.
+
+*Hmm.*
+
+*Maybe a nicety?*
+
+*Please.*
+
+I do my best pleading face, hoping she gets it. I lick the left side of her neck.
+
+She licks, 'Yes.'
+
+I write it down and double check with her, making sure she got it.
+
+She stares at the chalkboard for a few seconds before her face changes to, *I have an idea* mode.
+
+She comes over to me and licks, 'Please,' before drawing an ampersand on my cheek, then she licks my right side of my neck before licking, 'you.'
+
+*Please and thank you.*
+
+*She just did two words at once, amazing!*
+
+I write them down and Pinkie nods with a smile.
 
