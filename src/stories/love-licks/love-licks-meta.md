@@ -26,6 +26,26 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
 - Once Twilight understands, Pinkie says, "Twilight Sparkle, will you go out with me?" in licks.
 - Twilight says yes and they kiss.
 
+### Words
+ - Pony Names: Write initials on cheeks.
+ - Hello: A vertical lick upward one inch to the left or right of the nose.
+ - Goodbye: A vertical lick downward one inch to the left or right of the nose.
+ - Yes: A vertical lick upward on the chin.
+ - No: A horizontal lick side to side on the chin.
+ - I: A horizontal lick under the right eye.
+ - You: A Horizontal lick under the left eye.
+ - Out: 
+ - Me: 
+ - With: 
+ - Go: 
+ - Will: 
+ - Love: A kiss on the lips.
+ - Please: A Lick on the left side of the neck.
+ - Thank: A lick on the right side of the neck.
+ - And: Draw an '&' on the cheek.
+ - 
+
+
 ### Story
 [Love Licks](./love-licks.md)
 
