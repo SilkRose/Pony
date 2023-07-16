@@ -44,6 +44,70 @@ I left shorty after, maybe tomorrow I can say I'm sorry.
 
 ## Day 8
 
+Dear Diary,
+
+Today at Diamond Tiara's cute-ceañera, me and Applebloom made a new friend. Her name is Sweetie Belle. We made a new group to find our cutie marks, the Cutie Mark Crusaders.
+
+Maybe things are starting to look up. I'm excited to have friends. I can't wait to see what we get up to tomorrow.
+
+~Scootaloo
+
+## Day 18
+
+Dear Diary,
+
+Today, Applebloom said we aren't friends anymore… I mean, how can I blame her. I only accused her of rubbing her sister in my face…
+
+I can't believe how stupid I am. Why did I have to say something?
+
+Stupid, stupid, stupid.
+
+~Scootaloo
+
+## Day 27
+
+Dear Diary,
+
+I had a good day for once, me and Sweetie Belle played together.
+
+For once in my life, I felt like a kid, like tomorrow wasn't another panic attack.
+
+I had so much fun, we played tag, then cops and robbers.
+
+Sweetie is not as fast as me, so I let her win about half the time.
+
+Is this hope I feel? I think I might be experiencing happiness, and I like it.
+
+~Scootaloo
+
+## Day 39
+
+Dear Diary,
+
+Sweetie Belle now also doesn't want to be my friend. What is wrong with me?
+
+How do I constantly screw everything up?
+
+It's not my fault I broke down at her sleepover, I just couldn't handle it…
+
+Something about seeing Rarity be so attentive and nice.
+
+I don't know what to do anymore.
+
+~Scootaloo
+
+## Day 50
+
+Dear Diary,
+
+Today, Sweetie Belle and Applebloom invited me to go camping with them and their sisters. I'm surprised they even asked. But then they said Rainbow was coming.
+
+I really hope I can impress her! She's the only thing that brings me happiness anymore, I just wish she would be my sister…
+
+Here's to hope.
+
+~Scootaloo
+
 ## Day 54
 
 Dear Diary,
@@ -61,6 +125,22 @@ It didn't end well, I fell down a waterfall. As I was falling, my life didn't fl
 I survived and dragged myself back to the cave, bloody and bruised.
 
 I hate my life.
+
+~Scootaloo
+
+## Day 66
+
+Dear Diary,
+
+Pain, life is pain. I can't even cry anymore, I just lay on the floor and clench my stomach as it hurts really bad.
+
+I tried talking to Sweetie Belle and Applebloom, but neither of them want anything to do with me.
+
+Guess I'm a loner again.
+
+Maybe I can try to talk to Rainbow again?
+
+It's the only hope I have left.
 
 ~Scootaloo
 
@@ -82,3 +162,8 @@ So, this is goodbye, from Scootaloo, forever.
 
 P.S. Rainbow, if you're reading this, I hate you!!
 
+## Rainbow 'Daring' Dash (980-1001), Element of Harmony, Wonderbolt
+
+Rainbow Dash was found dead in a field on the outskirts of Ponyville last night. She had taken her own life, doing a sonic rainboom straight into the ground. The only item found on her person was a diary of a small child, who took her own life mere days ago.
+
+Rainbow Dash was a world hero, renowned for her daring adventures and countless times saving Equestria. She was the only pony to ever perform a sonic rainboom. She will be missed dearly.
