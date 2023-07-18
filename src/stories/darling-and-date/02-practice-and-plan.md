@@ -148,13 +148,13 @@ Rarity asked, "Would you like to take a break, darling?"
 
 "Sure," Fluttershy answered. "Overcoming social interactions is hard."
 
-"Yes, it took me quite a while before I was able to just ask her out," Rarity said.
+"Yes, it took me quite a while before I was able to just ask her out."
 
 "Do, you really think I can do it, Rarity?" Fluttershy asked in a demure tone.
 
-"I know you can," Rarity answered. "I believe in you and will do anything I can to help you ask her out!"
+"I know you can, I believe in you and will do anything I can to help you ask her out!"
 
-"Thank you, Rarity," Fluttershy said.
+"Thank you, Rarity."
 
 After a few seconds of silence, Rarity asked, "What made you realize you liked her more than a friend? If you don't mind sharing, of course."
 
@@ -168,17 +168,17 @@ Fluttershy realized she was rambling, she stopped speaking and turned to Rarity.
 
 "Sounds like you love her," Rarity said.
 
-"I do," Fluttershy said.
+"I do."
 
-Rarity replied, "You need to channel your love into asking her out, use it as your determination to ask her out."
+"You need to channel your love into asking her out, use it as your determination to ask her out."
 
-Fluttershy said, "I'll try, Rarity."
+"I'll try, Rarity."
 
 After a moment of silence, Fluttershy asked, "How about you?"
 
-"Beg your pardon?" Rarity asked.
+"Beg your pardon?"
 
-Fluttershy asked, "What made you realize you liked Pinkie romantically?"
+"What made you realize you liked Pinkie romantically?"
 
 Rarity answered, "How she can always make me smile. She is always doing her best to make everypony smile. Whenever I'm having a bad day, she is always there for me. Even her just around me makes me feel better.
 
