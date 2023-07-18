@@ -8,9 +8,9 @@ Pinkie frantically shuts the door. "Starlight, have you paid your taxes?"
 
 Pinkie walks over to Starlight's desk. "The Pink Tax, it's a tax on pink ponies."
 
-"That's ridiculous, are you sure it's real?"
+"That's ridiculous, there's no way that is real."
 
-"Yes, and I'm not paying this year!"
+"It is real, and I'm not paying this year!"
 
 "How are you going to do that?"
 
@@ -18,7 +18,7 @@ Pinkie walks over to Starlight's desk. "The Pink Tax, it's a tax on pink ponies.
 
 "Why pink?"
 
-"It's the most common color, coat, mane, tails, cutie mark, it's everywhere."
+"It's the most common color: coat, mane, tails, cutie mark, it's everywhere."
 
 "That seems crazy, like putting a tax on being cute."
 
@@ -90,29 +90,31 @@ The two mentioned fillies show their cutie marks, pointing to the tiny pink spot
 
 Pinkie is in disbelief. "Seriously? You have to pay for that?"
 
+Applebloom says, "We figured it'd be best to pay, you know, rather be safe than sorry."
+
 The room went silent as Pinkie looked around the room. "What about Mayor Mare, where is she? She has a pink mane."
 
 Sweetie Belle spoke up, "I think she doesn't have to pay because she dyes her mane gray."
 
-Pinkie bemoans, "That't not fair, I can't dye my entire coat!"
+Pinkie bemoans, "That't not fair, you know how hard it would be to dye my entire coat, mane, and tail!"
 
 Twilight ponders aloud, "I wonder if Shinning has to pay? He has a small pink star on his cutie mark."
 
 Moments later, he walked in the room, along with Cadence and Flurry Heart.
 
-Twilight asked, "Do you all have to pay the tax too?"
+Twilight asks, "Do you all have to pay the tax too?"
 
-Cadence answered, "Yes, it's nice to see you again."
+Cadence answers, "Yes, it's nice to see you again."
 
 Twilight and Cadence did their special dance.
 
 Pinkie says, "I can't believe this, the princesses of love and friendship have to pay a tax for having pink on them."
 
-Twilight just shrugged. "It's the law."
+Twilight just shrugs. "It's the law."
 
 Pinkie drops her head on the desk in disbelief. "Who's next, Celestia?"
 
-It was. Celestia came into the room as the whole room bowed in her presence.
+It was, in fact, Celestia. She came into the room as the whole room bowed in her presence.
 
 Pinkie's mouth hung open is shock.
 
@@ -120,21 +122,25 @@ Pinkie spoke, "No, no, no, no, no. There is no way you have to pay the pink tax.
 
 Celestia spoke, "Ah, so this is the right place."
 
-"This doesn't make any sense," Pinkie said.
+"This doesn't make any sense," Pinkie says.
 
-Twilight asked, "Celestia, why do you have to pay, isn't it your law?"
+Twilight asks, "Celestia, why do you have to pay, isn't it your law?"
 
-Celestia chuckled. "No, Luna created the law."
+Celestia chuckles. "No, Luna created the law."
 
-Twilight asked, "Why?"
+Twilight asks, "Why?"
 
 "Over a thousand years ago, Luna and I got into an argument over something silly, she decided to make a law to spite me."
 
-Pinkie interjected, "Why haven't you removed it?"
+Pinkie interjects, "Why haven't you removed it?"
 
-Celestia lamented, "I left it as a memento while she was gone."
+Celestia laments, "I left it as a memento while she was gone."
 
-Pinkie asked, "Well, could you remove it?"
+Starlight interrupts, "You left a law that taxes pink ponies for being pink, so you could remember your sister?"
+
+Celestia answers, "Yes, it was rather silly of me. I should have abolished it a long time ago."
+
+Pinkie asked, "Well, can you do it now?"
 
 "I suppose I could, since she's returned, there is no need for the law. I would have to wait till next year to remove it, this tax season has already begun. So, I'm afraid we will have to pay for one more year."
 
@@ -146,7 +152,7 @@ Filthy Rich opened the door to Starlight Glimmer's office, walking inside, he cl
 
 Looking around the room, he finds a single pink alicorn sitting in the middle of the room.
 
-"Pink Tax?" the pink alicorn said, perturbed.
+"Pink Tax?" the pink alicorn asked, perturbed.
 
 "Yes, shouldn't there be more ponies?"
 
@@ -160,4 +166,4 @@ Looking around the room, he finds a single pink alicorn sitting in the middle of
 
 "I'm Princess Luna… they died me pink."
 
-"Oh, well, that'll be fifty bits, ma'am."
+"Oh, well, let's see, *mane, coat, tail, cutie mark*, that'll be two-hundred bits, princess."
