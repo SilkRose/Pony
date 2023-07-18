@@ -41,3 +41,8 @@ This file contains random story names that don't have enough thought to have the
 - Horseshoes and Hot Mares
 - Rainbow Dash, Narcissist Extraordinaire
 - Twilight Sparkle and the Crush I Totally Don't Have on My Best Friend
+- To Be Pink
+- The Pink Book
+- Yellow Days
+- 101 Ways to Show Your Love
+- Rare and Really Cute
