@@ -1,6 +1,6 @@
 # Misc Story Ideas
 
-This file contains random story ideas that don't have enough thought to have their own folder yet or that I don't plan on writing and just wanted to share.
+This file contains random story ideas that don't have enough thought to have their own folder yet, or that I don't plan on writing and just wanted to share.
 
 ***
 
@@ -31,12 +31,6 @@ Pinkie Pie is hired to kill a pony. She misunderstands, and plays tag with them.
 
 ### Short Description
 Pinkie Pie is hired to take out somepony. Can she do it? Will she choke? Does she even know what she's doing?
-
-***
-
-## Map Mishaps
-
-No details provided.
 
 ***
 

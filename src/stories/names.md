@@ -1,0 +1,43 @@
+# Misc Story Names
+
+This file contains random story names that don't have enough thought to have their own folder yet, or that I don't plan on writing and just wanted to share.
+
+- Map Mishaps
+- The Pros and Cons of being Pinkie Pie
+- The Book of Pink Sparkles
+- Pink Mended Sparkles
+- Pinkie Pie Prose
+- Pink Prose
+- Gemstones and Gentle
+- Hard Work and Hot Wings
+- Night Sparkles
+- Pinkie Pie, the Purple Alicorn
+- Twilight Sparkle, the Pink Earth Pony
+- How to be Pinkie Pie, a Self Written Dictionary
+- The Pink Dictionary
+- Pink Swirls
+- Pink with a side of Purple
+- Books and Butterflies
+- The Fastest Wing in the West
+- Beauty and Butter
+- Peace Attempts and Panic Attacks
+- Hard Cider and Hot Friends
+- The Misjudged Mare
+- Marefriends and Molotov's
+- Shy and Spoken
+- Fluttershy Fights Freedom
+- Horseshoes and Hope
+- Us and Unspoken
+- Ponies and Power
+- Mare and Myth
+- Gray and Gone
+- Little Life
+- For Loop
+- Flight and Fun
+- Flames and Friendship
+- Pony Posterior and Postulating Prose
+- Red Flags and Cute Ponies
+- The Butterflies on My Butt
+- Horseshoes and Hot Mares
+- Rainbow Dash, Narcissist Extraordinaire
+- Twilight Sparkle and the Crush I Totally Don't Have on My Best Friend
