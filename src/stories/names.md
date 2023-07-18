@@ -46,3 +46,6 @@ This file contains random story names that don't have enough thought to have the
 - Yellow Days
 - 101 Ways to Show Your Love
 - Rare and Really Cute
+- Pink Guide
+- Pink Mare
+- Uncouth and Uncool
