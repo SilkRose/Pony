@@ -30,7 +30,18 @@ There's a new tax going around, and Pinkie hasn't paid hers yet.
 - When the tax collector shows up to collect, everypony is now a different color, no pink in sight.
 
 ## Pink Ponies
-- Pinkie Pie, Starlight Glimmer, Twilight Sparkle, Fluttershy, Sweetie Belle, Diamond Tiara
+- Pinkie Pie
+- Starlight Glimmer
+- Twilight Sparkle
+- Fluttershy
+- Sweetie Belle
+- Scootaloo
+- Applebloom
+- Diamond Tiara
+- Sweetie Drops
+- Celestia
+- Cadence
+- Flurry Heart
 
 ## Story
 [The Pink Tax](./the-pink-tax.md)
