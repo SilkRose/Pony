@@ -47,3 +47,4 @@ There's a new tax going around, and Pinkie hasn't paid hers yet.
 [The Pink Tax](./the-pink-tax.md)
 
 ## Cover
+![cover](./cover/cover.png)
