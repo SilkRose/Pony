@@ -12,10 +12,10 @@ Genres:
 A short comedy about there being a tax for being pink in Equestria
 
 ## Description
-
+Tax season is almost over, and Pinkie hasn't paid hers yet.
 
 ## Short Description
-There's a new tax going around, and Pinkie hasn't paid hers yet.
+Tax season is almost over, and Pinkie hasn't paid hers yet.
 
 ## Ideas
 - Pinkie goes to starlight, trying to get help to evade the pink tax.
