@@ -47,4 +47,4 @@ Tax season is almost over, and Pinkie hasn't paid hers yet.
 [The Pink Tax](./the-pink-tax.md)
 
 ## Cover
-![cover](./cover/cover.png)
+![cover](./cover/cover-upscaled.png)
