@@ -184,6 +184,6 @@ Looking around the room, he finds a single pink alicorn sitting in the middle of
 
 "What about you?"
 
-"I'm Princess Luna… they died me pink."
+"I'm Princess Luna… they dyed me pink."
 
 "Oh, well, let's see, *mane, coat, tail, cutie mark*, that'll be two-hundred bits, princess."
