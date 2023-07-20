@@ -49,3 +49,8 @@ This file contains random story names that don't have enough thought to have the
 - Pink Guide
 - Pink Mare
 - Uncouth and Uncool
+- Horseshoes and Hoofprints
+- Twilight Sparkle stares out a Window
+- Rarity and the Blue Bird
+- Fluttershy Finds Feelings
+- Blue and Blushing
