@@ -60,6 +60,16 @@ Twilight contests, "That's illegal."
 
 "I'll find a way."
 
+"Why don't you want to pay?"
+
+Pinkie laments, "I've been paying my whole life, and it's not fair. One-hundred and fifty bits a year adds up."
+
+"I guess I never questioned it because that was how things always were."
+
+"Every three years probably makes it more forgettable."
+
+"Yeah."
+
 A fourth pony enters the room, Sweetie Drops. She says, "I'm here to pay my pink tax, this must be the right place."
 
 Pinkie says annoyed, "Why is everypony okay with this?"
