@@ -4,9 +4,13 @@ Starlight looks up from her desk as she hears somepony enter her room in a rush.
 
 Pinkie frantically shuts the door. "Starlight, have you paid your taxes?"
 
-"No, what are you talking about?"
+Starlight asks, "No, what are you talking about?"
 
-Pinkie walks over to Starlight's desk. "The Pink Tax, it's a tax on pink ponies."
+Pinkie walks over to Starlight's desk. "The Pink Tax."
+
+"What is that?"
+
+"It's a tax on pink ponies."
 
 "That's ridiculous, there's no way that is real."
 
@@ -26,7 +30,7 @@ Pinkie walks over to Starlight's desk. "The Pink Tax, it's a tax on pink ponies.
 
 As if on cue, Fluttershy entered Starlight's office.
 
-"Hello, is this where I pay my taxes?"
+Fluttershy asks, "Hello, is this where I pay my taxes?"
 
 Pinkie says, "No, but you should skip paying with me!"
 
@@ -42,7 +46,7 @@ Before anypony could speak, another pony entered the room, Twilight.
 
 Pinkie asked, "Don't tell me you're here to pay the pink tax."
 
-"I am, is this the right spot?"
+Twilight says, "I am, is this the right spot?"
 
 "There's barely any pink on you."
 
@@ -56,9 +60,7 @@ Twilight contests, "That's illegal."
 
 "I'll find a way."
 
-A fourth pony enters the room, Sweetie Drops.
-
-"I'm here to pay my pink tax, this must be the right place."
+A fourth pony enters the room, Sweetie Drops. She says, "I'm here to pay my pink tax, this must be the right place."
 
 Pinkie says annoyed, "Why is everypony okay with this?"
 
@@ -88,9 +90,11 @@ Sweetie Belle answers, "Yes, this is it, girls."
 
 The two mentioned fillies show their cutie marks, pointing to the tiny pink spots.
 
-Pinkie is in disbelief. "Seriously? You have to pay for that?"
+Pinkie is in disbelief, asks, "Seriously? You have to pay for that?"
 
 Applebloom says, "We figured it'd be best to pay, you know, rather be safe than sorry."
+
+Scootaloo says, "Sweetie Belle says we should only have to pay like every six years, since we barely have any pink."
 
 The room went silent as Pinkie looked around the room. "What about Mayor Mare, where is she? She has a pink mane."
 
@@ -100,21 +104,25 @@ Pinkie bemoans, "That't not fair, you know how hard it would be to dye my entire
 
 Twilight ponders aloud, "I wonder if Shinning has to pay? He has a small pink star on his cutie mark."
 
-Moments later, he walked in the room, along with Cadence and Flurry Heart.
+Moments later, he walked in the room, along with Princess Cadence and Flurry Heart.
 
 Twilight asks, "Do you all have to pay the tax too?"
 
 Cadence answers, "Yes, it's nice to see you again."
 
-Twilight and Cadence did their special dance.
+Twilight and Cadence do their special dance.
 
 Pinkie says, "I can't believe this, the princesses of love and friendship have to pay a tax for having pink on them."
 
 Twilight just shrugs. "It's the law."
 
-Pinkie drops her head on the desk in disbelief. "Who's next, Celestia?"
+Pinkie asks, "Does Flurry Heart have to pay?"
 
-It was, in fact, Celestia. She came into the room as the whole room bowed in her presence.
+Shinning Armor answers, "I believe so."
+
+Pinkie drops her head on the desk in disbelief. "Who's next, Princess Celestia?"
+
+It was, in fact, Celestia. She came into the room and the whole room bowed in her presence.
 
 Pinkie's mouth hung open is shock.
 
@@ -124,9 +132,9 @@ Celestia spoke, "Ah, so this is the right place."
 
 "This doesn't make any sense," Pinkie says.
 
-Twilight asks, "Celestia, why do you have to pay, isn't it your law?"
+Twilight asks, "Princess Celestia, why do you have to pay, isn't it your law?"
 
-Celestia chuckles. "No, Luna created the law."
+Celestia chuckles. "No, Princess Luna created the law."
 
 Twilight asks, "Why?"
 
@@ -136,13 +144,15 @@ Pinkie interjects, "Why haven't you removed it?"
 
 Celestia laments, "I left it as a memento while she was gone."
 
-Starlight interrupts, "You left a law that taxes pink ponies for being pink, so you could remember your sister?"
+Starlight interrupts, "So, let me get this straight, you left a law that taxes pink ponies for being pink, so you could remember your sister?"
 
-Celestia answers, "Yes, it was rather silly of me. I should have abolished it a long time ago."
+Pinkie interjects, "For over a thousand years, I might add."
 
-Pinkie asked, "Well, can you do it now?"
+Celestia answers, "Yes, it was rather silly of me. I should have abolished it a long time ago. I'm sorry, my little ponies."
 
-"I suppose I could, since she's returned, there is no need for the law. I would have to wait till next year to remove it, this tax season has already begun. So, I'm afraid we will have to pay for one more year."
+Pinkie asked, "Well, can you remove it now, princess?"
+
+"I suppose I could. Since she's returned, there is no need for the law. I would have to wait till next year to remove it, though, this tax season has already begun. So, I'm afraid we will have to pay for one more year."
 
 Pinkie sits in thought for a moment before a devious grin spread on her face. "Maybe not."
 
@@ -152,7 +162,7 @@ Filthy Rich opened the door to Starlight Glimmer's office, walking inside, he cl
 
 Looking around the room, he finds a single pink alicorn sitting in the middle of the room.
 
-"Pink Tax?" the pink alicorn asked, perturbed.
+"Pink Tax?" the pink alicorn asks in an annoyed tone.
 
 "Yes, shouldn't there be more ponies?"
 
