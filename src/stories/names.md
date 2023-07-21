@@ -20,7 +20,6 @@ This file contains random story names that don't have enough thought to have the
 - Books and Butterflies
 - The Fastest Wing in the West
 - Beauty and Butter
-- Peace Attempts and Panic Attacks
 - Hard Cider and Hot Friends
 - The Misjudged Mare
 - Marefriends and Molotov's
