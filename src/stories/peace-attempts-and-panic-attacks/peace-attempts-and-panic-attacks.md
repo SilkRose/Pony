@@ -60,3 +60,71 @@ I sit up, remembering what I was doing.
 
 I get up and slowly walk upstairs, as if making a noise would release *it*.
 
+I make it to the fridge and open it.
+
+With shaky hooves, I pull out the few remaining carrots I have left.
+
+*These probably won't be enough.*
+
+*It'll have to do for now.*
+
+I make my way back downstairs even slower than I came up.
+
+At the bottom of the stairs, I just stand there staring at the door, thinking of how I am going to be able to force myself to do this.
+
+*I have to try…*
+
+I lay down on the floor, belly first. Holding the carrots in my mouth, I inch my way towards the door.
+
+Every centimeter makes my heart rate go up.
+
+*I'm… I'm… I''m doing it.*
+
+That's when it crashed against the door again.
+
+I close my eyes and resolve to continue as my body shivers.
+
+*I can't live in fear…*
+
+*I must.*
+
+Tears flow from my eyes and I can feel my hoof bump into the door frame.
+
+*Here goes nothing…*
+
+I take a carrot in my hooves, almost dropping it several times.
+
+I shakily stick it under the door as I can feel another panic attack coming on.
+
+I shove as many carrots under the door as I can with my eyes closed before I scamper away, leaving all the carrots at the door.
+
+I make it to the stairs again before I pass out.
+
+I wake up and open my eyes. The room is far darker than before.
+
+*How long was I out?*
+
+I look instinctively at the door.
+
+*All the carrots are gone…*
+
+Looking close, I see scratch marks on the floor.
+
+*It's never done that before…*
+
+I start to hyperventilate, vision blurring again.
+
+*Don't pass out again.*
+
+*Don't.*
+
+Thankfully I don't pass out, I do collapse to the floor though, audibly whimpering.
+
+*What do I do now?*
+
+*I think it ate all the carrots. Do I feed it something else?*
+
+I clench my pain and stand up.
+
+*I have to try, again…*
+
