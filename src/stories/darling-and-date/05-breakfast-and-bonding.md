@@ -68,13 +68,13 @@ Fluttershy sat down. "Thank you."
 
 "You're welcome," Rainbow said. "I'm going to make us breakfast."
 
-"What are we having?" Fluttershy asked.
+"What are we having?"
 
 *I hope it's pancakes, the ones I ate at Pinkie's the other day were awesome.*
 
 "It's a surprise," Rainbow said with a grin.
 
-"Oh, okay," Fluttershy said.
+"Oh, okay."
 
 "I'll be back when it's done," Rainbow said before disappearing into the kitchen.
 
@@ -204,7 +204,7 @@ As Fluttershy stared at her heart shaped pancakes, an errant thought entered her
 
 "Yes," Rainbow answered.
 
-Fluttershy averted her gaze. "Could you cut up my pancakes for me, please?" she asked.
+Fluttershy averted her gaze. "Could you cut up my pancakes for me, please?"
 
 "Sure," Rainbow said without hesitation.
 
@@ -236,7 +236,7 @@ Rainbow finished moments later and said, "You're welcome, I'm glad you enjoyed t
 
 Fluttershy asked, "Could we go sit on the couch? There is something I wanted to talk to you about…"
 
-"Sure, I was planning on moving to the couch and talking to you about something there too. I'll let you go first," Rainbow said.
+"Sure, I was planning on moving to the couch and talking to you about something there too. I'll let you go first."
 
 The pair got up and trotted to the couch, Rainbow sat down first, while Fluttershy took the opportunity to sit really close to Rainbow.
 
@@ -308,7 +308,7 @@ Rainbow asked in a bashful tone, "Can we kiss?"
 
 *I've waited so long to kiss you.*
 
-Fluttershy didn't answer, instead she leaned into Rainbow, they were about to kiss when Rainbow toppled backwards on the couch. Neither pony had paid attention to their balance, causing Fluttershy to fall onto Rainbow.
+Fluttershy didn't answer, instead she leaned into Rainbow, but as they were about to kiss, Rainbow toppled backwards on the couch. Neither pony had paid attention to their balance, causing Fluttershy to fall onto Rainbow.
 
 Both ponies just giggled, reveling in their closeness.
 
@@ -338,4 +338,4 @@ Rainbow, who wasn't done making her new marefriend blush, wrapped her wings arou
 
 Fluttershy, who somehow blushed harder, said, "I love you too, Rainbow Dash."
 
-Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would be their most cherished moment in their lives up until that point.
+Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would become their most cherished memory in their lives up until that point.
