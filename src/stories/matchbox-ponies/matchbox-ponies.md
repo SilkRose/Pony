@@ -166,7 +166,7 @@ Apples aren't selling like they did.
 
 Celestia cried at the occupied moon.
 
-Friendship did not saved them all.
+Friendship did not save them all.
 
 She looked up. The rainbow soared.
 
@@ -207,4 +207,10 @@ What, lavender girl? She was bratty.
 Nightmare Moon flared in the stratosphere.
 
 "A phoenix, seriously? Time for testing."
+
+"Is that a blush I see?"
+
+"Pinkie, shut up and kiss me."
+
+I lied, right before catching fire.
 
