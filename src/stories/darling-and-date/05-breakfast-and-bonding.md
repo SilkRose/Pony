@@ -14,13 +14,13 @@ Fluttershy thought of her crush as she trotted.
 
 *Rainbow said she wanted to show me how much she cares. I sure hope it's love.*
 
-*I sure know I love her.*
+*I certainly know I love her.*
 
 Fluttershy decided, *I'm going to ask her out after we eat, I hope she's okay with me going first…*
 
 *Wonder what's for breakfast? Is Rainbow making it?*
 
-*I bet she'd put in a lot of effort if she was cooking.*
+*I bet she'd put in significant effort if she was cooking.*
 
 *She always goes hard at anything she does.*
 
@@ -146,7 +146,7 @@ She thought about her plan.
 
 *We will move to the couch, where I will open my heart up to her.*
 
-*Hopefully she says feels the same way.*
+*Hopefully, she says feels the same way.*
 
 *Then we kiss?* she thought as her blush intensified.
 
@@ -164,7 +164,7 @@ She placed a heart shaped metal cookie cutter into the pan, using it as a wall t
 
 *She's going to love these pancakes, I bet.*
 
-Rainbow made eight pancakes, four for Fluttershy, and four for herself. She made sure to give the four best looking pancakes to Fluttershy.
+Rainbow made eight pancakes, four for Fluttershy, and four for herself. She made sure to give the four best-looking pancakes to Fluttershy.
 
 After turning the burner off, she did a double take to make sure she had everything she needed on the tray.
 
@@ -192,7 +192,7 @@ That's when Fluttershy noticed the pancakes, they were shaped like hearts.
 
 Fluttershy's mind immediately went in two directions.
 
-*This means she loves me and wants to date, or I'm reading way too much into this, and she just wanted to show me how much our friendship means to her.*
+*This means she loves me and wants to date, or I'm reading far too much into this, and she just wanted to show me how much our friendship means to her.*
 
 *Please be the first one.*
 
@@ -240,7 +240,7 @@ Fluttershy asked, "Could we go sit on the couch? There is something I wanted to 
 
 The pair got up and trotted to the couch, Rainbow sat down first, while Fluttershy took the opportunity to sit really close to Rainbow.
 
-Both ponies blushed from the close proximity to each other.
+Both ponies blushed from the proximity to each other.
 
 *This is it, Fluttershy.*
 
@@ -280,9 +280,9 @@ Rainbow enthusiastically nodded before she said, "Yes, absolutely yes."
 
 Both ponies blushed as they just stared into each other's eyes.
 
-Rainbow broke the serene calm that had overtaken the duo, and said, "I was actually about to ask you out, I've kinda had a crush on you for a while now…"
+Rainbow broke the serene calm that had overtaken the duo, and said, "I was actually about to ask you out, I've kind of had a crush on you for a while now…"
 
-Fluttershy said, "Oh, that's amazing, I've also had a crush on you for a while now too…"
+Fluttershy said, "Oh, that's wonderful, I've also had a crush on you for a while now too…"
 
 Both ponies' blushes increased.
 
@@ -322,13 +322,13 @@ Rainbow wrapped her front hooves around her and kissed back with passion.
 
 They held the kiss for a long while, neither pony wanting to be the one who broke their first kiss.
 
-Eventually they came to an understanding, closing their eyes, they both broke the kiss.
+Eventually, they came to an understanding, closing their eyes, they both broke the kiss.
 
 Fluttershy just stared at Rainbow, falling in love all over again.
 
 Rainbow broke the silence. "You know, you are the prettiest mare in all of Equestria."
 
-Fluttershy blushed. "No, I think that title belong to you, I'll settle for second place," she said before she giggled.
+Fluttershy blushed. "No, I think that title belongs to you, I'll settle for second place," she said before she giggled.
 
 Rainbow blushed back as she smiled again. "How about we call it a tie?"
 
@@ -338,4 +338,4 @@ Rainbow, who wasn't done making her new marefriend blush, wrapped her wings arou
 
 Fluttershy, who somehow blushed harder, said, "I love you too, Rainbow Dash."
 
-Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would become their most cherished memory in their lives up until that point.
+Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would become their most cherished memory in their lives until that point.
