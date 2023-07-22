@@ -148,7 +148,7 @@ It's the only hope I have left.
 
 Dear Diary,
 
-I hate Rainbow Dash, I hate her, hate her, hate her, hate her!
+I hate Rainbow Dash, hate, hate, hate, hate her!
 
 I tried talking to her today, about maybe being her sister… She said no…
 
@@ -156,14 +156,14 @@ I broke down crying right there. Then she called me weird for crying. I tried to
 
 I'm just done. I don't want to cry anymore, I don't want to have hope anymore, it's too painful. I just want to go away.
 
-So, this is goodbye, from Scootaloo, forever.
+This is goodbye, from Scootaloo, forever.
 
 ~Scootaloo
 
-P.S. Rainbow, if you're reading this, I hate you!!
+P.S. Rainbow, if you're reading this, I hope you're happy…
 
-## Rainbow 'Daring' Dash (980-1001), Element of Harmony, Wonderbolt
+## Rainbow Dash (980-1001), Element of Harmony, Wonderbolt
 
-Rainbow Dash was found dead in a field on the outskirts of Ponyville last night. She had taken her own life, doing a sonic rainboom straight into the ground. The only item found on her person was a diary of a small child, who took her own life mere days ago.
+Rainbow Dash was found dead in a field on the outskirts of Ponyville last night. She had taken her own life, doing a sonic rainboom straight into the ground. The only item found on her person was a diary of a small filly, who took her own life mere days ago.
 
 Rainbow Dash was a world hero, renowned for her daring adventures and countless times saving Equestria. She was the only pony to ever perform a sonic rainboom. She will be missed dearly.
