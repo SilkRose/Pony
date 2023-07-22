@@ -38,7 +38,7 @@ I ran down the hallway… and tripped, landing right in front of the door.
 
 *No, no, no, no, no, no!*
 
-I rush away, hooves slipping on the floor as my visions blurs.
+I rush away, hooves slipping on the floor as my vision blurs.
 
 I make it to the bottom of the stairs, collapsing on the floor.
 
@@ -46,19 +46,19 @@ I hear it bash itself against the door over and over, each time I curl up into a
 
 My vision goes black as I whimper to myself, tears streaking to the floor.
 
-The thought of the door opening won't leave my mind, making my work shake and spin.
+The thought of the door opening won't leave my mind, making my world shake and spin.
 
 My vision comes back as I calm down, still too afraid to look up.
 
 I lay there for an unknown amount of time, losing all sense of time.
 
-Eventually I lift my head, shaking profusely. Looking around, I see I am alright, for now…
+Eventually, I lift my head, shaking profusely. Looking around, I see I am alright, for now…
 
 I sit up, remembering what I was doing.
 
 *Oh, yea, food offering.*
 
-I get up and slowly walk upstairs, as if making a noise would release *it*.
+I get up and slowly walk upstairs, as if making a noise will release *it*.
 
 I make it to the fridge and open it.
 
@@ -70,7 +70,7 @@ With shaky hooves, I pull out the few remaining carrots I have left.
 
 I make my way back downstairs even slower than I came up.
 
-At the bottom of the stairs, I just stand there staring at the door, thinking of how I am going to be able to force myself to do this.
+At the bottom of the stairs, I just stand there staring at the door, thinking of how I will be able to force myself to do this.
 
 *I have to try…*
 
@@ -112,7 +112,7 @@ Looking close, I see scratch marks on the floor.
 
 *It's never done that before…*
 
-I start to hyperventilate, vision blurring again.
+I hyperventilate, my vision blurring again.
 
 *Don't pass out again.*
 
@@ -127,4 +127,48 @@ Thankfully I don't pass out, I do collapse to the floor though, audibly whimperi
 I clench my pain and stand up.
 
 *I have to try, again…*
+
+I clamber up the stairs and back to the fridge. I open it and pull out two apples.
+
+I set them on the counter and cut them in half.
+
+*Should fit under the door now.*
+
+I meander down the stairs before deciding to take a different approach.
+
+*I might be able to slide them under the door from afar.*
+
+I crawl within two feet of the door, hunkering down.
+
+*Here goes nothing.*
+
+I flick the first half of an apple towards the door as *it* bashes against the door again.
+
+I curl up before I start to shake.
+
+*Be brave.*
+
+*You can do this.*
+
+I look up and see the half is nowhere to be seen.
+
+Steeling my nerves, I flick the second half.
+
+This one I watched go under the door.
+
+It doesn't react, so I send the third one.
+
+The third one gets stuck under the door. I watch it for a split second, before it disappears into that room.
+
+I send the fourth one, then back off from the door.
+
+Looking back, I see it's also gone.
+
+It starts crashing into the door over and over, harder than ever before.
+
+*I need to get to the other side, it's safer over there.*
+
+I stand up and stretch my legs as tears stream down my face.
+
+I charge down the hallway with my eyes closed, too afraid to open them.
 
