@@ -108,7 +108,7 @@ Twilight Sparkle loved her more, forever.
 
 Pinkie never forgot, until one day.
 
-Pinkie cried at her own funeral.
+Pinkie cried invisibly watching her funeral.
 
 Rainbow hit the wall too hard.
 
@@ -261,4 +261,78 @@ The awesome part is, Rainbow's cuteness.
 Scootaloo's scooter careened towards the cliff.
 
 The adorableness increased when she entered.
+
+A staircase opened under Twilight's floor.
+
+"Just as planned", I lied unconvincingly.
+
+Fluttershy never got to say goodbye.
+
+Cyan feathers fell from the sky.
+
+Spike farted, Twilight's ashes were sent.
+
+Twilight determines her immortality must end.
+
+Pinkie isn't the first or last.
+
+Twilight keeps backups of her friends.
+
+Rarity lies that Sweetie isn't hers.
+
+Twilight spotted smoke in the library.
+
+Scootaloo admired Rainbow's wingless sleeping form.
+
+Spike didn't get out in time.
+
+Her books all burnt and ashen.
+
+"Oops…" Trixie told the manticore dung.
+
+The ground shakes around Canterlot Castle.
+
+Scootaloo flew…right into Troubleshoes' colon.
+
+Celestia looks out upon the ashes.
+
+Even Luna's moon cannot be seen.
+
+Sweetie's song stunned, and killed them.
+
+Derpy gets pranked, the CMC chuckle.
+
+Fluttershy never found Rainbow's remains again.
+
+Turns out, the moon eats visitors.
+
+Twilight heard Spike cry from below.
+
+Turns out ponies are great snacks.
+
+The river near Ponyville turned black.
+
+Twilight marries Rarity, after removing competition.
+
+Rarity's newest dress incorporated blood stains.
+
+Rainbow flew apart. Others soon followed.
+
+Rarity kissed Pinkie. Twilight never knew.
+
+Twilight wept, surrounded by her friends.
+
+Rarity kissed Pinkie, then removed her.
+
+Scootaloo smiled at Rainbow and cried.
+
+Rarity knew Pinkie, softer than Fluttershy.
+
+Rarity made her last Applejack dress.
+
+Rarity made her unused wedding dress.
+
+Rainbow hugged Tank one last time.
+
+"Marry me?" Pinkie asked, Twilight faltered.
 
