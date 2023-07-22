@@ -68,3 +68,35 @@ Pinkie blushed every time they kissed.
 
 Luna made the stars shine brightly.
 
+Pinkie retired with love around her.
+
+While walking home, Rarity found love.
+
+Without supervision, the apples went bad.
+
+The dust on Twilight's books stagnated.
+
+The sun shone on nopony today.
+
+Rarity loved every Twilight Sparkle embrace.
+
+While watching her, Fluttershy couldn't think.
+
+Twilight never knew about this feeling.
+
+Rainbow finished doing Fluttershy's last chore.
+
+Pinkie never got old to Rarity.
+
+Rarity never forgot Fluttershy's pretty face.
+
+Sweetie Belle loved her sister again.
+
+Fluttershy nursed Rainbow back to health.
+
+When pushed, Twilight overcame her fear.
+
+Pinkie Pie pranks herself this time.
+
+When awoken, Rainbow kissed Fluttershy pink.
+
