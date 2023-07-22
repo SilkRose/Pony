@@ -15,7 +15,7 @@ Genres:
 
 
 ## Short Description
-
+Collaborative anthology of two-hundred six-word stories.
 
 ## Ideas
 
