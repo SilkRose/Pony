@@ -214,3 +214,51 @@ Nightmare Moon flared in the stratosphere.
 
 I lied, right before catching fire.
 
+My coat began changing color today.
+
+Twilight Sparkle's mind fell into pieces.
+
+Pinkie was the softest of pillows.
+
+Pinkie's smile melted my heart, daily.
+
+Applejack ran as the barn burned.
+
+Rainbow was the first to die.
+
+Applejack won the war, for Equestria.
+
+Twilight's castle was darker than usual.
+
+Pinkie kissed Twilight every single day.
+
+Pinkie sensed a doozy coming soon.
+
+The Everfree went quiet one day.
+
+Rarity blushed, kissing Fluttershy's cutie mark.
+
+Rainbow's feathers began to fall off.
+
+The lightning missed Rainbow just barely.
+
+The moon was red that night.
+
+The sun is rising too early.
+
+Pinkie licks Twilight on the cheek.
+
+Rarity convinces Rainbow to kiss Pinkie.
+
+Fluttershy really likes Rainbow Dash, romantically.
+
+Starlight's eyes opened and saw nothing.
+
+Rarity shows Pinkie love, Pinkie reciprocates.
+
+The awesome part is, Rainbow's cuteness.
+
+Scootaloo's scooter careened towards the cliff.
+
+The adorableness increased when she entered.
+
