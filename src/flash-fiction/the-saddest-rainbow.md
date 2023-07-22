@@ -5,14 +5,15 @@ Diary entries written by [Silk Rose](https://www.fimfiction.net/user/237915/Silk
 
 ***
 
-The colors of the rainbow were today associated with something somber, the sonic boom was followed by a crash, straight into the ground like a meteorite.
+The gray morning sky was tinted with a sad colored rainbow announced by a deafening sonic boom and pierced by a trail of steam cloud, hitting the ground like a meteorite.
 
-It called the attention of everypony around, whomever could, started approaching the crash site, led by morbid curiosity.
+Everypony wondered what could it be, whomever could, rushed to the epicenter, following their morbid curiosity.
 
-Some scattered pages fell from the sky, some type of journal, handwritten. 
-Gathering them, somepony said, "It belongs to a Filly or a Foal, who almost drowned", he kept reading and picking up the other pieces of it, some drawings, piecing together more of the somber puzzle.
+As they approached some thorn pages fell from the sky, it was a handwritten journal. 
 
-No Filly or Foal flown like that, He thought, it was a grown pony who crashed.
+Gathering them, somepony said "It belongs to a Filly or a Foal, who almost drowned", he kept reading and picking up the other pieces of it, "A lonely one," he added picking some more pages and drawings, piecing together more of the somber puzzle.
+
+No Filly or Foal flown like that, He thought, it was a grown Pegasus who crashed.
 
 He kept reading:
 
@@ -40,7 +41,7 @@ Shivering, he reached for the other piece of paper:
 >
 > I don't know what to do anymore.
 
-Looking around, he found some more, the front and back covers, with a few drawings, now all defaced, scribbled over, vandalized.
+Glancing around, he spotted some more thorn pages, scattered around, the front and back covers, with a few drawings, now all defaced, scribbled over, vandalized.
 
 Approaching and looking for more, before the wind dragged them away, he took yet another, reading, and galloping in a rush to the epicenter of the impact.
 
