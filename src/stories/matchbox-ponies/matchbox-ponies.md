@@ -100,3 +100,111 @@ Pinkie Pie pranks herself this time.
 
 When awoken, Rainbow kissed Fluttershy pink.
 
+Pinkie loved Rarity, even as ashes.
+
+Twilight said what Celestia never did.
+
+Twilight Sparkle loved her more, forever.
+
+Pinkie never forgot, until one day.
+
+Pinkie cried at her own funeral.
+
+Rainbow hit the wall too hard.
+
+The stars in the sky screamed.
+
+Fluttershy never opened _that_ door, again.
+
+Pinkie is stuck, in the dryer.
+
+Fluttershy kissed each friend goodbye, twice.
+
+Twilight failed the test, Equestria exploded.
+
+Pinkie won it, Rainbow's first kiss.
+
+"You," Twilight said before kissing Pinkie.
+
+"No!" Fluttershy screamed in vain, falling.
+
+Pinkie drools on Rarity's chest again.
+
+Twilight kissed Pinkie, who shoves her.
+
+Pinkie ponders, Twilight thinks, Rarity revolts.
+
+Rainbow falls flat, Pinkie inflates her.
+
+Twilight died not knowing of mares.
+
+The flowers wilted in Fluttershy's garden.
+
+Ponies panicked when Celestia's sun disappeared.
+
+Luna doesn't visit my dreams anymore.
+
+One day, Applejack gave up apples.
+
+"I love you," Twilight Sparkle lied.
+
+Pinkie laughed joyously at her will.
+
+Rainbow grinned, as she cried inside.
+
+Rainbow smiled softly as she wept.
+
+Rainbow wept on the turtle shell
+
+Rainbow just barely clipped the ring.
+
+Rainbow taped her own mouth shut.
+
+Luna refused to lower the moon.
+
+Apples aren't selling like they did.
+
+Celestia cried at the occupied moon.
+
+Friendship did not saved them all.
+
+She looked up. The rainbow soared.
+
+Her mane went fluttering, then stopped.
+
+"Sweetest pie," she muttered, "where's Pinkie?"
+
+Hair moved between his clawed fingers.
+
+Soon, a new constellation lit up.
+
+Her long horn was firmly grasped.
+
+From her snake tongue slithered lies.
+
+Discord cackled. All went in accord.
+
+She could forgive them. Even her.
+
+The herd happily trampled the streets.
+
+"More cider!" She never had enough.
+
+"No more school," she observed Ponyville.
+
+Never enough time. But what if…
+
+There remained nothing but a tree.
+
+The King sat on his throne.
+
+Spell sizzled. The egg didn't hatch.
+
+What, lavender girl? She was bratty.
+
+"Believe!" cried Rainbow, letting Scootaloo go.
+
+Nightmare Moon flared in the stratosphere.
+
+"A phoenix, seriously? Time for testing."
+
