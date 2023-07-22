@@ -36,7 +36,7 @@ I stare down the hallway as I try to mentally prepare for going back.
 
 I ran down the hallway… and tripped, landing right in front of the door.
 
-*No, no, no, no, no, no!*
+*No, no, no, no, no!*
 
 I rush away, hooves slipping on the floor as my vision blurs.
 
@@ -82,13 +82,13 @@ Every centimeter makes my heart rate go up.
 
 That's when it crashed against the door again.
 
-I close my eyes and resolve to continue as my body shivers.
+I close my eyes, resolving to continue as my body shivers.
 
 *I can't live in fear…*
 
 *I must.*
 
-Tears flow from my eyes and I can feel my hoof bump into the door frame.
+Tears flow from my eyes as I feel my hoof bump into the door frame.
 
 *Here goes nothing…*
 
@@ -100,7 +100,7 @@ I shove as many carrots under the door as I can with my eyes closed before I sca
 
 I make it to the stairs again before I pass out.
 
-I wake up and open my eyes. The room is far darker than before.
+I woke up, opening my eyes. The room is far darker than before.
 
 *How long was I out?*
 
@@ -130,11 +130,11 @@ I clench my pain and stand up.
 
 I clamber up the stairs and back to the fridge. I open it and pull out two apples.
 
-I set them on the counter and cut them in half.
+I set them on the counter, cutting them in half.
 
 *Should fit under the door now.*
 
-I meander down the stairs before deciding to take a different approach.
+I slink down the stairs before deciding to take a different approach.
 
 *I might be able to slide them under the door from afar.*
 
@@ -164,17 +164,17 @@ I send the fourth one, then back off from the door.
 
 Looking back, I see it's also gone.
 
-It starts crashing into the door over and over, harder than ever before.
+It starts crashing into the door repeatedly, harder than ever before.
 
 *I need to get to the other side, it's safer over there.*
 
-I stand up and stretch my legs as tears stream down my face.
+I stand up, stretching my legs as tears stream down my face.
 
 I charge down the hallway with my eyes closed, too afraid to open them.
 
 I slam into the mirror at the end of the hallway, causing it to crash to the floor.
 
-I fall to the floor beside it, I keep my eyes closed as I curl up into a ball, shaking uncontrollably.
+I fall to the floor beside it, keeping my eyes closed as I curl up into a ball, shaking uncontrollably.
 
 My mind goes numb as the sound of it crashing into the door is drowned out by the ringing in my ear intensifying.
 
@@ -202,6 +202,6 @@ I scream for help as my voice catches in my throat.
 
 I get no response as my senses slowly come back to me.
 
-I open my eyes and look in the mirror laying beside me.
+I open my eyes, looking in the mirror laying beside me.
 
 The door is open.
