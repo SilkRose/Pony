@@ -200,8 +200,8 @@ I scream for help as my voice catches in my throat.
 
 "Please…"
 
-I get no response as my senses slowly come back to me.
+I get no response as my senses slowly return to me.
 
-I open my eyes, looking in the mirror laying beside me.
+I open my eyes, looking through the mirror laying beside me.
 
-The door is open.
+The door is open now.
