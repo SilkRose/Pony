@@ -20,7 +20,7 @@ Rarity answered, "The easiest way is to ask, but there are other signs you can l
 
 Fluttershy asked, "Like what?"
 
-Rarity replied, "Behavioral changes are probably the biggest tell. Do they walk closer to you? Are they wanting to spend more time together? Do they stare at you? Are they more shy around you? Are they more intimate with you? There's more, but you probably get the idea."
+Rarity replied, "Behavioral changes are probably the biggest tell. Do they walk closer to you? Do they want to spend more time together? Do they stare at you? Are they more shy around you? Are they more intimate with you? There's more, but you most likely get the idea."
 
 Fluttershy asked another question, "Do you think she might like me back?"
 
@@ -56,11 +56,11 @@ Rarity said, "Well, that's a start."
 
 "How is practicing going to help do that?" Fluttershy asked.
 
-"Hopefully it's going to lower your fear of rejection, by showing you how it *could* go," Rarity answered. "We will also practice being rejected."
+"Hopefully, it's going to lower your fear of rejection, by showing you how it *could* go," Rarity answered. "We will also practice being rejected."
 
 "What do I do now?" Fluttershy asked.
 
-"Keep practicing, even if it is just mouthing the words," Rarity answered.
+"Continue to practice, even if it is just mouthing the words," Rarity answered.
 
 Fluttershy tried again, still only mouthing the words.
 
@@ -100,7 +100,7 @@ She tried over and over, each time giving herself a little pep talk before each 
 
 *You will do it for her.*
 
-Eventually she managed something resembling a word.
+Eventually, she managed something resembling a word.
 
 "Rain…" Fluttershy said.
 
@@ -110,7 +110,7 @@ Fluttershy returned the hug. "Thank you."
 
 Fluttershy closed her eyes, letting her mind wonder. She thought of the pony she yearned for.
 
-*Oh Rainbow, I wish I could just tell you. Hopefully this practice works.*
+*Oh Rainbow, I wish I could just tell you. Hopefully, this practice works.*
 
 Rarity had let go of the hug, but Fluttershy only hugged Rainbow tighter. Rarity just sat there for her friend, letting her have a break.
 
@@ -190,7 +190,7 @@ Rarity answered, "How she can always make me smile. She is always doing her best
 
 Fluttershy replied, "You should get your wish when you go on your date."
 
-"Yes, I'm very excited for it, I can't wait to see what Pinkie has planned. I thought about making a new dress to wear on the date, but I don't really know what type of date she's planning," Rarity said.
+"Yes, I'm very excited about it, I can't wait to see what Pinkie has planned. I thought about making a new dress to wear on the date, but I don't really know what type of date she's planning," Rarity said.
 
 "The idea of going on a date with Rainbow Dash makes me nervous. I would probably ruin it by being too shy," Fluttershy lamented.
 
@@ -216,7 +216,7 @@ Rainbow Dash stepped out of her front door, closing it behind her. She took a fe
 
 *Then accept it, go cry to yourself and move on.*
 
-*I don't want to cry, I want to be with Fluttershy…*
+*I would rather not cry, I want to be with Fluttershy…*
 
 *The only way you will find out if she likes you back is to ask.*
 
@@ -224,11 +224,11 @@ Rainbow Dash stepped out of her front door, closing it behind her. She took a fe
 
 *Why are you putting it off?*
 
-*I don't want to be vulnerable, I'm supposed to be tough.*
+*I would rather not be vulnerable, I'm supposed to be tough.*
 
 Rainbow saw Fluttershy walking into Carousel Boutique below her, but didn't comment on it.
 
-*You are tough, but you of all ponies should know that to get the reward you have to accept the risk, besides, would Fluttershy ever want to hurt you?*
+*You are tough, but you of all ponies should know that to get the reward, you have to accept the risk, besides, would Fluttershy ever want to hurt you?*
 
 *No.*
 
@@ -308,11 +308,11 @@ Rainbow said, "wow, you make them fast."
 
 Pinkie started making her own pancakes.
 
-Rainbow started eating, she finished three of her pancakes by the time Pinkie sat down with her own stack, twice as high as Dash's own.
+Rainbow started eating, she finished three of her pancakes by the time Pinkie sat down with her stack, twice as high as Dash's own.
 
 Rainbow finished her last one, then said, "That was good, thank you for the breakfast."
 
-"You're welcome," Pinkie said in between bites of her own pancakes.
+"You're welcome," Pinkie said in between bites of her pancakes.
 
 Rainbow thought about Fluttershy while Pinkie ate.
 
@@ -358,7 +358,7 @@ Rainbow thought on this for a moment.
 
 *Hmm*
 
-"Aha," Rainbow Dash said. "You should ask Twilight for a royal chariot, I feel like that would suit Rarity far more than a boring old chariot pulled by me."
+"Aha," Rainbow Dash said. "You should ask Twilight for a royal chariot, I think that would suit Rarity far more than a boring old chariot pulled by me."
 
 "Ooh, that's a great idea," Pinkie said. "But what would you do then?"
 
@@ -368,7 +368,7 @@ Rainbow thought on this for a moment.
 
 "I could perform for your date as private entertainment, what do you think?" Rainbow answered.
 
-"That's an awesome idea," Pinkie said.
+"That's a wonderful idea," Pinkie said.
 
 "I can practice for it every day until the date, I'm sure I can come up with something awesome by then," Rainbow confidently said.
 
@@ -412,7 +412,7 @@ After leaving the establishment, Rainbow said, "I need to ask Rarity about why h
 
 "Sure, but what about asking Rarity about her part of the date?"
 
-"I can ask her if you want."
+"I can ask her if you like."
 
 "Okay, sounds like a plan."
 
@@ -430,7 +430,7 @@ Pinkie thought for a few seconds before she said, "The day after tomorrow. Today
 
 "Rarity, how do I know I won't just lose all my progress once I'm in front of Rainbow Dash?"
 
-"I saw that coming, and I am prepared. After you are fully able to say it, I am going to barrow a Rainbow Dash costume from Pinkie. I will wear the costume, and we can practice you asking me out while I'm dressed liked Rainbow."
+"I saw that coming, and I am prepared. After you can fully say it, I am going to barrow a Rainbow Dash costume from Pinkie. I will wear the costume, and we can practice you asking me out while I'm dressed liked Rainbow."
 
 "Oh, my, you thought of everything."
 
@@ -590,7 +590,7 @@ Fluttershy waited patiently for Rarity to return. Moments later, Pinkie trotted 
 
 "I'll take four."
 
-Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our dessert. Rainbow is going to provide entertainment and clear the weather. We plan to ask Twilight to see if we can use a royal chariot for the date."
+Pinkie talked while making the pancakes, "Okay, I'm going to write Rarity a song, and make our dessert. Rainbow will provide entertainment and clear the weather. We plan to ask Twilight to see if we can use a royal chariot for the date."
 
 Fluttershy thought for a moment, trying to figure out how to help.
 
@@ -630,9 +630,9 @@ Pinkie turned to Rarity and gave her a hug. Rarity returned the hug, and started
 
 After they're done hugging, Rarity surprised Pinkie with a kiss. Pinkie graciously started kissing back as both of them began to blush and Rarity's ears folded back.
 
-Fluttershy looked at Rainbow, curious of her reaction.
+Fluttershy looked at Rainbow, curious about her reaction.
 
-Rainbow was looking at them kiss before she looked down at the table, her ears folded back as her face became expressionless. Fluttershy became worried about her.
+Rainbow was looking at them kissing before she looked down at the table, her ears folded back as her face became expressionless. Fluttershy became worried about her.
 
 Fluttershy stopped her eating and leaned over to Rainbow and gave her a hug, whispering, "Are you alright?"
 
@@ -716,11 +716,11 @@ Fluttershy sat there, all three pairs of eyes trained on her.
 
 Fluttershy confidently said, "I like mares." But Rainbow was the only one able to hear it.
 
-"Could you repeat that, I'm not sure if I heard you correctly," Rainbow said.
+"Could you repeat that, I'm not sure if I heard you correctly?" Rainbow said.
 
 Fluttershy took a deep breath, *you got this.*
 
-Fluttershy achieved her small victory. "I like mares too," she said, speaking at normal volume.
+Fluttershy achieved her small victory. "I like mares too," she said, speaking at a normal volume.
 
 Rainbow Dash and Pinkie's mouth were agape, both ponies surprised.
 
@@ -756,7 +756,7 @@ Fluttershy looked at Rainbow, seeing her staring back. Both ponies just stared a
 
 Pinkie had finished her food and was getting down from the table and taking her plate to the sink. Fluttershy looked at Rarity, who still had two pancakes left to eat.
 
-Fluttershy heard water running, looking over she saw Pinkie had started to do the dishes. *How nice of her*, Fluttershy thought.
+Fluttershy heard water running, looking over, she saw Pinkie had started to do the dishes. *How nice of her*, Fluttershy thought.
 
 Fluttershy turned back to Rainbow, who looked like she had something to say.
 
@@ -806,7 +806,7 @@ After the hug was over, Fluttershy said, "I'm always here for you, I would never
 
 "Okay."
 
-"Let's go back in there, they probably are done eating by now."
+"Let's go back in there, they are probably done eating by now."
 
 The pair trotted back into the kitchen. Rarity was sitting at the table, while Pinkie was just finishing the last of the dishes.
 
@@ -874,7 +874,7 @@ They walked in silence again for a bit before Pinkie said, "Oh, what did Rarity 
 
 "She's going to help me make a dress to give Rarity for the date, and she suggested I can wear the dress Rarity gave me when I asked her out."
 
-"Sounds like you two are going to have a fancy date as long as Twilight can get you a chariot."
+"Sounds like you two will have a fancy date as long as Twilight can get you a chariot."
 
 "Oh, that gives me a great idea, we can go to a fancy restaurant on the date."
 
@@ -888,7 +888,7 @@ They walked in silence again for a bit before Pinkie said, "Oh, what did Rarity 
 
 "Yes, I just know Rarity will love it," Pinkie said.
 
-"What about you? I know Rarity would want you to have fun on your own date."
+"What about you? I know Rarity would want you to have fun on your date."
 
 "I will love it, we just need to think of more stuff, right?"
 
@@ -930,7 +930,7 @@ Rainbow's thoughts drifted to Fluttershy.
 
 *I guess I'll get an answer whether or not she likes me in three days.*
 
-Before Rainbow could think of anything else, Pinkie came out the shop's door holding a box.
+Before Rainbow could think of anything else, Pinkie came out of the shop's door holding a box.
 
 "Here you go," Pinkie said, giving the box to Rainbow.
 
@@ -956,7 +956,7 @@ While she flew, she thought of the package in her hooves.
 
 *But I would still feel bad if I did, I don't know.*
 
-*I better not open it, hopefully Rarity tells me what's up.*
+*I better not open it, hopefully Rarity will tell me what's up.*
 
 Rainbow saw Carousel Boutique coming into view. She slowed down and dropped to the ground in front of the shop.
 
@@ -1016,11 +1016,11 @@ Fluttershy sat on the couch and thought about Rainbow's request.
 
 *I hope this practice goes well, hopefully I don't lose a bunch of progress from Rarity being dressed as Rainbow.*
 
-As if on queue, Rarity trotted into the room, She looked just like Rainbow Dash, except her eyes were still blue.
+As if on cue, Rarity trotted into the room, She looked just like Rainbow Dash, except her eyes were still blue.
 
 "Wow," Fluttershy said.
 
-"I knew Pinkie would have what we need," Rarity Dash said.
+"I knew Pinkie would have what we needed," Rarity Dash said.
 
 "Isn't it hot in there?"
 
@@ -1158,7 +1158,7 @@ The pair made it all the way to the Apple family home without seeing Applejack.
 
 "Must be inside," Rainbow said.
 
-Pinkie knocked on the door and waited, moments later Applejack answered.
+Pinkie knocked on the door and waited, moments later, Applejack answered.
 
 "Howdy y'all," Applejack said.
 
@@ -1182,9 +1182,9 @@ Rainbow continued, "Fluttershy is going to help Pinkie make a dress to give to R
 
 Pinkie continued, "I'm going to wear the dress Rarity gave me when I asked her out. And we're going to a fancy restaurant for dinner."
 
-Rainbow continued, "Rarity said she wants to spend quality time with Pinkie. Also, Pinkie wants to watch the sunset with Rarity on the date."
+Rainbow continued, "Rarity said she wants to spend quality time with Pinkie. Also, Pinkie would like to watch the sunset with Rarity on the date."
 
-Pinkie finished, "we're going to ask Twilight to see if we can use a royal chariot for the date, and to see if she can help schedule the date."
+Pinkie finished, "We're going to ask Twilight to see if we can use a royal chariot for the date, and to see if she can help schedule the date."
 
 "Wow, sounds you two are planning a mighty fine date," Applejack said.
 
@@ -1192,7 +1192,7 @@ Pinkie finished, "we're going to ask Twilight to see if we can use a royal chari
 
 Applejack sat there in thought for a moment, thinking of how she could help, before offering, "I can give you my land, I can find a nice secluded spot for you two that has a great view of the sunset. I can even prepare it with a picnic blanket and such."
 
-"Thank you, Applejack, that's a great idea," Pinkie replied before the gears in her own head started to turn.
+"Thank you, Applejack, that's a great idea," Pinkie replied before the gears in her head started to turn.
 
 Moments later, Pinkie asked, "Can we play our game here?"
 
@@ -1208,9 +1208,9 @@ Rainbow thought about the date activities.
 
 *Hmm, when is dessert?*
 
-Rainbow decided to ask. "Pinkie, when were you planning to have dessert? I don't think the restaurant will let you bring in your own food."
+Rainbow decided to ask. "Pinkie, when were you planning to have dessert? I don't think the restaurant will let you bring in your food."
 
-Pinkie thought for a moment. "Maybe we could eat it later in the date?"
+Pinkie thought for a moment. "Maybe we could eat it later on the date?"
 
 Applejack suggested, "Like before you watch the sunset?"
 
@@ -1244,7 +1244,7 @@ In a softer voice, Rainbow said, "I sure hope you're right."
 
 "Even if she does like you back, you know how that girl is. You are going to need to make the first move," Applejack said.
 
-"I am, the day after Pinkie and Rarity's date. Me and Fluttershy are having breakfast at my place, after we eat I am going to ask her out," Rainbow said.
+"I am, the day after Pinkie and Rarity's date. Me and Fluttershy are having breakfast at my place, after we eat, I will ask her out," Rainbow said.
 
 Pinkie walked back in the room. "I'm back."
 
@@ -1284,7 +1284,7 @@ They lined up next to each other, Rainbow getting in a running stance while Pink
 
 "Go," Rainbow finished.
 
-With that they were off, Rainbow dashed off the line, running as fast as she could.
+With that, they were off, Rainbow dashed off the line, running as fast as she could.
 
 ***
 
@@ -1402,7 +1402,7 @@ She made it halfway to Twilight's door when she spotted her, Pinkie Pie. She was
 
 Rainbow sped up, galloping as fast as she could, *I'm not giving up that easily.*
 
-Rainbow was gaining ground at a quick pace, but not quick enough. It was a forgone conclusion.
+Rainbow was gaining ground at a quick pace, but not quick enough. It was a foregone conclusion.
 
 Pinkie won.
 
@@ -1478,7 +1478,7 @@ Twilight explained, "The date starts at your place Pinkie, then to Rarity's. The
 
 "Oh," Pinkie said.
 
-"That is all well and good, but we need the timings set," Rainbow said.
+"That is all well and good, but we need the timing set," Rainbow said.
 
 "That's why I said almost," Twilight explained.
 
@@ -1492,7 +1492,7 @@ Twilight explained, "The date starts at your place Pinkie, then to Rarity's. The
 
 "Yes," Pinkie said.
 
-"And after that everything happens at Sweet Apple Acres?" Twilight asked.
+"And after that, everything happens at Sweet Apple Acres?" Twilight asked.
 
 "Yes," Rainbow answered.
 
@@ -1514,7 +1514,7 @@ Twilight answered, "the chariot will start here, I will give them the schedule t
 
 "That's fine, it is your date," Twilight said.
 
-Rainbow interjected, "Pinkie, you might want to take off your dresses and leave them in the chariot, you two probably don't want to sweat in the dresses, and Rarity would probably freak out if you eat dessert in your dress."
+Rainbow interjected, "Pinkie, you might want to take off your dresses and leave them in the chariot, you two probably don't want to sweat in the dresses; Rarity would most likely freak out if you eat dessert in your dress."
 
 "Good idea," Pinkie said before turning to Twilight. "Is that fine? Can they bring the dresses back to you?"
 
@@ -1552,7 +1552,7 @@ Rainbow turned to Pinkie once they were outside. "Pinkie, I gotta go practice fo
 
 "Oh."
 
-"You stepped up big time for me. I know you're not the first pony most would think of when they think of date planner, but you did a great job, and I really appreciate it."
+"You stepped up big time for me. I know you're not the first pony most would think of when they think of date planner, but you did a fantastic job, and I really appreciate it."
 
 "Like I said, I'm always there for my friends, besides, I'm glad you asked me. Helping you gave me a lot to think about, with my feelings for Fluttershy and all."
 
