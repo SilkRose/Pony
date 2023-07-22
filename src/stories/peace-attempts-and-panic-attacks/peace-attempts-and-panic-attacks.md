@@ -172,3 +172,36 @@ I stand up and stretch my legs as tears stream down my face.
 
 I charge down the hallway with my eyes closed, too afraid to open them.
 
+I slam into the mirror at the end of the hallway, causing it to crash to the floor.
+
+I fall to the floor beside it, I keep my eyes closed as I curl up into a ball, shaking uncontrollably.
+
+My mind goes numb as the sound of it crashing into the door is drowned out by the ringing in my ear intensifying.
+
+My vision goes black as my breathing shakes.
+
+I lay there crying as my senses fly away from me; leaving me stranded and alone.
+
+I scream for help as my voice catches in my throat.
+
+"Help!
+
+"Rainbow!
+
+"Twilight!
+
+"Pinkie!
+
+"Rarity!
+
+"Applejack!
+
+"Anypony!
+
+"Please…"
+
+I get no response as my senses slowly come back to me.
+
+I open my eyes and look in the mirror laying beside me.
+
+The door is open.
