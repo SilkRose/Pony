@@ -18,6 +18,8 @@ Entry into [A Thousand Words Contest II](https://www.fimfiction.net/group/216361
 
 Featured: [07-20-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/the-pink-tax/featured-2023-07-20-15-26-33.png).
 
+Now with a [reading](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio).
+
 ## Short Description
 Tax season is almost over, and Pinkie hasn't paid hers yet.
 
