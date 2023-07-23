@@ -342,3 +342,60 @@ Pinkie booped, Pinkie hugged, Pinkie kissed.
 
 Twilight Sparkle dies, Pinkie Pie lies.
 
+Twilight smiled as her book arrived.
+
+Rarity loved Pinkie and Fluttershy, romantically.
+
+Applejack's bucks have gotten weaker lately.
+
+One day, Rainbow started fearing heights.
+
+Fluttershy stared into Rarity's unbridled soul.
+
+Twilight could no longer feel magic.
+
+Pinkie cuddles Rarity with fierce determinism.
+
+Twilight will talk, Pinkie had listened.
+
+Spike put away his last comic.
+
+Luna glared as Celestia walked away.
+
+Pinkie wanted to kiss Rarity, forever.
+
+Pinkie fell for Rarity, Rarity watched.
+
+Pinkie melted as Rarity massaged her.
+
+Scootaloo stared longing at the clouds.
+
+Rarity loved Applejack's hat, bought two.
+
+Applejack's heart never saw Rarity coming.
+
+Twilight reached for Rainbow too late.
+
+Applejack hugged Rarity, Rarity kissed Applejack.
+
+The ground moistened under Pinkie's head.
+
+Twilight lost hope, Rarity found love.
+
+Starlight gazed regrettably at her mark.
+
+Twilight finds brick, in her shower.
+
+Pinkie nibbled lovingly on Rainbow's ear.
+
+Twilight kissed Rainbow's neck, Rainbow blushed.
+
+The start. the middle. The end.
+
+Rainbow showed Twilight how to preen.
+
+Rainbow taught Twilight to cloud nap.
+
+Scootaloo never forgot Rainbow's impact sound.
+
+Rainbow never forgot Scootaloo's hopeful smile.
