@@ -338,4 +338,4 @@ Rainbow, who wasn't done making her new marefriend blush, wrapped her wings arou
 
 Fluttershy, who somehow blushed harder, said, "I love you too, Rainbow Dash."
 
-Rainbow initialed their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would become their most cherished memory in their lives until that point.
+Rainbow initiated their second kiss. Fluttershy reciprocated with passion as both ponies reveled in what would become their most cherished memory in their lives until that point.
