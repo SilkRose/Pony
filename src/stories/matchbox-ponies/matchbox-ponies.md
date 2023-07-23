@@ -336,3 +336,9 @@ Rainbow hugged Tank one last time.
 
 "Marry me?" Pinkie asked, Twilight faltered.
 
+Pinkie kisses Twilight, Twilight studies it.
+
+Pinkie booped, Pinkie hugged, Pinkie kissed.
+
+Twilight Sparkle dies, Pinkie Pie lies.
+
