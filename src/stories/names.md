@@ -56,3 +56,5 @@ This file contains random story names that don't have enough thought to have the
 - The Thousand-Word Stare
 - Peace with Plants
 - Kiss Initials
+- Pink Wonder
+- Pink with Feelings
