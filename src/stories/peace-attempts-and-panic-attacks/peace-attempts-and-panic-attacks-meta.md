@@ -24,4 +24,4 @@ Fluttershy has a room in her cottage she doesn't go into anymore, afraid of what
 [Peace Attempts and Panic Attacks](./peace-attempts-and-panic-attacks.md)
 
 ## Cover
-
+![cover](./cover/cover-upscaled.png)
