@@ -114,7 +114,7 @@ Rainbow hit the wall too hard.
 
 The stars in the sky screamed.
 
-Fluttershy never opened _that_ door, again.
+Fluttershy never opened *that* door, again.
 
 Pinkie is stuck, in the dryer.
 

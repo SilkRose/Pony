@@ -16,7 +16,7 @@ I hear it bash against the door. I instinctively huddle on the floor, water alre
 
 *I can't.*
 
-*I have to try,* I think as I try to calm myself.
+*I have to try*, I think as I try to calm myself.
 
 I finally stop crying as I get my thoughts together, standing up.
 
