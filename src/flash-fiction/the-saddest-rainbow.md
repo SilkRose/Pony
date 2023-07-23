@@ -9,7 +9,7 @@ The gray morning sky was tinted with a sad colored rainbow announced by a deafen
 
 Everypony wondered what could it be, whomever could, rushed to the epicenter, following their morbid curiosity.
 
-As they approached some thorn pages fell from the sky, it was a handwritten journal. 
+As they approached some torn pages fell from the sky, it was a handwritten journal. 
 
 Gathering them, somepony said "It belongs to a Filly or a Foal, who almost drowned", he kept reading and picking up the other pieces of it, "A lonely one," he added picking some more pages and drawings, piecing together more of the somber puzzle.
 
