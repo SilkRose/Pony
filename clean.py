@@ -6,7 +6,7 @@ def process_file(file):
     double_quote_regex = '[“”‟″]'
     ellipsis_regex = r'\.{3}'
     comma_star_regex = r',\*'
-    underscore_regex = '_'
+    comma_underscore_regex = ',_'
     en_dash_regex = '--'
     em_dash_regex = '---'
 
@@ -18,8 +18,8 @@ def process_file(file):
     modified_content = re.sub(ellipsis_regex, '…', modified_content)
     modified_content = re.sub(em_dash_regex, '—', modified_content)
     modified_content = re.sub(en_dash_regex, '–', modified_content)
-    modified_content = re.sub(underscore_regex, '*', modified_content)
     modified_content = re.sub(comma_star_regex, '*,', modified_content)
+    modified_content = re.sub(comma_underscore_regex, '_,', modified_content)
 
     with open(file, 'w', encoding='utf-8') as f:
         f.write(modified_content)
