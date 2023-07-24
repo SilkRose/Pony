@@ -118,3 +118,76 @@ I sigh.
 
 "I like to know things."
 
+"Did Pinkie ask you to do this? Did you ask her if you could do this?"
+
+"It's complicated, Pinkie knows nothing of this."
+
+"So, you just want us to get together?"
+
+"Yes, darling."
+
+"Are you trying to romance our other friends together too?"
+
+"No."
+
+"Why do you think Pinkie would want a kiss from me?"
+
+"I've noticed how different she acts around you."
+
+"How so?"
+
+"She looks at you when you won't notice. Her smile glows when you two hug. She thinks about you when you're not around."
+
+"You really think she likes me?"
+
+"Yes."
+
+"Why do you think she hasn't just asked me out? Pinkie usually isn't afraid to share how she feels."
+
+"Romantic feelings are different, they change how you think. She's probably afraid of being rejected. She's afraid that saying anything would mess with your friendship."
+
+"How long do you think she has felt that way?"
+
+"Twenty-one days… I mean about three weeks."
+
+"That long, huh."
+
+"Yea, so does that mean you'll kiss her?"
+
+"Let me ask you this, why a kiss? Why don't I just talk to her first?"
+
+"It would be a present, you know Pinkie, she loves a surprise."
+
+"Yeah."
+
+*I guess I'm going to kiss Pinkie.*
+
+*But not before Rarity.*
+
+I say, "Okay, I'll do it on one condition."
+
+"What?"
+
+"You have to kiss me, right now."
+
+Rarity takes a moment to think before saying, "O… okay…"
+
+We lean toward each other slowly, our lips inching closer and closer.
+
+*Rarity's eyes seem lighter today…*
+
+Right before we kiss, I pull back. "Okay."
+
+"What?" Rarity says confused.
+
+"I wanted to make sure you were serious, you were willing to kiss me for Pinkie."
+
+"Oh."
+
+"I'll kiss Pinkie, when is her birthday?"
+
+Rarity unzipped her costume, revealing she was Pinkie Pie the whole time.
+
+"Pinkie?" I ask, mouth agape.
+
+"Hi, Dashie, guess what, today's my birthday!"
