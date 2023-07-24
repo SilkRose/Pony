@@ -18,6 +18,8 @@ Sequel to [Pretty and Pink](https://www.fimfiction.net/story/432210/pretty-and-p
 
 Cover done by irradiatedtittymilk on Discord.
 
+Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading chapter one.
+
 ### Short Description
 
 Pinkie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow deal with their feelings for each other.
