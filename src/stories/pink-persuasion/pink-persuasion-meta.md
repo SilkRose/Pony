@@ -19,6 +19,8 @@ Rarity does her best to convince Rainbow Dash to give Pinkie a kiss on her birth
 
 ## Ideas
 
+### Cover Idea
+The text 'Pink' at the top with a pink gradient in the letters. The middle is Rarity and Rainbow sitting on Rarity's couch. Rarity has Pinkie colored eyes. The bottom is the text 'Persuasion' in a blue gradient.
 
 ## Story
 [Pink Persuasion](./pink-persuasion.md)
