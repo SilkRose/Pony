@@ -162,10 +162,28 @@ I sigh.
 
 *I guess I'm going to kiss Pinkie.*
 
-"I'll kiss Pinkie, when is her birthday?"
+"I'll kiss Pinkie."
+
+Rarity hesitated a second, "Would you like to practice?"
+
+"What?"
+
+"Like a practice kiss… on the cheek."
+
+"On your cheek?"
+
+"Yes."
+
+*I guess it won't hurt to get feedback.*
+
+Rainbow slowly leans close to Rarity, gently kissing her cheek.
+
+Rarity blushed, smiling. "You did great, darling."
+
+"That wasn't so bad, thanks. So, when is Pinkie's birthday?"
 
 Rarity unzipped her costume, revealing she was Pinkie Pie the whole time.
 
-"Pinkie?" I ask, mouth agape.
+Pinkie jumps out of the cost, landing in Rainbow's lap.
 
-"Hi, Dashie, guess what, today's my birthday!"
+Pinkie wraps her hooves around Rainbow's neck, giving her the bedroom eyes. "Today!"
