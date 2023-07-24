@@ -4,40 +4,54 @@
 
 ***
 
+"Pinkie."
 
+*Fluttershy.*
 
-I press my lips to Pinkie's, kissing her passionately.
+"I love you…"
 
-*I love her.*
+*I love you too!*
 
-*I love Pinkie.*
+Fluttershy lifts me up, putting me in a sitting position with my forelegs pressing into the bed.
 
-I feel hooves wrap around me, making me cry.
+*Hi!*
 
-*This isn't real.*
+She hugs me, doing her best to wrap my hooves around her.
 
-*It has to be real…*
+*I would hug you back if I could.*
 
-Then, Fluttershy opened her eyes.
+I hear her sniffle as she hugs me tight.
 
-Fluttershy looked around the room, realizing she's in Pinkie's bedroom.
+*I wish I could stop your tears.*
 
-Fluttershy's eyes stopped on Pinkie, who came rushing over.
+She pulls back from the hug, holding my head upright. "Pinkie, I'm sorry. I have to kiss you."
 
-"I knew you'd wake up! I knew you'd always come back!" Pinkie said before wrapping her in a tight hug.
+More tears fall from her face as she leans in to kiss me.
 
-"Pinkie…"
+*Yes, Fluttershy. Kiss me!*
 
-"Yes?"
+Fluttershy kisses me, doing her best without reciprocation.
 
-"I love you," Fluttershy said, crying.
+*I want to kiss back so badly.*
 
-"I love you too," Pinkie said, also crying.
+Fluttershy wraps her hooves around my neck, holding my head as she closes her eyes.
 
-After the hug, they both stared into each other's eyes, making a silent agreement.
+As we kiss, my lip twitches.
 
-Fluttershy started to lean in, then Pinkie.
+*What?*
 
-Their lips met as they executed on their agreement.
+I blink my eyes, voluntary.
 
-Both ponies released years of passion into a single kiss, tears flowing endlessly.
+*WHAT?*
+
+I reciprocate the kiss, immediately and with passion.
+
+I shakily lift my hooves, wrapping them around her.
+
+I hold her as tight as I can as her tears endlessly flow.
+
+*This is real, I can move!*
+
+*I love you, Fluttershy. I love you. I love you. I love you!*
+
+Fluttershy opened her eyes.
