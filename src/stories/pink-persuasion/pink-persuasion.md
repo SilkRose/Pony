@@ -162,28 +162,6 @@ I sigh.
 
 *I guess I'm going to kiss Pinkie.*
 
-*But not before Rarity.*
-
-I say, "Okay, I'll do it on one condition."
-
-"What?"
-
-"You have to kiss me, right now."
-
-Rarity takes a moment to think before saying, "O… okay…"
-
-We lean toward each other slowly, our lips inching closer and closer.
-
-*Rarity's eyes seem lighter today…*
-
-Right before we kiss, I pull back. "Okay."
-
-"What?" Rarity says confused.
-
-"I wanted to make sure you were serious, you were willing to kiss me for Pinkie."
-
-"Oh."
-
 "I'll kiss Pinkie, when is her birthday?"
 
 Rarity unzipped her costume, revealing she was Pinkie Pie the whole time.
