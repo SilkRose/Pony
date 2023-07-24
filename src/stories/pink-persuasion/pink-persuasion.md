@@ -164,7 +164,7 @@ I sigh.
 
 "I'll kiss Pinkie."
 
-Rarity hesitated a second, "Would you like to practice?"
+Rarity hesitates a second, "Would you like to practice?"
 
 "What?"
 
@@ -176,7 +176,7 @@ Rarity hesitated a second, "Would you like to practice?"
 
 *I guess it won't hurt to get feedback.*
 
-Rainbow slowly leans close to Rarity, gently kissing her cheek.
+I slowly lean close to Rarity, gently kissing her cheek.
 
 Rarity blushed, smiling. "You did great, darling."
 
@@ -184,6 +184,6 @@ Rarity blushed, smiling. "You did great, darling."
 
 Rarity unzipped her costume, revealing she was Pinkie Pie the whole time.
 
-Pinkie jumps out of the cost, landing in Rainbow's lap.
+Pinkie jumps out of the costume, landing in my lap.
 
-Pinkie wraps her hooves around Rainbow's neck, giving her the bedroom eyes. "Today!"
+Pinkie wraps her hooves around my neck, giving me her the bedroom eyes. "Today!"
