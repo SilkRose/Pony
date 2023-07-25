@@ -81,7 +81,7 @@ She starts to sob uncontrollably, holding me tight.
 
 ***
 
-"How is Pinkie doing, darling?" Rarity asked.
+"How is Pinkie doing, darling?" Rarity asks.
 
 "She's doing alright, I'm doing my best and giving her plenty of love."
 
@@ -147,7 +147,7 @@ She starts to sob uncontrollably, holding me tight.
 
 With that Rarity left.
 
-Fluttershy walked over to me and started stroking my back
+Fluttershy walks over to me and starts stroking my back
 
 *That feels good.*
 
@@ -155,7 +155,7 @@ Fluttershy walked over to me and started stroking my back
 
 *I love you too!*
 
-She leaned down and kissed my cheek.
+She leans down and kisses my cheek.
 
 *:)*
 
