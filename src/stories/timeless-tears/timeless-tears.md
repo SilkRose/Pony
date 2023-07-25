@@ -147,11 +147,11 @@ She starts to sob uncontrollably, holding me tight.
 
 With that Rarity left.
 
-Fluttershy walks over to me and starts stroking my back
+I hear Fluttershy walking over to me, she starts stroking my back.
 
 *That feels good.*
 
-"I love you, Pinkie, so much."
+"I love you, Pinkie, so much…"
 
 *I love you too!*
 
@@ -159,9 +159,77 @@ She leans down and kisses my cheek.
 
 *:)*
 
+Moments later, I feel her tears hitting my back.
+
+*:(*
+
 ***
 
+"Fluttershy, we need to talk, about Pinkie," Rainbow says.
 
+*Me?*
+
+"What about Pinkie?"
+
+"You're too attached to her, you spend more time with her than us."
+
+*I like spending time with Fluttershy…*
+
+"Well, she doesn't have a life, I'm trying to give her one…"
+
+*You have!*
+
+"We don't even know whether she's conscious or not."
+
+*I am.*
+
+"She is."
+
+"How do you know?"
+
+"She has to be…"
+
+"How are you so sure?"
+
+"I see it in her eyes, she's still in there, and she's awake."
+
+"That doesn't change the fact that you care more about her than us."
+
+"I have to because no one else seems to care about her."
+
+"We care."
+
+"Do you? When was the last time you can over to see her? Twilight and Rarity are the only ones that still come to visit her."
+
+"Fluttershy it's been years, it's really hard to do this for that long."
+
+"I should know, I'm the one doing it. Have you ever offered to feed her? To bathe her? To tuck her in at night, or read her a bedtime story? No, you haven't"
+
+*Fluttershy does an amazing job.*
+
+"I'm sorry…"
+
+"I'm not the one you should be apologizing to."
+
+Rainbow acknowledges my existent. "Pinkie, I'm sorry I've been a bad friend."
+
+*Apology accepted.*
+
+Rainbow comes over to me, and hugs me. "I'm so sorry…"
+
+*I would cry if I could.*
+
+I can feel her tears sliding down my fur.
+
+*You did it for me.*
+
+Fluttershy and Rainbow pick me up, holding me in a three-way hug.
+
+"Pinkie, I love you, with all my heart," Fluttershy says.
+
+"I love you, Pinkie," Rainbow says, still crying.
+
+*I love you both. I love you both so much.*
 
 ***
 
