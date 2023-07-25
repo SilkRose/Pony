@@ -33,13 +33,11 @@ Fluttershy set me down on her couch, laying sideways. "Yes."
 
 I hear hooves on the ground before Twilight says, "Goodbye, Fluttershy."
 
-*Goodbye.*
-
 "Goodbye, Twilight."
 
 Somepony hugs me from behind. "Goodbye, Pinkie. I want to see your smile soon, okay?"
 
-*Got it!*
+*Got it! Goodbye.*
 
 Twilight leaves Fluttershy cottage.
 
@@ -113,7 +111,7 @@ She starts to sob uncontrollably, holding me tight.
 
 "Thank you."
 
-"You lover her, don't you, darling?"
+"You love her, don't you, darling?"
 
 "Yes."
 
@@ -155,9 +153,11 @@ Fluttershy walked over to me and started stroking my back
 
 "I love you, Pinkie, so much."
 
+*I love you too!*
+
 She leaned down and kissed my cheek.
 
-*Thank you.*
+*:)*
 
 ***
 
