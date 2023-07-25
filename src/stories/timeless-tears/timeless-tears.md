@@ -193,13 +193,13 @@ Moments later, I feel her tears hitting my back.
 
 "I see it in her eyes, she's still in there, and she's awake."
 
-"That doesn't change the fact that you care more about her than us."
+"Even the doctors aren't sure she'll ever awaken."
 
 "I have to because no one else seems to care about her."
 
 "We care."
 
-"Do you? When was the last time you can over to see her? Twilight and Rarity are the only ones that still come to visit her."
+"Do you? When was the last time you came over to see her? Twilight and Rarity are the only ones that still come to visit her."
 
 "Fluttershy it's been years, it's really hard to do this for that long."
 
@@ -211,7 +211,7 @@ Moments later, I feel her tears hitting my back.
 
 "I'm not the one you should be apologizing to."
 
-Rainbow acknowledges my existent. "Pinkie, I'm sorry I've been a bad friend."
+Rainbow acknowledges my existence. "Pinkie, I'm sorry I've been a bad friend."
 
 *Apology accepted.*
 
@@ -287,7 +287,7 @@ Fluttershy opens her eyes as an endless stream of tears runs down my face.
 
 We hold the kiss as we both release years of pent-up passion.
 
-We break the kiss and I say the only thing I can think of.
+We break the kiss and I say the only thing I can.
 
 "I love you, Fluttershy!"
 
