@@ -33,6 +33,8 @@ Fluttershy set me down on her couch, laying sideways. "Yes."
 
 I hear hooves on the ground before Twilight says, "Goodbye, Fluttershy."
 
+*Goodbye.*
+
 "Goodbye, Twilight."
 
 Somepony hugs me from behind. "Goodbye, Pinkie. I want to see your smile soon, okay?"
@@ -140,6 +142,8 @@ She starts to sob uncontrollably, holding me tight.
 "I'm going to get going, darling, it was a pleasure talking to you."
 
 "Goodbye, Rarity."
+
+*Goodbye.*
 
 "Goodbye."
 
