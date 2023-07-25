@@ -81,7 +81,79 @@ She starts to sob uncontrollably, holding me tight.
 
 ***
 
+"How is Pinkie doing, darling?" Rarity asked.
 
+"She's doing alright, I'm doing my best and giving her plenty of love."
+
+"That's good. What about you? Are you holding up alright? I heard that you've started sleeping in the same bed."
+
+"I'm good, I just want to make sure she isn't lonely… I think Pinkie likes sharing a bed…"
+
+*I love it!*
+
+*I love you…*
+
+"Well, if you're certain, I just want to make sure you're alright, and not putting too much of you onto Pinkie."
+
+"I could never do anything bad to her."
+
+*Yay.*
+
+"Good to hear."
+
+"Rarity?"
+
+"Do you think she will come back?"
+
+"I know some of the others are less certain, but I'm confident she will."
+
+*Oh…*
+
+"Thank you."
+
+"You lover her, don't you, darling?"
+
+"Yes."
+
+*I love her back.*
+
+"She's still in there, just waiting to come back to us."
+
+*I am.*
+
+"I know… I talk to her everyday. A bit one-sided, but I try to keep her sane."
+
+*You're doing amazing!*
+
+"When she comes back, she's going to give you some hug."
+
+*Yes.*
+
+"I'll be waiting, as long as it takes."
+
+*Aww.*
+
+"Sounds like she is good hooves."
+
+"Thank you."
+
+"I'm going to get going, darling, it was a pleasure talking to you."
+
+"Goodbye, Rarity."
+
+"Goodbye."
+
+With that Rarity left.
+
+Fluttershy walked over to me and started stroking my back
+
+*That feels good.*
+
+"I love you, Pinkie, so much."
+
+She leaned down and kissed my cheek.
+
+*Thank you.*
 
 ***
 
