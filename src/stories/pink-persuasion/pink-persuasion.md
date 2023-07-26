@@ -1,12 +1,16 @@
 # Pink Persuasion
 
-Rarity opens the door. "Hello, Rainbow, thank you for coming."
+I knock on the door to Carousel Boutique, waiting for Rarity to answer.
+
+*I don't know what she wants, hopefully it's important.*
+
+Rarity opens the door a moment later. "Hello, Rainbow, thank you for coming."
 
 "No problem, what did you need?"
 
 Rarity leads me inside and over to her couch. We sit down before she says, "I'm going to be blunt, I think you should kiss Pinkie on her birthday."
 
-*What?*
+*What? Did she just ask me to kiss Pinkie Pie?*
 
 My mouth hangs open as Rarity runs damage control.
 
@@ -15,6 +19,8 @@ My mouth hangs open as Rarity runs damage control.
 "Yes, it does. Why do you want me to kiss her?"
 
 "I just think you two would look cute together."
+
+*Me, cute?*
 
 "That's it?"
 
@@ -52,11 +58,23 @@ I sit, thinking about it for a moment.
 
 *I don't know all this mushy stuff.*
 
+*Maybe I'd be willing to date her.*
+
 I think about kissing Pinkie.
 
 *I don't know, it just seems so different.*
 
-"I don't know, maybe."
+*She would definitely kiss passionately.*
+
+*Would I?*
+
+*What if I'm a bad kisser?*
+
+I think about her lips pressed against mine as a blush forms on my face.
+
+*Where did that come from?*
+
+"I don't know, I might."
 
 "That's a start."
 
@@ -70,7 +88,17 @@ I think about kissing Pinkie.
 
 "What about me?"
 
-"I hope you would, too."
+"I hope you would, just think about it. Think about holding her hoof, cuddling her in bed, kissing her goodnight, doesn't it all seem so *nice*."
+
+I think about each of those things.
+
+*I think Pinkie would like hoof holding more than me.*
+
+*I might like cuddling with her, she is rather soft.*
+
+*Kissing her goodnight sounds romantic, something I'd want to keep private.*
+
+*I could possibly see myself with her, but what if it doesn't work between us?*
 
 "What if it doesn't work out? What if we don't like each other like that?"
 
@@ -160,13 +188,21 @@ I sigh.
 
 "It would be a present, you know Pinkie, she loves a surprise."
 
-"Yeah."
+"Why on her birthday?"
+
+*I kind of thought today was her birthday, must be wrong.*
+
+"Like I said, it would be like a present. I think it would make it more special."
+
+"Okay."
 
 *I guess I'm going to kiss Pinkie.*
 
 "I'll kiss Pinkie."
 
 Rarity hesitates for a second, "Would you like to practice?"
+
+*Did Rarity just ask to kiss? I thought she was trying to get me to kiss Pinkie.*
 
 "What?"
 
@@ -180,7 +216,9 @@ Rarity hesitates for a second, "Would you like to practice?"
 
 I slowly lean close to Rarity, gently kissing her cheek.
 
-Rarity blushed, smiling. "You did great, darling."
+Rarity blushes and smiles. "You did great, darling."
+
+*Who know, I might enjoy kissing Pinkie.*
 
 "That wasn't so bad, thanks. So, when is Pinkie's birthday?"
 
