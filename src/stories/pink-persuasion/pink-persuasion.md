@@ -22,7 +22,7 @@ My mouth hangs open as Rarity runs damage control.
 
 "Does Pinkie even like me?"
 
-"Yes… maybe… I think so."
+"I think she has a crush on you."
 
 "Did she ask you to do this?"
 
@@ -31,6 +31,8 @@ My mouth hangs open as Rarity runs damage control.
 "What if I don't like Pinkie like that?"
 
 "Well, you *do* think she's pretty, right?" Rarity leans closer, as if more invested.
+
+*I never thought about it before, but Pinkie is kind of hot.*
 
 I can feel a slight blush coming on. "Yes, I think she's pretty, so what?"
 
@@ -164,7 +166,7 @@ I sigh.
 
 "I'll kiss Pinkie."
 
-Rarity hesitates a second, "Would you like to practice?"
+Rarity hesitates for a second, "Would you like to practice?"
 
 "What?"
 
@@ -182,7 +184,7 @@ Rarity blushed, smiling. "You did great, darling."
 
 "That wasn't so bad, thanks. So, when is Pinkie's birthday?"
 
-Rarity unzipped her costume, revealing she was Pinkie Pie the whole time.
+Rarity unzips her costume, revealing she was Pinkie Pie the whole time.
 
 Pinkie jumps out of the costume, landing in my lap.
 
