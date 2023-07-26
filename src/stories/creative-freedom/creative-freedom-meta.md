@@ -24,4 +24,4 @@ Sometimes you just need to vent, and a good friend.
 [Creative Freedom](./creative-freedom.md)
 
 ## Cover
-
+![cover](./cover/cover-upscaled.png)
