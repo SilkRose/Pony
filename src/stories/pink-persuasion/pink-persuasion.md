@@ -4,7 +4,7 @@ Rarity opens the door. "Hello, Rainbow, thank you for coming."
 
 "No problem, what did you need?"
 
-Rarity leads me inside and over to her couch. Taking a seat, she says, "I'm going to be blunt, I think you should kiss Pinkie on her birthday."
+Rarity leads me inside and over to her couch. We sit down before she says, "I'm going to be blunt, I think you should kiss Pinkie on her birthday."
 
 *What?*
 
@@ -30,7 +30,7 @@ My mouth hangs open as Rarity runs damage control.
 
 "What if I don't like Pinkie like that?"
 
-"Well, you *do* think she's pretty, right?" Rarity leaned closer, as if more invested.
+"Well, you *do* think she's pretty, right?" Rarity leans closer, as if more invested.
 
 I can feel a slight blush coming on. "Yes, I think she's pretty, so what?"
 
@@ -186,4 +186,4 @@ Rarity unzipped her costume, revealing she was Pinkie Pie the whole time.
 
 Pinkie jumps out of the costume, landing in my lap.
 
-Pinkie wraps her hooves around my neck, giving me her the bedroom eyes. "Today!"
+Pinkie wraps her hooves around my neck, giving me her bedroom eyes. "Today!"
