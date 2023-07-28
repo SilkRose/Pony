@@ -3,7 +3,7 @@
 
 "Fluttershy, are you sure you can handle taking care of Pinkie by yourself?" Twilight asked.
 
-Fluttershy set me down on her couch, laying sideways. "Yes."
+Fluttershy set me down on her couch, facing the wall. "Yes."
 
 *Hey, I can't see anything!*
 
@@ -24,10 +24,6 @@ Fluttershy set me down on her couch, laying sideways. "Yes."
 "Yes, I'll make sure she gets pampered."
 
 *If I could move, I would hug you.*
-
-"Sounds good."
-
-"I've got everything under control."
 
 "Thank you."
 
@@ -69,6 +65,8 @@ She starts to sob uncontrollably, holding me tight.
 
 "I was going to ask you out…"
 
+*Oh…*
+
 *Yes, I will go out with you!*
 
 "I miss you so much already."
@@ -93,7 +91,7 @@ She starts to sob uncontrollably, holding me tight.
 
 *I love you…*
 
-"Well, if you're certain, I just want to make sure you're alright, and not putting too much of you onto Pinkie."
+"Well, if you're certain, I just want to make sure you're alright, and not putting too much of your energy onto Pinkie."
 
 "I could never do anything bad to her."
 
@@ -125,7 +123,7 @@ She starts to sob uncontrollably, holding me tight.
 
 *You're doing amazing!*
 
-"When she comes back, she's going to give you some hug."
+"When she comes back, she's going to give you *some* hug."
 
 *Yes.*
 
@@ -133,7 +131,7 @@ She starts to sob uncontrollably, holding me tight.
 
 *Aww.*
 
-"Sounds like she is good hooves."
+"Sounds like she is in good hooves."
 
 "Thank you."
 
@@ -165,13 +163,13 @@ Moments later, I feel her tears hitting my back.
 
 ***
 
-"Fluttershy, we need to talk, about Pinkie," Rainbow says.
+"Fluttershy, we need to talk… about Pinkie," Rainbow says.
 
 *Me?*
 
 "What about Pinkie?"
 
-"You're too attached to her, you spend more time with her than us."
+"You don't have a life outside of her, we're concerned for you."
 
 *I like spending time with Fluttershy…*
 
@@ -195,9 +193,9 @@ Moments later, I feel her tears hitting my back.
 
 "Even the doctors aren't sure she'll ever awaken."
 
-"I have to because no one else seems to care about her."
+"I'm certain, it sounds like you don't care about her."
 
-"We care."
+"I care."
 
 "Do you? When was the last time you came over to see her? Twilight and Rarity are the only ones that still come to visit her."
 
@@ -207,15 +205,15 @@ Moments later, I feel her tears hitting my back.
 
 *Fluttershy does an amazing job.*
 
-"I'm sorry…"
+"I'm so sorry…"
 
 "I'm not the one you should be apologizing to."
 
-Rainbow acknowledges my existence. "Pinkie, I'm sorry I've been a bad friend."
+Rainbow acknowledges my existence. "Pinkie, I'm sorry, give me another chance?"
 
-*Apology accepted.*
+*Apology accepted, yes.*
 
-Rainbow comes over to me, and hugs me. "I'm so sorry…"
+Rainbow comes over to me, and hugs me. "I'm sorry…"
 
 *I would cry if I could.*
 
@@ -269,7 +267,7 @@ As we kiss, my lip twitches.
 
 *What?*
 
-I blink my eyes, voluntary.
+I blink my eyes, voluntarily.
 
 *WHAT?*
 
@@ -277,7 +275,7 @@ I reciprocate the kiss, immediately and with passion.
 
 I shakily lift my hooves, wrapping them around her.
 
-I hold her as tight as I can as her tears endlessly flow.
+I hold her as tight as I can as her tears endlessly flow, her eyes held close with force.
 
 *This is real, I can move!*
 
