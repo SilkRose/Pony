@@ -84,7 +84,7 @@ I write them down and start to think of the next word.
 
 I go to Pinkie and point to her twice, trying to emphasize that it's her. I lick on her left cheek a 'P', for Pinkie and on her right cheek a 'P', for Pie.
 
-She licks upward on my chin before licking my initial onto my cheeks.
+She licks upward on my chin before licking my initials onto my cheeks.
 
 *We make a great team!*
 
@@ -121,4 +121,44 @@ She comes over to me and licks, 'Please,' before drawing an ampersand on my chee
 *She just did two words at once, amazing!*
 
 I write them down and Pinkie nods with a smile.
+
+As I think of the next word, an idea comes to me.
+
+*Maybe we can include physical touch in general and not just licks.*
+
+I hug her then lick, 'me.'
+
+Pinkie looks at me confused, so I repeat the process.
+
+Pinkie hugs me, letting me know she understands.
+
+I write down 'Hug: A hug.'
+
+Pinkie looks back and forth from me to the board, thinking.
+
+Pinkie leads me to the door, she opens it and points outside.
+
+*Outside, yes.*
+
+She leans close and licks a long line from the edge of my mouth on the right side to the side of my head.
+
+I nod and write it down.
+
+Pinkie shakes her head at the board, then erases 'side' from outside.
+
+*Oh.*
+
+I think about what should be next.
+
+*A, let's do 'a', but how? Maybe a common phrase?*
+
+*What phrase has 'a' and words we've used?*
+
+*That's it.*
+
+I lick above her nose, a vertical line upward between her eyes, then hug her, then I lick, 'and a.' After I finish by kissing her cheek.
+
+*A hug and a kiss.*
+
+Pinkie blushes as she stares at me for a moment, before nodding.
 
