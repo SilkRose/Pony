@@ -14,6 +14,8 @@ Fluttershy takes care of a comatose Pinkie for years, the rest of the mane six s
 ## Description
 In the beginning, there was hope. In the middle there was doubt. In the end, there was conflict. But, throughout it all, there were tears.
 
+Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading and for making the cover.
+
 ## Short Description
 In the beginning, there was hope. In the middle there was doubt. In the end, there was conflict. But, throughout it all, there were tears.
 
@@ -31,4 +33,4 @@ In the beginning, there was hope. In the middle there was doubt. In the end, the
 [Timeless Tears](./timeless-tears.md)
 
 ## Cover
-
+![cover](./cover.png)
