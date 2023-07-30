@@ -66,5 +66,6 @@
     "Canterlot",
     "Everfree",
     "Troubleshoes"
-  ]
+  ],
+  "newLinkFormat": "relative"
 }
