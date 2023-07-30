@@ -1,6 +1,6 @@
 # Darling & Date
 
-Mane Characters: [Rarity](../../ponies/rarity.md), [Pinkie Pie](../../ponies/pinkie-pie/pinkie-pie.md)
+Mane Characters: [Rarity](../../ponies/rarity/rarity.md), [Pinkie Pie](../../ponies/pinkie-pie/pinkie-pie.md)
 
 Location: [Ponyville](../../places/ponyville.md)
 

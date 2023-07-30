@@ -4,4 +4,4 @@ Location type: #House #Store \
 Town: [Ponyville](./ponyville.md)
 
 Occupants: \
-[Rarity](../ponies/rarity.md)
+[Rarity](../ponies/rarity/rarity.md)
