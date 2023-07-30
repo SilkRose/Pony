@@ -1,1 +1,1 @@
-[Pinkie Pie](../../ponies/pinkie-pie.md)
+[Pinkie Pie](../src/ponies/pinkie-pie/pinkie-pie.md)

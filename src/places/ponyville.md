@@ -8,4 +8,4 @@ The town where most of the show takes place.
 
 list of residents: \
 [Rarity](../ponies/rarity.md) \
-[Pinkie Pie](../ponies/pinkie-pie.md)
+[Pinkie Pie](../ponies/pinkie-pie/pinkie-pie.md)
