@@ -16,6 +16,8 @@ In the beginning, there was hope. In the middle there was doubt. In the end, the
 
 Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading and for making the cover.
 
+Entry into [A Thousand Words Contest II](https://www.fimfiction.net/group/216361/a-thousand-words/thread/517645/a-thousand-words-contest-ii-2023-may-29-jul-30).
+
 ## Short Description
 In the beginning, there was hope. In the middle there was doubt. In the end, there was conflict. But, throughout it all, there were tears.
 
