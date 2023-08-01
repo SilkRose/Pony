@@ -255,3 +255,9 @@ Pinkie kisses me passionately, I reciprocate with my own newfound passion.
 We break the kiss and I can only think of one word to lick to Pinkie.
 
 'Love, love, loooooooove, love, love, love, love, *love, loooooove,* love, love.'
+
+Pinkie looks at me as we both stare at each other, blushing madly.
+
+She licks one word to me.
+
+'You.'
