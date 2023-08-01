@@ -156,9 +156,102 @@ I think about what should be next.
 
 *That's it.*
 
-I lick above her nose, a vertical line upward between her eyes, then hug her, then I lick, 'and a.' After I finish by kissing her cheek.
+I lick above her nose, a vertical line upward between her eyes, then hug her, then I lick, 'and,' then I repeat the lick for 'a.' After I finish by kissing her cheek.
 
 *A hug and a kiss.*
 
+*I can do two at once, too.*
+
 Pinkie blushes as she stares at me for a moment, before nodding.
 
+*She looks cute when she's blushing.*
+
+Pinkie looks at me, then the board. She licks, 'I,' then licks her leg, then licks, 'you.'
+
+*I lick you?*
+
+Pinkie repeats the motions, but this time for the middle one she licks upwards on my lips.
+
+Now, it's my turn to blush.
+
+*I wonder if Pinkie thinks my blush is cute.*
+
+I write it down and Pinkie nods. I notice her blush is still present.
+
+*Hmm, what about numbers, those are important?*
+
+I think of it for a second before booping Pinkie.
+
+She looks at me confused.
+
+I hold up one hoof, then boop her once, then I hold up two and boop her twice. I repeat it a third time for three.
+
+Pinkie nods and I write it down.
+
+Pinkie boops me three times, then twice, then once, then starts zooming around the room at high speeds.
+
+*Three, two, one, go!*
+
+I write it down and Pinkie licks, 'yes.'
+
+
+
+
+
+Pinkie looks at me as a blush forms on her face.
+
+*What's she thinking?*
+
+Pinkie licks, 'I,' before drawing a heart in front of her, then she licks, 'you.'
+
+*I love you.*
+
+I write down love and she nods.
+
+Pinkie repeats it, this time replacing the heart with a kiss on the lips.
+
+*So, that's why she was blushing.*
+
+*Does Pinkie like me?*
+
+I write it down and she nods.
+
+*I kind of want to kiss her again…*
+
+*Do I like Pinkie?*
+
+*Aha!*
+
+I lean in and lick, 'I love you,' before holding up two hooves.
+
+*I love you, too.*
+
+She nods, and I lick, 'I love you,' again before licking a U onto her left cheek.
+
+*Totally wasn't an excuse to kiss her two more times.*
+
+I write it down and Pinkie nods again.
+
+Pinkie looks at me, and wraps her hooves around me. She licks, 'I love you.'
+
+I'm confused by her not adding a word, so I just lick back, 'I love you, too.'
+
+Pinkie licks, 'no,' before shaking her head. She licks, 'I *love* you,' tilting her head when she kisses me.
+
+*Oh.*
+
+Pinkie leans close and licks, 'Twilight Sparkle, will you go out with me?'
+
+I blush fiercely as I think of what to do.
+
+*I did really like kissing her, does that mean I like her?*
+
+I make my decision, licking, 'yes, kiss me.'
+
+Pinkie kisses me passionately, I reciprocate with my own newfound passion.
+
+*I made a good decision.*
+
+We break the kiss and I can only think of one word to lick to Pinkie.
+
+'Love, love, loooooooove, love, love, love, love, *love, loooooove,* love, love.'
