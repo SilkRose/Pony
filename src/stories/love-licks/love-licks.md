@@ -62,7 +62,7 @@ I write it down on the chalkboard. Pinkie nods, confirming I got it right.
 
 I nod at Pinkie before licking her upward on her chin.
 
-She nods before licking my chin side to side, shaking her head afterward.
+She nods before licking my chin from side to side, shaking her head afterward.
 
 *Yes and no.*
 
@@ -194,9 +194,93 @@ Pinkie boops me three times, then twice, then once, then starts zooming around t
 
 I write it down and Pinkie licks, 'yes.'
 
+*I can use go in clue for the next word, probably.*
 
+*Aha.*
 
+*Go together.*
 
+I lick, 'go,' before I pull us together, holding us and walking around the room.
+
+Pinkie smiles at me before I lick, 'go,' again, then lick a loop de loop on her left cheek.
+
+Pinkie licks it back on me before she grabs me and walks us around some, nuzzling my cheek.
+
+I blush.
+
+*That feels nice.*
+
+After we finish walking, I write it down and Pinkie nods.
+
+I look at Pinkie for the next word.
+
+Pinkie starts walking on her hind legs, striking familiar looking poses and kissing her muscles.
+
+*She acts very muscular.*
+
+*Hmm.*
+
+Pinkie comes back down on four legs and boops me twice before licking a V under my right eye, then licking, 'you.'
+
+*Iron Will.*
+
+*Will you?*
+
+*That's it, will.*
+
+I write it down on the board and Pinkie nods.
+
+Pinkie's depiction of Iron Will inspires me. I decide to imitate Photo Finish.
+
+*We.*
+
+I try to convey, *we go.*
+
+I flip my mane, before mock pushing Pinkie in front of me.
+
+I lick ,'go.'
+
+Pinkie seems confused.
+
+*Maybe she wasn't there, hmm.*
+
+I lick three vertical lines on her right cheek, before licking, 'go together.'
+
+Pinkie's face lights up.
+
+*Nice.*
+
+I was about to go write it down when Pinkie kisses my cheek again.
+
+I blush and don't know what to do, so I kiss her cheek back before writing the lick for 'we' down.
+
+*I liked that… a lot.*
+
+I look back at Pinkie, noticing her blush.
+
+Pinkie licks, 'go,' before licking a V under my left eye, then licking, 'me.'
+
+*Go with me?*
+
+*With.*
+
+I write it down and Pinkie nods.
+
+*We are on a roll.*
+
+*Should I do something similar to Pinkie?*
+
+*How about us?*
+
+I lick to Pinkie, 'You and me,' hoping she got it.
+
+She points her hoof back and forth between us, nodding.
+
+I lick a U on her right cheek.
+
+Pinkie licks it back to me, before licking, 'yes.'
+
+I write it down and look back at Pinkie.
 
 Pinkie looks at me as a blush forms on her face.
 
