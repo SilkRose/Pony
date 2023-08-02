@@ -1,4 +1,2 @@
-# Pink Mended Sparkles
-
-Twilight Sparkle.
+# Pink-Mended Sparkles
 

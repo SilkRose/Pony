@@ -1,4 +1,4 @@
-# Pink Mended Sparkles
+# Pink-Mended Sparkles
 
 Mane Characters: 
 
