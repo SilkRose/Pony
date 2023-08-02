@@ -1,16 +1,20 @@
 # Love Licks
 
-I sit in my study reading a book entitled 'The Construction of Languages'.
+I sit in my study reading a book entitled, 'The Construction of Languages'.
 
-I notice somepony open the door, but as the words fly by, I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on. I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
+I notice somepony opening the door, but as the words fly by, I forget to look. I can feel a presence beside me, I glance at them for a second before I finish the paragraph I am on.
+
+I see Pinkie starring at the book I'm reading, a quizzical look on her face. I stop reading to look at her, she has already turned to me and is leaning closer to me.
 
 Lick.
 
-I sit stunned for a second as I process what Pinkie just did, she *licked* my face.
+I sit stunned for a second, as I process what Pinkie just did, she *licked* my face.
 
 *What?*
 
-I open my mouth to ask why she had done so, when she closed my mouth with her hoof, instead pointing to the book. I look at the book as she closes it and motions over the tittle with her hoof, 'The Construction of Languages'. She leans close again and licks me again as I try to connect to two instances.
+I open my mouth to ask why she had done so, when she closed my mouth with her hoof, instead pointing to the book. I look at the book as she closes it and motions over the tittle with her hoof, 'The Construction of Languages'.
+
+She leans close again and licks me once more as I try to connect the two instances.
 
 *Language? Lick? What is she doing? How are they connected?*
 
@@ -20,7 +24,7 @@ I open my mouth to ask why she had done so, when she closed my mouth with her ho
 
 *Lick language? Lick language?*
 
-Aha!
+*Aha!*
 
 She's trying to make a language out of *licks*… what?
 
@@ -34,17 +38,19 @@ Yes, yes I am.
 
 Pinkie looks at me a little surprised with a big smile on her face. I look back, shocked that I am actually doing this. She hugs me.
 
-I start to think, what should the first word be in this language? Probably a greeting, how about 'hello'.
+I start to think, what should the first word be in this language? Probably a greeting, how about, 'Hello'.
 
-I turn to Pinkie. How do I convey what I want to make a word for to Pinkie if I can talk? Hmm.
+I turn to Pinkie.
 
-Charades, yes, we will act out the word till the other one gets it, then assign it a lick on the other pony.
+*How do I convey what I want to make a word for to Pinkie if I can't talk? Hmm.*
+
+*Charades, yes, we will act out the word until the other one gets it, then assign it a lick onto the other pony.*
 
 I put my hoof on Pinkie's back and lead her to the door, stepping out the door she gives me a confused look. I look at her with a smile and node. I knock on the door then point to her, after a few seconds she gets it, nodding back. I close the door and wait for her to knock.
 
 Knock, knock, knock.
 
-I open the door with a smile and instead of saying 'hello', I lean close to her and lick upward an inch from her nose.
+I open the door with a smile and instead of saying, 'Hello', I lean close to her and lick upward an inch from her nose.
 
 I lean back from the encounter, and she smiles at me, letting me know she understands.
 
@@ -68,7 +74,7 @@ She nods before licking my chin from side to side, shaking her head afterward.
 
 I lick her chin upward, confirming my understanding, before I write them both down.
 
-*I should be next.*
+*'I,' should be next.*
 
 I point at my eye with a hoof before I lick horizontally under her right eye.
 
@@ -164,6 +170,8 @@ I lick above her nose, a vertical line upward between her eyes, then hug her, th
 
 Pinkie blushes as she stares at me for a moment, before nodding.
 
+I write it down before turning back to Pinkie.
+
 *She looks cute when she's blushing.*
 
 Pinkie looks at me, then the board. She licks, 'I,' then licks her leg, then licks, 'you.'
@@ -180,7 +188,7 @@ I write it down and Pinkie nods. I notice her blush is still present.
 
 *Hmm, what about numbers, those are important?*
 
-I think of it for a second before booping Pinkie.
+I think on it for a second before booping Pinkie.
 
 She looks at me confused.
 
@@ -192,7 +200,7 @@ Pinkie boops me three times, then twice, then once, then starts zooming around t
 
 *Three, two, one, go!*
 
-I write it down and Pinkie licks, 'yes.'
+I write it down and Pinkie licks, 'Yes.'
 
 *I can use go in clue for the next word, probably.*
 
@@ -278,7 +286,7 @@ She points her hoof back and forth between us, nodding.
 
 I lick a U on her right cheek.
 
-Pinkie licks it back to me, before licking, 'yes.'
+Pinkie licks it back to me, before licking, 'Yes.'
 
 I write it down and look back at Pinkie.
 
