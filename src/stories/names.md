@@ -5,7 +5,6 @@ This file contains random story names that don't have enough thought to have the
 - Map Mishaps
 - The Pros and Cons of being Pinkie Pie
 - The Book of Pink Sparkles
-- Pink Mended Sparkles
 - Pinkie Pie Prose
 - Pink Prose
 - Gemstones and Gentle
