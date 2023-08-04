@@ -35,4 +35,4 @@ Pinkie sleeps over at Twilight's, and they have a play date where everything is 
  - They kiss.
 
 ### Cover
-
+![cover](./cover.png)
