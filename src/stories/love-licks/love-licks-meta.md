@@ -10,6 +10,8 @@ Twilight Sparkle and Pinkie Pie make a secret language out of licks, by the end 
 ### Description
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
+
 Cover done by irradiatedtittymilk on Discord.
 
 ### Short Description
