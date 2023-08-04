@@ -14,6 +14,8 @@ A short comedy about there being a tax for being pink in Equestria
 ## Description
 Tax season is almost over, and Pinkie hasn't paid hers yet.
 
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
+
 Entry into [A Thousand Words Contest II](https://www.fimfiction.net/group/216361/a-thousand-words/thread/517645/a-thousand-words-contest-ii-2023-may-29-jul-30).
 
 Featured: [07-20-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/the-pink-tax/featured-2023-07-20-15-26-33.png).
