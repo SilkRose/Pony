@@ -12,7 +12,9 @@ Genres:
 Rarity spends the whole story trying to convince Rainbow to kiss Pinkie on her birthday. When Rainbow finally agrees to, Rarity reveals she is Pinkie Pie and today is her birthday.
 
 ## Description
+Rarity does her best to convince Rainbow Dash to give Pinkie a kiss on her birthday. Rainbow is having none of it.
 
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
 
 ## Short Description
 Rarity does her best to convince Rainbow Dash to give Pinkie a kiss on her birthday. Rainbow is having none of it.
