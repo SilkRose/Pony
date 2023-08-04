@@ -20,6 +20,8 @@ Cover done by irradiatedtittymilk on Discord.
 
 Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading chapter one.
 
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
+
 ### Short Description
 
 Pinkie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow deal with their feelings for each other.
