@@ -12,7 +12,7 @@ I sit stunned for a second, as I process what Pinkie just did, she *licked* my f
 
 *What?*
 
-I open my mouth to ask why she had done so, when she closed my mouth with her hoof, instead pointing to the book. I look at the book as she closes it and motions over the tittle with her hoof, 'The Construction of Languages'.
+I open my mouth to ask why she had done so, when she closes my mouth with her hoof, instead pointing to the book. I look at the book as she closes it and motions over the title with her hoof, 'The Construction of Languages'.
 
 She leans close again and licks me once more as I try to connect the two instances.
 
@@ -46,7 +46,7 @@ I turn to Pinkie.
 
 *Charades, yes, we will act out the word until the other one gets it, then assign it a lick onto the other pony.*
 
-I put my hoof on Pinkie's back and lead her to the door, stepping out the door she gives me a confused look. I look at her with a smile and node. I knock on the door then point to her, after a few seconds she gets it, nodding back. I close the door and wait for her to knock.
+I put my hoof on Pinkie's back and lead her to the door, stepping out the door, she gives me a confused look. I look at her with a smile and node. I knock on the door then point to her, after a few seconds she gets it, nodding back. I close the door and wait for her to knock.
 
 Knock, knock, knock.
 
@@ -138,7 +138,7 @@ Pinkie looks at me confused, so I repeat the process.
 
 Pinkie hugs me, letting me know she understands.
 
-I write down 'Hug: A hug.'
+I write down, 'Hug: A hug.'
 
 Pinkie looks back and forth from me to the board, thinking.
 
@@ -156,7 +156,7 @@ Pinkie shakes her head at the board, then erases 'side' from outside.
 
 I think about what should be next.
 
-*A, let's do 'a', but how? Maybe a common phrase?*
+*Let's do 'a', but how? Maybe a common phrase?*
 
 *What phrase has 'a' and words we've used?*
 
