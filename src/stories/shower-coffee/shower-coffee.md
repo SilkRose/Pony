@@ -138,7 +138,86 @@ She finishes showering.
 
 Applejack set her coffee on a shelf just outside her shower, placing a straw in it for easy drinking.
 
-She starts the water and got in.
+She starts the water and gets in.
 
 *Let's see if Twilight's blowing smoke or not.*
 
+She washes her mane and face before taking a sip of coffee.
+
+*Not bad, Twilight.*
+
+She washes her body then takes another sip.
+
+*I might have to do this more, but I'll still drink coffee outside the shower.*
+
+She washes her tail and takes a sip.
+
+*Yep, I'll drink one cup before the shower, and one during.*
+
+She cleans her hind legs.
+
+*Just one more sip.*
+
+She takes another sip, a big one.
+
+*That's pretty good.*
+
+She finishes the shower and gets out, taking another sip.
+
+*It's really good, but I can't only drink coffee in the shower, can I?*
+
+She dries off and walks out of her bathroom, where she hears a knock at her door.
+
+*Who could that be?*
+
+She turns to the door, looking at who was there.
+
+*Why is Rarity here so early in the morning?*
+
+***
+
+Fluttershy set her coffee on the ledge of her shower, straw sticking out of it.
+
+She gets in and starts the water.
+
+*It's going to taste great, isn't it?*
+
+She washes her long mane before taking a sip.
+
+*It does taste great…*
+
+She continues to shower as she thinks, occasionally taking sips of her shower coffee.
+
+*How am I supposed to explain that to ponies?*
+
+*I already struggle with social interactions.*
+
+*Oh, by the way, I drink my coffee in the shower.*
+
+*They're going to think I'm crazy…*
+
+She sighs as she finishes her shower, taking one last sip of her coffee.
+
+***
+
+Pinkie sets her two cups of coffee outside her shower, straws leading into the shower.
+
+She gets and turns the water on.
+
+*I'm so excited to try this!*
+
+She washes her mane before taking a sip from both straws.
+
+*Oh, that is good.*
+
+She continued to sip the coffees' while showering.
+
+*Twilight should have told us about this earlier.*
+
+*Shower coffee is great.*
+
+*Should I write a song about shower coffee?*
+
+Pinkie finishes her shower and gets out, she looks in her cups, seeing they were empty.
+
+*Oh, well, time for more coffee.*
