@@ -174,3 +174,39 @@ I take a moment to settle down, releasing my death grip on whatever I landed on.
 
 "Thank you."
 
+"You gotta be careful, Twilight."
+
+"I will."
+
+Pinkie goes back to making food, as I can hear her making noise at the stove.
+
+"What do you wanna do after we eat?"
+
+"I was thinking maybe you could read me a book?"
+
+"Oh, that sounds fun, what book?"
+
+"I was thinking you could pick, since you are the one reading it."
+
+"I'll be sure to pick something fun!"
+
+"I can't wait," I say as a smile forms on my lips, the first one since becoming temporarily blind.
+
+"Do you want to lay down in bed for it? It can be your bedtime story!"
+
+I yawn and get my answer. "Sure."
+
+*Sounds cozy.*
+
+"Yay!"
+
+"What are you making?"
+
+"Pancakes."
+
+"Sounds delicious."
+
+"Yep!"
+
+I sit quietly and think about my situation.
+
