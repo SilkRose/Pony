@@ -82,9 +82,9 @@ Rarity set her steaming cup of coffee on the towel rack outside her shower.
 
 She started the water and got in.
 
-*This is silly, there is no way this will be good, right?*
+*This is silly, she has to be joking, right?*
 
-She took a sit after washing her mane.
+She took a sip after washing her mane.
 
 *It's not that good.*
 
@@ -110,7 +110,7 @@ Rainbow set her coffee next to her shower, placing a straw in it that lead into 
 
 She starts the water and gets it.
 
-*There is no way this is good.*
+*This is going to be awful, I bet.*
 
 She washes her head, then takes a drink.
 
@@ -135,4 +135,10 @@ She finishes showering.
 *It's all Twilight's fault.*
 
 ***
+
+Applejack set her coffee on a shelf just outside her shower, placing a straw in it for easy drinking.
+
+She starts the water and got in.
+
+*Let's see if Twilight's blowing smoke or not.*
 
