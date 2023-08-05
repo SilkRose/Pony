@@ -16,19 +16,10 @@ Whatever happened to the girl who was kissed a million times? What became of the
 ### Ideas
 
 
-### Flow
-
-
 ### Story
-[A Million Little Kisses](01-a-million-little-kisses.md)
+[A Million Little Kisses](a-million-little-kisses.md)
  - Shows random kisses numbered from 1 to 1 million.
  - Shows 1 and 1 million.
-
-[Epilogue: The Girl Who Was Kisses A Million Times](02-the-girl-who-was-kissed-a-million-times.md)
- - Takes place during generation 5.
- - Tells the tail of Rarity and Rainbow's relationship.
- - Gets multiple thing wrong and right.
- - Told by Izzy and Pipp.
 
 ### Cover
 
