@@ -64,3 +64,75 @@ Fluttershy. "A surprising amount, actually."
 
 Rainbow. "Go ahead, but you should be careful since you don't have magic to hold the cup for you."
 
+This seems to satisfy most, as she only got two questions this round.
+
+Rarity asks, "What temperature showers do you take?"
+
+Pinkie asks, "How did you learn about shower coffee?"
+
+Twilight answers, "I like my showers warm, but not too hot. And I saw Spike leaving the bathroom with a cup of coffee, I asked him about it, and he told me about shower coffee."
+
+All five other ponies seemed satisfied.
+
+Twilight says, "Now, let's get to why we are actually here."
+
+***
+
+Rarity set her steaming cup of coffee on the towel rack outside her shower.
+
+She started the water and got in.
+
+*This is silly, there is no way this will be good, right?*
+
+She took a sit after washing her mane.
+
+*It's not that good.*
+
+She washes slightly faster after that.
+
+After washing her face, she takes two more sips.
+
+*Yep, it's better, but not by much.*
+
+She washes even faster, getting her barrel clean.
+
+She takes a gulp of coffee.
+
+*Nice to wake you up, but nothing to write home about.*
+
+She finishes her shower, taking a big drink of coffee.
+
+*Now, where is Applejack? I need to help her on the farm…*
+
+***
+
+Rainbow set her coffee next to her shower, placing a straw in it that lead into her shower.
+
+She starts the water and gets it.
+
+*There is no way this is good.*
+
+She washes her head, then takes a drink.
+
+She frowns.
+
+*I hate how good it is.*
+
+She washes her wings, then takes another drink.
+
+*Yep, this is good.*
+
+*I hate it.*
+
+She angrily washes her legs.
+
+Taking another drink, she thinks to herself.
+
+*I'm going to have to do this every time I shower.*
+
+She finishes showering.
+
+*It's all Twilight's fault.*
+
+***
+
