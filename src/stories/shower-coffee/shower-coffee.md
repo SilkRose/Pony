@@ -202,7 +202,7 @@ She sighs as she finishes her shower, taking one last sip of her coffee.
 
 Pinkie sets her two cups of coffee outside her shower, straws leading into the shower.
 
-She gets and turns the water on.
+She gets in, turning the water on.
 
 *I'm so excited to try this!*
 
