@@ -14,6 +14,8 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Cover done by irradiatedtittymilk on Discord.
 
+Featured: [08-06-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/love-licks/featured-2023-08-06-13-26-09.png).
+
 ### Short Description
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
