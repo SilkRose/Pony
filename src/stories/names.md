@@ -25,7 +25,6 @@ This file contains random story names that don't have enough thought to have the
 - Shy and Spoken
 - Fluttershy Fights Freedom
 - Horseshoes and Hope
-- Us and Unspoken
 - Ponies and Power
 - Mare and Myth
 - Gray and Gone
