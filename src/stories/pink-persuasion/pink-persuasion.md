@@ -218,7 +218,7 @@ I slowly lean close to Rarity, gently kissing her cheek.
 
 Rarity blushes and smiles. "You did great, darling."
 
-*Who knew, I might enjoy kissing Pinkie.*
+*Who knows, I might enjoy kissing Pinkie.*
 
 "That wasn't so bad, thanks. So, when is Pinkie's birthday?"
 
