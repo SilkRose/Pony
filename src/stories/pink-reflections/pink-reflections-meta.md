@@ -28,6 +28,13 @@ Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
 - Fluttershy: Anxiety.
 - Applejack: Pressure.
 
+## Summary
+Ch 1 (Pink Reflection): Pinkie, looking poofy and normal, tries to practice her smile and ends up talking to her reflection who is sad and straight-maned, who challenges why she hides her true self. Pinkie keeps putting up defenses until the reflection gives up and Pinkie sees her normal reflection and wipes a tear before heading to bed.
+
+Ch 2 (Pink Refraction): Pinkie helps someone in the Everfree and brushes against Poison Joke. That night, she speaks again with her reflection and loses it, causing her to shatter the mirror and head to bed, unaware that her reflection is no longer visible after that. The next day, Pinkie sees her reflection is missing when cleaning the broken glass, but brushes it off before leaving. One by one, each of the mane 6 are visited by pinkie's inner sad reflection (in a reflective surface), who tells them about one of pinkie's fears or worries or pressures.
+
+Ch 3 (Pink Restoration): Pinkie returns home and is surprised by her friends, who each tell or do or give something to calm each individual anxiety. Pinkie is relieved and breaks down crying and hugs them, before finally smiling a genuine smile. After the hug, she glances at a nearby reflective surface and sees her reflection back and smiling sincerely as well.
+
 ## Chapters
 [Chapter 1: Pink Reflection](./01-pink-reflection.md)
 - Starts with Pinkie, bouncing as usual, in her room above Sugarcube Corner.
