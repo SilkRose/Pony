@@ -20,8 +20,9 @@ Pinkie Pie looks at herself in a mirror. Now, if only she would look back.
 ## Ideas
 - Twilight: fear of failure.
 - Rarity: fear of burnout.
-- ???: Fear of rejection.
-- 
+- Rainbow: Fear of rejection. (romance)
+- Fluttershy: Anxiety.
+- Applejack: Pressure.
 
 ## Chapters
 [Chapter 1: Pink Reflection](./01-pink-reflection.md)
