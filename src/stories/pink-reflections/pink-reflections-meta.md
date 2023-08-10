@@ -18,7 +18,10 @@ Genres:
 Pinkie Pie looks at herself in a mirror. Now, if only she would look back.
 
 ## Ideas
-
+- Twilight: fear of failure.
+- Rarity: fear of burnout.
+- ???: Fear of rejection.
+- 
 
 ## Chapters
 [Chapter 1: Pink Reflection](./01-pink-reflection.md)
@@ -43,6 +46,8 @@ Pinkie Pie looks at herself in a mirror. Now, if only she would look back.
 - Starts with Pinkie helping someone (mane 6, or Zecora, or anyone) in the Everfree forest, and accidentally brushes against poison joke.
 - From there, that night, she does the same thing as the first part, but this time loses her temper and smashes the mirror. She goes to sleep and doesn't notice her reflection is missing from the fallen pieces of mirror.
 - The next day, each of the mane 6 are visited by pinkie's depressed reflection, who talks with each of them about one instance when pinkie pretended to be happy to make them happy, and also reveals something's about her worries and fears and anxieties. (still to figure out)
+- Pinkie cleans up the mirror the next day after helping said friend. She cleans up her broken mirror, realizing she has no reflection.
+- Pinkie reasons she just hasn't slept enough, leaving the room happy.
 
 [Chapter 3: Pink Restoration](./03-pink-restoration.md)
 - Perspective switches to pinkie who is returning home after hosting a party or something, and is surprised by her friends with a something that assuages all her fears and anxieties
