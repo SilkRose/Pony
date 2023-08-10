@@ -12,15 +12,19 @@ Genres:
 
 
 ## Description
+Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
 
+Written in partnership with [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus), who owns this story just as much as me, without them, this story wouldn't be what it is today.
 
 ## Short Description
-Pinkie Pie looks at herself in a mirror. Now, if only she would look back.
+Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
 
 ## Ideas
 - Twilight: fear of failure.
 - Rarity: fear of burnout.
+  - Looks in a mirror and sees Pinkie's reflection.
 - Rainbow: Fear of rejection. (romance)
+  - Rainbow Dash is flying over a lake and sees her reflection as Pinkie, thinking she is drowning, she dives in to save her. When there is nopony there, she gets out and looks back at the edge of the lake, where the reflection greets her.
 - Fluttershy: Anxiety.
 - Applejack: Pressure.
 
