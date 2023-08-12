@@ -65,3 +65,4 @@ Ch 3 (Pink Restoration): Pinkie returns home and is surprised by her friends, wh
 - Perspective switches to pinkie who is returning home after hosting a party or something, and is surprised by her friends with a something that assuages all her fears and anxieties
 
 ## Cover
+![cover](./cover-2.png)
