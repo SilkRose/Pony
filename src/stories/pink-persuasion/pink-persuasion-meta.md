@@ -26,6 +26,5 @@ The text 'Pink' at the top with a pink gradient in the letters. The middle is Ra
 
 ## Story
 [Pink Persuasion](./pink-persuasion.md)
-
 ## Cover
-
+![cover](./cover/cover-upscaled.png)
