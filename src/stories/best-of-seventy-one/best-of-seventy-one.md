@@ -102,3 +102,21 @@ I mark my X and get lost in her smile again.
 
 *Why am I looking at her smile again?*
 
+*I don't know… but I can't seem to stop.*
+
+*It's gorgeous… like her.*
+
+*I wonder what her lips taste like.*
+
+Pinkie wins again before I can continue my train of thought.
+
+*Probably better I don't continue thinking such things…*
+
+I mark a new board as we move over to it.
+
+Pinkie goes first again as I once again get fascinated by a new facet of my friend.
+
+*How am I just realizing how stunningly beautiful Pinkie's blue eyes are?*
+
+I stare into them as I marvel.
+
