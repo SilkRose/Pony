@@ -274,6 +274,10 @@ I open my eyes and melt, seeing those beautiful blue eyes staring back into mine
 
 *I love this.*
 
+Out of the corner of my eye, I see Applejack staring at us, slack jawed.
+
+*Time to leave, I suppose.*
+
 I break the kiss and say the only thing that I can think of. "I love you."
 
 "I love you too!"
