@@ -2,6 +2,8 @@
 
 I sit down as we wait for Applejack to arrive with Fluttershy.
 
+*If only Fluttershy wasn't afraid to climb the mountain.*
+
 Looking around, I see Pinkie walking towards me.
 
 Pinkie sits down in front of me, asking, "Hey Rarity, wanna play tic-tac-toe?"
