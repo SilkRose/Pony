@@ -15,13 +15,31 @@ Trixie gets a job at the rock farm of the Pie family, to keep herself afloat. At
 
 
 ## Short Description
-
+Trixie meets the rock to her hard place while working at a rock farm.
 
 ## Ideas
-
+> _It's hard being Trixie sometimes, but Trixie is as Trixie does._
 
 ## Chapters
+[Chapter 1: Hired](./01-hired.md)
+- Trixie is hired and meets Limestone.
 
+[Chapter 2: Tired](./02-tired.md)
+- Trixie is worked tirelessly by Limestone and they argue.
 
+[Chapter 3: Unmired](./03-unmired.md)
+ - Their arguments come to a head and Trixie breaks, running to her wagon before crying.
+ - Limestone talks to one of her sisters and is convinced to go apologize.
+ - After settling down, they talk and come to an understanding.
+
+[Chapter 4: Admired](./04-admired.md)
+ - They become closer as they start to work better together on the farm.
+ - They kiss one night.
+
+[Chapter 5: Fired](./05-fired.md)
+ - Trixie realizes she can't stay, and leaves in the night.
+ - Trixie gets stuck in a cave because of the weather.
+ - Limestone comes to find her, heartbroken and mad.
+ - They come to an understanding and kiss one last time.
 ## Cover
 
