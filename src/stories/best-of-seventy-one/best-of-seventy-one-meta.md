@@ -17,6 +17,9 @@ Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 Takes place during the episode Dragonshy.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) and [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
+
+Featured: [08-13-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/best-of-seventy-one/featured-2023-08-13-23-56-00.png).
+
 ## Short Description
 Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 
