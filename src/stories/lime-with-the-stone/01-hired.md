@@ -76,5 +76,5 @@ Trixie follows the stallion and sits down at their kitchen table. "So, what is y
 
 "Rock soup?"
 
-"A dish seldom served around Equestria, the rocks give the soup an earth taste."
+"A dish seldom served around Equestria, the rocks give the soup an earthy taste."
 
