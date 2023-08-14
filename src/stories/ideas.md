@@ -4,7 +4,7 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
-## Pinkie's Postmortem Proposition
+## Pinkie's Posthumous Plea
 
 ### Synopsis
 After Pinkie's passing, she requests something crazy of her friends. Throw the biggest party EVER. They have their work cut out for them as they plan the biggest party while dealing with the grief of losing one of their best friends. What does it even mean to invite all of Equestria to one party?
