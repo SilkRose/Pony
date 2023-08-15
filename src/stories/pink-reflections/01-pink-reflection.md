@@ -76,9 +76,9 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "That won't happen, I won't let it!"
 
-*"Your failure is a foregone conclusion, whether you like it or not. Failure is just waiting to collect."*
+*"But it will! Sooner or later, all of... THIS, that you've kept hidden underneath will be too much to handle. What then? Please, you can't keep doing this!"*
 
 "No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
 
-*"You know it will, and you're afraid. You've delayed the crash, but you're terrified of the burns."*
+*"You know it will, and you're afraid. You've delayed the crash, and you're terrified of the burns."*
 
