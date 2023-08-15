@@ -60,29 +60,27 @@ Rarity spoke up, "While I do appreciate the compliment, I must ask, why are you 
 
 "They seemed like a good pick, they're really soft, cuddly, and cute."
 
-"Perhaps you would be inclined to use my pillow, and give me the chance to get lost in your beautiful eyes?"
+"Perhaps you would be inclined to use my pillow, so we can talk about *us*?"
 
-"I didn't know a pillow could make me blush."
+"What do you mean *us*?"
 
-"So, is that a yes?"
+"Well… I thought you might be interested in me, seeing as you're currently using me as a pillow and have called me both pretty and cute."
 
-"But, this pillow is so soft," Pinkie says before nuzzling Rarity's side.
+"Maybe later, I'm trying to test sleeping on this new pillow."
 
-"I bet you'd make a soft pillow," Rarity says as a blush forms on her face.
+"I was trying to get some sleep too, you know."
 
-"This pillow is too flirty."
+"We're in agreement, let's both get some sleep."
 
-"I'm not a flirt, I just like what I see."
+A few minutes later, Rarity asks, "Would it be okay if I held you?"
 
-"Yep, definitely too flirty."
+"Sure! I'll get a better idea of how soft you are."
 
-"I'm willing to compromise, how about a kiss?"
+Rarity holds Pinkie for a few minutes before Pinkie says, "Okie! On to the next one!"
 
-"Hmm, fine, one kiss then I'm finding a new pillow."
+Pinkie slips free of her grasp, heading for the door.
 
-Pinkie lifts her head up and kisses Rarity passionately.
-
-"Thank you, darling, I'll be your pillow any day."
+Rarity cries, "Noooo."
 
 ***
 
