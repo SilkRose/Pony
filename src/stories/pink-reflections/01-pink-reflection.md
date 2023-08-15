@@ -112,3 +112,21 @@ Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they w
 
 "I can handle the pressure," Pinkie almost screams.
 
+*"You already put a lot on your plate, and your friends only add to it. If you told them, they could take some from you, help you like you help them."*
+
+"I don't need to burden them with my problems."
+
+*"They wouldn't see it as a burden, and you know that. They would love to help you any way they could."*
+
+"I don't need their help, I'm doing fine!" Pinkie says angrily.
+
+*"What about when you're not fine? When the anxiety gets to you, and you shut down?"*
+
+"What about it? I'm Pinkie Pie, nopony bats an eye when I disappear out of nowhere."
+
+*"You know that's not true, and what will you do when they say something? You know your* disappearances *have been taking longer and longer lately."*
+
+"They won't ask, and if they do, I'll figure something out, blame it on a Pinkie sense if I have to."
+
+*"You can't do this forever, Pinkie. You need to get help, while you still can, while you still have friends."*
+
