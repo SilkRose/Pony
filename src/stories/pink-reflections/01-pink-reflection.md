@@ -76,9 +76,39 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "That won't happen, I won't let it!"
 
-*"But it will! Sooner or later, all of... THIS, that you've kept hidden underneath will be too much to handle. What then? Please, you can't keep doing this!"*
+*"But it will! Sooner or later, all of… THIS, that you've kept hidden underneath, will be too much to handle. What then? Please, you can't keep doing this!"*
 
 "No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
 
 *"You know it will, and you're afraid. You've delayed the crash, and you're terrified of the burns."*
+
+"I've delayed it this long, what's a few more years?"
+
+*"You don't have a few more years, you need help, and you need it now!"*
+
+"I don't need nothing from nopony, I just need to make my friends smile."
+
+*"What about those friends? What will you do when you can't make them smile? When you burn out and can't plan the next party, the next celebration?"*
+
+"I haven't run out of ideas yet, and I got a million more in the back of my head, as long as I force myself, I can do anything."
+
+*"What about when forcing yourself stops working? When you see a room and the decorations don't appear in your mind, when your party cannon fails?"*
+
+"I'm not going to fail, and I'm not going to burnout!"
+
+*"What about when you're alone? When you have no friends? Will you care then?"*
+
+"My friends will never abandon me, especially Rainbow Dash."
+
+*"Why bring up Rainbow Dash, still holding out hope she will like you back? Will you get help when she rejects you, when they all do?"*
+
+"They would never do that…"
+
+*"They WILL and are going to if you don't get the help you NEED."*
+
+Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they won't. We've been over this a million times already."
+
+"Getting angry won't help, you're under too much pressure for that to let off steam."
+
+"I can handle the pressure," Pinkie almost screams.
 
