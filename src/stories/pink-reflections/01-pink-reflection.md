@@ -30,7 +30,7 @@ She strains and stretches the tips of her grin as far as she possibly can.
 
 Her reflection does not smile back.
 
-"Come on, can we not do this today, I'm tired."
+"Come on, can we not do this today? It's been a long day."
 
 Her reflection's mane flattens and falls down, the colors across her face and body dulling. Its gaze leaves her own and casts upon the floor.
 
@@ -128,5 +128,20 @@ Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they w
 
 "They won't ask, and if they do, I'll figure something out, blame it on a Pinkie sense if I have to."
 
-*"You can't do this forever, Pinkie. You need to get help, while you still can, while you still have friends."*
+Her reflection sighs sadly and drops her gaze to the floor. *"We can't do this forever, Pinkie. We need to get help, while we still can, while we still have friends."*
 
+Pinkie closes her eyes and takes in a deep breath, holding it in for a few seconds before releasing it slowly. Her eyes fall upon the list lying abandoned on the ground, all but one item checked off.
+
+"I'll get help when I want to, okay? But I don't need it right now. I can't. Pinkie doesn't need help, she's the one there when others need that help. So that's who I'll be for as long as I can." She picks the list up in a hoof and brushes it off. "Now, if you don't mind, I have a smile to check."
+
+She looks back up to the mirror into her own eyes, framed by her own bright pink fur and poofy mane. She tilts her head to one side, observing her reflection matching her. She smiles widely at the mirror.
+
+Her reflection smiles back.
+
+Spotting a glint in the mirror, Pinkie raises a hoof to her eye and brushes away a single tear. She turns her gaze back down to her list and, with a swish of her mane, checks off the final item of her list. She lets out a tired breath and turns around, trotting for the bathroom door. 
+
+She flicks the light switch, bathing the bathroom in darkness. Right before closing the door, she spares a final glance to the mirror on the other side. 
+
+A pair of reddened, dull blue eyes stare back tiredly at her.
+
+*"Talk to you again tomorrow night."*
