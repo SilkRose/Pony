@@ -50,3 +50,39 @@ Her pillow wakes up.
 
 Pinkie lays her head on her new pillow, Rarity.
 
+"This pillow is really soft… and very pretty."
+
+Rarity spoke up, "While I do appreciate the compliment, I must ask, why are you in my bed, using me as a pillow?"
+
+"Just trying to find a new pillow, the last one got really angry for some reason."
+
+"Might I ask why you are using ponies as your pillow?"
+
+"They seemed like a good pick, they're really soft, cuddly, and cute."
+
+"Perhaps you would be inclined to use my pillow, and give me the chance to get lost in your beautiful eyes?"
+
+"I didn't know a pillow could make me blush."
+
+"So, is that a yes?"
+
+"But, this pillow is so soft," Pinkie says before nuzzling Rarity's side.
+
+"I bet you'd make a soft pillow," Rarity says as a blush forms on her face.
+
+"This pillow is too flirty."
+
+"I'm not a flirt, I just like what I see."
+
+"Yep, definitely too flirty."
+
+"I'm willing to compromise, how about a kiss?"
+
+"Hmm, fine, one kiss then I'm finding a new pillow."
+
+Pinkie lifts her head up and kisses Rarity passionately.
+
+"Thank you, darling, I'll be your pillow any day."
+
+***
+
