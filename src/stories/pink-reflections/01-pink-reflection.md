@@ -68,5 +68,17 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "But I'm fine! I can take it! I love seeing ponies laugh, and if this is what it takes, then I'll do it!"
 
-*"But you're NOT fine!"*
+*"But you're NOT fine! You put on a front for your friends, but deep down you're miserable, deep down you're* me.*"*
+
+"I said I'm fine, I can handle it."
+
+*"Can you? Really? What are you going to do when you can't anymore? When you crash and burn, when your friends see the real you."*
+
+"That won't happen, I won't let it!"
+
+*"Your failure is a foregone conclusion, whether you like it or not. Failure is just waiting to collect."*
+
+"No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
+
+*"You know it will, and you're afraid. You've delayed the crash, but you're terrified of the burns."*
 
