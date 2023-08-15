@@ -10,7 +10,7 @@ Pinkie reaches into her mane and pulls out a long piece of paper.
 
 She reads down the list, checking off each item with a flick of a quill held in a strand of her mane.
 
-"Okie! Hold the birthday party for Sweetie Belle? Check! Give Gummy his bath? Check! Clean up the downstairs kitchen? Check! Finish the pre-ordered cakes for pickup tomorrow morning? Check! All that's left, as usual, is..."
+"Okie! Hold the birthday party for Sweetie Belle? Check! Give Gummy his bath? Check! Clean up the downstairs kitchen? Check! Finish the pre-ordered cakes for pickup tomorrow morning? Check! All that's left, as usual, is…"
 
 Pinkie's eyes linger at the final item at the bottom of the list, one that has remained on every daily list for many, many years now.
 
@@ -42,7 +42,7 @@ Her reflection's mane flattens and falls down, the colors across her face and bo
 
 Pinkie rolls her eyes.
 
-"I still don't know what you mean. Sweetie Belle was happy at the party! They all were! They all were smiling and laughing and having a total blast tonight!"
+"I still don't know what you mean. Sweetie Belle was happy at the party! They all were! They were all smiling and laughing and having a total blast tonight!"
 
 *"And you?"*
 
@@ -58,7 +58,7 @@ Pinkie drops the smile and looks away.
 
 "And what does it matter if I put it on every morning so that's what ponies see instead?"
 
-*"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy, but you're yourself can barely make true self smile!"* 
+*"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy, but you're yourself can barely make your true self smile!"* 
 
 "So what?! If wearing a smile brings one to the faces of all my friends and all the ponies of Ponyville, why should I stop?"
 
