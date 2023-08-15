@@ -65,3 +65,4 @@ This file contains random story names that don't have enough thought to have the
 - Fearing Fun
 - Inkscapes
 - Hidden Hovel
+- Condensed Cuteness
