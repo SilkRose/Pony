@@ -62,3 +62,6 @@ This file contains random story names that don't have enough thought to have the
 - Creatively Pink
 - Extra Pink
 - Coffee and Couture
+- Fearing Fun
+- Inkscapes
+- Hidden Hovel
