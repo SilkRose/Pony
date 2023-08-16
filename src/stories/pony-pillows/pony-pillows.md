@@ -84,3 +84,55 @@ Rarity cries, "Noooo."
 
 ***
 
+
+
+***
+
+Pinkie lays her head down on a yellow pillow this time, Fluttershy.
+
+"Wow, this one is really soft."
+
+Pinkie nuzzles her pillow's feathers.
+
+"The feathers add so much to the experience. I wonder how squeezable this pillow is. Sometimes you gotta hold on tight."
+
+Pinkie wraps her hooves around Fluttershy and gently squeezes her as she nuzzles her more.
+
+Fluttershy wakes up, lifting her head to see what's going on. "Pinkie…" she says in a confused tone.
+
+"This pillow talks to, aye."
+
+"Pillow?"
+
+"Ugh, I'm trying to find a new pillow, the last three didn't work out."
+
+"I'm your pillow?"
+
+"Yes."
+
+"O- okay."
+
+"Does this pillow have any unique features?"
+
+"Oh, like what?"
+
+Pinkie thinks for a moment before she asks, "Can it sing me a lullaby?"
+
+Fluttershy begins softly singing a lullaby to Pinkie as Pinkie cuddles up with her newest pillow.
+
+*I like this pillow, so far, it's my favorite.*
+
+Fluttershy wraps her hooves around Pinkie, holding her back.
+
+*Aww, such a good pillow.*
+
+A few minutes later, as Pinkie is about to fall asleep, Fluttershy says, "Pinkie?"
+
+"Yes, pillow?"
+
+"I need to use the restroom."
+
+Pinkie sighs. "Dang pillows and their problems."
+
+***
+
