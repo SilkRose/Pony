@@ -4,6 +4,14 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Trixie, Trixie, and Trixie
+
+### Synopsis
+Trixie clones herself twice in the mirror pool (results in 4) but one accidentally dies somehow, leaving 3 Trixies to figure how to dispose of the dead Trixie.
+
+
+***
+
 ## Pinkie's Posthumous Plea
 
 ### Synopsis
