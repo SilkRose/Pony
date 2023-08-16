@@ -84,7 +84,43 @@ Rarity cries, "Noooo."
 
 ***
 
+Pinkie now lays her head down on a cyan pillow named Rainbow Dash.
 
+"Hmmm… soft, but a little firm at the same time."
+
+She prods at her pillow a little.
+
+"Some parts are firmer than others."
+
+The pillow under her stirs slightly.
+
+"This one moves as well!"
+
+As she continues to prod the pillow, her hooves brush against something with unusual texture.
+
+"Wings! That must be a new feature."
+
+Carefully, she unfurls the wing and wraps it gently around herself, smiling from the sudden warmth.
+
+"This is very comfy! I'll need to remember this in my final ranking!"
+
+Rainbow stirs from the sudden close contact. "Huh? Wha-?" She opens her eyes slowly. "Pinkie?!"
+
+Pinkie pets her head. "Shhh, pillows don't talk."
+
+"Who says I'm a pillow?"
+
+"I do! I'm deciding which of you makes the best pillow."
+
+Rainbow blinks. "Well… how did I do?"
+
+Pinkie smiles. "I can't say yet." She rolls out of bed and falls straight through the cloud floor.
+
+Rainbow screams. "Pinkie!" She dives through the floor and, to her shock and relief, sees Pinkie climb off a massive trampoline.
+
+"On to the next pillow!"
+
+Rainbow scratches her head, confused, before flying back to resume her sleep.
 
 ***
 
