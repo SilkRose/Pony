@@ -9,13 +9,13 @@ Locations:
 Genres:
 
 ## Synopsis
-Pinkie sets out on a quest to determine which of her friends make the softest pillow. Definitely not an excuse to cuddle her friends, nope.
+Pinkie sets out on a quest to determine which of her friends make the softest pillow.
 
 ## Description
-Pinkie sets out on a quest to determine which of her friends make the softest pillow. Definitely not an excuse to cuddle her friends, nope.
+Pinkie sets out on a quest to determine which of her friends make the softest pillow.
 
 ## Short Description
-Pinkie sets out on a quest to determine which of her friends make the softest pillow. Definitely not an excuse to cuddle her friends, nope.
+Pinkie sets out on a quest to determine which of her friends make the softest pillow.
 
 ## Ideas
 
