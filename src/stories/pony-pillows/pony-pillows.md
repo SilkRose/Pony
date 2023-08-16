@@ -136,3 +136,30 @@ Pinkie sighs. "Dang pillows and their problems."
 
 ***
 
+Pinkie lays her head down on the bed where Twilight should be, but nopony is there.
+
+"What? Where's Twilight?"
+
+Twilight appears from behind the bed and lays down on the bed, using Pinkie's shoulder as a pillow. "I needed a new pillow, yep."
+
+"Hey, that's my line!"
+
+"I think I need a new pillow too, Twilight," Rarity says as she lays down in Twilight's bed, resting her head on Pinkie's front hooves.
+
+Pinkie asks, confused, "What's going on here?"
+
+Nopony answers, instead Rainbow flies down and lays down, using Pinkie's flank as a pillow. "Ah, I was looking for a softer pillow too."
+
+Pinkie asks, "Where are you all coming from?"
+
+Fluttershy pokes out from under the bed, laying down and resting her head on Pinkie's side. "This pillow is really soft, thanks for the recommendation, Twilight."
+
+Pinkie asks, "Are all of you here?"
+
+Applejack opens the door, trotting to the bed before laying down, laying her head on Pinkie rear legs. "Thanks for inviting me, Twilight, I've been needing a new pillow."
+
+Pinkie says, "I still need to figure out who the softest pillow is."
+
+Twilight says, "Say it with me, girls."
+
+All five ponies say in unison, "Pinkie Pie."
