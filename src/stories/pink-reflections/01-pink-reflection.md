@@ -48,7 +48,7 @@ Pinkie rolls her eyes.
 
 "I'm always happy!"
 
-*"Heh. Sure you are."
+*"Heh, sure you are."
 
 "My wide smile says so!"
 
@@ -58,7 +58,7 @@ Pinkie drops the smile and looks away.
 
 "And what does it matter if I put it on every morning so that's what ponies see instead?"
 
-*"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy, but you're yourself can barely make your true self smile!"* 
+*"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy, but you yourself can barely make your true self smile!"* 
 
 "So what?! If wearing a smile brings one to the faces of all my friends and all the ponies of Ponyville, why should I stop?"
 
