@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink-Pong
+
+### Synopsis
+Pinkie enters into a ping-pong tournament.
+
+***
+
 ## Us and Unspoken
 
 ### Synopsis
