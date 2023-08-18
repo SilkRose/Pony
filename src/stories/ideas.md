@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Prodigy
+
+### Synopsis
+Pinkie as a filly or teen pony shows a natural affinity with experimenting with baking to create very delicious unique cupcakes and cakes, and that's how she gets an apprenticeship with the Mr. and Mrs. Cake.
+
+***
+
 ## Cyan Cakewalk
 
 ### Synopsis
