@@ -23,6 +23,8 @@ Pinkie sets out on a quest to determine which of her friends makes the softest p
 
 ## Ideas
 
+## Cover Ideas
+- Maybe front facing pinkie in the bottom half and then the top half is a thought bubble, and it is the other 5 ponies, then equals sign, then a pile of 5 pillows, all matching their colors.
 
 ## Story
 [Pony Pillows](./pony-pillows.md)
