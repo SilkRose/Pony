@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Performative Venting
+
+### Synopsis
+The mane 6 go on a show and vent about their life, anxieties, struggles, and whatever they want under the cover of anonymity.
+
+***
+
 ## Pink Poetry
 
 ### Synopsis
