@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Impossiblue
+
+### Synopsis
+Rainbow has since grown old, and has been told many times that a sonic rainboom at her age is impossible, but that doesn't stop her; she got her talent for achieving the impossible, so that's what she'll do.
+
+***
+
 ## Pink Petting
 
 ### Synopsis
