@@ -4,6 +4,12 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Dangerously Cute
+
+### Synopsis
+A magical accident causes the mere sight of Pinkie to make the ponies of Ponyville fall unconscious from cuteness overload.
+
+***
 ## Silly Sandwich
 
 ### Synopsis
