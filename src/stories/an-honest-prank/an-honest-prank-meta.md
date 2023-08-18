@@ -19,6 +19,7 @@ Rainbow tries to teach AJ how to prank, who struggles due to being unable to lie
 
 ## Ideas
 - The story is from Rainbow's POV.
+- The prank is a kiss, (non-romantic) and flusters Dash heavily.
 
 ## Story
 [An Honest Prank](./an-honest-prank.md)
