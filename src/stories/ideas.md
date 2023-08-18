@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Cyan Cakewalk
+
+### Synopsis
+Rainbow walks across her kitchen to grab some cake, but the entire time she is having an existential crisis.
+
+***
+
 ## Impossiblue
 
 ### Synopsis
