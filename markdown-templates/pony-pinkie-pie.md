@@ -1,1 +1,0 @@
-[Pinkie Pie](../src/ponies/pinkie-pie/pinkie-pie.md)

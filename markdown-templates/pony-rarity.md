@@ -1,1 +1,0 @@
-[Rarity](../src/ponies/rarity/rarity.md)
