@@ -4,6 +4,12 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Silly Sandwich
+
+### Synopsis
+Pinkie attempts to teach Fluttershy how to make different sandwiches, who struggles to follow along due to Pinkie's jokes and antics and switch ups.
+
+***
 ## Trixie, Trixie, and Trixie
 
 ### Synopsis
