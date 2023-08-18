@@ -54,11 +54,11 @@ Pinkie lays her head on her new pillow, Rarity.
 
 Rarity spoke up, "While I do appreciate the compliment, I must ask, why are you in my bed, using me as a pillow?"
 
-"Just trying to find a new pillow, the last one got really angry for some reason."
+"Just trying to find a new pillow. The last one got really angry for some reason."
 
 "Might I ask why you are using ponies as your pillow?"
 
-"They seemed like a good pick, they're really soft, cuddly, and cute."
+"They seemed like a good pick, as they're really soft, cuddly, and cute."
 
 "Perhaps you would be inclined to use my pillow, so we can talk about *us*?"
 
@@ -140,7 +140,7 @@ Fluttershy wakes up, lifting her head to see what's going on. "Pinkie…" she sa
 
 "Pillow?"
 
-"Ugh, I'm trying to find a new pillow, the last three didn't work out."
+"Ugh, I'm trying to find a new pillow because the last three didn't work out."
 
 "I'm your pillow?"
 
@@ -188,7 +188,7 @@ Nopony answers, instead Rainbow flies down and lays down, using Pinkie's flank a
 
 Pinkie asks, "Where are you all coming from?"
 
-Fluttershy pokes out from under the bed, laying down and resting her head on Pinkie's side. "This pillow is really soft, thanks for the recommendation, Twilight."
+Fluttershy pokes out from under the bed, laying down and resting her head on Pinkie's side. "This pillow is really soft; thanks for the recommendation, Twilight."
 
 Pinkie asks, "Are all of you here?"
 
