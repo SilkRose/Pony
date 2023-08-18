@@ -15,6 +15,8 @@ Whatever happened to the girl who was kissed a million times? What became of the
 
 ### Ideas
 
+### Cover Idea
+Title at the top with a grid of 9 squares below, squares 1 and 2, and 8 and 9 are connected in pairs. Each square shows a kiss, 1/2 shows first kiss, 8/9 shows their wedding kiss, other 5 show random ones.
 
 ### Story
 [A Million Little Kisses](a-million-little-kisses.md)
