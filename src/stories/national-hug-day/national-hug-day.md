@@ -1,2 +1,0 @@
-# National Hug Day
-

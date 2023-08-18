@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## National Hug Day
+
+### Synopsis
+Pinkie tries to convince a friend it is national hug day to get a bunch of hugs from her, they know it is a lie but hugs them a bunch anyway. Then asks if they want to participate in the next day's holiday, national go out with your best friend day.
+
+***
+
 ## A Million Little Kisses
 
 ### Synopsis
