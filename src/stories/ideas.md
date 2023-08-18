@@ -4,18 +4,27 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Simply Stained
+
+### Synopsis
+Pinkie accidentally stains her coat when baking a new recipe, but the color gives her ideas and the next day she stains her entire body with different colors, much to everypony's surprise and also silk rose is very pretty.
+
+***
+
 ## Dangerously Cute
 
 ### Synopsis
 A magical accident causes the mere sight of Pinkie to make the ponies of Ponyville fall unconscious from cuteness overload.
 
 ***
+
 ## Silly Sandwich
 
 ### Synopsis
 Pinkie attempts to teach Fluttershy how to make different sandwiches, who struggles to follow along due to Pinkie's jokes and antics and switch ups.
 
 ***
+
 ## Trixie, Trixie, and Trixie
 
 ### Synopsis
