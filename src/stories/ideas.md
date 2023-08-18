@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Poetry
+
+### Synopsis
+Pinkie writes a poem about each of her friends.
+
+***
+
 ## Simply Stained
 
 ### Synopsis
