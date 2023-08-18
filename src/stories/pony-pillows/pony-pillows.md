@@ -136,7 +136,7 @@ Pinkie wraps her hooves around Fluttershy and gently squeezes her as she nuzzles
 
 Fluttershy wakes up, lifting her head to see what's going on. "Pinkie…" she says in a confused tone.
 
-"This pillow talks to, aye."
+"This pillow talks too, aye."
 
 "Pillow?"
 
@@ -192,7 +192,7 @@ Fluttershy pokes out from under the bed, laying down and resting her head on Pin
 
 Pinkie asks, "Are all of you here?"
 
-Applejack opens the door, trotting to the bed before laying down, laying her head on Pinkie rear legs. "Thanks for inviting me, Twilight, I've been needing a new pillow."
+Applejack opens the door, trotting to the bed before laying down, laying her head on Pinkie's rear legs. "Thanks for inviting me, Twilight, I've been needing a new pillow."
 
 Pinkie says, "I still need to figure out who the softest pillow is."
 
