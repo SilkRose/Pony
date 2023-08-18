@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Petting
+
+### Synopsis
+Maybe someone pets pinkie for something, she realizes she loves the feeling so much, and sets up a stand in the middle of town where she sits and ponies can come pet her. At first, ponies are confused, but some eventually come and many familiar ponies pass by to pet her poofy mane for some quick stress relief.
+
+***
+
 ## Pink-Pong
 
 ### Synopsis
