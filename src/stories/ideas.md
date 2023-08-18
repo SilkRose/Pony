@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Two Pies and a Pie
+
+### Synopsis
+Pony and EQG Pinkie meet somewhere and eat a pie together.
+
+***
+
 ## Pink Prodigy
 
 ### Synopsis
