@@ -18,7 +18,7 @@ Rainbow tries to teach AJ how to prank, who struggles due to being unable to lie
 
 
 ## Ideas
-
+- The story is from Rainbow's POV.
 
 ## Story
 [An Honest Prank](./an-honest-prank.md)
