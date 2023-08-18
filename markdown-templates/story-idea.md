@@ -1,3 +1,3 @@
 ## Title
 
-### Synopsis
+### Synopsis:

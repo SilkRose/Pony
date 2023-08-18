@@ -1,5 +1,7 @@
 # Title
 
+## Tags:
+
 Mane Characters: 
 
 Secondary Characters: 
@@ -8,20 +10,19 @@ Locations:
 
 Genres:
 
-## Synopsis
+## Synopsis:
 
 
-## Description
+## Description:
 
 
-## Short Description
+## Short Description:
 
 
-## Ideas
+## Ideas:
 
 
-## Story
+## Story:
 
 
-## Cover
-
+## Cover:
