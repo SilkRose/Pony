@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Princess Pampering
+
+### Synopsis:
+Rarity pampers her marefriend after a long day at work.
+
+***
+
 ## Pony Prancing Practices
 
 ### Synopsis:
