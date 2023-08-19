@@ -1,23 +1,15 @@
 # Pony Posterior Prose Party
 
-Mane Characters: 
-
-Location: [Ponyville](../../places/ponyville.md)
-
-### Synopsis
-
+## Synopsis:
 Chairs talk to each other but can't move. They have a holiday where they remember and talk about the butts that have sat on them.
 
-### Description
-
+## Description:
 The annual Pony Posterior Postulate Party is upon us and everychair is excited. Time to talk about butts.
 
-### Short Description
-
+## Short Description:
 Time to talk about butts.
 
-### Ideas
-
+## Ideas:
  - Twilight Sparkle - soft, rather tense/slightly tight – butt
  - Rarity - soft, well-kempt, slightly tight/some tension – posterior
  - Pinkie Pie - very soft and plump, lose/tension free – tooshie
@@ -37,8 +29,7 @@ Todo: make the story from spike's throne's perspective.
    - TST - 5 - Celestia, Trixie, Starlight, Pinkie Pie, Sludge, RD and Twi at same time
    - All sans ST - Changelings
 
-### Flow
-
+## Flow:
 1. Start
 2. Twilight's chair - 
 3. Rarity's chair - 
@@ -50,10 +41,8 @@ Todo: make the story from spike's throne's perspective.
 9. Chosen pony comes in
 10. end
 
-### Chapters
-
+## Story:
 [Chapter 01](./01.md)
 
-### Cover
-
+## Cover:
 ![Cover](testcover2.png)
