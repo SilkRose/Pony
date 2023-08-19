@@ -1,28 +1,20 @@
 # Saddle Bagged
 
-Mane Characters: 
-
-Location: [Ponyville](../../places/ponyville.md)
-
-### Synopsis
-
+## Synopsis:
 Human jumping on a trampoline in a pocket dimension in twilight's saddlebags. Every time he jumps his head leaves the saddlebag for a split second and he can see outside.
 
-### Description
-
+## Description:
 Tim woke up in a weird place, on a trampoline, with nothing else to do, he jumps.
 
 Boing.
 
-### Short Description
-
+## Short Description:
 Tim woke up in a weird place, on a trampoline, with nothing else to do, he jumps.
 
-### Ideas
+## Ideas:
 
 
-### Flow
-
+## Flow:
 1. Tim wakes up on a trampoline
 2. He can't do anything so he jumps
 3. He can see glimpses outside Twilight's saddlebag
@@ -52,8 +44,7 @@ Tim woke up in a weird place, on a trampoline, with nothing else to do, he jumps
 27. End Chapter 3 - Start 4
 28. 
 
-### Chapters
-
+## Chapters:
 [Chapter 1: Boing](01-boing.md):
  - jumps on the trampoline a lot.
 
@@ -78,6 +69,5 @@ Chapter 7: Return:
 Chapter 8: ????:
  - 
 
-### Cover
-
+## Cover:
 ![Cover](cover2sb.png)
