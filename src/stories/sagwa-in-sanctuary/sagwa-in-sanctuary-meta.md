@@ -1,28 +1,22 @@
 # Sagwa in Sanctuary
 
-Mane Characters: 
+## Synopsis:
+MLP x Sagwa crossover fic. Fluttershy takes 3 cats into her sanctuary, Sagwa, Sheegwa, and Dongwa. How will they adjust to this new place and new creatures to be around, and what lessons will they learn along the way?
 
-Location: 
-
-### Synopsis
-
- MLP x Sagwa crossover fic. Fluttershy takes 3 cats into her sanctuary, Sagwa, Sheegwa, and Dongwa. How will they adjust to this new place and new creatures to be around, and what lessons will they learn along the way?
-
-### Description
+## Description:
 
 
-### Short Description
+## Short Description:
 
 
-### Ideas
+## Ideas:
 
-#### Lessons Learned:
+### Lessons Learned:
  - Dongwa, learns the more adult lessons
  - Sagwa, learns the more intermediate ones
  - Sheegwa, learns the more basic ones
 
-#### Chapter Ideas:
-
+### Chapter Ideas:
 * Dongwa likes Opal, but Opal doesn't have the best personality. (looks aren't everything.)
 * The three cats help Opal be a better person. (strive to do better)
 * Dongwa likes Opal now for both looks and personality. (romance is fun, but tricky.)
@@ -34,7 +28,7 @@ Location:
 * Last chapter is them being offered a way home, they have a hard time deciding. (sometimes you got to make hard choices)
 * Sheegwa gets her markings, if she hasn't already, in the show. (growing up)
 
-#### Need sorted:
+### Need sorted:
 * Think for yourself
 * Ask questions
 * Explore
@@ -43,12 +37,7 @@ Location:
 * Being resourceful, able to make things
 * Things don't always go as planned
 
-### Flow
-
-
-### Chapters
-
+## Chapters:
 [01: How Sagwa Got to Equestria](./01.md)
 
-### Cover
-
+## Cover:
