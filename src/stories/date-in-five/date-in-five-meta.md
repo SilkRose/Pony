@@ -1,27 +1,18 @@
 # Date in Five
 
-Mane Characters: 
-
-Secondary Characters: 
-
-Locations: 
-
-Genres:
-
-## Synopsis
+## Synopsis:
 Twilight has a date in 5 minutes, and the whole story is them mentality preparing.
 
-## Description
+## Description:
 
 
-## Short Description
+## Short Description:
 Twilight has a date in five minutes, all she has to do is stay calm.
 
-## Ideas
+## Ideas:
 
 
-## Story
+## Story:
 [Date in Five](./date-in-five.md)
 
 ## Cover
-
