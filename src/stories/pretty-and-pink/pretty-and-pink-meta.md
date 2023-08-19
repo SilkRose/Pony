@@ -1,23 +1,19 @@
 # Pretty and Pink
 
-Mane Characters: [Rarity](../../ponies/rarity/rarity.md), [Pinkie Pie](../../ponies/pinkie-pie/pinkie-pie.md)
-
-Location: [Ponyville](../../places/ponyville.md)
-
-### Synopsis
+## Synopsis:
 Rarity likes pinkie and wants to spend more time with her and ask her out.
 
-### Description
+## Description:
 Rarity can't keep her feelings for Pinkie a secret any longer. She decides to make her a dress to show her how much she means to her.
 
 [The Mystery Fluttershy Fan](https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan) has made an audiobook of Pretty and Pink, you can listen to it [here](https://www.youtube.com/watch?v=haVP8dKX*Mg). **Please note**, the story has had a minor update since then, so the audiobook doesn't match exactly with the story now.
 
 Cover done by irradiatedtittymilk on Discord.
 
-### Short Description
+## Short Description:
 Rarity decides to give Pinkie a gift to show her how much she means to her.
 
-### Flow:
+## Flow:
 1. Rarity likes Pinkie and wants to spend more time with her.
 2. Rarity goes to Sugarcube Corner.
 3. Rarity asks Pinkie for help making a dress.
@@ -30,8 +26,8 @@ Rarity decides to give Pinkie a gift to show her how much she means to her.
 10. They kiss.
 11. The end?
 
-### Story:
+## Story:
 [A Gift From The Heart](./a-gift-from-the-heart.md)
 
-### Cover
+## Cover:
 ![cover](./cover.png)
