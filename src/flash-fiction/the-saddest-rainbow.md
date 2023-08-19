@@ -1,6 +1,7 @@
 # The Saddest Rainbow
 
 Written by [MoonSong Darkstone](https://www.fimfiction.net/user/612265/MoonSong+Darkstone).
+
 Diary entries written by [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose).
 
 ***
