@@ -1,22 +1,18 @@
 # Mail it In
 
-Mane Characters: 
-
-Location: [Ponyville](../../places/ponyville.md)
-
-### Synopsis
+## Synopsis:
 A stallion falls for his mailmare, inspired by [this](https://www.youtube.com/watch?v=KDc9WaQHP1g) song.
 
-### Description
+## Description:
 
-### Short Description
 
-### Ideas
+## Short Description:
+
+
+## Ideas:
 - Protagonist is a earth pony, dusty blond mane, worn leather colored coat.
 
-### Flow
-
-### Chapters
+## Chapters:
 [Day 1](./01.md) Saturday - he notices her:
  - He moves in, came from a big city, takes in the surroundings. thinks about how much nicer and quieter it is here, like the small village he grew up in.
  - mail comes, sees Derpy, briefly interacts. (she greets him.)
@@ -83,5 +79,4 @@ A stallion falls for his mailmare, inspired by [this](https://www.youtube.com/wa
 [Day 10](./10.md) Monday:
  - no mail on holiday (H&H day) Derpy delivers her response  in person on her own time, makes him open it in front of her. he thinks it's mail day in his anxious delirium, he thinks it's mail day. he expresses concern about her other deliveries, she says something along the lines of "nope" or "I've got all the time i need" affectionately.
 
-### Cover
-
+## Cover:
