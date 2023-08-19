@@ -1,17 +1,9 @@
 # The Pink Tax
 
-Mane Characters: 
-
-Secondary Characters: 
-
-Locations: 
-
-Genres:
-
-## Synopsis
+## Synopsis:
 A short comedy about there being a tax for being pink in Equestria
 
-## Description
+## Description:
 Tax season is almost over, and Pinkie hasn't paid hers yet.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
@@ -22,10 +14,10 @@ Featured: [07-20-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/th
 
 Now with a [reading](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio).
 
-## Short Description
+## Short Description:
 Tax season is almost over, and Pinkie hasn't paid hers yet.
 
-## Ideas
+## Ideas:
 - Pinkie goes to starlight, trying to get help to evade the pink tax.
 - The entire story takes place in Starlight office.
 - Starlight doesn't know about the tax, thinking it makes no sense.
@@ -37,7 +29,7 @@ Tax season is almost over, and Pinkie hasn't paid hers yet.
 - The tax collector is Filthy Rich.
 - When the tax collector shows up to collect, everypony is now a different color, no pink in sight.
 
-## Pink Ponies
+## Pink Ponies:
 - Pinkie Pie
 - Starlight Glimmer
 - Twilight Sparkle
@@ -51,8 +43,8 @@ Tax season is almost over, and Pinkie hasn't paid hers yet.
 - Cadence
 - Flurry Heart
 
-## Story
+## Story:
 [The Pink Tax](./the-pink-tax.md)
 
-## Cover
+## Cover:
 ![cover](./cover/cover-upscaled.png)
