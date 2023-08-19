@@ -1,13 +1,9 @@
 # The Heist of My Heart
 
-Mane Characters: 
-
-Location: 
-
-### Synopsis
+## Synopsis:
 Pinkie tries to steal Twilight's heart with the help of Rainbow. Twilight pretends to stay asleep and enacts her own plan. As Twilight messes with Pinkie, she realizes she may like Pinkie as more than a friend. By the end Twilight asks Pinkie out. They cuddle and fall asleep.
 
-### Description
+## Description:
 Pinkie tries to steal Twilight's heart with a kiss and a love note.
 
 Twilight has other plans.
@@ -20,10 +16,10 @@ Featured: [07-02-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/th
 
 Translated into Ukrainian by [volkov](https://www.fimfiction.net/user/595939/volkov), available [here](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr).
 
-### Short Description
+## Short Description:
 Pinkie tries to steal Twilight's heart, Twilight has other plans.
 
-### Story
+## Story:
 [The Heist of My Heart](the-heist-of-my-heart.md)
  - Pinkie and Rainbow sneak into Twilight's bedroom.
  - Pinkie wants to steal Twilight's heart, metaphorically.
@@ -37,6 +33,5 @@ Pinkie tries to steal Twilight's heart, Twilight has other plans.
  - Pinkie says yes.
  - They cuddle and fall asleep together.
 
-### Cover
-
+## Cover:
 ![Cover](./cover.png)
