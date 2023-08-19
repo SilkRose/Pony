@@ -1,27 +1,19 @@
 # Plush Pondering
 
-Mane Characters: 
-
-Secondary Characters: 
-
-Locations: 
-
-Genres:
-
-## Synopsis
+## Synopsis:
 A Pinkie Pie plush ponders existence, what it means to be a plush, where it's been, and where it's going.
 
-## Description
+## Description:
 
 
-## Short Description
+## Short Description:
 
 
-## Ideas
+## Ideas:
 
 
-## Story
+## Story:
 [Plush Pondering](./plush-pondering.md)
 
-## Cover
+## Cover:
 ![cover](./cover.jpg)
