@@ -1,15 +1,5 @@
 # Title
 
-## Tags:
-
-Mane Characters: 
-
-Secondary Characters: 
-
-Locations: 
-
-Genres:
-
 ## Synopsis:
 
 
