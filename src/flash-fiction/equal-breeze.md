@@ -1,5 +1,9 @@
 # Equal Breeze
 
+Written by [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose).
+
+***
+
 Zephyr looks down at his little sister, playing in the clouds.
 
 *Such a wonderful pony, how did I get a sister so great?*
