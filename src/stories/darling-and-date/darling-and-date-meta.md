@@ -1,15 +1,9 @@
 # Darling & Date
 
-Mane Characters: [Rarity](../../ponies/rarity/rarity.md), [Pinkie Pie](../../ponies/pinkie-pie/pinkie-pie.md)
-
-Location: [Ponyville](../../places/ponyville.md)
-
-### Synopsis
-
+## Synopsis:
 Sequel to [Pretty and Pink](../pretty-and-pink/pretty-and-pink-meta.md). Pinkie plans a date for them.
 
-### Description
-
+## Description:
 Rarity and Pinkie throw a party announcing and celebrating their relationship. Rainbow asks if they've gone on a date, Pinkie thinks it's a great idea, asking Rarity out on the dance floor.
 
 With the help of her friends, can Pinkie plan an amazing date for Rarity? Will she still be able to do it while helping Rainbow deal with her feelings for Fluttershy?
@@ -22,12 +16,10 @@ Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for 
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
 
-### Short Description
-
+## Short Description:
 Pinkie and Rarity throw a party to announce their relationship. Pinkie asks Rarity on a date, getting the rest of their friends to help plan it, all while Rarity and Pinkie try to help Fluttershy and Rainbow deal with their feelings for each other.
 
-### Ideas
-
+## Ideas:
 - Have sub-plot of Rainbow and Fluttershy liking each other, they ask each other out in an epilogue.
 - Each friend helps with one thing:
 	- Rainbow Dash - Provides entertainment, an aerial show, with clouds shaped to spell 'Rarity <3 Pinkie', and clears the skies for their date.
@@ -38,11 +30,10 @@ Pinkie and Rarity throw a party to announce their relationship. Pinkie asks Rari
 	- Rarity - Rarity just wants to spend time with Pinkie, so Pinkie asks Rarity if she wants to have a sleepover at the end of the date.
 	- Pinkie - Pinkie sings Rarity a song. She picks the game they play. She makes the desert they eat.
 
-#### Dress Design:
+### Dress Design:
 White flowing dress, with a purple stitch going all the way around the skirt about one quarter of an inch from the bottom. The front has sleeves that cover one fourth her front legs. The neck has a blue stitch going around with a V neck in the front.
 
-### Chapters
-
+## Chapters:
 [Chapter 1: Announce & Ask](01-announce-and-ask.md):
  - Rarity and Pinkie Pie announce to their friends that they are dating.
  - Pinkie asks Rarity to go on their first date.
@@ -101,5 +92,5 @@ White flowing dress, with a purple stitch going all the way around the skirt abo
  - Rainbow is taken aback but says yes excitedly.
  - They hug while smiling.
 
-### Cover
+## Cover:
 ![Cover](cover.png)
