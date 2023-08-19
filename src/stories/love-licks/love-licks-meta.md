@@ -1,13 +1,9 @@
 # Love Licks
 
-Mane Characters: 
-
-Location: 
-
-### Synopsis
+## Synopsis:
 Twilight Sparkle and Pinkie Pie make a secret language out of licks, by the end they are smitten with each other and decide to go out.
 
-### Description
+## Description:
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
@@ -16,10 +12,10 @@ Cover done by irradiatedtittymilk on Discord.
 
 Featured: [08-06-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/love-licks/featured-2023-08-06-13-26-09.png).
 
-### Short Description
+## Short Description:
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
-### Ideas
+## Ideas:
 - They take turns assigning words to licks.
 - Emphasizing like italics is tilting the action slightly.
 - They use charades to convey the words, there is no spoken dialogue in the story.
@@ -30,7 +26,7 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
 - Once Twilight understands, Pinkie says, "Twilight Sparkle, will you go out with me?" in licks.
 - Twilight says yes and they kiss.
 
-### Words
+## Words:
  - Pony Names: Write initials on cheeks.
  - Hello: A vertical lick upward one inch to the left or right of the nose.
  - Goodbye: A vertical lick downward one inch to the left or right of the nose.
@@ -54,8 +50,8 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
  - Lick: A vertical lick upward on the lips.
 
 
-### Story
+## Story:
 [Love Licks](./love-licks.md)
 
-### Cover
+## Cover:
 ![cover](./cover.png)
