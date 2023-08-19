@@ -1,17 +1,9 @@
 # Best of Seventy-One
 
-Mane Characters: 
-
-Secondary Characters: 
-
-Locations: 
-
-Genres:
-
-## Synopsis
+## Synopsis:
 Rarity plays Pinkie in tic-tac-toe, she can't stop losing to her.
 
-## Description
+## Description:
 Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 
 Takes place during the episode Dragonshy.
@@ -20,7 +12,7 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) and 
 
 Featured: [08-13-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/best-of-seventy-one/featured-2023-08-13-23-56-00.png).
 
-## Short Description
+## Short Description:
 Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 
 ## Ideas:
@@ -39,8 +31,8 @@ Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 - Rarity blushes and asks if they can kiss again.
 - Pinkie nods and the story ends on them kissing.
 
-## Story
+## Story:
 [Best of Seventy-One](./best-of-seventy-one.md)
 
-## Cover
+## Cover:
 ![cover](./cover/cover-4-upscaled.png)
