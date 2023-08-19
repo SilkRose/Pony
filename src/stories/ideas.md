@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pony Proof Package
+
+### Synopsis:
+Somepony finds a package and nopony can open it, no matter what they try. What could be inside it?
+
+***
+
 ## Two Pies and a Pie
 
 ### Synopsis:
