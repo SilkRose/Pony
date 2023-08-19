@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pony Prancing Practices
+
+### Synopsis:
+Pinkie Pie teaches Twilight how to prance.
+
+***
+
 ## Pony Proof Package
 
 ### Synopsis:
