@@ -1,29 +1,21 @@
 # Shower Coffee
 
-Mane Characters: 
-
-Secondary Characters: 
-
-Locations: 
-
-Genres:
-
-## Synopsis
+## Synopsis:
 Twilight drinks coffee in the shower, everypony else is appalled. It has to be horrible! Right?
 
-## Description
+## Description:
 Twilight drinks coffee in the shower, everypony else is appalled. It has to be horrible! Right?
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
 
-## Short Description
+## Short Description:
 Twilight drinks coffee in the shower, everypony else is appalled. It has to be horrible! Right?
 
-## Ideas
+## Ideas:
 
 
-## Story
+## Story:
 [Shower Coffee](./shower-coffee.md)
 
-## Cover
+## Cover:
 ![cover](./cover/cover-upscaled.png)
