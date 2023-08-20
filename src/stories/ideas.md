@@ -4,6 +4,18 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Silly Salutations
+
+### Synopsis:
+In an attempt to make her greetings more unique, Pinkie decides to make a brand-new silly greeting for every pony she comes across, leading to confusion and silliness.
+
+### Snippet:
+"Hello, you fluffy delicious marshmallow wood table!"
+
+The pony: …wha-
+
+***
+
 ## Reading Relief
 
 ### Synopsis:
