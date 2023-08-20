@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pinkie Poof
+
+### Synopsis:
+Pinkie Pie discovers she can teleport.
+
+***
+
 ## Pinkie Problems
 
 ### Synopsis:
