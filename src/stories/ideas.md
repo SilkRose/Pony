@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Reading Relief
+
+### Synopsis:
+Twilight harbors a secret crush on Rainbow. When Rainbow drops by the library to read with noticeably atrocious posture, Twilight finally seizes the chance of teaching her proper posture to get closer, and maybe make a move?
+
+***
+
 ## Proper Pony Posture
 
 ### Synopsis:
