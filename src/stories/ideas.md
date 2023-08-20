@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Applejack Arithmetic
+
+### Synopsis:
+Applejack pretends to be bad at math, then smokes her friends in a math-off.
+
+***
+
 ## Princess Pampering
 
 ### Synopsis:
