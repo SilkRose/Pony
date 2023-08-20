@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pinkie Problems
+
+### Synopsis:
+Rainbow Dash has got a few problems, and they're all Pinkie Pie. (Has a crush on her, she keeps appearing in bedroom mysteriously. Etc)
+
+***
+
 ## Silly Siblings
 
 ### Synopsis:
