@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Silly Siblings
+
+### Synopsis:
+Pinkie is trying to teach her siblings how to be silly or how to have more fun while working on the rock farm.
+
+***
+
 ## Silly Salutations
 
 ### Synopsis:
