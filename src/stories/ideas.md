@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Proper Pony Posture
+
+### Synopsis:
+Rarity and Pinkie are having a double date, and Rarity sees Pinkie completely unfazed in the worst, painful looking posture ever, and she tries to teach Pinkie proper pony posture for said date.
+
+***
+
 ## Applejack Arithmetic
 
 ### Synopsis:
