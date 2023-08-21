@@ -10,6 +10,8 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for providing feedback when creating the cover.
 
+Featured: [08-20-2023](https://github.com/SilkRose/Pony/blob/mane/src/stories/pink-persuasion/featured-2023-08-20-23-13-27.png).
+
 ## Short Description:
 Rarity does her best to convince Rainbow Dash to give Pinkie a kiss on her birthday. Rainbow is having none of it.
 
