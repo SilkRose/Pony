@@ -30,7 +30,7 @@ My hoof starts to shake. "I can't think for myself anymore, all I latch onto is 
 
 I collapse onto Twilight, holding her. "I can't even finish a dress now, it takes me days to make any progress, constantly rethinking and nitpicking everything I do."
 
-Twilight slowly massages my back with a hoof. "You'll be alright Rarity, I'm here now. Why don't we go over it one at a time?"
+Twilight slowly massages my back with a hoof. "You'll be alright, Rarity, I'm here now. Why don't we go over it one at a time?"
 
 "Well," I sniff and wipe some of the tears from my face." Like I said, I feel like all I make dresses for now are just to get admiration and praise."
 
@@ -50,7 +50,19 @@ Twilight slowly massages my back with a hoof. "You'll be alright Rarity, I'm her
 
 "Thanks, Twilight, but that's not all. Every dress I make feels worse than the last one, like I'm not a fashion designer anymore. I feel like a failure, despite everypony telling me I'm not."
 
-"But like you said, you're not a failure, Rarity! You have so many open fashion lines, constantly bring in new customers, always making new, unique designs. If anything, you're the exact opposite of failure!"
+"But like you said, you're not a failure, Rarity! You have so many open fashion lines, constantly bring in new customers, always making new, unique designs. If anything, you're the complete opposite of failure!"
 
 I squeeze Twilight a little tighter. "But it doesn't change how I feel. I want each new dress to be better than the last, but right now, they aren't."
+
+Twilight stares deep into my eyes. "Rarity, whoever said you have to outdo your last dress every time? Every dress you design is remarkable, not because it's better than your last, but because it's special in its unique way! That uniqueness is what makes your way of dressmaking so… you!"
+
+I open my mouth, but her gaze silences my next words. I hesitate as I stare deeply back, her words lingering in my mind, before looking away.
+
+"Well… nopony did, I- I guess I just expected too much from myself."
+
+Twilight lays a reassuring hoof on my shoulder. "Your dresses are special because you make them special. Almost every time you design, you're trying something new! Have you forgotten, you never cared about being the most successful or the richest of the dress designers? You care about making each dress speak from your heart, giving them their own identity, their own life, and letting another pony feel that through your dress. You shouldn't put pressure on making a dress better than the last because you never meant for them to even be compared to each other!"
+
+I look at her with tears in my eyes. "You… really mean that?"
+
+Twilight holds my gaze. "I really do."
 
