@@ -26,9 +26,9 @@ I try my best to steady my breath. "I feel like I don't design for myself anymor
 
 The tears start to flow down my face. "I feel like it's never enough anymore, I'm constantly trying to outdo my last design, and I always come out wanting."
 
-My hoof starts to shake. "I can't think for myself anymore, all I latch onto is other ponies thoughts and opinions on my designs."
+My hoof starts to shake. "I can't even finish a dress now, it takes me days to make any progress, constantly rethinking and nitpicking everything I do."
 
-I collapse onto Twilight, holding her. "I can't even finish a dress now, it takes me days to make any progress, constantly rethinking and nitpicking everything I do."
+I collapse onto Twilight, holding her. "I can't think for myself anymore, all I latch onto is other ponies thoughts and opinions on my designs."
 
 Twilight slowly massages my back with a hoof. "You'll be alright, Rarity, I'm here now. Why don't we go over it one at a time?"
 
@@ -65,4 +65,10 @@ Twilight lays a reassuring hoof on my shoulder. "Your dresses are special becaus
 I look at her with tears in my eyes. "You… really mean that?"
 
 Twilight holds my gaze. "I really do."
+
+A sob escapes me as I wipe me my eyes. "I- thank you, Twilight. That… really means a lot to me. But how can I just… simply not worry about surpassing my own designs with every new one? Every time I try to design a dress now, I can't help but look for what I might have missed in the last dress!"
+
+I look away again and trail my eyes along the thousands of tiny, almost imperceptible details throughout the library. "Any unnoticed design flaws, any minuscule color mismatches, any fabric choices that could've been better. I spend so much time now nitpicking my own work, constantly trying to enhance or improve what I already have, it takes me days to make any progress!"
+
+Twilight laughs softly. "I think I know what you mean, Rarity. I felt the same way back in magic school, always striving to make my spells faster and stronger and more efficient. Like I told you before though, eventually I learned to appreciate the beauty of learning and crafting instead of just making a better end product."
 
