@@ -76,7 +76,7 @@ I feel a few tears slowly falling down my face.
 
 I try to keep my hooves steady as they shake.
 
-I choke back a sob as I hold you tighter.
+I choke back a sob as I hold him tighter.
 
 He holds me tighter in response, asking, "Silky, are you alright?"
 
@@ -188,7 +188,7 @@ I lay my head on his chest and cry, unable to function.
 
 *What is wrong with me?*
 
-He squeezes me and asks, "What's going on, talk to me, please?"
+He squeezes me, asking, "What's going on, talk to me, please?"
 
 I cry for a solid minute before being able to compose myself.
 
@@ -237,3 +237,7 @@ He says, "I could never leave you, you're too cute and pretty, what else would I
 I blush.
 
 He leans down and plants a small kiss on my cheek.
+
+I blush harder, and he kisses me on the lips.
+
+*I love him.*
