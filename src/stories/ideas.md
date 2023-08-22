@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Crème de la Cuddle
+
+### Synopsis:
+Rarity goes to buy cuddles like a shady drug deal, and then she goes inside, it's actually Pinkie Pie who is the dealer of cuddles, and cuddles her.
+
+***
+
 ## Heartbeat Hotel
 
 ### Synopsis:
