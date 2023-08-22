@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Cute Cuddles
+
+### Synopsis:
+Rarity is feeling down, so Pinkie decides to cheer her up with cute cuddles.
+
+***
+
 ## Pinkie Poof
 
 ### Synopsis:
