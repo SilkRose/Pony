@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Snuggle Snafu
+
+### Synopsis:
+From Monday to Friday, Pinkie snuggles a different member of the mane 6, but none of them know she's been snuggling the others until one day when all of them learn it together, leading to chaos(?)
+
+***
+
 ## Unicute
 
 ### Synopsis:
