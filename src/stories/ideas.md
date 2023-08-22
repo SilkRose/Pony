@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Unicute
+
+### Synopsis:
+Rainbow accidentally says "unicute" instead of "cute unicorn", leading to Rarity calling her "pegasilly" and the two going on a chain of cute puns.
+
+***
+
 ## Cute Cuddles
 
 ### Synopsis:
