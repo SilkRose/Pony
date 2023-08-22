@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Heartbeat Hotel
+
+### Synopsis:
+Pinkie listens to her marefriend's heartbeat as it calms her. In her mind, she compares it to a hotel where the heartbeat is like her room, which is where her head rests on her chest, and the payment is cuddles.
+
+***
+
 ## Snuggle Snafu
 
 ### Synopsis:
