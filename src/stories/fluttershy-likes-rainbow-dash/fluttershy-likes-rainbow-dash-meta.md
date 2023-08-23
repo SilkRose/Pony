@@ -15,4 +15,4 @@ Fluttershy has a crush on Rainbow Dash. She decides to ask her out.
 [Fluttershy Likes Rainbow Dash](fluttershy-likes-rainbow-dash.md)
 
 ## Cover:
-![cover](./cover-upscaled.png)
+![cover](./cover-2-upscaled.png)
