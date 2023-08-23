@@ -35,4 +35,4 @@ Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 [Best of Seventy-One](./best-of-seventy-one.md)
 
 ## Cover:
-![cover](./cover/cover-4-upscaled.png)
+![cover](./cover/cover-5-upscaled.png)
