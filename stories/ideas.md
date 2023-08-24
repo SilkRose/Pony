@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Spoopy Boopy
+
+### Synopsis:
+A pony is visiting an old (haunted) mansion, and an invisible ghost of the old pony resident keeps booping them.
+
+***
+
 ## Crème de la Cuddle
 
 ### Synopsis:
