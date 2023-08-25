@@ -1,4 +1,4 @@
-# The Best Sister Never
+# Best Sister Never
 
 ## Day 1
 

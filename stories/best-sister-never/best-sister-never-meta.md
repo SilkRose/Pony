@@ -1,4 +1,4 @@
-# The Best Sister Never
+# Best Sister Never
 
 ## Synopsis:
 Scootaloo's diary entries, showing her descent into loneliness and rejection. Pulls out to reveal Rainbow, who is on the verge of a mental breakdown.
@@ -17,7 +17,7 @@ Rainbow Dash should have never read Scootaloo's diary.
 
 
 ## Story:
-[The Best Sister Never](./the-best-sister-never.md)
+[Best Sister Never](best-sister-never.md)
 
 ## Cover:
 ![cover](./cover/cover-3.png)
