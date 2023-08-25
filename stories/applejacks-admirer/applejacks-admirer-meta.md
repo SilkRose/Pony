@@ -25,4 +25,4 @@ Title text at top and bottom, Applejack and Rarity in the center with the 4 othe
 [Applejack's Admirer](./applejacks-admirer.md)
 
 ## Cover:
-![cover](./cover/cover-upscaled.png)
+![cover](./applejacks-admirer-cover-upscaled.png)
