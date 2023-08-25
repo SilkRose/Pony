@@ -1,0 +1,26 @@
+name: Static API
+
+on:
+  push:
+    branches:
+      - mane
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Build
+        run: cd "./shell-scripts" && sh "./static-api.sh"
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: shell-scripts/dist
