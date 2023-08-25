@@ -6,12 +6,12 @@ fi
 
 mkdir "./dist"
 
-covers=$(sh "./cover-count.sh")
-flash_fictions=$(sh "./flash-fiction-count.sh")
-ideas=$(sh "./idea-count.sh")
-names=$(sh "./name-count.sh")
-stories=$(sh "./story-count.sh")
-words=$(sh "./word-count.sh")
+covers=$(sh "./cover-count.sh" | xargs printf "%'d")
+flash_fictions=$(sh "./flash-fiction-count.sh" | xargs printf "%'d")
+ideas=$(sh "./idea-count.sh" | xargs printf "%'d")
+names=$(sh "./name-count.sh" | xargs printf "%'d")
+stories=$(sh "./story-count.sh" | xargs printf "%'d")
+words=$(sh "./word-count.sh" | xargs printf "%'d")
 
 json=$(cat "api-template.json")
 
