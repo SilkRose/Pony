@@ -20,4 +20,4 @@ Rainbow Dash should have never read Scootaloo's diary.
 [Best Sister Never](best-sister-never.md)
 
 ## Cover:
-![cover](./cover/cover-3.png)
+![cover](./best-sister-never-cover.png)
