@@ -50,4 +50,4 @@ Rainbow and Pinkie get into a contest over who can hold a hug the longest. Who w
  - Pinkie simply says a kiss.
 
 ## Cover:
-![cover](./a-hug-and-a-kiss-cover-1.png)
+![cover](./a-hug-and-a-kiss-cover.png)
