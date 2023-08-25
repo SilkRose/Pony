@@ -381,3 +381,99 @@ Rainbow taught Twilight to cloud nap.
 Scootaloo never forgot Rainbow's impact sound.
 
 Rainbow never forgot Scootaloo's hopeful smile.
+
+A finger for each other Element. 
+
+"Their vessel was called EUSS 'Friendship'!"
+
+The dragons were circling above. Vultures.
+
+"She's distracted…" They lifted the Crown.
+
+My friends are always with me.
+
+"Every color!" Pinkie giggled, smearing brush.
+
+Her heart spoke in forgotten languages.
+
+The painting winked, hoof against lips.
+
+The fire lit. The darkness remained.
+
+"Rainbow Factory? Pie Factory is worse."
+
+Ponies riding ponies? Oh, the equinity!
+
+"Sleep paralysis demon? You mean Chuck?"
+
+They stopped to wave at foals.
+
+A harmonious hum rang between them.
+
+Words 'pony' and 'miracle' are synonymous.
+
+"Luna, your Nightmare Moon is showing."
+
+"My friends, see how they glisten…"
+
+In reflection, Fluttershy saw an animal.
+
+"Luna, bring me the pesticide, quickly."
+
+She was born from a tear.
+
+We outlawed eating grass in 507.
+
+"For greater good," said Harmony's Apostles.
+
+You know, trees must be tended.
+
+Discord molded them into a bouquet.
+
+Stars were painted on a ceiling.
+
+In her vault lied Forbidden Sugarcube.
+
+"Hooves off my daughter!" Velvet demanded.
+
+She scratched horn. It fell off.
+
+"Opaline, don't play with my ponies!"
+
+The Cutie Map began showing side-quests.
+
+"Tomorrow, we're playing hoofball with Spike."
+
+There's no cemetery, only huge forest.
+
+Harmony ended when they invented internet.
+
+Equestria. Where every day is Sunday.
+
+"Canterlot!" "It's only a model." "Shhh!"
+
+Fake hoof concealed a tiny hand.
+
+Her name terrified all: FLURRY HEART.
+
+Balloons flew upwards from her flank.
+
+Sunset froze. Celestia broke the mirror.
+
+Suddenly, the Moon began to descend.
+
+The ancient artifact, Amulet of Silly.
+
+He used their horns as toothpicks.
+
+Fluttershy was the most dangerous here.
+
+Ponies happily played rock-paper-scissors.
+
+"Luna, you're obviously adopted." "No, you."
+
+"Riveting," Discord rolled his eyes around.
+
+"Let's not be horsing around, seriously."
+
+Over time, Shining Armor became Dirty.
