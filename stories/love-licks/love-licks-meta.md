@@ -54,4 +54,4 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
 [Love Licks](./love-licks.md)
 
 ## Cover:
-![cover](./cover.png)
+![cover](./love-licks-cover.png)
