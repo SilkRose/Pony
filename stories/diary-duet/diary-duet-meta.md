@@ -47,4 +47,4 @@ Fluttershy and Rarity think about each other in ways they only tell their diarie
  - Rarity says yes.
 
 ## Cover:
-![Cover](./cover/cover-6-full.png)
+![Cover](./diary-duet-cover/diary-duet-cover-6-full.png)
