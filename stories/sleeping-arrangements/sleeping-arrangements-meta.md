@@ -29,4 +29,4 @@ The Mane 6 end up sharing beds while staying in Hope Hollow.
  - Applejack and Rarity keep waking up cuddling by accident.
 
 ## Cover:
-![Cover](./cover/cover.png)
+![cover](./sleeping-arrangements-cover-upscaled.png)
