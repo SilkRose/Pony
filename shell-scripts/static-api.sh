@@ -1,17 +1,17 @@
 #!/usr/bin/env sh
 
 if [ -d "./dist" ]; then
-    rm -rf ./dist
+    rm -rf "./dist"
 fi
 
 mkdir "./dist"
 
-covers=$(sh "./cover-count.sh" | xargs printf "%'d")
-flash_fictions=$(sh "./flash-fiction-count.sh" | xargs printf "%'d")
-ideas=$(sh "./idea-count.sh" | xargs printf "%'d")
-names=$(sh "./name-count.sh" | xargs printf "%'d")
-stories=$(sh "./story-count.sh" | xargs printf "%'d")
-words=$(sh "./word-count.sh" | xargs printf "%'d")
+covers=$(sh "./cover-count.sh" | numfmt --grouping)
+flash_fictions=$(sh "./flash-fiction-count.sh" | numfmt --grouping)
+ideas=$(sh "./idea-count.sh" | numfmt --grouping)
+names=$(sh "./name-count.sh" | numfmt --grouping)
+stories=$(sh "./story-count.sh" | numfmt --grouping)
+words=$(sh "./word-count.sh" | numfmt --grouping)
 
 json=$(cat "api-template.json")
 
