@@ -18,4 +18,4 @@ Twilight drinks coffee in the shower, everypony else is appalled. It has to be h
 [Shower Coffee](./shower-coffee.md)
 
 ## Cover:
-![cover](./cover/cover-upscaled.png)
+![cover](./shower-coffee-cover-upscaled.png)
