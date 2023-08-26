@@ -29,4 +29,4 @@ In the beginning, there was hope. In the middle there was doubt. In the end, the
 [Timeless Tears](./timeless-tears.md)
 
 ## Cover:
-![cover](./cover.png)
+![cover](./timeless-tears-cover.png)
