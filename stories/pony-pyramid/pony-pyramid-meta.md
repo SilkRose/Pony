@@ -16,4 +16,4 @@ The mane 6 practices making a pyramid for their songs but winds up arguing over 
 [Pony Pyramid](./pony-pyramid.md)
 
 ## Cover:
-![cover](./cover/cover-upscaled.png)
+![cover](./pony-pyramid-cover-upscaled.png)
