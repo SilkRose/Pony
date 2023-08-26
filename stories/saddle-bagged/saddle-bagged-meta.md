@@ -70,4 +70,4 @@ Chapter 8: ????:
  - 
 
 ## Cover:
-![Cover](cover2sb.png)
+![cover](./saddle-bagged-cover.png)
