@@ -17,4 +17,4 @@ Fluttershy can't deal with the panic attacks anymore. Feeling unsafe in her home
 [Peace Attempts and Panic Attacks](./peace-attempts-and-panic-attacks.md)
 
 ## Cover:
-![cover](./cover/cover-upscaled.png)
+![cover](./peace-attempts-and-panic-attacks-cover-upscaled.png)
