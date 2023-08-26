@@ -93,4 +93,4 @@ White flowing dress, with a purple stitch going all the way around the skirt abo
  - They hug while smiling.
 
 ## Cover:
-![Cover](cover.png)
+![cover](./darling-and-date-cover-2.png)
