@@ -44,4 +44,4 @@ Friendship truly is magic.
 [Chapter 1: Spark](01-spark.md):
 
 ## Cover:
-![Cover](cover-04.png)
+![cover](./tethers-cover-04.png)
