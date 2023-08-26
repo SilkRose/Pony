@@ -34,4 +34,4 @@ Pinkie tries to steal Twilight's heart, Twilight has other plans.
  - They cuddle and fall asleep together.
 
 ## Cover:
-![Cover](./cover.png)
+![cover](./the-heist-of-my-heart-cover.png)
