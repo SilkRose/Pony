@@ -30,4 +30,4 @@ Rarity decides to give Pinkie a gift to show her how much she means to her.
 [A Gift From The Heart](./a-gift-from-the-heart.md)
 
 ## Cover:
-![cover](./cover.png)
+![cover](./pretty-and-pink-cover-2.png)
