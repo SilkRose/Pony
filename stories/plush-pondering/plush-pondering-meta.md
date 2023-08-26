@@ -16,4 +16,4 @@ A Pinkie Pie plush ponders existence, what it means to be a plush, where it's be
 [Plush Pondering](./plush-pondering.md)
 
 ## Cover:
-![cover](./cover.jpg)
+![cover](./plush-pondering-cover.jpg)
