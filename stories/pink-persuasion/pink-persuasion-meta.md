@@ -21,4 +21,4 @@ The text 'Pink' at the top with a pink gradient in the letters. The middle is Ra
 [Pink Persuasion](./pink-persuasion.md)
 
 ## Cover:
-![cover](./cover/cover-2-upscaled.png)
+![cover](./pink-persuasion-cover-upscaled.png)
