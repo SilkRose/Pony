@@ -6,12 +6,12 @@ fi
 
 mkdir "./dist"
 
-covers=$(sh "./cover-count.sh" | numfmt --grouping)
-flash_fictions=$(sh "./flash-fiction-count.sh" | numfmt --grouping)
-ideas=$(sh "./idea-count.sh" | numfmt --grouping)
-names=$(sh "./name-count.sh" | numfmt --grouping)
-stories=$(sh "./story-count.sh" | numfmt --grouping)
-words=$(sh "./word-count.sh" | numfmt --grouping)
+covers=$(sh "./cover-count.sh" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')
+flash_fictions=$(sh "./flash-fiction-count.sh" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')
+ideas=$(sh "./idea-count.sh" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')
+names=$(sh "./name-count.sh" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')
+stories=$(sh "./story-count.sh" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')
+words=$(sh "./word-count.sh" | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta')
 
 json=$(cat "api-template.json")
 
