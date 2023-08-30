@@ -74,7 +74,31 @@ Pinkie opens the book and begins reading.
 
 ***
 
+Pinkie digs in the sand before her, using her purple plastic shovel.
 
+She finds a book.
+
+"Don't open it!"
+
+Pinkie opens the book, finding a map.
+
+"Stop making me do this, over and over."
+
+Pinkie follows the map, unquestionably and without concern.
+
+"I have so many questions and many concerns, actually."
+
+Pinkie effortlessly navigates the map, not stopping or getting distracted along the way.
+
+"Let me out of this loop!"
+
+Pinkie finds the *X* and begins to dig. She finds a book.
+
+"Don't read it!"
+
+Pinkie begins to read it.
+
+"Wait, I have only eleven words to say! Please, just stop–"
 
 ***
 
