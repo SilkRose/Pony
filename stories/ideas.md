@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Silly Service
+
+### Synopsis:
+Pinkie opens a silly stand where for one bit she will give you a silly idea. She soon realizes ponies like her stand a lot and worries about running out of ideas.
+
+***
+
 ## Front Page Blues
 
 ### Synopsis:
