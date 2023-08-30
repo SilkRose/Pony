@@ -8,67 +8,65 @@
 
 ***
 
-Pinkie digs in the sand before her, using her blue plastic shovel, searching for buried treasure.
+Pinkie digs in the sand before her, using her orange plastic shovel, searching for buried treasure.
 
-After she moves a few shovels of sand, she sees something.
+After she moves a few shovels of sand, she sees something, experiences déjà vu.
 
-"What's this," Pinkie asks excitedly as she clears away more sand around the newly found item.
+"What's this, and why does it feel so familiar?" Pinkie asks as she clears away more sand around the newly found item.
 
 She clears more of the sand, revealing a small brown tome with a red *X* on the cover.
 
 She picks up the book and sets it in her hooves. "This looks old."
 
-She opens it up, revealing a map. "A map," she says excitedly.
+Pinkie flips through more pages, each one the same map as the last.
+
+"What's going on here?" she asks.
 
 Pinkie stands up and orients herself with the map.
 
-She bounces with the book, following the map with a smile plastered on her face.
+She trots with the book, following the map with an uneasy feeling.
 
 She slows down as she gets to the more intricate parts of the map, passing over another pony's sand castle in the process.
 
-She gets to a part where the path splits. "I can go either way?"
+She gets to a part where the path splits. "This feels familiar?"
 
-Pinkie bounces her way thought the left path, climbing over some sleeping ponies in her way.
+Pinkie trots her way thought the left path, climbing over some sleeping ponies in her way.
 
-She gets to the spot. "X marks the spot, let's see what the treasure is," Pinkie says excitedly as she furiously begins to dig.
+She gets to the spot. "X marks the spot, let's see what the treasure is," Pinkie says flatly as she begins to dig.
 
 She digs it all up, pulling out…
 
-"Another book?"
+"Another book, I've seen this book before…"
 
 Pinkie opens the book and begins reading.
 
 ***
 
-Pinkie digs in the sand using her red plastic shovel.
+Pinkie digs in the sand using her blue plastic shovel.
 
-She hits something in the sand as she experiences déjà vu.
+She digs fast, uncovering what she already knows is there.
 
-"What's this," Pinkie asks as she uncovers the forgotten tome.
+"Found it," Pinkie says as she uncovers the forgotten tome.
 
-She clears more of the sand, revealing a small black tome with a red *X* on the cover.
+She clears more of the sand, revealing the book she already knew about.
 
-She picks up the book. "This looks old."
+She picks up the book. "Why?"
 
-She opens it up, revealing…
+"There is a map in here, on every page," Pinkie says before flipping through the book, revealing what she said to be true.
 
-"A map," she says quizzically.
-
-Pinkie flips through more pages, each one the same map as the last.
-
-"What's going on here?" she asks before following the map.
+"Why is it repeating?" she asks before following the map.
 
 She seamlessly passes over all obstacles like she's been here before.
 
-She gets to a part where the path splits. "This feels familiar?"
+She gets to a part where the path splits. "Let's go right."
 
-Pinkie takes the same path she swore she's taken before.
+Pinkie takes the left path.
 
 She gets to the spot. "X marks the spot," Pinkie says as she begins to dig.
 
-She digs it all up, pulling out…
+She digs it all up, pulling out the same book…
 
-"I've seen this book before…"
+"I've read this book before…"
 
 Pinkie opens the book and begins reading.
 
