@@ -10,6 +10,8 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
 
+Cover done by irradiatedtittymilk on Discord.
+
 ## Short Description:
 Pinkie sets out on a quest to determine which of her friends makes the softest pillow.
 
@@ -22,3 +24,4 @@ Pinkie sets out on a quest to determine which of her friends makes the softest p
 [Pony Pillows](./pony-pillows.md)
 
 ## Cover:
+![cover](./pony-pillows-cover.png)
