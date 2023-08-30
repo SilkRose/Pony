@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Front Page Blues
+
+### Synopsis:
+Rarity (as a filly) having her new dress designs make it to a fashion magazine for the first time and is ecstatic, but reaches disappointment when she fails to consistently make it in there.
+
+***
+
 ## Spoopy Boopy
 
 ### Synopsis:
