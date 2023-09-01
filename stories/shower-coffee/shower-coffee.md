@@ -10,13 +10,13 @@ Everypony turns to Twilight with quizzical expressions on their faces.
 
 Twilight says, "Yes, shower coffee, you've all had shower coffee, right?"
 
-All five other ponies shook their head.
+All five other ponies shake their head.
 
-Rarity asked, "What is shower coffee?"
+Rarity asks, "What is shower coffee?"
 
 Twilight answers, "It's coffee you drink in the shower."
 
-Everypony seemed to have a problem with this.
+Everypony seems to have a problem with this.
 
 Applejack says, "That doesn't seem very practical."
 
@@ -52,7 +52,7 @@ Fluttershy asks, "How much better does it taste?"
 
 Rainbow asks, "Should I try it?"
 
-Twilight once again addressed each pony.
+Twilight once again addresses each pony.
 
 Rarity. "It just does, I don't know exactly why. I think it's probably from the temperature of the shower water."
 
@@ -72,7 +72,7 @@ Pinkie asks, "How did you learn about shower coffee?"
 
 Twilight answers, "I like my showers warm, but not too hot. And I saw Spike leaving the bathroom with a cup of coffee, I asked him about it, and he told me about shower coffee."
 
-All five other ponies seemed satisfied.
+All five other ponies seem satisfied.
 
 Twilight says, "Now, let's get to why we are actually here."
 
@@ -80,11 +80,11 @@ Twilight says, "Now, let's get to why we are actually here."
 
 Rarity set her steaming cup of coffee on the towel rack outside her shower.
 
-She started the water and got in.
+She starts the water and got in.
 
 *This is silly, she has to be joking, right?*
 
-She took a sip after washing her mane.
+She takes a sip after washing her mane.
 
 *It's not that good.*
 
