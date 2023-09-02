@@ -6,6 +6,8 @@ Pinkie sleeps over at Twilight's, and they have a play date where everything is 
 ## Description:
 
 
+Cover done by irradiatedtittymilk on Discord.
+
 ## Short Description:
 
 
