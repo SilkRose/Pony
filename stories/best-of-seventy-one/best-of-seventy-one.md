@@ -212,7 +212,7 @@ Pinkie wins again as I reevaluate my life, thoughts slowing to one per lose.
 
 *I mean, it's not, but I'll take what I can get.*
 
-I do like the idea of being close to her…
+*I do like the idea of being close to her…*
 
 *Holding her.*
 
