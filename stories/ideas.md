@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Cover Me Up
+
+### Synopsis:
+Pinkie just wants Rarity to tuck her in; Rarity has other plans.
+
+***
+
 ## Desires of a Dead Dash
 
 ### Synopsis:
