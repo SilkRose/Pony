@@ -154,7 +154,7 @@ Fluttershy wakes up, lifting her head to see what's going on. "Pinkie…" she sa
 
 Pinkie thinks for a moment before she asks, "Can it sing me a lullaby?"
 
-Fluttershy begins softly singing a lullaby to Pinkie as Pinkie cuddles up with her newest pillow.
+Fluttershy begins softly singing a lullaby to Pinkie, who cuddles up with her newest pillow.
 
 *I like this pillow, so far, it's my favorite.*
 
@@ -176,7 +176,7 @@ Pinkie lays her head down on the bed where Twilight should be, but nopony is the
 
 "What? Where's Twilight?"
 
-Twilight appears from behind the bed and lays down on the bed, using Pinkie's shoulder as a pillow. "I needed a new pillow, yep."
+Twilight appears from behind the bed and lays down on the bed, using Pinkie's shoulder as a pillow. "I needed a new pillow."
 
 "Hey, that's my line!"
 
