@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Desires of a Dead Dash
+
+### Synopsis:
+Following Rainbow's passing, her friends read through what her final, unfinished desires were to do with each of them.
+
+***
+
 ## Silly Service
 
 ### Synopsis:
