@@ -10,6 +10,8 @@ Takes place during the episode Dragonshy.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) and [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
 
+Now with a [reading](https://www.youtube.com/watch?v=O7hpeDvzCaM) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw).
+
 ## Short Description:
 Rarity plays tic-tac-toe with Pinkie, but she can't keep her eyes on the game.
 
