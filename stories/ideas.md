@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Perpetually Pink
+
+### Synopsis:
+Pinkie becomes depressed and decides to dye her coat, but not matter what, it just becomes pink again.
+
+***
+
 ## You and I
 
 ### Synopsis:
