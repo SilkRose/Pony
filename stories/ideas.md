@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## You and I
+
+### Synopsis:
+You and Pinkie have a heart-to-heart mid-cuddle.
+
+***
+
 ## Cover Me Up
 
 ### Synopsis:
