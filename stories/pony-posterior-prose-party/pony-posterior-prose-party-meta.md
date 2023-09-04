@@ -42,7 +42,7 @@ Todo: make the story from spike's throne's perspective.
 10. end
 
 ## Story:
-[Chapter 01](./01.md)
+[Pony Posterior Prose Party](pony-posterior-prose-party.md)
 
 ## Cover:
-![Cover](testcover2.png)
+![cover](pony-posterior-prose-party-cover.png)
