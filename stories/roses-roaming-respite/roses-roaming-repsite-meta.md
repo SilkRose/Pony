@@ -13,6 +13,6 @@ Synopsis: A Pegasus stallion (Flywheel Weld) who is missing a wing wants to help
 
 
 ## Chapters:
-[01](./01.md)
+[01: Rose's Remedy](01-roses-remedy.md)
 
 ## Cover:
