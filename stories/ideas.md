@@ -4,6 +4,17 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## An Honest Prank
+
+### Synopsis:
+Rainbow tries to teach AJ how to prank, who struggles due to being unable to lie properly. Before getting in a fight together over the concept of honesty in pranks, until eventually, they reach some sort of understanding and AJ finally does it successfully once.
+
+### Ideas:
+- The story is from Rainbow's POV.
+- The prank is a kiss, (non-romantic) and flusters Dash heavily.
+
+***
+
 ## Sneaky Snuggles
 
 ### Synopsis:
