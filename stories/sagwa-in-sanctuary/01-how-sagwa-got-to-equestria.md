@@ -1,4 +1,4 @@
-# Chapter 1: How Sagwa Got To Equestria
+# How Sagwa Got To Equestria
 
 Sagwa rode on top of Fluttershy's head, while her two siblings, Sheegwa, and Dongwa, rode on Fluttershy's back. She was taking them to a friend who might be able to help them get back home.
 

@@ -38,6 +38,6 @@ MLP x Sagwa crossover fic. Fluttershy takes 3 cats into her sanctuary, Sagwa, Sh
 * Things don't always go as planned
 
 ## Chapters:
-[01: How Sagwa Got to Equestria](./01.md)
+[01: How Sagwa Got to Equestria](01-how-sagwa-got-to-equestria.md)
 
 ## Cover:
