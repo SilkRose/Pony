@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Sneaky Snuggles
+
+### Synopsis:
+Somepony has been snuggling ponies in their sleep, and they must be found.
+
+***
+
 ## Cuddle Count
 
 ### Synopsis:
