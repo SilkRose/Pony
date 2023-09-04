@@ -1,10 +1,82 @@
 # X Marks the Plot
 
+Pinkie digs in the sand before her, using her yellow plastic shovel, searching for buried treasure.
 
+After she moves a few shovels of sand, she sees something.
+
+"What's this?" Pinkie asks as she clears away more sand around the newly found item.
+
+She clears more of the sand, revealing a small black tome with a red *X* on the cover.
+
+She picks up the book and sets it in her hooves. "This looks old."
+
+Pinkie opens the book, finding a map.
+
+"Where's this lead?" she asks.
+
+Pinkie stands up and orients herself with the map.
+
+She trots with the book, following the map with a smile.
+
+Pinkie navigates the path, waving at the nearby ponies as she does so.
+
+She slows down as she gets to the more intricate parts of the map, passing over another pony's sand castle in the process. "Excuse me," she says.
+
+She trots past some mimes performing a silent show in the sand, dancing silently in their sectioned off squares.
+
+She gets to a part where the path splits. "Which path to take?"
+
+Pinkie trots her way thought the right path, taking a break to play volley ball before continuing down the path.
+
+She compliments two earth ponies and a pegasus for their beautiful art in the sand, a drawing of Luna on the moon. "Nice art."
+
+Pinkie rounds the last corner, almost tripping over an orange bucket in the sand. "Whoops."
+
+She gets to the spot. "X marks the spot, let's see what the treasure is," Pinkie says excitedly as she begins to dig.
+
+She digs it all up, pulling out…
+
+"A book, I wonder what's in it?"
+
+Pinkie opens the book and begins reading.
 
 ***
 
+Pinkie digs in the sand before her, using her white plastic shovel, searching for buried treasure.
 
+After she moves a few shovels of sand, she sees something.
+
+"What's this?" Pinkie asks as she clears away more sand around the newly found item.
+
+She clears more of the sand, revealing a small pink tome with a red *X* on the cover.
+
+She picks up the book and sets it in her hooves. "This looks old."
+
+Pinkie opens the book, finding a map.
+
+"Where's this lead?" she asks.
+
+Pinkie stands up and orients herself with the map.
+
+She trots with the book, following the map with a smile.
+
+She slows down as she gets to the more intricate parts of the map, passing over another pony's sand castle in the process. "Excuse me," she says.
+
+She gets to a part where the path splits. "Which path to take?"
+
+Pinkie trots her way thought the left path, climbing over some sleeping ponies in her way.
+
+She compliments three earth ponies for their beautiful art in the sand, a drawing of Celestia. "Nice art."
+
+Pinkie rounds the last corner, almost tripping over a blue bucket in the sand. "Whoops."
+
+She gets to the spot. "X marks the spot, let's see what the treasure is," Pinkie says excitedly as she begins to dig.
+
+She digs it all up, pulling out…
+
+"A book, I wonder what's in it?"
+
+Pinkie opens the book and begins reading.
 
 ***
 
