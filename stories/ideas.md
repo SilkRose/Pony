@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Cuddle Count
+
+### Synopsis:
+Ponies treat cuddle count like body count and during a speed dating exercise, various ponies reveal their cuddle count and talk about different ponies they've cuddled.
+
+***
+
 ## Perpetually Pink
 
 ### Synopsis:
