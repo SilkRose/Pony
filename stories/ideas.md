@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Date in Five
+
+### Synopsis:
+Twilight has a date in 5 minutes, and the whole story is them mentality preparing.
+
+### Short Description:
+Twilight has a date in five minutes, all she has to do is stay calm.
+
+***
+
 ## An Honest Prank
 
 ### Synopsis:
