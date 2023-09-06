@@ -10,7 +10,11 @@ A very short 100-word story where Pinkie digs up the story you are reading, and 
 
 
 ## Ideas:
-
+- 1: the original story – bright and sunny
+- 2: details change – sunny with a bit of overcast
+- 3: things feel familiar – mostly overcast with light drizzle
+- 4: rushing to find the treasure – gloomy and raining
+- 5: desperately fights the narrator and begs you to stop reading – in the midst of a storm
 
 ## Story:
 [X Marks the Plot](./x-marks-the-plot.md)
