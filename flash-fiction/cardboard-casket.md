@@ -1,4 +1,4 @@
-# Destaled
+# Cardboard Casket
 
 I reside in the box, drawing stale air with a raspy, shallow breath. The box's cardboard bottom providing only a modicum of comfort for my sore side. The blackness surrounds me as my regrets tick through my mind with each beat of my heart.
 
