@@ -1,6 +1,6 @@
 # X Marks the Plot
 
-The sun shines brightly down on all the happy ponies playing at the beach, a cool breeze accentuating the waves as they crash into the beach. A lone pony, Pinkie Pie, sits at the far side of the beach, toiling to herself in the sand.
+The sun shines brightly down on all the happy ponies playing at the beach, a cool breeze accentuating the waves as they crash in. A lone pony, Pinkie Pie, sits at the far side, toiling to herself in the sand.
 
 Pinkie plunges her yellow plastic shovel into the sand as the tide tickles her left flank with an elongated wave. She giggles as she scoops shovel after shovel of sand. *I hope I find lots of treasure,* she thinks.
 
