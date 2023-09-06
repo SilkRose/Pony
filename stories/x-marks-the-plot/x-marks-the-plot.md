@@ -10,5 +10,9 @@ Pinkie shovels more sand as she quietly hums to herself, a big smile plastering 
 
 Pinkie opens the book to the first page. Finding a map, she gets excited. "A treasure map!" Pinkie squeals in delight as her mind races. *What does it lead to? Bits, gems, candy? Or maybe cotton candy?*
 
-Pinkie's eyes light up at the thought of discovering a candy-based treasure. "I must find it," Pinkie mutters, determined. She stands and orients herself with the map in the book before setting out on her grand adventure for the treasure to be found.
+Pinkie's eyes light up at the thought of discovering a candy-based treasure. "I must find it," Pinkie mutters, determined. She stands up and orients herself with the map in the book before setting out on her grand adventure for the treasure to be found.
+
+She starts following the map closely, executing each turn with precision and determination. Pinkie sticks to the dotted line on the map, eyes darting back and forth between the map and her surroundings.
+
+As she walks by two pegasi and an earth pony drawing in the sand, she compliments their work, a grand drawing of Celestia raising the sun. "Nice job, looks great!" Pinkie exclaims.
 
