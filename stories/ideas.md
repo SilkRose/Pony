@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Water Prancing
+
+### Synopsis:
+Pinkie realizes clouds are essentially condensed water particles, so if pegasi can walk on them, surely they can walk on water too. She proceeds to shove numerous pegasi and alicorns into bodies of water without explanation, certain that they could walk on it if they believe hard enough. Eventually, they begin to succeed by running across smaller bodies rapidly.
+
+***
+
 ## Lying Pies
 
 ### Synopsis:
