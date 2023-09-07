@@ -22,3 +22,9 @@ Pinkie gets into position and serves the ball on her side. She plays with determ
 
 Pinkie celebrates joyously with her team before congratulating the other team on a game well played. She trots off the court and continues her quest, back on track.
 
+She continues her march forward, determined not to get distracted again. *I've got to find that treasure,* she thinks, before looking over at the Cutie Mark Crusaders. The trio notice her and come running up to her, stopping their sand related fun.
+
+"Hi, Pinkie Pie, what are you doing?" Sweetie Belle asks.
+
+"I'm looking for buried treasure!" Pinkie exclaims excitedly.
+
