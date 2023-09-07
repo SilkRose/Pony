@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Lying Pies
+
+### Synopsis:
+Pinkie's sisters (when they are all fillies) dodge her all day, and one even travels out without a word, and no one is telling her. Then at the end of the day, she heads to bed and is surprised by her sisters, who gift her a party cannon. (and that'll be how she got it)
+
+***
+
 ## Date in Five
 
 ### Synopsis:
