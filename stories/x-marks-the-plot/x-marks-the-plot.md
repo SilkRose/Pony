@@ -16,3 +16,9 @@ She starts following the map closely, executing each turn with precision and det
 
 As she walks by two pegasi and an earth pony drawing in the sand, she compliments their work, a grand drawing of Celestia raising the sun. "Nice job, looks great!" Pinkie exclaims.
 
+Pinkie turns the corner and runs right into a volley-ball game. The players all stop and look at her expectantly. *I guess it won't hurt to play one game,* Pinkie thinks, before choosing a side.
+
+Pinkie gets into position and serves the ball on her side. She plays with determination and a smile on her face. She serves her team to victory, taking them from eleven points to twenty-five.
+
+Pinkie celebrates joyously with her team before congratulating the other team on a game well played. She trots off the court and continues her quest, back on track.
+
