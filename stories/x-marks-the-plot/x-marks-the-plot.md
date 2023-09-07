@@ -28,3 +28,15 @@ She continues her march forward, determined not to get distracted again. *I've g
 
 "I'm looking for buried treasure!" Pinkie exclaims excitedly.
 
+"Oh, can we come with you, please?" Sweetie Belle pleads in excitement.
+
+"Sure!" Pinkie proclaims.
+
+The trio follows behind Pinkie as she leads them down the dotted line. The group comes to a stop, a branching path on the map leads to a conundrum, which path to take. They hold a vote and the winning side is left, Apple Bloom being the only right-leaning pony of the group.
+
+They go down the left path, running into a long line of sleeping ponies. Pinkie looks at the map, then back at the ponies. "The line is right where they're sleeping, we have to go over," Pinkie says before making a game of it, hopping over each pony with the Cutie Mark Crusaders playing along.
+
+The path rejoins as they get close to the water. Pinkie leads them slightly into the water, where she sighs in relief as the cool water works wonders for her hot hooves. Pinkie prances along the path in the water, enjoying the water splashing her and cooling her down.
+
+The Cutie Mark Crusaders follow behind her, having their own fun in the water, splashing each other and giggling happily as they go.
+
