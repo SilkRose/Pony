@@ -6,7 +6,7 @@ Pinkie plunges her yellow plastic shovel into the sand as the tide tickles her l
 
 Pinkie shovels more sand as she quietly hums to herself, a big smile plastering her face. As the hole gets deeper and deeper, she begins to worry. *Maybe this spot isn't a good one.* But as soon as she finishes her thought, the shovel hits something in the sand.
 
-"OOO, I found something!" Pinkie shouts ecstatically, shoveling faster. She uncovers a small black tome with a red X on the cover. She carefully picks it up and places it in her lap.
+"OOO, I found something!" Pinkie shouts ecstatically, shoveling faster. She uncovers a small black tome with a red X on the cover. She carefully picks it up and places it in her lap, then blows the sand off it.
 
 Pinkie opens the book to the first page. Finding a map, she gets excited. "A treasure map!" Pinkie squeals in delight as her mind races. *What does it lead to? Bits, gems, candy? Or maybe cotton candy?*
 
@@ -39,4 +39,24 @@ They go down the left path, running into a long line of sleeping ponies. Pinkie 
 The path rejoins as they get close to the water. Pinkie leads them slightly into the water, where she sighs in relief as the cool water works wonders for her hot hooves. Pinkie prances along the path in the water, enjoying the water splashing her and cooling her down.
 
 The Cutie Mark Crusaders follow behind her, having their own fun in the water, splashing each other and giggling happily as they go.
+
+They turn back to land, then make their final turn. Trotting forward some distance, they reach the X on the map. Barely able to contain her excitement, Pinkie shouts, "We're here!" She sits down and starts digging ecstatically as the trio of fillies all sit down in a circle around the spot.
+
+"This is so exciting!" Scootaloo says.
+
+"I know, right!" Sweetie Belle comments.
+
+"I can't wait to see what it is," Apple Bloom says.
+
+Pinkie digs with glee as her mind races to think of all the possible treasures it could be, but before she can finish her mental list, her shovel stops in its track, hitting something in the sand. "We found it!" Pinkie shouts, clearing more sand around the item.
+
+Pinkie clears the item, revealing…
+
+"A book?" Pinkie asks in disbelief.
+
+Pinkie looks at the crusaders, their faces just as puzzled as hers.
+
+She looks on the bright side, trying to bring their spirits back up. "Well, let's see what story this book has to tell!" Pinkie sets the small marked black tome in her lap and opens it up. She blows the sand off the page and begins to read aloud…
+
+***
 
