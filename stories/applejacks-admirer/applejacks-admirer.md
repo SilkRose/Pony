@@ -1,6 +1,6 @@
 # Applejack's Admirer
 
-*We all know it's me, I know it, you know it, but most importantly, Applejack* doesn't *know it.*
+We all know it's me. I know it, our friends know it, but most importantly, you _don't_ know it. At least, not yet anyway.
 
 I look at Applejack with whimsy in my eyes.
 
