@@ -64,11 +64,11 @@ I scan the note, pretending to read it.
 
 > Dear Applejack,
 >
-> You're the apple of my eye, more fun than a freshly baked pie.
+> They say apples are sweet, and I can't deny:
 >
-> You make me happy, just by being my friend.
+> That means that you are like a dessert to my eye!
 >
-> 
+> You're my sugarcrush! Wanna feed you some pie.
 >
 > Love,
 > Applejack's Admirer
@@ -76,11 +76,11 @@ I scan the note, pretending to read it.
 
 > Dear Applejack,
 >
-> 
+> Have to admit, I am weak for you, dear.
 >
-> 
+> Wish I had the courage to tell to your face, how much I am inspired by your perseverance, strength, and integrity.
 >
-> 
+> Before I met you, I thought that only gemstones shine bright… Thank you. You opened my eyes to what is truly important.
 >
 > Love,
 > Applejack's Admirer
