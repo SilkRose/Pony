@@ -80,7 +80,7 @@ I scan the note, pretending to read it.
 >
 > Wish I had the courage to tell to your face, how much I am inspired by your perseverance, strength, and integrity.
 >
-> Before I met you, I thought that only gemstones shine bright… Thank you. You opened my eyes to what is truly important.
+> Before I met you, I thought that only gemstones shine bright when there's light… Thank you. You opened my eyes to what is truly important.
 >
 > Love,
 > Applejack's Admirer
