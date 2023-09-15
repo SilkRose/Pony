@@ -12,6 +12,8 @@ Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-re
 
 Cover done by irradiatedtittymilk on Discord.
 
+Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151/Nova+Twinkle), available [here](https://fimtale.com/t/57065).
+
 ## Short Description:
 Pinkie sets out on a quest to determine which of her friends makes the softest pillow.
 
