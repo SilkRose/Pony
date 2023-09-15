@@ -1,6 +1,6 @@
 # Applejack's Admirer
 
-We all know it's me. I know it, our friends know it, but most importantly, you _don't_ know it. At least, not yet anyway.
+We all know it's me. I know it, our friends know it, but most importantly, she _doesn't_ know it. At least, not yet, anyway.
 
 I look at Applejack with whimsy in my eyes.
 
@@ -18,7 +18,7 @@ I look at Applejack with whimsy in my eyes.
 
 *For you: stop looking so cute.*
 
-"Let's review the notes, could I have the first one?"
+"Let's review the first note, could I have it?"
 
 "Here it is, to me, it sounds like Fluttershy wrote it."
 
@@ -36,6 +36,22 @@ I scan the note, pretending to read it.
 >
 > Love,
 > Applejack's Admirer
+
+"Yes, definitely speaks to Fluttershy."
+
+"The thing is, the other three notes I got sound like they're from each of our other friends."
+
+"We will go over the other notes later, dear Applejack, for now, I want us to go interview Fluttershy."
+
+"If you think that's best, then let's do it."
+
+"Certainly, darling, follow me," I say as I lead Applejack out of my home.
+
+We trot side by side in silence for a while before I question her.
+
+"Let me ask this, if it were Fluttershy, how would that make you feel?"
+
+
 
 
 > Dear Applejack,
