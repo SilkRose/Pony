@@ -47,11 +47,21 @@ Applejack nods. "Alright then, sounds like a plan to me."
 
 "Okay, darling, follow me," I say as I lead Applejack out of my home.
 
-We trot side by side in silence for a while before I question her.
+We trot side by side in silence for a while as I admire her and think.
 
-"Let me ask this, if it were Fluttershy, how would that make you feel?"
+*She looks so determined, in a charming way.*
 
+She stares straight ahead, as I look at her freckles.
 
+*So adorable.*
+
+Her mane dances back and forth in the wind as it peeks out from underneath her hat.
+
+*Such a lovely mane, and surprisingly well kempt.*
+
+Applejack notices me, and asks, "You're starin' pretty, what's on your mind?"
+
+"Let me ask this; if it were Fluttershy, how would that make you feel?"
 
 
 
