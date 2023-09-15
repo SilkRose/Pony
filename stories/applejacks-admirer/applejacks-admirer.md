@@ -18,9 +18,9 @@ I look at Applejack with whimsy in my eyes.
 
 *For you: stop looking so cute.*
 
-"Let's review the first note, could I have it?"
+"Let's review the first note. Could I take a look?"
 
-"Here it is, to me, it sounds like Fluttershy wrote it."
+"Here ya go, seems like Fluttershy wrote it."
 
 Applejack gives me the first note, I remember it well.
 
@@ -37,19 +37,22 @@ I scan the note, pretending to read it.
 > Love,
 > Applejack's Admirer
 
-"Yes, definitely speaks to Fluttershy."
+"Yes, this definitely sounds like Fluttershy. Would you like me to ask her?"
 
-"The thing is, the other three notes I got sound like they're from each of our other friends."
+Applejack sheepishly rubs the back of her neck. "I mean, that'd be nice. But the thing is, I got a whole bunch of notes, and each of them seems to be from each of our other friends!"
 
-"We will go over the other notes later, dear Applejack, for now, I want us to go interview Fluttershy."
+"Is that so? Well then, how about we go over them one at a time and speak with each pony you think wrote each one, starting with this one?"
 
-"If you think that's best, then let's do it."
+Applejack nods. "Alright then, sounds like a plan to me."
 
-"Certainly, darling, follow me," I say as I lead Applejack out of my home.
+"Okay, darling, follow me," I say as I lead Applejack out of my home.
 
 We trot side by side in silence for a while before I question her.
 
 "Let me ask this, if it were Fluttershy, how would that make you feel?"
+
+
+
 
 
 
