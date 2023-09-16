@@ -39,7 +39,7 @@ I scan the note, pretending to read it.
 
 "Yes, this definitely sounds like Fluttershy. Would you like me to ask her?"
 
-Applejack sheepishly rubs the back of her neck. "I mean, that'd be nice. But the thing is, I got a whole bunch of notes, and each of them seems to be from each of our other friends!"
+Applejack sheepishly rubs the back of her neck. "I mean, that'd be nice. But the thing is, I got a whole bunch of notes, and each of them seems to be from one of our friends!"
 
 "Is that so? Well then, how about we go over them one at a time and speak with each pony you think wrote each one, starting with this one?"
 
@@ -63,9 +63,89 @@ Applejack notices me, and asks, "You're starin' pretty, what's on your mind?"
 
 "Let me ask this; if it were Fluttershy, how would that make you feel?"
 
+"I reckon I don't fully know. I have thought about it, heck, I thought about if it were each of them, including you. But, if it were Fluttershy, I would give her a chance. I suspect she would bring a calmness to my life."
 
+I crack a smile. "You really think so?"
 
+Applejack nods. "She keeps a level head, and I suppose that might help on some of my more stubborn days."
 
+"She would, wouldn't she?" I bite my lip in silence.
+
+*I guess I didn't realize how much I'd be learning about what she considers in a partner.*
+
+"Fluttershy definitely seems like the type to write a note, with her being all shy, but if it is her, where did the other notes come from?"
+
+"I don't know, darling, but, I'll make sure we figure it out together."
+
+Applejack smiles at me. "Thank you."
+
+"Thank *you*, for coming to me with this. I'm glad to help."
+
+Applejack just nods as we trot the rest of the trip in silence.
+
+We trot to Fluttershy's front door, and as I'm about to know, Applejack stops me.
+
+"Uh, Rarity? You sure it wouldn't be better if I just stay outside while you do the whole interview thing?"
+
+"Don't you want to be there when we find out?"
+
+"I dunno, Rarity, it doesn't feel right to just listen in on a friend's thoughts on me."
+
+"Oh nonsense, you should be there. I want to see your reaction to whom it is, anyway."
+
+"Well, I'd be lying if I said I wasn't curious who's behind all this. Alright, let's do this."
+
+I knock on Fluttershy's door, and we wait for her to answer.
+
+Fluttershy answers her door with a smile. "Hello, Applejack, Rarity, would you like to come in?"
+
+I speak up. "Yes, darling, we had a few questions for you, if that's alright?"
+
+"Certainly, right this way," Fluttershy says before leading us into her house.
+
+Applejack and I take a seat on her couch, while Fluttershy sits in a chair across from us.
+
+Fluttershy asks, "What did you need to ask?"
+
+I levitate the note to her. "Did you write this note?"
+
+Fluttershy reads the note before shaking her head. "It looks like something I might write, but it wasn't me."
+
+I ask a followup, "What were you doing three days ago in the morning time?"
+
+"I was feeding my chickens, like I do every Monday."
+
+I ask the last question, "Pardon the intrusion, but, if you *did* like Applejack, what would be her most attractive quality to you?"
+
+Applejack looks at me with a raised brow, clearly not amused.
+
+Fluttershy plays the part perfectly, pretending to be taken aback. A few moments later, she turns to Applejack and says, "You're the most dependable pony I know, whenever I'm in need, I go to you."
+
+Applejack tips her hat. "Thank you kindly, Fluttershy."
+
+Fluttershy replies, "You're welcome."
+
+I explain, "We are trying to find who wrote these notes, since it wasn't you, we will head to the next pony."
+
+"Oh, okay, good luck."
+
+"Thank you, darling, we will be on our way."
+
+We say our goodbyes before leaving, Fluttershy closing the door for us.
+
+Applejack takes the opportunity to question me, raising her voice, ever so slightly. "What was that last question all about?"
+
+*I knew that was coming.*
+
+"I just want to have some clues to go off in case all of them say it wasn't them."
+
+Applejack says, a bit more apologetically, "Oh, I guess that's alright."
+
+I ask, "Could I see the next note, and who do you think it's from?"
+
+Applejack gives me the next note, saying, "I think this one is from Rainbow, she does like to sleep in my trees an awful lot."
+
+I scan the note.
 
 > Dear Applejack,
 >
@@ -77,6 +157,30 @@ Applejack notices me, and asks, "You're starin' pretty, what's on your mind?"
 >
 > Love,
 > Applejack's Admirer
+
+"I agree, feels like Rainbow Dash."
+
+"We're goin' to talk to her now?"
+
+"Yes, darling."
+
+"I'm pretty sure I saw her sleeping in a tree on the farm when I was coming over, I'll lead the way."
+
+I nod and follow her.
+
+Applejack continues, "The farm is close by, so shouldn't take long to get to her."
+
+"Indeed."
+
+After a moment of silence, I ask about Rainbow, "How would you feel if it was Rainbow Dash?"
+
+"I think she's in the top two most likely. If it were her, I'd tease her to all end about this whole mess, but I'd still say yes. She'd make the day to day more exciting, I bet."
+
+"How so?"
+
+
+
+
 
 
 > Dear Applejack,
