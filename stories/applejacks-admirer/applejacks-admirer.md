@@ -230,7 +230,7 @@ Rainbow looks confused. "I don't know, probably sleeping."
 
 Rainbow thinks for a second before turning to Applejack with a smile. "You're the most determined pony I know, you never give up, no matter how big the problem is."
 
-Applejack says, "Thank you kindly."
+Applejack puts her hat to her chest. "Thank you kindly."
 
 Rainbow yawns. "Back to bed for me, good luck with whatever this is."
 
@@ -261,6 +261,26 @@ She gives me the third note and I once again scan it.
 > Love,
 > Applejack's Admirer
 
+"The idea of Twilight flirting with informative statements is positively adorable."
+
+"Do you think it's her?"
+
+"I don't know, darling. We need to gather all the clues we can before making an accusation."
+
+Applejack sighs. "You don't think it's all just a prank, do you?"
+
+I stop and put a reassuring hoof around her neck. "I'm sure somepony out there is waiting for you to figure it out, just too scared to say it themselves."
+
+We both stare into each other's eyes, getting lost in the moment.
+
+*Such beautiful emerald eyes.*
+
+Applejack breaks the silence. "You really think somepony likes me?"
+
+"Of course, darling, how could somepony not want to date you?"
+
+
+
 
 > Dear Applejack,
 >
@@ -276,7 +296,7 @@ She gives me the third note and I once again scan it.
 
 > Dear Applejack,
 >
-> Have to admit, I am weak for you, dear.
+> I have to admit, I am weak for you, darling.
 >
 > Wish I had the courage to tell to your face, how much I am inspired by your perseverance, strength, and integrity.
 >
