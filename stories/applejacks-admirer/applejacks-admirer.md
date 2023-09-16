@@ -172,16 +172,83 @@ Applejack continues, "The farm is close by, so shouldn't take long to get to her
 
 "Indeed."
 
-After a moment of silence, I ask about Rainbow, "How would you feel if it was Rainbow Dash?"
+After a moment of silence, I turn to her, "How would you feel if it was Rainbow Dash?"
 
 "I think she's in the top two most likely. If it were her, I'd tease her to all end about this whole mess, but I'd still say yes. She'd make the day to day more exciting, I bet."
 
 "How so?"
 
+"She'd probably spend a lot more time around here on the farm. I reckon she'd turn a lot of the lovey-dovey stuff into some sort of competition, as a way to cover up how much she likes it, and so she could win."
 
+*I need to remember these for later.*
 
+"Would you let her win?"
 
+*Would you let me win?*
 
+"I might do it a few times, but I'd do my best to beat her."
+
+I surprise myself by asking, "Do you want it to be her?"
+
+*Why did I ask that?*
+
+Applejack is taken back, taking a moment before saying, "It's not my choice who likes me, so thinking on it is pointless, least in my eyes."
+
+"Makes sense," I say sheepishly before we walk the rest of the way in silence.
+
+Stopping at the tree Rainbow is sleeping in, we hear her snoring loudly.
+
+*Glad to see she's in character,* I think to myself before stifling a laugh.
+
+Applejack smiles, "I'll wake her." She trots to the tree and gives it a buck, shaking the tree.
+
+Rainbow wakes up in a daze. "Who's there…" Rubbing her eyes, she looks down at use. "Hi," she says before gliding down and landing in front of us.
+
+I say, "Rainbow, we need to ask you a few questions."
+
+Rainbow smiles. "Okay, shoot."
+
+I levitate the note in front of her and ask, "Did you write this?"
+
+Rainbow scoffs at the note. "This is a prank, right? I would never write that."
+
+I shake my head. "No, this is not a prank."
+
+"If I liked somepony, they would be the one writing me love notes."
+
+Applejack facehoofs before I ask the next question. 
+
+"What were you doing on the morning of two days ago?"
+
+Rainbow looks confused. "I don't know, probably sleeping."
+
+"I see."
+
+"Any more questions? I still need to finish my nap."
+
+"Last one, What quality of Applejack's would be most appealing if you *did* like her romantically?"
+
+Rainbow thinks for a second before turning to Applejack with a smile. "You're the most determined pony I know, you never give up, no matter how big the problem is."
+
+Applejack says, "Thank you kindly."
+
+Rainbow yawns. "Back to bed for me, good luck with whatever this is."
+
+"Thank you," I say before we say our goodbyes.
+
+Rainbow flies back into her tree and falls asleep immediately.
+
+I start trotting into town, and Applejack follows.
+
+She asks, "What do we do if the other two deny it?"
+
+"We'll cross that bridge if we get to it. I'll make sure we solve this case."
+
+"Well, the next note sounds like Twilight, you wanna see it?"
+
+"Absolutely, darling."
+
+She gives me the third note and I once again scan it.
 
 > Dear Applejack,
 >
