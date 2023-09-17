@@ -373,12 +373,50 @@ I scan the note.
 >
 > That means that you are like a dessert to my eye!
 >
-> You're my sugarcrush! Wanna feed you some pie.
+> Find me out, sugarcrush, I'll feed you some pie ;)
 >
 > Love,
 > Applejack's Admirer
 
+"Seems a bit forward, but that's definitely Pinkie Pie."
 
+"Hopefully, this interview goes better than the last three."
+
+"We shall see, darling."
+
+A few moments later, Applejack answers the question I forgot to ask. "If it were Pinkie, I'd see where things went. No doubt she'd make it fun. Every day with her would be something new, never a dull moment. She'd definitely make my life happier."
+
+"She would do her best to make you smile."
+
+"I'd do my best to make her smile too, even though I have a feelin' she'd always outdo me."
+
+"I'm positive you'd do great."
+
+"Thank you."
+
+We arrive at Sugarcube Corner with no more fanfare about.
+
+We trot up to Pinkie's room and knock.
+
+She answers the door. "Hello Rarity, hello Applejack!"
+
+We trot into her room after she gestures us in.
+
+I hug her. "We had a few questions, if that's alright?"
+
+Absolutely," Pinkie says before hugging Applejack.
+
+After the hug, Applejack and I sit on Pinkie's bed while she stands in front of us.
+
+I hold the note in front of Pinkie. "Did you write this note?"
+
+Pinkie reads the note before looking shocked, mouth agape. "No, but I will give you some pie if you want some."
+
+"We're good, darling. Next question, what were you doing this morning?"
+
+"I was baking a cake with Gummy."
+
+"Final question, if you *did* like Applejack, what would be the thing you liked most about her?"
 
 
 
@@ -388,7 +426,7 @@ I scan the note.
 >
 > I have to admit, I am weak for you, darling.
 >
-> Wish I had the courage to tell to your face, how much I am inspired by your perseverance, strength, and integrity.
+> Wish I had the courage to tell to your face, how much I am inspired by your dependability, determination, practicality, beauty, and honesty.
 >
 > Before I met you, I thought that only gemstones shine bright when there's light… Thank you. You opened my eyes to what is truly important.
 >
