@@ -418,18 +418,70 @@ Pinkie reads the note before looking shocked, mouth agape. "No, but I will give 
 
 "Final question, if you *did* like Applejack, what would be the thing you liked most about her?"
 
+Pinkie pretends to ponder before turning to Applejack. "You're the most honest pony I know. You'd never intentionally break a Pinkie promise."
 
+Applejack smiles. "Thank you, Pinkie."
 
+"You're welcome!"
 
+Applejack and I get up from the bed before exchanging goodbyes with Pinkie.
+
+We walk downstairs and leave Sugarcube Corner, heading for my home.
+
+Applejack speaks up, in a somber tone. "Well, I guess nopony wanted to fess up."
+
+"Hey, don't be down, we can still figure out who it is."
+
+"And then what? Make them ask me out?"
+
+"You could ask them out?"
+
+"But how are we going to figure out who it is?"
+
+I levitate the notes out of my pocket, giving them to her. "Why don't you take the notes home and try to study them, while I'll go home and think over the answers we got from them."
+
+Applejack puts the notes in her bag before nodding.
+
+I continue. "If either of us figures it out, we will rush to the other pony, deal?"
+
+Applejack hugs me tightly. "Deal."
+
+I hug back. "Goodbye for now, Applejack. We will figure this out."
+
+"Goodbye," Applejack says before trotting off to home.
+
+"Goodbye," I say before heading my own way home.
+
+***
+
+I lay the stack of notes on the table in front of me, sitting in the kitchen.
+
+Spreading them out, I mentally check off each one.
+
+*One from Fluttershy, Rainbow, Twilight, Pinkie, and what?*
+
+I stare blankly at a fifth note.
+
+*Where'd this come from?*
+
+I pick the note up and read it.
 
 > Dear Applejack,
 >
 > I have to admit, I am weak for you, darling.
 >
-> Wish I had the courage to tell to your face, how much I am inspired by your dependability, determination, practicality, beauty, and honesty.
+> Wish I had the courage to tell to your face, how much I am inspired by your dependability, determination, practicality, honesty, and beauty.
 >
 > Before I met you, I thought that only gemstones shine bright when there's light… Thank you. You opened my eyes to what is truly important.
 >
 > Love,
 > Applejack's Admirer
+
+*Rarity.*
+
+"I need to go talk to Rarity."
+
+I immediately get up from the table, heading for the door.
+
+***
 
