@@ -22,7 +22,7 @@ I look at Applejack with whimsy in my eyes.
 
 "Here ya go, seems like Fluttershy wrote it."
 
-Applejack gives me the first note, I remember it well.
+Applejack gives me the first note, pulling it from her saddlebag, I remember it well.
 
 I scan the note, pretending to read it.
 
@@ -143,7 +143,7 @@ Applejack says, a bit more apologetically, "Oh, I guess that's alright."
 
 I ask, "Could I see the next note, and who do you think it's from?"
 
-Applejack gives me the next note, saying, "I think this one is from Rainbow, she does like to sleep in my trees an awful lot."
+Applejack gives me the next note from her bag, saying, "I think this one is from Rainbow, she does like to sleep in my trees an awful lot."
 
 I scan the note.
 
@@ -248,7 +248,7 @@ She asks, "What do we do if the other two deny it?"
 
 "Absolutely, darling."
 
-She gives me the third note and I once again scan it.
+She gives me the third note from her bag and I once again scan it.
 
 > Dear Applejack,
 >
@@ -261,7 +261,7 @@ She gives me the third note and I once again scan it.
 > Love,
 > Applejack's Admirer
 
-"The idea of Twilight flirting with informative statements is positively adorable."
+"The idea of Twilight flirting by way of information is positively adorable."
 
 "Do you think it's her?"
 
@@ -279,8 +279,93 @@ Applejack breaks the silence. "You really think somepony likes me?"
 
 "Of course, darling, how could somepony not want to date you?"
 
+"I don't know, I just never really thought about romance too much."
 
+"Anypony would be lucky to have you, darling."
 
+"Thank you, Rarity."
+
+I hug her, and she hugs back before we continue on our way to Twilight's.
+
+We walk in silence for a bit before, Applejack speaks up. "I know what you're going to ask. If it were Twilight, I would say yes. I think I'd say yes to any of y'all, honestly. But, I think she'd teach me a lot of new things. With all the books she reads, she's probably just waiting to teach anypony anything they want to know."
+
+"What would you bring to her?"
+
+Applejack ponders for a second, before replying, "I think I would keep her freak-outs more under control, more than I already do, I mean."
+
+I try to hide my blush by walking slightly ahead of her. "Sounds like you'd be a good marefriend to have."
+
+Applejack asks, genuinely, "What about you?"
+
+I ask in a confused tone, "What about me?"
+
+"Don't you love all this romance stuff? What kind of marefriend would you be?"
+
+I sigh. "I do love romance, but I don't know how I'd be as a marefriend. It's hard to know when I've never been in a relationship before."
+
+*Even harder when the pony I want to date is the one asking.*
+
+"Well, between you and me, I'd think you'd make a great marefriend."
+
+I smile wide. "Thanks, Applejack."
+
+We make it the rest of the way to Twilight's without talking.
+
+I knock on the door of Twilight's tree house.
+
+A few moments later, she answers. "Hello girls."
+
+"Hi, Twilight, could we come in? We want to ask you a few questions."
+
+"Oh, sure, come on in."
+
+We trot inside and sit down in the main room.
+
+I levitate the note to Twilight, and she takes it with her magic.
+
+I ask, "Did you write that note?"
+
+Twilight looks confused. "No, and how can you even quantify fun?"
+
+"I don't know either. We are trying to figure out who has been writing them."
+
+"Oh, I see."
+
+"What were you doing yesterday morning?"
+
+"I was reading a book, would you like me to get it?"
+
+"That won't be necessary."
+
+"Okay."
+
+"Last question, if you *did* like Applejack, what thing about her would you find most appealing?"
+
+Twilight pretends to think before turning to Applejack. "You're the most practical pony there is, you don't let anything extra slow you down. You get done what needs to be done, and remove the bloat."
+
+Applejack nods. "Thank you."
+
+Twilight says, "You're welcome," to Applejack before we bid our adieu.
+
+We start walking to Sugarcube Corner as I notice a frown on Applejack's face.
+
+"What's wrong?"
+
+"What if it's not Pinkie, where do we look then?"
+
+"Like I said, we will figure it out."
+
+"That pep talk you gave was nice, but I'm worried I might have got my hopes up for nothin'."
+
+I put another hoof round her and nuzzler her, reassuringly. "We got this, I'm not going to give up until we find out who it is."
+
+"Thank you, Rarity, you really are a good friend."
+
+"You too, Applejack."
+
+Applejack gives me the last note from her bag before we continue to walk.
+
+I scan the note.
 
 > Dear Applejack,
 >
@@ -292,6 +377,11 @@ Applejack breaks the silence. "You really think somepony likes me?"
 >
 > Love,
 > Applejack's Admirer
+
+
+
+
+
 
 
 > Dear Applejack,
