@@ -438,7 +438,7 @@ Applejack speaks up, in a somber tone. "Well, I guess nopony wanted to fess up."
 
 "But how are we going to figure out who it is?"
 
-I levitate the notes out of my pocket, giving them to her. "Why don't you take the notes home and try to study them, while I'll go home and think over the answers we got from them."
+I levitate the notes out of my pocket, giving them to her. "Why don't you take the notes home and try to study them, while I go home and think over the answers we got from them."
 
 Applejack puts the notes in her bag before nodding.
 
@@ -454,17 +454,31 @@ I hug back. "Goodbye for now, Applejack. We will figure this out."
 
 ***
 
-I lay the stack of notes on the table in front of me, sitting in the kitchen.
+I hear a knock at my door that I've been waiting on for a while.
 
-Spreading them out, I mentally check off each one.
+*It's time.*
 
-*One from Fluttershy, Rainbow, Twilight, Pinkie, and what?*
+I open the door, revealing Applejack.
 
-I stare blankly at a fifth note.
+She trots inside, throwing casual greetings aside. "When I went home and looked at the notes, I found an extra one, one from *you*."
 
-*Where'd this come from?*
+I play dumb a single time. "What are you saying?"
 
-I pick the note up and read it.
+"I'm saying, that if it were you, I'd say yes, one-hundred percent. I know you'd improve my life, in more ways than one."
+
+"Oh, what ways?"
+
+Applejack smiles. "You'd definitely try to get me to be more fashionable, and probably make me appreciate the finer things in life. You'd help me be less stressed and make me take more breaks."
+
+I smile back. "I would do my best."
+
+"So, I've got a few questions to ask you."
+
+"Ask away."
+
+Applejack gives me a note. "Did you write this note?"
+
+I scan the note to make sure, it's one I recognize immediately.
 
 > Dear Applejack,
 >
@@ -477,11 +491,18 @@ I pick the note up and read it.
 > Love,
 > Applejack's Admirer
 
-*Rarity.*
+"Yes."
 
-"I need to go talk to Rarity."
+"If you *did* like me, what would be your favorite thing about me?"
 
-I immediately get up from the table, heading for the door.
+"Your beauty, it doesn't matter if you just woke up, got done with a hard day's work, or just finished wrestling in the mud, you always look beautiful inside and out."
 
-***
+"Last question, will you go out with me?"
 
+Tears flow from my eyes. "Yes."
+
+Applejack wipes away my tears before holding me in a tight hug.
+
+I hug back. "I love you."
+
+"I love you too."
