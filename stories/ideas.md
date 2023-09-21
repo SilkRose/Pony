@@ -53,13 +53,6 @@ Pinkie becomes depressed and decides to dye her coat, but not matter what, it ju
 
 ***
 
-## You and I
-
-### Synopsis:
-You and Pinkie have a heart-to-heart mid-cuddle.
-
-***
-
 ## Cover Me Up
 
 ### Synopsis:
