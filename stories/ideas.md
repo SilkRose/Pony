@@ -39,6 +39,13 @@ Rainbow tries to teach AJ how to prank, who struggles due to being unable to lie
 
 ***
 
+## Sneaky Snuggles
+
+### Synopsis:
+Somepony has been snuggling ponies in their sleep, and they must be found.
+
+***
+
 ## Cuddle Count
 
 ### Synopsis:

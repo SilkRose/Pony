@@ -1,2 +1,0 @@
-# Sneaky Snuggles
-
