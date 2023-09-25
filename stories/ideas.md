@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pinkie Practice
+
+### Synopsis:
+Pinkie teaches Twilight how to be like Pinkie herself.
+
+***
+
 ## Competitive Kissing
 
 ### Synopsis:
