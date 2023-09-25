@@ -3,6 +3,12 @@
 This file contains random story ideas that don't have enough thought to have their own folder yet, or that I don't plan on writing and just wanted to share.
 
 ***
+## Brideways
+
+### Synopsis:
+The mane 6 help each other prepare for their respective weddings.
+
+***
 
 ## Pinkie Practice
 
