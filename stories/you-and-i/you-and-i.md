@@ -16,3 +16,5 @@ With the formalities out of the way, you wrap your hooves around her, holding he
 
 I wrap my hooves around you in response, nuzzling you gently.
 
+After the nuzzle, you kiss her cheek before watching her blush.
+
