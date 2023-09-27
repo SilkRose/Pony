@@ -2,8 +2,6 @@
 
 Rainbow cried on Scootaloo's birthday, annually.
 
-Applejack greets her parents every year.
-
 Rarity never forgot their anniversary again.
 
 Twilight failed for the last time.
@@ -15,8 +13,6 @@ Fluttershy forgot Rainbow after she left.
 Pinkie's first kiss was her last.
 
 Applejack couldn't move after the fall.
-
-Pinkie will never forget that coffin.
 
 Lyra and Bonbon lost their rings.
 
@@ -32,17 +28,11 @@ Scootaloo got the best sister ever.
 
 Twilight's library is bereft of books.
 
-Rainbow's first memory was of Fluttershy.
-
 Scootaloo's wings grew much bigger overnight.
-
-Sweetie Belle never learned to play.
 
 Twilight couldn't read after the incident.
 
 Rainbow Dash lost her fan club.
-
-Celestia's sun is hotter than normal.
 
 Luna's moon is closer than normal.
 
@@ -110,13 +100,9 @@ Pinkie cried invisibly watching her funeral.
 
 Rainbow hit the wall too hard.
 
-The stars in the sky screamed.
-
 Fluttershy never opened *that* door, again.
 
 Pinkie is stuck in the dryer.
-
-Fluttershy kissed each friend goodbye, twice.
 
 Pinkie won it, Rainbow's first kiss.
 
@@ -125,8 +111,6 @@ Pinkie won it, Rainbow's first kiss.
 "No!" Fluttershy screamed in vain, falling.
 
 Pinkie drools on Rarity's chest again.
-
-Twilight kissed Pinkie, who shoves her.
 
 Pinkie ponders, Twilight thinks, Rarity revolts.
 
@@ -168,8 +152,6 @@ Her mane went fluttering, then stopped.
 
 "Sweetest pie," she muttered, "where's Pinkie?"
 
-Hair moved between his clawed fingers.
-
 Soon, a new constellation lit up.
 
 Her long horn was firmly grasped.
@@ -182,19 +164,9 @@ Discord cackled. All went in accord.
 
 "No more school," she observed Ponyville.
 
-The King sat on his throne.
-
-Spell sizzled. The egg didn't hatch.
-
-What, lavender girl? She was bratty.
-
 "Believe!" cried Rainbow, letting Scootaloo go.
 
 Nightmare Moon flared in the stratosphere.
-
-"A phoenix, seriously? Time for testing."
-
-"Is that a blush I see?"
 
 "Pinkie, shut up and kiss me."
 
@@ -244,21 +216,15 @@ Rarity shows Pinkie love, Pinkie reciprocates.
 
 The awesome part is, Rainbow's cuteness.
 
-The adorableness increased when she entered.
+The adorableness increased when Fluttershy entered.
 
 A staircase opened under Twilight's floor.
-
-"Just as planned", Rarity lied unconvincingly.
 
 Fluttershy never got to say goodbye.
 
 Cyan feathers fell from the sky.
 
-Spike farted, Twilight's ashes were sent.
-
 Twilight determines her immortality must end.
-
-Pinkie isn't the first or last.
 
 Twilight keeps backups of her friends.
 
@@ -282,15 +248,9 @@ Even Luna's moon cannot be seen.
 
 Sweetie's song stunned, and killed them.
 
-Derpy gets pranked, the CMC chuckle.
-
 Fluttershy never found Rainbow's remains again.
 
-Turns out, the moon eats visitors.
-
 Twilight heard Spike cry from below.
-
-Turns out ponies are great snacks.
 
 The river near Ponyville turned black.
 
@@ -304,13 +264,9 @@ Rarity kissed Pinkie. Twilight never knew.
 
 Twilight wept, surrounded by her friends.
 
-Rarity kissed Pinkie, then removed her.
-
 Scootaloo smiled at Rainbow and cried.
 
 Rarity knew Pinkie, softer than Fluttershy.
-
-Rarity made her last Applejack dress.
 
 Rarity made her unused wedding dress.
 
@@ -340,8 +296,6 @@ Pinkie cuddles Rarity with fierce determinism.
 
 Twilight will talk, Pinkie had listened.
 
-Spike put away his last comic.
-
 Luna glared as Celestia walked away.
 
 Pinkie wanted to kiss Rarity, forever.
@@ -351,8 +305,6 @@ Pinkie fell for Rarity, Rarity watched.
 Pinkie melted as Rarity massaged her.
 
 Scootaloo stared longingly at the clouds.
-
-Rarity loved Applejack's hat, bought two.
 
 Applejack's heart never saw Rarity coming.
 
@@ -381,14 +333,6 @@ Rainbow taught Twilight to cloud nap.
 Scootaloo never forgot Rainbow's impact sound.
 
 Rainbow never forgot Scootaloo's hopeful smile.
-
-A finger for each other Element. 
-
-"Their vessel was called EUSS 'Friendship'!"
-
-The dragons were circling above. Vultures.
-
-"She's distracted…" They lifted the Crown.
 
 My friends are always with me.
 
@@ -420,31 +364,15 @@ In reflection, Fluttershy saw an animal.
 
 "Luna, bring me the pesticide, quickly."
 
-She was born from a tear.
-
 We outlawed eating grass in 507.
 
 "For greater good," said Harmony's Apostles.
 
-You know, trees must be tended.
-
 Discord molded them into a bouquet.
-
-Stars were painted on a ceiling.
-
-In her vault lied Forbidden Sugarcube.
 
 "Hooves off my daughter!" Velvet demanded.
 
-She scratched horn. It fell off.
-
-"Opaline, don't play with my ponies!"
-
 The Cutie Map began showing side-quests.
-
-"Tomorrow, we're playing hoofball with Spike."
-
-There's no cemetery, only huge forest.
 
 Harmony ended when they invented internet.
 
@@ -462,17 +390,11 @@ Sunset froze. Celestia broke the mirror.
 
 Suddenly, the Moon began to descend.
 
-The ancient artifact, Amulet of Silly.
-
 He used their horns as toothpicks.
 
 Fluttershy was the most dangerous here.
 
-Ponies happily played rock-paper-scissors.
-
 "Luna, you're obviously adopted." "No, you."
-
-"Riveting," Discord rolled his eyes around.
 
 "Let's not be horsing around, seriously."
 
