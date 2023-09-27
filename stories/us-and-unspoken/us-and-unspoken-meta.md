@@ -6,6 +6,8 @@ Twilight and Rarity don't speak up when their relationship deteriorates, can the
 ## Description:
 
 
+Cover done by irradiatedtittymilk on Discord.
+
 ## Short Description:
 
 
@@ -16,3 +18,4 @@ Twilight and Rarity don't speak up when their relationship deteriorates, can the
 [Us and Unspoken](./us-and-unspoken.md)
 
 ## Cover:
+![cover](./us-and-unspoken-cover.png)
