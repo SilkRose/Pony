@@ -278,13 +278,6 @@ Pinkie enters into a ping-pong tournament.
 
 ***
 
-## Us and Unspoken
-
-### Synopsis:
-Twilight and Rarity don't speak up when their relationship deteriorates, can they fix it before it's too late?
-
-***
-
 ## Rainbow-Maned Madness
 
 ### Synopsis:
