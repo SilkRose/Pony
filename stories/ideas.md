@@ -147,13 +147,6 @@ From Monday to Friday, Pinkie snuggles a different member of the mane 6, but non
 
 ***
 
-## Unicute
-
-### Synopsis:
-Rainbow accidentally says "unicute" instead of "cute unicorn", leading to Rarity calling her "pegasilly" and the two going on a chain of cute puns.
-
-***
-
 ## Cute Cuddles
 
 ### Synopsis:
