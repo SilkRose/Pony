@@ -6,6 +6,8 @@ Rainbow accidentally says "unicute" instead of "cute unicorn", leading to Rarity
 ## Description:
 
 
+Cover done by irradiatedtittymilk on Discord.
+
 ## Short Description:
 
 
@@ -16,3 +18,4 @@ Rainbow accidentally says "unicute" instead of "cute unicorn", leading to Rarity
 [Unicute](./unicute.md)
 
 ## Cover:
+![cover](./unicute-cover.png)
