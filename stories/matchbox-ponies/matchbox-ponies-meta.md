@@ -22,3 +22,4 @@ Collaborative anthology of two-hundred six-word stories.
 [Matchbox Ponies](./matchbox-ponies.md)
 
 ## Cover:
+![cover](./matchbox-ponies-cover-upscaled.png)
