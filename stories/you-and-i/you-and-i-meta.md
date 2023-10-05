@@ -22,8 +22,20 @@ Pinkie and her marefriend snuggle after a long day.
 - They fall asleep in each other's hooves.
 - Pinkie kisses her forehead before falling asleep.
 
-## Story:
-[You and I](./you-and-i.md)
+## Chapters:
+[You and I:](01-you-and-i.md)
+- Pinkie is lonely, waiting for her marefriend.
+- The reader decides who her marefriend is.
+
+[Twilight Sparkle](02-twilight-sparkle.md)
+
+[Fluttershy](03-fluttershy.md)
+
+[Applejack](04-applejack.md)
+
+[Rarity](05-rarity.md)
+
+[Rainbow Dash](06-rainbow-dash.md)
 
 ## Cover:
 ![cover](./you-and-i-cover.png)
