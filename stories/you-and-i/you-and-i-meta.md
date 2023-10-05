@@ -1,25 +1,26 @@
 # You and I
 
 ## Synopsis:
-You and Pinkie have a heart-to-heart mid-snuggle.
+Pinkie and her marefriend snuggle after a long day.
 
 ## Description:
-You and Pinkie have a heart-to-heart mid-snuggle.
+Pinkie and her marefriend snuggle after a long day.
 
 Cover done by irradiatedtittymilk on Discord.
 
 ## Short Description:
-You and Pinkie have a heart-to-heart mid-snuggle.
+Pinkie and her marefriend snuggle after a long day.
 
 ## Ideas:
-- You and Pinkie had a long day of work.
+- Pinkie and her marefriend both had a long day of work.
+- The reader chooses the marefriend from the other 5 of the mane 6.
 - Both have been eagerly awaiting to snuggle.
-- After snuggling for a while, you two form a conversation.
-- You have a heartfelt conversation about your relationship and how you feel about each other.
-- After the conversation ends, you two kiss passionately.
+- After snuggling for a while, the two form a conversation.
+- They have a heartfelt conversation about their relationship and how they feel about each other.
+- After the conversation ends, they kiss passionately.
 - Both say goodnight and I love you.
-- You fall asleep in her hooves.
-- She kisses your forehead before falling asleep.
+- They fall asleep in each other's hooves.
+- Pinkie kisses her forehead before falling asleep.
 
 ## Story:
 [You and I](./you-and-i.md)
