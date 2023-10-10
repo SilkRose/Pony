@@ -104,7 +104,7 @@ Pinkie turns the corner and–
 
 Looking up from her map, she sees a ball heading straight for her. Thinking quickly, she kicks the ball, and it soars to the other side of the field into the goal net, scoring a point for the side she trotted into.
 
-Her side laughs and thanks her. She takes a bow before trotting off the other side of the court.
+Her side laughs and thanks her. She takes a bow before trotting off the other side of the field.
 
 She continues her march forward, determined not to get distracted again. 
 
