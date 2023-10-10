@@ -10,7 +10,7 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Entry into [A Thousand Words Contest II](https://www.fimfiction.net/group/216361/a-thousand-words/thread/517645/a-thousand-words-contest-ii-2023-may-29-jul-30).
 
-Now with a [reading](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio).
+Now with two readings, [one](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio), and [one](https://www.youtube.com/watch?v=Nouf1_Sbysc) done by [Pony&Wolf Productions](https://www.youtube.com/@PonyWolfProductions).
 
 ## Short Description:
 Tax season is almost over, and Pinkie hasn't paid hers yet.
