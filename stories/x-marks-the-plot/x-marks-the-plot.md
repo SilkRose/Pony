@@ -98,6 +98,16 @@ Following the map closely, her eyes dart back and forth between the dotted line 
 
 She walks by a pegasus and an earth pony, drawing a grand depiction of Luna raising the moon. "Nice job, looks great!" she compliments.
 
+Pinkie turns the corner and–
+
+"Watch out!"
+
+Looking up from her map, she sees a ball heading straight for her. Thinking quickly, she punts the ball, and it soars to the other side of the court, scoring a point for the side she trotted into.
+
+Her side laughs and thanks her. She takes a bow before trotting off the other side of the court.
+
+She continues her march forward, determined not to get distracted again. 
+
 _I've got to find that treasure_.
 
 She looks near the edge of the beach, where the Cutie Mark Crusaders are busy building a sand castle. Scootaloo takes notice and glances up at her curiously.
@@ -110,7 +120,9 @@ She looks near the edge of the beach, where the Cutie Mark Crusaders are busy bu
 
 "Sure!" 
 
-The trio follows behind Pinkie as she leads them down the dotted line. They all stop as the path splits before them. After holding a vote, they decide to take the right path. As they travel down their new route, 
+The trio follows behind Pinkie as she leads them down the dotted line. They all stop as the path splits before them. After holding a vote, they decide to take the right path. As they travel down their new route, they run into a long line of sleeping ponies. Pinkie looks at the map, then back at the ponies.
+
+"The line is right where they're sleeping; we have to go over," Pinkie says before she hops over each of the sleeping ponies one at a time. The Cutie Mark Crusaders follow behind her, doing the same.
 
 The path rejoins as they get close to the water. Pinkie leads them slightly into the water, where she sighs in relief as the cool water works wonders for her. Pinkie prances along the path in the water, enjoying the water splashing her.
 
