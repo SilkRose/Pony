@@ -102,7 +102,7 @@ Pinkie turns the corner and–
 
 "Watch out!"
 
-Looking up from her map, she sees a ball heading straight for her. Thinking quickly, she punts the ball, and it soars to the other side of the court, scoring a point for the side she trotted into.
+Looking up from her map, she sees a ball heading straight for her. Thinking quickly, she kicks the ball, and it soars to the other side of the field into the goal net, scoring a point for the side she trotted into.
 
 Her side laughs and thanks her. She takes a bow before trotting off the other side of the court.
 
