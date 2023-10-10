@@ -14,6 +14,8 @@ Cover done by irradiatedtittymilk on Discord.
 
 Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151/Nova+Twinkle), available [here](https://fimtale.com/t/57065).
 
+Now with a [reading](https://www.youtube.com/watch?v=O7dc4uZj3xY) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw).
+
 ## Short Description:
 Pinkie sets out on a quest to determine which of her friends makes the softest pillow.
 
