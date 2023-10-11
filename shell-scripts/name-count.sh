@@ -1,5 +1,10 @@
 #!/usr/bin/env sh
 
-name_count=$(grep -c "\- ." < "../stories/names.md")
+location=$1
 
-echo "$name_count"
+if [ -n "$location" ]; then
+	name_count=$(grep -c "\- ." < "$location")
+	echo "$name_count"
+else
+	echo 0
+fi

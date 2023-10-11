@@ -1,5 +1,10 @@
 #!/usr/bin/env sh
 
-flash_fiction_count=$(find "../flash-fiction/" -type f -name "*.md" | wc -l)
+location=$1
 
-echo "$flash_fiction_count"
+if [ -n "$location" ]; then
+	flash_fiction_count=$(find "$location" -type f -name "*.md" | wc -l)
+	echo "$flash_fiction_count"
+else
+	echo 0
+fi

@@ -1,5 +1,10 @@
 #!/usr/bin/env sh
 
-idea_count=$(grep -c "^## " < "../stories/ideas.md")
+location=$1
 
-echo "$idea_count"
+if [ -n "$location" ]; then
+	idea_count=$(grep -c "^## " < "$location")
+	echo "$idea_count"
+else
+	echo 0
+fi
