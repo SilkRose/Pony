@@ -17,10 +17,7 @@ case "$location" in
 			if [ "$location" = "stories" ]; then
 				echo "Unable to find $location folder, exiting now." >&2
 				exit 1
-			else
-				echo "none"
 			fi
-
 		fi
 		;;
 	"ideas" | "names")
@@ -28,8 +25,6 @@ case "$location" in
 			echo "../stories/$location.md"
 		elif [ -f "../src/stories/$location.md" ]; then
 			echo "../src/stories/$location.md"
-		else
-			echo "none"
 		fi
 		;;
 	*)
