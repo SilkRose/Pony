@@ -198,7 +198,7 @@ Applejack is taken back, taking a moment before saying, "It's not my choice who 
 
 Stopping at the tree Rainbow is sleeping in, we hear her snoring loudly.
 
-*Glad to see she's in character,* I think to myself before stifling a laugh.
+*Glad to see she's in character*, I think to myself before stifling a laugh.
 
 Applejack smiles, "I'll wake her." She trots to the tree and gives it a buck, shaking the tree.
 
