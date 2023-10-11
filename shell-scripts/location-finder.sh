@@ -13,11 +13,6 @@ case "$location" in
 			echo "../$location/"
 		elif [ -d "../src/$location/" ]; then
 			echo "../src/$location/"
-		else
-			if [ "$location" = "stories" ]; then
-				echo "Unable to find $location folder, exiting now." >&2
-				exit 1
-			fi
 		fi
 		;;
 	"ideas" | "names")
