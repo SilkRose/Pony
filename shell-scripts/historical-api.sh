@@ -30,7 +30,7 @@ echo "$commits" \
 			--arg hash "$hash" \
 			--arg subject "$subject" \
 			--arg timestamp "$timestamp" \
-			--arg stats "$(get_stats "$hash")" \
+			--argjson stats "$(get_stats "$hash")" \
 			'{
 				"hash": $hash,
 				"subject": $subject,
