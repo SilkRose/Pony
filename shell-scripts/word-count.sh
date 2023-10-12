@@ -18,4 +18,8 @@ for file in $md_files; do
 	total_word_count=$((total_word_count + word_count))
 done
 
-echo "$total_word_count"
+if [ -n "$total_word_count" ]; then
+	echo "$total_word_count"
+else
+	echo 0
+fi
