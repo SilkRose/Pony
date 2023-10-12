@@ -4,3 +4,4 @@
 .obsidian/community*
 .obsidian/workspace*
 /shell-scripts/dist
+/shell-scripts/pony-temp
