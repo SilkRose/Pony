@@ -40,7 +40,7 @@ echo "$commits" \
 			'{
 				"hash": $hash,
 				"subject": $subject,
-				"unix_time": $timestamp,
+				"unix_time": ($timestamp | tonumber),
 				"stats": $stats
 			}'
 	done | jq -n --tab '[inputs]'
