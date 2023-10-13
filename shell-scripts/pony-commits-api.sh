@@ -1,10 +1,15 @@
 #!/usr/bin/env sh
 
+status=$1
+
+git_clone_url=$(jq -r ".git_clone_url" "./variables.json")
+pony_commits_json_url=$(jq -r ".pony_commits_json_url" "./variables.json")
+
 if [ -d "./pony-temp" ]; then
 	rm -rf "./pony-temp"
 fi
 
-git clone https://github.com/SilkRose/Pony.git pony-temp
+git clone "$git_clone_url" pony-temp
 
 cd "./pony-temp" || exit 1
 
@@ -19,9 +24,10 @@ get_stats() {
 	mkdir "./shell-scripts"
 	cp -r ../*.sh "./shell-scripts/"
 	cd "./shell-scripts" || exit 1
-	sh "./static-api.sh"
+	mkdir -p "./dist/api/v1"
+	sh "./pony-api.sh" > "./dist/api/v1/pony.json"
 	cd ..
-	jq . -c "./shell-scripts/dist/pony.json"
+	jq . -c "./shell-scripts/dist/api/v1/pony.json"
 }
 
 echo "$commits" \
@@ -36,7 +42,5 @@ echo "$commits" \
 				"subject": $subject,
 				"unix_time": $timestamp,
 				"stats": $stats
-			} | to_entries
-			| map(.key |= gsub("_"; "-"))
-			| from_entries'
-	done | jq -n -c '[inputs]' > "../dist/pony-hisorical.json"
+			}'
+	done | jq -n --tab '[inputs]'

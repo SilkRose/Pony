@@ -1,4 +1,4 @@
-name: Static API
+name: Deploy API
 
 on:
   push:
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Build
-        run: cd "./shell-scripts" && sh "./static-api.sh"
+        run: cd "./shell-scripts" && sh "./build-api.sh"
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4

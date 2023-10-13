@@ -1,11 +1,5 @@
 #!/usr/bin/env sh
 
-if [ -d "./dist" ]; then
-	rm -rf "./dist"
-fi
-
-mkdir "./dist"
-
 count_and_format() {
 	script="$1"
 	directory="$2"
@@ -21,7 +15,7 @@ stories=$(count_and_format "./story-count.sh" "stories")
 words=$(sh "./word-count.sh" "$(./location-finder.sh "stories")" "$(./location-finder.sh "flash-fiction")" \
 	| sed -e :a -e 's/\(.*[0-9]\)\([0-9]\{3\}\)/\1,\2/;ta')
 
-json=$(jq --null-input --tab \
+jq --null-input --tab \
 	--arg covers "$covers" \
 	--arg flash_fiction "$flash_fiction" \
 	--arg ideas "$ideas" \
@@ -35,8 +29,4 @@ json=$(jq --null-input --tab \
 		"names": $names,
 		"stories": $stories,
 		"words": $words
-	} | to_entries
-	| map(.key |= gsub("_"; "-"))
-	| from_entries')
-
-echo "$json" > "./dist/pony.json"
+	}'
