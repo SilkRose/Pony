@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "35c1353d8927ce86a3d453c6d2ff869b1d13d320",
+		"subject": "Remove variables.json from hashes file",
+		"unix_time": "1697185836",
+		"stats": {
+			"covers": "44",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "64,730"
+		}
+	},
+	{
 		"hash": "e9c30d2d9041191808973180b9f3bde8ccd7c45d",
 		"subject": "Update api scripts and add build script",
 		"unix_time": "1697181842",
