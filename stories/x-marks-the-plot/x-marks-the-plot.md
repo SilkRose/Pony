@@ -192,17 +192,19 @@ She looks near the edge of the beach, where the Cutie Mark Crusaders are busy bu
 
 "Sure!" 
 
-The trio follows behind Pinkie as she leads them down the dotted line. They all stop as the path splits before them. After holding a vote, they decide to take the right path. As they travel down their new route, they run into a long line of sleeping ponies. Pinkie looks at the map, then back at the ponies.
+The trio follows behind Pinkie as she leads them down the dotted line. They all stop as the path splits before them. Pinkie feels as though she's been down both paths before, but doesn't say anything. Letting the Crusaders decide, they pick the left path. As they travel down their new route, they run into a long line of sleeping ponies. Pinkie looks at the map, then back at the ponies.
 
 "The line is right where they're sleeping; we have to go over," Pinkie says before she hops over each of the sleeping ponies one at a time. The Cutie Mark Crusaders follow behind her, doing the same.
 
-The path rejoins as they get close to the water. Pinkie leads them slightly into the water, where she sighs in relief as the cool water works wonders for her. Pinkie prances along the path in the water, enjoying the water splashing her.
+The path rejoins as they get close to the water. Pinkie leads them slightly into the water. Pinkie prances along the path in the water, enjoying the water splashing her.
 
 The Cutie Mark Crusaders follow behind her, splashing each other and giggling happily as they go.
 
 They turn back to land and make their final turn. Trotting forward some distance, they reach the X on the map. Barely able to contain her glee, Pinkie shouts, "We're here!"
 
-The Cutie Mark Crusaders start digging immediately, the three fillies digging wildly in the sand with their hooves. Pinkie joins in, digging with her shovel as she giggles.
+The Cutie Mark Crusaders start digging immediately, the three fillies digging wildly in the sand with their hooves. Pinkie watches as an uneasy feeling washes over her.
+
+*This doesn't feel right.*
 
 "This is so exciting!" Scootaloo says.
 
@@ -210,9 +212,13 @@ The Cutie Mark Crusaders start digging immediately, the three fillies digging wi
 
 "I can't wait to see what it is," Apple Bloom says.
 
-Before Pinkie can even start to think of what treasure awaits them, her shovel stops in its track, hitting something in the sand. "We found it!" Pinkie shouts, clearing more sand around the item.
+*They seem to be having fun, so it must be alright!*
 
-Pinkie clears the item, revealing…
+Before Pinkie can even start to think of anything else, she hears an excited shriek from Sweetie Belle.
+
+"We found it," Sweetie says, beaming.
+
+Pinkie takes over clearing the item, revealing…
 
 "A book?" Pinkie asks in disbelief and looks at the crusaders, their faces just as puzzled as hers.
 
