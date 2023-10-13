@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "4f739ac0d1a37cc85ae5ea72e8d810d42e33c5de",
+		"subject": "Update LICENSE",
+		"unix_time": 1697223203,
+		"stats": {
+			"covers": "44",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "65,502"
+		}
+	},
+	{
 		"hash": "cc85f65232e774230acb7c39606a1ebdac2bfb2a",
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1697194007,
