@@ -20,7 +20,6 @@ sha256sum build-api.sh \
 	pony-api.sh \
 	pony-commits-api.sh \
 	story-count.sh \
-	variables.json \
 	word-count.sh > "./dist/shell-script-hashes"
 
 pony_commits_json_url=$(jq -r ".pony_commits_json_url" "./variables.json")
