@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "cc85f65232e774230acb7c39606a1ebdac2bfb2a",
+		"subject": "X Marks the Plot writing",
+		"unix_time": 1697194007,
+		"stats": {
+			"covers": "44",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "65,502"
+		}
+	},
+	{
 		"hash": "6864a1015a5db754c33c2e318ab7b6e333de7cfe",
 		"subject": "Change api timestamps from string to number",
 		"unix_time": 1697187507,
