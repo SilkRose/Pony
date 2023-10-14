@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "98e848e9fc9a9c92291462ce129342719636ff07",
+		"subject": "X Marks the Plot proofreading",
+		"unix_time": 1697283041,
+		"stats": {
+			"covers": "44",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "64,781"
+		}
+	},
+	{
 		"hash": "4bd5e499caa4b88343bc8c7e98933b0e9f148561",
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1697225192,
