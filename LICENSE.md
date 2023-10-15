@@ -1,4 +1,6 @@
-> My words (fiction and code) are licensed under the following CC0 license. Images may be owned by their respective owners and are not subject to this license.
+> My words, both fiction and code, are licensed under the Creative Commons Zero 1.0 Universal License, which can be read below. All images are owned by their respective creators and are not subject to this license.
+>
+> My Little Pony: Friendship is Magic © Hasbro, Inc.
 
 Creative Commons Legal Code
 
