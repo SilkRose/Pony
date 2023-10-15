@@ -126,7 +126,7 @@ Pinkie agrees and lets them vote on it, they pick the left path. As they travel 
 
 "The line is right where they're sleeping; we have to go over," Pinkie says before she hops over each of the sleeping ponies one at a time. The Cutie Mark Crusaders follow behind her, doing the same.
 
-The path rejoins as they get close to the water. Pinkie leads them slightly into the water. Pinkie prances along the path in the water, enjoying the water splashing her.
+The path rejoins as they get close to the water. Pinkie leads them slightly into the water and prances along the path in the water, enjoying the water splashing her.
 
 The Cutie Mark Crusaders follow behind her, splashing each other and giggling happily as they go.
 
@@ -176,7 +176,7 @@ Standing up, she orients herself with the map before setting out on her grand ad
 
 Following the map closely, her eyes dart back and forth between the dotted line on the map and her surroundings.
 
-She walks by what used to be a drawing in the sand, a grand depiction of Cadence. Not having the time to think about the lost art, she trudges forward.
+She walks by a location she swore she's seen art before, but non was present now. Not having the time to think about the lost art, she trudges forward.
 
 Pinkie turns the corner and her Pinkie Sense goes off, tail twitching. She ducks down and waits a few moments before looking up, not seeing anything, she shrugs.
 
@@ -188,9 +188,9 @@ _I've got to figure this out_.
 
 She looks near the edge of the beach, where she recalls the Cutie Mark Crusaders should be, but nopony is there. Pinkie was the only pony at the beach.
 
-Pinkie turns back toward her task and trots down the dotted line. She stops as the path splits before her. Pinkie feels as though she's been down the left path before, she decides to go right.
+Pinkie turns back toward her task and trots down the dotted line. She stops as the path splits before her. Although she feels as if she's been down the left path before, she decides to go right.
 
-The right path leads her onto a giant pile of rocks, at the top she stops to look over the empty beach.
+The right path leads her onto a giant pile of rocks, and at the top she stops to look over the empty beach.
 
 *This is wrong, all wrong,* she thinks as a greater sense of unease washes over her.
 
@@ -208,11 +208,11 @@ She shovels slow and methodically, unlike herself.
 
 *This doesn't feel right.*
 
-Pinkie's shovel hits something, she barely reacts as she starts clearing the item, revealing…
+Pinkie's shovel hits something, but she barely reacts as she starts clearing the item, revealing…
 
-"A book," Pinkie says, not surprised.
+"A book," Pinkie says, not surprised. "Well, let's get this over with."
 
-"Well, let's get this over with." Pinkie sets the small marked red tome in her lap and opens it up. She blows the sand off the page and begins to read aloud…
+Pinkie sets the small marked red tome in her lap and opens it up. She blows the sand off the page and begins to read aloud…
 
 ***
 
@@ -236,9 +236,9 @@ Standing up, she sighs before orienting herself with the map before setting out.
 
 Barely paying attention to the map, Pinkie walks forward, unable to reason with her situation.
 
-*Why am I here?* she thinks as she passes the drawing spot in the sand.
+*Why am I here?* she thinks as she passes a drawing spot in the sand.
 
-Pinkie turns the corner and her Pinkie Sense goes off, tail twitching. She ignores it, knowing there is no ball, but this time, she is struck by something, a small tree branch flies into her dace, startling her.
+Pinkie turns the corner and her Pinkie Sense goes off, tail twitching. She ignores it, knowing there is no ball, but this time, she is struck by something: a small tree branch flies into her face, startling her.
 
 She jumps back and shakes her head, removing the branch.
 
@@ -250,11 +250,11 @@ She looks near the edge of the beach, where the Cutie Mark Crusaders should be, 
 
 *Here we thought we were going to get something fun.*
 
-Pinkie turns back toward her task and trots down the dotted line. She stops as the path splits before her. Pinkie decides to make her own path, not going left or right, she walks towards where she knows the X is.
+Pinkie turns back toward her task and trots down the dotted line. She stops as the path splits before her. Deciding to make her own path, not going left or right, she walks towards where she knows the X is.
 
 *This is wrong, all wrong,* she thinks as she slowly trots to the X.
 
-She sighs as she reaches the X on the map. Pinkie sits down and begins to dig.
+She sighs as she reaches it on the map. Pinkie sits down and begins to dig.
 
 *Here we go again.*
 
@@ -262,12 +262,14 @@ She shovels slow and methodically, unlike herself.
 
 *This can't continue.*
 
+Pinkie starts to cry as she lazily digs in the sand, not wanting to continue, but unable to prevent the inevitable.
+
 Pinkie's shovel hits something, she barely reacts as she starts clearing the item, revealing…
 
 "A book," Pinkie says, not surprised.
 
-*I need help.*
+*I need help…*
 
 Pinkie turns and looks directly at you. "I need your help, I need you to stop reading, please!"
 
-A tear falls from her eye as she sets the small marked pink tome in her lap and opens it up. She blows the sand off the page and begins to read aloud…
+As tears stream down her face, she sets the small marked pink tome in her lap and opens it up. She blows the sand off the page and begins to read aloud…
