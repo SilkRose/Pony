@@ -4,10 +4,12 @@
 A very short 100-word story where Pinkie digs up the story you are reading, and it keeps retelling but with minor differences, and eventually Pinkie notices and somehow escapes the story.
 
 ## Description:
+Pinkie finds a treasure map, where could it lead?
 
+Thanks to [Gapty](https://www.fimfiction.net/user/493938/gapty), [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus), and [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for proofreading parts of this story.
 
 ## Short Description:
-
+Pinkie finds a treasure map, where could it lead?
 
 ## Ideas:
 - 1: the original story – bright and sunny
