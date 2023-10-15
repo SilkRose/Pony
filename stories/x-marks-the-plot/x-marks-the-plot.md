@@ -216,7 +216,7 @@ Pinkie sets the small marked red tome in her lap and opens it up. She blows the 
 
 ***
 
-The sly was black as rain fell down like anvils onto anypony it could find. The waves harsh and accentuated by rolling thunder in the distance.  A lone pony, Pinkie Pie, sits at the far side and plunges her orange plastic shovel into the sand. 
+The sky was black as rain fell down like anvils onto anypony it could find. The waves harsh and accentuated by rolling thunder in the distance.  A lone pony, Pinkie Pie, sits at the far side and plunges her orange plastic shovel into the sand. 
 
 She digs very frantically in the sand, doing her best to ignore the rain and waves crashing into her.
 
@@ -254,9 +254,7 @@ Pinkie turns back toward her task and trots down the dotted line. She stops as t
 
 *This is wrong, all wrong,* she thinks as she slowly trots to the X.
 
-She sighs as she reaches it on the map. Pinkie sits down and begins to dig.
-
-*Here we go again.*
+She sighs as she reaches it on the map. *Here we go again.*
 
 She shovels slow and methodically, unlike herself.
 
@@ -273,3 +271,7 @@ Pinkie's shovel hits something, she barely reacts as she starts clearing the ite
 Pinkie turns and looks directly at you. "I need your help, I need you to stop reading, please!"
 
 As tears stream down her face, she sets the small marked pink tome in her lap and opens it up. She blows the sand off the page and begins to read aloud…
+
+***
+
+The sky rained lightning down onto the ground below, terrifying anypony even remotely close. The waves, tall as six ponies, crashed into the beach at a horrendous pace. A lone pony, Pinkie Pie, sits at the far side, tears flowing from her eyes wildly, as she plunges her pink plastic shovel into the sand.
