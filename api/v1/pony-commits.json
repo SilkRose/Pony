@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "417d4f7d6251403f4ecf4801623cc920963e6f7f",
+		"subject": "Remove www. URL from CNAME in build-api.sh",
+		"unix_time": 1697484994,
+		"stats": {
+			"covers": "44",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
 		"hash": "47aa4fcc6903711f771fa9c809c00f34610ecc1b",
 		"subject": "Update README.md",
 		"unix_time": 1697444321,
