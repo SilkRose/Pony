@@ -7,7 +7,7 @@ fi
 mkdir -p "./dist/api/v1"
 
 touch "./dist/.nojekyll"
-printf "pony.silkrose.dev\nwww.pony.silkrose.dev" > "./dist/CNAME"
+printf "pony.silkrose.dev" > "./dist/CNAME"
 
 sh "./pony-api.sh" > "./dist/api/v1/pony.json"
 
