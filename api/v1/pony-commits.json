@@ -1,10 +1,23 @@
 [
 	{
+		"hash": "bc344017ffc107434d21b1705cd8c55d62226b79",
+		"subject": "Limit cover count to one per folder",
+		"unix_time": 1697487190,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
 		"hash": "971f903226a911549fc4e5eebd09fc46cfab4239",
 		"subject": "Remove www URL from CNAME in build-api.sh",
 		"unix_time": 1697485265,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -17,7 +30,7 @@
 		"subject": "Update README.md",
 		"unix_time": 1697444321,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -30,7 +43,7 @@
 		"subject": "Update LICENSE.md",
 		"unix_time": 1697406016,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -43,7 +56,7 @@
 		"subject": "X Marks the Plot description updates",
 		"unix_time": 1697395301,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -56,7 +69,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1697394958,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -69,7 +82,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1697392928,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -82,7 +95,7 @@
 		"subject": "X Marks the Plot description update",
 		"unix_time": 1697382134,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -95,7 +108,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1697381854,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -108,7 +121,7 @@
 		"subject": "X Marks the Plot description updates",
 		"unix_time": 1697374956,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -121,7 +134,7 @@
 		"subject": "Update README.md",
 		"unix_time": 1697372742,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -134,7 +147,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1697283041,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -147,7 +160,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1697225192,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -160,7 +173,7 @@
 		"subject": "Update LICENSE",
 		"unix_time": 1697224068,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -173,7 +186,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1697194007,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -186,7 +199,7 @@
 		"subject": "Change api timestamps from string to number",
 		"unix_time": 1697187507,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -199,7 +212,7 @@
 		"subject": "Remove variables.json from hashes file",
 		"unix_time": 1697185836,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -212,7 +225,7 @@
 		"subject": "Update api scripts and add build script",
 		"unix_time": 1697181842,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -225,7 +238,7 @@
 		"subject": "Update word count script to check for variable",
 		"unix_time": 1697119612,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -238,7 +251,7 @@
 		"subject": "Fix static api shell script",
 		"unix_time": 1697117370,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -251,7 +264,7 @@
 		"subject": "Update word count shell script",
 		"unix_time": 1697117167,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -264,7 +277,7 @@
 		"subject": "Fix historical api shell script",
 		"unix_time": 1697114173,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -277,7 +290,7 @@
 		"subject": "Update word count shell script to handle 0 words",
 		"unix_time": 1697112212,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -290,7 +303,7 @@
 		"subject": "Add historical stats api shell script",
 		"unix_time": 1697111734,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -303,7 +316,7 @@
 		"subject": "Update .gitignore",
 		"unix_time": 1697108889,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -316,7 +329,7 @@
 		"subject": "Delete api-template.json",
 		"unix_time": 1697025114,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -329,7 +342,7 @@
 		"subject": "Rewrite static api script",
 		"unix_time": 1697024862,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -342,7 +355,7 @@
 		"subject": "Update count scripts for argument handling",
 		"unix_time": 1697024807,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -355,7 +368,7 @@
 		"subject": "Remove else for stories location failure",
 		"unix_time": 1697024729,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -368,7 +381,7 @@
 		"subject": "Remove echo none from location finder script",
 		"unix_time": 1697016668,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -381,7 +394,7 @@
 		"subject": "Add json formatting shell script",
 		"unix_time": 1697016110,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -394,7 +407,7 @@
 		"subject": "Run shell script format script",
 		"unix_time": 1697012375,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -407,7 +420,7 @@
 		"subject": "Add shell script formatting script",
 		"unix_time": 1697012280,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -420,7 +433,7 @@
 		"subject": "Update location finder script",
 		"unix_time": 1697009889,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -433,7 +446,7 @@
 		"subject": "Add location finder shell script",
 		"unix_time": 1697009185,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -446,7 +459,7 @@
 		"subject": "Applejack's Admirer proofreading",
 		"unix_time": 1697003925,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -459,7 +472,7 @@
 		"subject": "The Pink Tax description update",
 		"unix_time": 1696975868,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -472,7 +485,7 @@
 		"subject": "Pony Pillows description update",
 		"unix_time": 1696975438,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -485,7 +498,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1696920866,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -498,7 +511,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1696918663,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -511,7 +524,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1696918245,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -524,7 +537,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1696729093,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -537,7 +550,7 @@
 		"subject": "You and I 01 writing",
 		"unix_time": 1696728108,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -550,7 +563,7 @@
 		"subject": "You and I outline updates",
 		"unix_time": 1696550264,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -563,7 +576,7 @@
 		"subject": "You and I outline updates",
 		"unix_time": 1696533193,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -576,7 +589,7 @@
 		"subject": "Matchbox Ponies description update",
 		"unix_time": 1696267324,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -589,7 +602,7 @@
 		"subject": "Matchbox Ponies add cover",
 		"unix_time": 1696154366,
 		"stats": {
-			"covers": "44",
+			"covers": "29",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -602,7 +615,7 @@
 		"subject": "Unicute add cover",
 		"unix_time": 1695975397,
 		"stats": {
-			"covers": "43",
+			"covers": "28",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -615,7 +628,7 @@
 		"subject": "Move Unicute story idea into folder",
 		"unix_time": 1695975204,
 		"stats": {
-			"covers": "42",
+			"covers": "27",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -628,7 +641,7 @@
 		"subject": "Matchbox Ponies randomize lines",
 		"unix_time": 1695952257,
 		"stats": {
-			"covers": "42",
+			"covers": "27",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -641,7 +654,7 @@
 		"subject": "Add randomize lines shell script",
 		"unix_time": 1695952166,
 		"stats": {
-			"covers": "42",
+			"covers": "27",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -654,7 +667,7 @@
 		"subject": "Remove archive from word count script results",
 		"unix_time": 1695947606,
 		"stats": {
-			"covers": "42",
+			"covers": "27",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -667,7 +680,7 @@
 		"subject": "Us and Unspoken add cover",
 		"unix_time": 1695834627,
 		"stats": {
-			"covers": "42",
+			"covers": "27",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -680,7 +693,7 @@
 		"subject": "Move Us and Unspoken story idea into folder",
 		"unix_time": 1695794837,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -693,7 +706,7 @@
 		"subject": "Matchbox Ponies pruning",
 		"unix_time": 1695786250,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "75",
 			"names": "64",
@@ -706,7 +719,7 @@
 		"subject": "You and I writing",
 		"unix_time": 1695695126,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "75",
 			"names": "64",
@@ -719,7 +732,7 @@
 		"subject": "Add Brideways story idea",
 		"unix_time": 1695674238,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "75",
 			"names": "64",
@@ -732,7 +745,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1695674221,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -745,7 +758,7 @@
 		"subject": "Add Pinkie Practice story idea",
 		"unix_time": 1695674130,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "74",
 			"names": "64",
@@ -758,7 +771,7 @@
 		"subject": "Move Competitive Kissing story into ideas file",
 		"unix_time": 1695674060,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -771,7 +784,7 @@
 		"subject": "Move Campfire Cuddles story into archive",
 		"unix_time": 1695670428,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -784,7 +797,7 @@
 		"subject": "You and I writing",
 		"unix_time": 1695618619,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -797,7 +810,7 @@
 		"subject": "You and I outline updates",
 		"unix_time": 1695610282,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -810,7 +823,7 @@
 		"subject": "Add Holder's Boulder prop",
 		"unix_time": 1695598648,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -823,7 +836,7 @@
 		"subject": "You and I add cover",
 		"unix_time": 1695598561,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -836,7 +849,7 @@
 		"subject": "Move Sneaky Snuggles back into ideas file",
 		"unix_time": 1695598282,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -849,7 +862,7 @@
 		"subject": "You and I writing",
 		"unix_time": 1695345581,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -862,7 +875,7 @@
 		"subject": "You and I start",
 		"unix_time": 1695343322,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -875,7 +888,7 @@
 		"subject": "Move You and I story idea into folder",
 		"unix_time": 1695257821,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -888,7 +901,7 @@
 		"subject": "Move Sneaky Snuggles story idea into folder",
 		"unix_time": 1694988567,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -901,7 +914,7 @@
 		"subject": "Applejack's Admirer description updates",
 		"unix_time": 1694938131,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -914,7 +927,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694937763,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -927,7 +940,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694935101,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -940,7 +953,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694929530,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -953,7 +966,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694917790,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -966,7 +979,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694904700,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -979,7 +992,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1694899359,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -992,7 +1005,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694899334,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1005,7 +1018,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694845398,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1018,7 +1031,7 @@
 		"subject": "Pony Pillows description update",
 		"unix_time": 1694807512,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1031,7 +1044,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694753119,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1044,7 +1057,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1694752977,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1057,7 +1070,7 @@
 		"subject": "Obsidian manage plugins",
 		"unix_time": 1694750309,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1070,7 +1083,7 @@
 		"subject": "Applejack's Admirer proofreading",
 		"unix_time": 1694750065,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1083,7 +1096,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694736395,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1096,7 +1109,7 @@
 		"subject": "Applejack's Admirer proofreading",
 		"unix_time": 1694670206,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1109,7 +1122,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1694667973,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1122,7 +1135,7 @@
 		"subject": "Applejack's Admirer proofreading",
 		"unix_time": 1694634544,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1135,7 +1148,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694628308,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1148,7 +1161,7 @@
 		"subject": "Applejack's Admirer writing",
 		"unix_time": 1694502840,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1161,7 +1174,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1694410144,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1174,7 +1187,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1694069355,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1187,7 +1200,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1694065123,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1200,7 +1213,7 @@
 		"subject": "Add Water Prancing story idea",
 		"unix_time": 1694065108,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "73",
 			"names": "64",
@@ -1213,7 +1226,7 @@
 		"subject": "Add Lying Pies story idea",
 		"unix_time": 1694062853,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "72",
 			"names": "64",
@@ -1226,7 +1239,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1694061014,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1239,7 +1252,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1694053079,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1252,7 +1265,7 @@
 		"subject": "Add Limestone Pie pony images",
 		"unix_time": 1694049772,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1265,7 +1278,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1694045225,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1278,7 +1291,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1694030689,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1291,7 +1304,7 @@
 		"subject": "X Marks the Plot outline updates",
 		"unix_time": 1694027884,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1304,7 +1317,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1694027757,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1317,7 +1330,7 @@
 		"subject": "Rename Destaled to Cardboard Casket",
 		"unix_time": 1694023400,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1330,7 +1343,7 @@
 		"subject": "X Marks the Plot rewrite start",
 		"unix_time": 1693979529,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1343,7 +1356,7 @@
 		"subject": "Add Destaled flash fiction start",
 		"unix_time": 1693893812,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "5",
 			"ideas": "71",
 			"names": "64",
@@ -1356,7 +1369,7 @@
 		"subject": "Add two words to dictionary",
 		"unix_time": 1693893774,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "71",
 			"names": "64",
@@ -1369,7 +1382,7 @@
 		"subject": "Books and Besties outline updates",
 		"unix_time": 1693893755,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "71",
 			"names": "64",
@@ -1382,7 +1395,7 @@
 		"subject": "Add Trixie Lulamoon pony images",
 		"unix_time": 1693861359,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "71",
 			"names": "64",
@@ -1395,7 +1408,7 @@
 		"subject": "Move Date in Five into ideas file",
 		"unix_time": 1693803865,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "71",
 			"names": "64",
@@ -1408,7 +1421,7 @@
 		"subject": "Move An Honest Prank into ideas file",
 		"unix_time": 1693803778,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "70",
 			"names": "64",
@@ -1421,7 +1434,7 @@
 		"subject": "Move Sagwa in Sanctuary into archive",
 		"unix_time": 1693803602,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1434,7 +1447,7 @@
 		"subject": "Sagwa in Sanctuary meta update",
 		"unix_time": 1693803540,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1447,7 +1460,7 @@
 		"subject": "Move Rose's Roaming Respite into archive",
 		"unix_time": 1693803422,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1460,7 +1473,7 @@
 		"subject": "Rose's Roaming Respite meta update",
 		"unix_time": 1693803380,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1473,7 +1486,7 @@
 		"subject": "Move Pony Posterior Prose Party into archive",
 		"unix_time": 1693800654,
 		"stats": {
-			"covers": "40",
+			"covers": "25",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1486,7 +1499,7 @@
 		"subject": "Pony Posterior Prose Party meta and cover updates",
 		"unix_time": 1693800601,
 		"stats": {
-			"covers": "41",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1499,7 +1512,7 @@
 		"subject": "Add Sneaky Snuggle story idea",
 		"unix_time": 1693797885,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "69",
 			"names": "64",
@@ -1512,7 +1525,7 @@
 		"subject": "Add Cuddle Count story idea",
 		"unix_time": 1693797796,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "68",
 			"names": "64",
@@ -1525,7 +1538,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1693793890,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "67",
 			"names": "64",
@@ -1538,7 +1551,7 @@
 		"subject": "Add Perpetually Pink story idea",
 		"unix_time": 1693758205,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "67",
 			"names": "64",
@@ -1551,7 +1564,7 @@
 		"subject": "Add You and I story idea",
 		"unix_time": 1693758101,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "66",
 			"names": "64",
@@ -1564,7 +1577,7 @@
 		"subject": "Add Cover Me Up story idea",
 		"unix_time": 1693758033,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "65",
 			"names": "64",
@@ -1577,7 +1590,7 @@
 		"subject": "Add Desires of a Dead Dash story idea",
 		"unix_time": 1693757954,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "64",
 			"names": "64",
@@ -1590,7 +1603,7 @@
 		"subject": "Pony Pillows proofreading",
 		"unix_time": 1693747036,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1603,7 +1616,7 @@
 		"subject": "Best of Seventy-One description update",
 		"unix_time": 1693708402,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1616,7 +1629,7 @@
 		"subject": "Best of Seventy-One proofreading",
 		"unix_time": 1693689103,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1629,7 +1642,7 @@
 		"subject": "Books and Besties description update",
 		"unix_time": 1693689018,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1642,7 +1655,7 @@
 		"subject": "Best Sister Never description update",
 		"unix_time": 1693688987,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1655,7 +1668,7 @@
 		"subject": "Shower Coffee proofreading",
 		"unix_time": 1693549048,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1668,7 +1681,7 @@
 		"subject": "Add mane six with saddlebags mirrored versions",
 		"unix_time": 1693463841,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1681,7 +1694,7 @@
 		"subject": "Restore Applejack's Admirer concept covers",
 		"unix_time": 1693462322,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1694,7 +1707,7 @@
 		"subject": "Restore The Best Sister Never concept covers",
 		"unix_time": 1693462138,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1707,7 +1720,7 @@
 		"subject": "Restore Best of Seventy-One concept covers",
 		"unix_time": 1693461531,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1720,7 +1733,7 @@
 		"subject": "Restore Creative Freedom concept covers in archive",
 		"unix_time": 1693461250,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1733,7 +1746,7 @@
 		"subject": "Restore Fluttershy Likes Rainbow Dash covers",
 		"unix_time": 1693460576,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1746,7 +1759,7 @@
 		"subject": "Restore Peace Attempts and Panic Attacks covers",
 		"unix_time": 1693460327,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1759,7 +1772,7 @@
 		"subject": "Restore Pink Persuasion concept covers in archive",
 		"unix_time": 1693459884,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1772,7 +1785,7 @@
 		"subject": "Restore Pony Pyramid concept covers into archive",
 		"unix_time": 1693459605,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1785,7 +1798,7 @@
 		"subject": "Restore Saddle Bagged concept covers into archive",
 		"unix_time": 1693459473,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1798,7 +1811,7 @@
 		"subject": "Restore Shower Coffee concept covers into archive",
 		"unix_time": 1693459259,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1811,7 +1824,7 @@
 		"subject": "Move featured images in archive into sub-folders",
 		"unix_time": 1693458640,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1824,7 +1837,7 @@
 		"subject": "Restore Sleeping Arrangements covers into archive",
 		"unix_time": 1693458435,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1837,7 +1850,7 @@
 		"subject": "Restore The Pink Tax concept covers into archive",
 		"unix_time": 1693458094,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1850,7 +1863,7 @@
 		"subject": "Restore featured images into archive folder",
 		"unix_time": 1693457686,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1863,7 +1876,7 @@
 		"subject": "Restore Mail it In story to archive folder",
 		"unix_time": 1693457491,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1876,7 +1889,7 @@
 		"subject": "Move ponies-oc folder into ponies folder",
 		"unix_time": 1693457212,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1889,7 +1902,7 @@
 		"subject": "Move pony templates folder into ponies folder",
 		"unix_time": 1693457114,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1902,7 +1915,7 @@
 		"subject": "Move props folder into ponies folder",
 		"unix_time": 1693457053,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1915,7 +1928,7 @@
 		"subject": "Move mane six ponies into sub-folder",
 		"unix_time": 1693456994,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1928,7 +1941,7 @@
 		"subject": "Move OC ponies into separate folder",
 		"unix_time": 1693455989,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1941,7 +1954,7 @@
 		"subject": "Add mirrored Applejack, Fluttershy, Pinkie, Rarity",
 		"unix_time": 1693455920,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1954,7 +1967,7 @@
 		"subject": "Move accessories into pony-props folder in root",
 		"unix_time": 1693455620,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1967,7 +1980,7 @@
 		"subject": "Add Rarity with stand image",
 		"unix_time": 1693453073,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1980,7 +1993,7 @@
 		"subject": "Add Made in Manehatten stand accessory",
 		"unix_time": 1693452561,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -1993,7 +2006,7 @@
 		"subject": "Add ponies with saddlebag images",
 		"unix_time": 1693451831,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -2006,7 +2019,7 @@
 		"subject": "X Marks the Plot proofreading",
 		"unix_time": 1693384809,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -2019,7 +2032,7 @@
 		"subject": "Add Competitive Kissing story folder",
 		"unix_time": 1693374660,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -2032,7 +2045,7 @@
 		"subject": "Add Silly Service story idea",
 		"unix_time": 1693373896,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "63",
 			"names": "64",
@@ -2045,7 +2058,7 @@
 		"subject": "Add Front Page Blues story idea",
 		"unix_time": 1693373252,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "62",
 			"names": "64",
@@ -2058,7 +2071,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1693368335,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2071,7 +2084,7 @@
 		"subject": "X Marks the Plot writing",
 		"unix_time": 1693366742,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2084,7 +2097,7 @@
 		"subject": "Add Heart Pacing flash fiction",
 		"unix_time": 1693361680,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2097,7 +2110,7 @@
 		"subject": "X Marks the Plot outline updates",
 		"unix_time": 1693358238,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2110,7 +2123,7 @@
 		"subject": "Pony Pillows add cover",
 		"unix_time": 1693354727,
 		"stats": {
-			"covers": "43",
+			"covers": "26",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2123,7 +2136,7 @@
 		"subject": "Add banner 01",
 		"unix_time": 1693354393,
 		"stats": {
-			"covers": "42",
+			"covers": "25",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2136,7 +2149,7 @@
 		"subject": "Add Ticking Love flash fiction",
 		"unix_time": 1693334038,
 		"stats": {
-			"covers": "42",
+			"covers": "25",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2149,7 +2162,7 @@
 		"subject": "X Marks the Plot add cover",
 		"unix_time": 1693191536,
 		"stats": {
-			"covers": "42",
+			"covers": "25",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2162,7 +2175,7 @@
 		"subject": "Fix comma delimited numbers for GitHub Action",
 		"unix_time": 1693159702,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2175,7 +2188,7 @@
 		"subject": "Update branch name for api",
 		"unix_time": 1693158387,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2188,7 +2201,7 @@
 		"subject": "X Marks the Plot start",
 		"unix_time": 1693094068,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2201,7 +2214,7 @@
 		"subject": "Add X Marks the Plot story folder",
 		"unix_time": 1693070150,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2214,7 +2227,7 @@
 		"subject": "Add create story folder shell script",
 		"unix_time": 1693069912,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2227,7 +2240,7 @@
 		"subject": "Remove Somber Silk flash fiction",
 		"unix_time": 1693066131,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "61",
 			"names": "64",
@@ -2240,7 +2253,7 @@
 		"subject": "Remove Silk Script flash fiction",
 		"unix_time": 1693066090,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2253,7 +2266,7 @@
 		"subject": "Replace Python cleaning script with shell script",
 		"unix_time": 1693063718,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2266,7 +2279,7 @@
 		"subject": "Remove Mail it In story",
 		"unix_time": 1693057122,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2279,7 +2292,7 @@
 		"subject": "Replace xargs printf with numfmt in api script",
 		"unix_time": 1693053688,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2292,7 +2305,7 @@
 		"subject": "The Pink Tax description update",
 		"unix_time": 1693047270,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2305,7 +2318,7 @@
 		"subject": "The Heist of My Heart description update",
 		"unix_time": 1693047246,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2318,7 +2331,7 @@
 		"subject": "Pink Persuasion description update",
 		"unix_time": 1693047228,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2331,7 +2344,7 @@
 		"subject": "Love Licks description update",
 		"unix_time": 1693047207,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2344,7 +2357,7 @@
 		"subject": "Timeless Tears cover updates",
 		"unix_time": 1693047044,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2357,7 +2370,7 @@
 		"subject": "The Pink Tax cover updates",
 		"unix_time": 1693046978,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2370,7 +2383,7 @@
 		"subject": "The Heist of My Heart cover updates",
 		"unix_time": 1693046850,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2383,7 +2396,7 @@
 		"subject": "Tethers cover updates",
 		"unix_time": 1693046387,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2396,7 +2409,7 @@
 		"subject": "Sleeping Arrangements cover updates",
 		"unix_time": 1693046207,
 		"stats": {
-			"covers": "41",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2409,7 +2422,7 @@
 		"subject": "Shower Coffee cover updates",
 		"unix_time": 1693046037,
 		"stats": {
-			"covers": "46",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2422,7 +2435,7 @@
 		"subject": "Saddle Bagged cover updates",
 		"unix_time": 1693045909,
 		"stats": {
-			"covers": "46",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2435,7 +2448,7 @@
 		"subject": "Pretty and Pink cover updates",
 		"unix_time": 1693045782,
 		"stats": {
-			"covers": "49",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2448,7 +2461,7 @@
 		"subject": "Pony Pyramid cover updates",
 		"unix_time": 1693045596,
 		"stats": {
-			"covers": "49",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2461,7 +2474,7 @@
 		"subject": "Plush Pondering cover update",
 		"unix_time": 1693045457,
 		"stats": {
-			"covers": "49",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2474,7 +2487,7 @@
 		"subject": "Pink Reflections cover updates",
 		"unix_time": 1693045054,
 		"stats": {
-			"covers": "49",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2487,7 +2500,7 @@
 		"subject": "Pink Persuasion cover updates",
 		"unix_time": 1693044908,
 		"stats": {
-			"covers": "49",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2500,7 +2513,7 @@
 		"subject": "Peace Attempts and Panic Attacks cover updates",
 		"unix_time": 1693044745,
 		"stats": {
-			"covers": "50",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2513,7 +2526,7 @@
 		"subject": "Love Licks cover updates",
 		"unix_time": 1693042827,
 		"stats": {
-			"covers": "50",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2526,7 +2539,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash cover updates",
 		"unix_time": 1693042667,
 		"stats": {
-			"covers": "50",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2539,7 +2552,7 @@
 		"subject": "Diary Duet cover updates",
 		"unix_time": 1693042498,
 		"stats": {
-			"covers": "51",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2552,7 +2565,7 @@
 		"subject": "Darling and Date cover updates",
 		"unix_time": 1693042167,
 		"stats": {
-			"covers": "51",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2565,7 +2578,7 @@
 		"subject": "Creative Freedom cover updates",
 		"unix_time": 1693042010,
 		"stats": {
-			"covers": "51",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2578,7 +2591,7 @@
 		"subject": "Books and Besties cover updates",
 		"unix_time": 1693041893,
 		"stats": {
-			"covers": "51",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2591,7 +2604,7 @@
 		"subject": "Best of Seventy-One cover updates",
 		"unix_time": 1693007709,
 		"stats": {
-			"covers": "51",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2604,7 +2617,7 @@
 		"subject": "A Hug and a Kiss cover updates",
 		"unix_time": 1693007462,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2617,7 +2630,7 @@
 		"subject": "Applejack's Admirer meta update",
 		"unix_time": 1693007429,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2630,7 +2643,7 @@
 		"subject": "Applejack's Admirer cover updates",
 		"unix_time": 1693007354,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2643,7 +2656,7 @@
 		"subject": "A Hug and a Kiss meta file updates",
 		"unix_time": 1693006779,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2656,7 +2669,7 @@
 		"subject": "Update cover count script for new naming scheme",
 		"unix_time": 1693006712,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2669,7 +2682,7 @@
 		"subject": "Remove featured images",
 		"unix_time": 1693006529,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2682,7 +2695,7 @@
 		"subject": "A Hug and a Kiss cover renaming",
 		"unix_time": 1693006432,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2695,7 +2708,7 @@
 		"subject": "Static api add comma delimited numbers",
 		"unix_time": 1692984142,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2708,7 +2721,7 @@
 		"subject": "Add static api github action",
 		"unix_time": 1692960127,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2721,7 +2734,7 @@
 		"subject": "Add static api shell script",
 		"unix_time": 1692958833,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2734,7 +2747,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1692953503,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2747,7 +2760,7 @@
 		"subject": "Matchbox Ponies proofreading",
 		"unix_time": 1692952043,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2760,7 +2773,7 @@
 		"subject": "Best Sister Never add cover",
 		"unix_time": 1692950489,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2773,7 +2786,7 @@
 		"subject": "Rename The Best Sister Never to Best Sister Never",
 		"unix_time": 1692950295,
 		"stats": {
-			"covers": "54",
+			"covers": "23",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2786,7 +2799,7 @@
 		"subject": "The Best Sister Never remove cover",
 		"unix_time": 1692950203,
 		"stats": {
-			"covers": "54",
+			"covers": "23",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2799,7 +2812,7 @@
 		"subject": "Update word count, fix flash fiction link counting",
 		"unix_time": 1692936152,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2812,7 +2825,7 @@
 		"subject": "Move saddlebag from templates to accessory folder",
 		"unix_time": 1692924374,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2825,7 +2838,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1692874458,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2838,7 +2851,7 @@
 		"subject": "Add Somber Silk flash fiction",
 		"unix_time": 1692874443,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "4",
 			"ideas": "61",
 			"names": "64",
@@ -2851,7 +2864,7 @@
 		"subject": "Add cover count shell script",
 		"unix_time": 1692868673,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2864,7 +2877,7 @@
 		"subject": "Add name count shell script",
 		"unix_time": 1692867214,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2877,7 +2890,7 @@
 		"subject": "Add flash fiction count shell script",
 		"unix_time": 1692865168,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2890,7 +2903,7 @@
 		"subject": "Add story count shell script",
 		"unix_time": 1692864905,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2903,7 +2916,7 @@
 		"subject": "Add idea count shell script",
 		"unix_time": 1692858192,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2916,7 +2929,7 @@
 		"subject": "Add word count shell script",
 		"unix_time": 1692857377,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2929,7 +2942,7 @@
 		"subject": "Add Spoopy Boopy story idea",
 		"unix_time": 1692848874,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "61",
 			"names": "64",
@@ -2942,7 +2955,7 @@
 		"subject": "Move src folder contents into root folder",
 		"unix_time": 1692843492,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -2955,7 +2968,7 @@
 		"subject": "Silk Rose add cutie mark ref 1 source files",
 		"unix_time": 1692771215,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -2968,7 +2981,7 @@
 		"subject": "Best of Seventy-One add cover rev 5",
 		"unix_time": 1692767960,
 		"stats": {
-			"covers": "59",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -2981,7 +2994,7 @@
 		"subject": "Move Silk Rose OC into folder, add cutie mark ref",
 		"unix_time": 1692767243,
 		"stats": {
-			"covers": "58",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -2994,7 +3007,7 @@
 		"subject": "Pink Persuasion add cover rev 2",
 		"unix_time": 1692766551,
 		"stats": {
-			"covers": "58",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -3007,7 +3020,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash add cover rev 2",
 		"unix_time": 1692760722,
 		"stats": {
-			"covers": "57",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -3020,7 +3033,7 @@
 		"subject": "Add Crème de la Cuddle story idea",
 		"unix_time": 1692690774,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "60",
 			"names": "64",
@@ -3033,7 +3046,7 @@
 		"subject": "Add Heartbeat Hotel story idea",
 		"unix_time": 1692690677,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "59",
 			"names": "64",
@@ -3046,7 +3059,7 @@
 		"subject": "Add Snuggle Snafu story idea",
 		"unix_time": 1692690550,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "58",
 			"names": "64",
@@ -3059,7 +3072,7 @@
 		"subject": "Add two words to dictionary",
 		"unix_time": 1692690477,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "57",
 			"names": "64",
@@ -3072,7 +3085,7 @@
 		"subject": "Add Unicute story idea",
 		"unix_time": 1692690458,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "57",
 			"names": "64",
@@ -3085,7 +3098,7 @@
 		"subject": "Add Cute Cuddles story idea",
 		"unix_time": 1692690329,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "56",
 			"names": "64",
@@ -3098,7 +3111,7 @@
 		"subject": "Silk Script proofreading",
 		"unix_time": 1692687122,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "55",
 			"names": "64",
@@ -3111,7 +3124,7 @@
 		"subject": "Add Silk Script flash fiction",
 		"unix_time": 1692685794,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "3",
 			"ideas": "55",
 			"names": "64",
@@ -3124,7 +3137,7 @@
 		"subject": "Creative Freedom writing",
 		"unix_time": 1692675215,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3137,7 +3150,7 @@
 		"subject": "Applejack's Admirer add cover, update source",
 		"unix_time": 1692670859,
 		"stats": {
-			"covers": "56",
+			"covers": "24",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3150,7 +3163,7 @@
 		"subject": "Add Princess Twilight mirrored pony",
 		"unix_time": 1692659843,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3163,7 +3176,7 @@
 		"subject": "Add detective Rarity mirrored pony",
 		"unix_time": 1692659816,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3176,7 +3189,7 @@
 		"subject": "Applejack's Admirer update cover src, add concept",
 		"unix_time": 1692596176,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3189,7 +3202,7 @@
 		"subject": "Creative Freedom writing",
 		"unix_time": 1692596046,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3202,7 +3215,7 @@
 		"subject": "Pink Persuasion description update",
 		"unix_time": 1692587891,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3215,7 +3228,7 @@
 		"subject": "Pink Persuasion add featured image",
 		"unix_time": 1692587865,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3228,7 +3241,7 @@
 		"subject": "Applejack's Admirer outline updates",
 		"unix_time": 1692568937,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3241,7 +3254,7 @@
 		"subject": "Add Pinkie Poof story idea",
 		"unix_time": 1692566978,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "55",
 			"names": "64",
@@ -3254,7 +3267,7 @@
 		"subject": "Add Pinkie Problems story idea",
 		"unix_time": 1692566876,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "54",
 			"names": "64",
@@ -3267,7 +3280,7 @@
 		"subject": "Add Silly Siblings story idea",
 		"unix_time": 1692566777,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "53",
 			"names": "64",
@@ -3280,7 +3293,7 @@
 		"subject": "Add Silly Salutations story idea",
 		"unix_time": 1692566709,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "52",
 			"names": "64",
@@ -3293,7 +3306,7 @@
 		"subject": "Add Reading Relief story idea",
 		"unix_time": 1692566551,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "51",
 			"names": "64",
@@ -3306,7 +3319,7 @@
 		"subject": "Add Proper Pony Posture story idea",
 		"unix_time": 1692566449,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "50",
 			"names": "64",
@@ -3319,7 +3332,7 @@
 		"subject": "Add Applejack Arithmetic story idea",
 		"unix_time": 1692566353,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "49",
 			"names": "64",
@@ -3332,7 +3345,7 @@
 		"subject": "Applejack's Admirer description updates",
 		"unix_time": 1692566051,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "48",
 			"names": "64",
@@ -3345,7 +3358,7 @@
 		"subject": "Applejack's Admirer start",
 		"unix_time": 1692509664,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "48",
 			"names": "64",
@@ -3358,7 +3371,7 @@
 		"subject": "Applejack's Admirer add cover concepts, source",
 		"unix_time": 1692507254,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "48",
 			"names": "64",
@@ -3371,7 +3384,7 @@
 		"subject": "Remove places folder",
 		"unix_time": 1692495221,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "48",
 			"names": "64",
@@ -3384,7 +3397,7 @@
 		"subject": "Add Free Cover Coupon promotion image",
 		"unix_time": 1692493740,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "48",
 			"names": "64",
@@ -3397,7 +3410,7 @@
 		"subject": "Add Princess Pampering story idea",
 		"unix_time": 1692482367,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "48",
 			"names": "64",
@@ -3410,7 +3423,7 @@
 		"subject": "Add Pony Prancing Practices story idea",
 		"unix_time": 1692482276,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "47",
 			"names": "64",
@@ -3423,7 +3436,7 @@
 		"subject": "Add Pony Proof Package story idea",
 		"unix_time": 1692482208,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "46",
 			"names": "64",
@@ -3436,7 +3449,7 @@
 		"subject": "Creative Freedom writing",
 		"unix_time": 1692433871,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3449,7 +3462,7 @@
 		"subject": "Ideas file headers update",
 		"unix_time": 1692424413,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3462,7 +3475,7 @@
 		"subject": "Timeless Tears meta fixes",
 		"unix_time": 1692424290,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3475,7 +3488,7 @@
 		"subject": "The Pink Tax meta fixes",
 		"unix_time": 1692424233,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3488,7 +3501,7 @@
 		"subject": "The Heist of My Heart meta fixes",
 		"unix_time": 1692424170,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3501,7 +3514,7 @@
 		"subject": "The Best Sister Never meta fixes",
 		"unix_time": 1692424105,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3514,7 +3527,7 @@
 		"subject": "Tethers meta fixes",
 		"unix_time": 1692424056,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3527,7 +3540,7 @@
 		"subject": "Sleeping Arrangements meta fixes",
 		"unix_time": 1692423979,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3540,7 +3553,7 @@
 		"subject": "Shower Coffee meta fixes",
 		"unix_time": 1692423895,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3553,7 +3566,7 @@
 		"subject": "Sagwa in Sanctuary meta fixes",
 		"unix_time": 1692423831,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3566,7 +3579,7 @@
 		"subject": "Saddle Bagged meta fixes",
 		"unix_time": 1692423704,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3579,7 +3592,7 @@
 		"subject": "Rose's Roaming Respite meta fixes",
 		"unix_time": 1692423573,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3592,7 +3605,7 @@
 		"subject": "Pretty and Pink meta fixes",
 		"unix_time": 1692423197,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3605,7 +3618,7 @@
 		"subject": "Pony Pyramid meta fixes",
 		"unix_time": 1692421888,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3618,7 +3631,7 @@
 		"subject": "Pony Posterior Prose Party meta fixes",
 		"unix_time": 1692421822,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3631,7 +3644,7 @@
 		"subject": "Pony Pillows meta fixes",
 		"unix_time": 1692421689,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3644,7 +3657,7 @@
 		"subject": "Plush Pondering meta fixes",
 		"unix_time": 1692421632,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3657,7 +3670,7 @@
 		"subject": "Pink Reflections meta fixes",
 		"unix_time": 1692421560,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3670,7 +3683,7 @@
 		"subject": "Pink Persuasion meta fixes",
 		"unix_time": 1692421477,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3683,7 +3696,7 @@
 		"subject": "Pink-Mended Sparkles meta fixes",
 		"unix_time": 1692421360,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3696,7 +3709,7 @@
 		"subject": "Peace Attempts and Panic Attacks meta fixes",
 		"unix_time": 1692421300,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3709,7 +3722,7 @@
 		"subject": "Matchbox Ponies meta fixes",
 		"unix_time": 1692420011,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3722,7 +3735,7 @@
 		"subject": "Mail it In meta fixes",
 		"unix_time": 1692419962,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3735,7 +3748,7 @@
 		"subject": "Love Licks meta fixes",
 		"unix_time": 1692419881,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3748,7 +3761,7 @@
 		"subject": "Lime with the Stone meta fixes",
 		"unix_time": 1692419811,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3761,7 +3774,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash meta fixes",
 		"unix_time": 1692419735,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3774,7 +3787,7 @@
 		"subject": "Diary Duet meta fixes",
 		"unix_time": 1692419625,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3787,7 +3800,7 @@
 		"subject": "Date in Five meta fixes",
 		"unix_time": 1692419507,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3800,7 +3813,7 @@
 		"subject": "Darling and Date meta fixes",
 		"unix_time": 1692419467,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3813,7 +3826,7 @@
 		"subject": "Creative Freedom meta fixes",
 		"unix_time": 1692419373,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3826,7 +3839,7 @@
 		"subject": "Campfire Cuddles meta fixes",
 		"unix_time": 1692419320,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3839,7 +3852,7 @@
 		"subject": "Books and Besties meta fixes",
 		"unix_time": 1692419232,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3852,7 +3865,7 @@
 		"subject": "Best of Seventy-One meta fixes",
 		"unix_time": 1692419104,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3865,7 +3878,7 @@
 		"subject": "Applejack's Admirer meta fixes",
 		"unix_time": 1692419046,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3878,7 +3891,7 @@
 		"subject": "An Honest Prank meta fixes",
 		"unix_time": 1692418978,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3891,7 +3904,7 @@
 		"subject": "A Hug and a Kiss meta fixes",
 		"unix_time": 1692418910,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3904,7 +3917,7 @@
 		"subject": "The Saddest Rainbow fix missing new line",
 		"unix_time": 1692415779,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3917,7 +3930,7 @@
 		"subject": "Add credit for Equal Breeze flash fiction",
 		"unix_time": 1692415700,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3930,7 +3943,7 @@
 		"subject": "Remove tags section from templates",
 		"unix_time": 1692415678,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3943,7 +3956,7 @@
 		"subject": "Pony Pillows proofreading",
 		"unix_time": 1692396133,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3956,7 +3969,7 @@
 		"subject": "Add Two Pies and a Pie story idea",
 		"unix_time": 1692391925,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "45",
 			"names": "64",
@@ -3969,7 +3982,7 @@
 		"subject": "Add Pink Prodigy story idea",
 		"unix_time": 1692391839,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "44",
 			"names": "64",
@@ -3982,7 +3995,7 @@
 		"subject": "Add Cyan Cakewalk story idea",
 		"unix_time": 1692391754,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "43",
 			"names": "64",
@@ -3995,7 +4008,7 @@
 		"subject": "Add Impossiblue story idea",
 		"unix_time": 1692391665,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "42",
 			"names": "64",
@@ -4008,7 +4021,7 @@
 		"subject": "Add Pink Petting story idea",
 		"unix_time": 1692391556,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "41",
 			"names": "64",
@@ -4021,7 +4034,7 @@
 		"subject": "Add Pink-Pong story idea",
 		"unix_time": 1692391413,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "40",
 			"names": "64",
@@ -4034,7 +4047,7 @@
 		"subject": "Move Us and Unspoken into ideas file",
 		"unix_time": 1692335007,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "39",
 			"names": "64",
@@ -4047,7 +4060,7 @@
 		"subject": "Move Rainbow-Maned Madness into ideas file",
 		"unix_time": 1692334856,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "38",
 			"names": "64",
@@ -4060,7 +4073,7 @@
 		"subject": "Move National Hug Day into ideas file",
 		"unix_time": 1692334509,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "37",
 			"names": "64",
@@ -4073,7 +4086,7 @@
 		"subject": "Applejack's Admirer outline updates",
 		"unix_time": 1692333823,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "36",
 			"names": "64",
@@ -4086,7 +4099,7 @@
 		"subject": "An Honest Prank outline update",
 		"unix_time": 1692333499,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "36",
 			"names": "64",
@@ -4099,7 +4112,7 @@
 		"subject": "Move A Million Little Kisses into ideas file",
 		"unix_time": 1692333021,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "36",
 			"names": "64",
@@ -4112,7 +4125,7 @@
 		"subject": "A Million Little Kisses add cover idea",
 		"unix_time": 1692332791,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "35",
 			"names": "64",
@@ -4125,7 +4138,7 @@
 		"subject": "Add Performative Venting story idea",
 		"unix_time": 1692330579,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "35",
 			"names": "64",
@@ -4138,7 +4151,7 @@
 		"subject": "Add Pink Poetry story idea",
 		"unix_time": 1692330507,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "34",
 			"names": "64",
@@ -4151,7 +4164,7 @@
 		"subject": "Add Simply Stained story idea",
 		"unix_time": 1692330376,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "33",
 			"names": "64",
@@ -4164,7 +4177,7 @@
 		"subject": "Add Dangerously Cute story idea",
 		"unix_time": 1692330282,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "32",
 			"names": "64",
@@ -4177,7 +4190,7 @@
 		"subject": "Add Silly Sandwich story idea",
 		"unix_time": 1692330191,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "31",
 			"names": "64",
@@ -4190,7 +4203,7 @@
 		"subject": "Pony Pillows outline update",
 		"unix_time": 1692330172,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4203,7 +4216,7 @@
 		"subject": "Pink-Mended Sparkles outline updates",
 		"unix_time": 1692330157,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4216,7 +4229,7 @@
 		"subject": "An Honest Prank outline update",
 		"unix_time": 1692330136,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4229,7 +4242,7 @@
 		"subject": "Update markdown templates",
 		"unix_time": 1692329648,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4242,7 +4255,7 @@
 		"subject": "Remove unused templates",
 		"unix_time": 1692329531,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4255,7 +4268,7 @@
 		"subject": "Pony Pillows proofreading",
 		"unix_time": 1692327789,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4268,7 +4281,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash add custom cover",
 		"unix_time": 1692257357,
 		"stats": {
-			"covers": "55",
+			"covers": "23",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4281,7 +4294,7 @@
 		"subject": "Add Rainbow mirrored, Fluttershy blushing ponies",
 		"unix_time": 1692251819,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4294,7 +4307,7 @@
 		"subject": "Pink Reflections 01 proofreading",
 		"unix_time": 1692239251,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4307,7 +4320,7 @@
 		"subject": "Pony Pillows description updates",
 		"unix_time": 1692168857,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4320,7 +4333,7 @@
 		"subject": "Pony Pillows writing",
 		"unix_time": 1692165108,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4333,7 +4346,7 @@
 		"subject": "Pony Pillows outline updates",
 		"unix_time": 1692163076,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4346,7 +4359,7 @@
 		"subject": "Pony Pillows writing",
 		"unix_time": 1692160673,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4359,7 +4372,7 @@
 		"subject": "Add Trixie, Trixie, and Trixie story idea",
 		"unix_time": 1692159264,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "30",
 			"names": "64",
@@ -4372,7 +4385,7 @@
 		"subject": "Add Equal Breeze flash fiction",
 		"unix_time": 1692150314,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "2",
 			"ideas": "29",
 			"names": "64",
@@ -4385,7 +4398,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1692149984,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "64",
@@ -4398,7 +4411,7 @@
 		"subject": "Pony Pillows writing",
 		"unix_time": 1692145559,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "64",
@@ -4411,7 +4424,7 @@
 		"subject": "Pony Pillow proofreading",
 		"unix_time": 1692142846,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "64",
@@ -4424,7 +4437,7 @@
 		"subject": "Pony Pillows writing",
 		"unix_time": 1692140953,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "64",
@@ -4437,7 +4450,7 @@
 		"subject": "Add one story name",
 		"unix_time": 1692129540,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "64",
@@ -4450,7 +4463,7 @@
 		"subject": "Pony Pillows start",
 		"unix_time": 1692124102,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "63",
@@ -4463,7 +4476,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1692086547,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "63",
@@ -4476,7 +4489,7 @@
 		"subject": "Add three story names",
 		"unix_time": 1692086536,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "63",
@@ -4489,7 +4502,7 @@
 		"subject": "Add Pony Pillows story",
 		"unix_time": 1692086166,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4502,7 +4515,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1692084584,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4515,7 +4528,7 @@
 		"subject": "Pink Reflections 01 writing",
 		"unix_time": 1692084565,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4528,7 +4541,7 @@
 		"subject": "Pink Reflections 01 writing",
 		"unix_time": 1692081181,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4541,7 +4554,7 @@
 		"subject": "Pink Reflections 01 writing",
 		"unix_time": 1692078519,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4554,7 +4567,7 @@
 		"subject": "Timeless Tears add cover source",
 		"unix_time": 1692072413,
 		"stats": {
-			"covers": "54",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4567,7 +4580,7 @@
 		"subject": "Pink Reflections 01 proofreading",
 		"unix_time": 1692070866,
 		"stats": {
-			"covers": "53",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4580,7 +4593,7 @@
 		"subject": "Pink Reflections 01 writing",
 		"unix_time": 1692066931,
 		"stats": {
-			"covers": "53",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4593,7 +4606,7 @@
 		"subject": "Pink Reflections 01 proofreading",
 		"unix_time": 1692063982,
 		"stats": {
-			"covers": "53",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4606,7 +4619,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1692063962,
 		"stats": {
-			"covers": "53",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4619,7 +4632,7 @@
 		"subject": "Pink Reflections 01 start",
 		"unix_time": 1692063895,
 		"stats": {
-			"covers": "53",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4632,7 +4645,7 @@
 		"subject": "Pony Pyramid add cover",
 		"unix_time": 1692060611,
 		"stats": {
-			"covers": "53",
+			"covers": "22",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4645,7 +4658,7 @@
 		"subject": "Add Pony Pyramid story",
 		"unix_time": 1692047599,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4658,7 +4671,7 @@
 		"subject": "Change story idea name",
 		"unix_time": 1692047453,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4671,7 +4684,7 @@
 		"subject": "Add Pinkie's Postmortem Proposition story idea",
 		"unix_time": 1691992341,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "29",
 			"names": "60",
@@ -4684,7 +4697,7 @@
 		"subject": "Lime with the Stone 01 proofreading",
 		"unix_time": 1691992306,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4697,7 +4710,7 @@
 		"subject": "Best of Seventy-One description update",
 		"unix_time": 1691985673,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4710,7 +4723,7 @@
 		"subject": "Best of Seventy-One add featured image",
 		"unix_time": 1691985653,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4723,7 +4736,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1691985624,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4736,7 +4749,7 @@
 		"subject": "Lime with the Stone 01 start",
 		"unix_time": 1691985610,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4749,7 +4762,7 @@
 		"subject": "Lime with the Stone outline updates",
 		"unix_time": 1691976988,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4762,7 +4775,7 @@
 		"subject": "Add Lime with the Stone story",
 		"unix_time": 1691970961,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4775,7 +4788,7 @@
 		"subject": "Add An Honest Prank story",
 		"unix_time": 1691970684,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4788,7 +4801,7 @@
 		"subject": "Add Plush Pondering story",
 		"unix_time": 1691958945,
 		"stats": {
-			"covers": "52",
+			"covers": "21",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4801,7 +4814,7 @@
 		"subject": "Add Rainbow-Maned Madness story",
 		"unix_time": 1691958526,
 		"stats": {
-			"covers": "51",
+			"covers": "20",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4814,7 +4827,7 @@
 		"subject": "Pink Persuasion outline update",
 		"unix_time": 1691958506,
 		"stats": {
-			"covers": "51",
+			"covers": "20",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4827,7 +4840,7 @@
 		"subject": "Pink Persuasion add cover",
 		"unix_time": 1691943956,
 		"stats": {
-			"covers": "51",
+			"covers": "20",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4840,7 +4853,7 @@
 		"subject": "Add Pinkie sitting with Rarity costume pony image",
 		"unix_time": 1691943934,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4853,7 +4866,7 @@
 		"subject": "Best of Seventy-One description update",
 		"unix_time": 1691935947,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4866,7 +4879,7 @@
 		"subject": "Best of Seventy-One proofreading",
 		"unix_time": 1691934668,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4879,7 +4892,7 @@
 		"subject": "Best of Seventy-One proofreading",
 		"unix_time": 1691908509,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4892,7 +4905,7 @@
 		"subject": "Best of Seventy-One writing",
 		"unix_time": 1691905380,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4905,7 +4918,7 @@
 		"subject": "Best of Seventy-One writing",
 		"unix_time": 1691890847,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4918,7 +4931,7 @@
 		"subject": "Best of Seventy-One writing",
 		"unix_time": 1691878186,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4931,7 +4944,7 @@
 		"subject": "Pink Reflections add cover",
 		"unix_time": 1691868580,
 		"stats": {
-			"covers": "50",
+			"covers": "19",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4944,7 +4957,7 @@
 		"subject": "Shower Coffee add cover",
 		"unix_time": 1691827867,
 		"stats": {
-			"covers": "48",
+			"covers": "18",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4957,7 +4970,7 @@
 		"subject": "Pink Reflections add cover concept",
 		"unix_time": 1691772329,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4970,7 +4983,7 @@
 		"subject": "Applejack's Admirer outline and desc updates",
 		"unix_time": 1691718489,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4983,7 +4996,7 @@
 		"subject": "Add detective rarity and magnifying glass images",
 		"unix_time": 1691717683,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -4996,7 +5009,7 @@
 		"subject": "Pink Reflections add summaries",
 		"unix_time": 1691709841,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5009,7 +5022,7 @@
 		"subject": "Pink Reflections outline and desc updates",
 		"unix_time": 1691709701,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5022,7 +5035,7 @@
 		"subject": "Pink Reflections outline updates",
 		"unix_time": 1691687130,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5035,7 +5048,7 @@
 		"subject": "Pink Reflections outline updates",
 		"unix_time": 1691672874,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5048,7 +5061,7 @@
 		"subject": "Pink Persuasion proofreading",
 		"unix_time": 1691672819,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5061,7 +5074,7 @@
 		"subject": "Pink Reflections story update",
 		"unix_time": 1691644921,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5074,7 +5087,7 @@
 		"subject": "Pink Persuasion proofreading",
 		"unix_time": 1691636637,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5087,7 +5100,7 @@
 		"subject": "Add Pink Reflections story",
 		"unix_time": 1691633853,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5100,7 +5113,7 @@
 		"subject": "Best of Seventy-One start",
 		"unix_time": 1691611461,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5113,7 +5126,7 @@
 		"subject": "Add Date in Five story",
 		"unix_time": 1691559633,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5126,7 +5139,7 @@
 		"subject": "Applejack's Admirer synopsis and short desc update",
 		"unix_time": 1691446412,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5139,7 +5152,7 @@
 		"subject": "Add Applejack's Admirer story",
 		"unix_time": 1691401460,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5152,7 +5165,7 @@
 		"subject": "Add National Hug Day story",
 		"unix_time": 1691401272,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5165,7 +5178,7 @@
 		"subject": "Add Us and Unspoken story",
 		"unix_time": 1691401015,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5178,7 +5191,7 @@
 		"subject": "Love Licks add featured image",
 		"unix_time": 1691349257,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5191,7 +5204,7 @@
 		"subject": "Love Licks proofreading",
 		"unix_time": 1691348941,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5204,7 +5217,7 @@
 		"subject": "Shower Coffee proofreading",
 		"unix_time": 1691214652,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5217,7 +5230,7 @@
 		"subject": "Pink-Mended Sparkles writing",
 		"unix_time": 1691213427,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5230,7 +5243,7 @@
 		"subject": "Love Licks proofreading",
 		"unix_time": 1691208374,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5243,7 +5256,7 @@
 		"subject": "Shower Coffee description update",
 		"unix_time": 1691207661,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5256,7 +5269,7 @@
 		"subject": "A Million Little Kisses remove epilogue",
 		"unix_time": 1691206641,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5269,7 +5282,7 @@
 		"subject": "Shower Coffee writing",
 		"unix_time": 1691203718,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5282,7 +5295,7 @@
 		"subject": "Shower Coffee writing",
 		"unix_time": 1691196991,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5295,7 +5308,7 @@
 		"subject": "Shower Coffee writing",
 		"unix_time": 1691196205,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5308,7 +5321,7 @@
 		"subject": "Shower Coffee start",
 		"unix_time": 1691192180,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5321,7 +5334,7 @@
 		"subject": "Timeless Tears description update",
 		"unix_time": 1691175623,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5334,7 +5347,7 @@
 		"subject": "The Pink Tax description update",
 		"unix_time": 1691175601,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5347,7 +5360,7 @@
 		"subject": "The Best Sister Never description update",
 		"unix_time": 1691175578,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5360,7 +5373,7 @@
 		"subject": "Pink Persuasion description update",
 		"unix_time": 1691175558,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5373,7 +5386,7 @@
 		"subject": "Pink-Mended Sparkles description update",
 		"unix_time": 1691175533,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5386,7 +5399,7 @@
 		"subject": "Peace Attempts and Panic Attacks desc update",
 		"unix_time": 1691175515,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5399,7 +5412,7 @@
 		"subject": "Matchbox Ponies description update",
 		"unix_time": 1691175476,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5412,7 +5425,7 @@
 		"subject": "Love Licks description update",
 		"unix_time": 1691175460,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5425,7 +5438,7 @@
 		"subject": "Darling and Date description update",
 		"unix_time": 1691175443,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5438,7 +5451,7 @@
 		"subject": "Rarity and Rainbow Dash add sitting mirrored imgs",
 		"unix_time": 1691112950,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5451,7 +5464,7 @@
 		"subject": "Books and Besties add cover",
 		"unix_time": 1691112879,
 		"stats": {
-			"covers": "47",
+			"covers": "17",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5464,7 +5477,7 @@
 		"subject": "Add Shower Coffee story",
 		"unix_time": 1691051521,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5477,7 +5490,7 @@
 		"subject": "Run cleaner script",
 		"unix_time": 1691046178,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5490,7 +5503,7 @@
 		"subject": "Add two words to dictionary",
 		"unix_time": 1691046153,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5503,7 +5516,7 @@
 		"subject": "Pink-Mended Sparkles writing",
 		"unix_time": 1691046137,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5516,7 +5529,7 @@
 		"subject": "Pink-Mended Sparkles start",
 		"unix_time": 1691038929,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5529,7 +5542,7 @@
 		"subject": "Best of Seventy-One outline updates",
 		"unix_time": 1691007691,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5542,7 +5555,7 @@
 		"subject": "Add hyphen to Pink-Mended Sparkles story name",
 		"unix_time": 1691004909,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5555,7 +5568,7 @@
 		"subject": "Best of Seventy-One add cover version 4",
 		"unix_time": 1691003271,
 		"stats": {
-			"covers": "46",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5568,7 +5581,7 @@
 		"subject": "Add two story names",
 		"unix_time": 1690961440,
 		"stats": {
-			"covers": "45",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "61",
@@ -5581,7 +5594,7 @@
 		"subject": "Add story Pink Mended Sparkles",
 		"unix_time": 1690959402,
 		"stats": {
-			"covers": "45",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "59",
@@ -5594,7 +5607,7 @@
 		"subject": "Love Licks proofreading",
 		"unix_time": 1690953962,
 		"stats": {
-			"covers": "45",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5607,7 +5620,7 @@
 		"subject": "Love Licks writing",
 		"unix_time": 1690951498,
 		"stats": {
-			"covers": "45",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5620,7 +5633,7 @@
 		"subject": "Best of Seventy-One add cover version 3",
 		"unix_time": 1690945173,
 		"stats": {
-			"covers": "45",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5633,7 +5646,7 @@
 		"subject": "Add Pinkie Pie sitting mirrored image",
 		"unix_time": 1690945159,
 		"stats": {
-			"covers": "44",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5646,7 +5659,7 @@
 		"subject": "Best of Seventy-One add new cover version",
 		"unix_time": 1690913426,
 		"stats": {
-			"covers": "44",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5659,7 +5672,7 @@
 		"subject": "Best of Seventy-One add cover and concept covers",
 		"unix_time": 1690874686,
 		"stats": {
-			"covers": "42",
+			"covers": "16",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5672,7 +5685,7 @@
 		"subject": "Love Licks writing",
 		"unix_time": 1690869256,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5685,7 +5698,7 @@
 		"subject": "Add three words to dictionary",
 		"unix_time": 1690863101,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5698,7 +5711,7 @@
 		"subject": "Love Licks writing",
 		"unix_time": 1690863084,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5711,7 +5724,7 @@
 		"subject": "Add sitting AJ, Fluttershy, Pinkie, and Twi images",
 		"unix_time": 1690855633,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5724,7 +5737,7 @@
 		"subject": "Add missing freckles to Applejack",
 		"unix_time": 1690855374,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5737,7 +5750,7 @@
 		"subject": "Add sitting Rarity and Rainbow images",
 		"unix_time": 1690855318,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5750,7 +5763,7 @@
 		"subject": "Update Twilight and Rarity's horns in images",
 		"unix_time": 1690855197,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5763,7 +5776,7 @@
 		"subject": "Add Fluttershy and Rainbow Dash pony images",
 		"unix_time": 1690854942,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5776,7 +5789,7 @@
 		"subject": "Timeless Tears description update",
 		"unix_time": 1690724760,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5789,7 +5802,7 @@
 		"subject": "Move Rarity md file into folder",
 		"unix_time": 1690693569,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5802,7 +5815,7 @@
 		"subject": "Move Pinkie Pie md file into folder",
 		"unix_time": 1690693546,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5815,7 +5828,7 @@
 		"subject": "Update link setting to relative",
 		"unix_time": 1690693535,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5828,7 +5841,7 @@
 		"subject": "Add Applejack, Pinkie, Rarity, Twilight pony imgs",
 		"unix_time": 1690693370,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5841,7 +5854,7 @@
 		"subject": "Add three pony templates",
 		"unix_time": 1690692439,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5854,7 +5867,7 @@
 		"subject": "Timeless Tears add cover, update description",
 		"unix_time": 1690602386,
 		"stats": {
-			"covers": "41",
+			"covers": "15",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5867,7 +5880,7 @@
 		"subject": "Add pony eye templates",
 		"unix_time": 1690602203,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5880,7 +5893,7 @@
 		"subject": "Love Licks writing",
 		"unix_time": 1690601691,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5893,7 +5906,7 @@
 		"subject": "Timeless Tears proofreading",
 		"unix_time": 1690525588,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5906,7 +5919,7 @@
 		"subject": "Creative Freedom writing",
 		"unix_time": 1690513710,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5919,7 +5932,7 @@
 		"subject": "Creative Freedom start",
 		"unix_time": 1690414643,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5932,7 +5945,7 @@
 		"subject": "Pink Persuasion writing",
 		"unix_time": 1690403925,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5945,7 +5958,7 @@
 		"subject": "Pink Persuasion proofreading",
 		"unix_time": 1690399195,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5958,7 +5971,7 @@
 		"subject": "Pink Persuasion proofreading",
 		"unix_time": 1690391921,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5971,7 +5984,7 @@
 		"subject": "Creative Freedom add cover",
 		"unix_time": 1690345548,
 		"stats": {
-			"covers": "40",
+			"covers": "14",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5984,7 +5997,7 @@
 		"subject": "Add Creative Freedom story",
 		"unix_time": 1690330210,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -5997,7 +6010,7 @@
 		"subject": "Add two story names",
 		"unix_time": 1690329421,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "60",
@@ -6010,7 +6023,7 @@
 		"subject": "Timeless Tears proofreading",
 		"unix_time": 1690322938,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6023,7 +6036,7 @@
 		"subject": "Timeless Tears writing",
 		"unix_time": 1690319593,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6036,7 +6049,7 @@
 		"subject": "Timeless Tears proofreading",
 		"unix_time": 1690292151,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6049,7 +6062,7 @@
 		"subject": "Timeless Tears proofreading",
 		"unix_time": 1690255739,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6062,7 +6075,7 @@
 		"subject": "Timeless Tears writing",
 		"unix_time": 1690254503,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6075,7 +6088,7 @@
 		"subject": "Timeless Tears writing",
 		"unix_time": 1690254251,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6088,7 +6101,7 @@
 		"subject": "Add two pony templates",
 		"unix_time": 1690246308,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6101,7 +6114,7 @@
 		"subject": "Timeless Tears writing",
 		"unix_time": 1690242975,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6114,7 +6127,7 @@
 		"subject": "Timeless Tears ending rewrite",
 		"unix_time": 1690240009,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6127,7 +6140,7 @@
 		"subject": "Update cleaning script",
 		"unix_time": 1690229204,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6140,7 +6153,7 @@
 		"subject": "Darling and Date description update",
 		"unix_time": 1690225543,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6153,7 +6166,7 @@
 		"subject": "Timeless Tears start",
 		"unix_time": 1690217206,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6166,7 +6179,7 @@
 		"subject": "Pink Persuasion proofreading",
 		"unix_time": 1690212621,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6179,7 +6192,7 @@
 		"subject": "Darling and Date description updates",
 		"unix_time": 1690207935,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6192,7 +6205,7 @@
 		"subject": "Add two story names",
 		"unix_time": 1690179118,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "58",
@@ -6205,7 +6218,7 @@
 		"subject": "Timeless Tears outline updates",
 		"unix_time": 1690179070,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6218,7 +6231,7 @@
 		"subject": "Pink Persuasion writing",
 		"unix_time": 1690175899,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6231,7 +6244,7 @@
 		"subject": "Add Timeless Tears story",
 		"unix_time": 1690175342,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6244,7 +6257,7 @@
 		"subject": "Pink Persuasion editing",
 		"unix_time": 1690166721,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6257,7 +6270,7 @@
 		"subject": "Pink Persuasion writing",
 		"unix_time": 1690165333,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6270,7 +6283,7 @@
 		"subject": "Pink Persuasion add cover idea",
 		"unix_time": 1690161708,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6283,7 +6296,7 @@
 		"subject": "Pink Persuasion start",
 		"unix_time": 1690157810,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6296,7 +6309,7 @@
 		"subject": "Add two story names",
 		"unix_time": 1690154688,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "56",
@@ -6309,7 +6322,7 @@
 		"subject": "Add three story names",
 		"unix_time": 1690145287,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "54",
@@ -6322,7 +6335,7 @@
 		"subject": "The Pink Tax description update",
 		"unix_time": 1690145218,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6335,7 +6348,7 @@
 		"subject": "Peace Attempts and Panic Attacks outline updates",
 		"unix_time": 1690118668,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6348,7 +6361,7 @@
 		"subject": "Darling and Date 04 proofreading",
 		"unix_time": 1690117960,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6361,7 +6374,7 @@
 		"subject": "Run cleaner script",
 		"unix_time": 1690114492,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6374,7 +6387,7 @@
 		"subject": "Peace Attempts and Panic Attacks outline updates",
 		"unix_time": 1690113519,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6387,7 +6400,7 @@
 		"subject": "Matchbox Ponies update description",
 		"unix_time": 1690110075,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6400,7 +6413,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690095061,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6413,7 +6426,7 @@
 		"subject": "Peace Attempts and Panic Attacks add all covers",
 		"unix_time": 1690086052,
 		"stats": {
-			"covers": "39",
+			"covers": "13",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6426,7 +6439,7 @@
 		"subject": "The Saddest Rainbow proofreading",
 		"unix_time": 1690083348,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6439,7 +6452,7 @@
 		"subject": "Darling and Date 05 proofreading",
 		"unix_time": 1690083273,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6452,7 +6465,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690083205,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6465,7 +6478,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1690068627,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6478,7 +6491,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690068613,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6491,7 +6504,7 @@
 		"subject": "Matchbox Ponies update description",
 		"unix_time": 1690057676,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6504,7 +6517,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1690057652,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6517,7 +6530,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690057640,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6530,7 +6543,7 @@
 		"subject": "The Saddest Rainbow editing",
 		"unix_time": 1690057610,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6543,7 +6556,7 @@
 		"subject": "Add The Saddest Rainbow flash fiction",
 		"unix_time": 1690052656,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "1",
 			"ideas": "28",
 			"names": "51",
@@ -6556,7 +6569,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690050938,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6569,7 +6582,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690049997,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6582,7 +6595,7 @@
 		"subject": "Matchbox Ponies writing",
 		"unix_time": 1690020404,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6595,7 +6608,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1690017384,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6608,7 +6621,7 @@
 		"subject": "Matchbox Ponies start",
 		"unix_time": 1690017368,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6621,7 +6634,7 @@
 		"subject": "Add Matchbox Ponies story",
 		"unix_time": 1690015281,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6634,7 +6647,7 @@
 		"subject": "The Best Sister Never proofreading",
 		"unix_time": 1690013980,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6647,7 +6660,7 @@
 		"subject": "The Best Sister Never add new cover versions",
 		"unix_time": 1690013959,
 		"stats": {
-			"covers": "38",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6660,7 +6673,7 @@
 		"subject": "The Best Sister Never add new cover revisions",
 		"unix_time": 1690013959,
 		"stats": {
-			"covers": "36",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6673,7 +6686,7 @@
 		"subject": "The Best Sister Ever add cover",
 		"unix_time": 1690013959,
 		"stats": {
-			"covers": "35",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6686,7 +6699,7 @@
 		"subject": "The Best Sister Never writing",
 		"unix_time": 1690013959,
 		"stats": {
-			"covers": "34",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6699,7 +6712,7 @@
 		"subject": "The Best Sister Never add cover",
 		"unix_time": 1690013959,
 		"stats": {
-			"covers": "34",
+			"covers": "12",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6712,7 +6725,7 @@
 		"subject": "The Best Sister Never start",
 		"unix_time": 1690013959,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6725,7 +6738,7 @@
 		"subject": "Add The Best Sister Never story idea folder",
 		"unix_time": 1690013922,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6738,7 +6751,7 @@
 		"subject": "Peace Attempts and Panic Attacks proofreading",
 		"unix_time": 1690005497,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6751,7 +6764,7 @@
 		"subject": "Peace Attempts and Panic Attacks proofreading",
 		"unix_time": 1690004450,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6764,7 +6777,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1690003962,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6777,7 +6790,7 @@
 		"subject": "Peace Attempts and Panic Attacks writing",
 		"unix_time": 1690003948,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6790,7 +6803,7 @@
 		"subject": "Peace Attempts and Panic Attacks writing",
 		"unix_time": 1690000110,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6803,7 +6816,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1689994554,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6816,7 +6829,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1689992398,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6829,7 +6842,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1689992383,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6842,7 +6855,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1689991171,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6855,7 +6868,7 @@
 		"subject": "Darling and Date 05 proofreading",
 		"unix_time": 1689987114,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6868,7 +6881,7 @@
 		"subject": "Update .gitignore",
 		"unix_time": 1689986871,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6881,7 +6894,7 @@
 		"subject": "Switch to Language Tools premium",
 		"unix_time": 1689986867,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6894,7 +6907,7 @@
 		"subject": "Peace Attempts and Panic Attacks writing",
 		"unix_time": 1689920498,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6907,7 +6920,7 @@
 		"subject": "Peace Attempts and Panic Attacks start",
 		"unix_time": 1689915558,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6920,7 +6933,7 @@
 		"subject": "Add Peace Attempts and Panic Attacks story folder",
 		"unix_time": 1689913142,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "51",
@@ -6933,7 +6946,7 @@
 		"subject": "Darling and Date 05 proofreading",
 		"unix_time": 1689910352,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -6946,7 +6959,7 @@
 		"subject": "Add Pink Persuasion story",
 		"unix_time": 1689908667,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -6959,7 +6972,7 @@
 		"subject": "The Heist of My Heart update description",
 		"unix_time": 1689906782,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -6972,7 +6985,7 @@
 		"subject": "Add saddlebag pony accessory template",
 		"unix_time": 1689906208,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -6985,7 +6998,7 @@
 		"subject": "The Pink Tax description updates",
 		"unix_time": 1689881953,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -6998,7 +7011,7 @@
 		"subject": "Diary Duet description update",
 		"unix_time": 1689881908,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -7011,7 +7024,7 @@
 		"subject": "The Pink Tax add featured image",
 		"unix_time": 1689881360,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -7024,7 +7037,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1689859925,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -7037,7 +7050,7 @@
 		"subject": "Add Best of Seventy-One story",
 		"unix_time": 1689859868,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -7050,7 +7063,7 @@
 		"subject": "The Pink Tax proofreading",
 		"unix_time": 1689852063,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -7063,7 +7076,7 @@
 		"subject": "Add story names",
 		"unix_time": 1689847729,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "52",
@@ -7076,7 +7089,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1689847647,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7089,7 +7102,7 @@
 		"subject": "The Pink Tax add upscaled cover",
 		"unix_time": 1689845947,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7102,7 +7115,7 @@
 		"subject": "The Pink Tax writing",
 		"unix_time": 1689845886,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7115,7 +7128,7 @@
 		"subject": "The Pink Tax writing",
 		"unix_time": 1689842422,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7128,7 +7141,7 @@
 		"subject": "Remove template from pony template names",
 		"unix_time": 1689826585,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7141,7 +7154,7 @@
 		"subject": "Add more pony templates",
 		"unix_time": 1689826467,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7154,7 +7167,7 @@
 		"subject": "Rename templates folder to markdown-templates",
 		"unix_time": 1689802766,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7167,7 +7180,7 @@
 		"subject": "Add Minecraft chibi pony templates",
 		"unix_time": 1689801225,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7180,7 +7193,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1689765322,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7193,7 +7206,7 @@
 		"subject": "The Pink Tax description updates",
 		"unix_time": 1689762499,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7206,7 +7219,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1689756047,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7219,7 +7232,7 @@
 		"subject": "The Pink Tax add cover",
 		"unix_time": 1689747876,
 		"stats": {
-			"covers": "33",
+			"covers": "11",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7232,7 +7245,7 @@
 		"subject": "Add story names",
 		"unix_time": 1689699002,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "47",
@@ -7245,7 +7258,7 @@
 		"subject": "Add story names",
 		"unix_time": 1689680493,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "44",
@@ -7258,7 +7271,7 @@
 		"subject": "Add names file",
 		"unix_time": 1689679910,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "39",
@@ -7271,7 +7284,7 @@
 		"subject": "Add words to dictionary",
 		"unix_time": 1689679861,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7284,7 +7297,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1689678580,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7297,7 +7310,7 @@
 		"subject": "The Pink Tax writing",
 		"unix_time": 1689671773,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7310,7 +7323,7 @@
 		"subject": "The Pink Tax writing",
 		"unix_time": 1689665367,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7323,7 +7336,7 @@
 		"subject": "Add words to dictionary",
 		"unix_time": 1689665345,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7336,7 +7349,7 @@
 		"subject": "The Pink Tax start",
 		"unix_time": 1689660375,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7349,7 +7362,7 @@
 		"subject": "The Pink Tax outline updates",
 		"unix_time": 1689656662,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7362,7 +7375,7 @@
 		"subject": "Add The Pink Tax story",
 		"unix_time": 1689654851,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7375,7 +7388,7 @@
 		"subject": "Rename Books and Best Friends to Books and Besties",
 		"unix_time": 1689642597,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7388,7 +7401,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1689638430,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7401,7 +7414,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1689585678,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7414,7 +7427,7 @@
 		"subject": "Sleeping Arrangements outline updates",
 		"unix_time": 1689585678,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7427,7 +7440,7 @@
 		"subject": "A Hug and a Kiss add featured image",
 		"unix_time": 1689585678,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7440,7 +7453,7 @@
 		"subject": "Add words to dictionary",
 		"unix_time": 1689585678,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7453,7 +7466,7 @@
 		"subject": "Love Licks writing",
 		"unix_time": 1689485335,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7466,7 +7479,7 @@
 		"subject": "Love Licks outline updates",
 		"unix_time": 1689485265,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7479,7 +7492,7 @@
 		"subject": "Love Licks outline updates",
 		"unix_time": 1689482670,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7492,7 +7505,7 @@
 		"subject": "Love Licks add cover",
 		"unix_time": 1689479263,
 		"stats": {
-			"covers": "32",
+			"covers": "10",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7505,7 +7518,7 @@
 		"subject": "Love Licks add concept cover choices",
 		"unix_time": 1689476056,
 		"stats": {
-			"covers": "31",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7518,7 +7531,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1689475904,
 		"stats": {
-			"covers": "31",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7531,7 +7544,7 @@
 		"subject": "Sleeping Arrangements add new concept covers",
 		"unix_time": 1689411357,
 		"stats": {
-			"covers": "31",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7544,7 +7557,7 @@
 		"subject": "Books and Best Friends update outline",
 		"unix_time": 1689393978,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7557,7 +7570,7 @@
 		"subject": "Remove colons from ideas file",
 		"unix_time": 1689388251,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7570,7 +7583,7 @@
 		"subject": "Add story idea template",
 		"unix_time": 1689388065,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7583,7 +7596,7 @@
 		"subject": "Add pony link templates",
 		"unix_time": 1689387783,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7596,7 +7609,7 @@
 		"subject": "Update story templates",
 		"unix_time": 1689386898,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7609,7 +7622,7 @@
 		"subject": "Update story template, split into two",
 		"unix_time": 1689371903,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7622,7 +7635,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689358669,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7635,7 +7648,7 @@
 		"subject": "Love Licks outline updates",
 		"unix_time": 1689316750,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7648,7 +7661,7 @@
 		"subject": "Love Licks proofreading",
 		"unix_time": 1689312804,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7661,7 +7674,7 @@
 		"subject": "Love Licks writing",
 		"unix_time": 1689257207,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7674,7 +7687,7 @@
 		"subject": "Love Licks proofreading",
 		"unix_time": 1689254901,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7687,7 +7700,7 @@
 		"subject": "Run cleaning script",
 		"unix_time": 1689250196,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7700,7 +7713,7 @@
 		"subject": "Books and Best Friends update outline",
 		"unix_time": 1689248397,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7713,7 +7726,7 @@
 		"subject": "Move Books and Best Friends story into folder",
 		"unix_time": 1689248269,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7726,7 +7739,7 @@
 		"subject": "Add name to story idea, Books and Best Friends",
 		"unix_time": 1689248095,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7739,7 +7752,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1689239383,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7752,7 +7765,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1689239310,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7765,7 +7778,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1689238317,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7778,7 +7791,7 @@
 		"subject": "Add words to dictionary",
 		"unix_time": 1689237500,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7791,7 +7804,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1689237317,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7804,7 +7817,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689211683,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7817,7 +7830,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1689209209,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7830,7 +7843,7 @@
 		"subject": "Add word to dictionary",
 		"unix_time": 1689209183,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7843,7 +7856,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689208194,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7856,7 +7869,7 @@
 		"subject": "Add story idea",
 		"unix_time": 1689196351,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -7869,7 +7882,7 @@
 		"subject": "Darling and Date 05 proofreading",
 		"unix_time": 1689148207,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7882,7 +7895,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689145137,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7895,7 +7908,7 @@
 		"subject": "Disable smart quotes in LanguageTool",
 		"unix_time": 1689145121,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7908,7 +7921,7 @@
 		"subject": "Add pony words to LanguageTool dictionary",
 		"unix_time": 1689145095,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7921,7 +7934,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689142983,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7934,7 +7947,7 @@
 		"subject": "A Hug and a Kiss outline proofreading",
 		"unix_time": 1689142957,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7947,7 +7960,7 @@
 		"subject": "Add LanguageTool plugin",
 		"unix_time": 1689142927,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7960,7 +7973,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689137994,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7973,7 +7986,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689129006,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7986,7 +7999,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689120646,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -7999,7 +8012,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689106869,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8012,7 +8025,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689100104,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8025,7 +8038,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689060023,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8038,7 +8051,7 @@
 		"subject": "A Hug and a Kiss outline updates",
 		"unix_time": 1689054736,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8051,7 +8064,7 @@
 		"subject": "A Hug and a Kiss proofreading",
 		"unix_time": 1689042554,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8064,7 +8077,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689038988,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8077,7 +8090,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689035913,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8090,7 +8103,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689024260,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8103,7 +8116,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1689012423,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8116,7 +8129,7 @@
 		"subject": "A Hug and a Kiss description updates",
 		"unix_time": 1688973772,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8129,7 +8142,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1688972480,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8142,7 +8155,7 @@
 		"subject": "A Hug and a Kiss add cover",
 		"unix_time": 1688962759,
 		"stats": {
-			"covers": "30",
+			"covers": "9",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8155,7 +8168,7 @@
 		"subject": "A Hug and a Kiss add concept covers 1 to 3",
 		"unix_time": 1688957456,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8168,7 +8181,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1688950509,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8181,7 +8194,7 @@
 		"subject": "A Hug and a Kiss outline updates",
 		"unix_time": 1688946963,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8194,7 +8207,7 @@
 		"subject": "A Hug and a Kiss writing",
 		"unix_time": 1688942701,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8207,7 +8220,7 @@
 		"subject": "A Hug and a Kiss start",
 		"unix_time": 1688941020,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8220,7 +8233,7 @@
 		"subject": "A Hug and a Kiss update name capitalization",
 		"unix_time": 1688926823,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8233,7 +8246,7 @@
 		"subject": "Diary Duet replace cover revision 6 with render",
 		"unix_time": 1688926360,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8246,7 +8259,7 @@
 		"subject": "Diary Duet proofreading",
 		"unix_time": 1688910763,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8259,7 +8272,7 @@
 		"subject": "Diary Duet add cover revision 6",
 		"unix_time": 1688910481,
 		"stats": {
-			"covers": "29",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8272,7 +8285,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688875430,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8285,7 +8298,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688796995,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8298,7 +8311,7 @@
 		"subject": "Remove story idea",
 		"unix_time": 1688791220,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "29",
 			"names": "0",
@@ -8311,7 +8324,7 @@
 		"subject": "A Hug and A Kiss outline updates",
 		"unix_time": 1688790685,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8324,7 +8337,7 @@
 		"subject": "A Hug and A Kiss outline updates",
 		"unix_time": 1688768326,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8337,7 +8350,7 @@
 		"subject": "Move A Hug and A Kiss story idea into folder",
 		"unix_time": 1688768222,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8350,7 +8363,7 @@
 		"subject": "Add story idea name, A Hug and A Kiss",
 		"unix_time": 1688768029,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "31",
 			"names": "0",
@@ -8363,7 +8376,7 @@
 		"subject": "Add story idea",
 		"unix_time": 1688749095,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "31",
 			"names": "0",
@@ -8376,7 +8389,7 @@
 		"subject": "Dairy Duet fix outline indentation",
 		"unix_time": 1688714214,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8389,7 +8402,7 @@
 		"subject": "Diary Duet proofreading",
 		"unix_time": 1688710196,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8402,7 +8415,7 @@
 		"subject": "Diary Duet proofreading",
 		"unix_time": 1688708458,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8415,7 +8428,7 @@
 		"subject": "Diary Duet proofreading",
 		"unix_time": 1688707668,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8428,7 +8441,7 @@
 		"subject": "Diary Duet add cover revision 6 full res",
 		"unix_time": 1688705349,
 		"stats": {
-			"covers": "28",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8441,7 +8454,7 @@
 		"subject": "Diary Duet add cover revision 5 full res",
 		"unix_time": 1688705000,
 		"stats": {
-			"covers": "27",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8454,7 +8467,7 @@
 		"subject": "Diary Duet add cover revisions 4 & 5",
 		"unix_time": 1688704741,
 		"stats": {
-			"covers": "26",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8467,7 +8480,7 @@
 		"subject": "Diary Duet proofreading",
 		"unix_time": 1688702707,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8480,7 +8493,7 @@
 		"subject": "Diary Duet writing",
 		"unix_time": 1688701431,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8493,7 +8506,7 @@
 		"subject": "Diary Duet spell numbers out",
 		"unix_time": 1688699515,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8506,7 +8519,7 @@
 		"subject": "Diary Duet add descriptions",
 		"unix_time": 1688680872,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8519,7 +8532,7 @@
 		"subject": "Diary Duet writing",
 		"unix_time": 1688680064,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8532,7 +8545,7 @@
 		"subject": "Diary Duet add day names",
 		"unix_time": 1688672842,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8545,7 +8558,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688629838,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8558,7 +8571,7 @@
 		"subject": "Sleeping Arrangements add new cover diagrams",
 		"unix_time": 1688625753,
 		"stats": {
-			"covers": "24",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8571,7 +8584,7 @@
 		"subject": "Diary Duet rewrite",
 		"unix_time": 1688616778,
 		"stats": {
-			"covers": "22",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8584,7 +8597,7 @@
 		"subject": "Diary Duet outline rewrite",
 		"unix_time": 1688616752,
 		"stats": {
-			"covers": "22",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8597,7 +8610,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688599085,
 		"stats": {
-			"covers": "22",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8610,7 +8623,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688537324,
 		"stats": {
-			"covers": "22",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8623,7 +8636,7 @@
 		"subject": "Diary Duet add cover revision 3 week 1",
 		"unix_time": 1688532392,
 		"stats": {
-			"covers": "22",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8636,7 +8649,7 @@
 		"subject": "Diary Duet outline and file structure updates",
 		"unix_time": 1688530012,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8649,7 +8662,7 @@
 		"subject": "Diary Duet 03 writing",
 		"unix_time": 1688523696,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8662,7 +8675,7 @@
 		"subject": "Diary Duet 02 writing",
 		"unix_time": 1688522047,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8675,7 +8688,7 @@
 		"subject": "Diary Duet 02 writing",
 		"unix_time": 1688502492,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8688,7 +8701,7 @@
 		"subject": "Diary Duet 01 remove entry",
 		"unix_time": 1688502479,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8701,7 +8714,7 @@
 		"subject": "Diary Duet 01 proofreading",
 		"unix_time": 1688494669,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8714,7 +8727,7 @@
 		"subject": "Diary Duet add chapter names",
 		"unix_time": 1688492122,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8727,7 +8740,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1688491260,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8740,7 +8753,7 @@
 		"subject": "Diary Duet move covers into sub folder",
 		"unix_time": 1688487795,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8753,7 +8766,7 @@
 		"subject": "Diary Duet move story files into sub folder",
 		"unix_time": 1688487717,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8766,7 +8779,7 @@
 		"subject": "Diary Duet add cover revision 2",
 		"unix_time": 1688449989,
 		"stats": {
-			"covers": "21",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8779,7 +8792,7 @@
 		"subject": "The Heist of My Heart proofreading",
 		"unix_time": 1688443458,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8792,7 +8805,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688443430,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8805,7 +8818,7 @@
 		"subject": "Love Licks proofreading",
 		"unix_time": 1688428024,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8818,7 +8831,7 @@
 		"subject": "Love Licks outline and filename updates",
 		"unix_time": 1688427504,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8831,7 +8844,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688425995,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8844,7 +8857,7 @@
 		"subject": "Diary Duet 01 proofreading",
 		"unix_time": 1688420663,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8857,7 +8870,7 @@
 		"subject": "Diary Duet 01 writing",
 		"unix_time": 1688419294,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8870,7 +8883,7 @@
 		"subject": "Diary Duet 01 writing",
 		"unix_time": 1688415488,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8883,7 +8896,7 @@
 		"subject": "Diary Duet add cover revision 1",
 		"unix_time": 1688365338,
 		"stats": {
-			"covers": "20",
+			"covers": "8",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8896,7 +8909,7 @@
 		"subject": "Diary Duet add cover concepts",
 		"unix_time": 1688365306,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8909,7 +8922,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688364663,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8922,7 +8935,7 @@
 		"subject": "The Heist of My Heart description updates",
 		"unix_time": 1688313971,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8935,7 +8948,7 @@
 		"subject": "The Heist of My Heart add featured image",
 		"unix_time": 1688313626,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8948,7 +8961,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688266549,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8961,7 +8974,7 @@
 		"subject": "Diary Duet 02 signature and name update",
 		"unix_time": 1688252479,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8974,7 +8987,7 @@
 		"subject": "Diary Duet 01 signature update",
 		"unix_time": 1688252452,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -8987,7 +9000,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1688252424,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9000,7 +9013,7 @@
 		"subject": "Tethers description update",
 		"unix_time": 1688247452,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9013,7 +9026,7 @@
 		"subject": "The Heist of My Heart proofreading",
 		"unix_time": 1688231643,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9026,7 +9039,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688168106,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9039,7 +9052,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688130926,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9052,7 +9065,7 @@
 		"subject": "Darling and Date description update",
 		"unix_time": 1688121686,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9065,7 +9078,7 @@
 		"subject": "Pretty and Pink meta file updates",
 		"unix_time": 1688121632,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9078,7 +9091,7 @@
 		"subject": "The Heist of My Heart proofreading",
 		"unix_time": 1688121445,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9091,7 +9104,7 @@
 		"subject": "The Heist of My Heart proofreading",
 		"unix_time": 1688113882,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9104,7 +9117,7 @@
 		"subject": "The Heist of My Heart outline updates",
 		"unix_time": 1688110565,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9117,7 +9130,7 @@
 		"subject": "The Heist of My Heart proofreading",
 		"unix_time": 1688109097,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9130,7 +9143,7 @@
 		"subject": "The Heist of My Heart add cover",
 		"unix_time": 1688104664,
 		"stats": {
-			"covers": "19",
+			"covers": "7",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9143,7 +9156,7 @@
 		"subject": "The Heist of My Heart outline updates",
 		"unix_time": 1688089645,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9156,7 +9169,7 @@
 		"subject": "Tethers add concept covers",
 		"unix_time": 1688057601,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9169,7 +9182,7 @@
 		"subject": "The Heist of My Heart add concept cover choices",
 		"unix_time": 1688020344,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9182,7 +9195,7 @@
 		"subject": "Darling and Date add concept cover",
 		"unix_time": 1688020239,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9195,7 +9208,7 @@
 		"subject": "Pretty and Pink add concept cover",
 		"unix_time": 1688020185,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9208,7 +9221,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1688020124,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9221,7 +9234,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1687992933,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9234,7 +9247,7 @@
 		"subject": "The Heist of My Heart proofreading",
 		"unix_time": 1687938461,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9247,7 +9260,7 @@
 		"subject": "The Heist of My Heart writing",
 		"unix_time": 1687918198,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9260,7 +9273,7 @@
 		"subject": "The Heist of My Heart writing",
 		"unix_time": 1687900075,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9273,7 +9286,7 @@
 		"subject": "The Heist of My Heart start",
 		"unix_time": 1687851874,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9286,7 +9299,7 @@
 		"subject": "Move The Heist of My Heart story idea into folder",
 		"unix_time": 1687844634,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9299,7 +9312,7 @@
 		"subject": "Update The Heist of My Heart story idea",
 		"unix_time": 1687819492,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "31",
 			"names": "0",
@@ -9312,7 +9325,7 @@
 		"subject": "Add The Heist of My Heart story idea",
 		"unix_time": 1687819403,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "31",
 			"names": "0",
@@ -9325,7 +9338,7 @@
 		"subject": "Update smart typography settings",
 		"unix_time": 1687770799,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9338,7 +9351,7 @@
 		"subject": "Fix single and double quotes, apostrophes",
 		"unix_time": 1687770703,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9351,7 +9364,7 @@
 		"subject": "Update cleaner script",
 		"unix_time": 1687770389,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9364,7 +9377,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1687768817,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9377,7 +9390,7 @@
 		"subject": "Remove pandoc, add smart typography plugin",
 		"unix_time": 1687698202,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9390,7 +9403,7 @@
 		"subject": "Story idea proofreading",
 		"unix_time": 1687694183,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9403,7 +9416,7 @@
 		"subject": "Fix quotes, ellipses, thought commas",
 		"unix_time": 1687692960,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9416,7 +9429,7 @@
 		"subject": "Add cleaner, fixes quotes, ellipses, thought comma",
 		"unix_time": 1687692578,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9429,7 +9442,7 @@
 		"subject": "Sleeping Arrangements 03 proofreading",
 		"unix_time": 1687675320,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9442,7 +9455,7 @@
 		"subject": "Sleeping Arrangements 02 proofreading",
 		"unix_time": 1687674510,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9455,7 +9468,7 @@
 		"subject": "Sleeping Arrangements 01 proofreading",
 		"unix_time": 1687673826,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9468,7 +9481,7 @@
 		"subject": "Sleeping Arrangements description update",
 		"unix_time": 1687671875,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9481,7 +9494,7 @@
 		"subject": "Pretty and Pink proofreading",
 		"unix_time": 1687671723,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9494,7 +9507,7 @@
 		"subject": "Saddle Bagged 02 proofreading",
 		"unix_time": 1687670670,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9507,7 +9520,7 @@
 		"subject": "Saddle Bagged 01 proofreading",
 		"unix_time": 1687670170,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9520,7 +9533,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash proofreading",
 		"unix_time": 1687663858,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9533,7 +9546,7 @@
 		"subject": "Sleeping Arrangements 03 proofreading",
 		"unix_time": 1687663161,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9546,7 +9559,7 @@
 		"subject": "Sleeping Arrangements 02 proofreading",
 		"unix_time": 1687660658,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9559,7 +9572,7 @@
 		"subject": "Sleeping Arrangements rename chapters, fix quotes",
 		"unix_time": 1687656318,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9572,7 +9585,7 @@
 		"subject": "Sleeping Arrangements 01 proofreading",
 		"unix_time": 1687656131,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9585,7 +9598,7 @@
 		"subject": "Pretty and Pink proofreading",
 		"unix_time": 1687652932,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9598,7 +9611,7 @@
 		"subject": "Saddle Bagged 02 proofreading",
 		"unix_time": 1687642654,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9611,7 +9624,7 @@
 		"subject": "Saddle Bagged 01 proofreading",
 		"unix_time": 1687642146,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9624,7 +9637,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash proofreading",
 		"unix_time": 1687639056,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9637,7 +9650,7 @@
 		"subject": "Reorder ideas, add separators",
 		"unix_time": 1687636570,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9650,7 +9663,7 @@
 		"subject": "Add A Million Little Kisses story",
 		"unix_time": 1687636023,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9663,7 +9676,7 @@
 		"subject": "Fluttershy Likes Rainbow Dash rename story file",
 		"unix_time": 1687593890,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9676,7 +9689,7 @@
 		"subject": "Darling and Date 04 writing",
 		"unix_time": 1687580295,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9689,7 +9702,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1687504589,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9702,7 +9715,7 @@
 		"subject": "Saddle Bagged outline updates",
 		"unix_time": 1687502385,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9715,7 +9728,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1687490990,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9728,7 +9741,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1687480894,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9741,7 +9754,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1687480063,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9754,7 +9767,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1687364711,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9767,7 +9780,7 @@
 		"subject": "Darling and Date 04 proofreading",
 		"unix_time": 1687313857,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9780,7 +9793,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1687313523,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9793,7 +9806,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1687233948,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9806,7 +9819,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1687161439,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9819,7 +9832,7 @@
 		"subject": "Darling and Date 02 proofreading",
 		"unix_time": 1687152326,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9832,7 +9845,7 @@
 		"subject": "Darling and Date edit and proofread first scene",
 		"unix_time": 1687136442,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9845,7 +9858,7 @@
 		"subject": "Darling and Date 01 remove last scene",
 		"unix_time": 1687136404,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9858,7 +9871,7 @@
 		"subject": "Darling and Date 04 start",
 		"unix_time": 1687071968,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9871,7 +9884,7 @@
 		"subject": "Darling and Date 05 writing",
 		"unix_time": 1686972122,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9884,7 +9897,7 @@
 		"subject": "Darling and Date 05 writing",
 		"unix_time": 1686955785,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9897,7 +9910,7 @@
 		"subject": "Darling and Date 05 writing",
 		"unix_time": 1686898157,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9910,7 +9923,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1686806360,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9923,7 +9936,7 @@
 		"subject": "Darling and Date 05 writing",
 		"unix_time": 1686803105,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9936,7 +9949,7 @@
 		"subject": "Darling and Date 05 proofreading",
 		"unix_time": 1686793140,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9949,7 +9962,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1686721654,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9962,7 +9975,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1686691060,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9975,7 +9988,7 @@
 		"subject": "Darling and Date 05 writing",
 		"unix_time": 1686639479,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -9988,7 +10001,7 @@
 		"subject": "Darling and Date 05 writing",
 		"unix_time": 1686564944,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10001,7 +10014,7 @@
 		"subject": "Darling and Date 05 start",
 		"unix_time": 1686552680,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10014,7 +10027,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1686473679,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10027,7 +10040,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1686473301,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10040,7 +10053,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1686473275,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10053,7 +10066,7 @@
 		"subject": "Darling and Date remove canvas",
 		"unix_time": 1686451003,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10066,7 +10079,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1686376904,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10079,7 +10092,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1686370819,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10092,7 +10105,7 @@
 		"subject": "Diary Duet remove italics",
 		"unix_time": 1686243006,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10105,7 +10118,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1686209407,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10118,7 +10131,7 @@
 		"subject": "Add 2 story ideas",
 		"unix_time": 1686195495,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "30",
 			"names": "0",
@@ -10131,7 +10144,7 @@
 		"subject": "Add snippet to Rainbow x Rarity story idea",
 		"unix_time": 1686193246,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "0",
@@ -10144,7 +10157,7 @@
 		"subject": "Add 2 story ideas",
 		"unix_time": 1686179820,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "28",
 			"names": "0",
@@ -10157,7 +10170,7 @@
 		"subject": "Add 2 story ideas",
 		"unix_time": 1686131103,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "26",
 			"names": "0",
@@ -10170,7 +10183,7 @@
 		"subject": "Add 4 story ideas",
 		"unix_time": 1686126690,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "24",
 			"names": "0",
@@ -10183,7 +10196,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1686032318,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "20",
 			"names": "0",
@@ -10196,7 +10209,7 @@
 		"subject": "Diary Duet 01 formatting update",
 		"unix_time": 1686025672,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "20",
 			"names": "0",
@@ -10209,7 +10222,7 @@
 		"subject": "Diary Duet outline updates",
 		"unix_time": 1686025204,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "20",
 			"names": "0",
@@ -10222,7 +10235,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1686016918,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "20",
 			"names": "0",
@@ -10235,7 +10248,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685952965,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "20",
 			"names": "0",
@@ -10248,7 +10261,7 @@
 		"subject": "Add 2 story ideas",
 		"unix_time": 1685940245,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "20",
 			"names": "0",
@@ -10261,7 +10274,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685938474,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "18",
 			"names": "0",
@@ -10274,7 +10287,7 @@
 		"subject": "Add 8 story ideas",
 		"unix_time": 1685938458,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "18",
 			"names": "0",
@@ -10287,7 +10300,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685864627,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10300,7 +10313,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685622525,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10313,7 +10326,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685604460,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10326,7 +10339,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685433062,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10339,7 +10352,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685345958,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10352,7 +10365,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1685331180,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10365,7 +10378,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1685325850,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10378,7 +10391,7 @@
 		"subject": "Darling and Date 03 proofreading",
 		"unix_time": 1685257700,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10391,7 +10404,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1685172065,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10404,7 +10417,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1684980189,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10417,7 +10430,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1684914876,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10430,7 +10443,7 @@
 		"subject": "Darling and Date dress designs",
 		"unix_time": 1684893253,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10443,7 +10456,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1684893236,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10456,7 +10469,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1684799747,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10469,7 +10482,7 @@
 		"subject": "Add Silk Rose OC pony",
 		"unix_time": 1684783812,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10482,7 +10495,7 @@
 		"subject": "Add Flywheel Weld OC pony",
 		"unix_time": 1684783619,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10495,7 +10508,7 @@
 		"subject": "Add Rose's Roaming Respite story",
 		"unix_time": 1684783338,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10508,7 +10521,7 @@
 		"subject": "Add Sagwa in Sanctuary story",
 		"unix_time": 1684775145,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10521,7 +10534,7 @@
 		"subject": "Add Campfire Cuddles story",
 		"unix_time": 1684747525,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10534,7 +10547,7 @@
 		"subject": "Add 7 story ideas",
 		"unix_time": 1684746763,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "10",
 			"names": "0",
@@ -10547,7 +10560,7 @@
 		"subject": "Add Love Licks story",
 		"unix_time": 1684742387,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "3",
 			"names": "0",
@@ -10560,7 +10573,7 @@
 		"subject": "Add Continuity of Ponks story idea",
 		"unix_time": 1684738078,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "3",
 			"names": "0",
@@ -10573,7 +10586,7 @@
 		"subject": "Add Twilight x Rarity x Pinkie romance story idea",
 		"unix_time": 1684737904,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "2",
 			"names": "0",
@@ -10586,7 +10599,7 @@
 		"subject": "Add ideas file, added Factorio story idea",
 		"unix_time": 1684737519,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "1",
 			"names": "0",
@@ -10599,7 +10612,7 @@
 		"subject": "Sleeping Arrangements fix italics",
 		"unix_time": 1684737039,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10612,7 +10625,7 @@
 		"subject": "Fix chapter links",
 		"unix_time": 1684736598,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10625,7 +10638,7 @@
 		"subject": "Add Sleeping Arrangements story",
 		"unix_time": 1684736519,
 		"stats": {
-			"covers": "18",
+			"covers": "6",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10638,7 +10651,7 @@
 		"subject": "Add Diary Duet story",
 		"unix_time": 1684733028,
 		"stats": {
-			"covers": "15",
+			"covers": "5",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10651,7 +10664,7 @@
 		"subject": "Fix chapter links",
 		"unix_time": 1684731689,
 		"stats": {
-			"covers": "15",
+			"covers": "5",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10664,7 +10677,7 @@
 		"subject": "Add Pony Posterior Prose Party story",
 		"unix_time": 1684731463,
 		"stats": {
-			"covers": "15",
+			"covers": "5",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10677,7 +10690,7 @@
 		"subject": "Lowercase extentions",
 		"unix_time": 1684728481,
 		"stats": {
-			"covers": "12",
+			"covers": "4",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10690,7 +10703,7 @@
 		"subject": "Add Saddle Bagged story",
 		"unix_time": 1684728265,
 		"stats": {
-			"covers": "12",
+			"covers": "4",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10703,7 +10716,7 @@
 		"subject": "Add Fluttershy Likes Rainbow Dash story",
 		"unix_time": 1684727265,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10716,7 +10729,7 @@
 		"subject": "Add Mail it In story",
 		"unix_time": 1684722733,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10729,7 +10742,7 @@
 		"subject": "Darling and Date 03 writing",
 		"unix_time": 1684665523,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10742,7 +10755,7 @@
 		"subject": "Replace thematic breaks",
 		"unix_time": 1684559600,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10755,7 +10768,7 @@
 		"subject": "Darling and Date 03 start",
 		"unix_time": 1684547068,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10768,7 +10781,7 @@
 		"subject": "Darling and Date outline and file updates",
 		"unix_time": 1684466934,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10781,7 +10794,7 @@
 		"subject": "Pretty and Pink, Darling and Date update meta",
 		"unix_time": 1684401044,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10794,7 +10807,7 @@
 		"subject": "Pretty and Pink proofreading",
 		"unix_time": 1684391614,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10807,7 +10820,7 @@
 		"subject": "Pretty and Pink writing",
 		"unix_time": 1684390932,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10820,7 +10833,7 @@
 		"subject": "Pretty and Pink proofreading",
 		"unix_time": 1684377803,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10833,7 +10846,7 @@
 		"subject": "Pretty and Pink proofreading",
 		"unix_time": 1684377306,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10846,7 +10859,7 @@
 		"subject": "Pretty and Pink proofreading",
 		"unix_time": 1684376168,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10859,7 +10872,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1684373284,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10872,7 +10885,7 @@
 		"subject": "Darling and Date 01 proofreading",
 		"unix_time": 1684358945,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10885,7 +10898,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684310348,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10898,7 +10911,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684228355,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10911,7 +10924,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684221703,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10924,7 +10937,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684199887,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10937,7 +10950,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684129614,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10950,7 +10963,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684116553,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10963,7 +10976,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684102571,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10976,7 +10989,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1684045044,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -10989,7 +11002,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1684030263,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11002,7 +11015,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683972454,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11015,7 +11028,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683963312,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11028,7 +11041,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1683947686,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11041,7 +11054,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683947667,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11054,7 +11067,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683859893,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11067,7 +11080,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683698726,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11080,7 +11093,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683682740,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11093,7 +11106,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683596132,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11106,7 +11119,7 @@
 		"subject": "Update obsidian to 1.2.7",
 		"unix_time": 1683582201,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11119,7 +11132,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683538244,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11132,7 +11145,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683452786,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11145,7 +11158,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683445960,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11158,7 +11171,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683365626,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11171,7 +11184,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683223514,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11184,7 +11197,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683168682,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11197,7 +11210,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683120482,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11210,7 +11223,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683077600,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11223,7 +11236,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1683075414,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11236,7 +11249,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683019106,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11249,7 +11262,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1683007946,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11262,7 +11275,7 @@
 		"subject": "Darling and Date 01 writing",
 		"unix_time": 1683003045,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11275,7 +11288,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1682889283,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11288,7 +11301,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1682850723,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11301,7 +11314,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1682771220,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11314,7 +11327,7 @@
 		"subject": "Add Tethers story",
 		"unix_time": 1682728950,
 		"stats": {
-			"covers": "8",
+			"covers": "3",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11327,7 +11340,7 @@
 		"subject": "Darling and Date outline rework",
 		"unix_time": 1682660991,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11340,7 +11353,7 @@
 		"subject": "Darling and Date outline updates",
 		"unix_time": 1682485473,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11353,7 +11366,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1682408066,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11366,7 +11379,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1682156762,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11379,7 +11392,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681968777,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11392,7 +11405,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681789353,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11405,7 +11418,7 @@
 		"subject": "Add longform and pandoc plugins",
 		"unix_time": 1681748850,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11418,7 +11431,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681710217,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11431,7 +11444,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681427729,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11444,7 +11457,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681347493,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11457,7 +11470,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681245045,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11470,7 +11483,7 @@
 		"subject": "Darling and Date 02 writing",
 		"unix_time": 1681142232,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11483,7 +11496,7 @@
 		"subject": "Darling and Date fix 02 name spelling mistake",
 		"unix_time": 1681041911,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11496,7 +11509,7 @@
 		"subject": "Darling and Date 02 work",
 		"unix_time": 1681041769,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11509,7 +11522,7 @@
 		"subject": "Darling and Date 02 start",
 		"unix_time": 1681002509,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11522,7 +11535,7 @@
 		"subject": "Darling and Date 01 draft complete",
 		"unix_time": 1680951747,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11535,7 +11548,7 @@
 		"subject": "Darling and Date 01 update",
 		"unix_time": 1680875154,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11548,7 +11561,7 @@
 		"subject": "Add Pretty and Pink story",
 		"unix_time": 1680844230,
 		"stats": {
-			"covers": "4",
+			"covers": "2",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11561,7 +11574,7 @@
 		"subject": "Darling and Date more outline work",
 		"unix_time": 1680745530,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11574,7 +11587,7 @@
 		"subject": "Darling and Date more concrete outlines",
 		"unix_time": 1680631110,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11587,7 +11600,7 @@
 		"subject": "Darling and Date work on chapter 1 outline",
 		"unix_time": 1680550577,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11600,7 +11613,7 @@
 		"subject": "Darling and Date 01 fix centered break for GitHub",
 		"unix_time": 1680528193,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11613,7 +11626,7 @@
 		"subject": "Darling and Date 01 change ok to okay",
 		"unix_time": 1680527714,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11626,7 +11639,7 @@
 		"subject": "Add plugins",
 		"unix_time": 1680525948,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11639,7 +11652,7 @@
 		"subject": "Add story template",
 		"unix_time": 1680525927,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11652,7 +11665,7 @@
 		"subject": "Darling and Date 01 update formatting",
 		"unix_time": 1680509700,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11665,7 +11678,7 @@
 		"subject": "Update .gitignore",
 		"unix_time": 1680446022,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11678,7 +11691,7 @@
 		"subject": "Move Darling and Date canvas to correct folder",
 		"unix_time": 1680390675,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11691,7 +11704,7 @@
 		"subject": "Darling and Date add canvas",
 		"unix_time": 1680344141,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11704,7 +11717,7 @@
 		"subject": "Darling and Date rename chapter 1",
 		"unix_time": 1680337298,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11717,7 +11730,7 @@
 		"subject": "Add line breaks",
 		"unix_time": 1680266038,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11730,7 +11743,7 @@
 		"subject": "Add md extension to links",
 		"unix_time": 1680265942,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11743,7 +11756,7 @@
 		"subject": "Add character and location files",
 		"unix_time": 1680265738,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11756,7 +11769,7 @@
 		"subject": "Update README.md",
 		"unix_time": 1680256700,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11769,7 +11782,7 @@
 		"subject": "Darling and Date meta formatting updates",
 		"unix_time": 1680256262,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
@@ -11782,7 +11795,7 @@
 		"subject": "Add Darling and Date story",
 		"unix_time": 1680256058,
 		"stats": {
-			"covers": "2",
+			"covers": "1",
 			"flash_fiction": "0",
 			"ideas": "0",
 			"names": "0",
