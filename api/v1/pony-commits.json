@@ -1,5 +1,31 @@
 [
 	{
+		"hash": "93279c5bd59b35c42540d89b32af999bb1880474",
+		"subject": "Fix hash checking in pony commits API",
+		"unix_time": 1697528135,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
+		"hash": "064b1283428fe15df5a86926ca2dfd18dd8a6289",
+		"subject": "Add one story name",
+		"unix_time": 1697526525,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
 		"hash": "89f78ed605e5ce7bd595fd8eb0d6d1befbfb7627",
 		"subject": "Fix API update detection to compare only hashes",
 		"unix_time": 1697526005,
