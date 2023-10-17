@@ -41,7 +41,7 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
 - **Promotions:** Social previews images like banners.
 - **Shell Scripts:** Scripts for the API, enforcing standards, automating tasks and more.
-- **Stories:** Story folders for all completed and in-progress work. Also, contains an [ideas][Ideas File], and a [names][Names File].
+- **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
 
 ## Readings:
 A few of my stories have had readings made for them, I would like to thank the following ponies for doing readings of my work:
