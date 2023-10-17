@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "89f78ed605e5ce7bd595fd8eb0d6d1befbfb7627",
+		"subject": "Fix API update detection to compare only hashes",
+		"unix_time": 1697526005,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "64",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
 		"hash": "2d00a5da10112f9d77f257b42ddf2cc5b8c021f4",
 		"subject": "Update README.md",
 		"unix_time": 1697524931,
