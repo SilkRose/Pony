@@ -25,11 +25,13 @@ sha256sum build-api.sh \
 pony_commits_json_url=$(jq -r ".pony_commits_json_url" "./variables.json")
 shell_script_hashes_url=$(jq -r ".shell_script_hashes_url" "./variables.json")
 
+remote_hash=$(curl --silent "$shell_script_hashes_url" | sha256sum | awk '{print $1}')
+local_hash=$(sha256sum "./dist/shell-script-hashes" | awk '{print $1}')
+
 if ! curl --output /dev/null --silent --head --fail "$pony_commits_json_url" \
 	|| ! curl --output /dev/null --silent --head --fail "$shell_script_hashes_url"; then
 	status="rebuild"
-elif [ "$(curl --silent "$shell_script_hashes_url" | sha256sum)" \
-	!= "$(sha256sum "./dist/shell-script-hashes")" ]; then
+elif [ "$remote_hash" != "$local_hash" ]; then
 	status="rebuild"
 else
 	status="update"
