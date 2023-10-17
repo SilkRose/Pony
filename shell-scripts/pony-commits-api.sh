@@ -18,9 +18,10 @@ pony_commits=$(curl --silent "$pony_commits_json_url")
 
 get_stats() {
 	hash=$1
-	if [ "$status" = "update" ]; then
+	if [ "$status" != "rebuild" ] \
+		&& echo "$pony_commits" | jq --arg hash "$hash" 'map(.hash) | contains([$hash])' | grep -q "true"; then
 		echo "$pony_commits" | jq --arg hash "$hash" '.[] | select(.hash == $hash) | .stats'
-	elif [ "$status" = "rebuild" ]; then
+	else
 		git checkout --force --quiet "$hash"
 		if [ -d "./shell-scripts" ]; then
 			rm -rf "./shell-scripts"

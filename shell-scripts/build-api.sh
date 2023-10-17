@@ -33,8 +33,6 @@ if ! curl --output /dev/null --silent --head --fail "$pony_commits_json_url" \
 	status="rebuild"
 elif [ "$remote_hash" != "$local_hash" ]; then
 	status="rebuild"
-else
-	status="update"
 fi
 
 sh "./pony-commits-api.sh" "$status" > "./dist/api/v1/pony-commits.json"
