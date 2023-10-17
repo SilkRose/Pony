@@ -14,20 +14,25 @@ git clone "$git_clone_url" pony-temp
 cd "./pony-temp" || exit 1
 
 commits=$(git log mane --format='format:%H\n%s\n%ct')
+pony_commits=$(curl --silent "$pony_commits_json_url")
 
 get_stats() {
 	hash=$1
-	git checkout --force --quiet "$hash"
-	if [ -d "./shell-scripts" ]; then
-		rm -rf "./shell-scripts"
+	if [ "$status" = "update" ]; then
+		echo "$pony_commits" | jq --arg hash "$hash" '.[] | select(.hash == $hash) | .stats'
+	elif [ "$status" = "rebuild" ]; then
+		git checkout --force --quiet "$hash"
+		if [ -d "./shell-scripts" ]; then
+			rm -rf "./shell-scripts"
+		fi
+		mkdir "./shell-scripts"
+		cp -r ../*.sh "./shell-scripts/"
+		cd "./shell-scripts" || exit 1
+		mkdir -p "./dist/api/v1"
+		sh "./pony-api.sh" > "./dist/api/v1/pony.json"
+		cd ..
+		jq . "./shell-scripts/dist/api/v1/pony.json"
 	fi
-	mkdir "./shell-scripts"
-	cp -r ../*.sh "./shell-scripts/"
-	cd "./shell-scripts" || exit 1
-	mkdir -p "./dist/api/v1"
-	sh "./pony-api.sh" > "./dist/api/v1/pony.json"
-	cd ..
-	jq . -c "./shell-scripts/dist/api/v1/pony.json"
 }
 
 echo "$commits" \

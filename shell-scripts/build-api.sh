@@ -32,7 +32,7 @@ elif [ "$(curl --silent "$shell_script_hashes_url" | sha256sum)" \
 	!= "$(sha256sum "./dist/shell-script-hashes")" ]; then
 	status="rebuild"
 else
-	status="upgrade"
+	status="update"
 fi
 
 sh "./pony-commits-api.sh" "$status" > "./dist/api/v1/pony-commits.json"
