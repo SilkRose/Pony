@@ -1,7 +1,7 @@
 # Books and Besties
 
 ## Synopsis:
-Pinkie is stuck at Twilight's in a thunderstorm, and Twilight is trying to get her to read. Pinkie gets and idea as Twilight shovels books her way. She makes a fort out of books that looks like one of the forts on the cover of a book. Twilight is shocked and inquires what she is doing.
+Pinkie is stuck at Twilight's in a thunderstorm, and Twilight is trying to get her to read. Pinkie gets an idea as Twilight shovels books her way. She makes a fort out of books that looks like one of the forts on the cover of a book. Twilight is shocked and inquires what she is doing.
 
 ## Description:
 Twilight tries to get Pinkie to read more while stuck at her house in a thunderstorm; Pinkie has other plans.
@@ -17,7 +17,7 @@ Twilight tries to get Pinkie to read more while stuck at her house in a thunders
 ## Story:
 [Books and Besties](books-and-besties.md)
  - Pinkie is stuck at Twilight's in a thunderstorm, and Twilight is trying to get her to read.
- - Pinkie gets and idea as Twilight shovels books her way.
+ - Pinkie gets an idea as Twilight shovels books her way.
  - She makes a fort out of books that looks like one of the forts on the cover of a book.
  - Twilight is shocked and inquires what she is doing.
  - Pinkie wants Twilight to use her imagination, pretending things are real that are made of books.
