@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-md_files=$(find "../" -type f -name "*.md")
+md_files=$(find "../" -type f -name "*.md" -not -name "README.md")
 
 for file in $md_files; do
 	sed -i \
