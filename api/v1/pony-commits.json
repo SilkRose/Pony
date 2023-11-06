@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "c18d98fc15f62329909cc6f47b7e3e5207cb690b",
+		"subject": "Make clean script ignore the README file",
+		"unix_time": 1699260708,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
 		"hash": "56564601c196f8dfbab4660b7c01a5ef63125237",
 		"subject": "X Marks the Plot run clean script",
 		"unix_time": 1699260438,
