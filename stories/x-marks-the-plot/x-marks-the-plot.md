@@ -192,7 +192,7 @@ Pinkie turns back toward her task and trots down the dotted line. She stops as t
 
 The right path leads her onto a giant pile of rocks, and at the top she stops to look over the empty beach.
 
-*This is wrong, all wrong,* she thinks as a greater sense of unease washes over her.
+*This is wrong, all wrong*, she thinks as a greater sense of unease washes over her.
 
 After her moment of thought, she climbs down the rock, following the path.
 
@@ -224,7 +224,7 @@ She digs very frantically in the sand, doing her best to ignore the rain and wav
 
 As the hole gets deeper and deeper, she begins to calm. _Maybe it isn't here!_ But as soon as she finishes her thought, the shovel hits something in the sand.
 
-*I found it,* Pinkie thinks, shoveling slower. Moments later, she uncovers a small white tome with a red X on the cover. Haphazardly picking it up, she places it in her lap and blows the sand and water off it.
+*I found it*, Pinkie thinks, shoveling slower. Moments later, she uncovers a small white tome with a red X on the cover. Haphazardly picking it up, she places it in her lap and blows the sand and water off it.
 
 She opens the book to the first page. Finding a map, a sense of dread sets in.
 
@@ -252,7 +252,7 @@ She looks near the edge of the beach, where the Cutie Mark Crusaders should be, 
 
 Pinkie turns back toward her task and trots down the dotted line. She stops as the path splits before her. Deciding to make her own path, not going left or right, she walks towards where she knows the X is.
 
-*This is wrong, all wrong,* she thinks as she slowly trots to the X.
+*This is wrong, all wrong*, she thinks as she slowly trots to the X.
 
 She sighs as she reaches it on the map. *Here we go again.*
 
