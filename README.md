@@ -53,6 +53,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Rainbow Infinity Readings]** | [Best of Seventy-One] | [YouTube][Best of Seventy-One reading] |
 | **[Rainbow Infinity Readings]** | [Pony Pillows] | [YouTube][Pony Pillows reading] |
 | **[Pony&Wolf Productions]** | [The Pink Tax] | [YouTube][The Pink Tax reading two] |
+| **[Pony&Wolf Productions]** | [Pony Pillows] | [YouTube][Pony Pillows reading two] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -132,6 +133,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Best of Seventy-One reading]: https://www.youtube.com/watch?v=O7hpeDvzCaM "Youtube"
 [Pony Pillows reading]: https://www.youtube.com/watch?v=O7dc4uZj3xY "YouTube"
 [The Pink Tax reading two]: https://www.youtube.com/watch?v=Nouf1_Sbysc "YouTube"
+[Pony Pillows reading two]: https://www.youtube.com/watch?v=HAcBB6HbQ7k "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
