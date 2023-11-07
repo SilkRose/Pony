@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "fe670ac2afeded761eb7ced116476754927ab2ae",
+		"subject": "Pony Pillows description update",
+		"unix_time": 1699399474,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "65,810"
+		}
+	},
+	{
 		"hash": "c18d98fc15f62329909cc6f47b7e3e5207cb690b",
 		"subject": "Make clean script ignore the README file",
 		"unix_time": 1699260708,
