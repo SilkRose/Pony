@@ -3,6 +3,6 @@
 .obsidian/plugins/**/*.js
 .obsidian/community*
 .obsidian/workspace*
-/code/dist
-/code/pony-temp
+/code/api/dist
+/code/api/pony-temp
 /code/publish
