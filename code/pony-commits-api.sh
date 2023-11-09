@@ -23,16 +23,16 @@ get_stats() {
 		echo "$pony_commits" | jq --arg hash "$hash" '.[] | select(.hash == $hash) | .stats'
 	else
 		git checkout --force --quiet "$hash"
-		if [ -d "./shell-scripts" ]; then
-			rm -rf "./shell-scripts"
+		if [ -d "./code" ]; then
+			rm -rf "./code"
 		fi
-		mkdir "./shell-scripts"
-		cp -r ../*.sh "./shell-scripts/"
-		cd "./shell-scripts" || exit 1
+		mkdir "./code"
+		cp -r ../*.sh "./code/"
+		cd "./code" || exit 1
 		mkdir -p "./dist/api/v1"
 		sh "./pony-api.sh" > "./dist/api/v1/pony.json"
 		cd ..
-		jq . "./shell-scripts/dist/api/v1/pony.json"
+		jq . "./code/dist/api/v1/pony.json"
 	fi
 }
 

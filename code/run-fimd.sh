@@ -17,9 +17,9 @@ md_files=$(find "../" -type f -name "*.md" \
 	-not -name "names.md" \
 	-not -path "*/archive/*" \
 	-path "*/stories/*" -a \
-	-not -path "*/shell-scripts/*" -o \
+	-not -path "*/code/*" -o \
 	-path "*/flash-fiction/*" -a \
-	-not -path "*/shell-scripts/*")
+	-not -path "*/code/*")
 
 for file in $md_files; do
 	path=$(echo "$file" | awk '{sub("..", "./publish")}; {sub(".md", ".txt")} 1')
