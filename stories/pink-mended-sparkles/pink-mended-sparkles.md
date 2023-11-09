@@ -208,5 +208,39 @@ I yawn and get my answer. "Sure."
 
 "Yep!"
 
-I sit quietly and think about my situation.
+I sit quietly and think about my situation some more.
+
+*Not much left in the day, being in the hospital took up most of the day.*
+
+*And the accident took up most of my energy.*
+
+*So, my current schedule is: eat, listen to story, sleep.*
+
+*That sounds good to me.*
+
+I am about to continue my train of thought when something brushes against me, startling me immensely.
+
+"Ah!" I say as I turn to look at whatever it is, only to remember my inability to see.
+
+Pinkie hugs me as my heart returns to my chest, "Shh."
+
+"Sorry…"
+
+She hugs me a little tighter before letting go, saying, "It's okay, nothing to apologize for."
+
+I turn my head and stare at where my hooves should be. "How's the food coming along?"
+
+"Almost done," she says in a cheerful tone.
+
+"Thank you."
+
+"Anything for a friend!"
+
+After a few moments of silence, I hear Pinkie slid something onto the table in front of me. Feeling the heat emanating off it, I deduce it is the pancakes.
+
+Doing my best, I levitate the top pancake and take small bites slowly.
+
+*This is delicious.*
+
+I hear a stifled giggle as I poke my in the cheek with the pancake for the third time.
 
