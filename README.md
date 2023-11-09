@@ -36,11 +36,11 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 
 ## Directory Structure:
 - **Archive:** Anything that is deleted, instead goes here.
+- **Code:** Scripts for the API, enforcing standards, automating tasks and more.
 - **Flash Fiction:** Short stories, typically written in one sitting.
 - **Markdown Templates:** Templates for easily creating new stories and ideas.
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
 - **Promotions:** Social previews images like banners.
-- **Shell Scripts:** Scripts for the API, enforcing standards, automating tasks and more.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
 
 ## Readings:
