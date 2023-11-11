@@ -1,8 +1,5 @@
-.obsidian/plugins/obsidian-languagetool-plugin/data.json
-.obsidian/plugins/**/*.css
-.obsidian/plugins/**/*.js
-.obsidian/community*
-.obsidian/workspace*
+.obsidian/
+.vscode/
 /code/api/dist
 /code/api/pony-temp
 /code/publish
