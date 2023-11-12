@@ -1,12 +1,15 @@
 #!/usr/bin/env sh
 
+set -o errexit
+set -o nounset
+
 story_name="$1"
 synopsis="$2"
 path_name=$(echo "$story_name" | sed -e 's/\([A-Z]\)/\L\1/g' -e 's/ /-/g')
 
 if [ -d "../stories/$path_name" ]; then
-	echo "Folder directory already exists."
-	exit
+	echo "Story folder already exists."
+	exit 1
 fi
 
 mkdir "../stories/$path_name"
