@@ -21,10 +21,10 @@ pony_commits=$(curl --silent "$pony_commits_json_url")
 
 get_stats() {
 	hash=$1
-	if [ "$status" != "rebuild" ] \
+	if [ "$status" = "merge" ] \
 		&& echo "$pony_commits" | jq --arg hash "$hash" 'map(.hash) | contains([$hash])' | grep -q "true"; then
 		echo "$pony_commits" | jq --arg hash "$hash" '.[] | select(.hash == $hash) | .stats'
-	else
+	elif [ "$status" = "rebuild" ]; then
 		git checkout --force --quiet "$hash"
 		if [ -d ./code ]; then
 			rm -rf ./code
