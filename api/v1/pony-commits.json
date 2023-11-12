@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "1d9f782932534831d7e2646388185e88ed13b38c",
+		"subject": "Update shell-script-format.sh",
+		"unix_time": 1699787295,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "8bcc0c727be3446783cc8fb9a79c99128f530d69",
 		"subject": "Update run-fimd.sh",
 		"unix_time": 1699787054,
