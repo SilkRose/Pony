@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "bd751ae03841e6f747b4a124c748406a01514189",
+		"subject": "Update json-format.sh",
+		"unix_time": 1699786586,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "cb7deb7eb184f8e534f0ffc2475cdeefedb4136d",
 		"subject": "Update create-story-folder.sh",
 		"unix_time": 1699786363,
