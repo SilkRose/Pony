@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+set -o errexit
+set -o nounset
+
 if ! command -v shfmt > /dev/null 2>&1; then
 	echo "shfmt is not installed. Please install it."
 	exit 1
