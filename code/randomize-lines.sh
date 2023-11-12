@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+set -o errexit
+set -o nounset
+
 file="$1"
 
 line_one=$(head -n 1 "$file")
