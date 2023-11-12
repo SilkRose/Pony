@@ -31,12 +31,12 @@ shell_script_hashes_url=$(jq -r .shell_script_hashes_url ./variables.json)
 remote_hash=$(curl --silent "$shell_script_hashes_url" | sha256sum | awk '{print $1}')
 local_hash=$(sha256sum ./dist/shell-script-hashes | awk '{print $1}')
 
+status="update"
+
 if ! curl --output /dev/null --silent --head --fail "$pony_commits_json_url" \
 	|| ! curl --output /dev/null --silent --head --fail "$shell_script_hashes_url" \
 	|| [ "$remote_hash" != "$local_hash" ]; then
 	status="rebuild"
-else
-	status="merge"
 fi
 
 sh ./pony-commits-api.sh "$status" > ./dist/api/v1/pony-commits.json
