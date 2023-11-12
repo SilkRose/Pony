@@ -1,4 +1,5 @@
 .obsidian/
+.stfolder/
 .vscode/
 /code/api/dist
 /code/api/pony-temp
