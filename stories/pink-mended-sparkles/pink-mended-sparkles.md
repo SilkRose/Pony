@@ -242,5 +242,5 @@ Doing my best, I levitate the top pancake and take small bites slowly.
 
 *This is delicious.*
 
-I hear a stifled giggle as I poke my in the cheek with the pancake for the third time.
+I hear a stifled giggle as I poke myself in the cheek with the pancake for the third time.
 
