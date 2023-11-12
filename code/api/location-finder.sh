@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+set -o errexit
+set -o nounset
+
 location="$1"
 
 if [ -z "$location" ]; then
@@ -7,7 +10,7 @@ if [ -z "$location" ]; then
 	exit 1
 fi
 
-parent_dir="$(basename "$(dirname "$(pwd)")")"
+parent_dir=$(pwd | awk -F '/' '{print $(NF-1)}')
 
 case "$parent_dir" in
 	"Pony" | "pony-temp")
@@ -24,18 +27,14 @@ esac
 
 case "$location" in
 	"stories" | "flash-fiction")
-		if [ -d "$pony/$location/" ]; then
-			echo "$pony/$location/"
-		elif [ -d "$pony/src/$location/" ]; then
-			echo "$pony/src/$location/"
+		if [ -d "$pony/$location" ]; then
+			echo "$pony/$location"
+		elif [ -d "$pony/src/$location" ]; then
+			echo "$pony/src/$location"
 		fi
 		;;
-	"ideas" | "names")
-		if [ -f "$pony/stories/$location.md" ]; then
-			echo "$pony/stories/$location.md"
-		elif [ -f "$pony/src/stories/$location.md" ]; then
-			echo "$pony/src/stories/$location.md"
-		fi
+	"pony")
+		echo "$pony"
 		;;
 	*)
 		echo "Invalid option: $location" >&2

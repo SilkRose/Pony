@@ -1,9 +1,14 @@
 #!/usr/bin/env sh
 
+set -o errexit
+set -o nounset
+
 stories_location=$1
 flash_fiction_location=$2
 
-if [ -n "$stories_location" ]; then
+total_word_count=0
+
+if [ -d "$stories_location" ]; then
 	md_files=$(find "$stories_location" -type f -name "*.md" \
 		-not -name "*-meta.md" \
 		-not -name "ideas.md" \
@@ -16,7 +21,7 @@ if [ -n "$stories_location" ]; then
 	done
 fi
 
-if [ -n "$flash_fiction_location" ]; then
+if [ -d "$flash_fiction_location" ]; then
 	md_files=$(find "$flash_fiction_location" -type f -name "*.md")
 	for file in $md_files; do
 		word_count=$(sed '/<center>\*\*\*<\/center>\|<p align="center">\*\*\*<\/p>/d' < "$file" \
@@ -27,8 +32,4 @@ if [ -n "$flash_fiction_location" ]; then
 	done
 fi
 
-if [ -n "$total_word_count" ]; then
-	echo "$total_word_count"
-else
-	echo 0
-fi
+echo "$total_word_count"

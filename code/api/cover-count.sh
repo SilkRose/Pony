@@ -1,8 +1,11 @@
 #!/usr/bin/env sh
 
+set -o errexit
+set -o nounset
+
 location="$1"
 
-if [ -n "$location" ]; then
+if [ -d "$location" ]; then
 	cover_count=0
 	story_folders=$(find "$location" -mindepth 1 -maxdepth 1 -type d)
 	for folder in $story_folders; do
