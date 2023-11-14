@@ -9,6 +9,14 @@ export function rmDir(dir: string) {
 	}
 }
 
+export function rmDirs(dirs: string[]) {
+	for (let dir of dirs) {
+		if (fs.existsSync(dir)) {
+			fs.rmSync(dir, { recursive: true, force: true });
+		}
+	}
+}
+
 export function mkDirs(dirs: string[]) {
 	for (let dir of dirs) {
 		fs.mkdir(dir, { recursive: true }, (err) => {
@@ -47,11 +55,23 @@ export function findFilesInDir(startPath: string, extension: string) {
 }
 
 export function writeFile(filename: string, data: string) {
-	fs.writeFileSync(filename, data);
+	const filepath = path.resolve(path.join(process.cwd(), filename));
+	fs.writeFileSync(filepath, data, { encoding: "utf-8" });
 }
 
 export async function fetchJsonData(url: string) {
 	return await fetch(url).then((res) => res.json());
+}
+
+export async function readJsonFile(filename: string) {
+	try {
+		const filepath = path.resolve(path.join(process.cwd(), filename));
+		return await JSON.parse(
+			fs.readFileSync(filepath, { encoding: "utf-8" })
+		);
+	} catch (error) {
+		throw new Error(`Failed to open file: ${filename}`);
+	}
 }
 
 export function jsonFmt(json: string) {
