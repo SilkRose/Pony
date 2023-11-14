@@ -1,8 +1,9 @@
 #!/usr/bin/env bun
 
 import "@total-typescript/ts-reset";
-import { repository } from "./package.json";
-import * as lib from "./lib.ts";
+import { repository } from "./package.json" assert { type: "json" };
+import * as pexec from "./lib/pexec.ts";
+import * as pfs from "./lib/pfs.ts";
 
 await mane();
 
@@ -13,13 +14,13 @@ const links = {
 };
 
 async function mane() {
-	lib.checkInstalled(["git"]);
-	lib.rmDirs(["./dist", "./pony-temp"]);
-	lib.mkDirs(["./dist/api/v1"]);
-	lib.writeFile("./dist/.nojekyll", "");
-	lib.writeFile("./dist/CNAME", "pony.silkrose.dev");
+	pexec.checkInstalled(["git"]);
+	pfs.rmDirs(["./dist", "./pony-temp"]);
+	pfs.mkDirs(["./dist/api/v1"]);
+	pfs.writeFile("./dist/.nojekyll", "");
+	pfs.writeFile("./dist/CNAME", "pony.silkrose.dev");
 	const git_url = repository.url.slice(4);
-	lib.executeCommand(`git clone --quiet ${git_url} pony-temp`);
+	pexec.executeCommand(`git clone --quiet ${git_url} pony-temp`);
 	process.chdir("./pony-temp");
 	console.log(process.cwd());
 }
