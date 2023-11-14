@@ -3,7 +3,7 @@ import path from "path";
 import fs from "fs";
 import { execSync } from "child_process";
 
-export function checkDir(dir: string) {
+export function rmDir(dir: string) {
 	if (fs.existsSync(dir)) {
 		fs.rmSync(dir, { recursive: true, force: true });
 	}
@@ -44,6 +44,10 @@ export function findFilesInDir(startPath: string, extension: string) {
 		}
 	}
 	return results;
+}
+
+export function writeFile(filename: string, data: string) {
+	fs.writeFileSync(filename, data);
 }
 
 export async function fetchJsonData(url: string) {
