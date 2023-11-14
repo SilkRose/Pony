@@ -1,0 +1,21 @@
+{
+	"name": "pony",
+	"module": "api.ts",
+	"type": "module",
+	"scripts": {
+		"plink": "pnpm link --global 2&> /dev/null || exit 0"
+	},
+	"bin": {
+		"pony-api": "./api.ts"
+	},
+	"dependencies": {
+		"fimd": "^1.3.2"
+	},
+	"devDependencies": {
+		"bun-types": "latest",
+		"pnpm": "^8.10.4"
+	},
+	"peerDependencies": {
+		"typescript": "^5.2.2"
+	}
+}

@@ -1,6 +1,8 @@
 .obsidian/
 .stfolder/
 .vscode/
+/code/bun.lockb
 /code/api/dist
 /code/api/pony-temp
+/code/node_modules/
 /code/publish
