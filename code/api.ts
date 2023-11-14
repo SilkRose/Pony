@@ -4,8 +4,7 @@ import "@total-typescript/ts-reset";
 import { repository } from "./package.json" assert { type: "json" };
 import * as pexec from "./lib/pexec.ts";
 import * as pfs from "./lib/pfs.ts";
-
-await mane();
+import * as pjson from "./lib/pjson.ts";
 
 type Commit = {
 	hash: string;
@@ -26,8 +25,10 @@ type Stats = {
 const links = {
 	pony: "https://pony.silkrose.dev/api/v1/pony.json",
 	pony_commits: "https://pony.silkrose.dev/api/v1/pony-commits.json",
-	hashes: "https://pony.silkrose.dev/shell-script-hashes",
+	hash: "https://pony.silkrose.dev/api-hash",
 };
+
+await mane();
 
 async function mane() {
 	pexec.checkInstalled(["git"]);
@@ -41,8 +42,10 @@ async function mane() {
 	const git_log = pexec.executeCommandReturn(
 		'git log mane --format="format:%H\n%s\n%ct"'
 	);
+	let status = "merge";
+	const pony_commits = await pjson.fetchJsonOrFalse(links.pony_commits);
+	if (!pony_commits) status = "rebuild";
 	const commits = getCommitData(git_log);
-	console.log(commits);
 }
 
 function getCommitData(git_log: string) {
