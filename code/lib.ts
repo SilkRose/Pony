@@ -17,7 +17,17 @@ export function mkDirs(dirs: string[]) {
 	}
 }
 
-export function findFilesInDir(startPath: string, filter: string) {
+export function checkInstalled(programs: string[]) {
+	for (let program of programs) {
+		try {
+			execSync(`which "${program}"`);
+		} catch (err) {
+			throw new Error(`Exit: "${program}" is not installed.`);
+		}
+	}
+}
+
+export function findFilesInDir(startPath: string, extension: string) {
 	let results: string[] = [];
 	if (!fs.existsSync(startPath)) {
 		console.log("no dir ", startPath);
@@ -28,8 +38,8 @@ export function findFilesInDir(startPath: string, filter: string) {
 		let filename = path.join(startPath, files[i]);
 		let stat = fs.lstatSync(filename);
 		if (stat.isDirectory()) {
-			results = results.concat(findFilesInDir(filename, filter));
-		} else if (filename.indexOf(filter) >= 0) {
+			results = results.concat(findFilesInDir(filename, extension));
+		} else if (filename.endsWith(extension)) {
 			results.push(filename);
 		}
 	}
