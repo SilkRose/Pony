@@ -67,3 +67,12 @@ export async function readJsonFile(filename: string) {
 		throw new Error(`Failed to open file: ${filename}`);
 	}
 }
+
+export function readFile(filename: string) {
+	try {
+		const filepath = path.resolve(filename);
+		return fs.readFileSync(filepath, { encoding: "utf-8" });
+	} catch (error) {
+		throw new Error(`Failed to open file: ${filename}`);
+	}
+}
