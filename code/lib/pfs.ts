@@ -24,23 +24,42 @@ export function mkDirs(dirs: string[]) {
 	}
 }
 
-export function findFilesInDir(startPath: string, extension: string) {
-	let results: string[] = [];
-	if (!fs.existsSync(startPath)) {
-		console.log("no dir ", startPath);
-		throw Error;
-	}
-	let files = fs.readdirSync(startPath);
-	for (let i = 0; i < files.length; i++) {
-		let filename = path.join(startPath, files[i]);
-		let stat = fs.lstatSync(filename);
-		if (stat.isDirectory()) {
-			results = results.concat(findFilesInDir(filename, extension));
-		} else if (filename.endsWith(extension)) {
-			results.push(filename);
+export function findFilesInDir(
+	dir: string,
+	exts: string[],
+	exDirs: string[],
+	exFiles: string[]
+) {
+	let files: string[] = [];
+	if (!fs.existsSync(dir)) throw new Error("no dir " + dir);
+	loop: for (const pathname of fs.readdirSync(dir)) {
+		const name = path.join(dir, pathname);
+		if (fs.lstatSync(name).isDirectory()) {
+			if (exDirs.length > 0) {
+				for (const exDir of exDirs) {
+					if (name.endsWith(exDir)) continue loop;
+				}
+			}
+			files = files.concat(findFilesInDir(name, exts, exDirs, exFiles));
+		} else {
+			if (exFiles.length > 0) {
+				for (const exFile of exFiles) {
+					if (name.endsWith(exFile)) continue loop;
+				}
+			}
+			if (exts.length > 0) {
+				for (const ext of exts) {
+					if (name.endsWith(ext)) {
+						files.push(name);
+						break;
+					}
+				}
+			} else {
+				files.push(name);
+			}
 		}
 	}
-	return results;
+	return files;
 }
 
 export function writeFile(filename: string, data: string) {
