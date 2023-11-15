@@ -26,7 +26,7 @@ export function mkDirs(dirs: string[]) {
 
 export function findFilesInDir(
 	dir: string,
-	exts: string[],
+	includes: RegExp[],
 	excludes: RegExp[]
 ) {
 	let files: string[] = [];
@@ -34,20 +34,18 @@ export function findFilesInDir(
 	loop: for (const pathname of fs.readdirSync(dir)) {
 		const name = path.join(dir, pathname);
 		if (excludes.length > 0) {
-			for (const exFile of excludes) {
-				if (name.match(exFile)) continue loop;
+			for (const exclude of excludes) {
+				if (name.match(exclude)) continue loop;
 			}
 		}
 		if (fs.lstatSync(name).isDirectory()) {
-			files = files.concat(findFilesInDir(name, exts, excludes));
-		} else if (exts.length > 0) {
-			for (const ext of exts) {
-				if (name.endsWith(ext)) {
-					files.push(name);
-					break;
+			files = files.concat(findFilesInDir(name, includes, excludes));
+		} else {
+			if (includes.length > 0) {
+				for (const include of includes) {
+					if (!name.match(include)) continue loop;
 				}
 			}
-		} else {
 			files.push(name);
 		}
 	}
