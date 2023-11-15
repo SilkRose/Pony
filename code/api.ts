@@ -25,7 +25,7 @@ type Stats = {
 const links = {
 	pony: "https://pony.silkrose.dev/api/v1/pony.json",
 	pony_commits: "https://pony.silkrose.dev/api/v1/pony-commits.json",
-	hash: "https://pony.silkrose.dev/api-hash",
+	template: "https://github.com/SilkRose/Pony/raw/{}/code/api.ts",
 };
 
 await mane();
@@ -42,11 +42,21 @@ async function mane() {
 	const git_log = pexec.executeCommandReturn(
 		'git log mane --format="format:%H\n%s\n%ct\n"'
 	);
-	const pony_commits: Commit[] | false = await pfetch.fetchJsonOrFalse(
+	let pony_commits: Commit[] | false = await pfetch.fetchJsonOrFalse(
 		links.pony_commits
 	);
+	if (pony_commits)
+		pony_commits = (await checkAPIFiles(pony_commits[0].hash))
+			? pony_commits
+			: false;
 	const commits = getCommitData(git_log, pony_commits);
-	console.log(commits);
+}
+
+async function checkAPIFiles(hash: string) {
+	const latest = await pfetch.fetchOrFalse(links.template.replace("{}", "mane"));
+	const latest_api = await pfetch.fetchOrFalse(links.template.replace("{}", hash));
+	if (!latest || !latest_api) return false;
+	return latest === latest_api;
 }
 
 function getCommitData(git_log: string, pony_commits: Commit[] | false) {
@@ -67,7 +77,6 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 		if (commit) return commit.stats;
 	}
 	pexec.executeCommand(`git checkout --quiet ${hash}`);
-	console.log(hash);
 	return {
 		covers: "",
 		flash_fiction: "",
