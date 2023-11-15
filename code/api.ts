@@ -51,7 +51,9 @@ async function mane() {
 		pony_commits = (await checkAPIFiles(pony_commits[0].hash))
 			? pony_commits
 			: false;
+	pony_commits = false;
 	const commits = getCommitData(git_log, pony_commits);
+	console.log(commits.reverse());
 }
 
 async function checkAPIFiles(hash: string) {
@@ -83,10 +85,10 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 		if (commit) return commit.stats;
 	}
 	pexec.executeCommand(`git checkout --quiet ${hash}`);
-	const story_folder = getDirOrFalse("stories");
+	const stories_folder = getDirOrFalse("stories");
 	const flash_fiction_folder = getDirOrFalse("flash-fiction");
 	return {
-		covers: "",
+		covers: stories_folder ? countCovers(stories_folder) : "0",
 		flash_fiction: "",
 		ideas: "",
 		names: "",
@@ -103,4 +105,23 @@ function getDirOrFalse(dir: string) {
 	} else {
 		return false;
 	}
+}
+
+function countCovers(stories_folder: string) {
+	return Array.from(
+		new Set(
+			pfs
+				.findFilesInDir(
+					stories_folder,
+					[/cover/],
+					[/concept/, /\.xcf$/, /upscaled/]
+				)
+				.map((c) => {
+					const split_path = c.split(path.sep);
+					return split_path
+						.slice(0, split_path.indexOf("stories") + 2)
+						.join(path.sep);
+				})
+		)
+	).length;
 }
