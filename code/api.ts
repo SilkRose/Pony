@@ -89,7 +89,9 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 	const flash_fiction_folder = getDirOrFalse("flash-fiction");
 	return {
 		covers: stories_folder ? countCovers(stories_folder) : "0",
-		flash_fiction: "",
+		flash_fiction: flash_fiction_folder
+			? countFlashFiction(flash_fiction_folder)
+			: "0",
 		ideas: "",
 		names: "",
 		stories: "",
@@ -123,5 +125,11 @@ function countCovers(stories_folder: string) {
 						.join(path.sep);
 				})
 		)
-	).length;
+	).length.toLocaleString("en-US");
+}
+
+function countFlashFiction(flash_fiction_folder: string) {
+	return pfs
+		.findFilesInDir(flash_fiction_folder, [/\.md$/], [])
+		.length.toLocaleString("en-US");
 }
