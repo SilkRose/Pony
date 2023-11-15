@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "b28a786027b69d04347333d0f60d43cba4565580",
+		"subject": "Replace extensions with RegExp in find files fn",
+		"unix_time": 1700038895,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "2b6b7ef3ef4bcd918fea216e3f212330d7c7c73b",
 		"subject": "Change exclude dirs and files to RegExp",
 		"unix_time": 1700037443,
