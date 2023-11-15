@@ -4,7 +4,7 @@ import "@total-typescript/ts-reset";
 import { repository } from "./package.json" assert { type: "json" };
 import * as pexec from "./lib/pexec.ts";
 import * as pfs from "./lib/pfs.ts";
-import * as pjson from "./lib/pjson.ts";
+import * as pfetch from "./lib/pfetch.ts";
 
 type Commit = {
 	hash: string;
@@ -43,7 +43,7 @@ async function mane() {
 		'git log mane --format="format:%H\n%s\n%ct"'
 	);
 	let status = "merge";
-	const pony_commits = await pjson.fetchJsonOrFalse(links.pony_commits);
+	const pony_commits = await pfetch.fetchJsonOrFalse(links.pony_commits);
 	if (!pony_commits) status = "rebuild";
 	const commits = getCommitData(git_log);
 }
