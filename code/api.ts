@@ -40,22 +40,22 @@ async function mane() {
 	pexec.executeCommand(`git clone --quiet ${git_url} pony-temp`);
 	process.chdir("./pony-temp");
 	const git_log = pexec.executeCommandReturn(
-		'git log mane --format="format:%H\n%s\n%ct"'
+		'git log mane --format="format:%H\n%s\n%ct\n"'
 	);
 	let status = "merge";
 	const pony_commits = await pfetch.fetchJsonOrFalse(links.pony_commits);
 	if (!pony_commits) status = "rebuild";
 	const commits = getCommitData(git_log);
+	console.log(commits);
 }
 
 function getCommitData(git_log: string) {
-	let commits: Commit[] = [];
-	const log = git_log.split("\n");
-	for (let i = 0; i < log.length; i += 3) {
-		commits.push({
-			hash: log[i],
-			subject: log[i + 1],
-			unix_time: Number(log[i + 2]),
+	const commits: Commit[] = git_log.split("\n\n").map((commit) => {
+		const [hash, subject, unix_time] = commit.split("\n");
+		return {
+			hash,
+			subject,
+			unix_time: Number(unix_time),
 			stats: {
 				covers: "",
 				flash_fiction: "",
@@ -64,7 +64,7 @@ function getCommitData(git_log: string) {
 				stories: "",
 				words: "",
 			},
-		});
-	}
+		};
+	});
 	return commits;
 }
