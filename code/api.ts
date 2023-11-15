@@ -92,8 +92,12 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 		flash_fiction: flash_fiction_folder
 			? countFlashFiction(flash_fiction_folder)
 			: "0",
-		ideas: "",
-		names: "",
+		ideas: stories_folder
+			? countFromFile(stories_folder, "ideas.md", "## ")
+			: "0",
+		names: stories_folder
+			? countFromFile(stories_folder, "names.md", "- ")
+			: "0",
 		stories: "",
 		words: "",
 	};
@@ -132,4 +136,16 @@ function countFlashFiction(flash_fiction_folder: string) {
 	return pfs
 		.findFilesInDir(flash_fiction_folder, [/\.md$/], [])
 		.length.toLocaleString("en-US");
+}
+
+function countFromFile(folder: string, file: string, start: string) {
+	if (fs.existsSync(path.join(folder, file))) {
+		return pfs
+			.readFile(path.join(folder, file))
+			.split("\n")
+			.filter((l) => l.startsWith(start))
+			.length.toLocaleString("en-US");
+	} else {
+		return "0";
+	}
 }
