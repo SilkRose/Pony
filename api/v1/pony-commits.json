@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "2b6b7ef3ef4bcd918fea216e3f212330d7c7c73b",
+		"subject": "Change exclude dirs and files to RegExp",
+		"unix_time": 1700037443,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "c441a6ee96acd5fbe2bbd277009f38d8cd73b1c3",
 		"subject": "Rewrite find files function",
 		"unix_time": 1700036299,
