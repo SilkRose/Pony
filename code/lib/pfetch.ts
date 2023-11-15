@@ -11,3 +11,11 @@ export async function fetchJsonOrFalse(url: string) {
 		return false;
 	}
 }
+
+export async function fetchOrFalse(url: string) {
+	try {
+		return await fetch(url).then((res) => res.text());
+	} catch (err) {
+		return false;
+	}
+}
