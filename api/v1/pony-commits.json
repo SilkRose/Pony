@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "1f133a038c8085864a7a82603b295f2dcfdc8f9d",
+		"subject": "Typescript api replace for loop with map",
+		"unix_time": 1700012809,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "efce8191bcdbc4037d3dab7ec162865dabc33e1d",
 		"subject": "Split pjson lib into pfetch, pfmt, and pfs libs",
 		"unix_time": 1700010373,
