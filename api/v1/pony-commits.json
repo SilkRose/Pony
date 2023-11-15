@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "0614369fcb0d14588d968469d3da56ec80a3a331",
+		"subject": "Typescript API add get dir function, run prettier",
+		"unix_time": 1700029639,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "0a323c15656c451afd007aca473aefd7a0008edc",
 		"subject": "Typescript API add check API files function",
 		"unix_time": 1700021681,
