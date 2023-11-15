@@ -27,36 +27,28 @@ export function mkDirs(dirs: string[]) {
 export function findFilesInDir(
 	dir: string,
 	exts: string[],
-	exDirs: string[],
-	exFiles: string[]
+	excludes: RegExp[]
 ) {
 	let files: string[] = [];
 	if (!fs.existsSync(dir)) throw new Error("no dir " + dir);
 	loop: for (const pathname of fs.readdirSync(dir)) {
 		const name = path.join(dir, pathname);
+		if (excludes.length > 0) {
+			for (const exFile of excludes) {
+				if (name.match(exFile)) continue loop;
+			}
+		}
 		if (fs.lstatSync(name).isDirectory()) {
-			if (exDirs.length > 0) {
-				for (const exDir of exDirs) {
-					if (name.endsWith(exDir)) continue loop;
+			files = files.concat(findFilesInDir(name, exts, excludes));
+		} else if (exts.length > 0) {
+			for (const ext of exts) {
+				if (name.endsWith(ext)) {
+					files.push(name);
+					break;
 				}
 			}
-			files = files.concat(findFilesInDir(name, exts, exDirs, exFiles));
 		} else {
-			if (exFiles.length > 0) {
-				for (const exFile of exFiles) {
-					if (name.endsWith(exFile)) continue loop;
-				}
-			}
-			if (exts.length > 0) {
-				for (const ext of exts) {
-					if (name.endsWith(ext)) {
-						files.push(name);
-						break;
-					}
-				}
-			} else {
-				files.push(name);
-			}
+			files.push(name);
 		}
 	}
 	return files;
