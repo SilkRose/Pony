@@ -98,7 +98,7 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 		names: stories_folder
 			? countFromFile(stories_folder, "names.md", "- ")
 			: "0",
-		stories: "",
+		stories: stories_folder ? countDirs(stories_folder) : "0",
 		words: "",
 	};
 }
@@ -148,4 +148,11 @@ function countFromFile(folder: string, file: string, start: string) {
 	} else {
 		return "0";
 	}
+}
+
+function countDirs(folder: string) {
+	return fs
+		.readdirSync(folder)
+		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory())
+		.length.toLocaleString("en-US");
 }
