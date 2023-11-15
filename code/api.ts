@@ -5,6 +5,8 @@ import { repository } from "./package.json" assert { type: "json" };
 import * as pexec from "./lib/pexec.ts";
 import * as pfs from "./lib/pfs.ts";
 import * as pfetch from "./lib/pfetch.ts";
+import path from "path";
+import fs from "fs";
 
 type Commit = {
 	hash: string;
@@ -53,8 +55,12 @@ async function mane() {
 }
 
 async function checkAPIFiles(hash: string) {
-	const latest = await pfetch.fetchOrFalse(links.template.replace("{}", "mane"));
-	const latest_api = await pfetch.fetchOrFalse(links.template.replace("{}", hash));
+	const latest = await pfetch.fetchOrFalse(
+		links.template.replace("{}", "mane")
+	);
+	const latest_api = await pfetch.fetchOrFalse(
+		links.template.replace("{}", hash)
+	);
 	if (!latest || !latest_api) return false;
 	return latest === latest_api;
 }
@@ -77,6 +83,8 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 		if (commit) return commit.stats;
 	}
 	pexec.executeCommand(`git checkout --quiet ${hash}`);
+	const story_folder = getDirOrFalse("stories");
+	const flash_fiction_folder = getDirOrFalse("flash-fiction");
 	return {
 		covers: "",
 		flash_fiction: "",
@@ -85,4 +93,14 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 		stories: "",
 		words: "",
 	};
+}
+
+function getDirOrFalse(dir: string) {
+	if (fs.existsSync(path.resolve("./" + dir))) {
+		return path.resolve("./" + dir);
+	} else if (fs.existsSync(path.resolve("./src/" + dir))) {
+		return path.resolve("./src/" + dir);
+	} else {
+		return false;
+	}
 }
