@@ -99,7 +99,7 @@ function getStats(hash: string, pony_commits: Commit[] | false) {
 			? countFromFile(stories_folder, "names.md", "- ")
 			: "0",
 		stories: stories_folder ? countDirs(stories_folder) : "0",
-		words: "",
+		words: countWords(stories_folder, flash_fiction_folder),
 	};
 }
 
@@ -155,4 +155,35 @@ function countDirs(folder: string) {
 		.readdirSync(folder)
 		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory())
 		.length.toLocaleString("en-US");
+}
+
+function countWords(
+	stories_folder: string | false,
+	flash_fiction_folder: string | false
+) {
+	if (!stories_folder && !flash_fiction_folder) return "0";
+	if (!stories_folder) return "0";
+	const story_files = pfs.findFilesInDir(
+		stories_folder,
+		[/.md$/],
+		[/meta.md$/, /ideas.md$/, /names.md$/]
+	);
+	const flash_fiction_files = !flash_fiction_folder
+		? []
+		: pfs.findFilesInDir(flash_fiction_folder, [/.md$/], []);
+	return story_files
+		.concat(flash_fiction_files)
+		.map((f) => {
+			const file = pfs
+				.readFile(f)
+				.replace(/[\n\t ]+/g, " ")
+				.replace(/!?\[.*\]\(.*\)/, "")
+				.replace(/[#>\-*–|—]/g, "")
+				.replace(/<!\-\-.*\-\->/g, "")
+				.replace(/<center>\*\*\*<\/center>/g, "")
+				.replace(/<p align="center">\*\*\*<\/p>/g, "");
+			return file.split(" ").length;
+		})
+		.reduce((a, b) => a + b)
+		.toLocaleString("en-US");
 }
