@@ -52,7 +52,8 @@ async function mane() {
 		pony_commits = (await checkAPIFiles(pony_commits[0].hash))
 			? pony_commits
 			: false;
-	const commits = getCommitData(git_log, pony_commits);
+	pony_commits = false;
+	const commits = getCommitData(git_log, false);
 	const pony_string = pfmt.jsonFmt(JSON.stringify(commits[0].stats));
 	const pony_commits_string = pfmt.jsonFmt(JSON.stringify(commits));
 	pfs.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
