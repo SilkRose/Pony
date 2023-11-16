@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "db3e887569d52b1918a873cd145351936435e11c",
+		"subject": "Re-add git attributes, removing archive from stats",
+		"unix_time": 1700109697,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "91bc37126ad5c8d2b519e1cc59f4d0fc7e00ab71",
 		"subject": "Typescript API fix word count RegExp",
 		"unix_time": 1700109450,
