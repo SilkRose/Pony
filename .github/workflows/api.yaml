@@ -38,7 +38,7 @@ jobs:
                   cd ./pony-temp
                   git switch api
                   rm -rf ./api/ .nojekyll CNAME
-                  mv ../dist/* ./
+                  mv ../dist/* ./ && mv ../dist/.nojekyll ./
 
             - name: Deploy API
               run: |
