@@ -46,8 +46,8 @@ jobs:
                   git config --global user.name "SilkRose"
                   git config --global user.email "silkrose@love-tolerance.com"
                   git remote set-url origin \
-                    "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.event.repository.name }}.git"
+                    "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/SilkRose/${{ github.event.repository.name }}.git"
                   git add -A
                   hash=$(echo ${{ github.sha }} | head -c 7)
                   git commit -m "Deploying to API from @$hash"
-                  echo ${{ github.sha }} $hash ${{ github.event.repository.name }}
+                  git push
