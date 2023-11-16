@@ -21,6 +21,7 @@ type Stats = {
 	flash_fiction: string;
 	ideas: string;
 	names: string;
+	size: string;
 	stories: string;
 	words: string;
 };
@@ -77,6 +78,7 @@ function getStats(hash: string) {
 		names: stories_folder
 			? countFromFile(stories_folder, "names.md", "- ")
 			: "0",
+		size: countSize(),
 		stories: stories_folder ? countDirs(stories_folder) : "0",
 		words: countWords(stories_folder, flash_fiction_folder),
 	};
@@ -147,6 +149,14 @@ function countFromFile(folder: string, file: string, start: string) {
 	} else {
 		return "0";
 	}
+}
+
+function countSize() {
+	return pfs
+		.findFilesInDir("./", [], [/archive\//, /\.git\//])
+		.map((f) => fs.statSync(f).size)
+		.reduce((a, b) => a + b)
+		.toLocaleString("en-US");
 }
 
 function countDirs(folder: string) {
