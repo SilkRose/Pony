@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "f68b894ec9c91e7aa0b3eadfe43fd9f28836cf1a",
+		"subject": "Remove update option from Typescript API",
+		"unix_time": 1700120301,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,005"
+		}
+	},
+	{
 		"hash": "ef253de245ba88696381cd2d4561594ec37e42a5",
 		"subject": "Typescript API set pony commits to false",
 		"unix_time": 1700119682,
