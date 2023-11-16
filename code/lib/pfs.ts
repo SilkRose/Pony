@@ -18,9 +18,7 @@ export function rmDirs(dirs: string[]) {
 
 export function mkDirs(dirs: string[]) {
 	for (let dir of dirs) {
-		fs.mkdir(dir, { recursive: true }, (err) => {
-			if (err) throw err;
-		});
+		fs.mkdirSync(dir, { recursive: true });
 	}
 }
 
