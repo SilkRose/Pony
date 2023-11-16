@@ -33,8 +33,13 @@ jobs:
             - name: Build API
               run: ~/.bun/bin/bun ./api.ts
 
+            - name: Move Files
+              run: |
+                  cd ./pony-temp && mkdir ./dist
+                  mv ../dist/* ./dist/
+
             - name: Deploy
               uses: JamesIves/github-pages-deploy-action@v4
               with:
                   branch: api
-                  folder: dist
+                  folder: pony-temp/dist
