@@ -174,15 +174,17 @@ function countWords(
 	return story_files
 		.concat(flash_fiction_files)
 		.map((f) => {
-			const file = pfs
+			return pfs
 				.readFile(f)
-				.replace(/[\n\t ]+/g, " ")
-				.replace(/!?\[.*\]\(.*\)/, "")
-				.replace(/[#>\-*–|—]/g, "")
-				.replace(/<!\-\-.*\-\->/g, "")
+				.replace(/<p align="center">\*\*\*<\/p>/g, "")
 				.replace(/<center>\*\*\*<\/center>/g, "")
-				.replace(/<p align="center">\*\*\*<\/p>/g, "");
-			return file.split(" ").length;
+				.replace(/.*?\[.*?\]\(.*?\).*/g, "")
+				.replace(/<!\-\-.*\-\->/g, "")
+				.replace(/[#>\-*–|—]/g, "")
+				.replace(/[\n\t]/g, " ")
+				.replace(/ +/g, " ")
+				.trim()
+				.split(" ").length;
 		})
 		.reduce((a, b) => a + b)
 		.toLocaleString("en-US");
