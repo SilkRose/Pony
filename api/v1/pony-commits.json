@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "f4ea3d24df7c050177ace6d3dfc6ebad97d03e3c",
+		"subject": "Move python clean script into subfolder in archive",
+		"unix_time": 1700111554,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,012"
+		}
+	},
+	{
 		"hash": "1b5a2c13279c9d04bdb091a0955e193d0b1bf679",
 		"subject": "Update package.json",
 		"unix_time": 1700110823,
