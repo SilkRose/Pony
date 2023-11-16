@@ -1,12 +1,12 @@
 {
 	"name": "pony",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"description": "Scripts for the API, enforcing standards, automating tasks and more.",
 	"private": true,
 	"module": "api.ts",
 	"type": "module",
 	"scripts": {
-		"plink": "pnpm link --global 2&> /dev/null || exit 0"
+		"plink": "pnpm link --global"
 	},
 	"bin": {
 		"pony-api": "./api.ts"
@@ -29,8 +29,7 @@
 	},
 	"devDependencies": {
 		"@total-typescript/ts-reset": "^0.5.1",
-		"bun-types": "latest",
-		"pnpm": "^8.10.4"
+		"bun-types": "latest"
 	},
 	"peerDependencies": {
 		"typescript": "^5.2.2"
