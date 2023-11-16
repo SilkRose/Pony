@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "200ac6a8bb8c36004c6b0ab653377cec1e487db7",
+		"subject": "Fix .nojekyll file being missing",
+		"unix_time": 1700119160,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,005"
+		}
+	},
+	{
 		"hash": "a6a2055822016940fc71463f73345e7652a651fc",
 		"subject": "Fix pony.json API file",
 		"unix_time": 1700118929,
