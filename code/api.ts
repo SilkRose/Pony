@@ -2,9 +2,10 @@
 
 import "@total-typescript/ts-reset";
 import { repository } from "./package.json" assert { type: "json" };
-import * as pexec from "./lib/pexec.ts";
-import * as pfs from "./lib/pfs.ts";
 import * as pfetch from "./lib/pfetch.ts";
+import * as pexec from "./lib/pexec.ts";
+import * as pfmt from "./lib/pfmt.ts";
+import * as pfs from "./lib/pfs.ts";
 import path from "path";
 import fs from "fs";
 
@@ -51,9 +52,14 @@ async function mane() {
 		pony_commits = (await checkAPIFiles(pony_commits[0].hash))
 			? pony_commits
 			: false;
-	pony_commits = false;
 	const commits = getCommitData(git_log, pony_commits);
-	console.log(commits.reverse());
+	const pony_string = pfmt.jsonFmt(JSON.stringify(commits[0]));
+	const pony_commits_string = pfmt.jsonFmt(JSON.stringify(commits));
+	pfs.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
+	pfs.writeFile(
+		"../dist/api/v1/pony-commits.json",
+		pony_commits_string + "\n"
+	);
 }
 
 async function checkAPIFiles(hash: string) {
