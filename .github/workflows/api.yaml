@@ -35,11 +35,12 @@ jobs:
 
             - name: Move Files
               run: |
-                  cd ./pony-temp && mkdir ./dist
-                  mv ../dist/* ./dist/
+                  cd ./pony-temp
+                  git switch api
+                  rm -rf ./api/
+                  find . -type f -not -path ".git/*" -delete
+                  mv ../dist/* ./
 
-            - name: Deploy
-              uses: JamesIves/github-pages-deploy-action@v4
-              with:
-                  branch: api
-                  folder: pony-temp/dist
+            - name: Deploy API
+              run: |
+                  echo ${{ github.sha }}
