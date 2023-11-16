@@ -21,7 +21,6 @@ jobs:
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/api.ts
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/package.json
                   mkdir ./lib && cd ./lib
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfetch.ts
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pexec.ts
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfmt.ts
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfs.ts
@@ -49,5 +48,5 @@ jobs:
                     "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/SilkRose/${{ github.event.repository.name }}.git"
                   git add -A
                   hash=$(echo ${{ github.sha }} | head -c 7)
-                  git commit -m "Deploying to API from @$hash"
+                  git commit -m "Deploying to API from @ $hash"
                   git push
