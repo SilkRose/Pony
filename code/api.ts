@@ -16,6 +16,7 @@ type Commit = {
 };
 
 type Stats = {
+	code: string;
 	covers: string;
 	flash_fiction: string;
 	ideas: string;
@@ -65,6 +66,7 @@ function getStats(hash: string) {
 	const stories_folder = getDirOrFalse("stories");
 	const flash_fiction_folder = getDirOrFalse("flash-fiction");
 	return {
+		code: countCode(),
 		covers: stories_folder ? countCovers(stories_folder) : "0",
 		flash_fiction: flash_fiction_folder
 			? countFlashFiction(flash_fiction_folder)
@@ -88,6 +90,26 @@ function getDirOrFalse(dir: string) {
 	} else {
 		return false;
 	}
+}
+
+function countCode() {
+	return Array.from(
+		new Set(
+			pfs
+				.findFilesInDir(
+					"./",
+					[/\.py$|\.sh$|\.ts$|\.rs$/],
+					[/archive\//]
+				)
+				.flatMap((f) =>
+					pfs
+						.readFile(f)
+						.split("\n")
+						.map((l) => l.trim())
+						.filter((l) => l.length > 0)
+				)
+		)
+	).length.toLocaleString("en-US");
 }
 
 function countCovers(stories_folder: string) {
