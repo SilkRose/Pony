@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "a6a2055822016940fc71463f73345e7652a651fc",
+		"subject": "Fix pony.json API file",
+		"unix_time": 1700118929,
+		"stats": {
+			"covers": "29",
+			"flash_fiction": "5",
+			"ideas": "73",
+			"names": "65",
+			"stories": "31",
+			"words": "66,005"
+		}
+	},
+	{
 		"hash": "f2d53e42885b780cd7a2b7552e02e72df8e8fd40",
 		"subject": "Finish GitHub Action",
 		"unix_time": 1700118806,
