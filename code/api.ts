@@ -2,7 +2,6 @@
 
 import "@total-typescript/ts-reset";
 import { repository } from "./package.json" assert { type: "json" };
-import * as pfetch from "./lib/pfetch.ts";
 import * as pexec from "./lib/pexec.ts";
 import * as pfmt from "./lib/pfmt.ts";
 import * as pfs from "./lib/pfs.ts";
@@ -25,12 +24,6 @@ type Stats = {
 	words: string;
 };
 
-const links = {
-	pony: "https://pony.silkrose.dev/api/v1/pony.json",
-	pony_commits: "https://pony.silkrose.dev/api/v1/pony-commits.json",
-	template: "https://github.com/SilkRose/Pony/raw/{}/code/api.ts",
-};
-
 await mane();
 
 async function mane() {
@@ -45,15 +38,7 @@ async function mane() {
 	const git_log = pexec.executeCommandReturn(
 		'git log mane --format="format:%H\n%s\n%ct\n"'
 	);
-	let pony_commits: Commit[] | false = await pfetch.fetchJsonOrFalse(
-		links.pony_commits
-	);
-	if (pony_commits)
-		pony_commits = (await checkAPIFiles(pony_commits[0].hash))
-			? pony_commits
-			: false;
-	pony_commits = false;
-	const commits = getCommitData(git_log, false);
+	const commits: Commit[] = getCommitData(git_log);
 	const pony_string = pfmt.jsonFmt(JSON.stringify(commits[0].stats));
 	const pony_commits_string = pfmt.jsonFmt(JSON.stringify(commits));
 	pfs.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
@@ -63,34 +48,19 @@ async function mane() {
 	);
 }
 
-async function checkAPIFiles(hash: string) {
-	const latest = await pfetch.fetchOrFalse(
-		links.template.replace("{}", "mane")
-	);
-	const latest_api = await pfetch.fetchOrFalse(
-		links.template.replace("{}", hash)
-	);
-	if (!latest || !latest_api) return false;
-	return latest === latest_api;
-}
-
-function getCommitData(git_log: string, pony_commits: Commit[] | false) {
+function getCommitData(git_log: string) {
 	return git_log.split("\n\n").map((commit) => {
 		const [hash, subject, unix_time] = commit.split("\n");
 		return {
 			hash,
 			subject,
 			unix_time: Number(unix_time),
-			stats: getStats(hash, pony_commits),
+			stats: getStats(hash),
 		};
 	});
 }
 
-function getStats(hash: string, pony_commits: Commit[] | false) {
-	if (Array.isArray(pony_commits)) {
-		const commit = pony_commits.find((c) => c.hash === hash) || false;
-		if (commit) return commit.stats;
-	}
+function getStats(hash: string) {
 	pexec.executeCommand(`git checkout --quiet ${hash}`);
 	const stories_folder = getDirOrFalse("stories");
 	const flash_fiction_folder = getDirOrFalse("flash-fiction");
