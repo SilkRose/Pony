@@ -1,26 +1,40 @@
 name: Deploy API
 
 on:
-  push:
-    branches:
-      - mane
+    push:
+        branches:
+            - mane
 
 permissions:
-  contents: write
+    contents: write
 
 jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
+    build-and-deploy:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
+        steps:
+            - name: Install Bun
+              run: curl -fsSL https://bun.sh/install | bash
 
-      - name: Build
-        run: cd ./code/api && sh ./build-api.sh
+            - name: Download Files
+              run: |
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/api.ts
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/package.json
+                  mkdir ./lib && cd ./lib
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfetch.ts
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pexec.ts
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfmt.ts
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfs.ts
+                  cd ..
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: api
-          folder: code/api/dist
+            - name: Install Dependencies
+              run: ~/.bun/bin/bun install
+
+            - name: Build API
+              run: ~/.bun/bin/bun ./api.ts
+
+            - name: Deploy
+              uses: JamesIves/github-pages-deploy-action@v4
+              with:
+                  branch: api
+                  folder: dist
