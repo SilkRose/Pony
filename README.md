@@ -1,6 +1,6 @@
 # Pony
 ![banner](./promotions/banner-01/banner-01-1-small-transparent.png)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.flash_fiction&style=flat-square&label=Flash%20Fiction&labelColor=%236BABDA&color=%239BDBF5) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.names&style=flat-square&label=Names&labelColor=%23EF6F2F&color=%23FABA62) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB) ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF)
+![covers badge][covers] ![flash fiction badge][flash-fiction] ![ideas badge][ideas] ![names badge][names] ![stories badge][stories] ![words badge][words]
 
 A collection of stories, ideas, names, and more, all pony related.
 
@@ -146,3 +146,10 @@ While I may be the main contributor to this repository, I have had help, and thu
 [The Pink Tax]: https://www.fimfiction.net/story/539422/the-pink-tax "FIMFiction"
 [The Heist of My Heart]: https://www.fimfiction.net/story/538410/the-heist-of-my-heart "FIMFiction"
 [Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "FIMFiction"
+
+[covers]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0
+[flash-fiction]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.flash_fiction&style=flat-square&label=Flash%20Fiction&labelColor=%236BABDA&color=%239BDBF5
+[ideas]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0
+[names]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.names&style=flat-square&label=Names&labelColor=%23EF6F2F&color=%23FABA62
+[stories]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB
+[words]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF
