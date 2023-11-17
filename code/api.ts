@@ -12,7 +12,14 @@ type Commit = {
 	hash: string;
 	subject: string;
 	unix_time: number;
-	stats: Stats;
+	code: number;
+	covers: number;
+	flash_fiction: number;
+	ideas: number;
+	names: number;
+	size: number;
+	stories: number;
+	words: number;
 };
 
 type Stats = {
@@ -41,7 +48,8 @@ async function mane() {
 		'git log mane --format="format:%H\n%s\n%ct\n"'
 	);
 	const commits: Commit[] = getCommitData(git_log);
-	const pony_string = pfmt.jsonFmt(JSON.stringify(commits[0].stats));
+	const stats: Stats = getLatestStats(commits[0]);
+	const pony_string = pfmt.jsonFmt(JSON.stringify(stats));
 	const pony_commits_string = pfmt.jsonFmt(JSON.stringify(commits));
 	pfs.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
 	pfs.writeFile(
@@ -53,35 +61,23 @@ async function mane() {
 function getCommitData(git_log: string) {
 	return git_log.split("\n\n").map((commit) => {
 		const [hash, subject, unix_time] = commit.split("\n");
+		pexec.executeCommand(`git checkout --quiet ${hash}`);
+		const stories_folder = getDirOrFalse("stories");
+		const flash_fiction_folder = getDirOrFalse("flash-fiction");
 		return {
 			hash,
 			subject,
 			unix_time: Number(unix_time),
-			stats: getStats(hash),
+			code: countCode(),
+			covers: countCovers(stories_folder),
+			flash_fiction: countFlashFiction(flash_fiction_folder),
+			ideas: countFromFile(stories_folder, "ideas.md", "## "),
+			names: countFromFile(stories_folder, "names.md", "- "),
+			size: countSize(),
+			stories: countDirs(stories_folder),
+			words: countWords(stories_folder, flash_fiction_folder),
 		};
 	});
-}
-
-function getStats(hash: string) {
-	pexec.executeCommand(`git checkout --quiet ${hash}`);
-	const stories_folder = getDirOrFalse("stories");
-	const flash_fiction_folder = getDirOrFalse("flash-fiction");
-	return {
-		code: countCode(),
-		covers: stories_folder ? countCovers(stories_folder) : "0",
-		flash_fiction: flash_fiction_folder
-			? countFlashFiction(flash_fiction_folder)
-			: "0",
-		ideas: stories_folder
-			? countFromFile(stories_folder, "ideas.md", "## ")
-			: "0",
-		names: stories_folder
-			? countFromFile(stories_folder, "names.md", "- ")
-			: "0",
-		size: countSize(),
-		stories: stories_folder ? countDirs(stories_folder) : "0",
-		words: countWords(stories_folder, flash_fiction_folder),
-	};
 }
 
 function getDirOrFalse(dir: string) {
@@ -111,10 +107,11 @@ function countCode() {
 						.filter((l) => l.length > 0)
 				)
 		)
-	).length.toLocaleString("en-US");
+	).length;
 }
 
-function countCovers(stories_folder: string) {
+function countCovers(stories_folder: string | false) {
+	if (!stories_folder) return 0;
 	return Array.from(
 		new Set(
 			pfs
@@ -130,24 +127,23 @@ function countCovers(stories_folder: string) {
 						.join(path.sep);
 				})
 		)
-	).length.toLocaleString("en-US");
+	).length;
 }
 
-function countFlashFiction(flash_fiction_folder: string) {
-	return pfs
-		.findFilesInDir(flash_fiction_folder, [/\.md$/], [])
-		.length.toLocaleString("en-US");
+function countFlashFiction(flash_fiction_folder: string | false) {
+	if (!flash_fiction_folder) return 0;
+	return pfs.findFilesInDir(flash_fiction_folder, [/\.md$/], []).length;
 }
 
-function countFromFile(folder: string, file: string, start: string) {
+function countFromFile(folder: string | false, file: string, start: string) {
+	if (!folder) return 0;
 	if (fs.existsSync(path.join(folder, file))) {
 		return pfs
 			.readFile(path.join(folder, file))
 			.split("\n")
-			.filter((l) => l.startsWith(start))
-			.length.toLocaleString("en-US");
+			.filter((l) => l.startsWith(start)).length;
 	} else {
-		return "0";
+		return 0;
 	}
 }
 
@@ -155,23 +151,23 @@ function countSize() {
 	return pfs
 		.findFilesInDir("./", [], [/archive\//, /\.git\//])
 		.map((f) => fs.statSync(f).size)
-		.reduce((a, b) => a + b)
-		.toLocaleString("en-US");
+		.reduce((a, b) => a + b);
 }
 
-function countDirs(folder: string) {
+function countDirs(folder: string | false) {
+	if (!folder) return 0;
 	return fs
 		.readdirSync(folder)
 		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory())
-		.length.toLocaleString("en-US");
+		.length;
 }
 
 function countWords(
 	stories_folder: string | false,
 	flash_fiction_folder: string | false
 ) {
-	if (!stories_folder && !flash_fiction_folder) return "0";
-	if (!stories_folder) return "0";
+	if (!stories_folder && !flash_fiction_folder) return 0;
+	if (!stories_folder) return 0;
 	const story_files = pfs.findFilesInDir(
 		stories_folder,
 		[/.md$/],
@@ -195,6 +191,30 @@ function countWords(
 				.trim()
 				.split(" ").length;
 		})
-		.reduce((a, b) => a + b)
-		.toLocaleString("en-US");
+		.reduce((a, b) => a + b);
+}
+
+function getLatestStats(latest: Commit) {
+	return {
+		code: latest.code.toLocaleString("en-US"),
+		covers: latest.covers.toLocaleString("en-US"),
+		flash_fiction: latest.flash_fiction.toLocaleString("en-US"),
+		ideas: latest.ideas.toLocaleString("en-US"),
+		names: latest.names.toLocaleString("en-US"),
+		size: formatSize(latest.size),
+		stories: latest.stories.toLocaleString("en-US"),
+		words: latest.words.toLocaleString("en-US"),
+	};
+}
+
+function formatSize(bytes: number) {
+	const units = ["B", "KB", "MB", "GB", "TB"];
+	let current = bytes;
+	for (const unit of units) {
+		if (current <= 1000) {
+			return `${current.toFixed(1)} ${unit}`;
+		}
+		current /= 1000;
+	}
+	return `${bytes.toFixed(1)} ${units[0]}`;
 }
