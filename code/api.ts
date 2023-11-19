@@ -96,7 +96,7 @@ function countCode() {
 			pfs
 				.findFilesInDir(
 					"./",
-					[/\.py$|\.sh$|\.ts$|\.rs$/],
+					[/\.py$|\.sh$|\.ts$|\.gp$|\.rs$/],
 					[/archive\//]
 				)
 				.flatMap((f) =>
