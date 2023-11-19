@@ -1,2 +1,4 @@
+# Tell GitHub linguist stats to ignore all files in /archive/
 archive/** linguist-detectable=false
+# Auto detect text files and perform LF normalization
 * text=auto
