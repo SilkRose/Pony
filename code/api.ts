@@ -2,13 +2,11 @@
 
 import "@total-typescript/ts-reset";
 import { repository } from "./package.json" assert { type: "json" };
-import * as pexec from "./lib/pexec.ts";
-import * as pfmt from "./lib/pfmt.ts";
-import * as pfs from "./lib/pfs.ts";
+import * as plib from "./lib.ts";
 import path from "path";
 import fs from "fs";
 
-export type Commit = {
+type Commit = {
 	hash: string;
 	subject: string;
 	unix_time: number;
@@ -36,23 +34,23 @@ type Stats = {
 await mane();
 
 async function mane() {
-	pexec.checkInstalled(["git"]);
-	pfs.rmDirs(["./dist", "./pony-temp"]);
-	pfs.mkDirs(["./dist/api/v1"]);
-	pfs.writeFile("./dist/.nojekyll", "");
-	pfs.writeFile("./dist/CNAME", "pony.silkrose.dev");
+	plib.checkInstalled(["git"]);
+	plib.rmDirs(["./dist", "./pony-temp"]);
+	plib.mkDirs(["./dist/api/v1"]);
+	plib.writeFile("./dist/.nojekyll", "");
+	plib.writeFile("./dist/CNAME", "pony.silkrose.dev");
 	const git_url = repository.url.slice(4);
-	pexec.executeCommand(`git clone --quiet ${git_url} pony-temp`);
+	plib.executeCommand(`git clone --quiet ${git_url} pony-temp`);
 	process.chdir("./pony-temp");
-	const git_log = pexec.executeCommandReturn(
+	const git_log = plib.executeCommandReturn(
 		'git log mane --format="format:%H\n%s\n%ct\n"'
 	);
 	const commits: Commit[] = getCommitData(git_log);
 	const stats: Stats = getLatestStats(commits[0]);
-	const pony_string = pfmt.jsonFmt(JSON.stringify(stats));
-	const pony_commits_string = pfmt.jsonFmt(JSON.stringify(commits));
-	pfs.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
-	pfs.writeFile(
+	const pony_string = plib.jsonFmt(JSON.stringify(stats));
+	const pony_commits_string = plib.jsonFmt(JSON.stringify(commits));
+	plib.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
+	plib.writeFile(
 		"../dist/api/v1/pony-commits.json",
 		pony_commits_string + "\n"
 	);
@@ -61,7 +59,7 @@ async function mane() {
 function getCommitData(git_log: string) {
 	return git_log.split("\n\n").map((commit) => {
 		const [hash, subject, unix_time] = commit.split("\n");
-		pexec.executeCommand(`git checkout --quiet ${hash}`);
+		plib.executeCommand(`git checkout --quiet ${hash}`);
 		const stories_folder = getDirOrFalse("stories");
 		const flash_fiction_folder = getDirOrFalse("flash-fiction");
 		return {
@@ -93,14 +91,14 @@ function getDirOrFalse(dir: string) {
 function countCode() {
 	return Array.from(
 		new Set(
-			pfs
+			plib
 				.findFilesInDir(
 					"./",
 					[/\.py$|\.sh$|\.ts$|\.gp$|\.rs$/],
 					[/archive\//]
 				)
 				.flatMap((f) =>
-					pfs
+					plib
 						.readFile(f)
 						.split("\n")
 						.map((l) => l.trim())
@@ -114,7 +112,7 @@ function countCovers(stories_folder: string | false) {
 	if (!stories_folder) return 0;
 	return Array.from(
 		new Set(
-			pfs
+			plib
 				.findFilesInDir(
 					stories_folder,
 					[/cover/],
@@ -132,13 +130,13 @@ function countCovers(stories_folder: string | false) {
 
 function countFlashFiction(flash_fiction_folder: string | false) {
 	if (!flash_fiction_folder) return 0;
-	return pfs.findFilesInDir(flash_fiction_folder, [/\.md$/], []).length;
+	return plib.findFilesInDir(flash_fiction_folder, [/\.md$/], []).length;
 }
 
 function countFromFile(folder: string | false, file: string, start: string) {
 	if (!folder) return 0;
 	if (fs.existsSync(path.join(folder, file))) {
-		return pfs
+		return plib
 			.readFile(path.join(folder, file))
 			.split("\n")
 			.filter((l) => l.startsWith(start)).length;
@@ -148,7 +146,7 @@ function countFromFile(folder: string | false, file: string, start: string) {
 }
 
 function countSize() {
-	return pfs
+	return plib
 		.findFilesInDir("./", [], [/archive\//, /\.git\//])
 		.map((f) => fs.statSync(f).size)
 		.reduce((a, b) => a + b);
@@ -168,18 +166,18 @@ function countWords(
 ) {
 	if (!stories_folder && !flash_fiction_folder) return 0;
 	if (!stories_folder) return 0;
-	const story_files = pfs.findFilesInDir(
+	const story_files = plib.findFilesInDir(
 		stories_folder,
 		[/.md$/],
 		[/meta.md$/, /ideas.md$/, /names.md$/]
 	);
 	const flash_fiction_files = !flash_fiction_folder
 		? []
-		: pfs.findFilesInDir(flash_fiction_folder, [/.md$/], []);
+		: plib.findFilesInDir(flash_fiction_folder, [/.md$/], []);
 	return story_files
 		.concat(flash_fiction_files)
 		.map((f) => {
-			return pfs
+			return plib
 				.readFile(f)
 				.replace(/<p align="center">\*\*\*<\/p>/g, "")
 				.replace(/<center>\*\*\*<\/center>/g, "")

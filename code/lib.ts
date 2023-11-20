@@ -1,4 +1,5 @@
 import "@total-typescript/ts-reset";
+import { execSync } from "child_process";
 import path from "path";
 import fs from "fs";
 
@@ -72,5 +73,59 @@ export function readFile(filename: string) {
 		return fs.readFileSync(filepath, { encoding: "utf-8" });
 	} catch (error) {
 		throw new Error(`Failed to open file: ${filename}`);
+	}
+}
+
+export function jsonFmt(json: string) {
+	return JSON.stringify(JSON.parse(json), null, "\t");
+}
+
+export function jsonMinify(json: string) {
+	return JSON.stringify(JSON.parse(json));
+}
+
+export async function fetchJsonData(url: string) {
+	return await fetch(url).then((res) => res.json());
+}
+
+export async function fetchJsonOrFalse(url: string) {
+	try {
+		return await fetch(url).then((res) => res.json());
+	} catch (err) {
+		return false;
+	}
+}
+
+export async function fetchOrFalse(url: string) {
+	try {
+		return await fetch(url).then((res) => res.text());
+	} catch (err) {
+		return false;
+	}
+}
+
+export function checkInstalled(programs: string[]) {
+	for (let program of programs) {
+		try {
+			execSync(`which "${program}"`);
+		} catch (err) {
+			throw new Error(`Exit: "${program}" is not installed.`);
+		}
+	}
+}
+
+export function executeCommand(command: string) {
+	try {
+		execSync(command);
+	} catch (err) {
+		throw new Error(`Failed to execute command: ${command}`);
+	}
+}
+
+export function executeCommandReturn(command: string) {
+	try {
+		return execSync(command).toString();
+	} catch (err) {
+		throw new Error(`Failed to execute command: ${command}`);
 	}
 }
