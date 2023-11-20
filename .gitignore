@@ -1,9 +1,11 @@
+# Folders
 .obsidian/
 .stfolder/
 .vscode/
-/code/bun.lockb
-/code/dist
-/code/pony-temp
+/code/dist/
 /code/node_modules/
-/code/publish
-/code/*.dat
+/code/pony-temp/
+/code/publish/
+
+# Files
+/code/bun.lockb
