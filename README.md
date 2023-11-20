@@ -83,12 +83,14 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[MoonSong Darkstone]** for writing The Saddest Rainbow based off Best Sister Never.
 - **[Nebbie]** for cover feedback, and collaborative writing.
 - **EDEN** for helping write the first chapter of Saddle Bagged.
+- **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
 [Pony]: https://github.com/SilkRose/Pony "GitHub"
 
 [fimd]: https://github.com/Meadowsys/fimd "GitHub"
 [FIMFiction BBCode]: https://www.fimfiction.net/articles/bbcode "FIMFiction"
+[EmotiPonies]: https://www.deviantart.com/midori-no-ink/art/EmotiPonies-209617524 "DeviantArt"
 
 [Silk Rose FIMFiction]: https://www.fimfiction.net/user/237915/Silk+Rose "FIMFiction"
 
@@ -122,6 +124,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Gapty]: https://www.fimfiction.net/user/493938/gapty "FIMFiction"
 [MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "FIMFiction"
 [Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "FIMFiction"
+[Midori-no-ink]: https://www.deviantart.com/midori-no-ink "DeviantArt"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
