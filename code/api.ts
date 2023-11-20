@@ -8,7 +8,7 @@ import * as pfs from "./lib/pfs.ts";
 import path from "path";
 import fs from "fs";
 
-type Commit = {
+export type Commit = {
 	hash: string;
 	subject: string;
 	unix_time: number;
