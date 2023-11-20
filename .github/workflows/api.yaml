@@ -20,11 +20,7 @@ jobs:
               run: |
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/api.ts
                   curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/package.json
-                  mkdir ./lib && cd ./lib
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pexec.ts
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfmt.ts
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib/pfs.ts
-                  cd ..
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib.ts
 
             - name: Install Dependencies
               run: ~/.bun/bin/bun install
