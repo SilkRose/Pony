@@ -18,9 +18,9 @@ jobs:
 
             - name: Download Files
               run: |
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/api.ts
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/package.json
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/main/code/lib.ts
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/mane/code/api.ts
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/mane/code/package.json
+                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/mane/code/lib.ts
 
             - name: Install Dependencies
               run: ~/.bun/bin/bun install
