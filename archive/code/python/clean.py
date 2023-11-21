@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+
+# Originally written by Chat GPT, updated by Silk Rose.
+# I don't really like python that much, so I switched to using POSIX shell after python.
+
 import os
 import re
 

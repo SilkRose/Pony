@@ -1,20 +1,25 @@
 #!/usr/bin/env python3
 
+# Originally written by Chat GPT, updated by Silk Rose.
+# I don't really like python that much, so I switched to using gnuplot after python.
+
 import json
 import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 from datetime import datetime
 
+
 def format_y_ticks(value, _):
-    if value >= 1_000_000:
-        return f"{value/1e6:.0f}M"
-    elif value >= 1000:
-        return f"{value/1000:.0f}K"
-    else:
-        return str(int(value))
+	if value >= 1_000_000:
+		return f"{value/1e6:.0f}M"
+	elif value >= 1000:
+		return f"{value/1000:.0f}K"
+	else:
+		return str(int(value))
+
 
 with open("dist/api/v1/pony-commits.json", "r") as file:
-    data = json.load(file)
+	data = json.load(file)
 
 times = [datetime.utcfromtimestamp(entry["unix_time"]) for entry in data][::-1]
 word_counts = [entry["words"] for entry in data][::-1]
