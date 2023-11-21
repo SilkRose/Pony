@@ -242,5 +242,13 @@ Doing my best, I levitate the top pancake and take small bites slowly.
 
 *This is delicious.*
 
-I hear a stifled giggle as I poke myself in the cheek with the pancake for the third time.
+I hear a stifled giggle as I poke myself in the cheek with the pancake for the third time in a row.
+
+Sighing, I put the pancake down and on the plate, and start eating like an earth pony.
+
+I finish my first pancake, then stop to compliment Pinkie. "These are really good, thank you."
+
+"Aww, thank you. They are made with love."
+
+I smile at her. "I can tell."
 
