@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "0e68d390aae2dac02e029e30ed8130afb5d8a268",
+		"subject": "Move remove-symlinks shell script to archive",
+		"unix_time": 1700651861,
+		"code": -8,
+		"covers": 0,
+		"flash_fiction": 0,
+		"ideas": 0,
+		"names": 0,
+		"size": -416,
+		"stories": 0,
+		"words": 0
+	},
+	{
 		"hash": "eb6782dbf44d9e383c63d600943d51a95e3b3f2f",
 		"subject": "Add per-commit change calculator to API",
 		"unix_time": 1700651507,
