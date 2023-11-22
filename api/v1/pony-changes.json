@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "b2bef195247dcee49183ffe96896b51ef5746424",
+		"subject": "Add clean.ts, replaces clean shell script",
+		"unix_time": 1700662745,
+		"code": 10,
+		"covers": 0,
+		"flash_fiction": 0,
+		"ideas": 0,
+		"names": 0,
+		"size": 512,
+		"stories": 0,
+		"words": 0
+	},
+	{
 		"hash": "737c9a0936c0648f46baec4b766384814b66a155",
 		"subject": "Move clean shell script into archive",
 		"unix_time": 1700662266,
