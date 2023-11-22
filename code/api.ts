@@ -45,7 +45,7 @@ async function mane() {
 	plib.executeCommand(`git clone --quiet ${git_url} pony-temp`);
 	process.chdir("./pony-temp");
 	const git_log = plib.executeCommandReturn(
-		'git log mane --format="format:%H\n%s\n%ct\n"'
+		'git log mane --format="format:%H\n%s\n%ct\n"',
 	);
 	const commits: Commit[] = getCommitData(git_log);
 	const stats: Stats = getLatestStats(commits[0]);
@@ -54,7 +54,7 @@ async function mane() {
 	plib.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
 	plib.writeFile(
 		"../dist/api/v1/pony-commits.json",
-		pony_commits_string + "\n"
+		pony_commits_string + "\n",
 	);
 	const changes = getChanges(commits);
 	const changes_string = plib.jsonFmt(JSON.stringify(changes));
@@ -97,19 +97,15 @@ function countCode() {
 	return Array.from(
 		new Set(
 			plib
-				.findFilesInDir(
-					"./",
-					[/\.py$|\.sh$|\.ts$|\.gp$|\.rs$/],
-					[/archive\//]
-				)
+				.findFilesInDir("./", [/\.py$|\.sh$|\.ts$|\.gp$|\.rs$/], [/archive\//])
 				.flatMap((f) =>
 					plib
 						.readFile(f)
 						.split("\n")
 						.map((l) => l.trim())
-						.filter((l) => l.length > 0)
-				)
-		)
+						.filter((l) => l.length > 0),
+				),
+		),
 	).length;
 }
 
@@ -121,15 +117,15 @@ function countCovers(stories_folder: string | false) {
 				.findFilesInDir(
 					stories_folder,
 					[/cover/],
-					[/concept/, /\.xcf$/, /upscaled/]
+					[/concept/, /\.xcf$/, /upscaled/],
 				)
 				.map((c) => {
 					const split_path = c.split(path.sep);
 					return split_path
 						.slice(0, split_path.indexOf("stories") + 2)
 						.join(path.sep);
-				})
-		)
+				}),
+		),
 	).length;
 }
 
@@ -161,20 +157,19 @@ function countDirs(folder: string | false) {
 	if (!folder) return 0;
 	return fs
 		.readdirSync(folder)
-		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory())
-		.length;
+		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory()).length;
 }
 
 function countWords(
 	stories_folder: string | false,
-	flash_fiction_folder: string | false
+	flash_fiction_folder: string | false,
 ) {
 	if (!stories_folder && !flash_fiction_folder) return 0;
 	if (!stories_folder) return 0;
 	const story_files = plib.findFilesInDir(
 		stories_folder,
 		[/.md$/],
-		[/meta.md$/, /ideas.md$/, /names.md$/]
+		[/meta.md$/, /ideas.md$/, /names.md$/],
 	);
 	const flash_fiction_files = !flash_fiction_folder
 		? []

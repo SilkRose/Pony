@@ -26,7 +26,7 @@ export function mkDirs(dirs: string[]) {
 export function findFilesInDir(
 	dir: string,
 	includes: RegExp[],
-	excludes: RegExp[]
+	excludes: RegExp[],
 ) {
 	let files: string[] = [];
 	if (!fs.existsSync(dir)) throw new Error("no dir " + dir);
@@ -59,9 +59,7 @@ export function writeFile(filename: string, data: string) {
 export async function readJsonFile(filename: string) {
 	try {
 		const filepath = path.resolve(path.join(process.cwd(), filename));
-		return await JSON.parse(
-			fs.readFileSync(filepath, { encoding: "utf-8" })
-		);
+		return await JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
 	} catch (error) {
 		throw new Error(`Failed to open file: ${filename}`);
 	}
