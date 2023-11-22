@@ -6,7 +6,8 @@
 	"module": "api.ts",
 	"type": "module",
 	"scripts": {
-		"plink": "pnpm link --global"
+		"plink": "pnpm link --global",
+		"pfmt": "prettier . --use-tabs --write"
 	},
 	"bin": {
 		"pony-api": "./api.ts",
