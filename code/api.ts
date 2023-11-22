@@ -31,6 +31,8 @@ type Stats = {
 	words: string;
 };
 
+type Change = Commit;
+
 await mane();
 
 async function mane() {
@@ -54,6 +56,9 @@ async function mane() {
 		"../dist/api/v1/pony-commits.json",
 		pony_commits_string + "\n"
 	);
+	const changes = getChanges(commits);
+	const changes_string = plib.jsonFmt(JSON.stringify(changes));
+	plib.writeFile("../dist/api/v1/pony-changes.json", changes_string + "\n");
 }
 
 function getCommitData(git_log: string) {
@@ -215,4 +220,27 @@ function formatSize(bytes: number) {
 		current /= 1000;
 	}
 	return `${bytes.toFixed(1)} ${units[0]}`;
+}
+
+function getChanges(pony_commits: Commit[]) {
+	const change_data: Change[] = [];
+	change_data.push(pony_commits[pony_commits.length - 1]);
+	for (let i = pony_commits.length - 2; i >= 0; i--) {
+		const c = pony_commits[i];
+		const base = pony_commits[i + 1];
+		change_data.push({
+			hash: c.hash,
+			subject: c.subject,
+			unix_time: c.unix_time,
+			code: c.code - base.code,
+			covers: c.covers - base.covers,
+			flash_fiction: c.flash_fiction - base.flash_fiction,
+			ideas: c.ideas - base.ideas,
+			names: c.names - base.names,
+			size: c.size - base.size,
+			stories: c.stories - base.stories,
+			words: c.words - base.words,
+		});
+	}
+	return change_data.reverse();
 }
