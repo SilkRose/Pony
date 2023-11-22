@@ -9,7 +9,8 @@
 		"plink": "pnpm link --global"
 	},
 	"bin": {
-		"pony-api": "./api.ts"
+		"pony-api": "./api.ts",
+		"pony-clean": "./clean.ts"
 	},
 	"repository": {
 		"type": "git",
