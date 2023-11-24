@@ -23,7 +23,9 @@
 	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=size&style=flat-square&label=Size&labelColor=%23CEC8D1&color=%23EFEDED">
 </p>
 
-A collection of stories, ideas, names, and more, all pony related.
+<p align="center">
+	A collection of stories, ideas, names, and more, all pony related.
+</p>
 
 ## About:
 
