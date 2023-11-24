@@ -211,11 +211,11 @@ function formatSize(bytes: number) {
 	let current = bytes;
 	for (const unit of units) {
 		if (current <= 1000) {
-			return `${current.toFixed(1)} ${unit}`;
+			return `${current.toFixed(2)} ${unit}`;
 		}
 		current /= 1000;
 	}
-	return `${bytes.toFixed(1)} ${units[0]}`;
+	return `${bytes.toFixed(2)} ${units[0]}`;
 }
 
 function getChanges(pony_commits: Commit[]) {
