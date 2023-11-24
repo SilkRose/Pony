@@ -1,6 +1,19 @@
 # Pony
-![banner](./promotions/banner-01/banner-01-1-small-transparent.png)
-![covers badge][covers] ![flash fiction badge][flash-fiction] ![ideas badge][ideas] ![names badge][names] ![stories badge][stories] ![words badge][words]
+![banner]
+
+<p align="center">
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF">
+	&nbsp;
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB">
+	&nbsp;
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0">
+	&nbsp;
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0">
+	&nbsp;
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.names&style=flat-square&label=Names&labelColor=%23EF6F2F&color=%23FABA62">
+	&nbsp;
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.flash_fiction&style=flat-square&label=Flash%20Fiction&labelColor=%236BABDA&color=%239BDBF5">
+</p>
 
 A collection of stories, ideas, names, and more, all pony related.
 
@@ -42,6 +55,45 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
 - **Promotions:** Social previews images like banners.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
+
+## Statistics:
+I wrote code to analyze each commit for the following statistics about this repository. All stats do not count anything inside the archive folder. Here are the stats for the latest commit, with a short explainer:
+
+![words]
+
+The total word count for all stories and flash fiction. Does not count meta files, or any text on lines with links, or any markdown syntax, and counts hyphenated words as one word.
+
+![stories]
+
+The number of folders inside the stories directory.
+
+![covers]
+
+The number of story covers, capped at one per story.
+
+![ideas]
+
+The number of ideas in the [ideas file][Ideas File].
+
+![names]
+
+The number of names in the [names files][Names File].
+
+![flash-fiction]
+
+The number of Markdown files in the flash-fiction folder.
+
+![code]
+
+The total number of trimmed unique lines of code.
+
+![commits]
+
+The number of commits to this repository.
+
+![size]
+
+The total size of all files.
 
 ## Readings:
 A few of my stories have had readings made for them, I would like to thank the following ponies for doing readings of my work:
@@ -150,9 +202,14 @@ While I may be the main contributor to this repository, I have had help, and thu
 [The Heist of My Heart]: https://www.fimfiction.net/story/538410/the-heist-of-my-heart "FIMFiction"
 [Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "FIMFiction"
 
+[banner]: ./promotions/banner-01/banner-01-1-small-transparent.png
+
+[code]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=code&style=flat-square&label=Code&labelColor=%23D9C574&color=%23F3F49B
+[commits]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764
 [covers]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0
 [flash-fiction]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.flash_fiction&style=flat-square&label=Flash%20Fiction&labelColor=%236BABDA&color=%239BDBF5
 [ideas]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0
 [names]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.names&style=flat-square&label=Names&labelColor=%23EF6F2F&color=%23FABA62
+[size]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=size&style=flat-square&label=Size&labelColor=%23CEC8D1&color=%23EFEDED
 [stories]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB
 [words]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF
