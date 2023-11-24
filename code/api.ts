@@ -48,7 +48,7 @@ async function mane() {
 		'git log mane --format="format:%H\n%s\n%ct\n"',
 	);
 	const commits: Commit[] = getCommitData(git_log);
-	const stats: Stats = getLatestStats(commits[0]);
+	const stats: Stats = getLatestStats(commits[0], commits.length);
 	const pony_string = plib.jsonFmt(JSON.stringify(stats));
 	const pony_commits_string = plib.jsonFmt(JSON.stringify(commits));
 	plib.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
@@ -192,9 +192,10 @@ function countWords(
 		.reduce((a, b) => a + b);
 }
 
-function getLatestStats(latest: Commit) {
+function getLatestStats(latest: Commit, commits: number) {
 	return {
 		code: latest.code.toLocaleString("en-US"),
+		commits: commits.toLocaleString("en-US"),
 		covers: latest.covers.toLocaleString("en-US"),
 		flash_fiction: latest.flash_fiction.toLocaleString("en-US"),
 		ideas: latest.ideas.toLocaleString("en-US"),
