@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "e944dd5fba12f77a59ff098438533bfb9d72afcb",
+		"subject": "Change badge layout and redo statistics section",
+		"unix_time": 1700796045,
+		"code": 0,
+		"covers": 0,
+		"flash_fiction": 0,
+		"ideas": 0,
+		"names": 0,
+		"size": -1582,
+		"stories": 0,
+		"words": 0
+	},
+	{
 		"hash": "e58d81a45189a008572f45c667099ac1e508463a",
 		"subject": "Update README.md",
 		"unix_time": 1700795242,
