@@ -1,9 +1,9 @@
 #!/usr/bin/env bun
 
 import "@total-typescript/ts-reset";
-import * as plib from "./lib.ts";
-
 import { NodeHtmlMarkdown } from "node-html-markdown";
+import * as plib from "./lib.ts";
+import fs from "fs";
 
 await mane();
 
@@ -30,23 +30,31 @@ async function mane() {
 			.split("\n")
 			.map((l) => l.trim());
 		const main = html.indexOf('<div class="main">');
-		const title = html[main - 5].split(/ >|<\/a>/)[1];
+		const title = html[main - 5].split(/ >|<\/a>/)[1].replace("&#039;", "'");
 		const time = html[main - 3].split(/data-time="|" title="/)[1];
 		const blog = html[main + 2];
 		const md = NodeHtmlMarkdown.translate(blog);
-		const date = new Date(time);
+		const date = new Date(Number(time) * 1000);
 		const year = date.getFullYear();
-		const month = pad(date.getMonth(), 2)
-		console.log(title, time, md, year, month);
-		break;
+		const month = date.getMonth().toString().padStart(2, "0");
+		const day = date.getDay().toString().padStart(2, "0");
+		const hour = date.getHours().toString().padStart(2, "0");
+		const minute = date.getMinutes().toString().padStart(2, "0");
+		const second = date.getSeconds().toString().padStart(2, "0");
+		const filename = `${year}-${month}-${day}-${hour}-${minute}-${second}.md`;
+		const data =
+			`# ${title}\n\n` +
+			md
+				.replaceAll(
+					"https://static.fimfiction.net/images/emoticons",
+					"../../ponies/emotes",
+				)
+				.concat("\n");
+		if (!fs.existsSync(`../blog/${year}/`)) {
+			plib.mkDirs([`../blog/${year}`]);
+		}
+		const path = `../blog/${year}/${filename}`;
+		plib.writeFile(path, data);
+		console.log("Finished downloading blog: " + title);
 	}
-}
-
-function pad(number: number, max: number) {
-	if (number.toString().length >= max) return number;
-	let padded = number.toString();
-	while (padded.length < max) {
-		padded = "0" + padded;
-	}
-	return padded;
 }
