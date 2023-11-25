@@ -49,6 +49,7 @@ async function mane() {
 					"https://static.fimfiction.net/images/emoticons",
 					"../../ponies/emotes",
 				)
+				.replaceAll("(/", "(https://www.fimfiction.net/")
 				.concat("\n");
 		if (!fs.existsSync(`../blog/${year}/`)) {
 			plib.mkDirs([`../blog/${year}`]);
