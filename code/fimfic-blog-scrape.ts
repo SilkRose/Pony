@@ -41,7 +41,7 @@ async function mane() {
 		const hour = date.getHours().toString().padStart(2, "0");
 		const minute = date.getMinutes().toString().padStart(2, "0");
 		const second = date.getSeconds().toString().padStart(2, "0");
-		const filename = `${year}-${month}-${day}-${hour}-${minute}-${second}.md`;
+		const filename = `${day}-${hour}-${minute}-${second}.md`;
 		const data =
 			`# ${title}\n\n` +
 			md
@@ -51,10 +51,10 @@ async function mane() {
 				)
 				.replaceAll("(/", "(https://www.fimfiction.net/")
 				.concat("\n");
-		if (!fs.existsSync(`../blog/${year}/`)) {
-			plib.mkDirs([`../blog/${year}`]);
+		if (!fs.existsSync(`../blog/${year}/${month}/`)) {
+			plib.mkDirs([`../blog/${year}/${month}`]);
 		}
-		const path = `../blog/${year}/${filename}`;
+		const path = `../blog/${year}/${month}/${filename}`;
 		plib.writeFile(path, data);
 		console.log("Finished downloading blog: " + title);
 	}
