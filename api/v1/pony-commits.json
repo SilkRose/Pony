@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "1a77b2cfa0d6c95f01feae717a5783efe87b4c37",
+		"subject": "Update 2020 blog entries",
+		"unix_time": 1700978303,
+		"code": 319,
+		"covers": 29,
+		"flash_fiction": 5,
+		"ideas": 73,
+		"names": 65,
+		"size": 52883433,
+		"stories": 31,
+		"words": 66056
+	},
+	{
 		"hash": "c9d25b973e93636bb1e04bf377fc9b0be1861453",
 		"subject": "Update 2019 blog entries",
 		"unix_time": 1700978248,
