@@ -32,7 +32,7 @@ I collapse onto Twilight, holding her. "I can't think for myself anymore, all I 
 
 Twilight slowly massages my back with a hoof. "You'll be alright, Rarity, I'm here now. Why don't we go over it one at a time?"
 
-"Well," I sniff and wipe some of the tears from my face." Like I said, I feel like all I make dresses for now are just to get admiration and praise."
+"Well," I sniff and wipe some of the tears from my face." Like I said, I feel like all I make dresses now are just to get admiration and praise."
 
 "What do you mean? Haven't you always loved getting praise and love for your dresses?"
 
@@ -54,7 +54,7 @@ Twilight slowly massages my back with a hoof. "You'll be alright, Rarity, I'm he
 
 I squeeze Twilight a little tighter. "But it doesn't change how I feel. I want each new dress to be better than the last, but right now, they aren't."
 
-Twilight stares deep into my eyes. "Rarity, whoever said you have to outdo your last dress every time? Every dress you design is remarkable, not because it's better than your last, but because it's special in its unique way! That uniqueness is what makes your way of dressmaking so… you!"
+Twilight stares deep into my eyes. "Rarity, whoever said you have to outdo your last dress every time? Every dress you design is remarkable, not because it's better than your last, but because it's special in its own unique way! That uniqueness is what makes your way of dressmaking so… you!"
 
 I open my mouth, but her gaze silences my next words. I hesitate as I stare deeply back, her words lingering in my mind, before looking away.
 
@@ -71,4 +71,6 @@ A sob escapes me as I wipe me my eyes. "I- thank you, Twilight. That… really m
 I look away again and trail my eyes along the thousands of tiny, almost imperceptible details throughout the library. "Any unnoticed design flaws, any minuscule color mismatches, any fabric choices that could've been better. I spend so much time now nitpicking my own work, constantly trying to enhance or improve what I already have, it takes me days to make any progress!"
 
 Twilight laughs softly. "I think I know what you mean, Rarity. I felt the same way back in magic school, always striving to make my spells faster and stronger and more efficient. Like I told you before though, eventually I learned to appreciate the beauty of learning and crafting instead of just making a better end product."
+
+As more tears fall from my face, I hold Twilight tighter. An almost imperceptible chuckle escaping my lips. "Thank you, Twilight, you are a great friend. Also, what am I to do about my slowed pace? It takes me so long to make a dress that I fear ponies might stop coming to me. When I work now, I go hours without making any progress, I just stare at what I've made and nitpick every little detail, unable to make the conscience effort to fix it."
 
