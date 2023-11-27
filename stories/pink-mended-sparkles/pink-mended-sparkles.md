@@ -252,3 +252,81 @@ I finish my first pancake, then stop to compliment Pinkie. "These are really goo
 
 I smile at her. "I can tell."
 
+I feel my cheeks heating up. *Hmm, what's that from?*
+
+I go back to eating as I hear Pinkie do the same.
+
+After finishing the rest of my pancakes, I yawn. "I'm ready to lay down, how about you, Pinkie?"
+
+"I'm ready to read you an amazingly awesome story, let's go!"
+
+I stand up with a smile before Pinkie comes over to me and puts a hoof over my shoulder. She guides me into the other room and to the stairs.
+
+Taking it slow, we make it up the stairs, Pinkie helping every step of the way.
+
+Pinkie leads me over to my bed before saying, "Okay, get in bed and I'll tuck you in nice and snug."
+
+I was about to protest, but the idea of being tucked in by a loving friend sounded kinda nice after what happened today.
+
+I simply nod before getting in bed.
+
+Pinkie carefully pulls the blanket over me, then tucking it under my sides. "There, now to read you a super fun story."
+
+"Do you have one picked out already?"
+
+"I do, I just need to go find it, I'll be right back."
+
+I nod before I hear her trot away.
+
+*Knowing Pinkie, it will be a fun story.*
+
+I smile as I think about my friend.
+
+*She cares so much.*
+
+*She blames herself for my condition... but it's my fault.*
+
+*I can't let her think that.*
+
+*I need to show her the same emotions she is pouring into me, but how?*
+
+I don't get time to think about it as Pinkie returns with glee.
+
+"I'm back!"
+
+I try to match her energy and smile. "Welcome back!"
+
+I feel her sit down on the side of my bed.
+
+"You sure are smiling a lot for a pony who just went blind."
+
+"It's hard not to when the funnest pony in Equestria is your caretaker."
+
+Pinkie asks with a ting of bashfulness, "You really mean that?"
+
+"Yes."
+
+As I expected, a few seconds later I am wrapped in a tight hug, ruffling the blanket out of place.
+
+I return the hug, nuzzling her.
+
+As we hug, my stomach feels weird, all woozy, and I get this urge to hold the hug forever, not wanting to let go.
+
+I hold the hug a bit longer than normal, but eventually let go.
+
+*That was weird.*
+
+Pinkie, without question, fixes my dishevelled blanket, re-tucking it under my sides.
+
+I can't help but smile even wider from how much she cares. "Thank you."
+
+"You're welcome, Twilight."
+
+"What book did you pick out?"
+
+"I picked a really short one since you look so tired, I hope that's okay?"
+
+"Yes, Pinkie, that's alright."
+
+<!-- TODO: Write short story. -->
+
