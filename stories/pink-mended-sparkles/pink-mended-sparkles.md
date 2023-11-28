@@ -264,7 +264,7 @@ I stand up with a smile before Pinkie comes over to me and puts a hoof over my s
 
 Taking it slow, we make it up the stairs, Pinkie helping every step of the way.
 
-Pinkie leads me over to my bed before saying, "Okay, get in bed and I'll tuck you in nice and snug."
+Pinkie leads me over to my bed before saying, "Okay, get in bed, and I'll tuck you in nice and snug."
 
 I was about to protest, but the idea of being tucked in by a loving friend sounded kinda nice after what happened today.
 
@@ -316,7 +316,7 @@ I hold the hug a bit longer than normal, but eventually let go.
 
 *That was weird.*
 
-Pinkie, without question, fixes my dishevelled blanket, re-tucking it under my sides.
+Pinkie, without question, fixes my disheveled blanket, re-tucking it under my sides.
 
 I can't help but smile even wider from how much she cares. "Thank you."
 
