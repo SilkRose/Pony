@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 # Originally written by Chat GPT, updated by Silk Rose.
-# I don't really like python that much, so I switched to using gnuplot after python.
 
 import json
 import matplotlib.pyplot as plt
