@@ -10,8 +10,9 @@ await mane();
 async function mane() {
 	const id = "237915";
 	const user = "Silk+Rose";
-	const blogs_url = "https://www.fimfiction.net/blog/";
-	const user_blogs_url = `https://www.fimfiction.net/user/${id}/${user}/blog`;
+	const domain = "https://www.fimfiction.net";
+	const blogs_url = `${domain}/blog/`;
+	const user_blogs_url = `${domain}/user/${id}/${user}/blog`;
 	const blog_id_regex = /<a href="\/blog\/[0-9]+\/.*" >.*<\/a>/;
 	let blog_ids = [];
 	for (let i = 1; 1 < Infinity; i++) {
@@ -30,7 +31,7 @@ async function mane() {
 			.split("\n")
 			.map((l) => l.trim());
 		const main = html.indexOf('<div class="main">');
-		const title = html[main - 5].split(/ >|<\/a>/)[1].replace("&#039;", "'");
+		let title = html[main - 5].split(/ >|<\/a>/)[1].replace("&#039;", "'");
 		const time = html[main - 3].split(/data-time="|" title="/)[1];
 		const blog = html[main + 2];
 		const md = NodeHtmlMarkdown.translate(blog);
@@ -42,20 +43,30 @@ async function mane() {
 		const minute = date.getMinutes().toString().padStart(2, "0");
 		const second = date.getSeconds().toString().padStart(2, "0");
 		const filename = `${day}-${hour}-${minute}-${second}.md`;
+		const tagged_story = html[main + 7].includes("Story:");
+		if (tagged_story) {
+			const url = html[main + 7].split(/href="|">/)[1];
+			const name = html[main + 7].split(/">|<\/a>/)[1];
+			title = `# ${title}\n\nTagged story: [${name}](${domain}${url})\n\n***\n\n`;
+		} else {
+			title = `# ${title}\n\n`;
+		}
 		const data =
-			`# ${title}\n\n` +
+			title +
 			md
 				.replaceAll(
 					"https://static.fimfiction.net/images/emoticons",
-					"../../ponies/emotes",
+					"../../../ponies/emotes",
 				)
-				.replaceAll("(/", "(https://www.fimfiction.net/")
+				.replaceAll("(/", `(${domain}/`)
 				.concat("\n");
 		if (!fs.existsSync(`../blog/${year}/${month}/`)) {
 			plib.mkDirs([`../blog/${year}/${month}`]);
 		}
 		const path = `../blog/${year}/${month}/${filename}`;
 		plib.writeFile(path, data);
-		console.log("Finished downloading blog: " + title);
+		console.log(
+			"Finished downloading blog: " + title.split("\n")[0].replace("# ", ""),
+		);
 	}
 }
