@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "bc96d0a98c294fcde304e2fa4cd13bc98f4a1ef5",
+		"subject": "Fix filenames for 2020 blog entries",
+		"unix_time": 1701227307,
+		"code": 327,
+		"covers": 29,
+		"flash_fiction": 5,
+		"ideas": 73,
+		"names": 65,
+		"size": 52893539,
+		"stories": 31,
+		"words": 66585
+	},
+	{
 		"hash": "1ee658909ad58dbb1202ac221df581cb65c2650b",
 		"subject": "Fix filenames for 2019 blog entries",
 		"unix_time": 1701227251,
