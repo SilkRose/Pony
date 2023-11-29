@@ -324,9 +324,403 @@ I can't help but smile even wider from how much she cares. "Thank you."
 
 "What book did you pick out?"
 
-"I picked a really short one since you look so tired, I hope that's okay?"
+"I Couldn't find a book that I wanted to read, so I decided to make you my own bedtime story, it's a really short one since you look so tired, I hope that's okay?"
 
-"Yes, Pinkie, that's alright."
+"Yes, Pinkie, that's alright, sounds exciting."
 
-<!-- TODO: Write short story. -->
+"Ready to begin?"
+
+"Yes!"
+
+"Once upon a time there were these two mares, they were the bestest of friends."
+
+"Were they a earth pony and a unicorn?" I ask expectantly.
+
+"Uhm, no actually, they were uh, a pegasus and a unicorn."
+
+"Oh, sorry for interrupting."
+
+"It's okay, you can stop me anytime to ask questions."
+
+"Okay."
+
+"The pegasus was named Twister, and the unicorn was named... hmm"
+
+"Parchment?"
+
+"Yes, Parchment, good name Twilight."
+
+"Thank you," I say with a smile.
+
+"Twister and Parchment were the best of friends, they spent so much time together."
+
+*Sounds like us.*
+
+"After being friends for a super long time, Twister started feeling different around Parchment."
+
+"How so?"
+
+"At first it was subtle, not wanting to let go of hugs, getting this weird feeling in her stomach. She had no idea what to do."
+
+*Hey, that's how I felt a few minutes ago.*
+
+"Eventually, Twister figured it out, she had a crush on Parchment."
+
+"She did?"
+
+"Yes."
+
+"What did she do about it?"
+
+"At first she didn't know what to do. She didn't know how Parchment would react if she asked her out, so she kept quiet while her feelings grew more and more."
+
+"Did she eventually ask her out?"
+
+"Once her feelings were so strong, she couldn't ignore them, so she tried to ask her out."
+
+"What happened next?"
+
+"She couldn't do it, she tried over and over, but was unable to get the words out. Despite being a very outgoing and excited pony, this one thing she couldn't seem to share."
+
+"how did she overcome this?"
+
+"She didn't, eventually Parchment started to fall for Twister and she asked her out before Twister was able to."
+
+"She said yes, right?"
+
+"Yes."
+
+"What happened next?"
+
+"They kissed."
+
+"So, they got their happy ending."
+
+"Yes, how did you like the story?"
+
+"I really liked it, you are creative."
+
+"Aww, thank you."
+
+I yawn before I can say anything.
+
+Pinkie asks, "You need anything before bed?"
+
+"You're sleeping in my guest bed right over there?" I ask as I point in the direction of where it should be.
+
+"Yes, if you need anything I'll be right there, just yell and wake me up."
+
+"Okay, thank you, goodnight Pinkie."
+
+"Goodnight Twilight," Pinkie says before I feel her gently hug me.
+
+I hear her trot over to the bed and lay down.
+
+I turn over and do my best to fall asleep.
+
+As I lay there right before falling asleep, I only have one question on my mind.
+
+*Do I have a crush on Pinkie?*
+
+***
+
+"twilight!"
+
+I'm awoken by somepony calling my name. I lift my head up to look around, only to remember my condition.
+
+"Pinkie?" I ask.
+
+I hear Pinkie murmur, "Twilight, please forgive me."
+
+"For what?"
+
+"Twilight!"
+
+"Pinkie, are you okay?"
+
+"...forgive me."
+
+*What is going on?*
+
+"Pinkie, are you awake?"
+
+"Twi...
+
+"...sorry."
+
+*She has to be asleep. I should go over to her, right?*
+
+I hear a muffled sob.
+
+*Yes, I should.*
+
+Remembering what happened earlier, I take the walk to the guest bd at a snails pace.
+
+Inching forward every few seconds, I map where I should be and eventually make it to her bed.
+
+Using my front hooves, I feel for where Pinkie is.
+
+I find her in the muddle of the bed, half uncovered from the blanket.
+
+Feeling around her I find a wet spot near her head.
+
+*She's been crying...*
+
+I try to gently wake her, rocking her side to side.
+
+It doesn't work and she just murmurs my name. "Twilight..."
+
+I slowly get on the bed, to make it easier to handle.
+
+"Pinkie?"
+
+"Twilight... I'm sorry."
+
+I try and poke her chest with my hoof.
+
+"Twilight..."
+
+"What?"
+
+"Twi... I... ...you."
+
+Laying on he bed beside Pinkie, I start to shiver.
+
+*When did it get so cold?*
+
+I feel over Pinkie and pull the blanket over us.
+
+*What should I do now?*
+
+*She's not waking up.*
+
+*Is she having a nightmare?*
+
+*Maybe I can comfort her somehow?*
+
+I pull Pinkie into a tight embrace, gently rubbing her back.
+
+Pinkie's murmurs change, from a somber tone to a hopeful tone.
+
+"Twilight," Pinkie whispers before curling into my embrace, pushing her head into my chest.
+
+"Shh, everything is okay Pinkie, you have nothing to forgive."
+
+this seems to dispel her dreams' fear and she nuzzles my leg.
+
+I yawn and decide to just sleep here.
+
+*Guess I'm sleeping with Pinkie now.*
+
+*I like being close to her... just wish it were under better circumstances.*
+
+*I'm glad I was able to help.*
+
+I nuzzle the top of Pinkie's head. "Goodnight, Twister."
+
+"Good... Par..." Pinkie tries in her sleep.
+
+I smile as I hold Pinkie, drifting off to sleep soon after.
+
+***
+
+I wake up with a very tingly face. I try to wipe my face with a hoof, but both my hooves are trapped. One is underneath Pinkie, while the other is wrapped around her, where she is holding it to her chest.
+
+*Must be her mane in my face.*
+
+I squeeze her as I call her name. "Pinkie."
+
+Pinkie rustles a bit, but doesn't wake up.
+
+I do it again and this time I hear her wake up.
+
+"Twilight?"
+
+"Yes, Pinkie?"
+
+"I had a nightmare..."
+
+"I know, I did my best to help."
+
+"I'm sorry you had to..."
+
+"Oh, it's alright, it was getting lonely in my bed anyway."
+
+"Are you sure?"
+
+"Yes, you're a nice pony to hold."
+
+"Thank you." Pinkie turns over to face me.
+
+"What was that nightmare about? You kept saying sorry and asking for forgiveness."
+
+"It's my fault you are like this. I was the one who asked you to cast that dangerous spell."
+
+"But I was the one who agreed to cast it, I take some of the blame too."
+
+"It wouldn't have happened if I hadn't asked."
+
+"You did, and I said yes. I knew the risks beforehoof. It's both our faults, okay?"
+
+"Okay."
+
+"Who's fault was it?"
+
+"Both of ours."
+
+"Thank you."
+
+"Thank you, Twilight."
+
+I pull her close and hold her tight. "I love you Pinkie, you are such a great friend."
+
+Pinkie nuzzles me. "I love you too, Twilight."
+
+I whisper to her, "I'd rather go permanently blind than lose you as a friend."
+
+Pinkie hides her face in my chest before I start to feel a wetness on my chest. She whispers, "I love you... so much."
+
+We lay there together for some time, until, Pinkie pulls her face back from my chest.
+
+Pinkie asks, "What do you want for breakfast?"
+
+I think for a moment before saying, "How about waffles?"
+
+"Sounds delicious," Pinkie says before untangling herself from me. "Let's go downstairs and I'll make them for us."
+
+"Okay." I sit up and stretch my legs.
+
+Pinkie helps me out of bed and down the steps. We get to the kitchen and she leads me to the table, where I sit down.
+
+I hear Pinkie start to make the food as I drift off into thought.
+
+*Do I have a crush on Pinkie Pie?*
+
+*How do I tell?*
+
+*I liked being close to her last night and this morning.*
+
+*I did have that funny feeling Pinkie described in her story.*
+
+*if it is love, is it true? Or because she is the one who saved me?*
+
+*Oh, this is hard.*
+
+*Should I talk to her about it?*
+
+*Should I talk to another pony about it?*
+
+*Aha, that's it! I can talk to Rarity, she knows a lot about romance.*
+
+*I'll ask Pinkie to go get her after we eat.*
+
+As I was about to switch trains of thought, a memory from last night derails it into a new idea.
+
+> I nuzzle the top of Pinkie's head. "Goodnight, Twister."
+>
+> "Good... Par..." Pinkie tries in her sleep.
+
+*Was Pinkie's story eluding to her having feelings for me?*
+
+*The way she described the characters, it did sound like us.*
+
+*And aren't I realizing I might have feelings for her right now?*
+
+*Is Pinkie scared to ask me out?*
+
+*I guess it's another thing I can ask Rarity about.*
+
+*She'll know what to do.*
+
+"Pinkie?"
+
+"Yes?"
+
+"After breakfast, can you go get Rarity for me? I need to talk to her."
+
+"Absolutely."
+
+"Thanks, how's the waffles going?"
+
+"Going great, they'll be done in a minute."
+
+As promised, a minute later Pinkie slid a plate in from of me.
+
+I lean down and feel the heat radiating off the food.
+
+*Better wait a minute to eat.*
+
+I hear Pinkie sit down with her own plate. "Twilight?"
+
+"Yes?"
+
+"I just wanted to say thank you again, my nightmare went away after you started holding me. I slept so much better after that."
+
+"I'm glad it helped, I never want you to feel like that."
+
+"Thank you," Pinkie says with a cheer in her voice.
+
+"Holding you actually made me sleep better too," I say with a smile.
+
+"Aww, thank you. Let me know how you like the waffles? I made them with extra love."
+
+"Will do."
+
+Leaning down I can feel the lessoned heat and decide they are good to eat now.
+
+I eat the waffles like I did the pancakes.
+
+*These are really good, too.*
+
+We eat and finish our food without incident.
+
+"Those were awesome!" I exclaim.
+
+"Yay!"
+
+"Thank you for helping me out, I don't think I'd be eating as good if it were anypony else."
+
+We share a chuckle before Pinkie speaks up. "Want me to go get Rarity now? Do you want help going to the couch?"
+
+"Yes, and yes."
+
+Pinkie helps me to the couch before saying, "I'll be back with our friend, don't get hurt while I'm gone."
+
+I giggle. "I'll try not to."
+
+Pinkie leaves for Carousel Boutique, leaving me alone with my thoughts.
+
+I decide to think about Pinkie, starting with her looks.
+
+*Pinkie is pretty, am I attracted to her?*
+
+The last image I saw before going blind flashes in my mind, Pinkie staring at me, worry overtaking every facet of her face.
+
+*Even when worried, she still looked beautiful.*
+
+I can feel my face heating up.
+
+*Am I blushing?*
+
+*Maybe I am attracted to her.*
+
+*I... want to see her face again.*
+
+*But I can't, not until my eyes are healed.*
+
+I think about how she makes me feel.
+
+*I really didn't want to let go of that hug last night.*
+
+*What if she felt the same?*
+
+*Maybe Rarity will have some insight.*
+
+*When I held her last night as we slept, I really enjoyed that.*
+
+*I think she did too, by the way she acted when we woke up.*
+
+*But what if that was just because I got rid of her nightmare?*
+
+*Mare, romance is hard...*
 
