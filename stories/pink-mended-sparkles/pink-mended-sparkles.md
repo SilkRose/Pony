@@ -274,7 +274,7 @@ Pinkie carefully pulls the blanket over me, then tucking it under my sides. "The
 
 "Do you have one picked out already?"
 
-"I do, I just need to go find it, I'll be right back."
+"I don't, but I'll go find one, I'll be right back."
 
 I nod before I hear her trot away.
 
@@ -454,13 +454,13 @@ I hear a muffled sob.
 
 *Yes, I should.*
 
-Remembering what happened earlier, I take the walk to the guest bd at a snails pace.
+Remembering what happened earlier, I take the walk to the guest bed at a snails pace.
 
 Inching forward every few seconds, I map where I should be and eventually make it to her bed.
 
 Using my front hooves, I feel for where Pinkie is.
 
-I find her in the muddle of the bed, half uncovered from the blanket.
+I find her in the middle of the bed, half uncovered from the blanket.
 
 Feeling around her I find a wet spot near her head.
 
@@ -723,4 +723,324 @@ I think about how she makes me feel.
 *But what if that was just because I got rid of her nightmare?*
 
 *Mare, romance is hard...*
+
+I decide to wait until Rarity is here so I can talk to her about it all.
+
+Moment's later, I hear the front door open.
+
+"Hello darling," I hear Rarity say.
+
+"Hi Rarity," I reply.
+
+"Hi Twilight, I'm back!" Pinkie says.
+
+"Pinkie, I need to talk to Rarity in private, can you wait outside for a few minutes? Sorry..."
+
+"It's okay, sure."
+
+I hear Pinkie trot outside before closing the door.
+
+"What's going on, darling?" Rarity asks, concerned.
+
+I explain everything to Rarity: my changed feelings, Pinkie's story, Pinkie's nightmare, me helping with the nightmare, Pinkie's guilt, holding Pinkie and sleeping.
+
+I end by asking, "Do you think I have a crush on Pinkie? Do you think she has a crush on me?"
+
+"Telling if you have a crush should be easy. Pinkie, on the other hoof, might be harder."
+
+"How will mine be easy?"
+
+"I believe a simple test would do. You need to hug me, and Pinkie, and compare how you felt for both hugs. What do you think?"
+
+"Rarity, that's genius!"
+
+"Thank you, darling."
+
+"What about Pinkie, how do I know if she likes me?"
+
+"While I think she does have a crush on you, you could try to get a more concrete answer."
+
+"How?"
+
+"Is Pinkie going to read you another bedtime story tonight?"
+
+"I don't know, I was hoping she would."
+
+"Why don't you tell the story this time?"
+
+"What for?"
+
+"Tell a story using the same characters but this time have it be about Parchment having trouble figuring out if Twister likes her back."
+
+"How will that help?"
+
+"When Pinkie told her story, you helped some, yes?"
+
+"Yes."
+
+"This time Pinkie will help you."
+
+"How is that going to help? I'm not following."
+
+"These characters are stand-ins for you and Pinkie, right?"
+
+"I don't know, I know we used those names right as we fell asleep last night, but I didn't think anything of it."
+
+"Well, I think they are, and I think it will help you figure all this out. Use the characters to express your feelings and gauge how the other one feels."
+
+"Okay, but how do I gauge how she feels?"
+
+"Read into how she helps your story and the answers."
+
+"If you think it will work, okay."
+
+"time to hug, darling."
+
+"Okay, thank you Rarity."
+
+"You're most welcome."
+
+Rarity hugs me and I hug back.
+
+I concentrate on how I feel.
+
+*Feels like a nice hug from a loving friend.*
+
+After the hug, Rarity calls out, "Twister, Parchment here needs a hug!"
+
+I start to blush as I hear the door open.
+
+"I'm on it!" I hear Pinkie say seconds before I'm wrapped in a big hug.
+
+I concentrate on Pinkie's hug.
+
+*Feels different, more close. I love it. I don't want to let go again. My stomach feels weird again.*
+
+Pinkie let's go as I hold on for a few more seconds, the realization hitting me.
+
+*I have a crush on Pinkie.*
+
+"Thank you Rarity, it's a yes."
+
+"You're welcome, I'll see you two later. Bye, darlings, and good luck to the both of you."
+
+"Goodbye Rarity," Pinkie says.
+
+"Goodbye," I say.
+
+A few moments later I hear the door close behind her.
+
+"What was a yes?"
+
+"You'll see later, sound good?"
+
+"Okay, sounds fun."
+
+"What now?"
+
+"I don't know, what do you wanna do?"
+
+*Hug you again.*
+
+***
+
+I climb into bed, excited and nervous to figure out how Pinkie feels about me.
+
+"Pinkie?"
+
+"Yes, Twilight?"
+
+"Can I tell the story tonight?"
+
+"Oh, absolutely, that sounds so fun!"
+
+"Is it okay to use the same characters from your story?"
+
+"Yes."
+
+"Thank you."
+
+"You're welcome."
+
+*Here goes nothing.*
+
+"Parchment thinks she has a crush on Twister, but she doesn't know how to tell if Twister likes her back."
+
+"Oh, sounds interesting."
+
+"Parchment decides to..."
+
+I deliberately hang to try and get Pinkie to help.
+
+"Hug Twister a lot?"
+
+*That sounds like us.*
+
+"Yes, Parchment loves hugs, especially from Twister."
+
+"I bet Twister loves to give hugs!"
+
+"Yes, she does."
+
+"What happens next?"
+
+"Parchment kept holding their hugs for a little longer than normally, but didn't know how to gauge Twister's feelings. What do you think Parchment should do?"
+
+*I have no idea if this will work, hopefully Rarity is right.*
+
+"I think she should do something small that shows she is interested in Twister romantically."
+
+"Like what exactly?"
+
+"Maybe she could give her a small kiss on the cheek."
+
+*Should I kiss Pinkie on the cheek?*
+
+"What if she is too scared to do that?"
+
+"That's how Twister was in my story, she wanted to show her feelings but was too afraid to make a move..."
+
+"do you think Parchment should make the fist move even if she is afraid to do so?"
+
+"I think she should, but that whats I would say to Twister too."
+
+"sounds like romance can be difficult sometimes."
+
+"Twister would agree."
+
+"So would Parchment."
+
+"What does Parchment end up doing?"
+
+*I have to kiss Pinkie's cheek, right?*
+
+"I think she takes the plunge, for both of them. She kisses Twister on the cheek, scared to death. What would Twister do then?"
+
+"I think Twister would be shocked, but really happy. I think she would want to kiss Parchment on the lips."
+
+"I think Parchment would like that."
+
+"What do they do after they kiss?"
+
+"I think they live happily ever after, I would hope."
+
+"What if Twister didn't like them back and didn't like the kiss on the cheek? I think Twister would like it, I'm just curious..."
+
+"They would have to talk about it, I think. I don't think they would need to, I think they both like each other."
+
+"I think so too."
+
+A silence took over the room for a few seconds before I ask, "I'm ready to sleep, you?"
+
+"Yes," Pinkie says before she tucks me in sweetly.
+
+"Pinkie?"
+
+"Yes, Twilight?"
+
+"Can you sleep in my bed? I don't want to be alone..."
+
+"Yes!" Pinkie slides under the covers, laying beside me.
+
+I act like I'm readjusting and slide closer to her.
+
+We both get comfortable then lay in silence for a moment.
+
+In the quietest voice I've ever heard from Pinkie, I hear, "Do you want me to hold you? You know, to make up for you having to hold me last night."
+
+I take a second to reply, eventually saying, "Yes, so we're even."
+
+Pinkie gently wraps her hooves around me, holding me tight.
+
+I smile in her embrace, happy to be held.
+
+Pinkie whispers, "Goodnight, Parchment."
+
+I whisper back, "Goodnight, Twister."
+
+*Does the names mean we both like each other?*
+
+*Should I kiss her cheek now?*
+
+Can *I kiss her cheek now?*
+
+*Maybe I should wait till tomorrow.*
+
+*I wouldn't want to ruin this moment if she didn't like it.*
+
+*Yea, I'll do it tomorrow.*
+
+***
+
+I wake up in the middle of the night, still holding Twilight.
+
+Opening my eyes, I see Twilight's mane. I nuzzle her mane before sighing.
+
+I quietly lament to myself.
+
+"Why can't I just tell you how I feel?"
+
+"It sure seems like you like me, but how do I know for sure."
+
+*Maybe tomorrow I can try to kiss your cheek?*
+
+*Yea, I can do that. I hope.*
+
+As I lay their, an idea comes to me.
+
+*Maybe I could practice by kissing her cheek when she is asleep?*
+
+*Yea, that will make it easier tomorrow.*
+
+Moving carefully, I slowly lean over Twilight. I plant a small kiss on her cheek, lasting a few seconds.
+
+"I love you, Parchment."
+
+Laying back down, I gently squeeze Twilight.
+
+"Goodnight, my love."
+
+***
+
+I wake up in the middle of the night, Pinkie's hooves still gently wrapped around me.
+
+"Pinkie?"
+
+No response.
+
+I feel Pinkie's hot breath on the back of my neck.
+
+"What do I do?" I ponder to myself.
+
+"I'm suppose to kiss your cheek tomorrow, but what if I chicken out?"
+
+"You mean so much to me... I'm terrified if you say no it will ruin our friendship."
+
+I turn over slowly and face Pinkie.
+
+"What should I do Pinkie? Do you think I should kiss you?"
+
+Pinkie didn't respond only twitching slightly.
+
+As Pinkie's breath hits my face, I notice my cheek has a funny feeling to it.
+
+*Maybe I can kiss her cheek now as practice?*
+
+I decide to do it.
+
+I use Pinkie breath to gauge where her cheek is and pres my lips gently to her fur.
+
+*I love this.*
+
+As I pull away from the kiss, my eyes start to water.
+
+"I love you, Twister."
+
+I wrap my hooves around Pinkie and pull her into a tight embrace.
+
+*Dear Celestia, I hope she says yes.*
+
+"Goodnight, my love."
+
+***
 
