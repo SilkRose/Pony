@@ -284,7 +284,7 @@ I smile as I think about my friend.
 
 *She cares so much.*
 
-*She blames herself for my condition... but it's my fault.*
+*She blames herself for my condition… but it's my fault.*
 
 *I can't let her think that.*
 
@@ -344,7 +344,7 @@ I can't help but smile even wider from how much she cares. "Thank you."
 
 "Okay."
 
-"The pegasus was named Twister, and the unicorn was named... hmm"
+"The pegasus was named Twister, and the unicorn was named… hmm"
 
 "Parchment?"
 
@@ -438,15 +438,15 @@ I hear Pinkie murmur, "Twilight, please forgive me."
 
 "Pinkie, are you okay?"
 
-"...forgive me."
+"…forgive me."
 
 *What is going on?*
 
 "Pinkie, are you awake?"
 
-"Twi...
+"Twi…
 
-"...sorry."
+"…sorry."
 
 *She has to be asleep. I should go over to her, right?*
 
@@ -464,25 +464,25 @@ I find her in the middle of the bed, half uncovered from the blanket.
 
 Feeling around her I find a wet spot near her head.
 
-*She's been crying...*
+*She's been crying…*
 
 I try to gently wake her, rocking her side to side.
 
-It doesn't work and she just murmurs my name. "Twilight..."
+It doesn't work and she just murmurs my name. "Twilight…"
 
 I slowly get on the bed, to make it easier to handle.
 
 "Pinkie?"
 
-"Twilight... I'm sorry."
+"Twilight… I'm sorry."
 
 I try and poke her chest with my hoof.
 
-"Twilight..."
+"Twilight…"
 
 "What?"
 
-"Twi... I... ...you."
+"Twi… I… …you."
 
 Laying on he bed beside Pinkie, I start to shiver.
 
@@ -512,13 +512,13 @@ I yawn and decide to just sleep here.
 
 *Guess I'm sleeping with Pinkie now.*
 
-*I like being close to her... just wish it were under better circumstances.*
+*I like being close to her… just wish it were under better circumstances.*
 
 *I'm glad I was able to help.*
 
 I nuzzle the top of Pinkie's head. "Goodnight, Twister."
 
-"Good... Par..." Pinkie tries in her sleep.
+"Good… Par…" Pinkie tries in her sleep.
 
 I smile as I hold Pinkie, drifting off to sleep soon after.
 
@@ -538,11 +538,11 @@ I do it again and this time I hear her wake up.
 
 "Yes, Pinkie?"
 
-"I had a nightmare..."
+"I had a nightmare…"
 
 "I know, I did my best to help."
 
-"I'm sorry you had to..."
+"I'm sorry you had to…"
 
 "Oh, it's alright, it was getting lonely in my bed anyway."
 
@@ -578,7 +578,7 @@ Pinkie nuzzles me. "I love you too, Twilight."
 
 I whisper to her, "I'd rather go permanently blind than lose you as a friend."
 
-Pinkie hides her face in my chest before I start to feel a wetness on my chest. She whispers, "I love you... so much."
+Pinkie hides her face in my chest before I start to feel a wetness on my chest. She whispers, "I love you… so much."
 
 We lay there together for some time, until, Pinkie pulls her face back from my chest.
 
@@ -618,7 +618,7 @@ As I was about to switch trains of thought, a memory from last night derails it 
 
 > I nuzzle the top of Pinkie's head. "Goodnight, Twister."
 >
-> "Good... Par..." Pinkie tries in her sleep.
+> "Good… Par…" Pinkie tries in her sleep.
 
 *Was Pinkie's story eluding to her having feelings for me?*
 
@@ -704,7 +704,7 @@ I can feel my face heating up.
 
 *Maybe I am attracted to her.*
 
-*I... want to see her face again.*
+*I… want to see her face again.*
 
 *But I can't, not until my eyes are healed.*
 
@@ -722,7 +722,7 @@ I think about how she makes me feel.
 
 *But what if that was just because I got rid of her nightmare?*
 
-*Mare, romance is hard...*
+*Mare, romance is hard…*
 
 I decide to wait until Rarity is here so I can talk to her about it all.
 
@@ -734,7 +734,7 @@ Moment's later, I hear the front door open.
 
 "Hi Twilight, I'm back!" Pinkie says.
 
-"Pinkie, I need to talk to Rarity in private, can you wait outside for a few minutes? Sorry..."
+"Pinkie, I need to talk to Rarity in private, can you wait outside for a few minutes? Sorry…"
 
 "It's okay, sure."
 
@@ -868,7 +868,7 @@ I climb into bed, excited and nervous to figure out how Pinkie feels about me.
 
 "Oh, sounds interesting."
 
-"Parchment decides to..."
+"Parchment decides to…"
 
 I deliberately hang to try and get Pinkie to help.
 
@@ -898,7 +898,7 @@ I deliberately hang to try and get Pinkie to help.
 
 "What if she is too scared to do that?"
 
-"That's how Twister was in my story, she wanted to show her feelings but was too afraid to make a move..."
+"That's how Twister was in my story, she wanted to show her feelings but was too afraid to make a move…"
 
 "do you think Parchment should make the fist move even if she is afraid to do so?"
 
@@ -924,7 +924,7 @@ I deliberately hang to try and get Pinkie to help.
 
 "I think they live happily ever after, I would hope."
 
-"What if Twister didn't like them back and didn't like the kiss on the cheek? I think Twister would like it, I'm just curious..."
+"What if Twister didn't like them back and didn't like the kiss on the cheek? I think Twister would like it, I'm just curious…"
 
 "They would have to talk about it, I think. I don't think they would need to, I think they both like each other."
 
@@ -938,7 +938,7 @@ A silence took over the room for a few seconds before I ask, "I'm ready to sleep
 
 "Yes, Twilight?"
 
-"Can you sleep in my bed? I don't want to be alone..."
+"Can you sleep in my bed? I don't want to be alone…"
 
 "Yes!" Pinkie slides under the covers, laying beside me.
 
@@ -1014,7 +1014,7 @@ I feel Pinkie's hot breath on the back of my neck.
 
 "I'm suppose to kiss your cheek tomorrow, but what if I chicken out?"
 
-"You mean so much to me... I'm terrified if you say no it will ruin our friendship."
+"You mean so much to me… I'm terrified if you say no it will ruin our friendship."
 
 I turn over slowly and face Pinkie.
 
