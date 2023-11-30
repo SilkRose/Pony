@@ -10,7 +10,7 @@ async function mane() {
 	const jsonFilePath = "./dist/api/v1/pony-commits.json";
 	const jsonData = (await pfs.readJsonFile(jsonFilePath)) as Commit[];
 	const line_data = jsonData.map(
-		(c) => `${c.unix_time} ${c.words} ${c.code} ${c.size}`
+		(c) => `${c.unix_time} ${c.words} ${c.code} ${c.size}`,
 	);
 	const change_data = jsonData.reverse().map((c, i) => {
 		if (i === 0) {
