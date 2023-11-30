@@ -1,6 +1,6 @@
-"What do I actually want to do?"
+# What do I actually want to do?
 
-Introduction:
+## Introduction:
 
 I don't know what to do, like at all. What I mean is I have this desire to create, but I cannot decide what to I want to make, I have many interests, but I cannot decide what interest I want to create for.
 
@@ -8,7 +8,7 @@ This is a long video, throughout the process of writing it, I have realized a lo
 
 Before we start, I want to give a tip to anyone that doesn't know where to start, write it down. Whatever your problems are, write them down, acknowledge them and write out a plan on how you are going to overcome them.
 
-Section one: Change, and how to accept it.
+## Section one: Change, and how to accept it.
 
 I have a problem, at any given time, I don't know what to do. Paralyzed by the choice of which hobby I can or want to do. Most of the time when this happens, I pick the easy road, none. This leads to months of no progress, where I do nothing and feel like a failure. This is unhealthy, and I need to fix this.
 
@@ -30,7 +30,7 @@ Now there are more reasons people build walls, but for now these are all I'm goi
 
 How are we going to bring those walls down? The first step is acknowledging they are there, think to yourself when have I been unwilling to change and why?
 
-Section two: Passion, and how to find it.
+## Section two: Passion, and how to find it.
 
 I don't know what I'm passionate about*. Now, that's not to say I don't have passions, I am very passionate about a lot, a few examples would be, My Little Pony, and computers. I love MLP and anything computer related. What I mean is, what am I passionate about creating? I, like many others, have a passion to create, we just don't know what we want to make.
 
@@ -48,7 +48,7 @@ The last mistake I'll mention is giving up when it's hard. It's going to be hard
 
 Now I'm going to go over all the creative endeavors I've done and explain why I am not passionate about each one and how I failed to engage with them appropriately.
 
-Love & Tolerance resource pack -
+### Love & Tolerance Resource Pack:
 
 The Love & Tolerance resource pack is a Minecraft resource pack themed around My Little Pony: Friendship is Magic. This resource pack combines my two favorite things, MLP and Minecraft. It was created over 10 years ago by a fellow named Arekuzu, then it was taken over by Hazzat, then it was maintained by Bronydog, then SolisLink, then me.
 
@@ -68,7 +68,7 @@ The last problem I have with the pack is self-inflicted, I went ahead and made t
 
 Even with these problems, I don't see myself ever stopping work on the pack, heck I have the website domain registered till 2030, maybe by then the pack will actually be completed.
 
-Writing fiction -
+### Writing Fiction:
 
 Writing fan fiction is the hobby I've done the longest, I released my first story on November 6th 2017. Since then, I have released four more stories, one incomplete, and three completed stories. Out of the stories I have released, three of them are romance, and one is _random_.
 
@@ -80,7 +80,9 @@ So that I'm not repeating myself, when I am having the same problem in more than
 
 "Relying on grammar tools" you shouldn't need a grammar tool if you're writing in your native language, learn your language. Grammar tools distract you from writing, if you must use one, turn it off until you are completely done writing.
 
-Section three: Creativity, and how to express it.
+## Section three: Creativity, and how to express it.
 
-Section four: Choice paralysis, and how to deal with it.
+
+
+## Section four: Choice paralysis, and how to deal with it.
 
