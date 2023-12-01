@@ -620,11 +620,9 @@ As I was about to switch trains of thought, a memory from last night derails it 
 >
 > "Good… Par…" Pinkie tries in her sleep.
 
-*Was Pinkie's story eluding to her having feelings for me?*
+*What was Pinkie's story eluding to?*
 
 *The way she described the characters, it did sound like us.*
-
-*And aren't I realizing I might have feelings for her right now?*
 
 *Is Pinkie scared to ask me out?*
 
@@ -644,7 +642,7 @@ As I was about to switch trains of thought, a memory from last night derails it 
 
 "Going great, they'll be done in a minute."
 
-As promised, a minute later Pinkie slid a plate in from of me.
+As promised, a minute later Pinkie slid a plate in front of me.
 
 I lean down and feel the heat radiating off the food.
 
