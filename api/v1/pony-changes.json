@@ -1,14 +1,14 @@
 [
 	{
-		"hash": "ecb4e8ba6ccb4de09cff6a351145b82f1bcce8e3",
-		"subject": "Fix linguist language ignore for archive",
-		"unix_time": 1701489666,
+		"hash": "1a4ff958c48ddeb207583c31766b12fc01942b69",
+		"subject": "Update linguist language detection",
+		"unix_time": 1701489845,
 		"code": 0,
 		"covers": 0,
 		"flash_fiction": 0,
 		"ideas": 0,
 		"names": 0,
-		"size": 82,
+		"size": -18,
 		"stories": 0,
 		"words": 0
 	},
