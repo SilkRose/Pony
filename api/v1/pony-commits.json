@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "ef0528017efffed62f8a234e662271b681cdd4b0",
+		"subject": "Update blog 2019-11-06a",
+		"unix_time": 1701504070,
+		"code": 274,
+		"covers": 29,
+		"flash_fiction": 5,
+		"ideas": 73,
+		"names": 65,
+		"size": 52909322,
+		"stories": 31,
+		"words": 69818
+	},
+	{
 		"hash": "591e6302f345472c58fa8e22ed9d5892322027ef",
 		"subject": "Move blog-rename.ts into archive",
 		"unix_time": 1701499102,
