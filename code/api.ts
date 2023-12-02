@@ -21,6 +21,7 @@ type Commit = {
 };
 
 type Stats = {
+	blogs: string;
 	code: string;
 	covers: string;
 	flash_fiction: string;
@@ -48,6 +49,7 @@ async function mane() {
 		'git log mane --format="format:%H\n%s\n%ct\n"',
 	);
 	const commits: Commit[] = getCommitData(git_log);
+	plib.executeCommand(`git checkout --quiet ${commits[0].hash}`);
 	const stats: Stats = getLatestStats(commits[0], commits.length);
 	const pony_string = plib.jsonFmt(JSON.stringify(stats));
 	const pony_commits_string = plib.jsonFmt(JSON.stringify(commits));
@@ -194,6 +196,9 @@ function countWords(
 
 function getLatestStats(latest: Commit, commits: number) {
 	return {
+		blogs: plib
+			.findFilesInDir("./blog/", [/.md$/], [])
+			.length.toLocaleString("en-US"),
 		code: latest.code.toLocaleString("en-US"),
 		commits: commits.toLocaleString("en-US"),
 		covers: latest.covers.toLocaleString("en-US"),
