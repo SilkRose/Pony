@@ -1,5 +1,18 @@
 [
 	{
+		"hash": "7025e77e3c61fb0c2124d946cba161e3cbe02c58",
+		"subject": "Add blog counting to Typescript API",
+		"unix_time": 1701510581,
+		"code": 5,
+		"covers": 0,
+		"flash_fiction": 0,
+		"ideas": 0,
+		"names": 0,
+		"size": 175,
+		"stories": 0,
+		"words": 0
+	},
+	{
 		"hash": "c2863e2a11c4ce5c8729942fa0db430d3abc0d95",
 		"subject": "Fix formatting on blog entry 2023-11-06a",
 		"unix_time": 1701505993,
