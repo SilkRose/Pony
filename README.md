@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/SilkRose/Pony/tree/mane/blog" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8" alt="Blogs"></a>
+	<a href="https://github.com/SilkRose/Pony/tree/mane/blogs" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8" alt="Blogs"></a>
 	&nbsp;
 	<a href="https://github.com/SilkRose/Pony/commits/mane" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764" alt="Commits"></a>
 	&nbsp;
