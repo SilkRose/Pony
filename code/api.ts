@@ -197,7 +197,7 @@ function countWords(
 function getLatestStats(latest: Commit, commits: number) {
 	return {
 		blogs: plib
-			.findFilesInDir("./blog/", [/.md$/], [])
+			.findFilesInDir("./blogs/", [/.md$/], [])
 			.length.toLocaleString("en-US"),
 		code: latest.code.toLocaleString("en-US"),
 		commits: commits.toLocaleString("en-US"),
