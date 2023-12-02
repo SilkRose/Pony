@@ -16,6 +16,8 @@
 </p>
 
 <p align="center">
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8">
+	&nbsp;
 	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764">
 	&nbsp;
 	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=code&style=flat-square&label=Code&labelColor=%23D9C574&color=%23F3F49B">
