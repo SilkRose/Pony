@@ -2,27 +2,27 @@
 ![banner]
 
 <p align="center">
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF">
+	<a href="https://github.com/SilkRose/Pony#statistics" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF" alt="Words"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB">
+	<a href="https://github.com/SilkRose/Pony/tree/mane/stories" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB" alt="Stories"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0">
+	<a href="https://github.com/SilkRose/Pony#statistics" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0" alt="Covers"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0">
+	<a href="https://github.com/SilkRose/Pony/blob/mane/stories/ideas.md" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0" alt="Ideas"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.names&style=flat-square&label=Names&labelColor=%23EF6F2F&color=%23FABA62">
+	<a href="https://github.com/SilkRose/Pony/blob/mane/stories/names.md" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.names&style=flat-square&label=Names&labelColor=%23EF6F2F&color=%23FABA62" alt="Names"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.flash_fiction&style=flat-square&label=Flash%20Fiction&labelColor=%236BABDA&color=%239BDBF5">
+	<a href="https://github.com/SilkRose/Pony/tree/mane/flash-fiction" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.flash_fiction&style=flat-square&label=Flash%20Fiction&labelColor=%236BABDA&color=%239BDBF5" alt="Flash Fiction"></a>
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8">
+	<a href="https://github.com/SilkRose/Pony/tree/mane/blog" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8" alt="Blogs"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764">
+	<a href="https://github.com/SilkRose/Pony/commits/mane" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764" alt="Commits"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=code&style=flat-square&label=Code&labelColor=%23D9C574&color=%23F3F49B">
+	<a href="https://github.com/SilkRose/Pony/tree/mane/code" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=code&style=flat-square&label=Code&labelColor=%23D9C574&color=%23F3F49B" alt="Code"></a>
 	&nbsp;
-	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=size&style=flat-square&label=Size&labelColor=%23CEC8D1&color=%23EFEDED">
+	<a href="https://github.com/SilkRose/Pony#statistics" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=size&style=flat-square&label=Size&labelColor=%23CEC8D1&color=%23EFEDED" alt="Size"></a>
 </p>
 
 <p align="center">
