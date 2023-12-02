@@ -1,6 +1,8 @@
-# Tell GitHub linguist stats to ignore all files in /archive/
-archive/** linguist-detectable=false
-# Tell GitHub linguist stats to track Markdown files
+# Tell GitHub Linguist to ignore all files in /archive/
+archive/** linguist-vendored
+
+# Tell GitHub Linguist to track Markdown files
 *.md linguist-detectable=true
+
 # Auto detect text files and perform LF normalization
 * text=auto
