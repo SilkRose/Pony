@@ -6,23 +6,10 @@ import * as plib from "./lib.ts";
 import path from "path";
 import fs from "fs";
 
-type Commit = {
-	hash: string;
-	subject: string;
-	unix_time: number;
-	code: number;
-	covers: number;
-	flash_fiction: number;
-	ideas: number;
-	names: number;
-	size: number;
-	stories: number;
-	words: number;
-};
-
-type Stats = {
+type Pony = {
 	blogs: string;
 	code: string;
+	commits: string;
 	covers: string;
 	flash_fiction: string;
 	ideas: string;
@@ -32,7 +19,17 @@ type Stats = {
 	words: string;
 };
 
-type Change = Commit;
+type PonyCommit = {
+	hash: string;
+	subject: string;
+	unix_time: number;
+	code: number;
+	code_change?: number;
+	size: number;
+	size_change?: number;
+	words: number;
+	word_change?: number;
+};
 
 await mane();
 
@@ -45,61 +42,56 @@ async function mane() {
 	const git_url = repository.url.slice(4);
 	plib.executeCommand(`git clone --quiet ${git_url} pony-temp`);
 	process.chdir("./pony-temp");
-	const git_log = plib.executeCommandReturn(
-		'git log mane --format="format:%H\n%s\n%ct\n"',
-	);
-	const commits: Commit[] = getCommitData(git_log);
-	plib.executeCommand(`git checkout --quiet ${commits[0].hash}`);
-	const stats: Stats = getLatestStats(commits[0], commits.length);
-	const pony_string = plib.jsonFmt(JSON.stringify(stats));
-	const pony_commits_string = plib.jsonFmt(JSON.stringify(commits));
+	const git_log = plib
+		.executeCommandReturn('git log mane --format="format:%H\n%s\n%ct\n"')
+		.split("\n\n")
+		.reverse();
+	const pony: Pony = getPonyData(git_log.length);
+	const pony_commits: PonyCommit[] = getChanges(getCommitData(git_log));
+	const pony_string = plib.jsonFmt(JSON.stringify(pony));
+	const pony_commits_string = plib.jsonFmt(JSON.stringify(pony_commits));
 	plib.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
 	plib.writeFile(
 		"../dist/api/v1/pony-commits.json",
 		pony_commits_string + "\n",
 	);
-	const changes = getChanges(commits);
-	const changes_string = plib.jsonFmt(JSON.stringify(changes));
-	plib.writeFile("../dist/api/v1/pony-changes.json", changes_string + "\n");
 }
 
-function getCommitData(git_log: string) {
-	return git_log.split("\n\n").map((commit) => {
+function getPonyData(commits: number) {
+	return {
+		blogs: countMarkdownFiles("./blogs"),
+		code: countCode().toLocaleString("en-US"),
+		commits: commits.toLocaleString("en-US"),
+		covers: countCovers(),
+		flash_fiction: countMarkdownFiles("./flash-fiction"),
+		ideas: countFromFile("ideas.md", "## "),
+		names: countFromFile("names.md", "- "),
+		size: formatSize(countSize()),
+		stories: countDirs("./stories"),
+		words: countWords().toLocaleString("en-US"),
+	};
+}
+
+function getCommitData(git_log: string[]) {
+	return git_log.map((commit) => {
 		const [hash, subject, unix_time] = commit.split("\n");
 		plib.executeCommand(`git checkout --quiet ${hash}`);
-		const stories_folder = getDirOrFalse("stories");
-		const flash_fiction_folder = getDirOrFalse("flash-fiction");
 		return {
 			hash,
 			subject,
 			unix_time: Number(unix_time),
 			code: countCode(),
-			covers: countCovers(stories_folder),
-			flash_fiction: countFlashFiction(flash_fiction_folder),
-			ideas: countFromFile(stories_folder, "ideas.md", "## "),
-			names: countFromFile(stories_folder, "names.md", "- "),
 			size: countSize(),
-			stories: countDirs(stories_folder),
-			words: countWords(stories_folder, flash_fiction_folder),
+			words: countWords(),
 		};
 	});
-}
-
-function getDirOrFalse(dir: string) {
-	if (fs.existsSync(path.resolve("./" + dir))) {
-		return path.resolve("./" + dir);
-	} else if (fs.existsSync(path.resolve("./src/" + dir))) {
-		return path.resolve("./src/" + dir);
-	} else {
-		return false;
-	}
 }
 
 function countCode() {
 	return Array.from(
 		new Set(
 			plib
-				.findFilesInDir("./", [/\.py$|\.sh$|\.ts$|\.gp$|\.rs$/], [/archive\//])
+				.findFilesInDir("./", [/.py$|.sh$|.ts$|.gp$|.rs$/], [/archive\//])
 				.flatMap((f) =>
 					plib
 						.readFile(f)
@@ -111,15 +103,14 @@ function countCode() {
 	).length;
 }
 
-function countCovers(stories_folder: string | false) {
-	if (!stories_folder) return 0;
+function countCovers() {
 	return Array.from(
 		new Set(
 			plib
 				.findFilesInDir(
-					stories_folder,
+					"./stories/",
 					[/cover/],
-					[/concept/, /\.xcf$/, /upscaled/],
+					[/concept/, /.xcf$/, /upscaled/],
 				)
 				.map((c) => {
 					const split_path = c.split(path.sep);
@@ -128,56 +119,44 @@ function countCovers(stories_folder: string | false) {
 						.join(path.sep);
 				}),
 		),
-	).length;
+	).length.toLocaleString("en-US");
 }
 
-function countFlashFiction(flash_fiction_folder: string | false) {
-	if (!flash_fiction_folder) return 0;
-	return plib.findFilesInDir(flash_fiction_folder, [/\.md$/], []).length;
+function countMarkdownFiles(dir: string) {
+	return plib.findFilesInDir(dir, [/\.md$/], []).length.toLocaleString("en-US");
 }
 
-function countFromFile(folder: string | false, file: string, start: string) {
-	if (!folder) return 0;
-	if (fs.existsSync(path.join(folder, file))) {
-		return plib
-			.readFile(path.join(folder, file))
-			.split("\n")
-			.filter((l) => l.startsWith(start)).length;
-	} else {
-		return 0;
-	}
+function countFromFile(file: string, start: string) {
+	return plib
+		.readFile(path.join("./stories/", file))
+		.split("\n")
+		.filter((l) => l.startsWith(start))
+		.length.toLocaleString("en-US");
 }
 
 function countSize() {
 	return plib
 		.findFilesInDir("./", [], [/archive\//, /\.git\//])
-		.map((f) => fs.statSync(f).size)
-		.reduce((a, b) => a + b);
+		.reduce((acc, file) => {
+			const stats = fs.statSync(file);
+			return acc + stats.size;
+		}, 0);
 }
 
-function countDirs(folder: string | false) {
-	if (!folder) return 0;
+function countDirs(folder: string) {
 	return fs
 		.readdirSync(folder)
-		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory()).length;
+		.filter((dir) => fs.lstatSync(path.join(folder, dir)).isDirectory())
+		.length.toLocaleString("en-US");
 }
 
-function countWords(
-	stories_folder: string | false,
-	flash_fiction_folder: string | false,
-) {
-	if (!stories_folder && !flash_fiction_folder) return 0;
-	if (!stories_folder) return 0;
-	const story_files = plib.findFilesInDir(
-		stories_folder,
-		[/.md$/],
-		[/meta.md$/, /ideas.md$/, /names.md$/],
-	);
-	const flash_fiction_files = !flash_fiction_folder
-		? []
-		: plib.findFilesInDir(flash_fiction_folder, [/.md$/], []);
-	return story_files
-		.concat(flash_fiction_files)
+function countWords() {
+	return plib
+		.findFilesInDir(
+			"./",
+			[/stories|flash-fiction/, /.md$/],
+			[/archive\//, /meta.md$/, /ideas.md$/, /names.md$/],
+		)
 		.map((f) => {
 			return plib
 				.readFile(f)
@@ -191,57 +170,38 @@ function countWords(
 				.trim()
 				.split(" ").length;
 		})
-		.reduce((a, b) => a + b);
-}
-
-function getLatestStats(latest: Commit, commits: number) {
-	return {
-		blogs: plib
-			.findFilesInDir("./blogs/", [/.md$/], [])
-			.length.toLocaleString("en-US"),
-		code: latest.code.toLocaleString("en-US"),
-		commits: commits.toLocaleString("en-US"),
-		covers: latest.covers.toLocaleString("en-US"),
-		flash_fiction: latest.flash_fiction.toLocaleString("en-US"),
-		ideas: latest.ideas.toLocaleString("en-US"),
-		names: latest.names.toLocaleString("en-US"),
-		size: formatSize(latest.size),
-		stories: latest.stories.toLocaleString("en-US"),
-		words: latest.words.toLocaleString("en-US"),
-	};
+		.reduce((a, b) => {
+			return a + b;
+		}, 0);
 }
 
 function formatSize(bytes: number) {
 	const units = ["B", "KB", "MB", "GB", "TB"];
 	let current = bytes;
 	for (const unit of units) {
-		if (current <= 1000) {
-			return `${current.toFixed(2)} ${unit}`;
-		}
+		if (current <= 1000) return `${current.toFixed(2)} ${unit}`;
 		current /= 1000;
 	}
 	return `${bytes.toFixed(2)} ${units[0]}`;
 }
 
-function getChanges(pony_commits: Commit[]) {
-	const change_data: Change[] = [];
-	change_data.push(pony_commits[pony_commits.length - 1]);
-	for (let i = pony_commits.length - 2; i >= 0; i--) {
-		const c = pony_commits[i];
-		const base = pony_commits[i + 1];
-		change_data.push({
-			hash: c.hash,
-			subject: c.subject,
-			unix_time: c.unix_time,
-			code: c.code - base.code,
-			covers: c.covers - base.covers,
-			flash_fiction: c.flash_fiction - base.flash_fiction,
-			ideas: c.ideas - base.ideas,
-			names: c.names - base.names,
-			size: c.size - base.size,
-			stories: c.stories - base.stories,
-			words: c.words - base.words,
-		});
+function getChanges(pony_commits: PonyCommit[]) {
+	if (pony_commits[0].code != 0)
+		pony_commits[0].code_change = pony_commits[0].code;
+	if (pony_commits[0].size != 0)
+		pony_commits[0].size_change = pony_commits[0].size;
+	if (pony_commits[0].words != 0)
+		pony_commits[0].word_change = pony_commits[0].words;
+	for (let i = 1; i < pony_commits.length; i++) {
+		if (pony_commits[i].code - pony_commits[i - 1].code != 0)
+			pony_commits[i].code_change =
+				pony_commits[i].code - pony_commits[i - 1].code;
+		if (pony_commits[i].size - pony_commits[i - 1].size != 0)
+			pony_commits[i].size_change =
+				pony_commits[i].size - pony_commits[i - 1].size;
+		if (pony_commits[i].words - pony_commits[i - 1].words != 0)
+			pony_commits[i].word_change =
+				pony_commits[i].words - pony_commits[i - 1].words;
 	}
-	return change_data.reverse();
+	return pony_commits.reverse();
 }
