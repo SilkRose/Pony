@@ -3,6 +3,14 @@
 This file contains random story ideas that don't have enough thought to have their own folder yet, or that I don't plan on writing and just wanted to share.
 
 ***
+
+## Cuddle Coupon
+
+### Synopsis:
+Pinkie gives her friends each a coupon for a free cuddle with her. What causes each to redeem the coupon and what will they talk about while cuddling.
+
+***
+
 ## Brideways
 
 ### Synopsis:
