@@ -1,0 +1,31 @@
+[package]
+name = "pony"
+version = "0.1.0"
+description = "CLI tools for various uses in the Pony repo."
+repository = "https://github.com/SilkRose/Pony"
+authors = ["Silk Rose", "Meadowsys"]
+edition = "2021"
+license = "CC0-1.0"
+publish = false
+
+[dependencies]
+pdt = { git = "https://github.com/Love-and-Tolerance/pack-dev-tools" }
+
+[workspace]
+resolver = "2"
+members = [
+	"fim"
+]
+
+[profile.dev]
+opt-level = 0
+debug-assertions = true
+debug = true
+incremental = true
+
+[profile.release]
+strip = true
+opt-level = 3
+debug-assertions = false
+lto = true
+codegen-units = 1

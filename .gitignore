@@ -3,9 +3,9 @@
 .stfolder/
 .vscode/
 /code/dist/
-/code/node_modules/
 /code/pony-temp/
 /code/publish/
+/code/target/
 
 # Files
 /code/bun.lockb
