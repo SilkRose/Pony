@@ -23,10 +23,6 @@ type PonyCommit = {
 	hash: string;
 	subject: string;
 	unix_time: number;
-	code: number;
-	code_change?: number;
-	size: number;
-	size_change?: number;
 	words: number;
 	word_change?: number;
 };
@@ -80,8 +76,6 @@ function getCommitData(git_log: string[]) {
 			hash,
 			subject,
 			unix_time: Number(unix_time),
-			code: countCode(),
-			size: countSize(),
 			words: countWords(),
 		};
 	});
@@ -137,10 +131,8 @@ function countFromFile(file: string, start: string) {
 function countSize() {
 	return plib
 		.findFilesInDir("./", [], [/archive\//, /\.git\//])
-		.reduce((acc, file) => {
-			const stats = fs.statSync(file);
-			return acc + stats.size;
-		}, 0);
+		.map((f) => fs.statSync(f).size)
+		.reduce((a, b) => a + b);
 }
 
 function countDirs(folder: string) {
@@ -155,7 +147,7 @@ function countWords() {
 		.findFilesInDir(
 			"./",
 			[/stories|flash-fiction/, /.md$/],
-			[/archive\//, /meta.md$/, /ideas.md$/, /names.md$/],
+			[/archive\//, /\.git\//, /meta.md$/, /ideas.md$/, /names.md$/],
 		)
 		.map((f) => {
 			return plib
@@ -186,22 +178,15 @@ function formatSize(bytes: number) {
 }
 
 function getChanges(pony_commits: PonyCommit[]) {
-	if (pony_commits[0].code != 0)
-		pony_commits[0].code_change = pony_commits[0].code;
-	if (pony_commits[0].size != 0)
-		pony_commits[0].size_change = pony_commits[0].size;
-	if (pony_commits[0].words != 0)
+	if (pony_commits[0].words != 0) {
 		pony_commits[0].word_change = pony_commits[0].words;
+	}
 	for (let i = 1; i < pony_commits.length; i++) {
-		if (pony_commits[i].code - pony_commits[i - 1].code != 0)
-			pony_commits[i].code_change =
-				pony_commits[i].code - pony_commits[i - 1].code;
-		if (pony_commits[i].size - pony_commits[i - 1].size != 0)
-			pony_commits[i].size_change =
-				pony_commits[i].size - pony_commits[i - 1].size;
-		if (pony_commits[i].words - pony_commits[i - 1].words != 0)
+		if (pony_commits[i].words - pony_commits[i - 1].words != 0) {
 			pony_commits[i].word_change =
 				pony_commits[i].words - pony_commits[i - 1].words;
+		}
 	}
+
 	return pony_commits.reverse();
 }
