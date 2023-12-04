@@ -11,7 +11,6 @@ publish = false
 [dependencies]
 camino = { version = "1.1.6" }
 regex ={ version = "1.10.2" }
-pdt = { git = "https://github.com/Love-and-Tolerance/pack-dev-tools" }
 
 [workspace]
 resolver = "2"
