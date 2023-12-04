@@ -1,5 +1,11 @@
 [
 	{
+		"hash": "28b4a0bdd541cdd78f98e235459d2f182500ab80",
+		"subject": "Update format script to only format .ts and .json",
+		"unix_time": 1701685752,
+		"words": 69818
+	},
+	{
 		"hash": "5ceeb0f34ef3f814fe80184ca2ddebaa2e8f6981",
 		"subject": "Remove unused functions from lib.ts",
 		"unix_time": 1701674692,
