@@ -266,7 +266,7 @@ Taking it slow, we make it up the stairs, Pinkie helping every step of the way.
 
 Pinkie leads me over to my bed before saying, "Okay, get in bed, and I'll tuck you in nice and snug."
 
-I was about to protest, but the idea of being tucked in by a loving friend sounded kinda nice after what happened today.
+I was about to protest, but the idea of being tucked in by a loving friend sounded kind of nice after what happened today.
 
 I simply nod before getting in bed.
 
@@ -316,7 +316,7 @@ I hold the hug a bit longer than normal, but eventually let go.
 
 *That was weird.*
 
-Pinkie, without question, fixes my disheveled blanket, re-tucking it under my sides.
+Pinkie, without being asked, fixes my disheveled blanket, re-tucking it under my sides.
 
 I can't help but smile even wider from how much she cares. "Thank you."
 
@@ -332,9 +332,9 @@ I can't help but smile even wider from how much she cares. "Thank you."
 
 "Yes!"
 
-"Once upon a time there were these two mares, they were the bestest of friends."
+"Once upon a time, there were these two mares, they were the bestest of friends."
 
-"Were they a earth pony and a unicorn?" I ask expectantly.
+"Were they an earth pony and a unicorn?" I ask expectantly.
 
 "Uhm, no actually, they were uh, a pegasus and a unicorn."
 
@@ -372,7 +372,7 @@ I can't help but smile even wider from how much she cares. "Thank you."
 
 "What did she do about it?"
 
-"At first she didn't know what to do. She didn't know how Parchment would react if she asked her out, so she kept quiet while her feelings grew more and more."
+"At first, she didn't know what to do. She didn't know how Parchment would react if she asked her out, so she kept quiet while her feelings grew more and more."
 
 "Did she eventually ask her out?"
 
@@ -380,11 +380,11 @@ I can't help but smile even wider from how much she cares. "Thank you."
 
 "What happened next?"
 
-"She couldn't do it, she tried over and over, but was unable to get the words out. Despite being a very outgoing and excited pony, this one thing she couldn't seem to share."
+"She was unable to do it, she tried over and over, but was unable to get the words out. Despite being a very outgoing and excited pony, this one thing she couldn't seem to share."
 
-"how did she overcome this?"
+"How did she overcome this?"
 
-"She didn't, eventually Parchment started to fall for Twister and she asked her out before Twister was able to."
+"She didn't, eventually Parchment started to fall for Twister, and she asked her out before Twister was able to."
 
 "She said yes, right?"
 
@@ -406,7 +406,7 @@ I yawn before I can say anything.
 
 Pinkie asks, "You need anything before bed?"
 
-"You're sleeping in my guest bed right over there?" I ask as I point in the direction of where it should be.
+"You're sleeping in my guest bed over there?" I ask as I point in the direction of where it should be.
 
 "Yes, if you need anything I'll be right there, just yell and wake me up."
 
@@ -424,7 +424,7 @@ As I lay there right before falling asleep, I only have one question on my mind.
 
 ***
 
-"twilight!"
+"Twilight!"
 
 I'm awoken by somepony calling my name. I lift my head up to look around, only to remember my condition.
 
@@ -462,13 +462,13 @@ Using my front hooves, I feel for where Pinkie is.
 
 I find her in the middle of the bed, half uncovered from the blanket.
 
-Feeling around her I find a wet spot near her head.
+Feeling around her, I find a wet spot near her head.
 
 *She's been crying…*
 
 I try to gently wake her, rocking her side to side.
 
-It doesn't work and she just murmurs my name. "Twilight…"
+It doesn't work, and she just murmurs my name. "Twilight…"
 
 I slowly get on the bed, to make it easier to handle.
 
@@ -476,7 +476,7 @@ I slowly get on the bed, to make it easier to handle.
 
 "Twilight… I'm sorry."
 
-I try and poke her chest with my hoof.
+I try to poke her chest with my hoof.
 
 "Twilight…"
 
@@ -484,7 +484,7 @@ I try and poke her chest with my hoof.
 
 "Twi… I… …you."
 
-Laying on he bed beside Pinkie, I start to shiver.
+Laying on the bed beside Pinkie, I start to shiver.
 
 *When did it get so cold?*
 
@@ -506,7 +506,7 @@ Pinkie's murmurs change, from a somber tone to a hopeful tone.
 
 "Shh, everything is okay Pinkie, you have nothing to forgive."
 
-this seems to dispel her dreams' fear and she nuzzles my leg.
+This seems to dispel her dreams' fear, and she nuzzles my leg.
 
 I yawn and decide to just sleep here.
 
@@ -552,11 +552,11 @@ I do it again and this time I hear her wake up.
 
 "Thank you." Pinkie turns over to face me.
 
-"What was that nightmare about? You kept saying sorry and asking for forgiveness."
+"What was that nightmare about? You kept apologizing and asking for forgiveness."
 
 "It's my fault you are like this. I was the one who asked you to cast that dangerous spell."
 
-"But I was the one who agreed to cast it, I take some of the blame too."
+"But I was the one who agreed to cast it, I take some blame too."
 
 "It wouldn't have happened if I hadn't asked."
 
@@ -564,7 +564,7 @@ I do it again and this time I hear her wake up.
 
 "Okay."
 
-"Who's fault was it?"
+"Whose fault was it?"
 
 "Both of ours."
 
@@ -586,11 +586,11 @@ Pinkie asks, "What do you want for breakfast?"
 
 I think for a moment before saying, "How about waffles?"
 
-"Sounds delicious," Pinkie says before untangling herself from me. "Let's go downstairs and I'll make them for us."
+"Sounds delicious," Pinkie says before untangling herself from me. "Let's go downstairs, and I'll make them for us."
 
 "Okay." I sit up and stretch my legs.
 
-Pinkie helps me out of bed and down the steps. We get to the kitchen and she leads me to the table, where I sit down.
+Pinkie helps me out of bed and down the steps. We get to the kitchen, and she leads me to the table, where I sit down.
 
 I hear Pinkie start to make the food as I drift off into thought.
 
@@ -602,7 +602,7 @@ I hear Pinkie start to make the food as I drift off into thought.
 
 *I did have that funny feeling Pinkie described in her story.*
 
-*if it is love, is it true? Or because she is the one who saved me?*
+*If it is love, is it true? Or because she is the one who saved me?*
 
 *Oh, this is hard.*
 
@@ -620,7 +620,7 @@ As I was about to switch trains of thought, a memory from last night derails it 
 >
 > "Good… Par…" Pinkie tries in her sleep.
 
-*What was Pinkie's story eluding to?*
+*What was Pinkie's story alluding to?*
 
 *The way she described the characters, it did sound like us.*
 
@@ -634,7 +634,7 @@ As I was about to switch trains of thought, a memory from last night derails it 
 
 "Yes?"
 
-"After breakfast, can you go get Rarity for me? I need to talk to her."
+"After breakfast, could you please go get Rarity for me? I need to talk to her."
 
 "Absolutely."
 
@@ -642,13 +642,13 @@ As I was about to switch trains of thought, a memory from last night derails it 
 
 "Going great, they'll be done in a minute."
 
-As promised, a minute later Pinkie slid a plate in front of me.
+As promised, a minute later, Pinkie slid a plate in front of me.
 
 I lean down and feel the heat radiating off the food.
 
 *Better wait a minute to eat.*
 
-I hear Pinkie sit down with her own plate. "Twilight?"
+I hear Pinkie sit down with her plate. "Twilight?"
 
 "Yes?"
 
@@ -664,7 +664,7 @@ I hear Pinkie sit down with her own plate. "Twilight?"
 
 "Will do."
 
-Leaning down I can feel the lessoned heat and decide they are good to eat now.
+Leaning down, I can feel the lessened heat and decide they are good to eat now.
 
 I eat the waffles like I did the pancakes.
 
@@ -726,7 +726,7 @@ I decide to wait until Rarity is here so I can talk to her about it all.
 
 Moment's later, I hear the front door open.
 
-"Hello darling," I hear Rarity say.
+"Hello, darling," I hear Rarity say.
 
 "Hi Rarity," I reply.
 
@@ -768,7 +768,7 @@ I end by asking, "Do you think I have a crush on Pinkie? Do you think she has a 
 
 "What for?"
 
-"Tell a story using the same characters but this time have it be about Parchment having trouble figuring out if Twister likes her back."
+"Tell a story using the same characters, but this time have it be about Parchment having trouble figuring out if Twister likes her back."
 
 "How will that help?"
 
@@ -776,7 +776,7 @@ I end by asking, "Do you think I have a crush on Pinkie? Do you think she has a 
 
 "Yes."
 
-"This time Pinkie will help you."
+"This time, Pinkie will help you."
 
 "How is that going to help? I'm not following."
 
@@ -792,9 +792,9 @@ I end by asking, "Do you think I have a crush on Pinkie? Do you think she has a 
 
 "If you think it will work, okay."
 
-"time to hug, darling."
+"Time to hug, darling."
 
-"Okay, thank you Rarity."
+"Okay, thank you, Rarity."
 
 "You're most welcome."
 
@@ -818,7 +818,7 @@ Pinkie let's go as I hold on for a few more seconds, the realization hitting me.
 
 *I have a crush on Pinkie.*
 
-"Thank you Rarity, it's a yes."
+"Thank you, Rarity, it's a yes."
 
 "You're welcome, I'll see you two later. Bye, darlings, and good luck to the both of you."
 
@@ -826,7 +826,7 @@ Pinkie let's go as I hold on for a few more seconds, the realization hitting me.
 
 "Goodbye," I say.
 
-A few moments later I hear the door close behind her.
+A few moments later, I hear the door close behind her.
 
 "What was a yes?"
 
@@ -868,7 +868,7 @@ I climb into bed, excited and nervous to figure out how Pinkie feels about me.
 
 "Parchment decides to…"
 
-I deliberately hang to try and get Pinkie to help.
+I deliberately hang to try to get Pinkie to help.
 
 "Hug Twister a lot?"
 
@@ -898,11 +898,11 @@ I deliberately hang to try and get Pinkie to help.
 
 "That's how Twister was in my story, she wanted to show her feelings but was too afraid to make a move…"
 
-"do you think Parchment should make the fist move even if she is afraid to do so?"
+"Do you think Parchment should make the first move, even if she is afraid to do so?"
 
-"I think she should, but that whats I would say to Twister too."
+"I think she should, but that what's I would say to Twister too."
 
-"sounds like romance can be difficult sometimes."
+"Sounds like romance can be difficult sometimes."
 
 "Twister would agree."
 
@@ -926,7 +926,7 @@ I deliberately hang to try and get Pinkie to help.
 
 "They would have to talk about it, I think. I don't think they would need to, I think they both like each other."
 
-"I think so too."
+"I think so, too."
 
 A silence took over the room for a few seconds before I ask, "I'm ready to sleep, you?"
 
@@ -942,7 +942,7 @@ A silence took over the room for a few seconds before I ask, "I'm ready to sleep
 
 I act like I'm readjusting and slide closer to her.
 
-We both get comfortable then lay in silence for a moment.
+We both get comfortable, then lay in silence for a moment.
 
 In the quietest voice I've ever heard from Pinkie, I hear, "Do you want me to hold you? You know, to make up for you having to hold me last night."
 
@@ -956,13 +956,13 @@ Pinkie whispers, "Goodnight, Parchment."
 
 I whisper back, "Goodnight, Twister."
 
-*Does the names mean we both like each other?*
+*Do the names mean we both like each other?*
 
 *Should I kiss her cheek now?*
 
 Can *I kiss her cheek now?*
 
-*Maybe I should wait till tomorrow.*
+*Maybe I should wait until tomorrow.*
 
 *I wouldn't want to ruin this moment if she didn't like it.*
 
@@ -984,7 +984,7 @@ I quietly lament to myself.
 
 *Yea, I can do that. I hope.*
 
-As I lay their, an idea comes to me.
+As I lay there, an idea comes to me.
 
 *Maybe I could practice by kissing her cheek when she is asleep?*
 
@@ -1010,15 +1010,15 @@ I feel Pinkie's hot breath on the back of my neck.
 
 "What do I do?" I ponder to myself.
 
-"I'm suppose to kiss your cheek tomorrow, but what if I chicken out?"
+"I'm supposed to kiss your cheek tomorrow, but what if I chicken out?"
 
-"You mean so much to me… I'm terrified if you say no it will ruin our friendship."
+"You mean so much to me… I'm terrified if you say no, it will ruin our friendship."
 
 I turn over slowly and face Pinkie.
 
-"What should I do Pinkie? Do you think I should kiss you?"
+"What should I do, Pinkie? Do you think I should kiss you?"
 
-Pinkie didn't respond only twitching slightly.
+Pinkie didn't respond, only twitching slightly.
 
 As Pinkie's breath hits my face, I notice my cheek has a funny feeling to it.
 
