@@ -1,11 +1,5 @@
 [
 	{
-		"hash": "4bd1a82d32cb59e8136f10a43eed962b19b715b2",
-		"subject": "Move Typescript code into archive",
-		"unix_time": 1701682585,
-		"words": 69818
-	},
-	{
 		"hash": "5ceeb0f34ef3f814fe80184ca2ddebaa2e8f6981",
 		"subject": "Remove unused functions from lib.ts",
 		"unix_time": 1701674692,
