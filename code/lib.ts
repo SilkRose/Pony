@@ -3,12 +3,6 @@ import { execSync } from "child_process";
 import path from "path";
 import fs from "fs";
 
-export function rmDir(dir: string) {
-	if (fs.existsSync(dir)) {
-		fs.rmSync(dir, { recursive: true, force: true });
-	}
-}
-
 export function rmDirs(dirs: string[]) {
 	for (let dir of dirs) {
 		if (fs.existsSync(dir)) {
@@ -56,15 +50,6 @@ export function writeFile(filename: string, data: string) {
 	fs.writeFileSync(filepath, data, { encoding: "utf-8" });
 }
 
-export async function readJsonFile(filename: string) {
-	try {
-		const filepath = path.resolve(path.join(process.cwd(), filename));
-		return await JSON.parse(fs.readFileSync(filepath, { encoding: "utf-8" }));
-	} catch (error) {
-		throw new Error(`Failed to open file: ${filename}`);
-	}
-}
-
 export function readFile(filename: string) {
 	try {
 		const filepath = path.resolve(filename);
@@ -80,26 +65,6 @@ export function jsonFmt(json: string) {
 
 export function jsonMinify(json: string) {
 	return JSON.stringify(JSON.parse(json));
-}
-
-export async function fetchJsonData(url: string) {
-	return await fetch(url).then((res) => res.json());
-}
-
-export async function fetchJsonOrFalse(url: string) {
-	try {
-		return await fetch(url).then((res) => res.json());
-	} catch (err) {
-		return false;
-	}
-}
-
-export async function fetchOrFalse(url: string) {
-	try {
-		return await fetch(url).then((res) => res.text());
-	} catch (err) {
-		return false;
-	}
 }
 
 export function checkInstalled(programs: string[]) {
