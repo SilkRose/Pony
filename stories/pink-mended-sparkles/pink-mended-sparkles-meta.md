@@ -28,3 +28,6 @@ When a spell leaves Twilight blinded, Pinkie is left to take care of her while h
 
 ## Story:
 [Pink Mended Sparkles](./pink-mended-sparkles.md)
+
+## Cover:
+![cover](./pink-mended-sparkles-cover-upscaled.png)
