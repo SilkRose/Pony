@@ -1,23 +1,17 @@
 [package]
-name = "pony"
+name = "fimdoc"
 version = "0.1.0"
-description = "CLI tools for various uses in the Pony repo."
+description = "Firendship is Magic Document, converts Markdown into FIMFiction BBCode."
 repository = "https://github.com/SilkRose/Pony"
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/fimdoc"
 authors = ["Silk Rose", "Meadowsys"]
 edition = "2021"
 license = "CC0-1.0"
-publish = false
+readme = "./README.md"
 
 [dependencies]
 camino = { version = "1.1.6" }
-regex = { version = "1.10.2" }
-
-[workspace]
-resolver = "2"
-members = [
-	"fim",
-	"fimdoc"
-]
+markdown = { version = "0.3.0" }
 
 [profile.dev]
 opt-level = 0
