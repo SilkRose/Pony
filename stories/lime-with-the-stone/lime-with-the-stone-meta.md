@@ -35,3 +35,4 @@ Trixie meets the rock to her hard place while working at a rock farm.
  - They come to an understanding and kiss one last time.
 
 ## Cover:
+![cover](./lime-with-the-stone-cover-upscaled.png)
