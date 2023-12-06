@@ -2,5 +2,8 @@
 .obsidian/
 .stfolder/
 .vscode/
+/code/pony-temp/
+/code/publish/
+/code/target/
 
 # Files
