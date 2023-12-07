@@ -1,8 +1,13 @@
 use camino::Utf8Path;
-use markdown::mdast::{BlockQuote, Node, Root};
+use markdown::mdast::{BlockQuote, Heading, Node, Paragraph, Root};
 use markdown::{to_mdast, ParseOptions};
 use std::env;
 use std::fs;
+
+enum ErrorType {
+	Warn,
+	Fail,
+}
 
 fn main() {
 	let filename = &env::args().collect::<Vec<_>>()[1];
@@ -28,9 +33,9 @@ fn md_to_bbcode(node: &Node) -> String {
 		.unwrap()
 		.iter()
 		.map(|n| match n {
-			markdown::mdast::Node::Root(root) => handle_root(root).join("\n"),
+			markdown::mdast::Node::Root(root) => handle_root(root),
 			markdown::mdast::Node::BlockQuote(quote) => {
-				format!("[quote]{}[/quote]\n\n", handle_quote(quote).join("\n"))
+				format!("[quote]{}[/quote]\n", handle_quote(quote))
 			}
 			markdown::mdast::Node::FootnoteDefinition(_) => todo!(),
 			markdown::mdast::Node::MdxJsxFlowElement(_) => todo!(),
@@ -38,7 +43,7 @@ fn md_to_bbcode(node: &Node) -> String {
 			markdown::mdast::Node::MdxjsEsm(_) => todo!(),
 			markdown::mdast::Node::Toml(_) => todo!(),
 			markdown::mdast::Node::Yaml(_) => todo!(),
-			markdown::mdast::Node::Break(_) => todo!(),
+			markdown::mdast::Node::Break(_) => "\n".into(),
 			markdown::mdast::Node::InlineCode(_) => todo!(),
 			markdown::mdast::Node::InlineMath(_) => todo!(),
 			markdown::mdast::Node::Delete(_) => todo!(),
@@ -52,30 +57,60 @@ fn md_to_bbcode(node: &Node) -> String {
 			markdown::mdast::Node::Link(_) => todo!(),
 			markdown::mdast::Node::LinkReference(_) => todo!(),
 			markdown::mdast::Node::Strong(_) => todo!(),
-			markdown::mdast::Node::Text(_) => todo!(),
+			markdown::mdast::Node::Text(text) => text.value.clone(),
 			markdown::mdast::Node::Code(_) => todo!(),
 			markdown::mdast::Node::Math(_) => todo!(),
 			markdown::mdast::Node::MdxFlowExpression(_) => todo!(),
-			markdown::mdast::Node::Heading(h) => {
-				format!("{:?}, {:?}", h.children[0], h.depth)
-			}
+			markdown::mdast::Node::Heading(heading) => handle_heading(heading),
 			markdown::mdast::Node::Table(_) => todo!(),
 			markdown::mdast::Node::ThematicBreak(_) => todo!(),
 			markdown::mdast::Node::TableRow(_) => todo!(),
 			markdown::mdast::Node::TableCell(_) => todo!(),
 			markdown::mdast::Node::ListItem(_) => todo!(),
 			markdown::mdast::Node::Definition(_) => todo!(),
-			markdown::mdast::Node::Paragraph(p) => {
-				format!("{p:?}")
-			}
+			markdown::mdast::Node::Paragraph(paragraph) => handle_paragraph(paragraph),
 		})
-		.collect::<Vec<_>>().join("\n")
+		.collect::<Vec<_>>()
+		.join("\n")
 }
 
-fn handle_root(root: &Root) -> Vec<String> {
-	root.children.iter().map(|node| md_to_bbcode(node)).collect()
+fn warn(token: &str, error: ErrorType) {
+	match error {
+		ErrorType::Warn => eprintln!("WARNING: unsupported syntax skipped: {}", token),
+		ErrorType::Fail => {
+			panic!("WARNING: unsupported syntax found: {}", token)
+		}
+	}
 }
 
-fn handle_quote(blockquote: &BlockQuote) -> Vec<String> {
-	blockquote.children.iter().map(|quote| md_to_bbcode(quote)).collect()
+fn handle_root(root: &Root) -> String {
+	root.children
+		.iter()
+		.map(|node| md_to_bbcode(node))
+		.collect::<Vec<_>>()
+		.join("")
+}
+
+fn handle_quote(blockquote: &BlockQuote) -> String {
+	blockquote
+		.children
+		.iter()
+		.map(|quote| md_to_bbcode(quote))
+		.collect::<Vec<_>>()
+		.join("")
+}
+
+fn handle_heading(heading: &Heading) -> String {
+	let text = match heading.children[0].clone() {
+		markdown::mdast::Node::Text(t) => t.value,
+		_ => panic!("Failed to find heading!"),
+	};
+	format!("[h{l}]{text}[/h{l}]\n", l = heading.depth)
+}
+
+fn handle_paragraph(paragraph: &Paragraph) -> String {
+	match paragraph.children[0].clone() {
+		markdown::mdast::Node::Text(t) => t.value,
+		_ => panic!("Failed to find heading!"),
+	}
 }
