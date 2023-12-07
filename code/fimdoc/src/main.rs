@@ -21,96 +21,107 @@ fn main() {
 		let tokens = to_mdast(&md, &options).unwrap();
 		println!("{md}");
 		println!("{tokens:?}");
-		let text = md_to_bbcode(&tokens);
+		const WARN: ErrorType = ErrorType::Warn;
+		let text = handle_node(&tokens, WARN);
 		println!("{text}");
 	} else {
 		eprintln!("File not found!");
 	}
 }
 
-fn md_to_bbcode(node: &Node) -> String {
+fn handle_node(node: &Node, warn: ErrorType) -> String {
 	node.children()
 		.unwrap()
 		.iter()
-		.map(|n| match n {
-			markdown::mdast::Node::Root(root) => handle_root(root),
-			markdown::mdast::Node::BlockQuote(quote) => {
-				format!("[quote]{}[/quote]\n", handle_quote(quote))
-			}
-			markdown::mdast::Node::FootnoteDefinition(_) => todo!(),
-			markdown::mdast::Node::MdxJsxFlowElement(_) => todo!(),
-			markdown::mdast::Node::List(_) => todo!(),
-			markdown::mdast::Node::MdxjsEsm(_) => todo!(),
-			markdown::mdast::Node::Toml(_) => todo!(),
-			markdown::mdast::Node::Yaml(_) => todo!(),
-			markdown::mdast::Node::Break(_) => "\n".into(),
-			markdown::mdast::Node::InlineCode(_) => todo!(),
-			markdown::mdast::Node::InlineMath(_) => todo!(),
-			markdown::mdast::Node::Delete(_) => todo!(),
-			markdown::mdast::Node::Emphasis(_) => todo!(),
-			markdown::mdast::Node::MdxTextExpression(_) => todo!(),
-			markdown::mdast::Node::FootnoteReference(_) => todo!(),
-			markdown::mdast::Node::Html(_) => todo!(),
-			markdown::mdast::Node::Image(_) => todo!(),
-			markdown::mdast::Node::ImageReference(_) => todo!(),
-			markdown::mdast::Node::MdxJsxTextElement(_) => todo!(),
-			markdown::mdast::Node::Link(_) => todo!(),
-			markdown::mdast::Node::LinkReference(_) => todo!(),
-			markdown::mdast::Node::Strong(_) => todo!(),
-			markdown::mdast::Node::Text(text) => text.value.clone(),
-			markdown::mdast::Node::Code(_) => todo!(),
-			markdown::mdast::Node::Math(_) => todo!(),
-			markdown::mdast::Node::MdxFlowExpression(_) => todo!(),
-			markdown::mdast::Node::Heading(heading) => handle_heading(heading),
-			markdown::mdast::Node::Table(_) => todo!(),
-			markdown::mdast::Node::ThematicBreak(_) => todo!(),
-			markdown::mdast::Node::TableRow(_) => todo!(),
-			markdown::mdast::Node::TableCell(_) => todo!(),
-			markdown::mdast::Node::ListItem(_) => todo!(),
-			markdown::mdast::Node::Definition(_) => todo!(),
-			markdown::mdast::Node::Paragraph(paragraph) => handle_paragraph(paragraph),
-		})
+		.map(|n| md_to_bbcode(n, &warn).unwrap())
 		.collect::<Vec<_>>()
 		.join("\n")
 }
 
-fn warn(token: &str, error: ErrorType) {
+fn md_to_bbcode(node: &Node, warn: &ErrorType) -> Option<String> {
+	match node {
+		markdown::mdast::Node::Root(root) => Some(handle_root(root, warn)),
+		markdown::mdast::Node::BlockQuote(quote) => Some(handle_quote(quote, warn)),
+		markdown::mdast::Node::FootnoteDefinition(_) => todo!(),
+		markdown::mdast::Node::MdxJsxFlowElement(_) => todo!(),
+		markdown::mdast::Node::List(_) => todo!(),
+		markdown::mdast::Node::MdxjsEsm(_) => todo!(),
+		markdown::mdast::Node::Toml(_) => warn_error("toml", &warn),
+		markdown::mdast::Node::Yaml(_) => warn_error("yaml", &warn),
+		markdown::mdast::Node::Break(_) => Some("\n".into()),
+		markdown::mdast::Node::InlineCode(_) => todo!(),
+		markdown::mdast::Node::InlineMath(_) => todo!(),
+		markdown::mdast::Node::Delete(_) => todo!(),
+		markdown::mdast::Node::Emphasis(_) => todo!(),
+		markdown::mdast::Node::MdxTextExpression(_) => todo!(),
+		markdown::mdast::Node::FootnoteReference(_) => todo!(),
+		markdown::mdast::Node::Html(_) => todo!(),
+		markdown::mdast::Node::Image(_) => todo!(),
+		markdown::mdast::Node::ImageReference(_) => todo!(),
+		markdown::mdast::Node::MdxJsxTextElement(_) => todo!(),
+		markdown::mdast::Node::Link(_) => todo!(),
+		markdown::mdast::Node::LinkReference(_) => todo!(),
+		markdown::mdast::Node::Strong(_) => todo!(),
+		markdown::mdast::Node::Text(text) => Some(text.value.clone()),
+		markdown::mdast::Node::Code(_) => todo!(),
+		markdown::mdast::Node::Math(_) => todo!(),
+		markdown::mdast::Node::MdxFlowExpression(_) => todo!(),
+		markdown::mdast::Node::Heading(heading) => Some(handle_heading(heading, warn)),
+		markdown::mdast::Node::Table(_) => todo!(),
+		markdown::mdast::Node::ThematicBreak(_) => todo!(),
+		markdown::mdast::Node::TableRow(_) => todo!(),
+		markdown::mdast::Node::TableCell(_) => todo!(),
+		markdown::mdast::Node::ListItem(_) => todo!(),
+		markdown::mdast::Node::Definition(_) => todo!(),
+		markdown::mdast::Node::Paragraph(paragraph) => Some(handle_paragraph(paragraph, warn)),
+	}
+}
+
+fn warn_error(token: &str, error: &ErrorType) -> Option<String> {
 	match error {
-		ErrorType::Warn => eprintln!("WARNING: unsupported syntax skipped: {}", token),
+		ErrorType::Warn => {
+			eprintln!("WARNING: unsupported syntax skipped: {}", token);
+			None
+		}
 		ErrorType::Fail => {
 			panic!("WARNING: unsupported syntax found: {}", token)
 		}
 	}
 }
 
-fn handle_root(root: &Root) -> String {
+fn handle_root(root: &Root, warn: &ErrorType) -> String {
 	root.children
 		.iter()
-		.map(|node| md_to_bbcode(node))
+		.map(|node| md_to_bbcode(node, warn).unwrap())
 		.collect::<Vec<_>>()
 		.join("")
 }
 
-fn handle_quote(blockquote: &BlockQuote) -> String {
-	blockquote
+fn handle_quote(blockquote: &BlockQuote, warn: &ErrorType) -> String {
+	let quote = blockquote
 		.children
 		.iter()
-		.map(|quote| md_to_bbcode(quote))
+		.map(|quote| md_to_bbcode(quote, warn).unwrap())
 		.collect::<Vec<_>>()
-		.join("")
+		.join("");
+	format!("[quote]{quote}[/quote]\n")
 }
 
-fn handle_heading(heading: &Heading) -> String {
-	let text = match heading.children[0].clone() {
-		markdown::mdast::Node::Text(t) => t.value,
-		_ => panic!("Failed to find heading!"),
-	};
+fn handle_heading(heading: &Heading, warn: &ErrorType) -> String {
+	let text = heading
+		.children
+		.iter()
+		.map(|h| md_to_bbcode(h, warn).unwrap())
+		.collect::<Vec<_>>()
+		.join("");
 	format!("[h{l}]{text}[/h{l}]\n", l = heading.depth)
 }
 
-fn handle_paragraph(paragraph: &Paragraph) -> String {
-	match paragraph.children[0].clone() {
-		markdown::mdast::Node::Text(t) => t.value,
-		_ => panic!("Failed to find heading!"),
-	}
+fn handle_paragraph(paragraph: &Paragraph, warn: &ErrorType) -> String {
+	paragraph
+		.children
+		.iter()
+		.map(|p| md_to_bbcode(p, warn).unwrap())
+		.collect::<Vec<_>>()
+		.join("\n")
 }
