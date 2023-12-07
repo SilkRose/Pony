@@ -1,5 +1,5 @@
 use camino::Utf8Path;
-use markdown::mdast::{BlockQuote, Heading, Node, Paragraph, Root};
+use markdown::mdast::{BlockQuote, Heading, Node, Paragraph};
 use markdown::{to_mdast, ParseOptions};
 use std::env;
 use std::fs;
@@ -40,7 +40,7 @@ fn handle_node(node: &Node, warn: ErrorType) -> String {
 
 fn md_to_bbcode(node: &Node, warn: &ErrorType) -> Option<String> {
 	match node {
-		Node::Root(root) => Some(handle_root(root, warn)),
+		Node::Root(root) => Some(handle_child_nodes(&root.children, warn, "")),
 		Node::BlockQuote(quote) => Some(handle_quote(quote, warn)),
 		Node::FootnoteDefinition(_) => todo!(),
 		Node::MdxJsxFlowElement(_) => warn_error("MdxJsFlowElement", &warn),
@@ -89,39 +89,24 @@ fn warn_error(token: &str, error: &ErrorType) -> Option<String> {
 	}
 }
 
-fn handle_root(root: &Root, warn: &ErrorType) -> String {
-	root.children
+fn handle_child_nodes(nodes: &[Node], warn: &ErrorType, separator: &str) -> String {
+	nodes
 		.iter()
 		.map(|node| md_to_bbcode(node, warn).unwrap())
 		.collect::<Vec<_>>()
-		.join("")
+		.join(separator)
 }
 
 fn handle_quote(blockquote: &BlockQuote, warn: &ErrorType) -> String {
-	let quote = blockquote
-		.children
-		.iter()
-		.map(|quote| md_to_bbcode(quote, warn).unwrap())
-		.collect::<Vec<_>>()
-		.join("");
+	let quote = handle_child_nodes(&blockquote.children, warn, "");
 	format!("[quote]{quote}[/quote]\n")
 }
 
 fn handle_heading(heading: &Heading, warn: &ErrorType) -> String {
-	let text = heading
-		.children
-		.iter()
-		.map(|h| md_to_bbcode(h, warn).unwrap())
-		.collect::<Vec<_>>()
-		.join("");
+	let text = handle_child_nodes(&heading.children, warn, "");
 	format!("[h{l}]{text}[/h{l}]\n", l = heading.depth)
 }
 
 fn handle_paragraph(paragraph: &Paragraph, warn: &ErrorType) -> String {
-	paragraph
-		.children
-		.iter()
-		.map(|p| md_to_bbcode(p, warn).unwrap())
-		.collect::<Vec<_>>()
-		.join("\n")
+	handle_child_nodes(&paragraph.children, warn, "\n")
 }
