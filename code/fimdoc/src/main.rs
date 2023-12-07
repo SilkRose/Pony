@@ -1,4 +1,5 @@
 use camino::Utf8Path;
+use markdown::mdast::{BlockQuote, Node, Root};
 use markdown::{to_mdast, ParseOptions};
 use std::env;
 use std::fs;
@@ -11,13 +12,26 @@ fn main() {
 	let filepath = Utf8Path::new(filename);
 	if Utf8Path::exists(filepath) {
 		let md = fs::read_to_string(filepath).unwrap();
-		let options = ParseOptions::default();
+		let options = ParseOptions::gfm();
 		let tokens = to_mdast(&md, &options).unwrap();
 		println!("{md}");
 		println!("{tokens:?}");
-		tokens.children().unwrap().iter().for_each(|t| match t {
-			markdown::mdast::Node::Root(_) => todo!(),
-			markdown::mdast::Node::BlockQuote(_) => todo!(),
+		let text = md_to_bbcode(&tokens);
+		println!("{text}");
+	} else {
+		eprintln!("File not found!");
+	}
+}
+
+fn md_to_bbcode(node: &Node) -> String {
+	node.children()
+		.unwrap()
+		.iter()
+		.map(|n| match n {
+			markdown::mdast::Node::Root(root) => handle_root(root).join("\n"),
+			markdown::mdast::Node::BlockQuote(quote) => {
+				format!("[quote]{}[/quote]\n\n", handle_quote(quote).join("\n"))
+			}
 			markdown::mdast::Node::FootnoteDefinition(_) => todo!(),
 			markdown::mdast::Node::MdxJsxFlowElement(_) => todo!(),
 			markdown::mdast::Node::List(_) => todo!(),
@@ -42,20 +56,26 @@ fn main() {
 			markdown::mdast::Node::Code(_) => todo!(),
 			markdown::mdast::Node::Math(_) => todo!(),
 			markdown::mdast::Node::MdxFlowExpression(_) => todo!(),
-			markdown::mdast::Node::Heading(t) => {
-				println!("{:?}, {:?}", t.children[0], t.depth);
-			},
+			markdown::mdast::Node::Heading(h) => {
+				format!("{:?}, {:?}", h.children[0], h.depth)
+			}
 			markdown::mdast::Node::Table(_) => todo!(),
 			markdown::mdast::Node::ThematicBreak(_) => todo!(),
 			markdown::mdast::Node::TableRow(_) => todo!(),
 			markdown::mdast::Node::TableCell(_) => todo!(),
 			markdown::mdast::Node::ListItem(_) => todo!(),
 			markdown::mdast::Node::Definition(_) => todo!(),
-			markdown::mdast::Node::Paragraph(t) => {
-				println!("{t:?}");
+			markdown::mdast::Node::Paragraph(p) => {
+				format!("{p:?}")
 			}
 		})
-	} else {
-		eprintln!("File not found!");
-	}
+		.collect::<Vec<_>>().join("\n")
+}
+
+fn handle_root(root: &Root) -> Vec<String> {
+	root.children.iter().map(|node| md_to_bbcode(node)).collect()
+}
+
+fn handle_quote(blockquote: &BlockQuote) -> Vec<String> {
+	blockquote.children.iter().map(|quote| md_to_bbcode(quote)).collect()
 }
