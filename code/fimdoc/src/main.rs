@@ -1,5 +1,5 @@
 use camino::Utf8Path;
-use markdown::mdast::{BlockQuote, Heading, Node, Paragraph};
+use markdown::mdast::{BlockQuote, Heading, Node, Paragraph, Root, ThematicBreak};
 use markdown::{to_mdast, ParseOptions};
 use std::env;
 use std::fs;
@@ -40,37 +40,37 @@ fn handle_node(node: &Node, warn: ErrorType) -> String {
 
 fn md_to_bbcode(node: &Node, warn: &ErrorType) -> Option<String> {
 	match node {
-		Node::Root(root) => Some(handle_child_nodes(&root.children, warn, "")),
+		Node::Root(root) => Some(handle_root(root, warn)),
 		Node::BlockQuote(quote) => Some(handle_quote(quote, warn)),
-		Node::FootnoteDefinition(_) => todo!(),
-		Node::MdxJsxFlowElement(_) => warn_error("MdxJsFlowElement", &warn),
+		Node::FootnoteDefinition(_) => warn_error("FootnoteDefinition", warn),
+		Node::MdxJsxFlowElement(_) => warn_error("MdxJsFlowElement", warn),
 		Node::List(_) => todo!(),
-		Node::MdxjsEsm(_) => warn_error("MdxjsEsm", &warn),
-		Node::Toml(_) => warn_error("Toml", &warn),
-		Node::Yaml(_) => warn_error("Yaml", &warn),
+		Node::MdxjsEsm(_) => warn_error("MdxjsEsm", warn),
+		Node::Toml(_) => warn_error("Toml", warn),
+		Node::Yaml(_) => warn_error("Yaml", warn),
 		Node::Break(_) => Some("\n".into()),
 		Node::InlineCode(_) => todo!(),
 		Node::InlineMath(_) => todo!(),
 		Node::Delete(_) => todo!(),
 		Node::Emphasis(_) => todo!(),
-		Node::MdxTextExpression(_) => warn_error("MdxTextExpression", &warn),
-		Node::FootnoteReference(_) => todo!(),
-		Node::Html(_) => warn_error("HTML", &warn),
+		Node::MdxTextExpression(_) => warn_error("MdxTextExpression", warn),
+		Node::FootnoteReference(_) => warn_error("FootnoteReference", warn),
+		Node::Html(_) => warn_error("HTML", warn),
 		Node::Image(_) => todo!(),
 		Node::ImageReference(_) => todo!(),
-		Node::MdxJsxTextElement(_) => warn_error("MdxJsxTextElement", &warn),
+		Node::MdxJsxTextElement(_) => warn_error("MdxJsxTextElement", warn),
 		Node::Link(_) => todo!(),
 		Node::LinkReference(_) => todo!(),
 		Node::Strong(_) => todo!(),
 		Node::Text(text) => Some(text.value.clone()),
 		Node::Code(_) => todo!(),
 		Node::Math(_) => todo!(),
-		Node::MdxFlowExpression(_) => warn_error("MdxFlowExpression", &warn),
+		Node::MdxFlowExpression(_) => warn_error("MdxFlowExpression", warn),
 		Node::Heading(heading) => Some(handle_heading(heading, warn)),
-		Node::Table(_) => warn_error("Table", &warn),
-		Node::ThematicBreak(_) => Some("[hr]".into()),
-		Node::TableRow(_) => warn_error("TableRow", &warn),
-		Node::TableCell(_) => warn_error("TableCell", &warn),
+		Node::Table(_) => warn_error("Table", warn),
+		Node::ThematicBreak(_) => Some(handle_thematic_break()),
+		Node::TableRow(_) => warn_error("TableRow", warn),
+		Node::TableCell(_) => warn_error("TableCell", warn),
 		Node::ListItem(_) => todo!(),
 		Node::Definition(_) => todo!(),
 		Node::Paragraph(paragraph) => Some(handle_paragraph(paragraph, warn)),
@@ -97,14 +97,26 @@ fn handle_child_nodes(nodes: &[Node], warn: &ErrorType, separator: &str) -> Stri
 		.join(separator)
 }
 
+fn handle_root(root: &Root, warn: &ErrorType) -> String {
+	handle_child_nodes(&root.children, warn, "")
+}
+
 fn handle_quote(blockquote: &BlockQuote, warn: &ErrorType) -> String {
 	let quote = handle_child_nodes(&blockquote.children, warn, "");
-	format!("[quote]{quote}[/quote]\n")
+	format!("[quote]{quote}[/quote]\n\n")
+}
+
+fn handle_break() -> String {
+	"[hr]".into()
 }
 
 fn handle_heading(heading: &Heading, warn: &ErrorType) -> String {
 	let text = handle_child_nodes(&heading.children, warn, "");
 	format!("[h{l}]{text}[/h{l}]\n", l = heading.depth)
+}
+
+fn handle_thematic_break() -> String {
+	"[hr]".into()
 }
 
 fn handle_paragraph(paragraph: &Paragraph, warn: &ErrorType) -> String {
