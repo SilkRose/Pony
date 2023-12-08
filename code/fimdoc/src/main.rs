@@ -39,7 +39,7 @@ fn handle_node(node: &Node, warn: WarningType) -> String {
 		.iter()
 		.map(|n| md_to_bbcode(n, &warn).unwrap())
 		.collect::<Vec<_>>()
-		.join("\n")
+		.join("\n\n")
 }
 
 fn md_to_bbcode(node: &Node, warn: &WarningType) -> Option<String> {
@@ -107,12 +107,12 @@ fn handle_root(root: &Root, warn: &WarningType) -> String {
 }
 
 fn handle_quote(blockquote: &BlockQuote, warn: &WarningType) -> String {
-	let quote = handle_child_nodes(&blockquote.children, warn, "");
-	format!("[quote]{quote}[/quote]\n\n")
+	let quote = handle_child_nodes(&blockquote.children, warn, "\n\n");
+	format!("[quote]{quote}[/quote]")
 }
 
 fn handle_break() -> String {
-	"[hr]".into()
+	"\n".into()
 }
 
 fn handle_inline_code(code: &InlineCode) -> String {
@@ -151,12 +151,12 @@ fn handle_code(code: &Code) -> String {
 }
 
 fn handle_math(math: &Math) -> String {
-	format!("[mathblock]{}[/mathblock]\n\n", math.value)
+	format!("[mathblock]{}[/mathblock]\n", math.value)
 }
 
 fn handle_heading(heading: &Heading, warn: &WarningType) -> String {
 	let text = handle_child_nodes(&heading.children, warn, "");
-	format!("[h{l}]{text}[/h{l}]\n", l = heading.depth)
+	format!("[h{l}]{text}[/h{l}]", l = heading.depth)
 }
 
 fn handle_thematic_break() -> String {
@@ -164,5 +164,5 @@ fn handle_thematic_break() -> String {
 }
 
 fn handle_paragraph(paragraph: &Paragraph, warn: &WarningType) -> String {
-	handle_child_nodes(&paragraph.children, warn, "\n\n")
+	handle_child_nodes(&paragraph.children, warn, "")
 }
