@@ -1,5 +1,8 @@
 use camino::Utf8Path;
-use markdown::mdast::{BlockQuote, Heading, Node, Paragraph, Root};
+use markdown::mdast::{
+	BlockQuote, Code, Delete, Emphasis, Heading, InlineCode, InlineMath, Math, Node, Paragraph,
+	Root, Strong,
+};
 use markdown::{to_mdast, ParseOptions};
 use std::env;
 use std::fs;
@@ -50,10 +53,10 @@ fn md_to_bbcode(node: &Node, warn: &WarningType) -> Option<String> {
 		Node::Toml(_) => handle_warning("Toml", warn),
 		Node::Yaml(_) => handle_warning("Yaml", warn),
 		Node::Break(_) => Some(handle_break()),
-		Node::InlineCode(_) => todo!(),
-		Node::InlineMath(_) => todo!(),
-		Node::Delete(_) => todo!(),
-		Node::Emphasis(_) => todo!(),
+		Node::InlineCode(code) => Some(handle_inline_code(code)),
+		Node::InlineMath(math) => Some(handle_inline_math(math)),
+		Node::Delete(delete) => Some(handle_delete(delete, warn)),
+		Node::Emphasis(emphasis) => Some(handle_emphasis(emphasis, warn)),
 		Node::MdxTextExpression(_) => handle_warning("MdxTextExpression", warn),
 		Node::FootnoteReference(_) => handle_warning("FootnoteReference", warn),
 		Node::Html(_) => handle_warning("HTML", warn),
@@ -62,10 +65,10 @@ fn md_to_bbcode(node: &Node, warn: &WarningType) -> Option<String> {
 		Node::MdxJsxTextElement(_) => handle_warning("MdxJsxTextElement", warn),
 		Node::Link(_) => todo!(),
 		Node::LinkReference(_) => todo!(),
-		Node::Strong(_) => todo!(),
+		Node::Strong(strong) => Some(handle_strong(strong, warn)),
 		Node::Text(text) => Some(text.value.clone()),
-		Node::Code(_) => todo!(),
-		Node::Math(_) => todo!(),
+		Node::Code(code) => Some(handle_code(code)),
+		Node::Math(math) => Some(handle_math(math)),
 		Node::MdxFlowExpression(_) => handle_warning("MdxFlowExpression", warn),
 		Node::Heading(heading) => Some(handle_heading(heading, warn)),
 		Node::Table(_) => handle_warning("Table", warn),
@@ -112,6 +115,45 @@ fn handle_break() -> String {
 	"[hr]".into()
 }
 
+fn handle_inline_code(code: &InlineCode) -> String {
+	format!("[code]{}[/code]", code.value)
+}
+
+fn handle_inline_math(math: &InlineMath) -> String {
+	format!("[math]{}[/math]", math.value)
+}
+
+fn handle_delete(delete: &Delete, warn: &WarningType) -> String {
+	let text = handle_child_nodes(&delete.children, warn, "");
+	format!("[s]{text}[/s]")
+}
+
+fn handle_emphasis(emphasis: &Emphasis, warn: &WarningType) -> String {
+	let text = handle_child_nodes(&emphasis.children, warn, "");
+	format!("[i]{text}[/i]")
+}
+
+fn handle_strong(strong: &Strong, warn: &WarningType) -> String {
+	let text = handle_child_nodes(&strong.children, warn, "");
+	format!("[b]{text}[/b]")
+}
+
+fn handle_code(code: &Code) -> String {
+	if code.lang.is_some() {
+		format!(
+			"[codeblock={}]{}[/codeblock]",
+			code.lang.clone().unwrap(),
+			code.value
+		)
+	} else {
+		format!("[codeblock]{}[/codeblock]", code.value)
+	}
+}
+
+fn handle_math(math: &Math) -> String {
+	format!("[mathblock]{}[/mathblock]\n\n", math.value)
+}
+
 fn handle_heading(heading: &Heading, warn: &WarningType) -> String {
 	let text = handle_child_nodes(&heading.children, warn, "");
 	format!("[h{l}]{text}[/h{l}]\n", l = heading.depth)
@@ -122,5 +164,5 @@ fn handle_thematic_break() -> String {
 }
 
 fn handle_paragraph(paragraph: &Paragraph, warn: &WarningType) -> String {
-	handle_child_nodes(&paragraph.children, warn, "\n")
+	handle_child_nodes(&paragraph.children, warn, "\n\n")
 }
