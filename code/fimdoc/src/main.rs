@@ -1,7 +1,7 @@
 use camino::Utf8Path;
 use markdown::mdast::{
-	BlockQuote, Code, Delete, Emphasis, Heading, InlineCode, InlineMath, Math, Node, Paragraph,
-	Root, Strong,
+	BlockQuote, Code, Delete, Emphasis, Heading, InlineCode, InlineMath, List, ListItem, Math,
+	Node, Paragraph, Root, Strong,
 };
 use markdown::{to_mdast, ParseOptions};
 use std::env;
@@ -48,7 +48,7 @@ fn md_to_bbcode(node: &Node, warn: &WarningType) -> Option<String> {
 		Node::BlockQuote(quote) => Some(handle_quote(quote, warn)),
 		Node::FootnoteDefinition(_) => handle_warning("FootnoteDefinition", warn),
 		Node::MdxJsxFlowElement(_) => handle_warning("MdxJsFlowElement", warn),
-		Node::List(_) => todo!(),
+		Node::List(list) => Some(handle_list(list, warn)),
 		Node::MdxjsEsm(_) => handle_warning("MdxjsEsm", warn),
 		Node::Toml(_) => handle_warning("Toml", warn),
 		Node::Yaml(_) => handle_warning("Yaml", warn),
@@ -75,7 +75,7 @@ fn md_to_bbcode(node: &Node, warn: &WarningType) -> Option<String> {
 		Node::ThematicBreak(_) => Some(handle_thematic_break()),
 		Node::TableRow(_) => handle_warning("TableRow", warn),
 		Node::TableCell(_) => handle_warning("TableCell", warn),
-		Node::ListItem(_) => todo!(),
+		Node::ListItem(list_item) => Some(handle_list_item(list_item, warn)),
 		Node::Definition(_) => todo!(),
 		Node::Paragraph(paragraph) => Some(handle_paragraph(paragraph, warn)),
 	}
@@ -107,8 +107,19 @@ fn handle_root(root: &Root, warn: &WarningType) -> String {
 }
 
 fn handle_quote(blockquote: &BlockQuote, warn: &WarningType) -> String {
-	let quote = handle_child_nodes(&blockquote.children, warn, "\n\n");
-	format!("[quote]{quote}[/quote]")
+	let text = handle_child_nodes(&blockquote.children, warn, "\n\n");
+	format!("[quote]{text}[/quote]")
+}
+
+fn handle_list(list: &List, warn: &WarningType) -> String {
+	let text = match list.spread {
+		true => handle_child_nodes(&list.children, warn, "\n\n"),
+		false => handle_child_nodes(&list.children, warn, "\n"),
+	};
+	match list.ordered {
+		true => format!("[list=1]{text}[/list]"),
+		false => format!("[list]{text}[/list]"),
+	}
 }
 
 fn handle_break() -> String {
@@ -161,6 +172,11 @@ fn handle_heading(heading: &Heading, warn: &WarningType) -> String {
 
 fn handle_thematic_break() -> String {
 	"[hr]".into()
+}
+
+fn handle_list_item(list_item: &ListItem, warn: &WarningType) -> String {
+	let text = handle_child_nodes(&list_item.children, warn, "");
+	format!("[*]{text}")
 }
 
 fn handle_paragraph(paragraph: &Paragraph, warn: &WarningType) -> String {
