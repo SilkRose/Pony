@@ -1,5 +1,11 @@
 [
 	{
+		"hash": "8bdd43b632b4c6ebfd12183f63c5b2f4d2da4360",
+		"subject": "Fim remove profile.dev and profile.release",
+		"unix_time": 1702137619,
+		"words": 69818
+	},
+	{
 		"hash": "5a3a0dd7e18183e5c25525b42573a1d56a3a8e9d",
 		"subject": "FimDoc add new lines to block tags, simplify list",
 		"unix_time": 1702097158,
