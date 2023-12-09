@@ -32,7 +32,7 @@ fn handle_node(node: &Node, warn: &WarningType) -> String {
 	node.children()
 		.unwrap()
 		.iter()
-		.map(|n| md_to_bbcode(n, &warn, &definitions).unwrap())
+		.filter_map(|n| md_to_bbcode(n, &warn, &definitions))
 		.collect::<Vec<_>>()
 		.join("\n\n")
 }
@@ -94,7 +94,7 @@ fn handle_child_nodes(
 ) -> String {
 	nodes
 		.iter()
-		.map(|node| md_to_bbcode(node, warn, definitions).unwrap())
+		.filter_map(|node| md_to_bbcode(node, warn, definitions))
 		.collect::<Vec<_>>()
 		.join(separator)
 }
@@ -166,12 +166,8 @@ fn handle_strong(strong: &Strong, warn: &WarningType, definitions: &Definitions)
 }
 
 fn handle_code(code: &Code) -> String {
-	if code.lang.is_some() {
-		format!(
-			"[codeblock={}]\n{}\n[/codeblock]",
-			code.lang.clone().unwrap(),
-			code.value
-		)
+	if let Some(lang) = &code.lang {
+		format!("[codeblock={lang}]\n{}\n[/codeblock]", code.value)
 	} else {
 		format!("[codeblock]\n{}\n[/codeblock]", code.value)
 	}
