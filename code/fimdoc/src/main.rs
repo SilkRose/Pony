@@ -108,17 +108,14 @@ fn handle_root(root: &Root, warn: &WarningType) -> String {
 
 fn handle_quote(blockquote: &BlockQuote, warn: &WarningType) -> String {
 	let text = handle_child_nodes(&blockquote.children, warn, "\n\n");
-	format!("[quote]{text}[/quote]")
+	format!("[quote]\n{text}\n[/quote]")
 }
 
 fn handle_list(list: &List, warn: &WarningType) -> String {
-	let text = match list.spread {
-		true => handle_child_nodes(&list.children, warn, "\n\n"),
-		false => handle_child_nodes(&list.children, warn, "\n"),
-	};
+	let text = handle_child_nodes(&list.children, warn, "\n");
 	match list.ordered {
-		true => format!("[list=1]{text}[/list]"),
-		false => format!("[list]{text}[/list]"),
+		true => format!("[list=1]\n{text}\n[/list]"),
+		false => format!("[list]\n{text}\n[/list]"),
 	}
 }
 
@@ -152,22 +149,22 @@ fn handle_strong(strong: &Strong, warn: &WarningType) -> String {
 fn handle_code(code: &Code) -> String {
 	if code.lang.is_some() {
 		format!(
-			"[codeblock={}]{}[/codeblock]",
+			"[codeblock={}]\n{}\n[/codeblock]",
 			code.lang.clone().unwrap(),
 			code.value
 		)
 	} else {
-		format!("[codeblock]{}[/codeblock]", code.value)
+		format!("[codeblock]\n{}\n[/codeblock]", code.value)
 	}
 }
 
 fn handle_math(math: &Math) -> String {
-	format!("[mathblock]{}[/mathblock]\n", math.value)
+	format!("[mathblock]\n{}\n[/mathblock]", math.value)
 }
 
 fn handle_heading(heading: &Heading, warn: &WarningType) -> String {
 	let text = handle_child_nodes(&heading.children, warn, "");
-	format!("[h{l}]{text}[/h{l}]", l = heading.depth)
+	format!("[h{l}]\n{text}\n[/h{l}]", l = heading.depth)
 }
 
 fn handle_thematic_break() -> String {
