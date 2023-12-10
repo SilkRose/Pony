@@ -6,10 +6,11 @@ pub enum ErrColor {
 }
 
 pub fn print_error(message: String, color: ErrColor) {
-	match color {
+	let error = match color {
 		ErrColor::Yellow => tcb::new().fg().yellow(),
 		ErrColor::Red => tcb::new().fg().red(),
 	}
 	.text(message)
 	.print();
+	println!("{error}");
 }

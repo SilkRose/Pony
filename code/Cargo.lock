@@ -91,7 +91,7 @@ version = "0.2.1"
 dependencies = [
  "camino",
  "markdown",
- "rarity 0.1.2",
+ "rarity 0.1.3",
 ]
 
 [[package]]
@@ -177,9 +177,9 @@ dependencies = [
 
 [[package]]
 name = "rarity"
-version = "0.1.2"
+version = "0.1.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "859bda76ae4cafc85a03338df279aa5920f864767eed97862116d38f7ddc352e"
+checksum = "45e760e49bd8cc3e3ed71c77649e80dafcc604201d3e7cc28ed6e4bd49c8970f"
 dependencies = [
  "atty",
  "camino",
@@ -189,7 +189,7 @@ dependencies = [
 
 [[package]]
 name = "rarity"
-version = "0.1.3"
+version = "0.1.4"
 dependencies = [
  "atty",
  "camino",
