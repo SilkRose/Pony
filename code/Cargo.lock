@@ -89,7 +89,6 @@ dependencies = [
 name = "fimdoc"
 version = "0.2.0"
 dependencies = [
- "atty",
  "camino",
  "markdown",
 ]
@@ -177,8 +176,9 @@ dependencies = [
 
 [[package]]
 name = "rarity"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
+ "atty",
  "camino",
  "regex",
 ]
