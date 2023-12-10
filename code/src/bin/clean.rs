@@ -1,4 +1,4 @@
-use pony::fs::find_files_in_dir;
+use rarity::fs::find_files_in_dir;
 use regex::Regex;
 use std::fs;
 

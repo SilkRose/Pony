@@ -1,12 +1,13 @@
 [package]
-name = "pony"
+name = "rarity"
 version = "0.1.0"
-description = "CLI tools for various uses in the Pony repo."
+description = "CLI tools and library for various uses in the Pony repo."
 repository = "https://github.com/SilkRose/Pony"
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/"
 authors = ["Silk Rose", "Meadowsys"]
 edition = "2021"
 license = "CC0-1.0"
-publish = false
+readme = "./README.md"
 
 [dependencies]
 camino = { version = "1.1.6" }
