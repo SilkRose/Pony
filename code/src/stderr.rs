@@ -1,4 +1,3 @@
-use std::process::exit;
 use terminal_color_builder::OutputFormatter as tcb;
 
 pub enum ErrColor {
@@ -6,14 +5,11 @@ pub enum ErrColor {
 	Red,
 }
 
-pub fn print_error(message: String, color: ErrColor, quit: bool) {
+pub fn print_error(message: String, color: ErrColor) {
 	match color {
 		ErrColor::Yellow => tcb::new().fg().yellow(),
 		ErrColor::Red => tcb::new().fg().red(),
 	}
 	.text(message)
 	.print();
-	if quit {
-		exit(1);
-	}
 }
