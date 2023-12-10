@@ -2,14 +2,15 @@
 name = "fimdoc"
 version = "0.2.0"
 description = "Firendship is Magic Document, converts Markdown into FIMFiction BBCode."
-repository = "https://github.com/SilkRose/Pony"
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/fimdoc"
-authors = ["Silk Rose", "Meadowsys"]
-edition = "2021"
-license = "CC0-1.0"
 readme = "./README.md"
 
+repository = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+
 [dependencies]
-atty = "0.2.14"
-camino = { version = "1.1.6" }
-markdown = { version = "1.0.0-alpha.16" }
+atty = { workspace = true }
+camino = { workspace = true }
+markdown = { workspace = true }
