@@ -1,6 +1,6 @@
 [package]
 name = "rarity"
-version = "0.1.1"
+version = "0.1.2"
 description = "CLI tools and library for various uses in the Pony repo."
 repository = "https://github.com/SilkRose/Pony"
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/"
@@ -18,6 +18,7 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 atty = "0.2.14"
 camino = { version = "1.1.6" }
+terminal_color_builder = "0.1.1"
 regex = { version = "1.10.2" }
 
 [workspace.dependencies]
