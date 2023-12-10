@@ -1,7 +1,7 @@
-use atty::Stream;
 use camino::Utf8Path;
 use fimdoc::parser::{parse, WarningType};
-use std::{env, fs, io};
+use rarity::stdin::get_stdin;
+use std::{env, fs};
 
 enum Input {
 	Stdin,
@@ -57,19 +57,5 @@ fn main() {
 				panic!("File already exists!")
 			}
 		}
-	}
-}
-
-fn get_stdin() -> Option<String> {
-	if atty::isnt(Stream::Stdin) {
-		Some(
-			io::stdin()
-				.lines()
-				.map(|l| l.unwrap())
-				.collect::<Vec<_>>()
-				.join("\n"),
-		)
-	} else {
-		None
 	}
 }

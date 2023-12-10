@@ -87,10 +87,11 @@ dependencies = [
 
 [[package]]
 name = "fimdoc"
-version = "0.2.0"
+version = "0.2.1"
 dependencies = [
  "camino",
  "markdown",
+ "rarity 0.1.1 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
 [[package]]
@@ -177,6 +178,17 @@ dependencies = [
 [[package]]
 name = "rarity"
 version = "0.1.1"
+dependencies = [
+ "atty",
+ "camino",
+ "regex",
+]
+
+[[package]]
+name = "rarity"
+version = "0.1.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0042a1c31fff109deddf8d91ad49109c94b24d269bf7f881c479446f087411fa"
 dependencies = [
  "atty",
  "camino",
