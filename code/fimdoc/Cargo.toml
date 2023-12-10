@@ -1,6 +1,6 @@
 [package]
 name = "fimdoc"
-version = "0.1.9"
+version = "0.2.0"
 description = "Firendship is Magic Document, converts Markdown into FIMFiction BBCode."
 repository = "https://github.com/SilkRose/Pony"
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/fimdoc"
@@ -10,5 +10,6 @@ license = "CC0-1.0"
 readme = "./README.md"
 
 [dependencies]
+atty = "0.2.14"
 camino = { version = "1.1.6" }
 markdown = { version = "1.0.0-alpha.16" }
