@@ -6,9 +6,9 @@ use markdown::{to_mdast, ParseOptions};
 use std::collections::HashMap;
 
 pub enum WarningType {
-	_Fail,
-	_Silent,
 	Warn,
+	Fail,
+	Quiet,
 }
 
 type Definitions = HashMap<String, String>;
@@ -78,14 +78,14 @@ fn md_to_bbcode(node: &Node, warn: &WarningType, definitions: &Definitions) -> O
 
 fn handle_warning(node: &str, error: &WarningType) -> Option<String> {
 	match error {
-		WarningType::_Fail => {
-			panic!("WARNING: unsupported syntax found: {}", node)
-		}
-		WarningType::_Silent => None,
 		WarningType::Warn => {
 			eprintln!("WARNING: unsupported syntax skipped: {}", node);
 			None
 		}
+		WarningType::Fail => {
+			panic!("WARNING: unsupported syntax found: {}", node)
+		}
+		WarningType::Quiet => None,
 	}
 }
 

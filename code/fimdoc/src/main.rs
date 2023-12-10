@@ -16,7 +16,13 @@ enum Output {
 fn main() {
 	let stdin = get_stdin();
 	let args: Vec<String> = env::args().collect();
-	let (input, output) = match (&stdin, args.len() - 1) {
+	let (warn, args) = match args[1].as_str() {
+		"-w" | "--warn" => (WarningType::Warn, args[2..].to_owned()),
+		"-f" | "--fail" => (WarningType::Fail, args[2..].to_owned()),
+		"-q" | "--quiet" => (WarningType::Quiet, args[2..].to_owned()),
+		_ => (WarningType::Warn, args[1..].to_owned()),
+	};
+	let (input, output) = match (&stdin, args.len()) {
 		(Some(_), 0) => (Input::Stdin, Output::Stdout),
 		(Some(_), 1) => (Input::Stdin, Output::File),
 		(Some(_), _) => panic!("Too many arguments provided!"),
@@ -39,7 +45,6 @@ fn main() {
 			}
 		}
 	};
-	let warn = WarningType::Warn;
 	let bbcode = parse(md, &warn);
 	match output {
 		Output::Stdout => println!("{bbcode}"),
