@@ -1,5 +1,11 @@
 [
 	{
+		"hash": "f31a0e228e4aa63b49bebd457881aa059c06280c",
+		"subject": "FimDoc add stdin and argument handling",
+		"unix_time": 1702182203,
+		"words": 69818
+	},
+	{
 		"hash": "7ba07c588a3fec3472188e439d559c14d534b474",
 		"subject": "FimDoc use filter map, simplify handle code fn",
 		"unix_time": 1702159093,
