@@ -1,8 +1,8 @@
 [package]
 name = "fim"
-version = "0.4.1"
+version = "0.4.2"
 description = "Firendship is Markdown, a simple terminal based Markdown editor."
-homepage = "https://github.com/SilkRose/Pony/tree/mane/code/fim"
+homepage = "https://github.com/SilkRose/Pony/tree/mane/archive/code/rust/fim"
 readme = "./README.md"
 
 repository = { workspace = true }
