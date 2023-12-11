@@ -28,16 +28,13 @@ fn main() {
 		(Some(_), 0) => (Input::Stdin, Output::Stdout),
 		(Some(_), 1) => (Input::Stdin, Output::File),
 		(Some(_), _) => {
-			print_error("Too many arguments provided!".into(), ErrColor::Red);
+			print_error("Too many arguments provided!", ErrColor::Red);
 			exit(1);
 		}
 		(None, 2) => (Input::File, Output::File),
 		(None, 1) => (Input::File, Output::Stdout),
 		(None, _) => {
-			print_error(
-				"Not enough arguments and no stdin found!".into(),
-				ErrColor::Red,
-			);
+			print_error("Not enough arguments and no stdin found!", ErrColor::Red);
 			exit(1);
 		}
 	};
@@ -46,13 +43,14 @@ fn main() {
 		Input::File => {
 			let filename = &args[1];
 			if !filename.ends_with(".md") {
-				panic!("File must be Markdown.")
+				print_error("Input file must be Markdown.", ErrColor::Red);
+				exit(1);
 			};
 			let filepath = Utf8Path::new(filename);
 			if Utf8Path::exists(filepath) {
 				fs::read_to_string(filepath).unwrap()
 			} else {
-				print_error("File not found!".into(), ErrColor::Red);
+				print_error("File not found!", ErrColor::Red);
 				exit(1);
 			}
 		}
@@ -66,7 +64,7 @@ fn main() {
 			if !Utf8Path::exists(filepath) {
 				fs::write(filepath, bbcode).unwrap()
 			} else {
-				print_error("File already exists!".into(), ErrColor::Red);
+				print_error("File already exists!", ErrColor::Red);
 				exit(1);
 			}
 		}

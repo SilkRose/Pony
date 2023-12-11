@@ -87,12 +87,12 @@ fn handle_warning(node: &str, error: &WarningType) -> Option<String> {
 	match error {
 		WarningType::Warn => {
 			let msg = format!("WARNING: unsupported syntax skipped: {}", node);
-			print_error(msg, ErrColor::Yellow);
+			print_error(&msg, ErrColor::Yellow);
 			None
 		}
 		WarningType::Fail => {
 			let msg = format!("WARNING: unsupported syntax found: {}", node);
-			print_error(msg, ErrColor::Red);
+			print_error(&msg, ErrColor::Red);
 			exit(0);
 		}
 		WarningType::Quiet => None,
