@@ -1,6 +1,6 @@
 [package]
 name = "rarity"
-version = "0.1.4"
+version = "0.1.5"
 description = "CLI tools and library for various uses in the Pony repo."
 repository = "https://github.com/SilkRose/Pony"
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/"
@@ -25,7 +25,7 @@ regex = { version = "1.10.2" }
 camino = { version = "1.1.6" }
 crossterm = { version = "0.27.0" }
 markdown = { version = "1.0.0-alpha.16" }
-rarity = { version = "0.1.4" }
+rarity = { path = "./", version = "0.1.5" }
 
 [workspace]
 resolver = "2"
