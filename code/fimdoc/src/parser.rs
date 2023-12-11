@@ -3,7 +3,9 @@ use markdown::mdast::{
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
 use markdown::{to_mdast, ParseOptions};
+use rarity::stderr::{print_error, ErrColor};
 use std::collections::HashMap;
+use std::process::exit;
 
 pub enum WarningType {
 	Warn,
@@ -32,7 +34,7 @@ fn handle_node(node: &Node, warn: &WarningType) -> String {
 	node.children()
 		.unwrap()
 		.iter()
-		.filter_map(|n| md_to_bbcode(n, &warn, &definitions))
+		.filter_map(|n| md_to_bbcode(n, warn, &definitions))
 		.collect::<Vec<_>>()
 		.join("\n\n")
 }
@@ -79,11 +81,14 @@ fn md_to_bbcode(node: &Node, warn: &WarningType, definitions: &Definitions) -> O
 fn handle_warning(node: &str, error: &WarningType) -> Option<String> {
 	match error {
 		WarningType::Warn => {
-			eprintln!("WARNING: unsupported syntax skipped: {}", node);
+			let msg = format!("WARNING: unsupported syntax skipped: {}", node);
+			print_error(msg, ErrColor::Yellow);
 			None
 		}
 		WarningType::Fail => {
-			panic!("WARNING: unsupported syntax found: {}", node)
+			let msg = format!("WARNING: unsupported syntax found: {}", node);
+			print_error(msg, ErrColor::Red);
+			exit(0);
 		}
 		WarningType::Quiet => None,
 	}

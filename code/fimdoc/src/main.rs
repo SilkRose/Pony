@@ -1,6 +1,8 @@
 use camino::Utf8Path;
 use fimdoc::parser::{parse, WarningType};
+use rarity::stderr::{print_error, ErrColor};
 use rarity::stdin::get_stdin;
+use std::process::exit;
 use std::{env, fs};
 
 enum Input {
@@ -25,10 +27,19 @@ fn main() {
 	let (input, output) = match (&stdin, args.len()) {
 		(Some(_), 0) => (Input::Stdin, Output::Stdout),
 		(Some(_), 1) => (Input::Stdin, Output::File),
-		(Some(_), _) => panic!("Too many arguments provided!"),
+		(Some(_), _) => {
+			print_error("Too many arguments provided!".into(), ErrColor::Red);
+			exit(1);
+		}
 		(None, 2) => (Input::File, Output::File),
 		(None, 1) => (Input::File, Output::Stdout),
-		(None, _) => panic!("Not enough arguments and no stdin found!"),
+		(None, _) => {
+			print_error(
+				"Not enough arguments and no stdin found!".into(),
+				ErrColor::Red,
+			);
+			exit(1);
+		}
 	};
 	let md = match input {
 		Input::Stdin => stdin.unwrap(),
@@ -41,7 +52,8 @@ fn main() {
 			if Utf8Path::exists(filepath) {
 				fs::read_to_string(filepath).unwrap()
 			} else {
-				panic!("File not found!")
+				print_error("File not found!".into(), ErrColor::Red);
+				exit(1);
 			}
 		}
 	};
@@ -54,7 +66,8 @@ fn main() {
 			if !Utf8Path::exists(filepath) {
 				fs::write(filepath, bbcode).unwrap()
 			} else {
-				panic!("File already exists!")
+				print_error("File already exists!".into(), ErrColor::Red);
+				exit(1);
 			}
 		}
 	}
