@@ -43,14 +43,14 @@ async function mane() {
 		.split("\n\n")
 		.reverse();
 	const pony: Pony = getPonyData(git_log.length);
-	const pony_commits: PonyCommit[] = getChanges(getCommitData(git_log));
+	//const pony_commits: PonyCommit[] = getChanges(getCommitData(git_log));
 	const pony_string = plib.jsonFmt(JSON.stringify(pony));
-	const pony_commits_string = plib.jsonFmt(JSON.stringify(pony_commits));
+	//const pony_commits_string = plib.jsonFmt(JSON.stringify(pony_commits));
 	plib.writeFile("../dist/api/v1/pony.json", pony_string + "\n");
-	plib.writeFile(
-		"../dist/api/v1/pony-commits.json",
-		pony_commits_string + "\n",
-	);
+	//plib.writeFile(
+	//	"../dist/api/v1/pony-commits.json",
+	//	pony_commits_string + "\n",
+	//);
 }
 
 function getPonyData(commits: number) {
