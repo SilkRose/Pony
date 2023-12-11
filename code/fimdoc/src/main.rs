@@ -18,12 +18,7 @@ enum Output {
 fn main() {
 	let stdin = get_stdin();
 	let args: Vec<String> = env::args().collect();
-	let (warn, args) = match args[1].as_str() {
-		"-w" | "--warn" => (WarningType::Warn, args[2..].to_owned()),
-		"-f" | "--fail" => (WarningType::Fail, args[2..].to_owned()),
-		"-q" | "--quiet" => (WarningType::Quiet, args[2..].to_owned()),
-		_ => (WarningType::Warn, args[1..].to_owned()),
-	};
+	let warn = parse_input(&args);
 	let (input, output) = match (&stdin, args.len()) {
 		(Some(_), 0) => (Input::Stdin, Output::Stdout),
 		(Some(_), 1) => (Input::Stdin, Output::File),
@@ -69,4 +64,45 @@ fn main() {
 			}
 		}
 	}
+}
+
+fn parse_input(args: &Vec<String>) -> WarningType {
+	if args.len() == 1 {
+		return WarningType::Warn;
+	}
+	match args[1].as_str() {
+		"-w" | "--warn" => WarningType::Warn,
+		"-f" | "--fail" => WarningType::Fail,
+		"-q" | "--quiet" => WarningType::Quiet,
+		"-h" | "--help" => {
+			print_help();
+			exit(0);
+		}
+		"-v" | "--version" => {
+			println!("{} {}", env!("CARGO_BIN_NAME"), env!("CARGO_PKG_VERSION"));
+			exit(0);
+		}
+		_ => WarningType::Warn,
+	}
+}
+
+fn print_help() {
+	println!(
+		"{} {}
+
+{}
+
+Usage: fimdoc [OPTIONS] [INPUT] [OUTPUT]
+
+Arguments:
+  [INPUT]...   Input Markdown file, must end in .md
+  [OUTPUT]...  Output text file
+
+Options:
+  -h, --help           Print help
+  -V, --version        Print version",
+		env!("CARGO_PKG_NAME"),
+		env!("CARGO_PKG_VERSION"),
+		env!("CARGO_PKG_DESCRIPTION")
+	)
 }
