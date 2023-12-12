@@ -1026,7 +1026,7 @@ As Pinkie's breath hits my face, I notice my cheek has a funny feeling to it.
 
 I decide to do it.
 
-I use Pinkie breath to gauge where her cheek is and pres my lips gently to her fur.
+I use Pinkie breath to gauge where her cheek is and press my lips gently to her fur.
 
 *I love this.*
 
@@ -1041,4 +1041,168 @@ I wrap my hooves around Pinkie and pull her into a tight embrace.
 "Goodnight, my love."
 
 ***
+
+Waking up, I feel my pillow slowly rising and falling. I try to stretch my legs, but I realize I’m holding Pinkie.
+
+I nuzzle whatever part of Pinkie my head is laying on, before giving up and just laying there.
+
+I whisper, "I love you," before gently tightening my hold on Pinkie.
+
+*I wish I could see you right now.*
+
+After a few moments of silence, I hear Pinkie yawn.
+
+"Pinkie?"
+
+"Yes, Twilight?"
+
+"Do you think I'll be able to see today?"
+
+She wraps her hooves around me. "I don't know…"
+
+*Something feels off.*
+
+"What's wrong?"
+
+"I'm sorry…"
+
+"For what?"
+
+"I don't want this to end, I've had so much fun being *close* to you, I didn't realize it might be ending so soon…"
+
+*That sounds like she likes me, right?*
+
+"Pinkie, I don't have to be blind for us to be close."
+
+*One of us just needs to make the first move…*
+
+Pinkie holds me tighter. "You don't?"
+
+I nuzzle her chest. "No."
+
+"Thank you, Parchment."
+
+"You're welcome, Twister."
+
+We share a moment of silence as we just exist together.
+
+"Twilight, what do you think she would think of me?"
+
+"Who?"
+
+"Parchment."
+
+I take a moment to think about it.
+
+"She would think very highly of you. She would applaud the amount of work you do for your friends. She also thinks you are beautiful."
+
+I feel my cheeks heating up again.
+
+"Thank you, Twilight."
+
+"You're welcome."
+
+After a moment of silence, Pinkie speaks.
+
+"Twister would think you are super smart. She would say you can do anything you put your mind to. And she would say you are super-duper pretty."
+
+"Thanks, Pinkie."
+
+Pinkie nuzzles the top of my head. "What do you want for breakfast, Parchment?"
+
+"Surprise me, Twister."
+
+With that, Pinkie got out of bed before helping me up. She leads me downstairs and to the table, where I once again sit with my thoughts.
+
+*There is no denying it now, we both like each other. We have to, after all that.*
+
+*Right?*
+
+*Yes, I know I like her from the way she makes me feel.*
+
+*And, from the way she speaks and acts, it really feels like she likes me.*
+
+*So, today, I have to kiss her on the cheek.*
+
+*Being blind will make that harder…*
+
+*Unless I do it when we hug, that will make it easier.*
+
+*When should I do it?*
+
+*Should I do it after our next hug, or wait till tonight and do it before going to bed?*
+
+*I think tonight will be the best…*
+
+*Definitely not procrastinating.*
+
+*I want this blindness to be gone, so I can see her pretty face.*
+
+*Maybe it will be by tonight?*
+
+*A mare can dream…*
+
+*I wonder what story Pinkie will tell tonight?*
+
+*I know it will be fun.*
+
+Pinkie startles me out of my thoughts. "Breakfast is served!"
+
+I shake my head before asking, "What is it?"
+
+"Special pancakes."
+
+"Oh, I love your pancakes. What makes them special?"
+
+"You'll see!"
+
+I lean down and locate my food from its heat signature.
+
+Taking a bit from the top pancake, I realize it's not round.
+
+*What shape is it?*
+
+I eat the pancakes, taking a bite from a different starting location for each.
+
+*Aha, it's a heart!*
+
+The realization hits me as my cheek begin to blush.
+
+"Thank you, Pinkie, they were delicious."
+
+"You're welcome! What do you wanna do today?"
+
+"Let's go for a walk, I could use some fresh air."
+
+"Okay."
+
+Getting up from the table, I wait for Pinkie to come help me outside.
+
+We make it outside and Pinkie asks, "Where do you wanna go?"
+
+*Hmm.*
+
+"Let's go to Fluttershy's."
+
+"Okay, sounds fun!"
+
+"Pinkie, I'm going to follow beside you by holding you with my wing, that way we can travel at a faster pace than we have been doing while inside."
+
+"Okay, I won't lead you astray."
+
+I wrap a wing over her back and hold her close. She begins to walk, and I follow as best I can.
+
+As we walk, the realization of how close we are, and how in-public we are, hits me.
+
+I lower my head as I blush intensely.
+
+"Twilight, are you okay? Am I going too fast?"
+
+"I'm fine, just concentrating on walking."
+
+*That's technically not a lie, it is difficult to walk by wing alone.*
+
+"If you need to take a break just say so, I could even carry you if you get tired."
+
+I giggle at the idea. "I'm fine, for now. Thank you, though."
 
