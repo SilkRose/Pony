@@ -14,15 +14,15 @@ When a spell leaves Twilight blinded, Pinkie is left to take care of her while h
 ## Ideas:
 - Takes place over 3 days.
 - Day 1 Pinkie tells a story, day 2 Twilight, day 3 Pinkie.
-- The stories they tell use Twister and Parchment, stand-ins for Twilight and Pinkie.
+- The stories they tell use Twister and Parchment, stand-ins for Pinkie and Twilight.
 - Day 1: Twilight realizes she might have feelings for Pinkie.
 - Day 2: Twilight tries to help Pinkie deal with the guilt from the accident.
-- Day 3: Pinkie kinda confesses her feelings, but Twilight makes the first move.
-- Twilight wakes up in the night to Pinkie having a nightmare over the guilt she feels.
+- Day 3: Pinkie confesses her feelings, but Twilight makes the first move.
+- Twilight wakes up at night to Pinkie having a nightmare over the guilt she feels.
 - Twilight fumbles over to her bed and tries to help.
 - The only thing that helps is holding her, so Twilight holds Pinkie and falls back asleep.
 - On the second night, Twilight asks Pinkie to sleep in her bed, to keep her from being alone.
-- Twilight says to Pinkie, "There is one thing I want from you before I can see again, a kiss." Pinkie kisses Twi and as they kiss, Twilight removes the bandages over her eyes with magic.
+- Twilight says to Pinkie, "There is one thing I want from you before I can see again, a kiss." Pinkie kisses Twilight and as they kiss, Twilight removes the bandages over her eyes with magic.
 - Pinkie has her eyes closed and opens them, staring into Twilight's eyes as they kiss.
 - Pinkie is relieved after the kiss, glad she doesn't have to pretend to not have feelings, casually mentions that she has blushed almost as much as Twilight had, or something like that.
 
