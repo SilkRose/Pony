@@ -1320,7 +1320,7 @@ I feel Pinkie get on the couch beside me. I turn my back to her so she can brush
 
 She starts to brush it as I hear her humming a tune.
 
-"Thank you," I say as I try to not focus on the blush that just took up residence on my face.
+"Thank you," I say as I try not to focus on the blush that just took up residence on my face.
 
 I focus on her humming as I get lost in thought, unconsciously swaying to her music.
 
@@ -1368,5 +1368,5 @@ I whisper, "I love you."
 
 Pinkie whispers back, "I love you."
 
-I nuzzle her chest and Pinkie nuzzles the top of my head in response.
+I nuzzle her chest, and Pinkie nuzzles the top of my head in response.
 
