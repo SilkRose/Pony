@@ -236,7 +236,7 @@ I turn my head and stare at where my hooves should be. "How's the food coming al
 
 "Anything for a friend!"
 
-After a few moments of silence, I hear Pinkie slid something onto the table in front of me. Feeling the heat emanating off it, I deduce it is the pancakes.
+After a few moments of silence, I hear Pinkie slide something onto the table in front of me. Feeling the heat emanating off it, I deduce it is the pancakes.
 
 Doing my best, I levitate the top pancake and take small bites slowly.
 
@@ -284,11 +284,9 @@ I smile as I think about my friend.
 
 *She cares so much.*
 
-*She blames herself for my condition… but it's my fault.*
+*She blames herself for my condition… but I take some of the blame.*
 
-*I can't let her think that.*
-
-*I need to show her the same emotions she is pouring into me, but how?*
+*I can't let her think it's all her fault.*
 
 I don't get time to think about it as Pinkie returns with glee.
 
@@ -656,7 +654,7 @@ I hear Pinkie sit down with her plate. "Twilight?"
 
 "I'm glad it helped, I never want you to feel like that."
 
-"Thank you," Pinkie says with a cheer in her voice.
+"Thank you," Pinkie says in a cheerful voice.
 
 "Holding you actually made me sleep better too," I say with a smile.
 
@@ -768,7 +766,7 @@ I end by asking, "Do you think I have a crush on Pinkie? Do you think she has a 
 
 "What for?"
 
-"Tell a story using the same characters, but this time have it be about Parchment having trouble figuring out if Twister likes her back."
+"Tell a story using the same characters, but this time, have it be about Parchment having trouble figuring out if Twister likes her back."
 
 "How will that help?"
 
@@ -828,15 +826,7 @@ Pinkie let's go as I hold on for a few more seconds, the realization hitting me.
 
 A few moments later, I hear the door close behind her.
 
-"What was a yes?"
-
-"You'll see later, sound good?"
-
-"Okay, sounds fun."
-
-"What now?"
-
-"I don't know, what do you wanna do?"
+"What do you wanna do now?" Pinkie asks.
 
 *Hug you again.*
 
@@ -1130,7 +1120,7 @@ With that, Pinkie got out of bed before helping me up. She leads me downstairs a
 
 *When should I do it?*
 
-*Should I do it after our next hug, or wait till tonight and do it before going to bed?*
+*Should I do it after our next hug, or wait until tonight and do it before going to bed?*
 
 *I think tonight will be the best…*
 
@@ -1142,7 +1132,7 @@ With that, Pinkie got out of bed before helping me up. She leads me downstairs a
 
 *A mare can dream…*
 
-*I wonder what story Pinkie will tell tonight?*
+*I wonder what story Pinkie will tell tonight.*
 
 *I know it will be fun.*
 
@@ -1158,7 +1148,7 @@ I shake my head before asking, "What is it?"
 
 I lean down and locate my food from its heat signature.
 
-Taking a bit from the top pancake, I realize it's not round.
+Taking a bite from the top pancake, I realize it's not round.
 
 *What shape is it?*
 
@@ -1205,4 +1195,178 @@ I lower my head as I blush intensely.
 "If you need to take a break, just say so, I could even carry you if you get tired."
 
 I giggle at the idea. "I'm fine, for now. Thank you, though."
+
+We walk for a while in silence as I get used to this new way of walking.
+
+I break the silence. "Do you think we could have a tea party with Fluttershy?"
+
+"Oh, that sounds fun and relaxing, I hope we can."
+
+"Me too."
+
+"Is that why you wanted to go to Fluttershy's?"
+
+"That, and it would give my legs a good workout after being inside all this time."
+
+"Good idea, Twilight."
+
+"Thank you."
+
+We walk for a bit longer, and I can feel it in my legs.
+
+*I'm going to need to sit down when we get there.*
+
+Pinkie breaks the silence. "If Twister and Parchment do get together, what would their friends say?"
+
+"I think they would be happy for them, don't you?"
+
+"Yea, I agree."
+
+"You said Twister was scared to ask Parchment out?"
+
+"Yes, why?"
+
+"So, you are saying Twister does like Parchment romantically?"
+
+"Yes."
+
+"Well, I am saying Parchment does like Twister back, romantically."
+
+"Oh."
+
+We walk the rest of the trip in silence, no doubt Pinkie's mind racing the whole way.
+
+Mine too, actually.
+
+We knock on Fluttershy's door as I breathe heavy, my legs are on fire.
+
+*Being injured takes a lot of energy, I need a break.*
+
+I hear the door open and Fluttershy say, "Hello girls, would you like to come in?"
+
+"Yes, please," Pinkie says politely.
+
+Pinkie leads me inside and over to the couch. "Sit down and rest, you look tired."
+
+I sit down and immediately feel relived.
+
+*Maybe I should take a nap, I don't know if I can attend a tea party in this state.*
+
+"Fluttershy, can we have a tea party here? We wanted to relax with you and have a good time."
+
+"Sure, that sounds nice, but I might need help getting it all setup."
+
+I lay down as my tiredness overtakes me. "Thank you! Can I take a nap while you two set it up? I'm not much help while I'm blind, anyway."
+
+I yawn before I hear Fluttershy and Pinkie say yes.
+
+I'm so exhausted from the walk, I fall asleep before saying goodnight.
+
+***
+
+I wake up feeling energized and warm. Somepony had wrapped a blanket around me while I was asleep.
+
+I call out to them. "Pinkie? Fluttershy?"
+
+Fluttershy replies, "I'm here. Pinkie went into town to get tea, I was out."
+
+*Fluttershy might have some advice for me.*
+
+"Can we talk?"
+
+"Sure, what's up?"
+
+I explain everything to her like I did with Rarity, and everything that happened since then: our sleeping arrangements, heart pancakes, using the nicknames, my plans to kiss her cheek.
+
+"Oh, are you going to ask her out?"
+
+"I want to, but a part of me is terrified that if I'm wrong it will ruin our friendship."
+
+"If it helps, I think she likes you back."
+
+"Thanks, that's what Rarity said too."
+
+"When are you going to kiss her cheek?"
+
+"I was planning to do it tonight, after she tells me a bedtime story."
+
+"I believe in you!" Fluttershy hugs me gently.
+
+"Thanks." I hug back.
+
+"Twilight?"
+
+"Yes?"
+
+"Your mane is a mess. Do you want me to brush it?"
+
+I take a second to answer, feeling a blush coming over me. I reply sheepishly, "Can you ask Pinkie to do it when she gets back?"
+
+"Sure, she should be back soon."
+
+True to Fluttershy's word, Pinkie returned a few minutes later, closing the door behind her.
+
+Fluttershy and I welcome her back, and she hugs me before I presume hugging Fluttershy.
+
+Fluttershy speaks up. "Pinkie, could you brush Twilight's mane? It looks a mess."
+
+"Sure, here is the tea you asked for!"
+
+"Thank you, I'll start on the tea while you help her."
+
+I sit up on the couch and wrap the blanket around myself.
+
+I feel Pinkie get on the couch beside me. I turn my back to her so she can brush my hair.
+
+She starts to brush it as I hear her humming a tune.
+
+"Thank you," I say as I try to not focus on the blush that just took up residence on my face.
+
+I focus on her humming as I get lost in thought, unconsciously swaying to her music.
+
+*I love this, I love her.*
+
+*I have to do it, tonight.*
+
+*I must kiss her.*
+
+*I must know.*
+
+*All three of us think she likes me back.*
+
+*We have to be right.*
+
+*For me…*
+
+*For my heart.*
+
+"Twilight?"
+
+Thinking about kissing her cheek last night makes me blush more.
+
+"Twilight."
+
+*It felt so nice.*
+
+I'm startled out of my thoughts as I feel Pinkie wrap her hooves around me, hugging me from behind.
+
+"Ah, sorry…"
+
+"It's fine, I'm done brushing your mane."
+
+"Thank you."
+
+"What do you wanna do until the tea is done?"
+
+I think for a moment before saying, "This."
+
+I push backwards, leaning on Pinkie until we fall back. I land on her chest, laying my head on her.
+
+Pinkie wraps her hooves around me, holding me. I lay there, listening to her heartbeat.
+
+I whisper, "I love you."
+
+Pinkie whispers back, "I love you."
+
+I nuzzle her chest and Pinkie nuzzles the top of my head in response.
 
