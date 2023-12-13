@@ -1202,7 +1202,7 @@ I lower my head as I blush intensely.
 
 *That's technically not a lie, it is difficult to walk by wing alone.*
 
-"If you need to take a break just say so, I could even carry you if you get tired."
+"If you need to take a break, just say so, I could even carry you if you get tired."
 
 I giggle at the idea. "I'm fine, for now. Thank you, though."
 
