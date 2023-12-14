@@ -7,19 +7,14 @@ use markdown::{to_mdast, ParseOptions};
 use std::collections::HashMap;
 use std::process::exit;
 
-/// Warning type enum for what to do when encountering unsupported markdown syntax.
 pub enum WarningType {
-	/// Warns the user in yellow on unsupported markdown syntax.
 	Warn,
-	/// Errors in red before terminating on unsupported markdown syntax.
 	Fail,
-	/// Ignores and skips over unsupported markdown syntax.
 	Quiet,
 }
 
 type Definitions = HashMap<String, String>;
 
-/// Parse function for turning markdown into FIMFiction BBCode.
 pub fn parse(md: String, warn: &WarningType) -> String {
 	let node = to_mdast(&md, &ParseOptions::gfm()).unwrap();
 	handle_node(&node, warn)
