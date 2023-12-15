@@ -1032,7 +1032,7 @@ I wrap my hooves around Pinkie and pull her into a tight embrace.
 
 ***
 
-Waking up, I feel my pillow slowly rising and falling. I try to stretch my legs, but I realize I’m holding Pinkie.
+Waking up, I feel my pillow slowly rising and falling. I try to stretch my legs, but I realize I'm holding Pinkie.
 
 I nuzzle whatever part of Pinkie my head is laying on, before giving up and just laying there.
 
