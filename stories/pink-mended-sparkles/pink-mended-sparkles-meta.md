@@ -8,6 +8,8 @@ When a spell leaves Twilight blinded, Pinkie is left to take care of her while h
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
 
+Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
+
 ## Short Description:
 When a spell leaves Twilight blinded, Pinkie is left to take care of her while her feelings for her blossom.
 
@@ -24,7 +26,7 @@ When a spell leaves Twilight blinded, Pinkie is left to take care of her while h
 - On the second night, Twilight asks Pinkie to sleep in her bed, to keep her from being alone.
 - On day 3, they go to Fluttershy's, where they have a tea party.
 - They all relax and have a good time.
-- The walk to and froe wears out Twilight, and by the end of the walk home, Pinkie has to carry her.
+- The walk to and from wears out Twilight, and by the end of the walk home, Pinkie has to carry her.
 - Twilight says to Pinkie, "There is one thing I want from you before I can see again, a kiss." Pinkie kisses Twilight and as they kiss, Twilight removes the bandages over her eyes with magic.
 - Pinkie has her eyes closed and opens them, staring into Twilight's eyes as they kiss.
 - Pinkie is relieved after the kiss, glad she doesn't have to pretend to not have feelings, casually mentions that she has blushed almost as much as Twilight had, or something like that.
