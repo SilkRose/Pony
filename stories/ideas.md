@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Frightened Kisses
+
+### Synopsis:
+Fluttershy goes through a nightmare night attraction with Rainbow Dash, and every time she gets scared, she clings to Rainbow and kisses her secretly on her fur. Eventually, Rainbow catches on and starts doing it back to Fluttershy.
+
+***
+
 ## Cuddle Coupon
 
 ### Synopsis:
