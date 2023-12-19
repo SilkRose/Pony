@@ -67,3 +67,5 @@ This file contains random story names that don't have enough thought to have the
 - Hidden Hovel
 - Condensed Cuteness
 - Fun on the Run
+- Clean Coat
+- Tail Tag
