@@ -1370,3 +1370,157 @@ Pinkie whispers back, "I love you."
 
 I nuzzle her chest, and Pinkie nuzzles the top of my head in response.
 
+We lay there in silence, and as I'm about to fall asleep on Pinkie, Fluttershy speaks.
+
+"Am I interrupting something?"
+
+"No," Pinkie and I say in unison, myself a little more bashful than her.
+
+"The tea is ready."
+
+Pinkie helps me up off her and leads me into the kitchen.
+
+Fluttershy says, "I put a straw in your tea, Twilight."
+
+"Thank you."
+
+I lean down and find the straw before testing the temperature of the tea.
+
+I drink the whole cup as I realize how thirsty I am. "That was delicious, could I have another? I'm rather thirsty."
+
+"Certainly. How has the recovery been going?" Fluttershy says before I hear her pouring me another cup.
+
+I turn to where Pinkie should be and smile. "It's going good, I've got a wonderful caretaker who makes everything fun." I turn back to where Fluttershy should be. "I just wish I could see again already."
+
+Pinkie hugs me and I hug back.
+
+"Sounds like you're making the best of it."
+
+I nod in response before drinking more tea.
+
+"Pinkie, how's it been being a caretaker? Learn anything new about Twilight you didn't know before?"
+
+I hear Pinkie set her teacup down. "It's fun, but also hard. I try my best, but it's hard when somepony relies on you for everything. But, when you see how much it helps them, and how much it makes them smile, it makes it all worth it."
+
+I smile wide at her answer.
+
+*Such a good friend.*
+
+Pinkie continues, "And I learned she is good at cuddling."
+
+My cheeks blush in response.
+
+*You too!*
+
+Fluttershy says, "Wow, sounds like this has been a bonding experience for you two."
+
+I nod and Pinkie says, "Yes."
+
+I take another sip of my tea. "How's your day been, Fluttershy?"
+
+"It's going good, especially now that you girls are here."
+
+"I'm glad we could brighten your day, thanks for the tea."
+
+Pinkie agrees.
+
+I finish my second cup and ask for a third.
+
+"Of course," Fluttershy says before refilling my cup.
+
+The table goes quiet, and I slowly drink my third cup as I drift into thought.
+
+*This is nice.*
+
+*I love my friends.*
+
+*I want to see them, though.*
+
+*Especially Pinkie.*
+
+*I want to see her reaction when I kiss her cheek.*
+
+"Twilight?"
+
+*I want to stare into her beautiful blue eyes as we kiss.*
+
+"Twilight?" Fluttershy tries again, this time getting my attention.
+
+"Sorry, what's up?"
+
+"Would you like another cup of tea?"
+
+"Oh, no, I think I'm good, thank you."
+
+"Okay."
+
+I turn towards Pinkie. "I think I'm ready to go home."
+
+*I need to kiss her cheek, and it needs to be soon.*
+
+Pinkie says, "Okay."
+
+I feel both ponies envelop me in a loving group hug.
+
+I hug back. "I love you girls!"
+
+"We love you, too," they say together.
+
+After the hug, Pinkie helps me down and leads me to the door, my legs feeling wobbly the whole way.
+
+We exchange goodbyes and leave Fluttershy's cottage.
+
+"Pinkie, we have to go slower this time, my legs are still sore."
+
+"Okay, you just say the word, and I'll carry you home on my back."
+
+I nod before wrapping a wing over her back.
+
+We set off for my home, slowly.
+
+We make it a good trot down the road before Pinkie speaks. "Twilight?"
+
+"Yes?"
+
+"What's going to happen when you can see again?"
+
+"I don't really know, do you?"
+
+"I don't either, I just want us to stay close…"
+
+"I have an idea that might do that, but it's for later."
+
+"Okay."
+
+We walk a few minutes in silence until I reassure Pinkie.
+
+"Pinkie, I love you. No matter what happens, I will love you, and you will always be my best friend."
+
+Pinkie stops and hugs me tight. "I will always love you too!"
+
+We start walking again and I sigh before stopping.
+
+"I can't go any farther, my legs are shot."
+
+"Let me help." Pinkie helps me climb on her back.
+
+I wrap my hooves around her, holding her tight as I lay my head on hers.
+
+"Thank you."
+
+"You're welcome!"
+
+Pinkie begins to walk as my face blushes more that I've ever felt before.
+
+I bury my face in her mane.
+
+*I love Pinkie.*
+
+*I love her so much.*
+
+I yawn before nuzzling her mane.
+
+Getting comfortable, I fall asleep on Pinkie's back, using Pinkie's mane as the softest of pillows.
+
+***
+
