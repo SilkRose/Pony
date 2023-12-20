@@ -1524,3 +1524,198 @@ Getting comfortable, I fall asleep on Pinkie's back, using Pinkie's mane as the 
 
 ***
 
+As I carry Twilight through town on my back, I can't help but hear her light snoring above my head.
+
+*She can sleep anywhere, wow.*
+
+*I guess it's a good thing, she needs to recover.*
+
+*Maybe with all this rest, she will be able to see tonight.*
+
+*I hope whatever Twilight has planned works. I don't want stop being so close with her.*
+
+*I've got to kiss her cheek tonight, whether Twilight can see or not.*
+
+*I've got to show her how I feel.*
+
+*She wants to see again, and I hope she gets her wish, by tonight if possible.*
+
+I switch thoughts, thinking about our tea party now.
+
+*Twilight sure was blushing a lot at our tea party.*
+
+*She looked so cute.*
+
+*I was blushing too, especially when she was laying on me before the tea party.*
+
+*Twilight will be able to see my blushes after she can see again.*
+
+*I guess it won't matter after tonight.*
+
+Making it the rest of the way to Twilight's, I gently bring her upstairs and set her down on her bed.
+
+I get in bed beside her and pull her close.
+
+*I'm tired from carrying you so far.*
+
+I hold Twilight and nuzzle her mane. "Goodnight, Parchment."
+
+***
+
+I wake up and realize I'm no longer on Pinkie's back. Instead, Pinkie is holding me.
+
+Feeling around, I realize I'm in my bed.
+
+*Pinkie must have put me in bed and went to bed herself.*
+
+I whisper to her, "Thank you, Pinkie, for being such an amazing and cute, friend."
+
+I pull one of her hooves from holding me and hold it to my chest.
+
+"I love you, Twister." I kiss her hoof that I'm holding.
+
+Pinkie giggles in her sleep.
+
+I kiss her hoof again, this time leaving my lips pressed to it for a few seconds.
+
+Pinkie stirs from her sleep with a few more giggles.
+
+I freeze in place, holding Pinkie's hoof.
+
+Pinkie yawns. "Twilight?"
+
+I yawn in response. "Pinkie?"
+
+Pinkie pulls her hoof away and wraps it back around me. "How did you sleep, beautiful?"
+
+*Pinkie called me beautiful!*
+
+My cheeks blush, I make no effort to hide it.
+
+"I slept good, you make a pretty cozy bed, and your mane is an amazing pillow. How did you sleep, cutie?"
+
+"It was nice, how could it not be, holding such a pretty pony in my hooves."
+
+My blush intensifies greatly.
+
+*Is this real?*
+
+*Are we flirting?*
+
+I smile. "I know we did it in the wrong order, but I think" – I poke her chest as best I can – "a certain *hot* pink mare owes me a bedtime story."
+
+My blush feels like its overtaken my face.
+
+*I just called Pinkie hot!*
+
+"Okay, Parchment, you ready for the best story yet? This one is based off a true story."
+
+"I can't wait, Twister."
+
+We both giggle together.
+
+"This story is about two bestest friends. Twilight Sparkles and…"
+
+"Pinkie Pie!"
+
+"Yes, they were uh…"
+
+"An alicorn and an earth pony."
+
+"Yes, you're good at this, parchment."
+
+I giggle and scoot closer to her.
+
+"Pinkie started noticing she felt different around Twilight, she got this weird feeling when they hugged."
+
+"And wanted to hold the hug forever, right?"
+
+"Yes."
+
+"What did Pinkie do?"
+
+"She tried to confess her love, but despite being a very extraverted pony, she was unable to get the words out."
+
+"She had to do something?"
+
+Pinkie's tone changes, now somber. "She made a mistake, she asked Twilight to cast a spell, thinking it would help her be able to confess."
+
+"Oh."
+
+"Pinkie had Twilight cast the spell, leading to Twilight passing out on the floor."
+
+I don't say anything, as I can hear the tears in Pinkie voice.
+
+"Pinkie had never run so fast, doing her best to get Twilight help. She cried the entire way to the hospital, terrified of what she had done."
+
+I wrap my hooves around her and pull her close, nuzzling her tears away. "It's okay."
+
+Pinkie holds me tighter and continues her tale. "Thankfully, it was not the end of the world. Twilight had only been temporarily blinded. And with Pinkie to take care of her, could go home that day for recovery."
+
+I try to bring in some positivity. "They had a lot of fun together."
+
+Pinkie's cheerful tone comes back. "They did. The next three days were the most fun Pinkie had while being the most responsible she had ever been."
+
+"Twilight also had a lot of fun, and she discovered something over those three days."
+
+"What was it?"
+
+"She discovered feelings for Pinkie that she didn't know how to deal with."
+
+"What did she do about them?"
+
+"She talked to her friends, trying to figure out if she liked Pinkie and if Pinkie liked her back."
+
+"What did she find out?"
+
+"She found out that she likes Pinkie."
+
+"Did she tell Pinkie about her feelings?"
+
+"Well, it's complicated, she wanted to, but had a lot of trouble, just like Pinkie."
+
+"So, both Twilight and Pinkie like each other, but both of them are having trouble telling the other?"
+
+"Yes, sounds silly, doesn't it?"
+
+"Sounds like us."
+
+After a moment of silence, Pinkie grabs my hoof and kisses it. "I love you, Parchment."
+
+I giggle. "I love you, Twister."
+
+Pinkie kisses my hoof a second time, this time holding it for a few seconds.
+
+I giggle a bunch at this, then say, "I want a hug."
+
+Pinkie pulls me close and hugs me tightly.
+
+I hug back, squeezing her gently. "Close your eyes."
+
+"Okay."
+
+*It's time.*
+
+After the hug, as I pull away, I turn my head slightly and press forward with my lips ready to kiss her cheek.
+
+My lips don't contact with Pinkie's soft fur, instead they press firmly to Pinkie's own lips.
+
+*Pinkie was going to kiss my cheek!*
+
+*I…*
+
+*I need to see her!*
+
+I use my magic to slowly unwind the bandages covering my eyes.
+
+After getting them all removed, I open my eyes, revealing Pinkie opening her eyes in sync.
+
+We stare deeply into each other's eyes, hooves tightly bound to the other.
+
+We hold the kiss for an eternity as tears of joy flow freely from both our eyes.
+
+Eventually, we break the kiss, both of us smiling wide, goofy smiles.
+
+I speak up. "I love you, Twister!"
+
+"I love you, Parchment!"
