@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Product
+
+### Synopsis:
+Pinkie opens a pink store, where she sells pink-colored items. Things are going well at first, but quickly get out of hoof when some mysterious mare tries to buy Pinkie Pie.
+
+***
+
 ## Frightened Kisses
 
 ### Synopsis:
