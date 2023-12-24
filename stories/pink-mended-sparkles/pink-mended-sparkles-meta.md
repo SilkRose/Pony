@@ -6,9 +6,11 @@ Pinkie takes care of Twilight after a spell blinds her for a short while. Over t
 ## Description:
 When a spell leaves Twilight blinded, Pinkie is left to take care of her while her feelings for her blossom.
 
-Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading the first 1,000 words and writing a few paragraphs.
 
 Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
+
+Thanks to [Hyper Star](https://www.fimfiction.net/user/622256/Hyper+Star) for pre-reading.
 
 ## Short Description:
 When a spell leaves Twilight blinded, Pinkie is left to take care of her while her feelings for her blossom.
