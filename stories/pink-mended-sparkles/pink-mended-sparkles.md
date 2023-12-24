@@ -1628,7 +1628,7 @@ We both giggle together.
 
 "An alicorn and an earth pony."
 
-"Yes, you're good at this, parchment."
+"Yes, you're good at this, Parchment."
 
 I giggle and scoot closer to her.
 
