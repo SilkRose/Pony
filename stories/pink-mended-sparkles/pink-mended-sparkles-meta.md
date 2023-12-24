@@ -4,16 +4,16 @@
 Pinkie takes care of Twilight after a spell blinds her for a short while. Over the time, they become close. When Twilight can see again, she asks Pinkie out. It is from Twilight's perspective.
 
 ## Description:
-When a spell leaves Twilight blinded, Pinkie is left to take care of her while her feelings for her blossom.
+When a spell temporarily blinds Twilight, Pinkie is left to take care of her as they discover new feelings, which they try to express creatively.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading the first 1,000 words and writing a few paragraphs.
 
-Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
+Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for proofreading.
 
-Thanks to [Hyper Star](https://www.fimfiction.net/user/622256/Hyper+Star) for pre-reading.
+Thanks to [Hyper Star](https://www.fimfiction.net/user/622256/Hyper+Star) for proofreading.
 
 ## Short Description:
-When a spell leaves Twilight blinded, Pinkie is left to take care of her while her feelings for her blossom.
+When a spell temporarily blinds Twilight, Pinkie is left to take care of her as they discover new feelings, which they try to express creatively.
 
 ## Ideas:
 - Takes place over 3 days.
