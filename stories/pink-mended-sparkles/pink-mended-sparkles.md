@@ -46,9 +46,9 @@ I try to open my eyes, and can't. I turn my head left and right.
 
 *Oh, great.*
 
-As I lay there, I realize Pinkie has been hugging me this entire time.
+As I lie there, I realize Pinkie has been hugging me this entire time.
 
-I return the hug. "Thank you."
+I hug back. "Thank you."
 
 Pinkie hugs me tighter. "You're welcome."
 
@@ -134,7 +134,7 @@ I get back up, bruised ego and all.
 
 I slowly walk, feeling my way with my hooves, trying to remember the layout of my tree house.
 
-I bump into a lamp.
+I bump a lamp.
 
 _Oh, I know this lamp. I bought this last winter and put it on the bookshelf near my writing desk. That should mean the kitchen is to my right._
 
@@ -150,7 +150,7 @@ I shuffle my way deeper into the kitchen.
 
 *The table should be to my left.*
 
-I walk forward a little more and turn left. Walking forward, I crash into something.
+I walk forward a little more and turn left. Walking forward again, I crash into something.
 
 I panic and grab onto it, falling on top of it.
 
@@ -244,7 +244,7 @@ Doing my best, I levitate the top pancake and take small bites slowly.
 
 I hear a stifled giggle as I poke myself in the cheek with the pancake for the third time in a row.
 
-Sighing, I put the pancake down and on the plate, and start eating like an earth pony.
+Sighing, I set the pancake down and on the plate, and start eating like an earth pony.
 
 I finish my first pancake, then stop to compliment Pinkie. "These are really good, thank you."
 
@@ -252,7 +252,9 @@ I finish my first pancake, then stop to compliment Pinkie. "These are really goo
 
 I smile at her. "I can tell."
 
-I feel my cheeks heating up. *Hmm, what's that from?*
+I feel my cheeks heating up.
+
+*Hmm, what's that from?*
 
 I go back to eating as I hear Pinkie do the same.
 
@@ -416,7 +418,7 @@ I hear her trot over to the bed and lay down.
 
 I turn over and do my best to fall asleep.
 
-As I lay there right before falling asleep, I only have one question on my mind.
+As I lie there right before falling asleep, I only have one question on my mind.
 
 *Do I have a crush on Pinkie?*
 
@@ -458,7 +460,7 @@ Inching forward every few seconds, I map where I should be and eventually make i
 
 Using my front hooves, I feel for where Pinkie is.
 
-I find her in the middle of the bed, half uncovered from the blanket.
+I find her in the middle of the bed, half uncovered by the blanket.
 
 Feeling around her, I find a wet spot near her head.
 
@@ -510,13 +512,15 @@ I yawn and decide to just sleep here.
 
 *Guess I'm sleeping with Pinkie now.*
 
-*I like being close to her… just wish it were under better circumstances.*
+*I like being close to her… I just wish it were under better circumstances.*
 
 *I'm glad I was able to help.*
 
-I nuzzle the top of Pinkie's head. "Goodnight, Twister."
+I nuzzle the top of Pinkie's head. "Goodnight, Pinkie."
 
 "Good… Par…" Pinkie tries in her sleep.
+
+I giggle and try again. "Goodnight, Twister."
 
 I smile as I hold Pinkie, drifting off to sleep soon after.
 
@@ -540,7 +544,7 @@ I do it again and this time I hear her wake up.
 
 "I know, I did my best to help."
 
-"I'm sorry you had to…"
+"I'm sorry you had to do that…"
 
 "Oh, it's alright, it was getting lonely in my bed anyway."
 
@@ -612,11 +616,13 @@ I hear Pinkie start to make the food as I drift off into thought.
 
 *I'll ask Pinkie to go get her after we eat.*
 
-As I was about to switch trains of thought, a memory from last night derails it into a new idea.
+I was about to ask Pinkie about getting Rarity, when a memory from last night derails my train of thought.
 
-> I nuzzle the top of Pinkie's head. "Goodnight, Twister."
+> I nuzzle the top of Pinkie's head. "Goodnight, Pinkie."
 >
 > "Good… Par…" Pinkie tries in her sleep.
+>
+> I giggle and try again. "Goodnight, Twister."
 
 *What was Pinkie's story alluding to?*
 
@@ -714,7 +720,7 @@ I think about how she makes me feel.
 
 *When I held her last night as we slept, I really enjoyed that.*
 
-*I think she did too, by the way she acted when we woke up.*
+*I think she did too, from the way she acted when we woke up.*
 
 *But what if that was just because I got rid of her nightmare?*
 
@@ -780,7 +786,7 @@ I end by asking, "Do you think I have a crush on Pinkie? Do you think she has a 
 
 "These characters are stand-ins for you and Pinkie, right?"
 
-"I don't know, I know we used those names right as we fell asleep last night, but I didn't think anything of it."
+"I don't know, I know we used those names right as we fell asleep last night, but I didn't think much of it then."
 
 "Well, I think they are, and I think it will help you figure all this out. Use the characters to express your feelings and gauge how the other one feels."
 
@@ -816,7 +822,7 @@ Pinkie let's go as I hold on for a few more seconds, the realization hitting me.
 
 *I have a crush on Pinkie.*
 
-"Thank you, Rarity, it's a yes."
+"Thank you, Rarity."
 
 "You're welcome, I'll see you two later. Bye, darlings, and good luck to the both of you."
 
@@ -926,7 +932,7 @@ A silence took over the room for a few seconds before I ask, "I'm ready to sleep
 
 "Yes, Twilight?"
 
-"Can you sleep in my bed? I don't want to be alone…"
+"Can you sleep in my bed? I would rather not be alone…"
 
 "Yes!" Pinkie slides under the covers, laying beside me.
 
@@ -942,9 +948,9 @@ Pinkie gently wraps her hooves around me, holding me tight.
 
 I smile in her embrace, happy to be held.
 
-Pinkie whispers, "Goodnight, Parchment."
+I whisper, "Goodnight, Twister."
 
-I whisper back, "Goodnight, Twister."
+Pinkie whispers back, "Goodnight, Parchment."
 
 *Do the names mean we both like each other?*
 
@@ -966,13 +972,13 @@ Opening my eyes, I see Twilight's mane. I nuzzle her mane before sighing.
 
 I quietly lament to myself.
 
-"Why can't I just tell you how I feel?"
+"Why can't I just tell you how I feel?
 
-"It sure seems like you like me, but how do I know for sure."
+"It sure seems like you like me, but how do I know for sure.
 
-*Maybe tomorrow I can try to kiss your cheek?*
+"Maybe tomorrow I can try to kiss your cheek?
 
-*Yea, I can do that. I hope.*
+"Yea, I can do that. I hope."
 
 As I lay there, an idea comes to me.
 
@@ -1074,7 +1080,7 @@ I nuzzle her chest. "No."
 
 "You're welcome, Twister."
 
-We share a moment of silence as we just exist together.
+We share a giggle before a moment of silence as we just exist together.
 
 "Twilight, what do you think she would think of me?"
 
@@ -1084,7 +1090,7 @@ We share a moment of silence as we just exist together.
 
 I take a moment to think about it.
 
-"She would think very highly of you. She would applaud the amount of work you do for your friends. She also thinks you are beautiful."
+"She would think very highly of you. She would applaud the amount of work you do for your friends. She also thinks you are beautiful, and she loves your parties."
 
 I feel my cheeks heating up again.
 
@@ -1094,7 +1100,7 @@ I feel my cheeks heating up again.
 
 After a moment of silence, Pinkie speaks.
 
-"Twister would think you are super smart. She would say you can do anything you put your mind to. And she would say you are super-duper pretty."
+"Twister would think you are super smart. She would say you can do anything you put your mind to. And she would say you are super-duper pretty, and she loves to hug you."
 
 "Thanks, Pinkie."
 
@@ -1280,7 +1286,7 @@ I explain everything to her like I did with Rarity, and everything that happened
 
 "Oh, are you going to ask her out?"
 
-"I want to, but a part of me is terrified that if I'm wrong it will ruin our friendship."
+"I want to, but a part of me is terrified that if I'm wrong, it will ruin our friendship."
 
 "If it helps, I think she likes you back."
 
@@ -1316,7 +1322,7 @@ Fluttershy speaks up. "Pinkie, could you brush Twilight's mane? It looks a mess.
 
 I sit up on the couch and wrap the blanket around myself.
 
-I feel Pinkie get on the couch beside me. I turn my back to her so she can brush my hair.
+I feel Pinkie get on the couch beside me. I turn my back to her so she can brush my mane.
 
 She starts to brush it as I hear her humming a tune.
 
@@ -1478,7 +1484,7 @@ I nod before wrapping a wing over her back.
 
 We set off for my home, slowly.
 
-We make it a good trot down the road before Pinkie speaks. "Twilight?"
+We make it a good trot down the road before Pinkie breaks the silence. "Twilight?"
 
 "Yes?"
 
@@ -1532,7 +1538,7 @@ As I carry Twilight through town on my back, I can't help but hear her light sno
 
 *Maybe with all this rest, she will be able to see tonight.*
 
-*I hope whatever Twilight has planned works. I don't want stop being so close with her.*
+*I hope whatever Twilight has planned works. I don't want to stop being so close with her.*
 
 *I've got to kiss her cheek tonight, whether Twilight can see or not.*
 
@@ -1614,7 +1620,7 @@ My blush feels like its overtaken my face.
 
 We both giggle together.
 
-"This story is about two bestest friends. Twilight Sparkles and…"
+"This story is about two bestest friends. Twilight Sparkle and…"
 
 "Pinkie Pie!"
 
@@ -1634,7 +1640,7 @@ I giggle and scoot closer to her.
 
 "What did Pinkie do?"
 
-"She tried to confess her love, but despite being a very extraverted pony, she was unable to get the words out."
+"She tried to confess her love, but despite being a very extroverted pony, she was unable to get the words out."
 
 "She had to do something?"
 
