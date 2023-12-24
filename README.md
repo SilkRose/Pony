@@ -113,6 +113,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for Timeless Tears.
 - **[Gapty]** for proofreading X Marks the Plot.
+- **[Hyper Star]** for proofreading Pink-Mended Sparkles.
 - **[MoonSong Darkstone]** for writing The Saddest Rainbow based off Best Sister Never.
 - **[Nebbie]** for cover feedback, and collaborative writing.
 - **EDEN** for helping write the first chapter of Saddle Bagged.
@@ -155,6 +156,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Tiki Bat Twitter]: https://twitter.com/TikiBat "Twitter"
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "FIMFiction"
 [Gapty]: https://www.fimfiction.net/user/493938/gapty "FIMFiction"
+[Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "FIMFiction"
 [MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "FIMFiction"
 [Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "FIMFiction"
 [Midori-no-ink]: https://www.deviantart.com/midori-no-ink "DeviantArt"
