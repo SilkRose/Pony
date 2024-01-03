@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Perfume
+
+### Synopsis:
+Pinkie and Rarity go into business together, creating a line of perfumes. As the business grows and there product becomes popular, they disagree about where to take the company, all while trying to deal with their newfound feelings towards each other.
+
+***
+
 ## Pink Product
 
 ### Synopsis:
