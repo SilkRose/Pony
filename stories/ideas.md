@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Prank
+
+### Synopsis:
+Rainbow pranks Rarity by dying her white coat to pink temporarily, but Rainbow is caught off guard by her sudden attraction to her now pink friend. When Rarity's coat is white again and Rainbow still has feelings for her, she does the only logical thing, and dyes her own coat pink in an attempt to get Rarity to like her.
+
+***
+
 ## Pink Perfume
 
 ### Synopsis:
