@@ -69,3 +69,5 @@ This file contains random story names that don't have enough thought to have the
 - Fun on the Run
 - Clean Coat
 - Tail Tag
+- Personal Pan Party
+- The Friend to Marefriend Pipeline
