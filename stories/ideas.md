@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Non-Linear Romance
+
+### Synopsis:
+Rainbow Dash shooting off a sign 'I love you' on a stadium billboard during a Wonderbolts performance, then each of the other five heroines (maybe less) reminisce about her quasi-romantic experience with Rainbow Dash in their head, but it ends with RD swooping and gunning for some other character, or she meant it in a platonic way.
+
+***
+
 ## Pink Prank
 
 ### Synopsis:
