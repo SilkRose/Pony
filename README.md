@@ -16,16 +16,6 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/SilkRose/Pony/tree/mane/blogs" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8" alt="Blogs"></a>
-	&nbsp;
-	<a href="https://github.com/SilkRose/Pony/commits/mane" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764" alt="Commits"></a>
-	&nbsp;
-	<a href="https://github.com/SilkRose/Pony/tree/mane/code" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=code&style=flat-square&label=Code&labelColor=%23D9C574&color=%23F3F49B" alt="Code"></a>
-	&nbsp;
-	<a href="https://github.com/SilkRose/Pony#statistics" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=size&style=flat-square&label=Size&labelColor=%23CEC8D1&color=%23EFEDED" alt="Size"></a>
-</p>
-
-<p align="center">
 	A collection of stories, ideas, names, and more, all pony related.
 </p>
 
