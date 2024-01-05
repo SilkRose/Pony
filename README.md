@@ -53,7 +53,6 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **Archive:** Anything that is deleted, instead goes here.
 - **Flash Fiction:** Short stories, typically written in one sitting.
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
-- **Promotions:** Social previews images like banners.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
 
 ## Readings:
@@ -165,4 +164,4 @@ While I may be the main contributor to this repository, I have had help, and thu
 [The Heist of My Heart]: https://www.fimfiction.net/story/538410/the-heist-of-my-heart "FIMFiction"
 [Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "FIMFiction"
 
-[banner]: ./promotions/banner-01/banner-01-1-small-transparent.png
+[banner]: ./archive/promotions/banner-01/banner-01-1-small-transparent.png
