@@ -56,16 +56,6 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **Promotions:** Social previews images like banners.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
 
-## Statistics:
-I wrote code to analyze each of the statistics below the banner at the top. All stats do not count anything inside the archive folder. Here is additional context for word and code count:
-
-### Words:
-The total word count for all stories and flash fiction. Does not count meta files, or any text on lines with links, or any markdown syntax, and counts hyphenated words as one word.
-
-### Code:
-The total number of trimmed unique lines of code.
-
-
 ## Readings:
 A few of my stories have had readings made for them, I would like to thank the following ponies for doing readings of my work:
 
