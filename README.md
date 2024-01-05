@@ -39,7 +39,6 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **Free to use:** My writing is free for anyone to do anything with.
 
 ### With these tools:
-- **[Git]**, used to keep track of changes over time.
 - **[Markdown]**, my file format of choice.
 - **[fimd]**, used to convert Markdown into [FIMFiction BBCode].
 - **[Obsidian]**, a highly customizable and extensible Markdown text editor.
@@ -47,10 +46,10 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **[Obsidian LanguageTool]**, a plugin to use LanguageTool within Obsidian.
 - **[GIMP]**, an image editor, used to make covers.
 - **[MLP Vector Club]**, used to get accurate pony colors.
-- **[VSCodium]**, I write all my shell scripts in it.
 
 ## Directory Structure:
-- **Archive:** Anything that is deleted, instead goes here.
+- **Archive:** Long term storage for files that are unlikely to change, and deleted files.
+- **Code:** Code for the API, converting markdown into [FIMFiction BBCode], and maintaining standards.
 - **Flash Fiction:** Short stories, typically written in one sitting.
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
@@ -83,7 +82,7 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 ## Special Thanks:
 While I may be the main contributor to this repository, I have had help, and thus I would like to give a special thanks to the following ponies:
 
-- **[Meadowsys]** for creating fimd and general coding help.
+- **[Meadowsys]** for creating [fimd] and general coding help.
 - **[6-D Pegasus]** for proofreading, pre-reading and collaborative writing.
 - **[Forcalor]** for proofreading and pre-reading.
 - **[Langtanium]** for creating the pony sprites and props used to make covers.
@@ -113,14 +112,12 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Factorio Mods]: https://mods.factorio.com/user/SilkRose "Factorio Mods"
 [Minecraft]: https://www.minecraft.net/ "Minecraft"
 
-[Git]: https://git-scm.com/ "Git"
 [Markdown]: https://www.markdownguide.org/ "Markdown Guide"
 [Obsidian]: https://obsidian.md/ "Obsidian"
 [LanguageTool]: https://languagetool.org/ "LanguageTool"
 [Obsidian LanguageTool]: https://github.com/Clemens-E/obsidian-languagetool-plugin "GitHub"
 [GIMP]: https://www.gimp.org/ "GIMP"
 [MLP Vector Club]: https://mlpvector.club/ "MLP Vector Club"
-[VSCodium]: https://vscodium.com/ "VSCodium"
 
 [license]: ./LICENSE.md
 [Ideas File]: ./stories/ideas.md
