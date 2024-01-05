@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Sweet and Shy
+
+### Synopsis:
+Fluttershy has a crush on Pinkie, and while at a sleepover at Twilight's, Fluttershy asks Twilight to help Fluttershy express her feelings by having Twilight pick out semi-romantic activities and having Fluttershy and Pinkie do them together.
+
+***
+
 ## Non-Linear Romance
 
 ### Synopsis:
