@@ -20,6 +20,7 @@ jobs:
             - name: Deploy API
               run: |
                   cd ./dist
+                  git diff --exit-code && exit 0
                   git config --global user.name "Silk Rose"
                   git config --global user.email "silkrose@love-tolerance.com"
                   git remote set-url origin \
