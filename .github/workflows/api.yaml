@@ -13,31 +13,13 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - name: Install Bun
-              run: curl -fsSL https://bun.sh/install | bash
-
-            - name: Download Files
-              run: |
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/mane/archive/code/typescript/api.ts
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/mane/archive/code/typescript/package.json
-                  curl -s -O https://raw.githubusercontent.com/SilkRose/Pony/mane/archive/code/typescript/lib.ts
-
-            - name: Install Dependencies
-              run: ~/.bun/bin/bun install
-
             - name: Build API
-              run: ~/.bun/bin/bun ./api.ts
-
-            - name: Move Files
               run: |
-                  cd ./pony-temp
-                  git switch api
-                  rm -rf ./api/ .nojekyll CNAME
-                  mv ../dist/* ./ && mv ../dist/.nojekyll ./
+                  curl -s https://raw.githubusercontent.com/SilkRose/Pony/mane/code/pony-api.sh | sh
 
             - name: Deploy API
               run: |
-                  cd ./pony-temp
+                  cd ./dist
                   git config --global user.name "Silk Rose"
                   git config --global user.email "silkrose@love-tolerance.com"
                   git remote set-url origin \
