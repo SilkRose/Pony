@@ -12,7 +12,7 @@ Twilight's ears perk, but her gaze remains on her book. "Oh, hey Rarity, what's 
 
 I fidget. "I wanted to ask you something… I wanted to know if you had written any books…" I say, shaken.
 
-Twilight tilts her head confused, but keeps reading. "I've thought about it, but so far no. Why do you ask?"
+Twilight tilts her head in confusion, but keeps reading. "I've thought about it, but so far no. Why do you ask?"
 
 "Oh, I had assumed you did because you live in a library and read so much… I guess it's not important…" I say before I turn around and start to shamble towards the door.
 
@@ -72,3 +72,14 @@ Twilight laughs softly. "I think I know what you mean, Rarity. I felt the same w
 
 As more tears fall from my face, I hold Twilight tighter. An almost imperceptible chuckle escaping my lips. "Thank you, Twilight, you are a great friend."
 
+Twilight hugs me tightly, nuzzling me. "You've got to create for yourself. You've got to let go of failure and try your best. You've got to relax and not let it consume you."
+
+I don't respond, simply taking her words in as I hold her.
+
+"Let's get up and get you cleaned up. We can relax together so you're ready to make that next dress the best you can."
+
+I simply nod my head and Twilight helps me up. She wipes away my tears and gives me a warm, friendly smile.
+
+I smile back before giving her one last hug. "Thank you, Twilight."
+
+"You're welcome!"
