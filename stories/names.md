@@ -71,3 +71,4 @@ This file contains random story names that don't have enough thought to have the
 - Tail Tag
 - Personal Pan Party
 - The Friend to Marefriend Pipeline
+- High-Fructose Fun
