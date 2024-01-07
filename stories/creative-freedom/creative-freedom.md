@@ -16,7 +16,7 @@ Twilight tilts her head in confusion, but keeps reading. "I've thought about it,
 
 "Oh, I had assumed you did because you live in a library and read so much… I guess it's not important…" I say before I turn around and start to shamble towards the door.
 
-"Huh, what does that mean?" Twilight finally glances from her book and spots my crestfallen face. "Rarity, what's going on?"
+"Huh, what does that mean?" Twilight finally glances from her book and spots my crestfallen demeanor. "Rarity, what's going on?"
 
 I turn back to her as a few more tears escape me. "I just wanted to talk to somepony… I thought you might understand my plight, thinking you were another creative."
 
