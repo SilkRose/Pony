@@ -85,16 +85,17 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Meadowsys]** for creating [fimd] and general coding help.
 - **[6-D Pegasus]** for proofreading, pre-reading and collaborative writing.
 - **[Forcalor]** for proofreading and pre-reading.
-- **[Langtanium]** for creating the pony sprites and props used to make covers.
+- **[Langtanium]** for creating the pony sprites and props.
 - **[irradiatedpiratebooty]** for illustrating covers.
 - **Tiki Bat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
 - **Cookieteer** for proofreading and pre-reading.
-- **[Steady Gaze]** for proofreading and making the cover for Timeless Tears.
-- **[Gapty]** for proofreading X Marks the Plot.
-- **[Hyper Star]** for proofreading Pink-Mended Sparkles.
-- **[MoonSong Darkstone]** for writing The Saddest Rainbow based off Best Sister Never.
+- **[Steady Gaze]** for proofreading and making a cover.
+- **[Gapty]** for proofreading.
+- **[Hyper Star]** for proofreading.
+- **[PseudoBob Delightus]** for pre-reading.
+- **[MoonSong Darkstone]** for writing The Saddest Rainbow.
 - **[Nebbie]** for cover feedback, and collaborative writing.
-- **EDEN** for helping write the first chapter of Saddle Bagged.
+- **EDEN** for collaborative writing.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
@@ -133,6 +134,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "FIMFiction"
 [Gapty]: https://www.fimfiction.net/user/493938/gapty "FIMFiction"
 [Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "FIMFiction"
+[PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "FIMFiction"
 [MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "FIMFiction"
 [Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "FIMFiction"
 [Midori-no-ink]: https://www.deviantart.com/midori-no-ink "DeviantArt"
