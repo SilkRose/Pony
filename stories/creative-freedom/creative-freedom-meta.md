@@ -12,6 +12,8 @@ This story is very personal to me and was written in collaboration with [6-D Peg
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for pre-reading.
 
+Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
+
 ## Short Description:
 Sometimes you just need to vent, and a good friend.
 
