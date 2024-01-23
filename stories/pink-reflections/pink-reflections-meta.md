@@ -47,7 +47,8 @@ Ch 3 (Pink Restoration): Pinkie returns home and is surprised by her friends, wh
 - Her own poofy-maned, bright-colored self smiles back, and Pinkie nods in satisfaction, wiping away a single tear in the corner of her eye before leaving.
 
 [Chapter 2: Pink Refraction](./02-pink-refraction.md)
-- Starts with Pinkie helping someone (mane 6, or Zecora, or anyone) in the Everfree forest, and accidentally brushes against poison joke.
+- Starts with Pinkie helping Fluttershy in the Everfree forest, and accidentally brushes against poison joke.
+- Pinkie bonds with Fluttershy and almost opens up to her, but doesn't because of her fears.
 - From there, that night, she does the same thing as the first part, but this time loses her temper and smashes the mirror. She goes to sleep and doesn't notice her reflection is missing from the fallen pieces of mirror.
 - The next day, each of the mane 6 are visited by pinkie's depressed reflection, who talks with each of them about one instance when pinkie pretended to be happy to make them happy, and also reveals something's about her worries and fears and anxieties. (still to figure out)
 - Pinkie cleans up the mirror the next day after helping said friend. She cleans up her broken mirror, realizing she has no reflection.
