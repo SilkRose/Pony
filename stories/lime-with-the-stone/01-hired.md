@@ -68,7 +68,7 @@ Trixie follows the stallion and sits down at their kitchen table. "So, what is y
 
 "When will Trixie meet these other ponies?"
 
-"Tomorrow morning, "unless though wakest in the night."
+"Tomorrow morning, unless though wakest in the night."
 
 "Okay."
 
@@ -77,4 +77,16 @@ Trixie follows the stallion and sits down at their kitchen table. "So, what is y
 "Rock soup?"
 
 "A dish seldom served around Equestria, the rocks give the soup an earthy taste."
+
+"Okay."
+
+Igneous pulled a large pot out of the fridge, setting it on the stove. He turns the stove on before sitting down at the table.
+
+Trixie asks, "How does one farm rocks?"
+
+"Crystals grow within the rock, we cultivate the growth by tending to the rocks. We move them from field to field, to get the highest yields."
+
+"How do you know when the rocks are done growing or whatever?"
+
+"It's a skill like any other, my daughters will teach thee well."
 
