@@ -28,7 +28,7 @@ Moments later, Twilight opened her door. "Hello."
 
 "Can you prove that you are Applejack?"
 
-Applejack thinks for a moment before reaching into her saddle bags, giving twilight her cutoff ponytail. "Here, this is my ponytail."
+Applejack thinks for a moment before reaching into her saddlebags, giving twilight her cutoff ponytail. "Here, this is my ponytail."
 
 "What do I do with this?"
 
@@ -74,9 +74,9 @@ Applejack accidentally scratched her head, causing her ponytail to fall off. "We
 
 Rarity's eyes went wide. "They were right, you're not Applejack!"
 
-"What do you mean, of course I am. Applebloom accidentally cut off my ponytail."
+"What do you mean, of course I am? Applebloom accidentally cut off my ponytail."
 
-"That's exactly what an imposter would say."
+"That's precisely what an impostor would say."
 
 "Rarity, I am Applejack."
 
@@ -102,9 +102,9 @@ Fluttershy answered the door with a warm welcome. "Hello."
 
 "With what? Who are you?"
 
-Applejack gave Fluttershy her cut off ponytail. "Can you help me reattach my ponytail somehow? I'll tell you who I am if you help me."
+Applejack gave Fluttershy her cut-off ponytail. "Can you help me reattach my ponytail somehow? I'll tell you who I am if you help me."
 
-"I guess I could try and help."
+"I guess I could try to help."
 
 "Thank you, Fluttershy."
 
@@ -114,11 +114,11 @@ Fluttershy led Applejack into her home, where the two sat on her couch.
 
 "I can handle it."
 
-It did in fact, hurt, but Applejack stuck through it as Fluttershy pulled and weaved her hair.
+It did, in fact, hurt, but Applejack stuck through it as Fluttershy pulled and weaved her hair.
 
 "There, done," Fluttershy said.
 
-Applejack hugged Fluttershy, "Oh, thank you Fluttershy."
+Applejack hugged Fluttershy, "Oh, thank you, Fluttershy."
 
 "Who are you, again?"
 
@@ -152,11 +152,11 @@ Applejack grunted. "I am Applejack!"
 
 "Are you sure? You look a lot more like her twin sister I just met."
 
-"Yes, I'm sure. i need help. Nopony recognizes me. I'm Applejack and nopony believes me."
+"Yes, I'm sure. I need help. Nopony recognizes me. I'm Applejack and nopony believes me."
 
 "Why doesn't anypony recognize you?"
 
-"Applebloom cut of my ponytail on accident."
+"Applebloom accidentally cut off my ponytail."
 
 "That's all it took for everypony to think you are somepony else?"
 
