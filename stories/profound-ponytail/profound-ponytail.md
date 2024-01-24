@@ -162,3 +162,9 @@ Applejack grunted. "I am Applejack!"
 
 "Yes."
 
+"I know a pony who could solve this whole thing right up for you!"
+
+"Who?" Applejack asked with a glint of hope in her eyes.
+
+"Applejack, but I don't know where she is right now."
+
