@@ -142,7 +142,7 @@ Applejack sighed. "Goodbye, Fluttershy."
 
 Applejack opened the door to Pinkie's bedroom. "Pinkie, are you here?"
 
-Pinkie appeared in from of Applejack. "Yes, I am."
+Pinkie appeared in front of Applejack. "Yes, I am."
 
 Applejack didn't react, and asked, "Who am I?"
 
@@ -168,3 +168,70 @@ Applejack grunted. "I am Applejack!"
 
 "Applejack, but I don't know where she is right now."
 
+Applejack sighed. "Goodbye, Pinkie. I need to go find Rainbow Dash."
+
+"Goodbye!"
+
+***
+
+Applejack trotted through the streets of Ponyville, calling out Rainbow's name.
+
+"Rainbow Dash!"
+
+Eventually, she found success, when somepony called out her name.
+
+"Applejack!"
+
+Applejack rushed towards the voice, pushing past ponies.
+
+"Rainbow Dash?"
+
+"Applejack?"
+
+Both ponies stared confused at one another.
+
+Applejack asked, "What happened to your mane? You're missing the bottom half."
+
+"Funny story… Applebloom cut it off while trying to cut my hair."
+
+"That's what happened to me! She cut your hair after cutting off my ponytail?"
+
+Rainbow sighed. "No, she cut my hair first."
+
+Applejack was even more confused at this. "Why did she cut my hair if it went so bad with you?"
+
+Rainbow averted her gaze. "Because I asked her to."
+
+"What?" Applejack asked in disbelief. "You know how much trouble my missing mane has caused me?"
+
+"Yes, I do. That's why I asked her to do it."
+
+Applejack, about to yell at her friend, stopped. She thought about her interactions over the day and sighed.
+
+*She needed somepony that would believe her.*
+
+She stepped forward and gave Rainbow a hug.
+
+Rainbow hugged back. "I'm sorry about your ponytail. I just didn't know what else to do. Nopony believed it was me."
+
+"I forgive you."
+
+After the hug was over and Applejack looked over her friend.
+
+"What?" Rainbow asked.
+
+Applejack smiled. "You should wear your hair like that more often, it's kind of hot."
+
+Before Rainbow could think of anything to say, a blush overtook her face.
+
+Applejack just hugged her again, quieting any reply Rainbow had.
+
+After their hug, they found themselves surrounded by their four friends.
+
+Twilight, Fluttershy, Pinkie all had cutoff lower manes.
+
+Rarity, had her lower mane tucked into a hat.
+
+All four ponies apologized for not recognizing the pair.
+
+They surrounded the pair in a group hug.
