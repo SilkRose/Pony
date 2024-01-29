@@ -37,6 +37,9 @@ cover_count() {
 			cover_count=$((cover_count + 1))
 		fi
 	done
+	if [ -e "./stories/best-sister-never/best-sister-ever-cover.png" ]; then
+		cover_count=$((cover_count + 1))
+	fi
 	format_count "$cover_count"
 }
 
