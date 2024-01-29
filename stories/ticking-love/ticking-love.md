@@ -1,9 +1,5 @@
 # Ticking Love
 
-Written by [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose).
-
-***
-
 *Thirty.*
 
 "Hey, Twilight, what are you up to?"
