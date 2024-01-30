@@ -226,12 +226,12 @@ Before Rainbow could think of anything to say, a blush overtook her face.
 
 Applejack just hugged her again, quieting any reply Rainbow had.
 
-After their hug, they found themselves surrounded by their four friends.
+After the hug, Rainbow asked, "Should we talk about what you just said?"
 
-Twilight, Fluttershy, Pinkie all had cutoff lower manes.
+"Sure, if you want. Let's talk on the move."
 
-Rarity, had her lower mane tucked into a hat.
+"Where are we going?" Rainbow said, following Applejack.
 
-All four ponies apologized for not recognizing the pair.
+Applejack smiled. "Applebloom needs a new haircut, you want to help?"
 
-They surrounded the pair in a group hug.
+"Sure."
