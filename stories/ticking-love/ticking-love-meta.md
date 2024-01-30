@@ -16,3 +16,4 @@ Pinkie counts down the conversation until her and Twilight's first kiss.
 [Ticking Love](./ticking-love.md)
 
 ## Cover:
+![cover](./ticking-love-cover-upscaled.png)
