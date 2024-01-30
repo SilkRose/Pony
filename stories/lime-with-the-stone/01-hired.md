@@ -90,3 +90,49 @@ Trixie asks, "How does one farm rocks?"
 
 "It's a skill like any other, my daughters will teach thee well."
 
+"How hard is rock farming?" Trixie asks with an unsure tone.
+
+"Rather so, particularly under Limestone's supervision."
+
+"Do you at least use wagons for transporting the rocks around?"
+
+"For the little ones, yes. The bigger rocks can't for the gems inside are too fragile."
+
+"What kind of work will I be doing tomorrow?"
+
+"She will surely have thee loading and moving rocks. Thy east field needs moved north."
+
+"How much does this job pay?"
+
+"Modestly, but to know exactly, thy will have to speak with my wife, Cloudy Quartz Pie."
+
+"Okay, is that soup done?"
+
+Igneous got up and check the soup. "It is," he says before pouring out two bowls, a rock falling into each.
+
+He sets a bowl in front of Trixie.
+
+Trixie takes a sip of the soup, judging it.
+
+She was left wanting as the horrid taste lingered after swallowing.
+
+Trixie looked at Igneous, who was taking the soup in strides.
+
+*What is this soup?*
+
+She looked down at her soup, weighing the taste against her state of hunger.
+
+She trudges through the entire bowl, concentrating on how hungry she is.
+
+"Done," she says.
+
+Igneous took their bowls and placed them in the sink. "Let's get to bed, you will need rest for tomorrow's work."
+
+Trixie follows Igneous out of the room, where they run into another pony.
+
+Igneous introduces them. "Trixie, this is my eldest daughter, Limestone. Limestone, this is Trixie, she's going to work on the farm."
+
+Trixie introduces herself again. "I am The Great and Powerful Trixie!"
+
+The expression on Limestone's face intimidates Trixie, *slightly*, so she backs off and gives a semi-genuine smile.
+
