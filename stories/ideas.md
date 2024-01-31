@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pink Prescription
+
+### Synopsis:
+Pinkie finds blank prescription paper and prescribes medically dubious (silly stuff like hugs) ailments to her friends.
+
+***
+
 ## Sweet and Shy
 
 ### Synopsis:
