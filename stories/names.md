@@ -72,3 +72,4 @@ This file contains random story names that don't have enough thought to have the
 - Personal Pan Party
 - The Friend to Marefriend Pipeline
 - High-Fructose Fun
+- Engraved in Stone
