@@ -4,19 +4,21 @@
 
 "Hey, Twilight, what are you up to?"
 
-"Not much, just writing some notes. What are you doing, Pinkie?"
+Twilight pushes her notes to the side. "Not much, just writing some notes. What are you doing, Pinkie?"
 
 *Twenty-nine. Plotting our first kiss.*
 
-"Oh, I'm just checking in on my bestest friend."
+I smile. "Oh, I'm just checking in on my bestest friend."
 
-"That's very nice of you, is there anything you needed?"
+Twilight continues writing her notes out of my view. "That's very nice of you, is there anything you needed?"
 
 *Twenty-eight. A kiss would be nice.*
 
 "Maybe a hug or two."
 
-Twilight gets up and hugs me tightly. "Are you doing alright?"
+Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
+
+I nuzzle her on the last hug.
 
 *Twenty-seven. It would be better if I could tell you how I feel.*
 
@@ -54,7 +56,7 @@ Twilight gets up and hugs me tightly. "Are you doing alright?"
 
 "You're good at that."
 
-*Twenty-one.*
+*Twenty-one. You're good at being cute.*
 
 "What are you taking notes on?"
 
@@ -178,18 +180,22 @@ Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 "Is it me?"
 
-"Yes," Twilight gives me her note.
+Twilight gives me her note.
 
 I read it to myself.
 
 > Dear Pinkie,
 >
-> I love you, will you go out with me?
+> I've thought of many ways to tell you this, and still settled on a love letter. I like you, a lot. I've never felt this way about another pony. Oh, you just showed up and now I'm pretending to write something inconspicuous. You ask a lot of questions, it's one of the things I love about you. So curious, always wondering. Oh, did I just say I love you? Well, I do. I love you.
 >
-> Also, can I have a kiss or two?
+> You're acting different, differently than normal. Are you hiding something? You have been acting strange around me. I guess I've been acting strange too. I'm sorry for that, I just don't know what these feelings mean. Maybe you could help me figure it out?
+>
+> And Pinkie, if the last two paragraphs didn't make it clear enough, it's you. Will you go out with me?
 >
 > Love,
 > Twilight.
+>
+> P.S. - A kiss would be nice.
 
 *Zero.*
 
