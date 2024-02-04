@@ -99,5 +99,39 @@
 				"story-id": 543506
 			}
 		]
+	},
+	{
+		"author-name": "Steady Gaze",
+		"author-id": 481974,
+		"best-pony": "Moondancer",
+		"recommendations": [
+			{
+				"story-name": "An Ordinary Story",
+				"story-id": 513054
+			},
+			{
+				"story-name": "Conversation with a Lunar Prisoner",
+				"story-id": 522749
+			}
+		]
+	},
+	{
+		"author-name": "gapty",
+		"author-id": 493938,
+		"best-pony": "Trixie",
+		"recommendations": [
+			{
+				"story-name": "Piano Lessons",
+				"story-id": 536192
+			},
+			{
+				"story-name": "Elevator Show",
+				"story-id": 538778
+			},
+			{
+				"story-name": "Forgetful Service",
+				"story-id": 540703
+			}
+		]
 	}
 ]
