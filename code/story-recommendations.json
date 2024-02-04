@@ -1,102 +1,102 @@
 [
 	{
 		"author-name": "TikiBat",
-		"author-id": "218083",
+		"author-id": 218083,
 		"best-pony": "Luna",
 		"recommendations": [
 			{
 				"story-name": "Do Ponies on Earth have Magic Dreams?",
-				"story-link": "https://www.fimfiction.net/story/463693"
+				"story-id": 463693
 			},
 			{
 				"story-name": "Finding Your Place With the Outcasts",
-				"story-link": "https://www.fimfiction.net/story/491085"
+				"story-id": 491085
 			}
 		]
 	},
 	{
 		"author-name": "6-D Pegasus",
-		"author-id": "293755",
+		"author-id": 293755,
 		"best-pony": "Rainbow Dash",
 		"recommendations": [
 			{
 				"story-name": "The Sky Is Your Bed!",
-				"story-link": "https://www.fimfiction.net/story/530826"
+				"story-id": 530826
 			},
 			{
 				"story-name": "Erasure",
-				"story-link": "https://www.fimfiction.net/story/531063"
+				"story-id": 531063
 			}
 		]
 	},
 	{
 		"author-name": "PseudoBob Delightus",
-		"author-id": "12771",
+		"author-id": 12771,
 		"best-pony": "Fluttershy",
 		"recommendations": [
 			{
 				"story-name": "What am I?",
-				"story-link": "https://www.fimfiction.net/story/514574"
+				"story-id": 514574
 			},
 			{
 				"story-name": "A Cloudsdale Connection",
-				"story-link": "https://www.fimfiction.net/story/547947"
+				"story-id": 547947
 			}
 		]
 	},
 	{
 		"author-name": "Forcalor",
-		"author-id": "564657",
+		"author-id": 564657,
 		"best-pony": "Rainbow Dash/Rarity",
 		"recommendations": [
 			{
 				"story-name": "Promising Cadence",
-				"story-link": "https://www.fimfiction.net/story/538760"
+				"story-id": 538760
 			}
 		]
 	},
 	{
 		"author-name": "Perfectly Insane",
-		"author-id": "241272",
+		"author-id": 241272,
 		"best-pony": "Pinkie Pie",
 		"recommendations": [
 			{
 				"story-name": "A Demon's Second Chance",
-				"story-link": "https://www.fimfiction.net/story/486433"
+				"story-id": 486433
 			},
 			{
 				"story-name": "Insomnia",
-				"story-link": "https://www.fimfiction.net/story/539860"
+				"story-id": 539860
 			}
 		]
 	},
 	{
 		"author-name": "MorganaTheNotCat",
-		"author-id": "546110",
+		"author-id": 546110,
 		"best-pony": "Starlight Glimmer",
 		"recommendations": [
 			{
 				"story-name": "Finding your melody",
-				"story-link": "https://www.fimfiction.net/story/534270"
+				"story-id": 534270
 			},
 			{
 				"story-name": "Fading Sanity",
-				"story-link": "https://www.fimfiction.net/story/537417"
+				"story-id": 537417
 			},
 			{
 				"story-name": "Moving on",
-				"story-link": "https://www.fimfiction.net/story/549413"
+				"story-id": 549413
 			}
 		]
 	},
 	{
 		"author-name": "ItsVelvet",
-		"author-id": "629312",
+		"author-id": 629312,
 		"best-pony": "Applejack",
 		"recommendations": [
 			{
 				"story-name": "Rising Dawn",
-				"story-link": "https://www.fimfiction.net/story/543506"
+				"story-id": 543506
 			}
 		]
 	}
