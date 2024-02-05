@@ -202,7 +202,7 @@ Applejack was even more confused at this. "Why did she cut *my* mane after it we
 
 Rainbow averted her gaze. "Because I asked her to."
 
-"What?" Applejack asked in disbelief. "You know how much trouble my missing mane has caused me?"
+"What?" Applejack asked in disbelief. "Do you know how much trouble my missing mane has caused me?"
 
 "Yes, I do. That's why I asked her to do it."
 
