@@ -198,7 +198,7 @@ Applejack asked, "What happened to your mane? You're missing the bottom half."
 
 Rainbow sighed. "No, she did mine first."
 
-Applejack was even more confused at this. "Why did she cut *my* mane if it went so bad with you?"
+Applejack was even more confused at this. "Why did she cut *my* mane after it went so bad with you?"
 
 Rainbow averted her gaze. "Because I asked her to."
 
