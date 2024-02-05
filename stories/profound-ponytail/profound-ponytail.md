@@ -148,7 +148,7 @@ Applejack didn't react, and asked, "Who am I?"
 
 Pinkie stared at Applejack, pondering who was in her room. "You're Applejack's twin sister!"
 
-Applejack grunted. "I am Applejack!"
+Applejack groaned. "I am Applejack!"
 
 "Are you sure? You look a lot more like her twin sister I just met."
 
@@ -192,7 +192,7 @@ Both ponies stared confused at one another.
 
 Applejack asked, "What happened to your mane? You're missing the bottom half."
 
-"Funny story… Applebloom cut it off while trying to cut my mane."
+"Funny story… Apple Bloom cut it off while trying to cut my mane."
 
 "That's what happened to me! She cut your mane after cutting off my ponytail?"
 
