@@ -1,6 +1,6 @@
 # Profound Ponytail
 
-Applejack knocked on Twilight's door, an annoyed expression plastering her face.
+Applejack knocked on Twilight's door, an annoyed expression plastered on her face.
 
 Moments later, Twilight opened her door. "Hello."
 
@@ -12,15 +12,15 @@ Moments later, Twilight opened her door. "Hello."
 
 "But you're not Applejack."
 
-"Of course I am! What difference do you see?"
+"Of course I am! How am I not?"
 
-"Applejack has a blonde ponytail, you don't."
+"Applejack has a blonde ponytail. You clearly don't."
 
-"Applebloom accidentally cut my ponytail off when she was trying to get a barber cutie mark."
+"Apple Bloom cut my ponytail off in another one of her cutie mark schemes."
 
 "I don't think I've ever seen Applejack without her ponytail."
 
-"I am Applejack, and you have now!"
+"Well, you have now, 'cause I'm standin' right here!"
 
 "Let's say you are Applejack, don't you think I'd recognize you without your ponytail?"
 
@@ -36,7 +36,7 @@ Applejack thought for a moment before reaching into her saddlebags, giving Twili
 
 Twilight did as instructed, holding the ponytail in her magic and lifting it behind Applejack's head.
 
-"Oh, Hi Applejack, what are you doing here?"
+"Oh! Hi Applejack, what are you doing here?"
 
 Applejack facehoofed. "Now you believe me?"
 
@@ -46,9 +46,9 @@ Applejack sidestepped her floating ponytail. "I'm Applejack."
 
 "You are not Applejack."
 
-Applejack stepped back into her mane.
+Applejack stepped back.
 
-"Hi, Applejack."
+"Oh! Hi, Applejack."
 
 "Twilight, do you have some tape?"
 
@@ -70,11 +70,11 @@ Rarity lead Applejack over to the couch and the pair sat down. "What's going on,
 
 "But you have your ponytail, wherever would it go?"
 
-Applejack accidentally scratched her head, causing her ponytail to fall off. "Well, there."
+Applejack's continued head-scratching caused her ponytail to fall off. "Well, there."
 
 Rarity's eyes went wide. "They were right, you're not Applejack!"
 
-"What do you mean, of course I am? Applebloom accidentally cut off my ponytail."
+"What do you mean? Of course I am! Apple Bloom just cut off my ponytail."
 
 "That's precisely what an impostor would say."
 
@@ -96,7 +96,7 @@ Applejack sighed, picked up her fallen mane, and walked out of Carousel Boutique
 
 Applejack knocked on Fluttershy's cottage door.
 
-Fluttershy answered the door with a warm welcome. "Hello."
+Fluttershy answered the door with a warm, "Hello."
 
 "Fluttershy, I need your help."
 
@@ -156,7 +156,7 @@ Applejack grunted. "I am Applejack!"
 
 "Why doesn't anypony recognize you?"
 
-"Applebloom accidentally cut off my ponytail."
+"Apple Bloom cut off my ponytail."
 
 "That's all it took for everypony to think you are somepony else?"
 
@@ -166,7 +166,7 @@ Applejack grunted. "I am Applejack!"
 
 "Who?" Applejack asked with a glint of hope in her eyes.
 
-"Applejack, but I don't know where she is right now."
+"Applejack, of course! But I don't know where she is right now."
 
 Applejack sighed. "Goodbye, Pinkie. I need to go find Rainbow Dash."
 
@@ -216,11 +216,11 @@ Rainbow hugged back. "I'm sorry about your ponytail. I just didn't know what els
 
 "I forgive you."
 
-After the hug was over and Applejack looked over her friend.
+After the hug was over, Applejack looked Rainbow Dash up and down.
 
 "What?" Rainbow asked.
 
-Applejack smiled. "You should wear your hair like that more often, it's kind of hot."
+Applejack smiled. "You should wear your hair like that more often, it's kinda hot."
 
 Before Rainbow could think of anything to say, a blush overtook her face.
 
