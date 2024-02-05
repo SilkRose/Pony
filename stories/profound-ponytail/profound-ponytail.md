@@ -28,25 +28,25 @@ Moments later, Twilight opened her door. "Hello."
 
 "Can you prove that you are Applejack?"
 
-Applejack thinks for a moment before reaching into her saddlebags, giving twilight her cutoff ponytail. "Here, this is my ponytail."
+Applejack thought for a moment before reaching into her saddlebags, giving Twilight her cut-off ponytail. "Here, this is my ponytail."
 
 "What do I do with this?"
 
 "I don't know, hold it up so you can see that I'm Applejack."
 
-Twilight does as instructed, holding the ponytail in her magic. She lifts it behind Applejack's head.
+Twilight did as instructed, holding the ponytail in her magic and lifting it behind Applejack's head.
 
 "Oh, Hi Applejack, what are you doing here?"
 
-Applejack facehoofs. "Now you believe me?"
+Applejack facehoofed. "Now you believe me?"
 
 "Believe what?"
 
-Applejack sidesteps her floating ponytail. "I'm Applejack."
+Applejack sidestepped her floating ponytail. "I'm Applejack."
 
-"You are not applejack."
+"You are not Applejack."
 
-Applejack steps back into her mane.
+Applejack stepped back into her mane.
 
 "Hi, Applejack."
 
@@ -56,7 +56,7 @@ Applejack steps back into her mane.
 
 Applejack knocked on Rarity's front door, resisting the urge to scratch the back of her head.
 
-"Hello, Applejack, how are you?" Rarity asks.
+"Hello, Applejack, how are you?" Rarity asked.
 
 "Finally, somepony who recognizes me!"
 
@@ -90,7 +90,7 @@ Rarity's eyes went wide. "They were right, you're not Applejack!"
 
 "Out!"
 
-Applejack sighed, picking up her fallen mane, she walks out of Carousel Boutique.
+Applejack sighed, picked up her fallen mane, and walked out of Carousel Boutique.
 
 ***
 
@@ -192,13 +192,13 @@ Both ponies stared confused at one another.
 
 Applejack asked, "What happened to your mane? You're missing the bottom half."
 
-"Funny story… Applebloom cut it off while trying to cut my hair."
+"Funny story… Applebloom cut it off while trying to cut my mane."
 
-"That's what happened to me! She cut your hair after cutting off my ponytail?"
+"That's what happened to me! She cut your mane after cutting off my ponytail?"
 
-Rainbow sighed. "No, she cut my hair first."
+Rainbow sighed. "No, she did mine first."
 
-Applejack was even more confused at this. "Why did she cut my hair if it went so bad with you?"
+Applejack was even more confused at this. "Why did she cut *my* mane if it went so bad with you?"
 
 Rainbow averted her gaze. "Because I asked her to."
 
@@ -232,6 +232,6 @@ After the hug, Rainbow asked, "Should we talk about what you just said?"
 
 "Where are we going?" Rainbow said, following Applejack.
 
-Applejack smiled. "Applebloom needs a new haircut, you want to help?"
+Applejack smiled. "Apple Bloom needs a new haircut, don't you think?"
 
 "Sure."
