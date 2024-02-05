@@ -133,5 +133,62 @@
 				"story-id": 540703
 			}
 		]
+	},
+	{
+		"author-name": "Visharo",
+		"author-id": 449252,
+		"best-pony": "Sunset Shimmer",
+		"recommendations": [
+			{
+				"story-name": "Equestrian Rim",
+				"story-id": 513164
+			},
+			{
+				"story-name": "The Cutie Alchemist",
+				"story-id": 527335
+			},
+			{
+				"story-name": "Merchants of the Dark Road",
+				"story-id": 534119
+			}
+		]
+	},
+	{
+		"author-name": "SecondPrances",
+		"author-id": 588530,
+		"best-pony": "Twilight Sparkle",
+		"recommendations": [
+			{
+				"story-name": "TwiDash Poetry",
+				"story-id": 533895
+			},
+			{
+				"story-name": "I'm Lookin' Out For You, or: When You're Off Track, I've Got Your Back",
+				"story-id": 546688
+			}
+		]
+	},
+	{
+		"author-name": "Nebbie",
+		"author-id": 35109,
+		"best-pony": "Spike",
+		"recommendations": [
+			{
+				"story-name": "The Poorly-Planned Pink Pony Protector",
+				"story-id": 440751
+			},
+			{
+				"story-name": "How Friendship is Magic Should Have Ended",
+				"story-id": 451336
+			},
+			{
+				"story-name": "Born a Princess: Forgiveness is Magic",
+				"story-id": 526476
+			},
+			{
+				"story-name": "Why Trixie Refers to Herself in the Third Person",
+				"story-id": 549402
+			}
+		]
 	}
 ]
