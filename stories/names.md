@@ -73,3 +73,7 @@ This file contains random story names that don't have enough thought to have the
 - The Friend to Marefriend Pipeline
 - High-Fructose Fun
 - Engraved in Stone
+- Cuddle Council
+- Cuddle Counsel
+- Letters From a Lost Friend
+- Glimmers of the Heart
