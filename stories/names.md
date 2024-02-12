@@ -77,3 +77,4 @@ This file contains random story names that don't have enough thought to have the
 - Cuddle Counsel
 - Letters From a Lost Friend
 - Glimmers of the Heart
+- Pinkamena, Diane, and Pie
