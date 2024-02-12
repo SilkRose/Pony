@@ -190,5 +190,20 @@
 				"story-id": 549402
 			}
 		]
+	},
+	{
+		"author-name": "Scriblits Talo",
+		"author-id": 495925,
+		"best-pony": "Luna",
+		"recommendations": [
+			{
+				"story-name": "Rainbow's Dash",
+				"story-id": 540910
+			},
+			{
+				"story-name": "Cé Tusa, Cé Tusa, Cé Tusa",
+				"story-id": 545050
+			}
+		]
 	}
 ]
