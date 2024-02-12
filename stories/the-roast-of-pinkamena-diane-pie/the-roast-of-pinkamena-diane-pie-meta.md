@@ -47,6 +47,7 @@ Pinkie Pie is roasted by her friends and family.
 - 
 
 ### Marble (said aloud by Maud):
+- Being Pinkie's twin sister can be hard. Especially when she does all the talking for you. Particularly when she doesn't stop talking ever. Specifically, when she has to ask your crush out for you.
 - 
 
 ### Spike:
@@ -54,6 +55,7 @@ Pinkie Pie is roasted by her friends and family.
 - 
 
 ### Starlight:
+- "You want to know a secret? Pinkie you have to Pinkie Promise to not get mad if I tell you." Pinkie does the Pinkie Promise. "I broke a Pinkie Promise once." (She winks at Pinkie, and Pinkie starts laughing.)
 - 
 
 ### Mr. & Mrs. Cake:
@@ -75,6 +77,8 @@ Pinkie Pie is roasted by her friends and family.
 ### Pinkie's Mirror Pool Clone
 - I think we all know why Pinkie is the older twin, she wanted to make new friends, only having Marble for the past 9 months. (Maud after Marble whispers in her ear, "I think we all know why Pinkie is the older twin, Marble pushed her out first so she could enjoy a few minutes of peace and quiet.")
 - I heard the Cakes went to everyone else in Equestria before you for child care, even a group of children. I would know because they asked me before you.
+- Will the real Pinkie Pie please stand up? Oh wait, I'm already standing!
+- Last time I had this many eyes on me, I thought that they had found me. I had to be here, thought, I couldn't turn down the opportunity to make fun of myself without looking in a mirror.
 - 
 
 ## Story:
