@@ -22,6 +22,7 @@ Pinkie Pie is roasted by her friends and family.
 
 ### Undecided:
 - You ever slept in the same bed as Pinkie, I did once. She started moving around a bunch, here I thought she was trying to cuddle. Turns out it was a Pinkie Sense and (insert something) fell on my head.
+- That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
 - 
 
 ### Twilight:
@@ -88,11 +89,11 @@ Each of her jokes is written by a different pony.
 ### Cutie Mark Crusaders:
 They each tell a joke about their sister and a joke about Pinkie.
 - Pinkie is so bad at Pin the tail on the Pony, I saw her pin it to herself.
-- 
+- Rainbow Dash naps so much, she'd miss her own funeral.
 - You're so pink, I couldn't find you in a pig pin.
-- 
+- Applejack's so stubborn, she'd win an argument against a brick wall.
 - You'd make a great alarm clock if you had an off button.
-- 
+- Rarity changes outfits so often, she literally just changed when we got up here. What's that, the third outfit tonight, Rarity?
 
 ### Pinkie's Mirror Pool Clone
 - I think we all know why Pinkie is the older twin, she wanted to make new friends, only having Marble for the past 9 months. (Maud after Marble whispers in her ear, "I think we all know why Pinkie is the older twin, Marble pushed her out first so she could enjoy a few minutes of peace and quiet.")
