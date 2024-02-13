@@ -34,7 +34,14 @@ Pinkie Pie is roasted by her friends and family.
 - 
 
 ### Fluttershy:
-- 
+Each of her jokes is written by a different pony.
+- (Angel Bunny): 
+- (Spike): 
+- (Rainbow): 
+- (Twilight): 
+- (Rarity): 
+- (Applejack): 
+- (Pinkie): 
 
 ### Applejack:
 - They need to classify you as some kind of weapon, that girl could agitate the apples off a pear tree.
