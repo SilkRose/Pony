@@ -10,7 +10,12 @@ Pinkie Pie is roasted by her friends and family.
 
 
 ## Ideas:
-
+- Each pony tells three to four jokes about Pinkie, one to two jokes about another attendant, and one to two stories about fun times with Pinkie.
+- They tell them in different orders, to make it feel more alive.
+- Vary laughs, reactions, and flow to make the story feel natural.
+- Twilight goes first, and the next pony is chosen by the speaker.
+- Try to make every joke good.
+- 
 
 
 ## Joke Ideas:
