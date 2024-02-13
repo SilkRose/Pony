@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Yellow Marbles
+
+### Synopsis:
+Marble moves in with Pinkie and becomes quick friends with Fluttershy, and they start dating. Pinkie is causing havoc in their relationship, how will the two quietest ponies set boundaries with the loudest pony in town?
+
+***
+
 ## Pink Prescription
 
 ### Synopsis:
