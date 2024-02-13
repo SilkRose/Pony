@@ -85,15 +85,12 @@ Each of her jokes is written by a different pony.
 - We've had Pinkie living with us since she moved to Ponyville, anyone else want to take a turn?
 - 
 
-### Scootaloo:
+### Cutie Mark Crusaders:
+They each tell a joke about their sister and a joke about Pinkie.
 - Pinkie is so bad at Pin the tail on the Pony, I saw her pin it to herself.
 - 
-
-### Apple Bloom:
 - You're so pink, I couldn't find you in a pig pin.
 - 
-
-### Sweetie Belle:
 - You'd make a great alarm clock if you had an off button.
 - 
 
