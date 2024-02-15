@@ -6,6 +6,8 @@ Applejack gets a haircut and nopony recognizes her, not even Rainbow Dash.
 ## Description:
 Applejack loses her ponytail and nopony recognizes her after.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 ## Short Description:
 Applejack loses her ponytail and nopony recognizes her after.
 
