@@ -20,4 +20,4 @@ Applejack loses her ponytail and nopony recognizes her after.
 [Profound Ponytail](./profound-ponytail.md)
 
 ## Cover:
-
+![cover](./profound-ponytail-cover-upscaled.png)
