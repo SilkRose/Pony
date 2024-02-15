@@ -8,6 +8,8 @@ Applejack loses her ponytail and nopony recognizes her after.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
+Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
+
 ## Short Description:
 Applejack loses her ponytail and nopony recognizes her after.
 
