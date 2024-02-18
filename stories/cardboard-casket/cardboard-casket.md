@@ -20,3 +20,13 @@ Sweetie Belle trots away as all of my attempts were for naught. Nothing worked, 
 
 My body decides to pity me as I start to cry. I enjoy every teardrop as it will most likely be the last shred of comfort I have in life. Each drop rolling down my face as I dream of making a sound. Wishing for one last good cry before I go.
 
+As the next teardrop slowly rolls down my face, its meaning changes, as the teardrop morphs into a memory. Rainbow hugging me and agreeing to be my big sister. The memory replaying in my head, in slow motion and fast-forward, at the same time.
+
+The memory fades as a new one comes with the next teardrop. When me and Sweetie Belle met Apple bloom and formed The Cutie Mark Crusaders.
+
+(Insert memory here.)
+
+As the last memory fades, I ask for one last wish, please, just one more hug with my friends. One more chance to tell them I love them. One more final goodbye. Unfortunately, my wish wasn't granted, as I can feel myself starting to give out.
+
+Seeing no other option, I gather all the strength I can, using all the memories, tears, and hope as fuel for the determination to not die in this box. I scream, *I don't want to die,* in my head, as I try to force my back leg to kick as hard as I can.
+
