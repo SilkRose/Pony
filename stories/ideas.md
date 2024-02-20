@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Unraveling Pinkie's Brain
+
+### Synopsis:
+One day, a string falls out of Pinkie's ear; with nothing else to do, they pull on it.
+
+***
+
 ## Yellow Marbles
 
 ### Synopsis:
