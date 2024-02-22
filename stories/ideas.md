@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Contemporary Kisses
+
+### Synopsis:
+Instead of hugs, ponies kiss, but this happened all of a sudden and Pinkie must figure out why everypony is kissing her.
+
+***
+
 ## Unraveling Pinkie's Brain
 
 ### Synopsis:
