@@ -6,6 +6,8 @@
 ## Description:
 
 
+Cover done by irradiatedtittymilk on Discord.
+
 ## Short Description:
 
 
@@ -16,3 +18,4 @@
 [Cardboard Casket](./cardboard-casket.md)
 
 ## Cover:
+![cover](./cardboard-casket-cover.png)
