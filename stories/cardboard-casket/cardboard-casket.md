@@ -20,13 +20,26 @@ Sweetie Belle trots away as all of my attempts were for naught. Nothing worked, 
 
 My body decides to pity me as I start to cry. I enjoy every teardrop as it will most likely be the last shred of comfort I have in life. Each drop rolling down my face as I dream of making a sound. Wishing for one last good cry before I go.
 
-As the next teardrop slowly rolls down my face, its meaning changes, as the teardrop morphs into a memory. Rainbow hugging me and agreeing to be my big sister. The memory replaying in my head, in slow motion and fast-forward, at the same time.
+As the next teardrop slowly rolls down my face, its meaning changes, morphing the teardrop into a memory. Rainbow hugging me and agreeing to be my big sister. The memory replaying in my head, in slow motion and fast-forward, at the same time. She was such a good big sister.
 
-The memory fades as a new one comes with the next teardrop. When me and Sweetie Belle met Apple bloom and formed The Cutie Mark Crusaders.
+The memory fades as a new one comes with the next teardrop. When me and Sweetie Belle met Apple bloom and formed The Cutie Mark Crusaders. Little did I know how much our group, our calling would mean to me.
 
-(Insert memory here.)
+Another teardrop, another memory. This one the moment we decided to focus on helping other ponies find their cutie mark, causing us to get ours. They meant so much to us, we finally got what we wanted after so long.
 
 As the last memory fades, I ask for one last wish, please, just one more hug with my friends. One more chance to tell them I love them. One more final goodbye. Unfortunately, my wish wasn't granted, as I can feel myself starting to give out.
 
 Seeing no other option, I gather all the strength I can, using all the memories, tears, and hope as fuel for the determination to not die in this box. I scream, *I don't want to die,* in my head, as I try to force my back leg to kick as hard as I can.
 
+I manage to move my leg, but barely. It softly impacted the cardboard wall, barely making a sound. Hoping with every fiber of my being that it was enough and somepony would come save me. My leg falls limp as my control loosens even more.
+
+After a few more seconds, I hear something rubbing up against the box. Was somepony there? Who was it? But, after it continues to rub the box, it starts purring, vibrating the box. Opalescence is outside the box!
+
+I hear the purring stop for a second before the entire box shakes. The purring continues from the roof. Opal is on top of the box. I need to get her attention, but how? I fail at lifting my leg again. What can I do?
+
+Cats have good hearing, right? I might be able to make a sound to get her to look in the box. I do my best to control my breathing, barely managing to affect it. The world goes dizzy and I attempt to make a noise, any noise. I meow as loud as I can.
+
+I hear movement above me as the cardboard rustles, a blinding light and a cat head poked into the box. I quietly meow again, exhausting the last my of efforts. Opal meows at me before taking her head out of the box, the lid falling closed behind her.
+
+All I can do is hope as the minutes pass by. Eventually as I'm about to pass out, I hear meowing, and its getting louder. I feel hoofsteps behind Opal. She went to get help! I love you Opal! The box opens and the blinding white light is the last thing I remember before passing out.
+
+I'm saved…
