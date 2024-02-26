@@ -1,12 +1,14 @@
 # Ticking Love
 
-*Thirty.*
+I materialize in Twilight's house, and sit down beside her.
 
-"Hey, Twilight, what are you up to?"
+*Thirty. She's so pretty!*
+
+I ask, "Hey, Twilight, what are you up to?"
 
 Twilight pushes her notes to the side. "Not much, just writing some notes. What are you doing, Pinkie?"
 
-*Twenty-nine. Plotting our first kiss.*
+*Twenty-nine. Plotting our first kiss, hopefully.*
 
 I smile. "Oh, I'm just checking in on my bestest friend."
 
@@ -18,7 +20,7 @@ Twilight continues writing her notes out of my view. "That's very nice of you, i
 
 Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
 
-I nuzzle her on the last hug.
+I nuzzle her gently on the last hug.
 
 *Twenty-seven. It would be better if I could tell you how I feel.*
 
@@ -38,7 +40,7 @@ I nuzzle her on the last hug.
 
 "You know, what is it?"
 
-*Twenty-four.*
+*Twenty-four. I do, but it's hard to say.*
 
 "It means I care about you a lot."
 
@@ -46,7 +48,7 @@ I nuzzle her on the last hug.
 
 *Twenty-three. Yes.*
 
-"Maybe…"
+I blush. "Maybe…"
 
 "Pinkie Pie, you are being very coy."
 
@@ -62,91 +64,91 @@ I nuzzle her on the last hug.
 
 Twilight blushes. "Stuff and things."
 
-*Twenty.*
+*Twenty. Where'd that blush come from?*
 
 "Oh, is it a secret? I can keep a secret!"
 
 Twilight sighs. "I'm writing down how I feel about a certain pony."
 
-*Nineteen.*
+*Nineteen. I hope its me!*
 
 "Which pony?"
 
 "I can't tell you, not yet at least."
 
-*Eighteen.*
+*Eighteen. I can't wait to know!*
 
 "Do I know them?"
 
 "Hmm, yes, very well."
 
-*Seventeen.*
+*Seventeen. I need to know.*
 
 "Is it one of our friends?"
 
 "It is one of the ponies within our group of six friends, yes."
 
-*Sixteen.*
+*Sixteen. It could be me!*
 
 "Do you like them romantically?"
 
 "Yes," Twilight says, blushing harder.
 
-*Fifteen.*
+*Fifteen. she looks so pretty when she blushes.*
 
 "Do you think they like you back?"
 
 "I don't know, but I might have an idea."
 
-*Fourteen.*
+*Fourteen. I have a few ideas… that involve kissing you.*
 
 "What's your idea?"
 
 "I can't say yet, just don't read my notes until I'm finished with them," Twilight says before she starts writing again.
 
-*Thirteen.*
+*Thirteen. She's going to share with me.*
 
 "Okay!"
 
 "Thank you."
 
-*Twelve.*
+*Twelve. So polite.*
 
 "Can I ask more questions while you write?"
 
 "Sure."
 
-*Eleven.*
+*Eleven. I have many questions, dear Twilight.*
 
 "Do you know if they like mares?"
 
 "I think they do."
 
-*Ten.*
+*Ten. I do… specifically you.*
 
 "What if they don't like you?"
 
 "I think they do."
 
-*Nine.*
+*Nine. I like you.*
 
 "What if somepony else likes you?"
 
 "I think the one who likes me is the one I like."
 
-*Eight.*
+*Eight. It's me. right?*
 
 "How can you confirm this?"
 
 "I am in the middle of writing my love down…"
 
-*Seven.*
+*Seven. Should I have written a love letter?*
 
 "Can I read it?"
 
 "Not yet."
 
-*Six.*
+*Six. I hope it's soon…*
 
 "Can I ask who it is?"
 
