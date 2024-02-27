@@ -16,7 +16,7 @@ Twilight continues writing her notes out of my view. "That's very nice of you, i
 
 *Twenty-eight. A kiss would be nice.*
 
-"Maybe a hug or two."
+I say, sheepishly, "Maybe a hug or two."
 
 Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
 
@@ -24,13 +24,13 @@ I nuzzle her gently on the last hug.
 
 *Twenty-seven. It would be better if I could tell you how I feel.*
 
-"Yes, I just love getting hugs from my friends, especially *you*."
+"Yes, I just love getting hugs from my friends, especially *you*." My voice softening at the end.
 
-"Oh, why me specifically, am I special?"
+"Oh, why me specifically, am I special?" Twilight's voice rising in pitch at the last part.
 
 *Twenty-six. More than you know.*
 
-"You *might* mean a little more to me than the others…"
+I feel my face start to heat up. "You *might* mean a little more to me than the others…"
 
 "What does that mean, Pinkie Pie?"
 
@@ -38,7 +38,7 @@ I nuzzle her gently on the last hug.
 
 "Oh, I don't know."
 
-"You know, what is it?"
+"You know. What is it?"
 
 *Twenty-four. I do, but it's hard to say.*
 
@@ -50,7 +50,7 @@ I nuzzle her gently on the last hug.
 
 I blush. "Maybe…"
 
-"Pinkie Pie, you are being very coy."
+"Pinkie Pie, you are being very coy." Twilight giggles.
 
 *Twenty-two. It's not time yet.*
 
@@ -62,25 +62,25 @@ I blush. "Maybe…"
 
 "What are you taking notes on?"
 
-Twilight blushes. "Stuff and things."
+Twilight blushes and moves her notes farther from my view. "Stuff and things."
 
 *Twenty. Where'd that blush come from?*
 
-"Oh, is it a secret? I can keep a secret!"
+I say excitedly, "Oh, is it a secret? I can keep a secret!"
 
 Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 *Nineteen. I hope its me!*
 
-"Which pony?"
+"What kind of feelings?"
 
-"I can't tell you, not yet at least."
+Twilight's blush intensifies. "Romantic feelings."
 
-*Eighteen. I can't wait to know!*
+*Eighteen. I hope it's me!*
 
-"Do I know them?"
+"Who is it? Do I know them?"
 
-"Hmm, yes, very well."
+Twilight's voice becomes melancholic, "I can't say yet, and yes, very well."
 
 *Seventeen. I need to know.*
 
@@ -90,7 +90,7 @@ Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 *Sixteen. It could be me!*
 
-"Do you like them romantically?"
+"Do you want to kiss them?"
 
 "Yes," Twilight says, blushing harder.
 
@@ -108,7 +108,7 @@ Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 *Thirteen. She's going to share with me.*
 
-"Okay!"
+I nod. "Okay!"
 
 "Thank you."
 
@@ -128,13 +128,13 @@ Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 "What if they don't like you?"
 
-"I think they do."
+"I think they do, but if they don't well have to talk about it."
 
 *Nine. I like you.*
 
 "What if somepony else likes you?"
 
-"I think the one who likes me is the one I like."
+"I'm pretty sure we like each other, just need to get it out there."
 
 *Eight. It's me. right?*
 
@@ -144,9 +144,9 @@ Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 *Seven. Should I have written a love letter?*
 
-"Can I read it?"
+"Can I read it, pretty please?"
 
-"Not yet."
+"When I'm done."
 
 *Six. I hope it's soon…*
 
@@ -154,37 +154,37 @@ Twilight sighs. "I'm writing down how I feel about a certain pony."
 
 "Sure, you can guess."
 
-*Five.*
+*Five. Let's see who it is!*
 
 "Is it Fluttershy?"
 
 "No."
 
-*Four.*
+*Four. Yay!*
 
 "Is it Applejack?"
 
 "No."
 
-*Three.*
+*Three. Ah yeah!*
 
 "Is it Rainbow Dash?"
 
 "No."
 
-*Two.*
+*Two. Awesome!*
 
 "Is it Rarity?"
 
 "No."
 
-*One.*
+*One. It has to be me, darling!*
 
 "Is it me?"
 
-Twilight gives me her note.
+Twilight finishes writer her note and gives it to me.
 
-I read it to myself.
+I read it to aloud.
 
 > Dear Pinkie,
 >
@@ -199,11 +199,13 @@ I read it to myself.
 >
 > P.S. - A kiss would be nice.
 
-*Zero.*
+My eyes are full of joyous tears as I set the note down.
+
+*Zero. A kiss, you shall get, Twilight!*
 
 I wrap my hooves around her and kiss her passionately.
 
-She kisses back as we enjoy the moment.
+She kisses back as we enjoy the moment, happy tears flowing from her eyes.
 
 "I love you."
 
