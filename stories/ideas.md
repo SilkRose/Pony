@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Scarf Solutions
+
+### Synopsis:
+Rarity reveals why she brings so many scarves with her, telling the tales of how they saved the day during many a group capture.
+
+***
+
 ## Tempting Telekinesis
 
 ### Synopsis:
