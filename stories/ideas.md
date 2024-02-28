@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Surveillance Suspicions
+
+### Synopsis:
+Pinkie suspects that all pegasi are surveillance drones, and she must prove it before they get to her.
+
+***
+
 ## Contemporary Kisses
 
 ### Synopsis:
