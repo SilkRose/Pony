@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Secret Hug Service
+
+### Synopsis:
+Pinkie Pie & Co. create a Secret Service meant to dish out hugs to sad ponies.
+
+***
+
 ## Scarf Solutions
 
 ### Synopsis:
