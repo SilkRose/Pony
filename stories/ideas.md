@@ -7,7 +7,7 @@ This file contains random story ideas that don't have enough thought to have the
 ## Tempting Telekinesis
 
 ### Synopsis:
-Sweetie Belle with good intentions stops using magic around Scootaloo. And Scootaloo realizes it, and they have to work through it. After becoming closer as friends, Sweetie Belle offers to levitate Scootaloo so she can feel like she is flying.
+Sweetie Belle with good intentions stops using magic around Scootaloo in a misguided attempt at trying to emphasize with her, by not using her magic she enforces a _disability_ onto herself. And Scootaloo realizes it, and they have to work through it. After becoming closer as friends, Scootaloo asks Sweetie Belle if she can levitate her so she can feel like she is flying.
 
 ***
 
