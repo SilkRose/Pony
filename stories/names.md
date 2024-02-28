@@ -79,3 +79,4 @@ This file contains random story names that don't have enough thought to have the
 - Glimmers of the Heart
 - Pinkamena, Diane, and Pie
 - Love, Lose, and Lamination
+- Intentional Intricacies
