@@ -8,7 +8,7 @@ What do you do when your best friend licks your face out of nowhere? You lick ba
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 ## Short Description:
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
