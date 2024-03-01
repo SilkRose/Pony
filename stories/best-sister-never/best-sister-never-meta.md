@@ -8,7 +8,7 @@ Rainbow Dash should have never read Scootaloo's diary.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 ## Short Description:
 Rainbow Dash should have never read Scootaloo's diary.
