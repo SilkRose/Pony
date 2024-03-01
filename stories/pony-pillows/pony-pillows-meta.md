@@ -10,7 +10,7 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151/Nova+Twinkle), available [here](https://fimtale.com/t/57065).
 
