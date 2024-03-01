@@ -6,7 +6,7 @@
 ## Description:
 
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 ## Short Description:
 
