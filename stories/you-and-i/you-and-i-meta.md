@@ -6,7 +6,7 @@ Pinkie and her marefriend snuggle after a long day.
 ## Description:
 Pinkie and her marefriend snuggle after a long day.
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 ## Short Description:
 Pinkie and her marefriend snuggle after a long day.
