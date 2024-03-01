@@ -6,7 +6,7 @@ Rainbow Dash and Pinkie get into a competition to see who can hold a hug the lon
 ## Description:
 Rainbow and Pinkie get into a contest over who can hold a hug the longest. Who will win? What might they discover as they make their way around town?
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 ## Short Description:
 Rainbow and Pinkie get into a contest over who can hold a hug the longest. Who will win? What might they discover along the way?
