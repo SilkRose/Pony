@@ -10,7 +10,7 @@ With the help of her friends, can Pinkie plan an amazing date for Rarity? Will s
 
 Sequel to [Pretty and Pink](https://www.fimfiction.net/story/432210/pretty-and-pink).
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading chapter one.
 
