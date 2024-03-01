@@ -10,7 +10,7 @@ Twilight has other plans.
 
 Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading.
 
-Cover done by irradiatedtittymilk on Discord.
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 Translated into Ukrainian by [volkov](https://www.fimfiction.net/user/595939/volkov), available [here](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr).
 
