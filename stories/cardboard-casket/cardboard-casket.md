@@ -2,7 +2,7 @@
 
 I lay in the box, drawing stale air with a raspy, shallow breath. The box's cardboard bottom provides little comfort for my sore side. Regrets tick through my mind with each beat of my heart as the blackness surrounds me.
 
-I shouldn't have eaten those cupcakes. I shouldn't have agreed to play hide and seek with Sweetie Belle. I shouldn't have closed the lid. I shouldn't have stayed in here after I felt sick. I shouldn't have done many things.
+I shouldn't have eaten those cupcakes. Spike said they were good, but he eats rocks! I shouldn't have listened to him. I shouldn't have agreed to play hide and seek with Sweetie Belle. I shouldn't have closed the lid. I shouldn't have stayed in here after I felt sick. I shouldn't have done many things.
 
 I try to slow my stuttered breathing as the air in the box becomes suffocating. A piece of dust gets caught in my throat, sending me into another involuntary coughing fit. Each cough brings up an unknown substance from the depths of my stomach.
 
