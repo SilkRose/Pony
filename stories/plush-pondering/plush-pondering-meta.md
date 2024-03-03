@@ -21,4 +21,4 @@ What does it mean to be a plush? What does it mean to be Pinkie Pie?
 [Plush Pondering](./plush-pondering.md)
 
 ## Cover:
-![cover](./plush-pondering-cover.jpg)
+![cover](./plush-pondering-cover-2.jpg)
