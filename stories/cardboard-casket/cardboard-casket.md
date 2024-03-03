@@ -10,17 +10,17 @@ I want to cry out, to scream, even if nopony can hear me, but I just don't have 
 
 I'm going to die. I've accepted it, but I still fear it. Nopony ever wants to die, but here I am, forced to endure each breath until the end. Forced to die a slow and painful death as my best friend tries to find me, blissfully unaware of the hiding place I'm trapped in.
 
-I was always afraid of the dark, but that's nothing compared to death. I'd gladly go blind if it means I can still feel the grass under my hooves, and breathe the fresh outside air, and hear my friends' voices. If the grim reaper was outside my box, offering that deal, I'd take it in a heartbeat.
+I was always afraid of the dark, but that's nothing compared to death. I'd gladly go blind if it means I can still feel the grass under my hooves, and breathe the fresh outside air, and hear my friends' voices. I'd take that deal in a heartbeat.
 
-I'm more afraid for my friends. They'll have to live in a world thinking they're the reason I'm no longer in it. Sweetie Belle will feel the worst guilt; hide and seek was her idea. I don't fault her at all, but I know her. She'll blame herself over and over, and she doesn't deserve to live like that.
+I'm more afraid for my friends. They'll have to live in a world thinking they're the reason I'm no longer in it. Sweetie Belle will feel the worst guilt; hide and seek was her idea. I don't fault her at all, but I know her. She'll blame herself forever. She doesn't deserve to live like that.
 
 Suddenly I hear hoofsteps near the box, and hope floods my thoughts. Somepony is close, somepony can save me! They get so close to the box, I can feel the vibration of their hoofsteps through the floor. I can hear her calling my name as I try with all my might to yell, scream, kick, anything to get her attention.
 
 Sweetie Belle trots away as all of my attempts were for naught. The one chance I had for salvation, trotting away, sealing my end. She was so close, and I so helpless. Nothing worked, nothing could save me now.
 
-My body seems to pity me as I start to cry. I enjoy every teardrop as it will most likely be the last shred of comfort I have in life. Each drop falls down my face as I dream of making a sound. Wishing for one last good cry before I go.
+My body seems to pity me as it lets me cry. I enjoy every teardrop as it will most likely be the last shred of comfort I have in life. Each drop falls down my face as I dream of making a sound. Wishing for one last good cry before I go.
 
-As the next teardrop slowly rolls down my face, it brings a memory to mind. Rainbow is hugging me and agreeing to be my big sister. The memory replays in my head, in slow motion and fast-forward, at the same time. She was such a good big sister.
+As the next teardrop slowly rolls down my face, it brings a memory to mind. Rainbow is hugging me and agreeing to be my big sister. The memory replays in my head, in slow motion and fast-forward, at the same time. She was such a good sister.
 
 The memory fades and a new one follows with the next teardrop. Me and Sweetie Belle meet Apple Bloom and form the Cutie Mark Crusaders. Little did I know how much our group, our calling, would mean to me.
 
