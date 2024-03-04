@@ -31,15 +31,15 @@ Pinkie's eyes soften as the blush finalizes on her face. She steps a little clos
 
 Once again, you nod your head, this time more vigorously. "Yes, you're cute!"
 
-Pinkie finally lets loose, she bounces forward and wraps you in a tight, spine-shattering hug. "You're cute, too!"
+Pinkie finally lets loose, she bounces forward and wraps you in a tight, welcoming hug. "You're cute too!"
 
-You hug back as you remember the good times you had with your L4 and L5 vertebrae.
+You hug back, squeezing her just as tight.
 
-As the hug is over, you feel your own blush as you stare at Pinkie's.
+As the hug is over, you feel your own blush forming as you stare at Pinkie's.
 
-"Thank you," you say, as you start to see Pinkie's blush fade.
+"Thank you!" Pinkie says, as you start to see Pinkie's blush fade.
 
-"Thank you!" Pinkie exclaims, blush deplete from her face.
+"Thank you," you say as the blush depletes from her face.
 
 ## Chapters:
 
