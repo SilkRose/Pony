@@ -20,6 +20,27 @@ A formulaic story concept with highly restricted chapter scope. "You" call vario
 - You can only react to a pony whose name you know. If you can't think of any names, you are displaced to abstract space until you can think of a name.
 - (is this getting too game-y?)
 
+## Snippet:
+You say, "Hi, Pinkie. You're cute!"
+
+Pinkie looks at you, face already beginning to blush. "Did you say I'm cute?"
+
+You nod your head. "Yes."
+
+Pinkie's eyes soften as the blush finalizes on her face. She steps a little closer to you. "Do you mean that?"
+
+Once again, you nod your head, this time more vigorously. "Yes, you're cute!"
+
+Pinkie finally lets loose, she bounces forward and wraps you in a tight, spine-shattering hug. "You're cute, too!"
+
+You hug back as you remember the good times you had with your L4 and L5 vertebrae.
+
+As the hug is over, you feel your own blush as you stare at Pinkie's.
+
+"Thank you," you say, as you start to see Pinkie's blush fade.
+
+"Thank you!" Pinkie exclaims, blush deplete from her face.
+
 ## Chapters:
 
 
