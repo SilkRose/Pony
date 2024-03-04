@@ -28,7 +28,7 @@ Another teardrop, another memory. The moment we decide to focus on helping other
 
 As the last memory fades, I ask for one last wish. Please, just one more hug with my friends. One more chance to tell them I love them. One more final goodbye. Please! But my wish is not granted, and I can feel myself starting to give out.
 
-Seeing no other option, I gather all the strength I can, using all the memories, tears, and hope as fuel for the determination to not die in this box. I scream, *I don't want to die,* in my head, as I try to force my back leg to kick as hard as I can.
+Seeing no other option, I gather all the strength I can, using all the memories, tears, and hope as fuel for the determination to not die in this box. I scream, *I don't want to die*, in my head, as I try to force my back leg to kick as hard as I can.
 
 I manage to move my leg, but only barely. It softly impacts the cardboard wall, making a weak sound, then falls limp as my control loosens even more. I hope with every fiber of my being that it's enough that somepony will come save me.
 
