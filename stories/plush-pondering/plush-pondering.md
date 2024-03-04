@@ -4,11 +4,11 @@ I stand in the front seat of my best friend's station wagon. My seatbelt is buck
 
 What does it mean to be a plush? To be Pinkie Pie? To be sentient? Are other inanimate objects sentient, or is it just me? Would they say I am sentient? Does my best friend know I can think? What would they say if they knew I could think? What would I say if I could speak?
 
-I know not the answers to these questions. The kind that come out on long car rides like this one. The kind that keep a plush up at night… Well, if a plush could sleep they would keep them up at night. As I get past my inability to sleep, another string of questions enters my mind.
+I know not the answers to these questions. The kind that come out on long car rides like this one. The kind that keep a plush up at night… Well, if a plush could sleep, they would keep them up at night. As I get past my inability to sleep, another string of questions enters my mind.
 
 Who is Pinkie Pie? I know that's my name, but am I really her? Do I have any real connection to her? Do I exemplify any of her qualities? I look like her, but is it just a facade? Have I just assumed her personality?
 
-I am her, whether I like it or not. I am seen as Pinkie Pie, so her, I must be. For if I weren't truly her, would I not live in constant dysphoria? But, no, I like being the pink one. Her personality gleamed from my best friend and the sparing times I've seen the media I'm based off of, fits me well.
+I am her, whether I like it or not. I am seen as Pinkie Pie, so her I must be. For if I weren't truly her, would I not live in constant dysphoria? But, no, I like being the pink one. Her personality, gleamed from my best friend and the sparing times I've seen the media I'm based off of, fits me well.
 
 As a love-themed gas station rolls past my vision, another set of questions materializes in my mind. Why does my best friend love me? Do I love them back? Would I be there for them if I had agency in my life? Would they be there for me?
 
@@ -22,7 +22,7 @@ What about the others? My best friend has five plushies besides me on their bed.
 
 The constant rotation of which plush is held during the night shows they care for all of us. And they speak to the other five the same as they do me. If the others are sentient, I wish I could talk to them. Especially the yellow one with pink hair, Fluttershy. She's really cute.
 
-Besides me, they spend more time with Fluttershy than the others. She has to be the second favorite. I can't blame them, I want to spend more time with her too. Especially after that time we kissed a few years back… Good thing plushies can't blush. I wonder if Fluttershy feels the same way about me? She might be too shy to say anything.
+Besides me, they spend more time with Fluttershy than the others. She has to be the second favorite. I can't blame them, I want to spend more time with her too. Especially after that time we kissed a few years back… Good thing plushies can't blush. I wonder if Fluttershy feels the same way about me. She might be too shy to say anything.
 
 Twilight Sparkle Would be next. She is also really cute. I bet she'd be fun to be friends with. She strikes me like she'd know a whole bunch of stuff. She could answer a lot of questions, but she would ask a lot of questions.
 
@@ -34,7 +34,7 @@ Applejack would be last, but not least. She is also really cute. She would be a 
 
 Are these pony plushies my friends and I never noticed?
 
-As the car comes to a halt, I realize we are home. What was the point of all that pondering? Am I to live in constant existential wonder, or will I yet find peace in my life? Do I already have it with the friends that have been right beside me the entire time? Before I can finish my thought process, my door is opened.
+As the car comes to a halt, I realize we are home. What was the point of all that pondering? Am I to live in constant existential wonder, or will I yet find peace in my life? Do I already have it with the friends who have been right beside me the entire time? Before I can finish my thought process, my door is opened.
 
 Our best friend unbuckles me and says, "I love you," before they pick me up.
 
@@ -42,6 +42,6 @@ I love you too!
 
 Maybe it's not worth worrying about, after all, my life is pretty good for a Pinkie Pie plush.
 
-As I'm carried through the air, held by the person I care most about, only one thought is running though my head.
+As I'm carried through the air, held by the person I care most about, only one thought is running through my head.
 
 Wheeeeee!
