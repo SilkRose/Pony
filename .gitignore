@@ -3,8 +3,10 @@
 .stfolder/
 .vscode/
 /code/dist/
+/code/fimfic-stats/node_modules/
 /code/pony-temp/
 /code/publish/
 /code/target/
 
 # Files
+/code/fimfic-stats/bun.lockb

@@ -1,0 +1,35 @@
+{
+	"name": "fimfic-stats",
+	"version": "0.1.0",
+	"description": "Scrapes FIMFiction story data stats from the API and stats page.",
+	"private": true,
+	"module": "fimfic-stats.ts",
+	"type": "module",
+	"scripts": {
+		"pfmt": "prettier **/*.{ts,json} --use-tabs --write"
+	},
+	"bin": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SilkRose/Pony.git"
+	},
+	"contributors": [
+		"Silk Rose",
+		"Meadowsys"
+	],
+	"license": "CC0-1.0",
+	"bugs": {
+		"url": "https://github.com/SilkRose/Pony/issues"
+	},
+	"homepage": "https://github.com/SilkRose/Pony#readme",
+	"devDependencies": {
+		"@total-typescript/ts-reset": "^0.5.1",
+		"bun-types": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5.2.2"
+	},
+	"dependencies": {
+		"node-html-markdown": "^1.3.0"
+	}
+}
