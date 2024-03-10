@@ -32,7 +32,7 @@ Rainbow Dash is next. She is also really cute. She would be fun to hang out with
 
 Applejack would be last, but not least. She is also really cute. She would be a very dependable friend. She would help with anything you needed. She would be real with you and keep your head level.
 
-Wait...
+Wait…
 
 Are these pony plushies my friends, too, and I just never noticed?
 
