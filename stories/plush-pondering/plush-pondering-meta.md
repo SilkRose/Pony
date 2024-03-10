@@ -6,6 +6,8 @@ A Pinkie Pie plush ponders existence, what it means to be a plush, where it's be
 ## Description:
 What does it mean to be a plush? What does it mean to be Pinkie Pie?
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 ## Short Description:
 What does it mean to be a plush? What does it mean to be Pinkie Pie?
 
