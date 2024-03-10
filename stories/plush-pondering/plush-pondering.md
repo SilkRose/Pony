@@ -12,7 +12,7 @@ My best friend calls me Pinkie, and I think I think like I think she thinks, and
 
 As a love-themed gas station rolls past the window, another set of questions comes to mind. Why does my best friend love me? Do I love them back? Would I be there for them if I could do other things? Would they be there for me?
 
-It's been over a decade since we met, and we've been best friends from day one. I suspect they feel the same way. I'd be lying to myself if I thought I didn't love them - they are my best friend after all. I would still be there for them, no matter what. Even if I could walk and talk, I'd be talking to my best friend about everything, and walking with them everywhere. I know they'd be there for me, they already are without even knowing it.
+It's been over a decade since we met, and we've been best friends from day one. I suspect they feel the same way. I'd be lying to myself if I thought I didn't love them - they are my best friend after all. I would still be there for them, no matter what. Even if I could walk and talk, I'd be talking to my best friend about everything, and walking with them everywhere. I know they'd be there for me. They already are, without even knowing it.
 
 Sometimes I think my best friend knows I can understand them, but other times I'm not so sure. The genuine interest in their voice when they ask me questions makes me want to believe. And their pretend answers for me are almost always what I think of.
 
