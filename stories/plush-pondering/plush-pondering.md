@@ -6,7 +6,7 @@ What does it mean to be a plush? To be sentient? Are other inanimate objects sen
 
 These are the kind of questions that come out on long car rides like this one. The kind that keep a plush up at night… Well, if a plush could sleep, they would keep them up at night. As I consider my inability to sleep, another string of questions enters my mind.
 
-Who is Pinkie Pie? I know that's my name, but what about the real Pinkie? Do I have any real connection to her? Do I exemplify any of her qualities? I look like her, but is it just a facade? Have I just assumed her personality?
+Who is Pinkie Pie? I know that's my name, but what about the real Pinkie Pie? Do I have any real connection to her? Do I exemplify any of her qualities? I look like her, but is it just a facade? Have I just assumed her personality?
 
 My best friend calls me Pinkie, and I think I think like I think she thinks, and if I wasn't really like her, it would feel so wrong to live like this. So I must be Pinkie. And I like it! I'm not perfect at it, but I've seen her a few times on my best friend's screens, so I think I'm doing a good job being me.
 
