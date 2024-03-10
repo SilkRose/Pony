@@ -18,9 +18,9 @@ Sometimes I think my best friend knows I can understand them, but other times I'
 
 But, if they knew I could think, why would they say they wish I was real? Unless they mean they wish I could move and talk. I wish for that too, then, best friend. I wish I could tell you, and show you, how much I care for you. 
 
-What about the others? My best friend has five plushies besides me on their bed. I think their names are Fluttershy, Twilight Sparkle, Rarity, Rainbow Dash, and Applejack. Can they also think? Does my best friend know they can too? They are treated just as well as I am, but I am the favorite.
+What about the others? My best friend has five plushies besides me. I think their names are Fluttershy, Twilight Sparkle, Rarity, Rainbow Dash, and Applejack. Can they also think? Does my best friend wish they were real too? 
 
-The constant rotation of which plush is held during the night shows they care for all of us. And they speak to the other five the same as they do me. If the others are sentient, I wish I could talk to them. Especially the yellow one with pink hair, Fluttershy. She's really cute.
+I know I'm the favorite, but they're all treated just as well as I am. The constant rotation of which plush is held during the night shows they care for all of us. And they speak to the other five the same as they do me. If the others can think, I wish I could talk to them. Especially Fluttershy, the yellow one with pink hair. She's really cute.
 
 Besides me, my best friend spends more time with Fluttershy than the others. She has to be the second favorite. I can't blame them, I want to spend more time with her too. Especially after that time we kissed a few years back… Good thing plushies can't blush. I wonder if Fluttershy feels the same way about me. She might be too shy to say anything.
 
@@ -32,9 +32,11 @@ Rainbow Dash is next. She is also really cute. She would be fun to hang out with
 
 Applejack would be last, but not least. She is also really cute. She would be a very dependable friend. She would help with anything you needed. She would be real with you and keep your head level.
 
-Are these pony plushies my friends and I never noticed?
+Wait...
 
-As the car comes to a halt, I realize we are home. What was the point of all that pondering? Am I to live in constant existential wonder, or will I yet find peace in my life? Do I already have it with the friends who have been right beside me the entire time? Before I can finish my thought process, my door is opened.
+Are these pony plushies my friends, too, and I just never noticed?
+
+As the car comes to a halt, I realize we are home. What was the point of all that pondering? Am I to live in constant existential wonder, or will I find meaning in my life? Do I already have it with the friends who have been right beside me the entire time? Before I can finish my thought process, my door is opened.
 
 Our best friend unbuckles me and says, "I love you," before they pick me up.
 
