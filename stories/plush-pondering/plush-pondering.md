@@ -20,7 +20,7 @@ But, if they knew I could think, why would they say they wish I was real? Unless
 
 What about the others? My best friend has five plushies besides me. I think their names are Fluttershy, Twilight Sparkle, Rarity, Rainbow Dash, and Applejack. Can they also think? Does my best friend wish they were real too? 
 
-I know I'm the favorite, but they're all treated just as well as I am. The constant rotation of which plush is held during the night shows they care for all of us. And they speak to the other five the same as they do me. If the others can think, I wish I could talk to them. Especially Fluttershy, the yellow one with pink hair. She's really cute.
+I know I'm the favorite, but they're all treated just as well as I am. The constant rotation of which plush they hold when they sleep shows they care for all of us. And they speak to the other five the same as they do me. If the others can think, I wish I could talk to them. Especially Fluttershy, the yellow one with pink hair. She's really cute.
 
 Besides me, my best friend spends more time with Fluttershy than the others. She has to be the second favorite. I can't blame them, I want to spend more time with her too. Especially after that time we kissed a few years back… Good thing plushies can't blush. I wonder if Fluttershy feels the same way about me. She might be too shy to say anything.
 
