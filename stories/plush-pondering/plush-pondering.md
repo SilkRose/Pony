@@ -8,7 +8,7 @@ These are the kind of questions that come out on long car rides like this one. T
 
 Who is Pinkie Pie? I know that's my name, but what about the real Pinkie? Do I have any real connection to her? Do I exemplify any of her qualities? I look like her, but is it just a facade? Have I just assumed her personality?
 
-I am her, whether I like it or not. I am seen as Pinkie Pie, so her I must be. For if I weren't truly her, would I not live in constant dysphoria? But, no, I like being the pink one. Her personality, gleaned from my best friend and the sparing times I've seen the media I'm based off of, fits me well.
+My best friend calls me Pinkie, and I think I think like I think she thinks, and if I wasn't really like her, it would feel so wrong to live like this. So I must be Pinkie. And I like it! I'm not perfect at it, but I've seen her a few times on my best friend's screens, so I think I'm doing a good job being me.
 
 As a love-themed gas station rolls past the window, another set of questions comes to mind. Why does my best friend love me? Do I love them back? Would I be there for them if I could do other things? Would they be there for me?
 
