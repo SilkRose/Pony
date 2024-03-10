@@ -8,7 +8,7 @@ I know not the answers to these questions. The kind that come out on long car ri
 
 Who is Pinkie Pie? I know that's my name, but am I really her? Do I have any real connection to her? Do I exemplify any of her qualities? I look like her, but is it just a facade? Have I just assumed her personality?
 
-I am her, whether I like it or not. I am seen as Pinkie Pie, so her I must be. For if I weren't truly her, would I not live in constant dysphoria? But, no, I like being the pink one. Her personality, gleamed from my best friend and the sparing times I've seen the media I'm based off of, fits me well.
+I am her, whether I like it or not. I am seen as Pinkie Pie, so her I must be. For if I weren't truly her, would I not live in constant dysphoria? But, no, I like being the pink one. Her personality, gleaned from my best friend and the sparing times I've seen the media I'm based off of, fits me well.
 
 As a love-themed gas station rolls past my vision, another set of questions materializes in my mind. Why does my best friend love me? Do I love them back? Would I be there for them if I had agency in my life? Would they be there for me?
 
@@ -24,7 +24,7 @@ The constant rotation of which plush is held during the night shows they care fo
 
 Besides me, they spend more time with Fluttershy than the others. She has to be the second favorite. I can't blame them, I want to spend more time with her too. Especially after that time we kissed a few years back… Good thing plushies can't blush. I wonder if Fluttershy feels the same way about me. She might be too shy to say anything.
 
-Twilight Sparkle Would be next. She is also really cute. I bet she'd be fun to be friends with. She strikes me like she'd know a whole bunch of stuff. She could answer a lot of questions, but she would ask a lot of questions.
+Twilight Sparkle would be next. She is also really cute. I bet she'd be fun to be friends with. She strikes me as a pony who knows a whole bunch of stuff. She could answer a lot of questions, but she would ask a lot of questions, too.
 
 Rarity is after Twilight. Rarity is really cute, too. She'd be fun to dress up with. She'd make super pretty dresses. She would want to make everypony look as beautiful on the outside as they are on the inside.
 
@@ -40,7 +40,7 @@ Our best friend unbuckles me and says, "I love you," before they pick me up.
 
 I love you too!
 
-Maybe it's not worth worrying about, after all, my life is pretty good for a Pinkie Pie plush.
+Maybe it's not worth worrying about. After all, my life is pretty good for a Pinkie Pie plush.
 
 As I'm carried through the air, held by the person I care most about, only one thought is running through my head.
 
