@@ -42,6 +42,17 @@ dependencies = [
 ]
 
 [[package]]
+name = "async-recursion"
+version = "1.0.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5fd55a5ba1179988837d24ab4c7cc8ed6efdeff578ede0416b4225a5fca35bd0"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn",
+]
+
+[[package]]
 name = "atty"
 version = "0.2.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -654,6 +665,7 @@ checksum = "d231b230927b5e4ad203db57bbcbee2802f6bce620b1e4a9024a07d94e2907ec"
 name = "pony"
 version = "0.0.0"
 dependencies = [
+ "async-recursion",
  "atty",
  "camino",
  "lazy_static",
@@ -1400,9 +1412,9 @@ dependencies = [
 
 [[package]]
 name = "wiwi"
-version = "0.1.2"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b301537ef6195a65e8a21a97c4b482eaca180f7fbebf06cf393ace3196625758"
+checksum = "88235b47496ee353d937d1b32773ddd705e5d8da503ceef407f44165dd65c438"
 dependencies = [
  "cfg-if",
  "chrono",
