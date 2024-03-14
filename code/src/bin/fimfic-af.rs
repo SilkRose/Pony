@@ -74,7 +74,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	);
 	headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
 
-	let api_url = format!("{stories_domain}/{story_id}");
+	let stories_url = format!("{stories_domain}/{story_id}");
 
 	let mut timer = ClockTimer::with_naive_datetime(now());
 	timer.set_run_duration(TimeDelta::try_seconds(SECS_PER_DAY as _).unwrap());
@@ -99,17 +99,33 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		let title = format!(
 			"This Story will Explode in {remaining_hours} Hours and {remaining_mins} Minutes"
 		);
-		let mut desc: Option<&str> = None;
-		let mut short_desc: Option<&str> = None;
-		let event = EVENTS
+		let events = EVENTS
 			.iter()
 			.filter(|event| {
 				event.release_hour == remaining_hours && event.release_minute == remaining_mins
 			})
 			.collect::<Vec<_>>();
-
-		let story_json = story_json(story_id, title, desc, short_desc).to_string();
-		let _ = send_api_request(&client, &headers, &api_url, story_json, 0).await;
+		if !events.is_empty() {
+			for event in events {
+				let story_json = story_json(
+					story_id,
+					title.clone(),
+					event.description,
+					event.short_description,
+				)
+				.to_string();
+				let _ = send_api_request(&client, &headers, &stories_url, story_json, 0).await;
+				if event.chapter_id.is_some() {
+					let chapters_url = format!("{chapters_domain}/{}", event.chapter_id.unwrap());
+					let chapter_json = chapter_json(event.chapter_id.unwrap()).to_string();
+					let _ =
+						send_api_request(&client, &headers, &chapters_url, chapter_json, 0).await;
+				}
+			}
+		} else {
+			let story_json = story_json(story_id, title, None, None).to_string();
+			let _ = send_api_request(&client, &headers, &stories_url, story_json, 0).await;
+		}
 	}
 
 	Ok(())
