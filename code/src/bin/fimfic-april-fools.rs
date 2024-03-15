@@ -1,10 +1,11 @@
+use ::wiwi::prelude::*;
 use async_recursion::async_recursion;
 use reqwest::header::{HeaderMap, HeaderValue, AUTHORIZATION, CONTENT_TYPE};
 use reqwest::Client;
 use serde_json::{json, Value};
 use std::env;
 use std::time::Duration;
-use wiwi::clock_timer::{now, ClockTimer, TimeDelta, Timelike, SECS_PER_DAY};
+use wiwi::clock_timer_2::chrono::Local;
 
 struct Event<'a> {
 	release_hour: u32,
@@ -16,8 +17,8 @@ struct Event<'a> {
 
 const EVENTS: &[Event] = &[
 	Event {
-		release_hour: 13,
-		release_minute: 40,
+		release_hour: 0,
+		release_minute: 30,
 		chapter_id: Some(1738301),
 		description: Some(
 			"I agree you, Pinkie is super cute!\n\nI love to give Pinkie lots of hugs!",
@@ -25,8 +26,8 @@ const EVENTS: &[Event] = &[
 		short_description: Some("Pinkie is cute!"),
 	},
 	Event {
-		release_hour: 13,
-		release_minute: 40,
+		release_hour: 1,
+		release_minute: 0,
 		chapter_id: Some(1738302),
 		description: Some(
 			"I agree you, Fluttershy is super cute!\n\nI love to give Fluttershy lots of hugs!",
@@ -34,8 +35,8 @@ const EVENTS: &[Event] = &[
 		short_description: Some("Fluttershy is cute!"),
 	},
 	Event {
-		release_hour: 13,
-		release_minute: 40,
+		release_hour: 1,
+		release_minute: 30,
 		chapter_id: Some(1738303),
 		description: Some(
 			"I agree you, Rarity is super cute!\n\nI love to give Rarity lots of hugs!",
@@ -43,15 +44,15 @@ const EVENTS: &[Event] = &[
 		short_description: None,
 	},
 	Event {
-		release_hour: 13,
-		release_minute: 40,
+		release_hour: 2,
+		release_minute: 0,
 		chapter_id: Some(1738304),
 		description: None,
 		short_description: Some("Twilight Sparkle is cute!"),
 	},
 	Event {
-		release_hour: 13,
-		release_minute: 40,
+		release_hour: 2,
+		release_minute: 30,
 		chapter_id: None,
 		description: None,
 		short_description: Some("Rainbow Dash is cute!"),
@@ -76,33 +77,38 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 	let stories_url = format!("{stories_domain}/{story_id}");
 
-	let mut timer = ClockTimer::with_naive_datetime(now());
-	timer.set_run_duration(TimeDelta::try_seconds(SECS_PER_DAY as _).unwrap());
-	timer.set_run_interval(TimeDelta::try_minutes(1).unwrap());
+	let mut timer = ClockTimer::builder()
+		.with_start_datetime(Local::now())
+		.with_duration(TimeDelta::try_hours(3).unwrap())
+		.with_interval(TimeDelta::try_minutes(10).unwrap())
+		.build();
 
-	while let Some(time) = timer.tick().await {
-		let hour = time.hour();
-		let min = time.minute();
-		println!("{hour}, {min}");
-		let remaining_mins = 60 - time.minute();
-		let remaining_hours = if remaining_mins == 60 {
-			24 - time.hour()
-		} else {
-			23 - time.hour()
-		};
-		let remaining_mins = if remaining_mins == 60 {
-			0
-		} else {
-			remaining_mins
-		};
-		println!("{remaining_hours}, {remaining_mins}");
+	while let Some(tick) = timer.tick().await {
+		let time = tick.time().to_rfc3339();
+		let elapsed = tick.elapsed();
+		let remaining = tick.remaining();
+		let start_time = tick.start_time().to_rfc3339();
+		let end_time = tick.end_time().to_rfc3339();
+
+		println!("tick! time: {time}, elapsed: {elapsed}, remaining: {remaining}, start_time: {start_time}, end_time: {end_time} ");
+		println!(
+			"{}, {} -- {}, {}",
+			elapsed.num_hours(),
+			elapsed.num_minutes(),
+			remaining.num_hours(),
+			elapsed.num_minutes() - (elapsed.num_hours() * 60)
+		);
 		let title = format!(
-			"This Story will Explode in {remaining_hours} Hours and {remaining_mins} Minutes"
+			"This Story will Explode in {} Hours and {} Minutes",
+			remaining.num_hours(),
+			remaining.num_minutes()
 		);
 		let events = EVENTS
 			.iter()
 			.filter(|event| {
-				event.release_hour == remaining_hours && event.release_minute == remaining_mins
+				event.release_hour == elapsed.num_hours() as u32
+					&& event.release_minute
+						== (elapsed.num_minutes() - (elapsed.num_hours() * 60)) as u32
 			})
 			.collect::<Vec<_>>();
 		if !events.is_empty() {
