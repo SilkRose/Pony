@@ -3,19 +3,13 @@
 This file contains random story names that don't have enough thought to have their own folder yet, or that I don't plan on writing and just wanted to share.
 
 - Map Mishaps
-- The Pros and Cons of being Pinkie Pie
-- The Book of Pink Sparkles
 - Pinkie Pie Prose
 - Pink Prose
 - Gemstones and Gentle
 - Hard Work and Hot Wings
 - Night Sparkles
-- Pinkie Pie, the Purple Alicorn
-- Twilight Sparkle, the Pink Earth Pony
-- How to be Pinkie Pie, a Self Written Dictionary
 - The Pink Dictionary
 - Pink Swirls
-- Pink with a side of Purple
 - Books and Butterflies
 - The Fastest Wing in the West
 - Beauty and Butter
@@ -37,7 +31,6 @@ This file contains random story names that don't have enough thought to have the
 - The Butterflies on My Butt
 - Horseshoes and Hot Mares
 - Rainbow Dash, Narcissist Extraordinaire
-- Twilight Sparkle and the Crush I Totally Don't Have on My Best Friend
 - To Be Pink
 - The Pink Book
 - Yellow Days
