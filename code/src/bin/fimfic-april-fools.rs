@@ -1,4 +1,3 @@
-use ::wiwi::prelude::*;
 use async_recursion::async_recursion;
 use reqwest::header::{HeaderMap, HeaderValue, AUTHORIZATION, CONTENT_TYPE};
 use reqwest::Client;
@@ -6,6 +5,7 @@ use serde_json::{json, Value};
 use std::env;
 use std::time::Duration;
 use wiwi::clock_timer_2::chrono::Local;
+use wiwi::prelude::*;
 
 struct Event<'a> {
 	release_hour: u32,
@@ -84,24 +84,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		.build();
 
 	while let Some(tick) = timer.tick().await {
-		let time = tick.time().to_rfc3339();
 		let elapsed = tick.elapsed();
 		let remaining = tick.remaining();
-		let start_time = tick.start_time().to_rfc3339();
-		let end_time = tick.end_time().to_rfc3339();
-
-		println!("tick! time: {time}, elapsed: {elapsed}, remaining: {remaining}, start_time: {start_time}, end_time: {end_time} ");
-		println!(
-			"{}, {} -- {}, {}",
-			elapsed.num_hours(),
-			elapsed.num_minutes(),
-			remaining.num_hours(),
-			elapsed.num_minutes() - (elapsed.num_hours() * 60)
-		);
 		let title = format!(
 			"This Story will Explode in {} Hours and {} Minutes",
 			remaining.num_hours(),
-			remaining.num_minutes()
+			remaining.num_minutes() - (elapsed.num_hours() * 60)
 		);
 		let events = EVENTS
 			.iter()
