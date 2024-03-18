@@ -50,4 +50,4 @@ Story inspired by [Book of Pink](https://www.fimfiction.net/story/93899/book-of-
 
 
 ## Cover:
-![cover](./the-book-of-pink-sparkles-cover-upscaled.png)
+![cover](./the-book-of-pink-sparkles-cover-animated-upscaled.gif)
