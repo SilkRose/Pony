@@ -6,18 +6,21 @@ import "@total-typescript/ts-reset";
 
 const cookie_schema = z.array(
 	z.object({
-		name: z.string(),
-		value: z.string(),
 		domain: z.string(),
-		path: z.string(),
 		expires: z.number(),
-		size: z.number(),
 		httpOnly: z.boolean(),
+		name: z.string(),
+		partitionKey: z.string().optional(),
+		partitionKeyOpaque: z.boolean().optional(),
+		path: z.string(),
+		priority: z.enum(["Low", "Medium", "High"]).optional(),
+		sameParty: z.boolean().optional(),
+		sameSite: z.enum(["Strict", "Lax", "None"]).optional(),
 		secure: z.boolean(),
 		session: z.boolean(),
-		priority: z.string(),
-		sameParty: z.boolean(),
-		sourceScheme: z.string(),
+		size: z.number(),
+		sourceScheme: z.enum(["Unset", "NonSecure", "Secure"]).optional(),
+		value: z.string(),
 	})
 );
 

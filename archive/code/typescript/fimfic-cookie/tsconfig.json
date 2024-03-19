@@ -20,7 +20,7 @@
     "noImplicitOverride": true,
     "allowUnusedLabels": false,
     "allowUnreachableCode": false,
-    "exactOptionalPropertyTypes": true,
+    "exactOptionalPropertyTypes": false,
     "useUnknownInCatchVariables": true,
     "noPropertyAccessFromIndexSignature": true,
     "isolatedModules": true,
