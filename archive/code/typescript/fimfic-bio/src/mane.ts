@@ -22,16 +22,45 @@ const cookie_schema = z.array(
 	})
 );
 
+const recommendation_schema = z.array(
+	z.object({
+		"author-name": z.string(),
+		"author-id": z.number(),
+		"best-pony": z.string(),
+		recommendations: z.array(
+			z.object({
+				"story-name": z.string(),
+				"story-id": z.number(),
+			})
+		),
+	})
+);
+
 const edit_selector =
 	'a.styled_button.styled_button_brown.edit-link[data-click="showEdit"]';
 const text_field_selector = 'input[name="bio"]';
 const save_selector = "button.styled_button i.fa.fa-save";
 
 async function mane() {
+	const recommendations = recommendation_schema.parse(
+		JSON.parse(process.argv[3])
+	);
+	const author =
+		recommendations[Math.floor(Math.random() * recommendations.length)];
+
+	const story =
+		author.recommendations[
+			Math.floor(Math.random() * author.recommendations.length)
+		];
+
+	const max_lenght = 200;
+
+	const bio = `Go read [url=/story/${story["story-id"]}]${story["story-name"]}[/url], by [url=/user/${author["author-id"]}/]${author["author-name"]}[/url] | ${author["best-pony"]} is best pony! | Bio updates daily!`;
+
 	const cookies = cookie_schema.parse(JSON.parse(process.argv[2]));
 	const time = Date.now() / 1000;
 	const expirery_date = cookies
-		.filter((c) => (c.name === "session_token"))
+		.filter((c) => c.name === "session_token")
 		.map((c) => c.expires)[0];
 	// check to see if the cookie expires within a month.
 	if (time > expirery_date - 2592000) {
@@ -41,7 +70,7 @@ async function mane() {
 		process.exit(1);
 	}
 	const browser = await puppeteer.launch({
-		headless: "shell",
+		headless: false,
 	});
 	const page = await browser.newPage();
 	await page.setCookie(...cookies);
@@ -61,7 +90,7 @@ async function mane() {
 	await page.keyboard.press("KeyA");
 	await page.keyboard.up("Control");
 	await page.keyboard.press("Backspace");
-	await page.type(text_field_selector, "Pinkie Pie is best pony!");
+	await page.type(text_field_selector, bio);
 	await page.click(save_selector);
 	await browser.close();
 }
