@@ -4,7 +4,7 @@ import readlineSync from "readline-sync";
 import { promises as fsPromises } from "fs";
 import "@total-typescript/ts-reset";
 
-const cookie = z.array(
+const cookie_schema = z.array(
 	z.object({
 		name: z.string(),
 		value: z.string(),
@@ -37,7 +37,7 @@ async function mane() {
 	await page.type(password_selector, input_password());
 	await page.click(login_selector);
 	await page.waitForNavigation();
-	const cookies = cookie.parse(await page.cookies());
+	const cookies = cookie_schema.parse(await page.cookies());
 	await fsPromises.writeFile("cookies.json", JSON.stringify(cookies));
 	await browser.close();
 }
