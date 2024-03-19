@@ -1,7 +1,25 @@
+import z from "zod";
 import puppeteer from "puppeteer";
 import readlineSync from "readline-sync";
 import { promises as fsPromises } from "fs";
 import "@total-typescript/ts-reset";
+
+const cookie = z.array(
+	z.object({
+		name: z.string(),
+		value: z.string(),
+		domain: z.string(),
+		path: z.string(),
+		expires: z.number(),
+		size: z.number(),
+		httpOnly: z.boolean(),
+		secure: z.boolean(),
+		session: z.boolean(),
+		priority: z.string(),
+		sameParty: z.boolean(),
+		sourceScheme: z.string(),
+	})
+);
 
 const name_selector = 'input[name="username"]';
 const password_selector = 'input[name="password"]';
@@ -19,7 +37,7 @@ async function mane() {
 	await page.type(password_selector, input_password());
 	await page.click(login_selector);
 	await page.waitForNavigation();
-	const cookies = await page.cookies();
+	const cookies = cookie.parse(await page.cookies());
 	await fsPromises.writeFile("cookies.json", JSON.stringify(cookies));
 	await browser.close();
 }
