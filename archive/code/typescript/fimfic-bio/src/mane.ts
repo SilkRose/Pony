@@ -48,7 +48,7 @@ const save_selector = "button.styled_button i.fa.fa-save";
 async function mane() {
 	// contructing the bio.
 	const recommendations = recommendation_schema.parse(
-		JSON.parse(await fs.readFile("./story-recommendations.json", "utf-8"))
+		JSON.parse(await fs.readFile(process.argv[2], "utf-8"))
 	);
 	const author =
 		recommendations[Math.floor(Math.random() * recommendations.length)];
@@ -60,7 +60,7 @@ async function mane() {
 	const bio = `Go read [url=/story/${story["story-id"]}]${story["story-name"]}[/url], by [url=/user/${author["author-id"]}/]${author["author-name"]}[/url] | ${author["best-pony"]} is best pony! | Bio updates daily!`;
 
 	// checking the cookie expirery date.
-	const cookies = cookie_schema.parse(JSON.parse(process.argv[2]));
+	const cookies = cookie_schema.parse(JSON.parse(await fs.readFile(process.argv[3], "utf-8")));
 	const time = Date.now() / 1000;
 	const expirery_date = cookies
 		.filter((c) => c.name === "session_token")

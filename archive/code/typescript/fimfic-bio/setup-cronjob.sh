@@ -3,9 +3,20 @@
 set -o errexit
 set -o nounset
 
-mane=$1
-cookies=$2
+if [ "$#" -ne 4 ]; then
+	echo "You must provide the full path for each of these files!"
+	echo "Usage: $0 <node_executable> <script_path> <recommendations JSON> <cookies JSON>"
+	exit 1
+fi
 
-CRON_JOB="0 0 * * * node $mane $(cat "$cookies")"
+node=$1
+mane=$2
+recommendations=$3
+cookies=$4
 
-(crontab -l; echo "$CRON_JOB") | sort - | uniq - | crontab -
+CRON_JOB="0 10 * * * $node $mane $recommendations $cookies"
+
+(
+	crontab -l
+	echo "$CRON_JOB"
+) | sort - | uniq - | crontab -
