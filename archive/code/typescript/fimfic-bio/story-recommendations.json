@@ -186,5 +186,20 @@
 				"story-id": 545050
 			}
 		]
+	},
+	{
+		"author-name": "Jymbroni",
+		"author-id": 474762,
+		"best-pony": "Luna",
+		"recommendations": [
+			{
+				"story-name": "A Modest Proposal",
+				"story-id": 539922
+			},
+			{
+				"story-name": "Stormy Affair",
+				"story-id": 553709
+			}
+		]
 	}
 ]
