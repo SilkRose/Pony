@@ -1,0 +1,33 @@
+{
+  "name": "fimiction-cookie",
+  "version": "0.0.1",
+  "description": "Logs into FIMFiction to get a cookie for automation purposes.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilkRose/Pony.git"
+  },
+  "contributors": [
+    "Silk Rose",
+    "Meadowsys"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilkRose/Pony/issues"
+  },
+  "homepage": "https://github.com/SilkRose/Pony#readme",
+  "dependencies": {
+    "puppeteer": "^22.5.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@total-typescript/ts-reset": "^0.5.1",
+    "@types/node": "^20.11.29",
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.4.2"
+  }
+}
