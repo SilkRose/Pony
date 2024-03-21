@@ -2,6 +2,7 @@ import z from "zod";
 import puppeteer from "puppeteer";
 import { promises as fs } from "fs";
 import "@total-typescript/ts-reset";
+import { execSync } from "child_process";
 
 // schema for the cookie.
 const cookie_schema = z.array(
@@ -60,16 +61,38 @@ async function mane() {
 	const bio = `Go read [url=/story/${story["story-id"]}]${story["story-name"]}[/url], by [url=/user/${author["author-id"]}/]${author["author-name"]}[/url] | ${author["best-pony"]} is best pony! | Bio updates daily!`;
 
 	// checking the cookie expirery date.
-	const cookies = cookie_schema.parse(JSON.parse(await fs.readFile(process.argv[3], "utf-8")));
+	const cookies = cookie_schema.parse(
+		JSON.parse(await fs.readFile(process.argv[3], "utf-8"))
+	);
 	const time = Date.now() / 1000;
-	const expirery_date = cookies
+	const expiry_date = cookies
 		.filter((c) => c.name === "session_token")
 		.map((c) => c.expires)[0];
 	// check to see if the cookie expires within a month.
-	if (time > expirery_date - 2592000) {
-		console.warn("::warning ::Cookie expires in less than a month!");
-	} else if (time > expirery_date) {
-		console.error(new Error("::error ::Cookie has expired!"));
+	if (time > expiry_date - 2592000) {
+		execute_command(
+			`notify-send "Expiring Cookie!" "The cookie provided for FIMFiction Bio will expire on ${new Date(
+				expiry_date * 1000
+			)}"`
+		);
+		console.warn(
+			`The cookie provided for FIMFiction Bio will expire on ${new Date(
+				expiry_date * 1000
+			)}`
+		);
+	} else if (time > expiry_date) {
+		execute_command(
+			`notify-send -u critical "Expired Cookie!" "The cookie provided for FIMFiction Bio has expired on ${new Date(
+				expiry_date * 1000
+			)}"`
+		);
+		console.error(
+			new Error(
+				`The cookie provided for FIMFiction Bio has expired on ${new Date(
+					expiry_date * 1000
+				)}`
+			)
+		);
 		process.exit(1);
 	}
 
@@ -101,3 +124,11 @@ async function mane() {
 }
 
 mane();
+
+function execute_command(command: string) {
+	try {
+		execSync(command);
+	} catch (err) {
+		throw new Error(`Failed to execute command: ${command}`);
+	}
+}
