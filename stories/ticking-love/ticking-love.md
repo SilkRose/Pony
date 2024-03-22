@@ -1,26 +1,24 @@
 # Ticking Love
 
-I materialize in Twilight's house, and sit down beside her.
+I materialize in Twilight's house, and sit down behind her. I lean against her back and wrap my hooves around her, nuzzling her mane, then saying, "Hey, Twilight, what are you up to?"
 
-*Thirty. She's so pretty!*
+*Thirty. She's so soft and cuddly.*
 
-I ask, "Hey, Twilight, what are you up to?"
+Twilight pauses for a second, then holds one of my hooves in her own. "Not much, just writing some notes. What brings you by, Pinkie?"
 
-Twilight pushes her notes to the side. "Not much, just writing some notes. What are you doing, Pinkie?"
-
-*Twenty-nine. Plotting our first kiss, hopefully.*
+*Twenty-nine. It's you, you bring me by.*
 
 I smile. "Oh, I'm just checking in on my bestest friend."
 
-Twilight continues writing her notes out of my view. "That's very nice of you, is there anything you needed?"
+I hear Twilight writing her note, unable to see it. "That's very nice of you, is there anything you needed?"
 
 *Twenty-eight. A kiss would be nice.*
 
-I say, sheepishly, "Maybe a hug or two."
+I ask, "Can we talk?"
 
-Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
+Twilight squeezes my hoof a little tighter in her hold. "Sure, are you doing alright?"
 
-I nuzzle her gently on the last hug.
+I hold my hug a little tighter in response.
 
 *Twenty-seven. It would be better if I could tell you how I feel.*
 
