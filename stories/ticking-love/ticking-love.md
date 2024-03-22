@@ -1,24 +1,26 @@
 # Ticking Love
 
-I materialize in Twilight's house, and sit down behind her. I lean against her back and wrap my hooves around her, nuzzling her mane, then saying, "Hey, Twilight, what are you up to?"
+I materialize in Twilight's house, and sit down beside her.
 
-*Thirty. She's so soft and cuddly.*
+*Thirty. She's so pretty!*
 
-Twilight pauses for a second, then holds one of my hooves in her own. "Not much, just writing some notes. What brings you by, Pinkie?"
+I ask, "Hey, Twilight, what are you up to?"
 
-*Twenty-nine. It's you, you bring me by.*
+Twilight pushes her notes to the side. "Not much, just writing some notes. What are you doing, Pinkie?"
+
+*Twenty-nine. Plotting our first kiss, hopefully.*
 
 I smile. "Oh, I'm just checking in on my bestest friend."
 
-I hear Twilight writing her note, unable to see it. "That's very nice of you, is there anything you needed?"
+Twilight continues writing her notes out of my view. "That's very nice of you, is there anything you needed?"
 
 *Twenty-eight. A kiss would be nice.*
 
-I ask, "Can we talk?"
+I say, sheepishly, "Maybe a hug or two."
 
-Twilight squeezes my hoof a little tighter in her hold. "Sure, are you doing alright?"
+Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
 
-I hold my hug a little tighter in response.
+I nuzzle her gently on the last hug.
 
 *Twenty-seven. It would be better if I could tell you how I feel.*
 
@@ -68,7 +70,7 @@ I say excitedly, "Oh, is it a secret? I can keep a secret!"
 
 Twilight sighs. "I'm writing down how I feel about a certain pony."
 
-*Nineteen. I hope its me!*
+*Nineteen. I hope it's me!*
 
 "What kind of feelings?"
 
@@ -92,7 +94,7 @@ Twilight's voice becomes melancholic, "I can't say yet, and yes, very well."
 
 "Yes," Twilight says, blushing harder.
 
-*Fifteen. she looks so pretty when she blushes.*
+*Fifteen. She looks so pretty when she blushes.*
 
 "Do you think they like you back?"
 
@@ -134,7 +136,7 @@ I nod. "Okay!"
 
 "I'm pretty sure we like each other, just need to get it out there."
 
-*Eight. It's me. right?*
+*Eight. It's me. Right?*
 
 "How can you confirm this?"
 
@@ -164,7 +166,7 @@ I nod. "Okay!"
 
 "No."
 
-*Three. Ah yeah!*
+*Three. Ah, yeah!*
 
 "Is it Rainbow Dash?"
 
@@ -182,20 +184,20 @@ I nod. "Okay!"
 
 Twilight finishes writer her note and gives it to me.
 
-I read it to aloud.
+I read it aloud.
 
 > Dear Pinkie,
 >
-> I've thought of many ways to tell you this, and still settled on a love letter. I like you, a lot. I've never felt this way about another pony. Oh, you just showed up and now I'm pretending to write something inconspicuous. You ask a lot of questions, it's one of the things I love about you. So curious, always wondering. Oh, did I just say I love you? Well, I do. I love you.
+> I've thought of many ways to tell you this, and still settled on a love letter. I like you, a lot. I've never felt this way about another pony. Oh, you just showed up, and now I'm pretending to write something inconspicuous. You ask a lot of questions, it's one of the things I love about you. So curious, always wondering. Oh, did I just say I love you? Well, I do. I love you.
 >
-> You're acting different, differently than normal. Are you hiding something? You have been acting strange around me. I guess I've been acting strange too. I'm sorry for that, I just don't know what these feelings mean. Maybe you could help me figure it out?
+> You're acting different, differently than normal. Are you hiding something? You have been acting strange around me. I guess I've been acting strange too. I apologize for that, I just don't know what these feelings mean. Maybe you could help me figure it out?
 >
 > And Pinkie, if the last two paragraphs didn't make it clear enough, it's you. Will you go out with me?
 >
 > Love,
 > Twilight.
 >
-> P.S. - A kiss would be nice.
+> P.S. a kiss would be nice.
 
 My eyes are full of joyous tears as I set the note down.
 
