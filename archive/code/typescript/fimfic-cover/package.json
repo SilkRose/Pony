@@ -1,0 +1,32 @@
+{
+  "name": "fimiction-cover",
+  "version": "0.0.1",
+  "description": "Automatic story cover updater for FIMFiction.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SilkRose/Pony.git"
+  },
+  "contributors": [
+    "Silk Rose",
+    "Meadowsys"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilkRose/Pony/issues"
+  },
+  "homepage": "https://github.com/SilkRose/Pony#readme",
+  "dependencies": {
+    "puppeteer": "^22.5.0",
+	 "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@total-typescript/ts-reset": "^0.5.1",
+    "@types/node": "^20.11.29",
+    "typescript": "^5.4.2"
+  }
+}
