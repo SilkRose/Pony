@@ -3,6 +3,7 @@ use reqwest::header::{HeaderMap, HeaderValue, AUTHORIZATION, CONTENT_TYPE};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::{json, Value};
+use std::collections::HashMap;
 use std::env;
 use std::fs;
 use std::time::Duration;
@@ -23,7 +24,8 @@ struct Event {
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	// ./fimfic-april-fools json-file-path api-token
-	// planeed: ./fimfic-april-fools story-id api-token json-file-path fimfic-cover-mane.js
+	//           0                   1        2 (local time?)      3         4                     5                    6
+	// planeed: ./fimfic-april-fools story-id start-unix-timestamp api-token events-json-file-path fimfic-cover-mane.js fimfic-cookie-json
 	let events: Vec<Event> =
 		serde_json::from_str(&fs::read_to_string(&env::args().collect::<Vec<_>>()[1]).unwrap())
 			.unwrap();
@@ -71,8 +73,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				let story_json = story_json(
 					story_id,
 					&Some(title.clone()),
-					&event.description,
 					&event.short_description,
+					&event.description,
 					&event.completion_status,
 				);
 				println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
@@ -105,6 +107,7 @@ async fn send_api_request(
 		.send()
 		.await?;
 	if !api_response.status().is_success() {
+		println!("{:?}", api_response.text().await);
 		if recursion_level > 4 {
 			eprintln!("Failed to send API request five times!\n{url}\n{body}");
 			return Ok(());
@@ -127,23 +130,27 @@ fn chapter_json(id: u32) -> Value {
 }
 
 fn story_json(
-	id: u32, title: &Option<String>, description: &Option<String>,
-	short_description: &Option<String>, completion_status: &Option<String>,
+	id: u32, title: &Option<String>, short_description: &Option<String>,
+	description: &Option<String>, completion_status: &Option<String>,
 ) -> String {
-	let mut json = format!("{{\"data\":{{\"id\":{},\"attributes\":{{", id);
+	let mut attributes = HashMap::new();
 	if let Some(name) = title {
-		json.push_str(&format!("\"title\":\"{name}\","));
+		attributes.insert("title", name);
+	}
+	if let Some(short_desc) = short_description {
+		attributes.insert("short_description", short_desc);
 	}
 	if let Some(desc) = description {
-		json.push_str(&format!("\"description\":\"{desc}\","));
-	}
-	if let Some(desc) = short_description {
-		json.push_str(&format!("\"short_description\":\"{desc}\","));
+		attributes.insert("description", desc);
 	}
 	if let Some(status) = completion_status {
-		json.push_str(&format!("\"completion_status\":\"{status}\","));
+		attributes.insert("completion_status", status);
 	}
-	json = json.trim_end_matches(',').to_string();
-	json.push_str("}}}");
-	json
+	let json = json!({
+		"data": {
+			"id": id,
+			"attributes": serde_json::to_value(attributes).unwrap()
+		}
+	});
+	serde_json::to_string(&json).unwrap()
 }
