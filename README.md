@@ -65,6 +65,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Rainbow Infinity Readings]** | [Pony Pillows] | [YouTube][Pony Pillows reading] |
 | **[Pony&Wolf Productions]** | [The Pink Tax] | [YouTube][The Pink Tax reading two] |
 | **[Pony&Wolf Productions]** | [Pony Pillows] | [YouTube][Pony Pillows reading two] |
+| **[Lotus Moon]** | [Love Licks] | [YouTube][Love Licks reading] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -143,6 +144,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
 [Rainbow Infinity Readings]: https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube"
 [Pony&Wolf Productions]: https://www.youtube.com/@PonyWolfProductions "Youtube"
+[Lotus Moon]: https://www.youtube.com/@LotusMoon "YouTube"
 
 [Pretty and Pink reading]: https://www.youtube.com/watch?v=haVP8dKX_Mg "YouTube"
 [The Pink Tax reading one]: https://www.youtube.com/watch?v=6DTLq1e9NXk "YouTube"
@@ -150,6 +152,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pony Pillows reading]: https://www.youtube.com/watch?v=O7dc4uZj3xY "YouTube"
 [The Pink Tax reading two]: https://www.youtube.com/watch?v=Nouf1_Sbysc "YouTube"
 [Pony Pillows reading two]: https://www.youtube.com/watch?v=HAcBB6HbQ7k "YouTube"
+[Love Licks reading]: https://www.youtube.com/watch?v=hP5idtWADfk "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
@@ -162,5 +165,6 @@ While I may be the main contributor to this repository, I have had help, and thu
 [The Pink Tax]: https://www.fimfiction.net/story/539422/the-pink-tax "FIMFiction"
 [The Heist of My Heart]: https://www.fimfiction.net/story/538410/the-heist-of-my-heart "FIMFiction"
 [Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "FIMFiction"
+[Love Licks]: https://www.fimfiction.net/story/540399/love-licks "FIMFiction"
 
 [banner]: ./archive/promotions/banner-01/banner-01-1-small-transparent.png
