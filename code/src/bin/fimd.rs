@@ -6,6 +6,7 @@ use markdown::mdast::{
 use markdown::{to_mdast, ParseOptions};
 use pony::fs::find_files_in_dir;
 use pony::stderr::{print_error, ErrColor};
+use rayon::prelude::*;
 use regex::Regex;
 use std::collections::HashMap;
 use std::fs;
@@ -26,7 +27,7 @@ fn main() {
 		Regex::new(r"ideas.md$|names.md$|README.md$").unwrap(),
 	]);
 	find_files_in_dir("../", true, &includes, &excludes)
-		.iter()
+		.par_iter()
 		.for_each(|input| {
 			let md = fs::read_to_string(input).unwrap();
 			let bbcode = parse(md);
