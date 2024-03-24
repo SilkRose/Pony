@@ -74,8 +74,8 @@ A few of my stories have had translations made for them, I would like to thank t
 | Translator | Language | Original Story | Translated Story |
 | :---: | :---: | :---: | :---: |
 | **[volkov]** | Ukrainian | [The Heist of My Heart] | [Грабунок мого серця][The Heist of My Heart Ukrainian] |
-| **[Nova Twinkle]** | Chinese | [Pony Pillows] | [小马枕头][Pony Pillows Chinese] |
-| **[keezwus]** | Chinese | [The Pink Tax] | [粉红税][The Pink Tax Chinese]
+| **[Nova Twinkle]** | Simplified Chinese | [Pony Pillows] | [小马枕头][Pony Pillows Chinese] |
+| **[keezwus]** | Simplified Chinese | [The Pink Tax] | [粉红税][The Pink Tax Chinese]
 
 ## License:
 My words, both fiction and code, are licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license]. All images are owned by their respective creators and are not subject to this license.
