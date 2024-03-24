@@ -85,20 +85,23 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 ## Special Thanks:
 While I may be the main contributor to this repository, I have had help, and thus I would like to give a special thanks to the following ponies:
 
-- **[Meadowsys]** for creating [fimd] and general coding help.
-- **[6-D Pegasus]** for proofreading, pre-reading and collaborative writing.
-- **[Forcalor]** for proofreading and pre-reading.
+- **[Meadowsys]** for creating [fimd], general coding help, and cover feedback.
+- **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, and cover feedback.
+- **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
+- **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
-- **[irradiatedpiratebooty]** for illustrating covers.
-- **Tiki Bat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
+- **[IrradiatedPirateBooty]** for illustrating covers.
+- **TikiBat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
 - **Cookieteer** for proofreading and pre-reading.
-- **[Steady Gaze]** for proofreading and making a cover.
-- **[Gapty]** for proofreading.
-- **[Hyper Star]** for proofreading.
-- **[PseudoBob Delightus]** for pre-reading.
+- **[Steady Gaze]** for proofreading and making the cover for Timeless Tears.
+- **[gapty]** for proofreading.
+- **[Hyper Star]** for proofreading and pre-reading.
+- **[Scriblits Talo]** for pre-reading.
 - **[MoonSong Darkstone]** for writing The Saddest Rainbow.
-- **[Nebbie]** for cover feedback, and collaborative writing.
+- **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
 - **EDEN** for collaborative writing.
+- **[Mockingbirb]** for proofreading.
+- **[MorganaTheNotCat]** for pre-reading.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
@@ -135,12 +138,15 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Tiki Bat FIMFiction]: https://www.fimfiction.net/user/218083/Tiki+Bat "FIMFiction"
 [Tiki Bat Twitter]: https://twitter.com/TikiBat "Twitter"
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "FIMFiction"
-[Gapty]: https://www.fimfiction.net/user/493938/gapty "FIMFiction"
+[gapty]: https://www.fimfiction.net/user/493938/gapty "FIMFiction"
 [Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "FIMFiction"
 [PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "FIMFiction"
 [MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "FIMFiction"
 [Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "FIMFiction"
 [Midori-no-ink]: https://www.deviantart.com/midori-no-ink "DeviantArt"
+[Mockingbirb]: https://www.fimfiction.net/user/382692/Mockingbirb "FIMFiction"
+[Scriblits Talo]: https://www.fimfiction.net/user/495925/Scriblits+Talo/stories "FIMFiction"
+[MorganaTheNotCat]: https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
