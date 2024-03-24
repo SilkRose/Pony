@@ -75,6 +75,7 @@ A few of my stories have had translations made for them, I would like to thank t
 | :---: | :---: | :---: | :---: |
 | **[volkov]** | Ukrainian | [The Heist of My Heart] | [Грабунок мого серця][The Heist of My Heart Ukrainian] |
 | **[Nova Twinkle]** | Chinese | [Pony Pillows] | [小马枕头][Pony Pillows Chinese] |
+| **[keezwus]** | Chinese | [The Pink Tax] | [粉红税][The Pink Tax Chinese]
 
 ## License:
 My words, both fiction and code, are licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license]. All images are owned by their respective creators and are not subject to this license.
@@ -158,9 +159,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
+[keezwus]: https://fimtale.com/u/keezwus "FimTale"
 
 [The Heist of My Heart Ukrainian]: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr "GitHub"
 [Pony Pillows Chinese]: https://fimtale.com/t/57065 "FimTale"
+[The Pink Tax Chinese]: https://fimtale.com/t/54575 "FimTale"
 
 [Pony Pillows]: https://www.fimfiction.net/story/541813/pony-pillows "FIMFiction"
 [Best of Seventy-One]: https://www.fimfiction.net/story/540748/best-of-seventy-one "FIMFiction"
