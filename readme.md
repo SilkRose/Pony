@@ -2,11 +2,11 @@
 ![banner]
 
 <p align="center">
-	<a href="https://github.com/SilkRose/Pony#statistics" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF" alt="Words"></a>
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.words&style=flat-square&label=Words&labelColor=%23A46BBD&color=%23CC9CDF" alt="Words">
 	&nbsp;
 	<a href="https://github.com/SilkRose/Pony/tree/mane/stories" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.stories&style=flat-square&label=Stories&labelColor=%23E9D461&color=%23FAF5AB" alt="Stories"></a>
 	&nbsp;
-	<a href="https://github.com/SilkRose/Pony#statistics" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0" alt="Covers"></a>
+	<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.covers&style=flat-square&label=Covers&labelColor=%23BDC1C2&color=%23EAEEF0" alt="Covers">
 	&nbsp;
 	<a href="https://github.com/SilkRose/Pony/blob/mane/stories/ideas.md" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=%24.ideas&style=flat-square&label=Ideas&labelColor=%23E880B0&color=%23F5B7D0" alt="Ideas"></a>
 	&nbsp;
@@ -82,7 +82,7 @@ All my writing: stories, ideas, names, outlines, and anything related to it in t
 
 All pixel-art pony sprites and props created by [Langtanium], and all code within this repository is licensed under the MIT License, which can be read [here][license-mit].
 
-All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal for everything else in the images.
+All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal License for everything else in the images.
 
 All cover images done by [IrradiatedPirateBooty] and [TikiBat][Tiki Bat FIMFiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
 
