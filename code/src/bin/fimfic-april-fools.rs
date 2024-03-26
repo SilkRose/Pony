@@ -7,10 +7,9 @@ use std::collections::HashMap;
 use std::env;
 use std::fs;
 use std::time::Duration;
-use wiwi::clock_timer_2::chrono::Local;
 use wiwi::prelude::*;
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 struct Event {
 	release_hour: u32,
 	release_minute: u32,
@@ -21,18 +20,57 @@ struct Event {
 	completion_status: Option<String>,
 }
 
+#[derive(Serialize, Deserialize, Debug, Clone)]
+struct Arguments {
+	story_id: u32,
+	start_time: i64,
+	duration_hours: i64,
+	interval_minutes: i64,
+	extended_duration_hours: i64,
+	extended_interval_minutes: i64,
+	api_token: String,
+	events: Vec<Event>,
+	covers_dir: String,
+	cover_mane_js: String,
+	fimfic_cookie_json: String,
+}
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	// ./fimfic-april-fools json-file-path api-token
-	//           0                   1        2 (local time?)      3         4                     5                    6
-	// planeed: ./fimfic-april-fools story-id start-unix-timestamp api-token events-json-file-path fimfic-cover-mane.js fimfic-cookie-json
-	let events: Vec<Event> =
-		serde_json::from_str(&fs::read_to_string(&env::args().collect::<Vec<_>>()[1]).unwrap())
-			.unwrap();
-	let token = &env::args().collect::<Vec<_>>()[2];
 
-	let story_id = 552650;
-	let stories_domain = "https://www.fimfiction.net/api/v2/stories";
+	// 0  - ./fimfic-april-fools
+	// 1  - story-id
+	// 2  - start-unix-timestamp
+	// 3  - duration in hours
+	// 4  - interval in minutes
+	// 5  - extended duration in hours
+	// 6  - extended interval in minutes
+	// 7  - api-token
+	// 8  - events-file-path.json
+	// 9  - covers-dir/
+	// 10 - fimfic-cover-mane.js
+	// 11 - fimfic-cookie.json
+
+	let args = env::args().collect::<Vec<_>>();
+	let args = Arguments {
+		story_id: args[1].parse()?,
+		start_time: args[2].parse()?,
+		duration_hours: args[3].parse()?,
+		interval_minutes: args[4].parse()?,
+		extended_duration_hours: args[5].parse()?,
+		extended_interval_minutes: args[6].parse()?,
+		api_token: args[7].clone(),
+		events: serde_json::from_str(&fs::read_to_string(&args[8])?)?,
+		covers_dir: args[9].clone(),
+		cover_mane_js: args[10].clone(),
+		fimfic_cookie_json: args[11].clone(),
+	};
+
+	let stories_url = format!(
+		"https://www.fimfiction.net/api/v2/stories/{}",
+		args.story_id
+	);
 	let chapters_domain = "https://www.fimfiction.net/api/v2/chapters";
 
 	let client = Client::new();
@@ -40,65 +78,104 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let mut headers = HeaderMap::new();
 	headers.insert(
 		AUTHORIZATION,
-		HeaderValue::from_str(&format!("Bearer {}", token))?,
+		HeaderValue::from_str(&format!("Bearer {}", args.api_token))?,
 	);
 	headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
 
-	let stories_url = format!("{stories_domain}/{story_id}");
-
 	let mut timer = ClockTimer::builder()
-		.with_start_datetime(Local::now())
-		.with_duration(TimeDelta::try_hours(1).unwrap())
-		.with_interval(TimeDelta::try_minutes(1).unwrap())
+		.with_start_datetime(DateTime::from_timestamp(args.start_time, 0).unwrap())
+		.with_duration(TimeDelta::try_hours(args.duration_hours).unwrap())
+		.with_interval(TimeDelta::try_minutes(args.interval_minutes).unwrap())
 		.build();
 
 	while let Some(tick) = timer.tick().await {
-		let elapsed = tick.elapsed();
-		let remaining = tick.remaining();
-		let title = format!(
-			"This Story will Explode in {}:{:0>2}!",
-			remaining.num_hours(),
-			(remaining.num_minutes() - (remaining.num_hours() * 60))
-		);
-		let events = events
-			.iter()
-			.filter(|event| {
-				event.release_hour == elapsed.num_hours() as u32
-					&& event.release_minute
-						== (elapsed.num_minutes() - (elapsed.num_hours() * 60)) as u32
-			})
-			.collect::<Vec<_>>();
-		if !events.is_empty() {
-			for event in events {
-				let story_json = story_json(
-					story_id,
-					&Some(title.clone()),
-					&event.short_description,
-					&event.description,
-					&event.completion_status,
-				);
-				println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
-				let _ = send_api_request(&client, &headers, &stories_url, story_json, 0).await;
-				if event.chapter_id.is_some() {
-					let chapters_url = format!("{chapters_domain}/{}", event.chapter_id.unwrap());
-					let chapter_json = chapter_json(event.chapter_id.unwrap()).to_string();
-					let _ =
-						send_api_request(&client, &headers, &chapters_url, chapter_json, 0).await;
-				}
-			}
-		} else {
-			let story_json = story_json(story_id, &Some(title), &None, &None, &None);
-			println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
-			let _ = send_api_request(&client, &headers, &stories_url, story_json, 0).await;
-		}
+		handle_events(
+			args.clone(),
+			true,
+			&stories_url,
+			chapters_domain,
+			client.clone(),
+			headers.clone(),
+			tick,
+		)
+		.await;
+	}
+
+	timer = ClockTimer::builder()
+		.with_start_datetime(DateTime::from_timestamp(args.start_time, 0).unwrap())
+		.with_duration(TimeDelta::try_hours(args.extended_duration_hours).unwrap())
+		.with_interval(TimeDelta::try_minutes(args.extended_interval_minutes).unwrap())
+		.build();
+
+	while let Some(tick) = timer.tick().await {
+		handle_events(
+			args.clone(),
+			false,
+			&stories_url,
+			chapters_domain,
+			client.clone(),
+			headers.clone(),
+			tick,
+		)
+		.await;
 	}
 
 	Ok(())
 }
 
+async fn handle_events(
+	args: Arguments, countdown: bool, stories_url: &str, chapters_domain: &str, client: Client,
+	headers: HeaderMap, tick: Tick,
+) {
+	let elapsed = tick.elapsed();
+	let remaining = tick.remaining();
+	let title = match countdown {
+		true => Some(format!(
+			"This Story will Explode in {}:{:0>2}!",
+			remaining.num_hours(),
+			(remaining.num_minutes() - (remaining.num_hours() * 60))
+		)),
+		false => None,
+	};
+	let events = args
+		.events
+		.iter()
+		.filter(|event| {
+			event.release_hour == elapsed.num_hours() as u32
+				&& event.release_minute
+					== (elapsed.num_minutes() - (elapsed.num_hours() * 60)) as u32
+		})
+		.collect::<Vec<_>>();
+	if !events.is_empty() {
+		for event in events {
+			let story_json = story_json(
+				args.story_id,
+				&title,
+				&event.short_description,
+				&event.description,
+				&event.completion_status,
+			);
+			println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
+			let _ = send_api_request(&client, &headers, stories_url, story_json, 0).await;
+			if event.chapter_id.is_some() {
+				let chapters_url = format!("{chapters_domain}/{}", event.chapter_id.unwrap());
+				let chapter_json = chapter_json(event.chapter_id.unwrap()).to_string();
+				let _ = send_api_request(&client, &headers, &chapters_url, chapter_json, 0).await;
+			}
+		}
+	} else {
+		if title.is_none() {
+			return;
+		}
+		let story_json = story_json(args.story_id, &title, &None, &None, &None);
+		println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
+		let _ = send_api_request(&client, &headers, stories_url, story_json, 0).await;
+	}
+}
+
 #[async_recursion]
 async fn send_api_request(
-	client: &Client, headers: &HeaderMap, url: &String, body: String, recursion_level: u32,
+	client: &Client, headers: &HeaderMap, url: &str, body: String, recursion_level: u32,
 ) -> Result<(), Box<dyn std::error::Error>> {
 	let api_response = client
 		.patch(url)
