@@ -43,7 +43,6 @@ This file contains random story names that don't have enough thought to have the
 - Twilight Sparkle stares out a Window
 - Rarity and the Blue Bird
 - Fluttershy Finds Feelings
-- Blue and Blushing
 - The Thousand-Word Stare
 - Peace with Plants
 - Kiss Initials
