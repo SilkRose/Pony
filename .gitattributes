@@ -8,6 +8,7 @@ archive/** linguist-vendored
 *-meta.md linguist-vendored
 
 # Tell GitHub Linguist to ignore the readme, ideas, and names files
+license.md linguist-vendored
 readme.md linguist-vendored
 stories/ideas.md linguist-vendored
 stories/names.md linguist-vendored
