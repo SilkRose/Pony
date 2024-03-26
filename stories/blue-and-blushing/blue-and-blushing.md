@@ -97,10 +97,10 @@ As the lights dim around us and the melodies start, I can feel the song coming o
 "Oh, Rarity," – I point at her – "why are you so blue?"  
 "Don't you know," – I hold her close as I sit beside her – "I'm here for you"  
 "To pamper you," – I brush her chest with the brush – "yes, it's true"  
-"Need to see your smile." I hold my hoovers under her chin.  
-"make it last a while." I lift her chin, getting dangerously close to kissing her.
+"Need to see your smile." I hold my hooves under her chin.  
+"Make it last a while." I lift her chin, getting dangerously close to kissing her.
 
-Rarity took over singing for the next verse.
+Rarity takes over singing for the next verse.
 
 ""  
 ""  
@@ -113,8 +113,8 @@ We sing the last verse in unison.
 "Oh, (Rarity | Rainbow)," – We point at each other – "here to give my love, never ending"  
 "Always be here for you," – We hug – "best friends, always trending"  
 "My heart needed you," – We hold each other's hoof to our chest – "wanted mending"  
-"Need to hold your hoof, everyway." We hold hooves and blush.  
-"Need to make you blush, everyday." We finish the song with a tight loving embrace.
+"Need to hold your hoof, every way." We hold hooves and blush.  
+"Need to make you blush, every day." We finish the song with a tight, loving embrace.
 
 
 
