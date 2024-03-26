@@ -92,6 +92,32 @@ Rarity, I hope you know how cute you are, because if you don't, I will have to i
 
 
 
+As the lights dim around us and the melodies start, I can feel the song coming on.
+
+"Oh, Rarity," – I point at her – "why are you so blue?"  
+"Don't you know," – I hold her close as I sit beside her – "I'm here for you"  
+"To pamper you," – I brush her chest with the brush – "yes, it's true"  
+"Need to see your smile." I hold my hoovers under her chin.  
+"make it last a while." I lift her chin, getting dangerously close to kissing her.
+
+Rarity took over singing for the next verse.
+
+""  
+""  
+""  
+""  
+""
+
+We sing the last verse in unison.
+
+"Oh, (Rarity | Rainbow)," – We point at each other – "here to give my love, never ending"  
+"Always be here for you," – We hug – "best friends, always trending"  
+"My heart needed you," – We hold each other's hoof to our chest – "wanted mending"  
+"Need to hold your hoof, everyway." We hold hooves and blush.  
+"Need to make you blush, everyday." We finish the song with a tight loving embrace.
+
+
+
 I put my right hind leg in between Rarity's back legs, pressing against her left hind leg. I swish my tail and wrap it around her tail. Leaning my body down, I lay over top Rarity's back, wrapping my left foreleg around her neck, while resting my right on the floor.
 
 I pull us close together as we stare together in the mirror. We hold the pose as both of us smile wide, genuine smiles at our reflection. Neither of us caring about the massive blushes on our faces.
