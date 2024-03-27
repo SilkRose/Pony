@@ -102,11 +102,11 @@ As the lights dim around us and the melodies start, I can feel the song coming o
 
 Rarity takes over singing for the next verse.
 
-""  
-""  
-""  
-""  
-""
+"Oh, Rainbow," – She points at me – "it's true, you are my crush."  
+"You showed me love," – She holds her head to my chest – "you took my brush."  
+"Gave me attention," – She nuzzles my cheek – "you made me blush."  
+"You put me in a state of bliss." She holds my chin with her hooves.  
+"Its you, who I want to kiss." She lifts my chin, bringing our lips together, kissing.
 
 We sing the last verse in unison.
 
