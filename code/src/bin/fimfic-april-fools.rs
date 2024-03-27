@@ -7,6 +7,7 @@ use std::collections::HashMap;
 use std::env;
 use std::fs;
 use std::time::Duration;
+use tokio::process::Command;
 use wiwi::prelude::*;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -14,6 +15,7 @@ struct Event {
 	release_hour: u32,
 	release_minute: u32,
 	title: Option<String>,
+	cover: Option<String>,
 	chapter_id: Option<u32>,
 	description: Option<String>,
 	short_description: Option<String>,
@@ -26,59 +28,44 @@ struct Arguments {
 	start_time: i64,
 	duration_hours: i64,
 	interval_minutes: i64,
-	extended_duration_hours: i64,
-	extended_interval_minutes: i64,
-	api_token: String,
-	events: Vec<Event>,
+	countdown_duration_hours: i64,
 	covers_dir: String,
 	cover_mane_js: String,
 	fimfic_cookie_json: String,
 }
 
+#[derive(Serialize, Deserialize, Debug, Clone)]
+struct Urls {
+	story: String,
+	chapter: String,
+}
+
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-	// ./fimfic-april-fools json-file-path api-token
+	// 0 - ./fimfic-april-fools
+	// 1 - api-token
+	// 2 - arguments.json
+	// 3 - events.json
 
-	// 0  - ./fimfic-april-fools
-	// 1  - story-id
-	// 2  - start-unix-timestamp
-	// 3  - duration in hours
-	// 4  - interval in minutes
-	// 5  - extended duration in hours
-	// 6  - extended interval in minutes
-	// 7  - api-token
-	// 8  - events-file-path.json
-	// 9  - covers-dir/
-	// 10 - fimfic-cover-mane.js
-	// 11 - fimfic-cookie.json
+	let arguments = env::args().collect::<Vec<_>>();
+	let api_token = arguments[1].clone();
+	let args: Arguments = serde_json::from_str(&fs::read_to_string(&arguments[2])?)?;
+	let events: Vec<Event> = serde_json::from_str(&fs::read_to_string(&arguments[3])?)?;
 
-	let args = env::args().collect::<Vec<_>>();
-	let args = Arguments {
-		story_id: args[1].parse()?,
-		start_time: args[2].parse()?,
-		duration_hours: args[3].parse()?,
-		interval_minutes: args[4].parse()?,
-		extended_duration_hours: args[5].parse()?,
-		extended_interval_minutes: args[6].parse()?,
-		api_token: args[7].clone(),
-		events: serde_json::from_str(&fs::read_to_string(&args[8])?)?,
-		covers_dir: args[9].clone(),
-		cover_mane_js: args[10].clone(),
-		fimfic_cookie_json: args[11].clone(),
+	let urls = Urls {
+		story: format!(
+			"https://www.fimfiction.net/api/v2/stories/{}",
+			args.story_id
+		),
+		chapter: "https://www.fimfiction.net/api/v2/chapters".to_string(),
 	};
-
-	let stories_url = format!(
-		"https://www.fimfiction.net/api/v2/stories/{}",
-		args.story_id
-	);
-	let chapters_domain = "https://www.fimfiction.net/api/v2/chapters";
 
 	let client = Client::new();
 
 	let mut headers = HeaderMap::new();
 	headers.insert(
 		AUTHORIZATION,
-		HeaderValue::from_str(&format!("Bearer {}", args.api_token))?,
+		HeaderValue::from_str(&format!("Bearer {}", api_token))?,
 	);
 	headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
 
@@ -89,30 +76,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		.build();
 
 	while let Some(tick) = timer.tick().await {
+		let countdown =
+			tick.elapsed().num_minutes() as f64 / 60.0 < args.countdown_duration_hours as f64;
 		handle_events(
 			args.clone(),
-			true,
-			&stories_url,
-			chapters_domain,
-			client.clone(),
-			headers.clone(),
-			tick,
-		)
-		.await;
-	}
-
-	timer = ClockTimer::builder()
-		.with_start_datetime(DateTime::from_timestamp(args.start_time, 0).unwrap())
-		.with_duration(TimeDelta::try_hours(args.extended_duration_hours).unwrap())
-		.with_interval(TimeDelta::try_minutes(args.extended_interval_minutes).unwrap())
-		.build();
-
-	while let Some(tick) = timer.tick().await {
-		handle_events(
-			args.clone(),
-			false,
-			&stories_url,
-			chapters_domain,
+			events.clone(),
+			countdown,
+			urls.clone(),
 			client.clone(),
 			headers.clone(),
 			tick,
@@ -124,21 +94,21 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 
 async fn handle_events(
-	args: Arguments, countdown: bool, stories_url: &str, chapters_domain: &str, client: Client,
+	args: Arguments, events: Vec<Event>, countdown: bool, urls: Urls, client: Client,
 	headers: HeaderMap, tick: Tick,
 ) {
 	let elapsed = tick.elapsed();
 	let remaining = tick.remaining();
+	let remaining_hours = args.countdown_duration_hours - elapsed.num_hours();
 	let title = match countdown {
 		true => Some(format!(
 			"This Story will Explode in {}:{:0>2}!",
-			remaining.num_hours(),
-			(remaining.num_minutes() - (remaining.num_hours() * 60))
+			remaining_hours,
+			remaining.num_minutes() - (remaining_hours * 60)
 		)),
 		false => None,
 	};
-	let events = args
-		.events
+	let events = events
 		.iter()
 		.filter(|event| {
 			event.release_hour == elapsed.num_hours() as u32
@@ -156,11 +126,21 @@ async fn handle_events(
 				&event.completion_status,
 			);
 			println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
-			let _ = send_api_request(&client, &headers, stories_url, story_json, 0).await;
+			let _ = send_api_request(&client, &headers, &urls.story, story_json, 0).await;
 			if event.chapter_id.is_some() {
-				let chapters_url = format!("{chapters_domain}/{}", event.chapter_id.unwrap());
+				let chapters_url = format!("{}/{}", urls.chapter, event.chapter_id.unwrap());
 				let chapter_json = chapter_json(event.chapter_id.unwrap()).to_string();
 				let _ = send_api_request(&client, &headers, &chapters_url, chapter_json, 0).await;
+			}
+			if event.cover.is_some() {
+				let cover = format!("{}{}", args.covers_dir, event.cover.as_ref().unwrap());
+				let command = format!("node {} {} {}", cover, args.story_id, args.fimfic_cookie_json);
+
+				#[cfg(target_os = "windows")]
+				execute_windows_command_with_fail_msg(&command).await;
+
+				#[cfg(not(target_os = "windows"))]
+				execute_unix_command_with_fail_msg(&command).await;
 			}
 		}
 	} else {
@@ -169,7 +149,7 @@ async fn handle_events(
 		}
 		let story_json = story_json(args.story_id, &title, &None, &None, &None);
 		println!("{}", serde_json::to_string_pretty(&story_json).unwrap());
-		let _ = send_api_request(&client, &headers, stories_url, story_json, 0).await;
+		let _ = send_api_request(&client, &headers, &urls.story, story_json, 0).await;
 	}
 }
 
@@ -230,4 +210,29 @@ fn story_json(
 		}
 	});
 	serde_json::to_string(&json).unwrap()
+}
+
+async fn execute_windows_command_with_fail_msg(cmd: &str) {
+	let output = Command::new("cmd")
+		.args(["/C", cmd])
+		.output()
+		.await
+		.unwrap();
+
+	if !output.status.success() {
+		println!("Failed to execute command: {cmd}")
+	}
+}
+
+async fn execute_unix_command_with_fail_msg(cmd: &str) {
+	let output = Command::new("sh")
+		.arg("-c")
+		.arg(cmd)
+		.output()
+		.await
+		.unwrap();
+
+	if !output.status.success() {
+		println!("Failed to execute command: {cmd}")
+	}
 }
