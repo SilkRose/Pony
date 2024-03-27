@@ -6,13 +6,13 @@ I materialize in Twilight's house, and sit down beside her.
 
 I ask, "Hey, Twilight, what are you up to?"
 
-Twilight pushes her notes to the side. "Not much, just writing some notes. What are you doing, Pinkie?"
+Twilight pushes her parchment to the side. "Not much, just writing a letter. What are you doing, Pinkie?"
 
 *Twenty-nine. Plotting our first kiss, hopefully.*
 
 I smile. "Oh, I'm just checking in on my bestest friend."
 
-Twilight continues writing her notes out of my view. "That's very nice of you, is there anything you needed?"
+Twilight continues writing her letter out of my view. "That's very nice of you, is there anything you needed?"
 
 *Twenty-eight. A kiss would be nice.*
 
@@ -60,9 +60,9 @@ I blush. "Maybe…"
 
 *Twenty-one. You're good at being cute.*
 
-"What are you taking notes on?"
+"What are you writing a letter about?"
 
-Twilight blushes and moves her notes farther from my view. "Stuff and things."
+Twilight blushes and moves her letter farther from my view. "Stuff and things."
 
 *Twenty. Where'd that blush come from?*
 
@@ -104,7 +104,7 @@ Twilight's voice becomes melancholic, "I can't say yet, and yes, very well."
 
 "What's your idea?"
 
-"I can't say yet, just don't read my notes until I'm finished with them," Twilight says before she starts writing again.
+"I can't say yet, just don't read the letter until I'm finished writing it," Twilight says before she starts writing again.
 
 *Thirteen. She's going to share with me.*
 
@@ -128,7 +128,7 @@ I nod. "Okay!"
 
 "What if they don't like you?"
 
-"I think they do, but if they don't well have to talk about it."
+"I think they do, but if they don't we'll have to talk about it."
 
 *Nine. I like you.*
 
@@ -182,20 +182,24 @@ I nod. "Okay!"
 
 "Is it me?"
 
-Twilight finishes writer her note and gives it to me.
+Twilight finishes writing her letter and gives it to me.
 
 I read it aloud.
 
 > Dear Pinkie,
 >
-> I've thought of many ways to tell you this, and still settled on a love letter. I like you, a lot. I've never felt this way about another pony. Oh, you just showed up, and now I'm pretending to write something inconspicuous. You ask a lot of questions, it's one of the things I love about you. So curious, always wondering. Oh, did I just say I love you? Well, I do. I love you.
+> I've thought of many ways to tell you this, and still settled on a love letter. I like you, a lot. I've never felt this way about another pony. When you're around I feel different. Like I can't get enough of you. You make me feel all fuzzy inside in a way I can't explain (believe me, I've tried). I want to hold our hugs forev–
+>
+> Oh, you just showed up, and now I'm pretending to write something inconspicuous. You ask a lot of questions, it's one of the things I love about you. So curious, always wondering. Oh, did I just say I love you? Well, I do. I love you.
 >
 > You're acting different, differently than normal. Are you hiding something? You have been acting strange around me. I guess I've been acting strange too. I apologize for that, I just don't know what these feelings mean. Maybe you could help me figure it out?
 >
-> And Pinkie, if the last two paragraphs didn't make it clear enough, it's you. Will you go out with me?
+> I know you really want to read this letter, so I'll try to hurry. I didn't expect to fall in love with you, I just hope you've fallen for me too. And from the way you're acting, it seems like you have. Anyway, I hope you say yes.
+>
+> And Pinkie, if the last four paragraphs didn't make it clear enough, it's you. Will you go out with me?
 >
 > Love,
-> Twilight.
+> Twilight Sparkle.
 >
 > P.S. a kiss would be nice.
 
@@ -207,8 +211,24 @@ I wrap my hooves around her and kiss her passionately.
 
 She kisses back as we enjoy the moment, happy tears flowing from her eyes.
 
-"I love you."
+I say, "I love you."
 
-"I love you too."
+Twilight says, "I love you too."
 
-I kiss her again and we both blush.
+*Negative one. Yes, it continues.*
+
+"Twilight, you're the most prettiest mare ever."
+
+"Thank you, and I think you're the most beautiful-est mare ever."
+
+We share a giggle and hug.
+
+*Negative two. Okay, now it can end.*
+
+Twilight nuzzles me as the hug ends.
+
+I feel silly, asking, "Twilight, can I hold your hoof?"
+
+Twilight smiles at me and holds her hoof out. "Absolutely, Pinkie."
+
+I take it and smile.
