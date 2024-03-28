@@ -1,16 +1,14 @@
 # Blue and Blushing
 
-I look up at the title and see it tick down another minute. I knock on Rarity's door again, this time harder.
+I knock on Rarity's door again, this time harder.
 
-Come on, Rarity, we don't have all day.
+Come on, Rarity, I need to get these feelings off my chest.
 
-Rarity answers the door almost immediately after. She looked worse for ware, her mane has stray hairs and a hairbrush hanging from it. Her makeup was half-running down her face. Her coat looks like it could use a good brushing.
+Rarity answers the door almost immediately after. She looks worse for ware, her mane has stray hairs and a hairbrush hanging from it. Her makeup was half-running down her face, probably from crying. Her coat looks like it could use a good brushing.
 
 She probably doesn't think it, but even now, in this state, she is the most beautiful mare I've seen.
 
-"Hello, Rainbow Dash, what brings you here? Anything I can do for you?"
-
-I can hear it in her voice, she's been crying. I give her my best, most confident smile. "I'm here for you."
+She was about to say something, but I stop her with a hoof.
 
 Rarity looks at me confused, expecting further explanation, which I don't give her. I put my hoof around her and lead her into her home, closing the door behind us.
 
@@ -42,9 +40,9 @@ I continue brushing, moving to her cutie mark. I take extra care, going slowly o
 
 My efforts are rewarded when I hear an adorable muffled giggle come from Rarity. I steal a quick nuzzle on her cutie mark before continuing down to brush her legs.
 
-Whether this is our last day together or not, you deserve to feel as beautiful as I know you are.
+Whatever has caused you to feel like this, know that I am here for you. You deserve to feel as beautiful as I know you are.
 
-I finish brushing that leg and move onto the next. I wonder what she is thinking about. I know she's all I've been able to think about for a few hours now.
+I finish brushing that leg and move onto the next. I wonder what she is thinking about. I know she's all I've been able to think about for a while now…
 
 I hope she feels the same way about me. Otherwise, I'm going to feel like an idiot.
 
@@ -90,12 +88,24 @@ I brush more gently than even on her cutie mark. I can already hear stifled gigg
 
 Rarity, I hope you know how cute you are, because if you don't, I will have to inform you.
 
+  
 
+After I finish cleaning her hoof on the right foreleg, I gently kiss her leg right above her hoof.
+
+I take a step back and point at Rarity, then close my eyes, signaling for her to repeat after me. She does so, closing her eyes before I roll over a mirror and place it in front of her.
+
+I quietly fly onto the pedestal and sit next to her. I wrap my hoof around her neck, and my wing around her back, and pull us close.
+
+I close my eyes and plant a gentle kiss right onto the blush on Rarity's cheek.
+
+I open my eyes after a bit and notice Rarity has opened hers. She is just staring at us in the mirror, I join her and look as well.
+
+I tighten my wing around her as we stare together in the mirror. We sit together as both of us smile wide, genuine smiles at our reflection. Neither of us caring about the massive blushes on our faces.
 
 As the lights dim around us and the melodies start, I can feel the song coming on.
 
 "Oh, Rarity," – I point at her – "why are you so blue?"  
-"Don't you know," – I hold her close as I sit beside her – "I'm here for you"  
+"Don't you know," – I hold her close as we sit together – "I'm here for you"  
 "To pamper you," – I brush her chest with the brush – "yes, it's true"  
 "Need to see your smile." I hold my hooves under her chin.  
 "Make it last a while." I lift her chin, getting dangerously close to kissing her.
@@ -106,21 +116,38 @@ Rarity takes over singing for the next verse.
 "You showed me love," – She holds her head to my chest – "you took my brush."  
 "Gave me attention," – She nuzzles my cheek – "you made me blush."  
 "You put me in a state of bliss." She holds my chin with her hooves.  
-"Its you, who I want to kiss." She lifts my chin, bringing our lips together, kissing.
+"Its you, who I want to kiss." She lifts my chin, bringing our lips together, and we kiss.
 
 We sing the last verse in unison.
 
 "Oh, (Rarity | Rainbow)," – We point at each other – "here to give my love, never ending"  
 "Always be here for you," – We hug – "best friends, always trending"  
-"My heart needed you," – We hold each other's hoof to our chest – "wanted mending"  
+"My heart needs you," – We hold each other's hoof to our chest – "wants mending"  
 "Need to hold your hoof, every way." We hold hooves and blush.  
 "Need to make you blush, every day." We finish the song with a tight, loving embrace.
 
+After the song we sit on the pedestal, holding hooves while staring blissfully into each other's eyes.
 
+I can only think of two things at this moment, both repeating in my mind over and over: I love her, and I want to kiss her, again.
 
-I put my right hind leg in between Rarity's back legs, pressing against her left hind leg. I swish my tail and wrap it around her tail. Leaning my body down, I lay over top Rarity's back, wrapping my left foreleg around her neck, while resting my right on the floor.
+And, that's just what we do. We both lean in and press our lips together. We hold the kiss for what feels like forever and not long enough at the same time.
 
-I pull us close together as we stare together in the mirror. We hold the pose as both of us smile wide, genuine smiles at our reflection. Neither of us caring about the massive blushes on our faces.
+We wrap our hooves around each other and Rarity lids her eyes before closing them. I close mine in response and release all the passion I can into the kiss.
 
-I can't hold my feelings back anymore, I take the opportunity of our closeness and plant a gentle kiss right onto the blush on Rarity's cheek.
+I open my eyes after noticing myself crying tears of joy. Rarity still has hers closed, but I can see she's also crying.
 
+She opens her eyes and we break the kiss.
+
+I quickly steal a small kiss on her cheek before staring at her again.
+
+I am about to tell Rarity, I love you, but she stops me with a hoof.
+
+Now it's my turn to look confused.
+
+She just smiles and kisses my cheek before hugging me tightly.
+
+I smile in her embrace and hug back.
+
+I love you, Rarity.
+
+I'm happy that you love me, too.
