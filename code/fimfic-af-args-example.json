@@ -1,0 +1,10 @@
+{
+	"story_id": 123456,
+	"start_time": 1696969000,
+	"duration_hours": 25,
+	"interval_minutes": 1,
+	"countdown_duration_hours": 24,
+	"covers_dir": "/path/to/covers/",
+	"cover_mane_js": "/path/to/fimfic-cover/dist/mane.js",
+	"fimfic_cookie_json": "/path/to/cookies.json"
+}
