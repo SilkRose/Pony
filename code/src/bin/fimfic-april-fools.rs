@@ -76,8 +76,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		.build();
 
 	while let Some(tick) = timer.tick().await {
-		let countdown =
-			tick.elapsed().num_minutes() as f64 / 60.0 < args.countdown_duration_hours as f64;
+		let countdown = tick.remaining().num_minutes()
+			>= (args.duration_hours - args.countdown_duration_hours) * 60;
 		handle_events(
 			args.clone(),
 			events.clone(),
@@ -99,12 +99,20 @@ async fn handle_events(
 ) {
 	let elapsed = tick.elapsed();
 	let remaining = tick.remaining();
-	let remaining_hours = args.countdown_duration_hours - elapsed.num_hours();
+	let remaining_hours =
+		(remaining.num_minutes() / 60) - (args.duration_hours - args.countdown_duration_hours);
+	let remaining_minutes = match remaining.num_minutes() % 60 == 0 {
+		true => 0,
+		false => {
+			remaining.num_minutes()
+				- ((args.duration_hours - args.countdown_duration_hours) * 60)
+				- (remaining_hours * 60)
+		}
+	};
 	let title = match countdown {
 		true => Some(format!(
-			"This Story will Explode in {}:{:0>2}!",
-			remaining_hours,
-			remaining.num_minutes() - (remaining_hours * 60)
+			"This Story will Explode in {:0>2}:{:0>2}",
+			remaining_hours, remaining_minutes
 		)),
 		false => None,
 	};
@@ -120,7 +128,7 @@ async fn handle_events(
 		for event in events {
 			let story_json = story_json(
 				args.story_id,
-				&title,
+				&title.clone().or(event.title.clone()),
 				&event.short_description,
 				&event.description,
 				&event.completion_status,
@@ -134,7 +142,10 @@ async fn handle_events(
 			}
 			if event.cover.is_some() {
 				let cover = format!("{}{}", args.covers_dir, event.cover.as_ref().unwrap());
-				let command = format!("node {} {} {}", cover, args.story_id, args.fimfic_cookie_json);
+				let command = format!(
+					"node {} {} {} {}",
+					args.cover_mane_js, args.story_id, cover, args.fimfic_cookie_json
+				);
 
 				#[cfg(target_os = "windows")]
 				execute_windows_command_with_fail_msg(&command).await;
