@@ -76,7 +76,7 @@ I start to brush her chest as an idea comes to my mind. After brushing the main 
 
 As I do, I listen to her heartbeat. Its rhythmic beating at an accelerated rate, endearing and soothing.
 
-I get lost in the moment and forgot to keep brushing. I just stand there, holding my head to her chest.
+I get lost in the moment and forget to keep brushing. I just stand there, holding my head to her chest.
 
 Rarity takes notice, and wraps her hooves around me, holding me gently before nuzzling the top of my head.
 
@@ -88,17 +88,45 @@ I brush more gently than even on her cutie mark. I can already hear stifled gigg
 
 Rarity, I hope you know how cute you are, because if you don't, I will have to inform you.
 
-  
+I finish brushing her stomach before daring another nuzzle, on said stomach.
 
-After I finish cleaning her hoof on the right foreleg, I gently kiss her leg right above her hoof.
+I step back so I'm in front of her again. Looking at Rarity, I can see she's sporting a big smile and an adorable blush.
 
-I take a step back and point at Rarity, then close my eyes, signaling for her to repeat after me. She does so, closing her eyes before I roll over a mirror and place it in front of her.
+Rarity, you're beautiful.
+
+I force myself back to work. Don't want to stare at her too long, not yet at least.
+
+I pick up a cleaning cloth and start working on her hooves. I start with the hooves on her hind legs.
+
+She has to know by now that I have feelings for her? Right? I guess I could do something when I'm done to make it very clear.
+
+I move to the other hoof on her hind legs.
+
+I wonder what she will say when I'm done. Knowing Rarity, she will sing a song. I wouldn't complain though, she has such a beautiful singing voice. I might even join in.
+
+I finish the hoof I'm working on and move to her front left hoof.
+
+I want to hold her in my hooves, to tell her what she means to me, how much I love her. I want to kiss her, a lot. I want to pretend the entire world is just me and her, if only for a little while.
+
+I just hope she wants the same things as me.
+
+I move onto her last hoof, the front right.
+
+This is it, Rainbow Dash. This is the moment of truth, time to find out if she feels the same as me or not.
+
+I know she's been all adorable and blushing this whole time, but that's not confirmation, right?
+
+Let's do this.
+
+After I finish cleaning her last hoof, I gently kiss her leg right above her hoof. I hold the kiss for a few seconds, making sure she knows I did it.
+
+I take a step back and admire her beauty, before I point at Rarity, then close my eyes, signaling for her to repeat after me. She does so, closing her eyes before I roll over a mirror and place it in front of her.
 
 I quietly fly onto the pedestal and sit next to her. I wrap my hoof around her neck, and my wing around her back, and pull us close.
 
 I close my eyes and plant a gentle kiss right onto the blush on Rarity's cheek.
 
-I open my eyes after a bit and notice Rarity has opened hers. She is just staring at us in the mirror, I join her and look as well.
+I open my eyes after a bit and notice Rarity has opened hers. She is just staring at us in the mirror, I join her and look as well, leaning my head against her.
 
 I tighten my wing around her as we stare together in the mirror. We sit together as both of us smile wide, genuine smiles at our reflection. Neither of us caring about the massive blushes on our faces.
 
@@ -148,6 +176,4 @@ She just smiles and kisses my cheek before hugging me tightly.
 
 I smile in her embrace and hug back.
 
-I love you, Rarity.
-
-I'm happy that you love me, too.
+I love you, Rarity, and I'm happy that you love me, too.
