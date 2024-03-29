@@ -1,6 +1,7 @@
 {
 	"story_id": 123456,
 	"start_time": 1696969000,
+	"skip_past_events": true,
 	"duration_hours": 25,
 	"interval_minutes": 1,
 	"countdown_duration_hours": 24,

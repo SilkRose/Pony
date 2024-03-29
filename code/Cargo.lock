@@ -1514,9 +1514,9 @@ dependencies = [
 
 [[package]]
 name = "wiwi"
-version = "0.5.0"
+version = "0.5.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "205fa2c0c4080df71ef0a0c3d274d86c653ff90774d574673959d278a4696269"
+checksum = "d158c20b1e6e2884483d7024ded1c3f568bcadfe730855162add0c58c151b375"
 dependencies = [
  "cfg-if",
  "chrono",

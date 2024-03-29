@@ -26,6 +26,7 @@ struct Event {
 struct Arguments {
 	story_id: u32,
 	start_time: i64,
+	skip_past_events: bool,
 	duration_hours: i64,
 	interval_minutes: i64,
 	countdown_duration_hours: i64,
@@ -76,6 +77,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		.build();
 
 	while let Some(tick) = timer.tick().await {
+		if args.skip_past_events && tick.past_due() {
+			continue;
+		}
 		let countdown = tick.remaining().num_minutes()
 			>= (args.duration_hours - args.countdown_duration_hours) * 60;
 		handle_events(
