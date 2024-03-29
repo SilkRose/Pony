@@ -21,20 +21,20 @@ Pinkie Pie is roasted by her friends and family.
 ## Joke Ideas:
 
 ### Undecided:
-- You ever slept in the same bed as Pinkie, I did once. She started moving around a bunch, here I thought she was trying to cuddle. Turns out it was a Pinkie Sense and (insert something) fell on my head.
 - That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
 - 
 
 ### Twilight:
-- If Pinkie stopped eating cake, I think Equestria would lose fifty percent of its Gross Domestic Product sales overnight.
-- Pinkie Pie has either never drank coffee in her life, or drinks twelve cups a day, and I'm not sure which is more terrifying.
+- If Pinkie stopped eating cake, I think the price of sugar would drop fifty percent overnight.
+- Pinkie Pie has either never drank coffee in her life, or drinks twelve cups a day, and I'm not sure which is more concerning.
 - I don't think I've ever seen Pinkie sit still for more than five seconds. The first time I saw her asleep, I had to check for a pulse.
 - 
 
 ### Rarity:
-- Pinkie, darling, if your mane were any more unkempt, a bird would start building a nest in it. Oh wait, I think I see one now. Fluttershy, what is it saying?
+- Pinkie, darling, if your mane were any more unkempt, a bird would start building a nest in it. Oh wait, I think I see one now. Fluttershy, what is it saying? (Have a bird planted for the joke?)
 - I heard that her mane and tail taste like cotton candy, while I have never been brazen enough to try, it at least explains where Gummy gets his nutrition. I don't think I've ever seen her feed him.
 - After making the dresses for the Gala, I'm surprised I haven't had to do any repairs. I would've thought Pinkie would try to eat the fake candy stitched into her dress at least twice by now.
+- You ever slept in the same bed as Pinkie, I did once. She started moving around a bunch, here I thought she was trying to cuddle. Turns out it was a Pinkie Sense and the thing falling was her! She jumped and landed on me with a giant hug.
 - 
 
 ### Rainbow:
@@ -68,16 +68,19 @@ Each of her jokes is written by a different pony.
 
 ### Marble (said aloud by Maud):
 - Being Pinkie's twin sister can be hard. Especially when she does all the talking for you. Particularly when she doesn't stop talking ever. Specifically, when she has to ask your crush out for you.
+- Everyone assumes the reason Pinkie is the older twin is because she wanted to make new friends, only having Marble for the past nine months. But, the real reason why Pinkie is the older twin is, Marble pushed her out first so she could enjoy a few minutes of peace and quiet.
 - 
 
 ### Spike:
 - I know ponies tend to burst into song a lot, but Pinkie takes it to a whole new level. I don't think she's gone a day since I met her without her randomly singing a song about something barely related to what was going on. It's almost like it's a legal requirement. Quick, burst into song if you need help.
 - Pinkie is the type of pony to remember everypony's birthday in town, but forget her own.
+- Twilight schedules everything in her life. She has "Panic Attack" on her calendar for tomorrow.
 - 
 
 ### Starlight:
 - "You want to know a secret? Pinkie you have to Pinkie Promise to not get mad if I tell you." Pinkie does the Pinkie Promise. "I broke a Pinkie Promise once." (She winks at Pinkie, and Pinkie starts laughing.)
 - I'm glad Pinkie was already in the group of friends when I joined, saved me from being the *pink one*.
+- I might have done some horrible things in my past, but at least I didn't look at my sister and think, needs more cowbell.
 - 
 
 ### Mr. & Mrs. Cake:
@@ -96,7 +99,6 @@ They each tell a joke about their sister and a joke about Pinkie.
 - Rarity changes outfits so often, she literally just changed when we got up here. What's that, the third outfit tonight, Rarity?
 
 ### Pinkie's Mirror Pool Clone
-- I think we all know why Pinkie is the older twin, she wanted to make new friends, only having Marble for the past 9 months. (Maud after Marble whispers in her ear, "I think we all know why Pinkie is the older twin, Marble pushed her out first so she could enjoy a few minutes of peace and quiet.")
 - I heard the Cakes went to everyone else in Equestria before you for child care, even a group of children. I would know because they asked me before you.
 - Will the real Pinkie Pie please stand up? Oh wait, I'm already standing!
 - Last time I had this many eyes on me, I thought that they had found me. I had to be here, thought, I couldn't turn down the opportunity to make fun of myself without looking in a mirror.
