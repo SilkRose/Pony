@@ -8,13 +8,13 @@ I ask, "Hey, Twilight, what are you up to?"
 
 Twilight pushes her parchment to the side. "Not much, just writing a letter. What are you doing, Pinkie?"
 
-*Twenty-nine. Plotting our first kiss, hopefully.*
+*Twenty-nine. Plotting our relationship, hopefully.*
 
 I smile. "Oh, I'm just checking in on my bestest friend."
 
 Twilight continues writing her letter out of my view. "That's very nice of you, is there anything you needed?"
 
-*Twenty-eight. A kiss would be nice.*
+*Twenty-eight. Your heart, if you wouldn't mind.*
 
 I say, sheepishly, "Maybe a hug or two."
 
@@ -22,7 +22,7 @@ Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
 
 I nuzzle her gently on the last hug.
 
-*Twenty-seven. It would be better if I could tell you how I feel.*
+*Twenty-seven. It would be better if I could just tell you how I feel.*
 
 "Yes, I just love getting hugs from my friends, especially *you*." My voice softening at the end.
 
@@ -200,16 +200,14 @@ I read it aloud.
 >
 > Love,
 > Twilight Sparkle.
->
-> P.S. a kiss would be nice.
 
 My eyes are full of joyous tears as I set the note down.
 
-*Zero. A kiss, you shall get, Twilight!*
+*Zero. Yay! I love you too, Twilight!*
 
-I wrap my hooves around her and kiss her passionately.
+I spring forward wrapping Twilight in the biggest most lovingest tackle-hug.
 
-She kisses back as we enjoy the moment, happy tears flowing from her eyes.
+She recovers and hugs back, giggling.
 
 I say, "I love you."
 
@@ -221,7 +219,7 @@ Twilight says, "I love you too."
 
 "Thank you, and I think you're the most beautiful-est mare ever."
 
-We share a giggle and hug.
+We share a giggle and hug, again.
 
 *Negative two. Okay, now it can end.*
 
@@ -232,3 +230,5 @@ I feel silly, asking, "Twilight, can I hold your hoof?"
 Twilight smiles at me and holds her hoof out. "Absolutely, Pinkie."
 
 I take it and smile.
+
+*Negative three. Hey, did you know me and Twilight are dating now?*
