@@ -193,4 +193,4 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Love Licks]: https://www.fimfiction.net/story/540399/love-licks "FIMFiction"
 [Profound Ponytail]: https://www.fimfiction.net/story/551751/profound-ponytail "FIMFiction"
 
-[banner]: ./archive/promotions/banner-01/banner-01-1-small-transparent.png
+[banner]: ./archive/promotions/banner-02/banner-02-small.jpg
