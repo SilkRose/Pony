@@ -105,7 +105,7 @@ They each tell a joke about their sister and a joke about Pinkie.
 - 
 
 ## Story:
-[The Roast of Pinkamena Diane Pie](./the-roast-of-pinkamena-diane-pie.md)
+[The Roast of Pinkie Pie](./the-roast-of-pinkie-pie.md)
 
 ## Cover:
 ![cover](./the-roasting-of-pinkamena-diane-pie-cover-3.png)
