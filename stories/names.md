@@ -79,3 +79,4 @@ This file contains random story names that don't have enough thought to have the
 - Rare Restoration
 - Rainbow Retreat
 - Pegasustainability
+- The Quest Giver
