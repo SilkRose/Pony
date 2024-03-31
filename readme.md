@@ -110,6 +110,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **EDEN** for collaborative writing.
 - **[Mockingbirb]** for proofreading.
 - **[MorganaTheNotCat]** for pre-reading.
+- **[Jymbroni]** for pre-reading.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
@@ -161,6 +162,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Mockingbirb]: https://www.fimfiction.net/user/382692/Mockingbirb "FIMFiction"
 [Scriblits Talo]: https://www.fimfiction.net/user/495925/Scriblits+Talo/stories "FIMFiction"
 [MorganaTheNotCat]: https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories "FIMFiction"
+[Jymbroni]: https://www.fimfiction.net/user/474762/Jymbroni "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
