@@ -6,6 +6,10 @@ Pinkie counts down the conversation until her and Twilight's first kiss.
 ## Description:
 Pinkie and Twilight love each other, they just have different ways of revealing it to each other.
 
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
+
+Thanks to [Jymbroni](https://www.fimfiction.net/user/474762/Jymbroni) for pre-reading.
+
 ## Short Description:
 Pinkie and Twilight love each other, they just have different ways of revealing it to each other.
 
