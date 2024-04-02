@@ -6,10 +6,13 @@ This works because changing the page of comments you're on doesn't reset the con
 
 You need to open the console on your browser, and follow along with the steps below.
 
-To start, we initialize a variable for comments and get the total page count for comments.
+To start, we initialize a variable for comments, set the story URL we want to scrape, and get the total page count for comments.
 
 ```javascript
 let comments = [];
+let story_url =
+	// This is an example URL:
+	"https://www.fimfiction.net/story/553695/this-story-did-not-explode";
 let pages = parseInt(
 	document.querySelector("ul[data-num_pages]").dataset.num_pages
 );
@@ -37,7 +40,7 @@ Now, you just need to go to every page and run that function, but we will be usi
 ```javascript
 async function load_pages(pages) {
 	for (let i = 1; i <= pages; i++) {
-		window.location.href = `https://www.fimfiction.net/story/553695/this-story-did-not-explode#page/${i}`;
+		window.location.href = `${story_url}#page/${i}`;
 		await new Promise((resolve) => setTimeout(resolve, 1000));
 		get_comment_data();
 	}
