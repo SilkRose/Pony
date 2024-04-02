@@ -8,6 +8,8 @@ What does it mean to be a plush? What does it mean to be Pinkie Pie?
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
+Thanks to [Visharo](https://www.fimfiction.net/user/449252/Visharo) for pre-reading.
+
 ## Short Description:
 What does it mean to be a plush? What does it mean to be Pinkie Pie?
 
