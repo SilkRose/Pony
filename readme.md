@@ -105,6 +105,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Steady Gaze]** for proofreading and making the cover for Timeless Tears.
 - **[gapty]** for proofreading.
 - **[Hyper Star]** for proofreading and pre-reading.
+- **[Visharo]** for pre-reading.
 - **[Scriblits Talo]** for pre-reading.
 - **[MoonSong Darkstone]** for writing The Saddest Rainbow.
 - **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
@@ -168,6 +169,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [MorganaTheNotCat]: https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories "FIMFiction"
 [Jymbroni]: https://www.fimfiction.net/user/474762/Jymbroni "FIMFiction"
 [knighty]: https://www.fimfiction.net/user/1/knighty "FIMFiction"
+[Visharo]: https://www.fimfiction.net/user/449252/Visharo "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
