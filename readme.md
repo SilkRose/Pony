@@ -96,6 +96,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Meadowsys]** for general coding help, cover feedback, and for creating [wiwi] and V1 of [fimd][original fimd].
 - **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
+- **[knighty]** for granting me access to the FIMFiction [API][FIMFiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
 - **[IrradiatedPirateBooty]** for illustrating covers.
@@ -121,6 +122,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [FIMFiction BBCode]: https://www.fimfiction.net/articles/bbcode "FIMFiction"
 [EmotiPonies]: https://www.deviantart.com/midori-no-ink/art/EmotiPonies-209617524 "DeviantArt"
 [wiwi]: https://github.com/meadowsys/wiwi "GitHub"
+[FIMFiction API]: https://www.fimfiction.net/developers/api/v2/docs "FIMFiction"
 
 [Silk Rose FIMFiction]: https://www.fimfiction.net/user/237915/Silk+Rose "FIMFiction"
 
@@ -165,6 +167,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Scriblits Talo]: https://www.fimfiction.net/user/495925/Scriblits+Talo/stories "FIMFiction"
 [MorganaTheNotCat]: https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories "FIMFiction"
 [Jymbroni]: https://www.fimfiction.net/user/474762/Jymbroni "FIMFiction"
+[knighty]: https://www.fimfiction.net/user/1/knighty "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
