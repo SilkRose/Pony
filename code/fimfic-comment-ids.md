@@ -6,10 +6,13 @@ This works because changing the page of comments you're on doesn't reset the con
 
 You need to open the console on your browser, and follow along with the steps below.
 
-To start, we initialize a variable for comments.
+To start, we initialize a variable for comments and get the total page count for comments.
 
 ```javascript
 let comments = [];
+let pages = parseInt(
+	document.querySelector("ul[data-num_pages]").dataset.num_pages
+);
 ```
 
 We are going to collect the comments with the following function.
@@ -29,10 +32,22 @@ function get_comment_data() {
 }
 ```
 
-Now, you just need to go to every page and run that function.
+Now, you just need to go to every page and run that function, but we will be using another function for this.
 
 ```javascript
-get_comment_data();
+async function load_pages(pages) {
+	for (let i = 1; i <= pages; i++) {
+		window.location.href = `https://www.fimfiction.net/story/553695/this-story-did-not-explode#page/${i}`;
+		await new Promise((resolve) => setTimeout(resolve, 1000));
+		get_comment_data();
+	}
+}
+```
+
+After that, we have to await that function.
+
+```javascript
+await load_pages(pages);
 ```
 
 Once you've done that, we will remove comments so that only one comment per user is left in the list.
