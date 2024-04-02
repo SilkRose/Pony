@@ -16,6 +16,8 @@ Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo
 
 Thanks to [MorganaTheNotCat](https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories) for pre-reading.
 
+Thanks to [Visharo](https://www.fimfiction.net/user/449252/Visharo) for pre-reading.
+
 Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
 
 Thanks to [Nebbie](https://www.fimfiction.net/user/35109/Nebbie) for pre-reading.
