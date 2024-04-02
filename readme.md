@@ -93,7 +93,7 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 ## Special Thanks:
 While I may be the main contributor to this repository, I have had help, and thus I would like to give a special thanks to the following ponies:
 
-- **[Meadowsys]** for creating [fimd], general coding help, and cover feedback.
+- **[Meadowsys]** for general coding help, cover feedback, and for creating [wiwi] and V1 of [fimd][original fimd].
 - **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
@@ -116,9 +116,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 <!-- Links go below this point. -->
 [Pony]: https://github.com/SilkRose/Pony "GitHub"
 
-[fimd]: https://github.com/Meadowsys/fimd "GitHub"
+[fimd]: https://github.com/SilkRose/Pony/blob/mane/code/src/bin/fimd.rs "GitHub"
+[original fimd]: https://github.com/Meadowsys/fimd "GitHub"
 [FIMFiction BBCode]: https://www.fimfiction.net/articles/bbcode "FIMFiction"
 [EmotiPonies]: https://www.deviantart.com/midori-no-ink/art/EmotiPonies-209617524 "DeviantArt"
+[wiwi]: https://github.com/meadowsys/wiwi "GitHub"
 
 [Silk Rose FIMFiction]: https://www.fimfiction.net/user/237915/Silk+Rose "FIMFiction"
 
