@@ -10,6 +10,8 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Thanks to [Jymbroni](https://www.fimfiction.net/user/474762/Jymbroni) for pre-reading.
 
+Thanks to [Visharo](https://www.fimfiction.net/user/449252/Visharo) for pre-reading.
+
 ## Short Description:
 Pinkie and Twilight love each other, they just have different ways of revealing it to each other.
 
