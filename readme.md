@@ -113,6 +113,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Mockingbirb]** for proofreading.
 - **[MorganaTheNotCat]** for pre-reading.
 - **[Jymbroni]** for pre-reading.
+- **[ThePeer]** for pre-reading.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
@@ -170,6 +171,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Jymbroni]: https://www.fimfiction.net/user/474762/Jymbroni "FIMFiction"
 [knighty]: https://www.fimfiction.net/user/1/knighty "FIMFiction"
 [Visharo]: https://www.fimfiction.net/user/449252/Visharo "FIMFiction"
+[ThePeer]: https://www.fimfiction.net/user/537939/ThePeer "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
