@@ -6,9 +6,11 @@ Scootaloo's diary entries, showing her descent into loneliness and rejection. Pu
 ## Description:
 Rainbow Dash should have never read Scootaloo's diary.
 
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for pre-reading.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Thanks to [ThePeer](https://www.fimfiction.net/user/537939/ThePeer) for pre-reading.
 
 ## Short Description:
 Rainbow Dash should have never read Scootaloo's diary.
