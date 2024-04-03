@@ -38,13 +38,18 @@ This package was written in Typescript and is 59 lines of code.
 
 ### FIMFiction Cover
 
-This one is also pretty straightforward, but a little more complex. It uses the `cookies.json` file to open a page in a browser emulator, going to the stories manage page before hitting the `Browse...` button, and entering the file path of the new cover. After that, it clicks the `Save Changes` button, waiting for the page to refresh before closing.
+This one is also pretty straightforward, but a little more complex. It uses the `cookies.json` file and opens a page in a browser emulator, going to the stories manage page before hitting the `Browse...` button, then entering the file path of the new cover. After that, it clicks the `Save Changes` button, and waits for the page to refresh before closing.
+
+It has the following command line arguments:
+1. Story ID.
+2. File path to the new cover.
+3. File path to the `cookies.json` file.
 
 This package was written in Typescript and is 92 lines of code.
 
 ### Clock Timer 2 (wiwi)
 
-> Internally, a clock timer stores a time (ex. 1 Apr 2024 at midnight UTC), and an interval amount (ex. 1 minute), and exposes a way to get the next time in the interval. Every time it's called, it adds the interval amount to the stored time (ex. 00:00 + 1 minute = 00:01), and checks if the current time is before this new calculated time. If it's already past, then it returns to this new time without waiting. Otherwise, it'll wait until the calculated is reached, then returns the calculated time. What this achieves is a way to halt the program until certain time intervals. The program can then do things with this time information, like call FIMFiction API at certain times to update the title.
+> Internally, a clock timer stores a time (ex. 1 Apr 2024 at midnight UTC), and an interval amount (ex. 1 minute), and exposes a way to get the next time in the interval. Every time it's called, it adds the interval amount to the stored time (ex. 00:00 + 1 minute = 00:01), and checks if the current time is before this new calculated time. If it's already past, then it returns to this new time without waiting. Otherwise, it'll wait until he calculated time is reached, then returns it. What this achieves is a way to halt the program until certain time intervals. The program can then do things with this time information, like call FIMFiction API every minute to update the title.
 >
 > ~ *Meadowsys*
 
