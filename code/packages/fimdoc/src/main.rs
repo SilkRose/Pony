@@ -1,7 +1,7 @@
 use camino::Utf8Path;
-use golden_oak::md_to_bbcode::{parse, WarningType};
-use golden_oak::stderr::{print_error, ErrColor};
-use golden_oak::stdin::get_stdin;
+use golden_oak_library::md_to_bbcode::{parse, WarningType};
+use golden_oak_library::stderr::{print_error, ErrColor};
+use golden_oak_library::stdin::get_stdin;
 use std::process::exit;
 use std::{env, fs};
 

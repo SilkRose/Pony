@@ -1,8 +1,8 @@
 [package]
-name = "golden-oak"
+name = "golden-oak-library"
 version = "0.1.0"
 description = "CLI tools and library for various uses in the Pony repo."
-readme = "./readme.md"
+#readme = "./readme.md"
 authors.workspace = true
 edition.workspace = true
 license.workspace = true
@@ -15,24 +15,23 @@ license = "MIT"
 repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
-async-recursion = "1.1.0"
+#async-recursion = "1.1.0"
 atty = { version = "0.2.14" }
 camino = { workspace = true }
-lazy_static = { version = "1.4.0" }
-markdown = { workspace = true }
+#lazy_static = { version = "1.4.0" }
+markdown = { version = "1.0.0-alpha.16" }
 rayon = { version = "1.10.0" }
 regex = { version = "1.10.4" }
-reqwest = { version = "0.12", features = ["json"] }
-serde = { version = "1", features = ["derive"] }
-serde_json = { version = "1", features = ["preserve_order"] }
+#reqwest = { version = "0.12", features = ["json"] }
+#serde = { version = "1", features = ["derive"] }
+#serde_json = { version = "1", features = ["preserve_order"] }
 terminal_color_builder = { version = "0.1.1" }
-tokio = { version = "1", features = ["full"] }
-wiwi = { version = "0.5.3", features = ["clock-timer-2", "tokio"] }
+#tokio = { version = "1", features = ["full"] }
+#wiwi = { version = "0.5.3", features = ["clock-timer-2", "tokio"] }
 
 [workspace.dependencies]
 camino = { version = "1.1.6" }
-markdown = { version = "1.0.0-alpha.16" }
-golden-oak = { path = "./", version = "0.1.0" }
+golden-oak-library = { path = "./", version = "0.1.0" }
 
 [workspace]
 resolver = "2"

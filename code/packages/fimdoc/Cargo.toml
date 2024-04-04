@@ -12,5 +12,4 @@ license = { workspace = true }
 
 [dependencies]
 camino = { workspace = true }
-markdown = { workspace = true }
-golden-oak = { workspace = true }
+golden-oak-library = { workspace = true }

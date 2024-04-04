@@ -10,4 +10,4 @@ edition = { workspace = true }
 license = { workspace = true }
 
 [dependencies]
-golden-oak = { workspace = true }
+golden-oak-library = { workspace = true }
