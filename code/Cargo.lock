@@ -784,6 +784,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "rarity"
+version = "0.2.0"
+dependencies = [
+ "golden-oak",
+]
+
+[[package]]
 name = "rayon"
 version = "1.10.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
