@@ -1,15 +1,14 @@
 [package]
 name = "fim"
-version = "0.4.2"
+version = "0.4.3"
 description = "Firendship is Markdown, a simple terminal based Markdown editor."
 homepage = "https://github.com/SilkRose/Pony/tree/mane/archive/code/rust/fim"
-readme = "./README.md"
-
-repository = { workspace = true }
-authors = { workspace = true }
-edition = { workspace = true }
-license = { workspace = true }
+readme = "./readme.md"
+authors = ["Silk Rose", "Meadowsys"]
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
-camino = { workspace = true }
-crossterm = { workspace = true }
+camino = { version = "1.1.6" }
+crossterm = { version = "0.27.0" }
