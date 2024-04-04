@@ -17,9 +17,9 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 async-recursion = "1.1.0"
 atty = { version = "0.2.14" }
-camino = { version = "1.1.6" }
+camino = { workspace = true }
 lazy_static = { version = "1.4.0" }
-markdown = { version = "1.0.0-alpha.16" }
+markdown = { workspace = true }
 rayon = { version = "1.10.0" }
 regex = { version = "1.10.4" }
 reqwest = { version = "0.12", features = ["json"] }
@@ -28,6 +28,17 @@ serde_json = { version = "1", features = ["preserve_order"] }
 terminal_color_builder = { version = "0.1.1" }
 tokio = { version = "1", features = ["full"] }
 wiwi = { version = "0.5.3", features = ["clock-timer-2", "tokio"] }
+
+[workspace.dependencies]
+camino = { version = "1.1.6" }
+markdown = { version = "1.0.0-alpha.16" }
+golden-oak = { path = "./", version = "0.1.0" }
+
+[workspace]
+resolver = "2"
+members = [
+	"applications/fimdoc"
+]
 
 [profile.dev]
 opt-level = 0
