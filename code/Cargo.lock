@@ -300,6 +300,25 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "4271d37baee1b8c7e4b708028c57d816cf9d2434acb33a549475f78c181f6253"
 
 [[package]]
+name = "golden-oak"
+version = "0.1.0"
+dependencies = [
+ "async-recursion",
+ "atty",
+ "camino",
+ "lazy_static",
+ "markdown",
+ "rayon",
+ "regex",
+ "reqwest",
+ "serde",
+ "serde_json",
+ "terminal_color_builder",
+ "tokio",
+ "wiwi",
+]
+
+[[package]]
 name = "h2"
 version = "0.4.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -736,25 +755,6 @@ name = "pkg-config"
 version = "0.3.30"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d231b230927b5e4ad203db57bbcbee2802f6bce620b1e4a9024a07d94e2907ec"
-
-[[package]]
-name = "pony"
-version = "0.0.0"
-dependencies = [
- "async-recursion",
- "atty",
- "camino",
- "lazy_static",
- "markdown",
- "rayon",
- "regex",
- "reqwest",
- "serde",
- "serde_json",
- "terminal_color_builder",
- "tokio",
- "wiwi",
-]
 
 [[package]]
 name = "proc-macro2"

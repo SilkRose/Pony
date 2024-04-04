@@ -4,8 +4,8 @@ use markdown::mdast::{
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
 use markdown::{to_mdast, ParseOptions};
-use pony::fs::find_files_in_dir;
-use pony::stderr::{print_error, ErrColor};
+use golden_oak::fs::find_files_in_dir;
+use golden_oak::stderr::{print_error, ErrColor};
 use rayon::prelude::*;
 use regex::Regex;
 use std::collections::HashMap;

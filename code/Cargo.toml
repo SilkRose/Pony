@@ -1,12 +1,18 @@
 [package]
-name = "pony"
-version = "0.0.0"
+name = "golden-oak"
+version = "0.1.0"
 description = "CLI tools and library for various uses in the Pony repo."
-repository = "https://github.com/SilkRose/Pony"
+readme = "./readme.md"
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[workspace.package]
 authors = ["Silk Rose", "Meadowsys"]
 edition = "2021"
-license = "CC0-1.0"
-publish = false
+license = "MIT"
+repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
 async-recursion = "1.1.0"
