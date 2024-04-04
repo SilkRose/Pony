@@ -19,6 +19,7 @@ repository = "https://github.com/SilkRose/Pony"
 atty = { version = "0.2.14" }
 camino = { workspace = true }
 #lazy_static = { version = "1.4.0" }
+indoc = { workspace = true }
 markdown = { version = "1.0.0-alpha.16" }
 rayon = { version = "1.10.0" }
 regex = { version = "1.10.4" }
@@ -32,6 +33,7 @@ terminal_color_builder = { version = "0.1.1" }
 [workspace.dependencies]
 camino = { version = "1.1.6" }
 golden-oak-library = { path = "./", version = "0.1.0" }
+indoc = { version = "2.0.5" }
 
 [workspace]
 resolver = "2"

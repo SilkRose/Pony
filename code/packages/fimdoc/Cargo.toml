@@ -1,6 +1,6 @@
 [package]
 name = "fimdoc"
-version = "0.3.4"
+version = "0.4.0"
 description = "Firendship is Magic Document, converts Markdown into FIMFiction BBCode."
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/fimdoc"
 readme = "./readme.md"
@@ -13,3 +13,4 @@ license = { workspace = true }
 [dependencies]
 camino = { workspace = true }
 golden-oak-library = { workspace = true }
+indoc = { workspace = true }

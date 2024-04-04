@@ -4,6 +4,7 @@ use golden_oak_library::stderr::{print_error, ErrColor};
 use golden_oak_library::stdin::get_stdin;
 use std::process::exit;
 use std::{env, fs};
+use indoc::printdoc;
 
 enum Input {
 	Stdin,
@@ -20,14 +21,14 @@ fn main() {
 	let args: Vec<String> = env::args().collect();
 	let warn = parse_input(&args);
 	let (input, output) = match (&stdin, args.len()) {
-		(Some(_), 0) => (Input::Stdin, Output::Stdout),
-		(Some(_), 1) => (Input::Stdin, Output::File),
+		(Some(_), 1) => (Input::Stdin, Output::Stdout),
+		(Some(_), 2) => (Input::Stdin, Output::File),
 		(Some(_), _) => {
 			print_error("Too many arguments provided!", ErrColor::Red);
 			exit(1);
 		}
-		(None, 2) => (Input::File, Output::File),
-		(None, 1) => (Input::File, Output::Stdout),
+		(None, 3) => (Input::File, Output::File),
+		(None, 2) => (Input::File, Output::Stdout),
 		(None, _) => {
 			print_error("Not enough arguments and no stdin found!", ErrColor::Red);
 			exit(1);
@@ -66,7 +67,7 @@ fn main() {
 	}
 }
 
-fn parse_input(args: &Vec<String>) -> WarningType {
+fn parse_input(args: &[String]) -> WarningType {
 	if args.len() == 1 {
 		return WarningType::Warn;
 	}
@@ -87,22 +88,22 @@ fn parse_input(args: &Vec<String>) -> WarningType {
 }
 
 fn print_help() {
-	println!(
-		"{} {}
+	printdoc! {"
+		{} {}
 
-{}
+		{}
 
-Usage: fimdoc [OPTIONS] [INPUT] [OUTPUT]
+		Usage Examples:
+		fimdoc input.md output.txt
+		fimdoc -q input.md | bbcode
+		md | fimdoc | bbcode
+		md | fimdoc --fail output.txt
 
-Arguments:
-  [INPUT]...   Input Markdown file, must end in .md
-  [OUTPUT]...  Output text file
-
-Options:
-  -h, --help           Print help
-  -V, --version        Print version",
+		Options:
+		  -h, --help           Print help
+		  -v, --version        Print version\n",
 		env!("CARGO_PKG_NAME"),
 		env!("CARGO_PKG_VERSION"),
 		env!("CARGO_PKG_DESCRIPTION")
-	)
+	}
 }

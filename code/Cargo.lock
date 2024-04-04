@@ -61,10 +61,11 @@ checksum = "11157ac094ffbdde99aa67b23417ebdd801842852b500e395a45a9c0aac03e4a"
 
 [[package]]
 name = "fimdoc"
-version = "0.3.4"
+version = "0.4.0"
 dependencies = [
  "camino",
  "golden-oak-library",
+ "indoc",
 ]
 
 [[package]]
@@ -73,6 +74,7 @@ version = "0.1.0"
 dependencies = [
  "atty",
  "camino",
+ "indoc",
  "markdown",
  "rayon",
  "regex",
@@ -87,6 +89,12 @@ checksum = "62b467343b94ba476dcb2500d242dadbb39557df889310ac77c5d99100aaac33"
 dependencies = [
  "libc",
 ]
+
+[[package]]
+name = "indoc"
+version = "2.0.5"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "b248f5224d1d606005e02c97f5aa4e88eeb230488bcc03bc9ca4d7991399f2b5"
 
 [[package]]
 name = "libc"
