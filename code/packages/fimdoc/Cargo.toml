@@ -2,7 +2,7 @@
 name = "fimdoc"
 version = "0.3.4"
 description = "Firendship is Magic Document, converts Markdown into FIMFiction BBCode."
-homepage = "https://github.com/SilkRose/Pony/tree/mane/code/applications/fimdoc"
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/fimdoc"
 readme = "./readme.md"
 
 repository = { workspace = true }
