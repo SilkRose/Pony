@@ -14,6 +14,10 @@ On April 1st, 2024, PseudoBob released a story with a simple title: This Story w
 On every hour, a new chapter was released, and the cover was updated. The description and short description were also updated regularly. If you paid close attention, you might have even found some Easter eggs.  
 ![:raritywink:](../../../emotes/raritywink.png)
 
+I had a lot of fun writing the code for this story, and even more fun watching it play out. I'm also really thankful that the code I wrote never failed. The code I wrote for this won't even be thrown away, the whole time I knew this code would be repurposed into an automatic story poster, so look forward to that.
+
+Another thing to look forward to: next year. We are already plotting and scheming our next art installation. I'm excited for it already, and we haven't even decided what it is.
+
 Last thing before we get into the code talk, if you want to read more about Bob's side of the story, check out his sister blog to this one [here](). And if you have questions, feel free to ask either of us questions [here]() in our Q&A forum post.
 
 ## Code Overview
@@ -95,6 +99,34 @@ This file contains the following data:
    - The `cookies.json` file path gotten from FIMFiction Cookie.
 
 #### Events.json
+
+This file is where we store all the event data for when to update the cover, release chapters, change the description, short description, and title, and set the story status to complete.
+
+This file contains an array of these events. Each of these events is an object.
+
+Think of an object like a box, it contains stuff you want to use later. Think of an array as a box of boxes. It contains a collection of boxes of stuff you want to use later.
+
+Here is an example of what one of these event object's looks like:
+```json
+{
+	"release_hour": 2,
+	"release_minute": 30,
+	"chapter_id": 1738301,
+	"cover": "cover-2-30.png",
+	"description": "I agree with you, Pinkie is super cute!\n\nI love to give Pinkie lots of hugs!",
+	"short_description": "Pinkie is cute!"
+	}
+```
+
+In this example, when the elapsed time is 2 hours and 30 minutes, it will release the chapter, change the cover, and update both the description and short description.
+
+It is worth noting that the only required fields are release hour and release minute. So, it's very customizable for how you want to do your events.
+
+Now that that is explained, we can move onto the mane function.
+
+The first step is to initialize our variables, all the stuff we just talked about gets read into the application and stored.
+
+After this, we use the story ID to set the URL for use with the API. We set the chapter use, but for now, it's just static, since the chapter URLs we use for the API will be constructed later.
 
 
 
