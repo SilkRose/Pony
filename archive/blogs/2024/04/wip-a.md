@@ -115,7 +115,7 @@ Here is an example of what one of these event object's looks like:
 	"cover": "cover-2-30.png",
 	"description": "I agree with you, Pinkie is super cute!\n\nI love to give Pinkie lots of hugs!",
 	"short_description": "Pinkie is cute!"
-	}
+}
 ```
 
 In this example, when the elapsed time is 2 hours and 30 minutes, it will release the chapter, change the cover, and update both the description and short description.
@@ -124,9 +124,84 @@ It is worth noting that the only required fields are release hour and release mi
 
 Now that that is explained, we can move onto the mane function.
 
+### Code Overview
+
 The first step is to initialize our variables, all the stuff we just talked about gets read into the application and stored.
 
-After this, we use the story ID to set the URL for use with the API. We set the chapter use, but for now, it's just static, since the chapter URLs we use for the API will be constructed later.
+After this, we use the story ID to set the URL for use with the API. We set the chapter URL, but for now, it's just static, since the chapter URLs we use for the API will be constructed later.
+
+We need to create an HTTP client next, but we use a crate to do this for us. Crates are code written by other people for use in any project. We are using the `reqwest` crate for the HTTP client.
+
+An HTTP client is like a phone, it can send and receive requests. We will be using it to send requests to the API to update the story.
+
+Now that we have a client, we need to construct our headers. Headers are instructions for your requests. An example would be, *this side up* labels on the side of packages being shipped.
+
+Another header we create is for our access token, so the API knows we are who we say we are.
+
+We construct the timer next. We create a timer using the `wiwi` crate. A part of creating the timer is setting its start time, duration, and tick interval.
+
+Once we have the timer setup, we wait for the first tick. If the program is started before the start time, it waits for the first tick.
+
+Each tick is a cycle of the timer, waiting for the time to be passed, then firing the code we put in the loop.
+
+We make this loop using the timer, telling the code to wait for the timer to do each loop.
+
+In this loop, we determine if the countdown is still active with this code:
+```rust
+let countdown = tick.remaining().num_minutes()
+	>= (args.duration_hours - args.countdown_duration_hours) * 60;
+```
+
+The timer's tick variable gives us a lot of useful information, such as elapsed and remaining time in hours and minutes, and more.
+
+Inside this loop, we call the `handle_events` function. We pass it all the data it needs to handle events, including the `countdown` variable from above.
+
+The first thing we do in this function is some math:
+```rust
+let elapsed = tick.elapsed();
+let remaining = tick.remaining();
+
+let remaining_hours =
+	(remaining.num_minutes() / 60) - (args.duration_hours - 
+	args.countdown_duration_hours);
+
+let remaining_minutes = match remaining.num_minutes() % 60 == 0 {
+	true => 0,
+	false => {
+		remaining.num_minutes()
+		- ((args.duration_hours - args.countdown_duration_hours) * 60)
+		- (remaining_hours * 60)
+	}
+};
+```
+
+We use this math to determine the time left for the countdown timer.
+
+The next thing we do is check if `countdown` is true or not, if it is, we set the title:
+```rust
+let title = match countdown {
+	true => Some(format!(
+		"This Story will Explode in {:0>2}:{:0>2}",
+		remaining_hours, remaining_minutes
+	)),
+	false => None,
+};
+```
+
+The `:0>2` bit pads the numbers so they are always 2 digits long, using `0` as the padding digit.
+
+Now we are going to filter the events array from earlier. We want to find all events that match with the current tick of the timer.
+
+```rust
+let events = events
+	.iter()
+	.filter(|event| {
+		event.release_hour == elapsed.num_hours() as u32
+			&& event.release_minute
+				== (elapsed.num_minutes() - (elapsed.num_hours() * 60)) as u32
+	})
+	.collect::<Vec<_>>();
+```
 
 
 
