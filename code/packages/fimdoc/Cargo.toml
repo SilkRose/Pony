@@ -1,6 +1,6 @@
 [package]
 name = "fimdoc"
-version = "0.4.0"
+version = "0.5.0"
 description = "Firendship is Magic Document, converts Markdown into FIMFiction BBCode."
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/fimdoc"
 readme = "./readme.md"

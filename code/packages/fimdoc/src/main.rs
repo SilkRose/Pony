@@ -2,9 +2,9 @@ use camino::Utf8Path;
 use golden_oak_library::md_to_bbcode::{parse, WarningType};
 use golden_oak_library::stderr::{print_error, ErrColor};
 use golden_oak_library::stdin::get_stdin;
+use indoc::printdoc;
 use std::process::exit;
 use std::{env, fs};
-use indoc::printdoc;
 
 enum Input {
 	Stdin,
@@ -18,18 +18,18 @@ enum Output {
 
 fn main() {
 	let stdin = get_stdin();
-	let args: Vec<String> = env::args().collect();
-	let warn = parse_input(&args);
-	let (input, output) = match (&stdin, args.len()) {
-		(Some(_), 1) => (Input::Stdin, Output::Stdout),
-		(Some(_), 2) => (Input::Stdin, Output::File),
-		(Some(_), _) => {
+	let args: Vec<String> = env::args().skip(1).collect();
+	let (warn, length) = parse_input(&args);
+	let (input, output) = match (&stdin, length) {
+		(Some(_), 0) => (Input::Stdin, Output::Stdout),
+		(Some(_), 1) => (Input::Stdin, Output::File),
+		(None, 2) => (Input::File, Output::File),
+		(None, 1) => (Input::File, Output::Stdout),
+		(Some(_), 2..) | (None, 3..) => {
 			print_error("Too many arguments provided!", ErrColor::Red);
 			exit(1);
 		}
-		(None, 3) => (Input::File, Output::File),
-		(None, 2) => (Input::File, Output::Stdout),
-		(None, _) => {
+		(None, 0) => {
 			print_error("Not enough arguments and no stdin found!", ErrColor::Red);
 			exit(1);
 		}
@@ -37,7 +37,10 @@ fn main() {
 	let md = match input {
 		Input::Stdin => stdin.unwrap(),
 		Input::File => {
-			let filename = &args[1];
+			let filename = match output {
+				Output::Stdout => &args[args.len() - 1],
+				Output::File => &args[args.len() - 2],
+			};
 			if !filename.ends_with(".md") {
 				print_error("Input file must be Markdown.", ErrColor::Red);
 				exit(1);
@@ -67,14 +70,14 @@ fn main() {
 	}
 }
 
-fn parse_input(args: &[String]) -> WarningType {
-	if args.len() == 1 {
-		return WarningType::Warn;
+fn parse_input(args: &[String]) -> (WarningType, usize) {
+	if args.is_empty() {
+		return (WarningType::Warn, 0);
 	}
-	match args[1].as_str() {
-		"-w" | "--warn" => WarningType::Warn,
-		"-f" | "--fail" => WarningType::Fail,
-		"-q" | "--quiet" => WarningType::Quiet,
+	match args[0].as_str() {
+		"-w" | "--warn" => (WarningType::Warn, args[1..].len()),
+		"-f" | "--fail" => (WarningType::Fail, args[1..].len()),
+		"-q" | "--quiet" => (WarningType::Quiet, args[1..].len()),
 		"-h" | "--help" => {
 			print_help();
 			exit(0);
@@ -83,7 +86,15 @@ fn parse_input(args: &[String]) -> WarningType {
 			println!("{} {}", env!("CARGO_BIN_NAME"), env!("CARGO_PKG_VERSION"));
 			exit(0);
 		}
-		_ => WarningType::Warn,
+		_ => {
+			if args[0].starts_with("-") {
+				print_error("Incorrect argument option!", ErrColor::Red);
+				print_help();
+				exit(1);
+			} else {
+				(WarningType::Warn, args.len())
+			}
+		}
 	}
 }
 
@@ -94,14 +105,17 @@ fn print_help() {
 		{}
 
 		Usage Examples:
-		fimdoc input.md output.txt
-		fimdoc -q input.md | bbcode
-		md | fimdoc | bbcode
-		md | fimdoc --fail output.txt
+		  fimdoc input.md output.txt
+		  fimdoc -q input.md | bbcode
+		  md | fimdoc | bbcode
+		  md | fimdoc --fail output.txt
 
 		Options:
-		  -h, --help           Print help
-		  -v, --version        Print version\n",
+		  -w, --warn         Warns on unsupported markdown syntax
+		  -f, --fail         Fails on unsupported markdown syntax
+		  -q, --quiet        Skips over unsupported markdown syntax
+		  -h, --help         Print help
+		  -v, --version      Print version\n",
 		env!("CARGO_PKG_NAME"),
 		env!("CARGO_PKG_VERSION"),
 		env!("CARGO_PKG_DESCRIPTION")
