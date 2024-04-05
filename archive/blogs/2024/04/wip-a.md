@@ -19,10 +19,10 @@ Last thing before we get into the code talk, if you want to read more about Bob'
 ## Code Overview
 
 The code has four mane packages to make it work:
-1. FIMFiction Cookie: to get a cookie for use with the cover updater.
-2. FIMFiction Cover: to update the story's cover.
-3. Clock Timer 2 (wiwi): to keep all the events running at the right time.
-4. FIMFiction April Fools: to bring it all together and send out API requests.
+1. [ FIMFiction Cookie](https://github.com/SilkRose/Pony/tree/mane/archive/code/typescript/fimfic-cookie): to get a cookie for use with the cover updater.
+2. [FIMFiction Cover](https://github.com/SilkRose/Pony/tree/mane/archive/code/typescript/fimfic-cover): to update the story's cover.
+3. [Clock Timer 2](https://github.com/meadowsys/wiwi/blob/wiwi/src/clock_timer_2.rs) ([wiwi](https://github.com/meadowsys/wiwi)): to keep all the events running at the right time.
+4. [FIMFiction April Fools](https://github.com/SilkRose/Pony/tree/mane/archive/code/rust/fimfic-april-fools-2024): to bring it all together and send out API requests.
 
 We will go over these one at a time.
 
@@ -56,6 +56,45 @@ This package was written in Typescript and is 92 lines of code.
 This module is a part of the crate wiwi, was written in Rust, and is 186 lines of code.
 
 ### FIMFiction April Fools
+
+This part is where I will go into greater detail, since this is the mane part of the whole event.
+
+Let's start with the command line arguments:
+1. API Access Token.
+2. Path to `arguments.json` file.
+3. Path to `events.json` file.
+
+#### API Access Token
+
+This is required to make any call to the [FIMFiction API](https://www.fimfiction.net/developers/api/v2/docs). To get a token, you must authenticate with an application on the API. Getting an application requires knighty's approval, and can take time.
+
+**Please note:** your access token should be kept secret, for it can be used to do stuff on your account, and they never expire.
+
+#### Arguments.json
+
+This file contains the mane arguments so that the command wasn't so long.
+
+This file contains the following data:
+1. Story ID: number
+   - Self explanatory. ID can be found in the URL of your story.
+2. Start time: number
+   - The Unix Epoch time of when you want it to start the event.
+3. Skip past events: boolean
+   - Whether to skip past events, like if the program was interrupted.
+4. Duration hours: number
+   - The number of hours the entire event lasts.
+5. Interval minutes: number
+   - How often in minutes the clock ticks.
+6. Countdown duration hours: number
+   - The hours to countdown in the title.
+7. Covers directory: string
+   - where all the cover files are stored.
+8. Cover mane.js: string
+   - The mane script file for FIMFiction Cover.
+9. `cookies.json` path: string
+   - The `cookies.json` file path gotten from FIMFiction Cookie.
+
+#### Events.json
 
 
 
