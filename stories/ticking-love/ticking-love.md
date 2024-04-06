@@ -140,9 +140,9 @@ I nod. "Okay!"
 
 "How can you confirm this?"
 
-"I am in the middle of writing my love down…"
+"I am in the middle of writing my confession down…"
 
-*Seven. Should I have written a love letter?*
+*Seven. Should I have written a confession, too?*
 
 "Can I read it, pretty please?"
 
