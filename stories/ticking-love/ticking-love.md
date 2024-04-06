@@ -192,7 +192,7 @@ I read it aloud.
 >
 > Oh, you just showed up, and now I'm pretending to write something inconspicuous. You ask a lot of questions, it's one of the things I love about you. So curious, always wondering. Oh, did I just say I love you? Well, I do. I love you.
 >
-> You're acting different, differently than normal. Are you hiding something? You have been acting strange around me. I guess I've been acting strange too. I apologize for that, I just don't know what these feelings mean. Maybe you could help me figure it out?
+> You have been acting strange around me. Are you hiding something? I guess I've been acting strange too, because I'm hiding something as well. I apologize for that, I just don't know what these feelings mean. Maybe you could help me figure it out?
 >
 > I know you really want to read this letter, so I'll try to hurry. I didn't expect to fall in love with you, I just hope you've fallen for me too. And from the way you're acting, it seems like you have. Anyway, I hope you say yes.
 >
