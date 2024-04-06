@@ -203,6 +203,38 @@ let events = events
 	.collect::<Vec<_>>();
 ```
 
+If this events array is empty, we simply update the title if countdown is still true; otherwise it does nothing. If it does find matching events, then it executes each of them.
 
+Title, description, short description, and completion status all can be sent in one request, so we gather all of those present into an object.
+
+We send this object as the body of the HTTP request to the stories URL from earlier.
+
+If chapter ID is present, we make a separate request to the chapter's URL, adding the ID to the end of the URL. We construct the chapter object like so:
+```rust
+fn chapter_json(id: u32) -> Value {
+	json!({
+		"data": {
+			"id": id,
+			"attributes": {
+				"published": true
+			}
+		}
+	})
+}
+```
+
+If cover is present, we construct the `node` command to update it like so:
+```rust
+let command = format!(
+	"node {} {} {} {}",
+	args.cover_mane_js, args.story_id, cover, args.fimfic_cookie_json
+);
+```
+
+In this command, one of the things that I forgot to do was include double quotes around each `{}`, this would prevent word splitting, which caused file paths with spaces to pass the wrong arguments to the program.
+
+This was the only bug encountered with the code during the whole event. After the first cover didn't update, we discovered why, and Bob just moved the covers to a new path without spaces in it.
+
+That's essentially it, the program just loops every interval and runs the relevant code for any events on that tick.
 
 This application was written in Rust and is 254 lines of code.
