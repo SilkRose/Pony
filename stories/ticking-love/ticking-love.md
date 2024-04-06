@@ -134,13 +134,13 @@ I nod. "Okay!"
 
 "What if somepony else likes you?"
 
-"I'm pretty sure we like each other, just need to get it out there."
+"That would be a shame, since I'm only really interested in this one pony."
 
 *Eight. It's me. Right?*
 
-"How can you confirm this?"
+"Are you going to tell them?"
 
-"I am in the middle of writing my confession down…"
+"I'm in the middle of writing my confession down…"
 
 *Seven. Should I have written a confession, too?*
 
