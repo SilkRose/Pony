@@ -18,7 +18,7 @@ Twilight continues writing her letter out of my view. "That's very nice of you. 
 
 I say, sheepishly, "Maybe a hug or two."
 
-Twilight gets up and hugs me tightly, three times. "Are you doing alright?"
+Twilight gets up and hugs me, squeezing three times. "Are you doing alright?"
 
 I nuzzle her gently on the last hug.
 
@@ -166,7 +166,7 @@ I nod. "Okay!"
 
 "No."
 
-*Three. Ah, yeah!*
+*Three. Yeehaw!*
 
 "Is it Rainbow Dash?"
 
