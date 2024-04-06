@@ -67,7 +67,6 @@ This file contains random story names that don't have enough thought to have the
 - Engraved in Stone
 - Cuddle Council
 - Cuddle Counsel
-- Letters From a Lost Friend
 - Glimmers of the Heart
 - Pinkamena, Diane, and Pie
 - Love, Lose, and Lamination
