@@ -12,7 +12,7 @@ Twilight pushes her parchment to the side. "Not much, just writing a letter. Wha
 
 I smile. "Oh, I'm just checking in on my bestest friend."
 
-Twilight continues writing her letter out of my view. "That's very nice of you, is there anything you needed?"
+Twilight continues writing her letter out of my view. "That's very nice of you. Was there anything you needed?"
 
 *Twenty-eight. Your heart, if you wouldn't mind.*
 
@@ -24,9 +24,9 @@ I nuzzle her gently on the last hug.
 
 *Twenty-seven. It would be better if I could just tell you how I feel.*
 
-"Yes, I just love getting hugs from my friends, especially *you*." My voice softening at the end.
+"Yes, I just love getting hugs from my friends, especially *you*." My voice softens at the end.
 
-"Oh, why me specifically, am I special?" Twilight's voice rising in pitch at the last part.
+"Oh! Why me, specifically? Am I special?" Twilight's voice rose in pitch at the last part.
 
 *Twenty-six. More than you know.*
 
@@ -50,7 +50,7 @@ I feel my face start to heat up. "You *might* mean a little more to me than the 
 
 I blush. "Maybe…"
 
-"Pinkie Pie, you are being very coy." Twilight giggles.
+ Twilight giggles. "Pinkie Pie, you are being very coy."
 
 *Twenty-two. It's not time yet.*
 
@@ -104,7 +104,7 @@ Twilight's voice becomes melancholic, "I can't say yet, and yes, very well."
 
 "What's your idea?"
 
-"I can't say yet, just don't read the letter until I'm finished writing it," Twilight says before she starts writing again.
+"I can't say yet. Just don't read the letter until I'm finished writing it," Twilight says before she starts writing again.
 
 *Thirteen. She's going to share with me.*
 
@@ -205,7 +205,7 @@ My eyes are full of joyous tears as I set the note down.
 
 *Zero. Yay! I love you too, Twilight!*
 
-I spring forward wrapping Twilight in the biggest most lovingest tackle-hug.
+I spring forward and wrap Twilight in the biggest, most lovingest tackle-hug.
 
 She recovers and hugs back, giggling.
 
