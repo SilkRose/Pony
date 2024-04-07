@@ -1,4 +1,4 @@
-# A Letter to Pinkie Pie
+# Pinkie Pie
 
 Dear Pinkie Pie,
 
