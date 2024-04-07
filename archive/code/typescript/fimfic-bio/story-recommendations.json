@@ -201,5 +201,24 @@
 				"story-id": 553709
 			}
 		]
+	},
+	{
+		"author-name": "Rego",
+		"author-id": 180061,
+		"best-pony": "Fluttershy",
+		"recommendations": [
+			{
+				"story-name": "Forbidden Melodies",
+				"story-id": 215890
+			},
+			{
+				"story-name": "The Guard of a Different Stripe",
+				"story-id": 512761
+			},
+			{
+				"story-name": "Parent-Teacher Conference",
+				"story-id": 535353
+			}
+		]
 	}
 ]
