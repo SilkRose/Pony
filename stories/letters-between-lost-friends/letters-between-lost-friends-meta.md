@@ -25,7 +25,7 @@ Letters sent to the mane 6 and their reply.
 - Applejack: Rego
 - Celestia: sirenc0re
 - Luna: Tiki Bat
-- Starlight: 
+- Starlight: Jymbroni
 - Sunset: 
 - Trixie: 
 - Spike: ThePeer
