@@ -19,14 +19,14 @@ Letters sent to the mane 6 and their reply.
 ### Characters:
 Gallus: making friends
 - Starlight: Jymbroni
-- Trixie: 
+- Trixie: Scriblits
 
 Ocellus: confidence issues
 - Rainbow Dash: 6-D Pegasus
-- Sunset: Scriblits?
+- Sunset: 
 
 Yona: fitting in
-- Pinkie Pie: Visharo?
+- Pinkie Pie: Visharo
 - Twilight Sparkle: SecondPrances
 
 Sandbar:
