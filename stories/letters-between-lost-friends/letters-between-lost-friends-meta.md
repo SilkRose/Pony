@@ -1,4 +1,4 @@
-# Letters From a Lost Friend
+# Letters Between Lost Friends
 
 ## Synopsis:
 Letters sent to the mane 6 and their reply.
