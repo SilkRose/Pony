@@ -132,29 +132,45 @@ I tighten my wing around her as we stare together in the mirror. We sit together
 
 As the lights dim around us and the melodies start, I can feel the song coming on.
 
-"Oh, Rarity," – I point at her – "why are you so blue?"  
-"Don't you know," – I hold her close as we sit together – "I'm here for you"  
-"To pamper you," – I brush her chest with the brush – "yes, it's true"  
-"Need to see your smile." I hold my hooves under her chin.  
-"Make it last a while." I lift her chin, getting dangerously close to kissing her.
+I point at her.
+
+"Oh, Rarity, why are you so blue?  
+Don't you know? I'm here to pamper you!"
+
+I hold her close as we sit together, and brush the fur on her chest. Then, I pull her close, and lift her chin with a hoof.
+
+"Need to see your smile,  
+Make it last just a little while."
+
+As I look into her eyes, I feel drawn, pulled dangerously close to her precious lips.
 
 Rarity takes over singing for the next verse.
 
-"Oh, Rainbow," – She points at me – "it's true, you are my crush."  
-"You showed me love," – She holds her head to my chest – "you took my brush."  
-"Gave me attention," – She nuzzles my cheek – "you made me blush."  
-"You put me in a state of bliss." She holds my chin with her hooves.  
-"Its you, who I want to kiss." She lifts my chin, bringing our lips together, and we kiss.
+She points at me.
 
-We sing the last verse in unison.
+"Oh, Rainbow, it's true, you are my crush.  
+You showed me love, you made me blush."  
 
-"Oh, (Rarity | Rainbow)," – We point at each other – "here to give my love, never ending"  
-"Always be here for you," – We hug – "best friends, always trending"  
-"My heart needs you," – We hold each other's hoof to our chest – "wants mending"  
-"Need to hold your hoof, every way." We hold hooves and blush.  
-"Need to make you blush, every day." We finish the song with a tight, loving embrace.
+She leans in, holding us even closer. She puts her hooves under my chin and lifts gently.
 
-After the song we sit on the pedestal, holding hooves while staring blissfully into each other's eyes.
+"You put me in a state of bliss.  
+It's you, who I want to kiss."
+
+She stares deeply into my eyes before bringing our lips together, and we kiss.
+
+We sing the last verse together. We point at each other, then hug.
+
+"Oh, (Rarity | Rainbow), here to give my love, never ending.  
+Always be here for you, best friends, always trending."
+
+We hold each other's hoof to our chest, while blushing.
+
+"Need to hold your hoof, every way.  
+Need to make you blush, every day."
+
+We finish the song with a tight, loving embrace.
+
+After the song, we sit on the pedestal, holding hooves while staring blissfully into each other's eyes.
 
 I can only think of two things at this moment, both repeating in my mind over and over: I love her, and I want to kiss her, again.
 
