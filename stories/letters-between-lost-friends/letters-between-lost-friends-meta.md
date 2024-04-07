@@ -13,6 +13,7 @@ Letters sent to the mane 6 and their reply.
 - I write a letter to each of the mane 6 of thanks and gratitude.
 - Each reply from the mane 6 is written by a different author.
 - Need to decide the sender's POV.
+- 250-word letters?
 - 
 
 ### Characters:
@@ -27,7 +28,7 @@ Letters sent to the mane 6 and their reply.
 - Starlight: 
 - Sunset: 
 - Trixie: 
-- Spike: 
+- Spike: ThePeer
 
 ## Chapters:
 [Pinkie Pie](01-pinkie-pie.md)
