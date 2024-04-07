@@ -17,17 +17,28 @@ Letters sent to the mane 6 and their reply.
 - 
 
 ### Characters:
+Gallus: making friends
+- Starlight: Jymbroni
+- Trixie: 
+
+Ocellus: confidence issues
+- Rainbow Dash: 6-D Pegasus
+- Sunset: Scriblits?
+
+Yona: fitting in
 - Pinkie Pie: Visharo?
-- Twilight Sparkle: 6-D Pegasus
-- Rarity: Pearls
-- Fluttershy: PseudoBob
-- Rainbow Dash: Scriblits?
+- Twilight Sparkle: SecondPrances
+
+Sandbar:
 - Applejack: Rego
 - Celestia: sirenc0re
+
+Silverstream: getting over trauma
+- Fluttershy: PseudoBob
 - Luna: Tiki Bat
-- Starlight: Jymbroni
-- Sunset: 
-- Trixie: 
+
+Smolder: accepting yourself
+- Rarity: Pearls
 - Spike: ThePeer
 
 ## Chapters:
