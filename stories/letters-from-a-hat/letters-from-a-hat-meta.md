@@ -38,7 +38,9 @@ Letters sent to the mane 6 and their reply.
 - :Scriblits
 
 ## Chapters:
-[Pinkie Pie](01-pinkie-pie.md)
+[Letters from a Hat](./01-letters-from-a-hat.md)
+
+[Pinkie Pie](02-pinkie-pie.md)
 
 
 ## Cover:
