@@ -10,36 +10,32 @@ Letters sent to the mane 6 and their reply.
 
 
 ## Ideas:
-- I write a letter to each of the mane 6 of thanks and gratitude.
-- Each reply from the mane 6 is written by a different author.
-- Need to decide the sender's POV.
+- Each pony sends a letter to a random pony.
+- They also send a reply to the pony who sent them a letter.
+- They don't write the reply letter until they get their reply.
+- Has a prologue and an epilogue.
+- This whole thing is a friendship building exercise.
 - 250-word letters?
+- Plays out like a game of telephone.
+- Anything goes as long as it's E rated.
+- 
 - 
 
 ### Characters:
-Gallus: making friends
+- Pinkie Pie: Silk Rose
 - Starlight: Jymbroni
-- Trixie: Scriblits
-
-Ocellus: confidence issues
+- Trixie: 
 - Rainbow Dash: 6-D Pegasus
-- Sunset: 
-
-Yona: fitting in
-- Pinkie Pie: Visharo
+- Sunset: heartlessons
 - Twilight Sparkle: SecondPrances
-
-Sandbar:
 - Applejack: Rego
 - Celestia: sirenc0re
-
-Silverstream: getting over trauma
 - Fluttershy: PseudoBob
 - Luna: Tiki Bat
-
-Smolder: accepting yourself
 - Rarity: Pearls
 - Spike: ThePeer
+- :Visharo
+- :Scriblits
 
 ## Chapters:
 [Pinkie Pie](01-pinkie-pie.md)
