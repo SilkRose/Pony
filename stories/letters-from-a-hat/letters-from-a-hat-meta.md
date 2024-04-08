@@ -20,24 +20,23 @@ Letters sent to the mane 6 and their reply.
 - Anything goes as long as it's E rated.
 - Twilight breaks up an argument and suggests doing a friendship exercise to the group.
 - Pinkie asks to go first.
-- Somehow a lot more names get put into the hat.
+- Somehow, a lot more names get put into the hat.
 - 
 
 ### Characters:
 - Pinkie Pie: Silk Rose
 - Starlight: Jymbroni
-- Trixie: 
-- Rainbow Dash: 6-D Pegasus
+- Trixie: gapty
+- Rainbow Dash: Scriblits
 - Sunset: heartlessons
-- Twilight Sparkle: SecondPrances
+- Twilight Sparkle: 6-D Pegasus
 - Applejack: Rego
 - Celestia: sirenc0re
 - Fluttershy: PseudoBob
 - Luna: Tiki Bat
 - Rarity: Pearls
 - Spike: ThePeer
-- :Visharo
-- :Scriblits
+- Cadence: Visharo
 
 ## Chapters:
 [Letters from a Hat](./01-letters-from-a-hat.md)
