@@ -1,8 +1,42 @@
 # Letters from a Hat
 
+Rainbow Dash, Rarity, and Applejack were in Rarity's kitchen discussing the very common topic of changeling clothing.
 
+"They should wear racing stripes, that'd make them look cooler," Rainbow Dash said enthusiastically.
 
-Twilight suggested, "Why don't we do a friendship building exercise, doesn't that sound fun?"
+"What an absolutely preposterous idea. What would a racing stripe clothing article even look like? Why would a changeling want to wear that?" Rarity commented.
+
+"That is the dumbest clothing idea I've ever heard, at least Rarity's idea would look good," Applejack said flatly.
+
+"Like your idea is any better, they don't need protective clothing if they can just change into something with actual armor," Rainbow retorted.
+
+"They don't need racing stripes, and they don't need armor, they need to look good," Rarity brought up.
+
+"At least my idea is practical, who cares if they look nice or go faster, or whatever," Applejack said.
+
+"I care," Rainbow and Rarity said in unison.
+
+"Well, I don't," Applejack said harshly.
+
+"I don't care about your idea, it's not as practical as you think it is," Rainbow said.
+
+"Her idea makes sense, unlike racing stripes," Rarity chided.
+
+Twilight trotted into the kitchen. "What's going on in here?"
+
+Applejack answered, "Rainbow Dash is trying to put racing stripes on changelings and Rarity is trying to make them look pretty."
+
+"Applejack is trying to give them armor when they can just change into something with armor," Rainbow added.
+
+"My idea is objectively the best, a changeling who looks nice will feel the nicest," Rarity said.
+
+The three ponies' argument only intensified when they started name-calling, clearly taking this way too seriously.
+
+Twilight just sighed as she stared at three of the ponies that will be with her for the rest of her life.
+
+Twilight just watched them bicker back and forth as she collected herself. A few moments later, she shouted, "Stop!"
+
+After everypony stopped their arguing, Twilight suggested, "Why don't we do a friendship building exercise, doesn't that sound fun?"
 
 Rarity nodded.
 
