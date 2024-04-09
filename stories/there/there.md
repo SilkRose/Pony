@@ -22,6 +22,14 @@ I consider getting up. I still know where everything is in our room. I haven't d
 
 I've sat at her makeup desk and stared at myself in the mirror so many times, imagining all the ways she used to dress me up and do my makeup. I used to give her a hard time, but I loved it so much. How much I'd give to just do it once more with her. To do anything once more with her.
 
+The closest I've been to what could be considered smiling since she… happened at that makeup desk. I would have probably smiled if Fluttershy let me keep my eyes closed for more than five seconds. She tried so hard, but she isn't her…
+
+They all tried, but none of it helped. Not Fluttershy doing my makeup. Not Pinkie throwing me a party. Not Twilight reading me Daring Do. Not Applejack challenging me to a competition. They all cared, but they can't replace her.
+
+They would never admit it, but I think a few of them are judging me. I saw it in their eyes the first time they saw me wearing one of her dresses. I was just trying to feel something… anything. I can't help that I loved her so much.
+
+Fluttershy has started asking a lot of questions when she comes over to help me change dresses. I don't answer any of them, it's too painful. Its hard enough pointing out the dress I want to wear.
+
 
 
 As I'm about to open my eyes and face the reality I knew was awaiting me, a hoof reached over me and held me tight.
