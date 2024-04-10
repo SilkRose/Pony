@@ -30,6 +30,8 @@ They would never admit it, but I think a few of them are judging me. I saw it in
 
 Fluttershy has started asking a lot of questions when she comes over to help me change dresses. I don't answer any of them, it's too painful. It's hard enough pointing out the dress I want to wear.
 
+Fluttershy still talks to me, can't say the same for Pinkie. I'm sure she will come around, but I did ruin the one thing that felt like it was helping me. The few times Pinkie held me at night were nice, at least for the minutes I thought she was her. The illusion and our friendship shattered the second I kissed Pinkie.
+
 
 
 As I'm about to open my eyes and face the reality I knew was awaiting me, a hoof reached over me and held me tight.
