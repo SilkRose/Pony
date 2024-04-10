@@ -1,6 +1,6 @@
 # There
 
-She was there. She had to be.
+She will be there, she has to be.
 
 I laid in our bed, unwilling to open my eyes. It had been the same routine for weeks, an hour of pretending that if I kept my eyes closed long enough, that she would be there when I opened them. That she would still be… I bite back another sob, unable to handle another bout of tears.
 
@@ -28,7 +28,7 @@ They all tried, but none of it helped. Not Fluttershy doing my makeup. Not Pinki
 
 They would never admit it, but I think a few of them are judging me. I saw it in their eyes the first time they saw me wearing one of her dresses. I was just trying to feel something… anything. I can't help that I loved her so much.
 
-Fluttershy has started asking a lot of questions when she comes over to help me change dresses. I don't answer any of them, it's too painful. Its hard enough pointing out the dress I want to wear.
+Fluttershy has started asking a lot of questions when she comes over to help me change dresses. I don't answer any of them, it's too painful. It's hard enough pointing out the dress I want to wear.
 
 
 
