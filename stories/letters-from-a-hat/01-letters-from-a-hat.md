@@ -1,34 +1,44 @@
 # Letters from a Hat
 
-Rainbow Dash, Rarity, and Applejack were in Rarity's kitchen discussing the very common topic of changeling clothing.
+Rainbow Dash, Rarity, and Applejack were in Rarity's kitchen having a discussion on an upcoming peace treaty with the changelings.
 
-"They should wear racing stripes, that'd make them look cooler," Rainbow Dash said enthusiastically.
+"I just think we should put our best hoof forward, and a fashion show would do great," Rarity said.
 
-"What an absolutely preposterous idea. What would a racing stripe clothing article even look like? Why would a changeling want to wear that?" Rarity commented.
+"We should try to impress them with a Wonderbolt's show. That would give them a great impression of us," Rainbow suggested.
 
-"That is the dumbest clothing idea I've ever heard, at least Rarity's idea would look good," Applejack said flatly.
+"What we should do is hold a rodeo, show them a really good time," Applejack said.
 
-"Like your idea is any better, they don't need protective clothing if they can just change into something with actual armor," Rainbow retorted.
+"We want to show them our best, our most artistic and regal showing," Rarity said.
 
-"They don't need racing stripes, and they don't need armor, they need to look good," Rarity brought up.
+"A Wonderbolt's show is our best. Equestria's top flyers doing a highly choreographed and synchronized aerial show," Rainbow replied.
 
-"At least my idea is practical, who cares if they look nice or go faster, or whatever," Applejack said.
+"A rodeo would be our best, some of the best rodeo ponies around Equestria would show up," Applejack said.
 
-"I care," Rainbow and Rarity said in unison.
+"We can't do all three, we barely have enough time to do one," Rarity added.
 
-"Well, I don't," Applejack said harshly.
+"The Wonderbolt's probably already have a show ready that we can do," Rainbow said.
 
-"I don't care about your idea, it's not as practical as you think it is," Rainbow said.
+"I got some favors I could call in, we could get a rodeo setup in no time," Applejack said.
 
-"Her idea makes sense, unlike racing stripes," Rarity chided.
+"I already have a new dress line I could show off, it would help my business a lot," Rarity offered.
 
 Twilight trotted into the kitchen. "What's going on in here?"
 
-Applejack answered, "Rainbow Dash is trying to put racing stripes on changelings and Rarity is trying to make them look pretty."
+"We are just discussing what would be best to do for the changeling visit. I suggested a fashion show, but these two have their own ideas," Rarity answered.
 
-"Applejack is trying to give them armor when they can just change into something with armor," Rainbow added.
+"A Wonderbolt's show is the best idea," Rainbow said.
 
-"My idea is objectively the best, a changeling who looks nice will feel the nicest," Rarity said.
+"A rodeo is a way better idea," Applejack said.
+
+Twilight suggested, "What if you all compromised?"
+
+"A fashion show starring the Wonderbolt's could work, but would never work with a rodeo theme too," Rarity answered.
+
+"A Wonderbolt's show wouldn't work with them wearing fancy dresses, but they could participate in a rodeo maybe," Rainbow said.
+
+"A rodeo wouldn't be much of a rodeo with a bunch of ponies who've never done it before. Although I guess the participants could wear some fancy uniforms," Applejack said.
+
+
 
 The three ponies' argument only intensified when they started name-calling, clearly taking this way too seriously.
 
