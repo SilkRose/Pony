@@ -32,7 +32,13 @@ Fluttershy has started asking a lot of questions when she comes over to help me 
 
 Fluttershy still talks to me, can't say the same for Pinkie. I'm sure she will come around, but I did ruin the one thing that felt like it was helping me. The few times Pinkie held me at night were nice, at least for the minutes I thought she was her. The illusion and our friendship shattered the second I kissed Pinkie.
 
+As I'm about to open my eyes and face the reality I knew was awaiting me, I think of her face, and know the sun will never shine the same way with her gone. I think of her voice, and I know the birds will never sing the same to my ear, no sound could be so genital and kind, no sound could be so generous.
 
+I don't open my eyes.
+
+Worse yet, I imagine if my eyes were open, if my eyes were open that I would see here in everything. I would see her in the dappled light of the sun, in the gentile shade of the trees, in the smile of my friends. Or worse even yet, I fear I would forget her face, forget her pale beauty in the beauty of the world. I could never forget her but what if I did, I could never forgive myself, worse yet what If I forget her, and forget not to forgive myself. No better to keep my eyes shut, to remember her every detail.
+
+Perhaps at the end of the day opening my eyes doesn't change anything, she's still gone, and I'm still alone. No, I'll stay in bed, keep my eyes closed, and pretend I'm still not broken. For another minute… another hour… another day… years a lifetime, it would make no difference, I would remember her no better. 
 
 As I'm about to open my eyes and face the reality I knew was awaiting me, a hoof reached over me and held me tight.
 
