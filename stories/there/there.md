@@ -38,7 +38,7 @@ Scootaloo comes and sees me every day. She still looks up to me, somehow. I don'
 
 Sweetie Belle is still staying here. I think it's only for me, though. Sometimes I think she is the only pony that understands me, since she was her sister. She only puts on a brave face where the door is open. I can hear her crying at night, and I think she can hear mine.
 
-Twilight checks on me almost daily, but only stays as long as I don't beg her. She tries to make me smile, and sometimes I want to, but I could never force it. She mentions stuff she's rad in books, about healing and getting over things, but I can't get my mind off her.
+Twilight checks on me almost daily, but only stays as long as I don't beg her. She tries to make me smile, and sometimes I want to, but I could never force it. She mentions stuff she's read in books, about healing and getting over things, but I can't get my mind off her.
 
 Applejack comes around when her chores aren't taking up too much of her time. We don't talk about much, but it's nice to not be alone. She brings me desserts and cider to try to cheer me up. It almost helps, but I usually give the sweets to Sweetie Belle.
 
