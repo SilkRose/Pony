@@ -22,4 +22,4 @@ She will be there, she has to be.
 [There](./there.md)
 
 ## Cover:
-![cover](./there-cover.jpg)
+![cover](./there-cover-5.jpg)
