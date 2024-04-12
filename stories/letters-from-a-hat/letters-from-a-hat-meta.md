@@ -38,7 +38,7 @@ Some suggestions from Twilight to include in your letter(s):
 - Rainbow Dash: Scriblits
 - Sunset: heartlessons
 - Twilight Sparkle: 6-D Pegasus
-- Applejack: Rego
+- Applejack: [Rego](https://www.fimfiction.net/user/180061/Rego)
 - Celestia: sirenc0re
 - Fluttershy: PseudoBob
 - Luna: Tiki Bat
@@ -47,7 +47,8 @@ Some suggestions from Twilight to include in your letter(s):
 - Cadence: Visharo
 
 ## Chapters:
-[Pinkie Pie](01-pinkie-pie.md)
-
+1. [Pinkie Pie → Applejack (Silk Rose)](01-pinkie-pie.md)
+2. [Applejack → Pinkie Pie (Rego)](./02-applejack.md)
 
 ## Cover:
+
