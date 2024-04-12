@@ -49,6 +49,8 @@ Some suggestions from Twilight to include in your letter(s):
 ## Chapters:
 1. [Pinkie Pie → Applejack (Silk Rose)](01-pinkie-pie.md)
 2. [Applejack → Pinkie Pie (Rego)](./02-applejack.md)
+3. [Applejack → Fluttershy (Rego)](./03-applejack.md)
+4. 
 
 ## Cover:
 
