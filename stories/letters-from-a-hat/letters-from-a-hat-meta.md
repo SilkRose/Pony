@@ -19,9 +19,13 @@ Letters sent to the mane 6 and their reply.
 - 
 
 ### Prompt:
-Pinkie Pie has started a chain reaction, sending out a letter and a hat full of cutie mark drawings to Applejack. Who, upon reading the letter, kept the chain going by writing a reply to Pinkie and a letter to the name she pulled from this hat. As the chain continues, the past order is known, and their letters can be read, but not quoted, and should not be gleamed for private information. Pinkie's intention is to build connections and friendships among a group of semi-connected friends. The last pony in the chain is to write to Pinkie, who will write a reply back.
+Twilight Sparkle found Rarity, Rainbow Dash, and Applejack arguing over how best to represent Equestria to the changelings in an upcoming peace treaty visit. Rarity wanted to do a fashion show, Rainbow a Wonderbolt's show, and Applejack wanted to do a rodeo.
 
-Some suggestions to include in your letter(s):
+After the argument escalated to name-calling, Twilight broke it up and suggested they do a friendship exercise. Pinkie Pie showed up quickly after a game was mentioned and joined in as well.
+
+Twilight explained the exercise. It was a chain of letters designed to strengthen friendships and give everypony a chance to cool off. The first pony (Pinkie Pie) will send a letter to the pony whose name she pulled from a hat, and that pony would reply, then write a letter to the pony they got from the hat. Rinse and repeat, until the last pony, who writes to Pinkie Pie. Then she writes them a reply.
+
+Some suggestions from Twilight to include in your letter(s):
 1. A compliment of the recipient.
 2. Something they might not know about you.
 3. A message to a pony you know hasn't been within the chain.
