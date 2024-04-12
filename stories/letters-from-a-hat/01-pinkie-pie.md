@@ -1,4 +1,4 @@
-# Pinkie Pie → Applejack
+# Pinkie Pie → Applejack (Silk Rose)
 
 Dear Applejack,
 
