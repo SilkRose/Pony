@@ -4,7 +4,7 @@
 Rainbow Dash refuses to open her eyes and accept that Rarity is no longer with them.
 
 ## Description:
-She will be there, she has to be.
+Rarity will be there when Rainbow opens her eyes, she has to be.
 
 Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for making the cover, and helping with the writing.
 
