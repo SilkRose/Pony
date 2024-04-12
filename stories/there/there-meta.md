@@ -6,7 +6,7 @@ Rainbow Dash refuses to open her eyes and accept that Rarity is no longer with t
 ## Description:
 She will be there, she has to be.
 
-Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
+Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for making the cover, and helping with the writing.
 
 Thanks to [ThePeer](https://www.fimfiction.net/user/537939/ThePeer) for pre-reading.
 
@@ -22,3 +22,4 @@ She will be there, she has to be.
 [There](./there.md)
 
 ## Cover:
+![cover](./there-cover.jpg)
