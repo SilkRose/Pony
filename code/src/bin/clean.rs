@@ -11,7 +11,7 @@ fn main() {
 		Regex::new(r"archive").unwrap(),
 		Regex::new(r"README.md$").unwrap(),
 	]);
-	let single = Regex::new(r"[‘’\`´ʹ]").unwrap();
+	let single = Regex::new(r"[‘’´ʹ]").unwrap();
 	let double = Regex::new(r"[“”‟″]").unwrap();
 	find_files_in_dir("../", true, &includes, &excludes)
 		.iter()
