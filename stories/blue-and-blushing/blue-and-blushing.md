@@ -193,3 +193,5 @@ She just smiles and kisses my cheek before hugging me tightly.
 I smile in her embrace and hug back.
 
 I love you, Rarity, and I'm happy that you love me, too.
+
+![Rainbow & Rarity](../this-story-did-not-explode/chapter-art/rainbow-and-rarity.png)
