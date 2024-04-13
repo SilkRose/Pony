@@ -93,20 +93,21 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 ## Special Thanks:
 While I may be the main contributor to this repository, I have had help, and thus I would like to give a special thanks to the following ponies:
 
-- **[Meadowsys]** for general coding help, cover feedback, and for creating [wiwi] and V1 of [fimd][original fimd].
+- **[Meadowsys]** for general coding help, cover feedback, pre-reading, and for creating [wiwi] and V1 of [fimd][original fimd].
 - **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
+- **[Scriblits Talo]** for collaborative writing, pre-reading, and making the cover for There.
 - **[knighty]** for granting me access to the FIMFiction [API][FIMFiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
 - **[IrradiatedPirateBooty]** for illustrating covers.
 - **TikiBat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
+- **[Rego]** for collaborative writing.
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for Timeless Tears.
 - **[gapty]** for proofreading.
 - **[Hyper Star]** for proofreading and pre-reading.
 - **[Visharo]** for pre-reading.
-- **[Scriblits Talo]** for pre-reading.
 - **[MoonSong Darkstone]** for writing The Saddest Rainbow.
 - **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
 - **EDEN** for collaborative writing.
@@ -172,6 +173,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [knighty]: https://www.fimfiction.net/user/1/knighty "FIMFiction"
 [Visharo]: https://www.fimfiction.net/user/449252/Visharo "FIMFiction"
 [ThePeer]: https://www.fimfiction.net/user/537939/ThePeer "FIMFiction"
+[Rego]: https://www.fimfiction.net/user/180061/Rego "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
