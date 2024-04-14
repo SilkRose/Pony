@@ -61,11 +61,12 @@ checksum = "11157ac094ffbdde99aa67b23417ebdd801842852b500e395a45a9c0aac03e4a"
 
 [[package]]
 name = "fimdoc"
-version = "0.5.0"
+version = "0.6.0"
 dependencies = [
  "camino",
- "golden-oak-library",
+ "golden-oak-library 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "indoc",
+ "markdown",
 ]
 
 [[package]]
@@ -74,11 +75,26 @@ version = "0.1.0"
 dependencies = [
  "atty",
  "camino",
+ "fimdoc",
  "indoc",
  "markdown",
  "rayon",
  "regex",
  "serde",
+ "terminal_color_builder",
+]
+
+[[package]]
+name = "golden-oak-library"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "982f38e679fc2937aa9d1d0b2d7244c0c1e89fe8aee35f9bbe25f3554f2402dc"
+dependencies = [
+ "atty",
+ "camino",
+ "markdown",
+ "rayon",
+ "regex",
  "terminal_color_builder",
 ]
 
@@ -140,7 +156,7 @@ dependencies = [
 name = "rarity"
 version = "0.2.0"
 dependencies = [
- "golden-oak-library",
+ "golden-oak-library 0.1.0",
 ]
 
 [[package]]

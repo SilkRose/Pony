@@ -1,6 +1,6 @@
 use camino::Utf8Path;
+use fimdoc::parser::{parse, WarningType};
 use golden_oak_library::fs::find_files_in_dir;
-use golden_oak_library::md_to_bbcode::{parse, WarningType};
 use rayon::prelude::*;
 use regex::Regex;
 use std::fs;
