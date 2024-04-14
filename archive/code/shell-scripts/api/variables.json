@@ -1,7 +1,0 @@
-{
-	"git_clone_url": "https://github.com/SilkRose/Pony.git",
-	"git_repo_url": "https://github.com/SilkRose/Pony",
-	"pony_json_url": "https://pony.silkrose.dev/api/v1/pony.json",
-	"pony_commits_json_url": "https://pony.silkrose.dev/api/v1/pony-commits.json",
-	"shell_script_hashes_url": "https://pony.silkrose.dev/shell-script-hashes"
-}
