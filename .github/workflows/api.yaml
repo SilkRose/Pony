@@ -15,7 +15,9 @@ jobs:
         steps:
             - name: Build API
               run: |
-                  curl -s https://raw.githubusercontent.com/SilkRose/Pony/mane/code/pony-api.sh | sh
+                  curl -s https://raw.githubusercontent.com/SilkRose/Pony/mane/archive/code/shell-scripts/pony-api.sh -o pony-api.sh
+                  chmod +x ./pony-api.sh
+                  ./pony-api.sh
 
             - name: Deploy API
               run: |
