@@ -1,6 +1,10 @@
+#![deny(missing_docs)]
+#![doc = include_str!("../readme.md")]
+
 use camino::Utf8Path;
 use regex::Regex;
 
+/// Find files function, takes in a dir, and Vectors of Regex, for what the returned files must include and exclude.
 pub fn find_files_in_dir(
 	dir: &str, recursive: bool, includes: &Option<Vec<Regex>>, excludes: &Option<Vec<Regex>>,
 ) -> Vec<String> {

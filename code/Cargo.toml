@@ -19,6 +19,7 @@ repository = "https://github.com/SilkRose/Pony"
 atty = { version = "0.2.14" }
 camino = { workspace = true }
 fimdoc = { path = "./packages/fimdoc" }
+fluttershy = { path = "./packages/fluttershy" }
 #lazy_static = { version = "1.4.0" }
 rayon = { version = "1.10.0" }
 regex = { workspace = true }
@@ -41,6 +42,7 @@ serde = { version = "1", features = ["derive"] }
 resolver = "2"
 members = [
 	"packages/fimdoc",
+	"packages/fluttershy",
 	"packages/rarity"
 ]
 

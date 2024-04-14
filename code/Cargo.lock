@@ -70,12 +70,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "fluttershy"
+version = "0.1.0"
+dependencies = [
+ "camino",
+ "regex",
+]
+
+[[package]]
 name = "golden-oak-library"
 version = "0.1.0"
 dependencies = [
  "atty",
  "camino",
  "fimdoc",
+ "fluttershy",
  "rayon",
  "regex",
  "terminal_color_builder",

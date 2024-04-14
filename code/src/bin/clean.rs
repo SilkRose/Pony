@@ -1,4 +1,4 @@
-use golden_oak_library::fs::find_files_in_dir;
+use fluttershy::find_files_in_dir;
 use regex::Regex;
 use std::fs;
 

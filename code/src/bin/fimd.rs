@@ -1,6 +1,6 @@
 use camino::Utf8Path;
 use fimdoc::parser::{parse, WarningType};
-use golden_oak_library::fs::find_files_in_dir;
+use fluttershy::find_files_in_dir;
 use rayon::prelude::*;
 use regex::Regex;
 use std::fs;

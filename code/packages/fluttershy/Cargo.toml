@@ -1,0 +1,15 @@
+[package]
+name = "fluttershy"
+version = "0.1.0"
+description = "Library for file system operations."
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/fluttershy"
+readme = "./readme.md"
+
+repository = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+
+[dependencies]
+camino = { workspace = true }
+regex = { workspace = true }
