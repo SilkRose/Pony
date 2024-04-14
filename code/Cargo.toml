@@ -20,12 +20,10 @@ atty = { version = "0.2.14" }
 camino = { workspace = true }
 fimdoc = { path = "./packages/fimdoc" }
 #lazy_static = { version = "1.4.0" }
-indoc = { workspace = true }
-markdown = { workspace = true }
 rayon = { version = "1.10.0" }
-regex = { version = "1.10.4" }
+regex = { workspace = true }
 #reqwest = { version = "0.12", features = ["json"] }
-serde = { version = "1", features = ["derive"] }
+#serde = { workspace = true }
 #serde_json = { version = "1", features = ["preserve_order"] }
 terminal_color_builder = { version = "0.1.1" }
 #tokio = { version = "1", features = ["full"] }
@@ -36,6 +34,8 @@ camino = { version = "1.1.6" }
 golden-oak-library = { path = "./", version = "0.1.0" }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.16" }
+regex = { version = "1.10.4" }
+serde = { version = "1", features = ["derive"] }
 
 [workspace]
 resolver = "2"

@@ -1,6 +1,6 @@
 [package]
 name = "rarity"
-version = "0.2.0"
+version = "0.3.0"
 description = "Library for counting word occurances in a string, and deriving statistics from it."
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/rarity"
 
@@ -10,4 +10,5 @@ edition = { workspace = true }
 license = { workspace = true }
 
 [dependencies]
-golden-oak-library = { workspace = true }
+regex = { workspace = true }
+serde = { workspace = true }

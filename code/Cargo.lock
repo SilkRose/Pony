@@ -76,11 +76,8 @@ dependencies = [
  "atty",
  "camino",
  "fimdoc",
- "indoc",
- "markdown",
  "rayon",
  "regex",
- "serde",
  "terminal_color_builder",
 ]
 
@@ -154,9 +151,10 @@ dependencies = [
 
 [[package]]
 name = "rarity"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
- "golden-oak-library 0.1.0",
+ "regex",
+ "serde",
 ]
 
 [[package]]
