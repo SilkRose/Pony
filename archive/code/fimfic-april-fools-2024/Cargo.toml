@@ -2,7 +2,7 @@
 name = "fimfic-april-fools-2024"
 version = "0.1.0"
 description = "Mane code for the Exploding Story event that took place April 1st, 2024."
-homepage = "https://github.com/SilkRose/Pony/tree/mane/archive/code/rust/fimfic-april-fools-2024"
+homepage = "https://github.com/SilkRose/Pony/tree/mane/archive/code/fimfic-april-fools-2024"
 authors = ["Silk Rose", "Meadowsys"]
 edition = "2021"
 license = "MIT"
