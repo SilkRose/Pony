@@ -27,7 +27,7 @@ format_count() {
 
 cover_count() {
 	cover_count=0
-	story_folders=$(find ./stories ./external-covers -mindepth 1 -maxdepth 1 -type d)
+	story_folders=$(find ./stories ./archive/external-covers -mindepth 1 -maxdepth 1 -type d)
 	for folder in $story_folders; do
 		cover_folder_count=$(find "$folder" -type f -name "*cover*.*" \
 			-not -name "*concept*" \
