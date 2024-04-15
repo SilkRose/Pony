@@ -12,6 +12,6 @@ license = { workspace = true }
 
 [dependencies]
 camino = { workspace = true }
-golden-oak-library = { version = "0.1.0" }
 indoc = { workspace = true }
 markdown = { workspace = true }
+pinkie-pie = { workspace = true }
