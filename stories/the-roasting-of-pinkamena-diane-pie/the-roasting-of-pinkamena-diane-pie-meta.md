@@ -46,7 +46,7 @@ Pinkie Pie is roasted by her friends and family.
 
 ### Fluttershy:
 Each of her jokes is written by a different pony.
-- (Angel Bunny): 
+- (Angel Bunny): Oh, the pink one? She's annoying and loud.
 - (Spike): 
 - (Rainbow): 
 - (Twilight): 
@@ -69,6 +69,11 @@ Each of her jokes is written by a different pony.
 ### Marble (said aloud by Maud):
 - Being Pinkie's twin sister can be hard. Especially when she does all the talking for you. Particularly when she doesn't stop talking ever. Specifically, when she has to ask your crush out for you.
 - Everyone assumes the reason Pinkie is the older twin is because she wanted to make new friends, only having Marble for the past nine months. But, the real reason why Pinkie is the older twin is, Marble pushed her out first so she could enjoy a few minutes of peace and quiet.
+- 
+
+### Maud:
+- My sister sparkles as brightly as a freshly excavated chunk of golden pyrite. She bears the same mindset as well, namely, not to be taken seriously.
+- I tried to study a rare formation of naturally occurring pink calcium sulfate I found when we were younger, but I didn't get very far before Pinkie had used it to draw a series of numbers and boxes on the road to our farm. One could say it left me hopping mad.
 - 
 
 ### Spike:
@@ -96,7 +101,7 @@ They each tell a joke about their sister and a joke about Pinkie.
 - You're so pink, I couldn't find you in a pig pin.
 - Applejack's so stubborn, she'd win an argument against a brick wall.
 - You'd make a great alarm clock if you had an off button.
-- Rarity changes outfits so often, she literally just changed when we got up here. What's that, the third outfit tonight, Rarity?
+- Rarity takes so long to get ready, I'm surprised she isn't still at home, doing her makeup.
 
 ### Pinkie's Mirror Pool Clone
 - I heard the Cakes went to everyone else in Equestria before you for child care, even a group of children. I would know because they asked me before you.
