@@ -17,7 +17,7 @@ version = "0.2.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "d9b39be18770d11421cdb1b9947a45dd3f37e93092cbf377614828a319d5fee8"
 dependencies = [
- "hermit-abi",
+ "hermit-abi 0.1.19",
  "libc",
  "winapi",
 ]
@@ -79,13 +79,10 @@ dependencies = [
 
 [[package]]
 name = "golden-oak-library"
-version = "0.1.0"
+version = "0.2.0"
 dependencies = [
- "camino",
- "fimdoc",
- "fluttershy",
- "rayon",
- "regex",
+ "num_cpus",
+ "serde",
 ]
 
 [[package]]
@@ -96,6 +93,12 @@ checksum = "62b467343b94ba476dcb2500d242dadbb39557df889310ac77c5d99100aaac33"
 dependencies = [
  "libc",
 ]
+
+[[package]]
+name = "hermit-abi"
+version = "0.3.9"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d231dfb89cfffdbc30e7fc41579ed6066ad03abda9e567ccafae602b97ec5024"
 
 [[package]]
 name = "indoc"
@@ -125,11 +128,32 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "6c8640c5d730cb13ebd907d8d04b52f55ac9a2eec55b440c8892f40d56c76c1d"
 
 [[package]]
+name = "num_cpus"
+version = "1.16.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "4161fcb6d602d4d2081af7c3a45852d875a03dd337a6bfdd6e06407b61342a43"
+dependencies = [
+ "hermit-abi 0.3.9",
+ "libc",
+]
+
+[[package]]
 name = "pinkie-pie"
 version = "0.1.0"
 dependencies = [
  "atty",
  "terminal_color_builder",
+]
+
+[[package]]
+name = "pony"
+version = "0.0.0"
+dependencies = [
+ "camino",
+ "fimdoc",
+ "fluttershy",
+ "rayon",
+ "regex",
 ]
 
 [[package]]

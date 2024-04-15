@@ -1,8 +1,8 @@
 [package]
-name = "golden-oak-library"
-version = "0.1.0"
-description = "CLI tools and library for various uses in the Pony repo."
-#readme = "./readme.md"
+name = "pony"
+version = "0.0.0"
+description = "Binaries for the Pony repo."
+publish = false
 authors.workspace = true
 edition.workspace = true
 license.workspace = true
@@ -26,6 +26,7 @@ atty = { version = "0.2.14" }
 camino = { version = "1.1.6" }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.16" }
+num_cpus = {version = "1.16.0" }
 pinkie-pie = { path = "./packages/pinkie-pie", version = "0.1.0" }
 regex = { version = "1.10.4" }
 serde = { version = "1", features = ["derive"] }
@@ -36,6 +37,7 @@ resolver = "2"
 members = [
 	"packages/fimdoc",
 	"packages/fluttershy",
+	"packages/golden-oak-library",
 	"packages/pinkie-pie",
 	"packages/rainbow-dash",
 	"packages/rarity"
