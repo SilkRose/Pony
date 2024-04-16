@@ -16,10 +16,16 @@ repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
 camino = { workspace = true }
-fimdoc = { path = "./packages/fimdoc" }
-fluttershy = { path = "./packages/fluttershy" }
 rayon = { version = "1.10.0" }
 regex = { workspace = true }
+
+fimdoc = { path = "./packages/fimdoc" }
+fluttershy = { path = "./packages/fluttershy" }
+golden-oak-library = { path = "./packages/golden-oak-library" }
+pinkie-pie = { path = "./packages/pinkie-pie" }
+rainbow-dash = { path = "./packages/rainbow-dash" }
+rarity = { path = "./packages/rarity" }
+twilight-sparkle = { path = "./packages/twilight-sparkle" }
 
 [workspace.dependencies]
 atty = { version = "0.2.14" }
@@ -27,10 +33,11 @@ camino = { version = "1.1.6" }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.16" }
 num_cpus = {version = "1.16.0" }
-pinkie-pie = { path = "./packages/pinkie-pie", version = "0.1.0" }
 regex = { version = "1.10.4" }
 serde = { version = "1", features = ["derive"] }
 terminal_color_builder = { version = "0.1.1" }
+
+pinkie-pie = { path = "./packages/pinkie-pie", version = "0.1.0" }
 
 [workspace]
 resolver = "2"
@@ -40,7 +47,8 @@ members = [
 	"packages/golden-oak-library",
 	"packages/pinkie-pie",
 	"packages/rainbow-dash",
-	"packages/rarity"
+	"packages/rarity",
+	"packages/twilight-sparkle"
 ]
 
 [profile.dev]

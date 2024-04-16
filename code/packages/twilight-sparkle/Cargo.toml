@@ -1,0 +1,14 @@
+[package]
+name = "twilight-sparkle"
+version = "1.0.0"
+description = "Markdown word counting and statistics library."
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/twilight-sparkle"
+readme = "./readme.md"
+
+repository = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+
+[dependencies]
+markdown = { workspace = true }

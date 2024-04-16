@@ -152,8 +152,13 @@ dependencies = [
  "camino",
  "fimdoc",
  "fluttershy",
+ "golden-oak-library",
+ "pinkie-pie",
+ "rainbow-dash",
+ "rarity",
  "rayon",
  "regex",
+ "twilight-sparkle",
 ]
 
 [[package]]
@@ -271,6 +276,13 @@ name = "terminal_color_builder"
 version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "51bc10d4f2e7a2580c9fbeb550ef748c81430cfaffb046f047204bb5a75dbff0"
+
+[[package]]
+name = "twilight-sparkle"
+version = "1.0.0"
+dependencies = [
+ "markdown",
+]
 
 [[package]]
 name = "unicode-id"
