@@ -8,8 +8,9 @@ fn main() {
 		Regex::new(r".md$").unwrap(),
 	]);
 	let excludes = Some(vec![
+		Regex::new(r"-meta.md$").unwrap(),
 		Regex::new(r"archive").unwrap(),
-		Regex::new(r"README.md$").unwrap(),
+		Regex::new(r"readme.md$").unwrap(),
 	]);
 	let single = Regex::new(r"[‘’´ʹ]").unwrap();
 	let double = Regex::new(r"[“”‟″]").unwrap();
