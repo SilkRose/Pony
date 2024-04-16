@@ -12,7 +12,7 @@ Rarity leads me over to a couch, where we sit down.
 
 "Were you looking for me because of that?" I point to the title in the sky, which is visible indoors, somehow.
 
-"Yes..." There's a slight smile on her face. "I wanted to let this happen naturally, but it appears the universe has other plans."
+"Yes…" There's a slight smile on her face. "I wanted to let this happen naturally, but it appears the universe has other plans."
 
 "That's kind of why I'm here, too."
 
