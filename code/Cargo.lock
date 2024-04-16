@@ -153,6 +153,7 @@ dependencies = [
  "fimdoc",
  "fluttershy",
  "golden-oak-library",
+ "indoc",
  "pinkie-pie",
  "rainbow-dash",
  "rarity",
