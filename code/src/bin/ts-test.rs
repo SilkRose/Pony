@@ -52,7 +52,7 @@ fn main() {
 			}
 		}
 	};
-	let bbcode = parse(md);
+	let bbcode = parse(md.clone());
 	match output {
 		Output::Stdout => println!("{bbcode}"),
 		Output::File => {
@@ -66,4 +66,5 @@ fn main() {
 			}
 		}
 	}
+	println!("{}", twilight_sparkle::word_count(md));
 }

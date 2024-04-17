@@ -283,6 +283,7 @@ name = "twilight-sparkle"
 version = "1.0.0"
 dependencies = [
  "markdown",
+ "regex",
 ]
 
 [[package]]

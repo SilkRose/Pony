@@ -12,3 +12,4 @@ license = { workspace = true }
 
 [dependencies]
 markdown = { workspace = true }
+regex = { workspace = true }
