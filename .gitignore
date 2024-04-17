@@ -1,8 +1,14 @@
 # Folders
-.obsidian/
-.stfolder/
-.vscode/
-/code/dist/
+.*/
 /code/pony-temp/
 /code/publish/
-/code/target/
+
+# Sub-folders
+**/node_modules/
+**/target/
+**/dist/
+
+# Sub-files
+**/bun.lockb
+**/cookies.json
+**/pnpm-lock.yaml
