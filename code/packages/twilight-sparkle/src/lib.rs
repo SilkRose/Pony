@@ -1,14 +1,17 @@
 //#![deny(missing_docs)]
 //#![doc = include_str!("../readme.md")]
-#![allow(dead_code)]
+#![allow(dead_code, unused_imports, unused_mut, unused_variables)]
 /// Parser module for library use.
 pub mod parser;
 
 use hyphenation::{Hyphenator, Language, Load, Standard};
+use parser::parse;
 use regex::Regex;
 
-pub struct Options {
+pub struct StatOptions {
+	text_type: TextType,
 	easy_words: Option<Vec<String>>,
+	paragraph_separator: ParagraphSeparator,
 	page_style: PageCount,
 	reading_time: ReadingTime,
 	word_borders: WordBorders,
@@ -19,9 +22,20 @@ pub struct Options {
 	em_dash: PunctuationType,
 }
 
+pub enum TextType {
+	Markdown,
+	Plaintext,
+}
+
+pub enum ParagraphSeparator {
+	NewLine,
+	DoubleNewLine,
+	NewLineTab,
+}
+
 pub enum PageCount {
 	WordsPerPage(usize),
-	CharPerPAge(usize),
+	CharPerPage(usize),
 	CharPageSize((usize, usize)),
 }
 
@@ -87,4 +101,18 @@ fn remove_punctuation(text: String) -> String {
 	let text = re.replace_all(&text, "");
 	let re = Regex::new(r"[^\w\s]").unwrap();
 	re.replace_all(&text, "").into()
+}
+
+pub fn get_stats(text: String, options: StatOptions) {
+	let text = match options.text_type {
+		TextType::Markdown => parse(text),
+		TextType::Plaintext => text,
+	};
+	let paragraph_separator = match options.paragraph_separator {
+		ParagraphSeparator::NewLine => "\n",
+		ParagraphSeparator::DoubleNewLine => "\n\n",
+		ParagraphSeparator::NewLineTab => "\n\t",
+	};
+	let chars = text.chars().count();
+	let paragraphs = text.split(paragraph_separator).collect::<Vec<_>>();
 }
