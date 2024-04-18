@@ -6,16 +6,16 @@ use parser::parse;
 use regex::Regex;
 
 pub struct WordOptions {
-	text_type: TextType,
-	replace_hyphen: bool,
-	remove_apostrophe: bool,
-	remove_punctuation: bool,
+	pub text_type: TextType,
+	pub replace_hyphen: bool,
+	pub remove_apostrophe: bool,
+	pub remove_punctuation: bool,
 }
 
 #[derive(Debug)]
 pub struct SearchWords {
-	identifier: String,
-	regex: Regex,
+	pub identifier: String,
+	pub regex: Regex,
 }
 
 #[derive(Debug)]
@@ -43,6 +43,7 @@ pub fn get_word_stats(
 		true => remove_punctuation(text),
 		false => text,
 	};
+	println!("{text}");
 	words
 		.iter()
 		.map(|word| WordResult {

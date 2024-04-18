@@ -1,10 +1,12 @@
 use camino::Utf8Path;
 use pinkie_pie::stderr::{print_error, ErrColor};
 use pinkie_pie::stdin::get_stdin;
+use regex::Regex;
 use std::process::exit;
 use std::{env, fs};
 use twilight_sparkle::parser::parse;
-use twilight_sparkle::text_stats::word_count;
+use twilight_sparkle::text_stats::{word_count, TextType};
+use twilight_sparkle::word_stats::{get_word_stats, SearchWords, WordOptions};
 
 enum Input {
 	Stdin,
@@ -67,5 +69,27 @@ fn main() {
 			}
 		}
 	}
-	println!("{}", word_count(md));
+	println!("{}", word_count(md.clone()));
+
+	let options = WordOptions {
+		text_type: TextType::Markdown,
+		replace_hyphen: false,
+		remove_apostrophe: true,
+		remove_punctuation: true,
+	};
+	let mut words: Vec<SearchWords> = Vec::new();
+
+	let word1 = SearchWords {
+		identifier: String::from("Rainbow Dash"),
+		regex: Regex::new(r"\b(Rainbow Dash|Rainbow|!(Rarity )Dash|Dashie)\b").unwrap(),
+	};
+
+	let word2 = SearchWords {
+		identifier: String::from("Rarity"),
+		regex: Regex::new(r"Rarity").unwrap(),
+	};
+	words.push(word1);
+	words.push(word2);
+
+	println!("{:#?}", get_word_stats(md, options, words));
 }
