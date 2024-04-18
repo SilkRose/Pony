@@ -8,6 +8,44 @@ use regex::Regex;
 
 pub struct Options {
 	remove_apostrophe: bool,
+	remove_punctuation: bool,
+	page_style: PageCount,
+	reading_time: ReadingTime,
+	short_word_max: usize,
+	long_word_min: usize,
+	comma: PunctuationType,
+	single_quote: PunctuationType,
+	double_quote: PunctuationType,
+	ellipses: PunctuationType,
+	hyphen: PunctuationType,
+	en_dash: PunctuationType,
+	em_dash: PunctuationType,
+	period: PunctuationType,
+	exclamation_mark: PunctuationType,
+	question_mark: PunctuationType,
+	colon: PunctuationType,
+	semicolon: PunctuationType,
+	paranthesis: PunctuationType,
+}
+
+pub enum PunctuationType {
+	ClauseSeparator,
+	ClauseContainer,
+	ClauseTerminator,
+	DynamicDetection,
+	SkipOver,
+}
+
+pub enum PageCount {
+	WordsPerPage(usize),
+	CharPerPAge(usize),
+	CharPageSize((usize, usize)),
+}
+
+pub enum ReadingTime {
+	WordsPerMin(usize),
+	MsPerChar(usize),
+	MsPerSyllable(usize),
 }
 
 pub struct Stats {
@@ -16,15 +54,21 @@ pub struct Stats {
 	letter_chars: usize,
 	md_syntax_chars: usize,
 	punctuation_chars: usize,
+	syllable_count: usize,
+	syllables_per_word: Vec<usize>,
+	word_lengths_chars: Vec<usize>,
+	word_lengths_letters: Vec<usize>,
 	total_words: usize,
 	unique_words: usize,
+	clause_lengths: Vec<usize>,
 	sentence_lengths: Vec<usize>,
 	total_sentences: usize,
 	paragraph_lengths: Vec<usize>,
 	total_paragraphs: usize,
 	total_pages: usize,
-	complex_words: usize,
-	simple_words: usize,
+	long_words: usize,
+	medium_words: usize,
+	short_words: usize,
 	reading_time: usize,
 	words: Vec<Word>,
 	search_words: Option<Vec<WordStat>>,
