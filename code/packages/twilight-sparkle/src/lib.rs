@@ -4,6 +4,7 @@
 /// Parser module for library use.
 pub mod parser;
 
+use hyphenation::{Hyphenator, Language, Load, Standard};
 use regex::Regex;
 
 pub struct Options {
@@ -89,6 +90,13 @@ pub struct WordStat {
 
 pub fn word_count(text: String) -> usize {
 	let plain_text = parser::parse(text);
+	let en_us = Standard::from_embedded(Language::EnglishUS).unwrap();
+	let hyphenated: Vec<&str> = en_us
+		.hyphenate("Fluttershy")
+		.into_iter()
+		.segments()
+		.collect();
+	println!("{:?}", hyphenated);
 	remove_punctuation(plain_text).split_whitespace().count()
 }
 

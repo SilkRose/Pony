@@ -11,5 +11,6 @@ edition = { workspace = true }
 license = { workspace = true }
 
 [dependencies]
+hyphenation = { workspace = true }
 markdown = { workspace = true }
 regex = { workspace = true }

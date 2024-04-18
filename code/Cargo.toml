@@ -31,6 +31,7 @@ twilight-sparkle = { path = "./packages/twilight-sparkle" }
 [workspace.dependencies]
 atty = { version = "0.2.14" }
 camino = { version = "1.1.6" }
+hyphenation = { version = "0.8.3", features = ["embed_en-us"] }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.16" }
 num_cpus = {version = "1.16.0" }
