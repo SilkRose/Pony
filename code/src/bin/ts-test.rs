@@ -4,6 +4,7 @@ use pinkie_pie::stdin::get_stdin;
 use std::process::exit;
 use std::{env, fs};
 use twilight_sparkle::parser::parse;
+use twilight_sparkle::text_stats::word_count;
 
 enum Input {
 	Stdin,
@@ -66,5 +67,5 @@ fn main() {
 			}
 		}
 	}
-	println!("{}", twilight_sparkle::word_count(md));
+	println!("{}", word_count(md));
 }

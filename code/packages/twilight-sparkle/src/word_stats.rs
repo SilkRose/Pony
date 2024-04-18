@@ -1,4 +1,4 @@
-use crate::{parser, TextType};
+use crate::{parser, text_stats::TextType};
 use parser::parse;
 use regex::Regex;
 
