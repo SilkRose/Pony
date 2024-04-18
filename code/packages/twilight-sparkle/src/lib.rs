@@ -3,6 +3,7 @@
 #![allow(dead_code, unused_imports, unused_mut, unused_variables)]
 /// Parser module for library use.
 pub mod parser;
+pub mod word_stats;
 
 use hyphenation::{Hyphenator, Language, Load, Standard};
 use parser::parse;
