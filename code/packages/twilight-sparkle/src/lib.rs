@@ -8,33 +8,15 @@ use hyphenation::{Hyphenator, Language, Load, Standard};
 use regex::Regex;
 
 pub struct Options {
-	remove_apostrophe: bool,
-	remove_punctuation: bool,
+	easy_words: Option<Vec<String>>,
 	page_style: PageCount,
 	reading_time: ReadingTime,
-	short_word_max: usize,
-	long_word_min: usize,
-	comma: PunctuationType,
-	single_quote: PunctuationType,
-	double_quote: PunctuationType,
+	word_borders: WordBorders,
+	syllable: SyllableCount,
 	ellipses: PunctuationType,
 	hyphen: PunctuationType,
 	en_dash: PunctuationType,
 	em_dash: PunctuationType,
-	period: PunctuationType,
-	exclamation_mark: PunctuationType,
-	question_mark: PunctuationType,
-	colon: PunctuationType,
-	semicolon: PunctuationType,
-	paranthesis: PunctuationType,
-}
-
-pub enum PunctuationType {
-	ClauseSeparator,
-	ClauseContainer,
-	ClauseTerminator,
-	DynamicDetection,
-	SkipOver,
 }
 
 pub enum PageCount {
@@ -49,43 +31,43 @@ pub enum ReadingTime {
 	MsPerSyllable(usize),
 }
 
+pub enum WordBorders {
+	Chars((usize, usize)),
+	Syllables((usize, usize)),
+}
+
+pub enum SyllableCount {
+	Standard,
+	Extended((usize, usize)),
+}
+
+pub enum PunctuationType {
+	ClauseSeparator,
+	SentenceSeparator,
+	DynamicDetect(Option<usize>),
+	Whitespace,
+	Ignore,
+}
+
 pub struct Stats {
-	total_chars: usize,
-	text_chars: usize,
-	letter_chars: usize,
-	md_syntax_chars: usize,
-	punctuation_chars: usize,
+	char_count: usize,
+	chars_per_word: Vec<usize>,
 	syllable_count: usize,
 	syllables_per_word: Vec<usize>,
-	word_lengths_chars: Vec<usize>,
-	word_lengths_letters: Vec<usize>,
-	total_words: usize,
-	unique_words: usize,
-	clause_lengths: Vec<usize>,
-	sentence_lengths: Vec<usize>,
-	total_sentences: usize,
-	paragraph_lengths: Vec<usize>,
-	total_paragraphs: usize,
+	word_count: usize,
+	unique_word_count: usize,
+	clause_count: usize,
+	chars_per_clause: Vec<usize>,
+	words_per_clause: Vec<usize>,
+	sentence_count: usize,
+	words_per_sentence: Vec<usize>,
+	paragraph_count: usize,
+	words_per_paragraph: Vec<usize>,
 	total_pages: usize,
 	long_words: usize,
 	medium_words: usize,
 	short_words: usize,
 	reading_time: usize,
-	words: Vec<Word>,
-	search_words: Option<Vec<WordStat>>,
-}
-
-pub struct Word {
-	text: String,
-	count: usize,
-	indexes: Vec<usize>,
-}
-
-pub struct WordStat {
-	text: String,
-	regex: String,
-	count: usize,
-	indexes: Vec<usize>,
 }
 
 pub fn word_count(text: String) -> usize {
