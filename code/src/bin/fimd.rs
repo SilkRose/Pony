@@ -1,6 +1,6 @@
+use applejack::find_files_in_dir;
 use camino::Utf8Path;
 use fimdoc::parser::{parse, WarningType};
-use fluttershy::find_files_in_dir;
 use rayon::prelude::*;
 use regex::Regex;
 use std::fs;
