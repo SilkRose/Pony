@@ -19,6 +19,7 @@ fn main() {
 		Regex::new(r"ideas.md$|names.md$|README.md$").unwrap(),
 	]);
 	find_files_in_dir("../", true, &includes, &excludes)
+		.unwrap()
 		.par_iter()
 		.for_each(|input| {
 			let md = fs::read_to_string(input).unwrap();

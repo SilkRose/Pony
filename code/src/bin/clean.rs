@@ -15,6 +15,7 @@ fn main() {
 	let single = Regex::new(r"[‘’´ʹ]").unwrap();
 	let double = Regex::new(r"[“”‟″]").unwrap();
 	find_files_in_dir("../", true, &includes, &excludes)
+		.unwrap()
 		.iter()
 		.for_each(|file| {
 			let mut data = fs::read_to_string(file).unwrap();
