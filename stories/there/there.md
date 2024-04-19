@@ -24,7 +24,7 @@ I have trotted around enough with my eyes closed to know where everything was. M
 
 I've sat at her makeup desk and stared at myself in the mirror so many times, imagining all the ways she used to dress me up and do my makeup. I used to give her a hard time, but I loved it so much. How much would I give to just do it once more with her? To do anything once more with her?
 
-That makeup desk is where I've been closest to what could be considered happy since she... I would probably have smiled if Fluttershy let me keep my eyes closed for more than five seconds. She tried so hard, but she isn't her…
+That makeup desk is where I've been closest to what could be considered happy since she… I would probably have smiled if Fluttershy let me keep my eyes closed for more than five seconds. She tried so hard, but she isn't her…
 
 They all tried, but none of it helped. Not Fluttershy doing my makeup. Not Pinkie throwing me a party. Not Twilight reading me Daring Do. Not Applejack challenging me to a competition. They all cared, but they can't replace her.
 
