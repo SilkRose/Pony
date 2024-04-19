@@ -1,4 +1,4 @@
-use applejack::find_files_in_dir;
+use applejack::regex_filter::find_files_in_dir;
 use camino::Utf8Path;
 use fimdoc::parser::{parse, WarningType};
 use rayon::prelude::*;

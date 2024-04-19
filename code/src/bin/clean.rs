@@ -1,4 +1,4 @@
-use applejack::find_files_in_dir;
+use applejack::regex_filter::find_files_in_dir;
 use regex::Regex;
 use std::fs;
 
