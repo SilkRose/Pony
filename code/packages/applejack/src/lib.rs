@@ -17,18 +17,10 @@ pub fn find_files_in_dir(
 		if utf8_path.is_dir() && recursive {
 			files.extend(find_files_in_dir(&path, recursive, includes, excludes)?);
 		} else if utf8_path.is_file() {
-			if let Some(excludes) = excludes {
-				if excludes.iter().any(|forbidden| forbidden.is_match(&path)) {
-					continue;
-				}
-			}
-			if let Some(includes) = includes {
-				if includes.iter().all(|required| required.is_match(&path)) {
-					files.push(path.to_string());
-					continue;
-				}
-			} else {
+			if requirements_met(&path, includes, excludes) {
 				files.push(path);
+			} else {
+				continue;
 			}
 		}
 	}
@@ -45,23 +37,29 @@ pub fn find_dirs_in_dir(
 		let path = path?.path().to_string();
 		let utf8_path = Utf8Path::new(&path);
 		if utf8_path.is_dir() {
-			if let Some(excludes) = excludes {
-				if excludes.iter().any(|forbidden| forbidden.is_match(&path)) {
-					continue;
-				}
-			}
-			if let Some(includes) = includes {
-				if includes.iter().all(|required| required.is_match(&path)) {
-					dirs.push(path.to_string());
-					continue;
-				}
-			} else {
+			if requirements_met(&path, includes, excludes) {
 				dirs.push(path);
 				if recursive {
 					dirs.extend(find_dirs_in_dir(dir, recursive, includes, excludes)?)
 				}
+			} else {
+				continue;
 			}
 		}
 	}
 	Ok(dirs)
+}
+
+fn requirements_met(
+	string: &str, includes: &Option<Vec<Regex>>, excludes: &Option<Vec<Regex>>,
+) -> bool {
+	if let Some(excludes) = excludes {
+		if excludes.iter().any(|forbidden| forbidden.is_match(string)) {
+			return false;
+		}
+	}
+	if let Some(includes) = includes {
+		return includes.iter().all(|required| required.is_match(string));
+	}
+	true
 }
