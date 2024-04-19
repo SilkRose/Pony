@@ -10,14 +10,8 @@ fn main() {
 		fs::remove_dir_all("./publish").unwrap()
 	}
 	fs::create_dir("./publish").unwrap();
-	let includes = Some(vec![
-		Regex::new(r"stories|flash-fiction").unwrap(),
-		Regex::new(r".md$").unwrap(),
-	]);
-	let excludes = Some(vec![
-		Regex::new(r"archive").unwrap(),
-		Regex::new(r"ideas.md$|names.md$|README.md$").unwrap(),
-	]);
+	let includes = Some(Regex::new(r".*(stories|flash-fiction).*\.md$").unwrap());
+	let excludes = Some(Regex::new(r".*archive.*|.*(ideas|names|readme)\.md$").unwrap());
 	find_files_in_dir("../", true, &includes, &excludes)
 		.unwrap()
 		.par_iter()

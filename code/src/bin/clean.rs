@@ -3,15 +3,8 @@ use regex::Regex;
 use std::fs;
 
 fn main() {
-	let includes = Some(vec![
-		Regex::new(r"stories|flash-fiction").unwrap(),
-		Regex::new(r".md$").unwrap(),
-	]);
-	let excludes = Some(vec![
-		Regex::new(r"-meta.md$").unwrap(),
-		Regex::new(r"archive").unwrap(),
-		Regex::new(r"readme.md$").unwrap(),
-	]);
+	let includes = Some(Regex::new(r".*(stories|flash-fiction).*\.md$").unwrap());
+	let excludes = Some(Regex::new(r".*archive.*|(-meta|readme)\.md$").unwrap());
 	let single = Regex::new(r"[‘’´ʹ]").unwrap();
 	let double = Regex::new(r"[“”‟″]").unwrap();
 	find_files_in_dir("../", true, &includes, &excludes)
