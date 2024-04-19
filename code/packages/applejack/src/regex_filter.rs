@@ -4,7 +4,7 @@ use std::io;
 
 /// Find files function, takes in a dir, and Vectors of Regex, for what the returned files must include and exclude.
 pub fn find_files_in_dir(
-	dir: &str, recursive: bool, includes: &Option<Vec<Regex>>, excludes: &Option<Vec<Regex>>,
+	dir: &str, recursive: bool, includes: &Option<Regex>, excludes: &Option<Regex>,
 ) -> io::Result<Vec<String>> {
 	let mut files = vec![];
 	let paths = Utf8Path::read_dir_utf8(dir.into())?;
@@ -26,7 +26,7 @@ pub fn find_files_in_dir(
 
 /// Find dirs function, takes in a dir, and Vectors of Regex, for what the returned dirs must include and exclude.
 pub fn find_dirs_in_dir(
-	dir: &str, recursive: bool, includes: &Option<Vec<Regex>>, excludes: &Option<Vec<Regex>>,
+	dir: &str, recursive: bool, includes: &Option<Regex>, excludes: &Option<Regex>,
 ) -> io::Result<Vec<String>> {
 	let mut dirs = vec![];
 	let paths = Utf8Path::read_dir_utf8(dir.into())?;
@@ -47,16 +47,14 @@ pub fn find_dirs_in_dir(
 	Ok(dirs)
 }
 
-fn requirements_met(
-	string: &str, includes: &Option<Vec<Regex>>, excludes: &Option<Vec<Regex>>,
-) -> bool {
+fn requirements_met(string: &str, includes: &Option<Regex>, excludes: &Option<Regex>) -> bool {
 	if let Some(excludes) = excludes {
-		if excludes.iter().any(|forbidden| forbidden.is_match(string)) {
+		if excludes.is_match(string) {
 			return false;
 		}
 	}
 	if let Some(includes) = includes {
-		return includes.iter().all(|required| required.is_match(string));
+		return includes.is_match(string);
 	}
 	true
 }
