@@ -75,3 +75,22 @@ where
 	}
 	Ok(())
 }
+
+/// Move files function, takes a source and destination folder.
+/// recursive option allows it to go deeper than the root source directory.
+/// closure lets you filter which files get copied.
+pub fn move_files_from_dir<T, F>(
+	source_dir: &str, destination_dir: &str, recursive: bool, filter: Option<F>,
+) -> io::Result<()>
+where
+	F: Fn(&str) -> bool + Clone,
+{
+	let source = Utf8Path::new(source_dir);
+	let dest = Utf8Path::new(destination_dir);
+	let files = find_files_in_dir(source_dir, recursive, filter)?;
+	for file in files {
+		let destination = dest.join(Utf8Path::new(&file).strip_prefix(source).unwrap());
+		fs::rename(file, destination)?;
+	}
+	Ok(())
+}
