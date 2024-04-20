@@ -11,5 +11,6 @@ edition = { workspace = true }
 license = { workspace = true }
 
 [dependencies]
+fancy-regex = { workspace = true }
 num_cpus = { workspace= true }
 serde = { workspace = true }

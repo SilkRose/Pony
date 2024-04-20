@@ -16,6 +16,7 @@ repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
 camino = { workspace = true }
+fancy-regex = { workspace = true }
 indoc = { workspace = true }
 rayon = { version = "1.10.0" }
 regex = { workspace = true }
@@ -32,6 +33,7 @@ twilight-sparkle = { path = "./packages/twilight-sparkle" }
 [workspace.dependencies]
 atty = { version = "0.2.14" }
 camino = { version = "1.1.6" }
+fancy-regex = { version = "0.13.0" }
 hyphenation = { version = "0.8.3", features = ["embed_en-us"] }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.16" }

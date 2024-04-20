@@ -16,7 +16,6 @@ name = "applejack"
 version = "1.0.0"
 dependencies = [
  "camino",
- "regex",
 ]
 
 [[package]]
@@ -38,6 +37,21 @@ checksum = "b1f45e9417d87227c7a56d22e471c6206462cba514c7590c09aff4cf6d1ddcad"
 dependencies = [
  "serde",
 ]
+
+[[package]]
+name = "bit-set"
+version = "0.5.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "0700ddab506f33b20a03b13996eccd309a48e5ff77d0d95926aa0210fb4e95f1"
+dependencies = [
+ "bit-vec",
+]
+
+[[package]]
+name = "bit-vec"
+version = "0.6.3"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "349f9b6a179ed607305526ca489b34ad0a41aed5f7980fa90eb03160b69598fb"
 
 [[package]]
 name = "camino"
@@ -77,6 +91,17 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "11157ac094ffbdde99aa67b23417ebdd801842852b500e395a45a9c0aac03e4a"
 
 [[package]]
+name = "fancy-regex"
+version = "0.13.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "531e46835a22af56d1e3b66f04844bed63158bc094a628bec1d321d9b4c44bf2"
+dependencies = [
+ "bit-set",
+ "regex-automata",
+ "regex-syntax",
+]
+
+[[package]]
 name = "fimdoc"
 version = "0.6.0"
 dependencies = [
@@ -100,6 +125,7 @@ checksum = "7ab85b9b05e3978cc9a9cf8fea7f01b494e1a09ed3037e16ba39edc7a29eb61a"
 name = "golden-oak-library"
 version = "0.2.0"
 dependencies = [
+ "fancy-regex",
  "num_cpus",
  "serde",
 ]
@@ -199,6 +225,7 @@ version = "0.0.0"
 dependencies = [
  "applejack",
  "camino",
+ "fancy-regex",
  "fimdoc",
  "fluttershy",
  "golden-oak-library",
