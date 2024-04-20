@@ -4,12 +4,12 @@
 use camino::Utf8Path;
 use std::io;
 
-/// Find files function, takes in a dir, and a function for what to include / exclude.
+/// Find files function, takes in a dir, and a closure for what to include.
 pub fn find_files_in_dir<F>(
 	dir: &str, recursive: bool, filter: Option<F>,
 ) -> io::Result<Vec<String>>
 where
-	F: FnMut(&str) -> bool + std::marker::Copy,
+	F: Fn(&str) -> bool + Clone,
 {
 	let mut files = vec![];
 	let paths = Utf8Path::read_dir_utf8(dir.into())?;
@@ -17,9 +17,9 @@ where
 		let path = path?.path().to_string();
 		let utf8_path = Utf8Path::new(&path);
 		if utf8_path.is_dir() && recursive {
-			files.extend(find_files_in_dir(&path, recursive, filter)?);
+			files.extend(find_files_in_dir(&path, recursive, filter.clone())?);
 		} else if utf8_path.is_file() {
-			if let Some(mut filter) = filter {
+			if let Some(ref filter) = filter {
 				if filter(&path) {
 					files.push(path);
 				}
@@ -31,10 +31,10 @@ where
 	Ok(files)
 }
 
-/// Find dirs function, takes in a dir, and a function for what to include / exclude.
+/// Find dirs function, takes in a dir, and a closure for what to include.
 pub fn find_dirs_in_dir<F>(dir: &str, recursive: bool, filter: Option<F>) -> io::Result<Vec<String>>
 where
-	F: FnMut(&str) -> bool + std::marker::Copy,
+	F: Fn(&str) -> bool + Clone,
 {
 	let mut dirs = vec![];
 	let paths = Utf8Path::read_dir_utf8(dir.into())?;
@@ -42,7 +42,7 @@ where
 		let path = path?.path().to_string();
 		let utf8_path = Utf8Path::new(&path);
 		if utf8_path.is_dir() {
-			if let Some(mut filter) = filter {
+			if let Some(ref filter) = filter {
 				if filter(&path) {
 					dirs.push(path);
 					if recursive {
