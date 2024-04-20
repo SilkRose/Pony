@@ -1,8 +1,9 @@
-use applejack::regex_filter::find_files_in_dir;
+use applejack::find_files_in_dir;
 use camino::Utf8Path;
+use fancy_regex::Regex;
 use fimdoc::parser::{parse, WarningType};
+use golden_oak_library::regex::matches;
 use rayon::prelude::*;
-use regex::Regex;
 use std::fs;
 
 fn main() {
@@ -12,15 +13,19 @@ fn main() {
 	fs::create_dir("./publish").unwrap();
 	let includes = Some(Regex::new(r".*(stories|flash-fiction).*\.md$").unwrap());
 	let excludes = Some(Regex::new(r".*archive.*|.*(ideas|names|readme)\.md$").unwrap());
-	find_files_in_dir("../", true, &includes, &excludes)
-		.unwrap()
-		.par_iter()
-		.for_each(|input| {
-			let md = fs::read_to_string(input).unwrap();
-			let bbcode = parse(md, &WarningType::Quiet);
-			let output = input.replace("../", "./publish/").replace(".md", ".txt");
-			fs::create_dir_all(Utf8Path::new(&output).parent().unwrap()).unwrap();
-			fs::write(output, bbcode).unwrap();
-			println!("Converted: {input}");
-		});
+	find_files_in_dir(
+		"../",
+		true,
+		Some(|path: &_| matches(path, &includes, &excludes)),
+	)
+	.unwrap()
+	.par_iter()
+	.for_each(|input| {
+		let md = fs::read_to_string(input).unwrap();
+		let bbcode = parse(md, &WarningType::Quiet);
+		let output = input.replace("../", "./publish/").replace(".md", ".txt");
+		fs::create_dir_all(Utf8Path::new(&output).parent().unwrap()).unwrap();
+		fs::write(output, bbcode).unwrap();
+		println!("Converted: {input}");
+	});
 }
