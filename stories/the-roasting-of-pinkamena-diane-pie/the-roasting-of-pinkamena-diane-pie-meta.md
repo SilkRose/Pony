@@ -34,7 +34,7 @@ Pinkie Pie is roasted by her friends and family.
 - Pinkie, darling, if your mane were any more unkempt, a bird would start building a nest in it. Oh wait, I think I see one now. Fluttershy, what is it saying? (Have a bird planted for the joke?)
 - I heard that her mane and tail taste like cotton candy, while I have never been brazen enough to try, it at least explains where Gummy gets his nutrition. I don't think I've ever seen her feed him.
 - After making the dresses for the Gala, I'm surprised I haven't had to do any repairs. I would've thought Pinkie would try to eat the fake candy stitched into her dress at least twice by now.
-- You ever slept in the same bed as Pinkie, I did once. She started moving around a bunch, here I thought she was trying to cuddle. Turns out it was a Pinkie Sense and the thing falling was her! She jumped and landed on me with a giant hug.
+- You ever slept in the same bed as Pinkie, I did once. She started moving around a bunch, here I thought she was trying to cuddle. Turns out it was a Pinkie Sense and a book fell on my head.
 - 
 
 ### Rainbow:
@@ -45,14 +45,13 @@ Pinkie Pie is roasted by her friends and family.
 - 
 
 ### Fluttershy:
-Each of her jokes is written by a different pony.
-- (Angel Bunny): Oh, the pink one? She's annoying and loud.
-- (Spike): 
-- (Rainbow): 
-- (Twilight): 
-- (Rarity): 
-- (Applejack): 
-- (Pinkie): 
+Each of her jokes is written by a different pet.
+- Angel Bunny: Oh, the pink one? She's annoying and loud.
+- Owlicious: Who? But keeps laughing when Fluttershy explains.
+- Tank: 
+- Opalescence: 
+- Winona: 
+- Gummy: 
 
 ### Applejack:
 - They need to classify you as some kind of weapon, that girl could agitate the apples off a pear tree.
@@ -98,7 +97,7 @@ Each of her jokes is written by a different pony.
 They each tell a joke about their sister and a joke about Pinkie.
 - Pinkie is so bad at Pin the tail on the Pony, I saw her pin it to herself.
 - Rainbow Dash naps so much, she'd miss her own funeral.
-- You're so pink, I couldn't find you in a pig pin.
+- You're so pink, I couldn't find you in a pig pen.
 - Applejack's so stubborn, she'd win an argument against a brick wall.
 - You'd make a great alarm clock if you had an off button.
 - Rarity takes so long to get ready, I'm surprised she isn't still at home, doing her makeup.
