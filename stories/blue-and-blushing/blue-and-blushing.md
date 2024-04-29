@@ -16,21 +16,21 @@ I take her over to one of her pedestals, and point for her to get up. She does s
 
 I pick up some tissues from a box on the floor and use them to clean Rarity's face of makeup. As I finish, she sniffles with the barest hint of a smile on her face.
 
-Taking the hairbrush from her mane in my mouth, I start to brush her mane. I brush gently as I make sure to get each stray hair.
+Taking the hairbrush from her mane in my mouth, I start to brush her mane. I go gently as I make sure to get each stray hair.
 
-As I brush, I can see the smile on her face grow, still mixed with confusion. I get down to the lower part of her mane and swipe a quick nuzzle on her chest in between one of the brushes.
+As I brush, I can see the smile on her face grow, still mixed with confusion. I get down to the lower part of her mane and swipe a quick nuzzle on her chest in between one of the sweeps.
 
 She's so soft.
 
 I finish brushing her mane and look at her with a smile. She looks back with a smile and the barest hint of a blush.
 
-I move behind her and start brushing her tail. I look up between sweeps and see she is still looking forward.
+I move behind her and start brushing her tail. I look up in between swipes and see she is still looking forward.
 
 She looks so pretty from every angle. I try not to stare at her too much, and focus on my pampering.
 
-After finishing her tail, I slyly rub up against her side as get up onto the pedestal with her. I nuzzle her cheek for the briefest of moments before walking around her front to her other side.
+After finishing her tail, I slyly rub up against her side as I get up onto the pedestal with her. I nuzzle her cheek for the briefest of moments before walking around her front to her other side.
 
-I start to brush her coat as I notice the blush that has formed on my face. I look up at Rarity between swipes of the brush.
+I start to work her coat as I notice the blush that has formed on my face. I look up at Rarity between swipes of the brush.
 
 Her ears are folded back. I hope that's a good sign.
 
@@ -52,7 +52,7 @@ I move onto her third leg as I look into her eyes for a moment.
 
 Her eyes are so beautiful, they remind me of a clear open sky full of potential. I love staring into them. I love her.
 
-I continue to brush as I think about our friendship.
+I continue to pamper her as I think about our friendship.
 
 She might be the only pony I'd admit this to, but I sometimes do like girly things. I would never tell anypony else, but telling her might be worth it to hear that adorable squeal.
 
@@ -160,10 +160,10 @@ She stares deeply into my eyes before bringing our lips together, and we kiss.
 
 We sing the last verse together. We point at each other, then hug.
 
-"Oh, (Rarity | Rainbow), here to give my love, never ending.  
-Always be here for you, best friends, always trending."
+"Oh, (Rarity | Rainbow), here to give you my love, unending.  
+Always be here for you, best friends, never pretending."
 
-We hold each other's hoof to our chest, while blushing.
+We hold each other's hoof to our chest while blushing.
 
 "Need to hold your hoof, every way.  
 Need to make you blush, every day."
