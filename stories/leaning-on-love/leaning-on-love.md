@@ -8,7 +8,7 @@ I quietly move behind her and sit down. I gently lean against her back, wrapping
 
 Twilight sets her book down before holding one of my hooves. "Hello, Pinkie."
 
-I nuzzle the back of her neck and close my eyes. "how's your day going?"
+I nuzzle the back of her neck and close my eyes. "How's your day going?"
 
 "It's going good, especially now that you're here. How is yours going?"
 
@@ -16,9 +16,9 @@ I nuzzle the back of her neck and close my eyes. "how's your day going?"
 
 Twilight hold's my hoof tighter. "I'm glad I can help. Do you want to talk about it?"
 
-I sigh, about to unload my day. "Well, after I got up I had to make a bunch of desserts for the Cakes. I sang a song to make it go by fast, it was fun but a lot of work. How did your day start?"
+I sigh. "Well, after I got up I had to make a bunch of desserts for the Cakes. I sang a song to make it go by fast. It was fun but a lot of work. How did your day start?"
 
-"My day started pretty normally, had some breakfast Spike made, then did some research. What'd you do next?"
+"My day started pretty normally. I had some breakfast Spike made, then did some research. What'd you do next?"
 
 "I had to make deliveries for like a long time. It took extra long because I couldn't stop thinking about Twilight Sparkle. What'd you research?"
 
@@ -78,7 +78,7 @@ I sit up and turn around before I feel Twilight lean against my back. She wraps 
 
 I grab her hoof and hold it to my chest.
 
-I blush. "How's this?"
+I blush again. "How's this?"
 
 Twilight whispers in a serene voice, "It's great. You're so soft."
 
@@ -96,7 +96,7 @@ Twilight giggles. "Maybe not forever, but definitely a while."
 
 "Yay!"
 
-"You're really cute, you know?"
+"You're really cute, you know that?"
 
 "Thanks, you too!"
 
@@ -136,7 +136,7 @@ I almost forget what I was doing as my eyes start to water. I love her.
 
 We lean forward, wrapping each other in a tight hug full of love.
 
-I say in a weak voice, "Twilight?"
+I ask in a weak voice, "Twilight?"
 
 "Yes?"
 
@@ -154,7 +154,7 @@ We hold the hug for a while, but eventually end it. We lean back and smile wide 
 
 Twilight blushes. "I'd say that was worth the interruption."
 
-I nod vigorously.
+I nod vigorously. "Yes."
 
 Twilight turns around and I lean against her again. I wrap my hooves around her and squeeze.
 
@@ -162,4 +162,4 @@ She pulls one of my hooves and nuzzles it before kissing it.
 
 I kiss her neck. "Twilight, I love you."
 
-"Pinkie, I love you."
+"Pinkie, I love you too."
