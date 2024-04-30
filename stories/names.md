@@ -82,3 +82,5 @@ This file contains random story names that don't have enough thought to have the
 - The Resting Place of Romance
 - Snuggle Support
 - Recovering Romantic
+- Kissing Questions
+- Questions and Kisses
