@@ -20,7 +20,7 @@ It ain't fair to put you on the spot like this, Fluttershy. You didn't need me u
 
 Speaking of, this list she gave all of us says I should suggest a thing we could do together. I know it's a bit of an ask since we're all so busy these days, but since this exhibition rodeo for the changelings probably ain't happening, could you come to the next rodeo and cheer me on? It'd mean a lot to me. More than you know. Well I guess I could, or rather should since it's on this list here too. Oh boy.
 
-Something you probably don't know about me, since it's something I don't like talking about, is my daddy did the rodeo too. Big Mac's a bit too shy to put on a show, so it was always going to be a two-pony, daddy-daughter trip before ~~he di—~~well, you know. I know this probably sounds like I'm trying to twist you into it, but please. It'd really mean so much to know at least one of my best friends cares about something so dear to me. But please, don't just agree to do it out of the kindness of your heart. If you're really not interested in rodeos, I understand. I'd rather you be honest with me.
+Something you probably don't know about me, since it's something I don't like talking about, is my daddy did the rodeo too. Big Mac's a bit too shy to put on a show, so it was always going to be a two-pony, daddy-daughter trip before ~~he di—~~ well, you know. I know this probably sounds like I'm trying to twist you into it, but please. It'd really mean so much to know at least one of my best friends cares about something so dear to me. But please, don't just agree to do it out of the kindness of your heart. If you're really not interested in rodeos, I understand. I'd rather you be honest with me.
 
 ~~Sincerely~~  
 ~~I'm looking forward to~~  
