@@ -1,4 +1,4 @@
-# Letters Between Lost Friends
+# Letters From a Hat
 
 ## Synopsis:
 Letters sent to the mane 6 and their reply.
@@ -12,7 +12,6 @@ Letters sent to the mane 6 and their reply.
 ## Ideas:
 - Each pony sends a letter to a random pony.
 - They also send a reply to the pony who sent them a letter.
-- They don't write the reply letter until they get their reply.
 - This whole thing is a friendship building exercise.
 - Plays out like a game of telephone.
 - Anything goes as long as it's E rated.
