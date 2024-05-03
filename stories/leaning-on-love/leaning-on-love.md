@@ -12,7 +12,7 @@ I nuzzle the back of her neck and close my eyes. "How's your day going?"
 
 "It's going good, especially now that you're here. How is yours going?"
 
-"Its been a tough one, but I'm feeling better now that I'm with *you*."
+"Its been a tough one, but I'm feeling better now that I'm with you."
 
 Twilight holds my hoof tighter. "I'm glad I could help. Do you want to talk about it?"
 
@@ -46,7 +46,7 @@ I blush. "I have a crush on her and I just love being around her. She's such a g
 
 "What was that?"
 
-"Communication is vital to any good relationship, or friendship."
+"Communication is vital to any good relationship."
 
 "That's good to know."
 
@@ -134,7 +134,7 @@ She's so beautiful.
 
 I almost forget what I was doing as my eyes start to water. I love her.
 
-We lean forward, wrapping each other in a tight hug full of love.
+We lean forward, wrapping each other in a tight hug.
 
 I ask in a weak voice, "Twilight?"
 
