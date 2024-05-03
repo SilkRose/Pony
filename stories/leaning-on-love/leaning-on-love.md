@@ -4,7 +4,7 @@ I trot into Twilight's house and find her reading a book.
 
 She looks so peaceful.
 
-I quietly move behind her and sit down. I gently lean against her back, wrapping my hooves around her. "Hi, Twilight."
+I quietly move behind her and sit down, gently lean against her back, and wrap my hooves around her. "Hi, Twilight."
 
 Twilight sets her book down before holding one of my hooves. "Hello, Pinkie."
 
@@ -14,7 +14,7 @@ I nuzzle the back of her neck and close my eyes. "How's your day going?"
 
 "Its been a tough one, but I'm feeling better now that I'm with *you*."
 
-Twilight hold's my hoof tighter. "I'm glad I can help. Do you want to talk about it?"
+Twilight holds my hoof tighter. "I'm glad I could help. Do you want to talk about it?"
 
 I sigh. "Well, after I got up I had to make a bunch of desserts for the Cakes. I sang a song to make it go by fast. It was fun but a lot of work. How did your day start?"
 
@@ -22,17 +22,17 @@ I sigh. "Well, after I got up I had to make a bunch of desserts for the Cakes. I
 
 "I had to make deliveries for like a long time. It took extra long because I couldn't stop thinking about Twilight Sparkle. What'd you research?"
 
-"I was trying to research romance. I didn't have much luck, I couldn't stop thinking about Pinkie Pie. After that I decided to try and write my feelings down in a letter, but that didn't go to well. Why were you thinking about Twilight Sparkle?"
+"I was trying to research romance. I didn't have much luck, as I couldn't stop thinking about Pinkie Pie. After that I decided to try and write my feelings down in a letter, but that didn't go too well, either. Why were you thinking about Twilight Sparkle?"
 
 I blush. "I have a crush on her and I just love being around her. She's such a good friend and she's super pretty! Why were you thinking about Pinkie Pie?"
 
 "I was thinking of Pinkie Pie for similar reasons. She always makes me smile. She's a great friend and she's the cutest pony I know. What'd you do after the deliveries?"
 
-"Well, I went to help Rainbow, she wanted to do some pranking together. I tried my best, but she could tell something was up. I wasn't doing my best. She asked what was up, and I explained everything to her."
+"Well, I went to help Rainbow, she wanted to do some pranking together. I tried my best, but I didn't do my best, and she could tell something was up. So she asked me, and I explained everything to her."
 
 "What'd she say?"
 
-"She said I should just go talk to Twilight about how I feel. I told her I wanted to, but its hard. I really like Twilight. I don't want to say anything that messes up our friendship."
+"She said I should just go talk to Twilight about how I feel. I told her I wanted to, but it's hard. I really like Twilight. I don't want to say anything that messes up our friendship."
 
 "I know what you mean. I really want to talk to Pinkie Pie, but I keep putting it off."
 
@@ -50,7 +50,7 @@ I blush. "I have a crush on her and I just love being around her. She's such a g
 
 "That's good to know."
 
-"We should have known that with how good of friends we are."
+"We should have known that with how good a pair of friends we are."
 
 "Good point."
 
@@ -114,19 +114,19 @@ Twilight nuzzles me again. "Yes, Pinkie?"
 
 "This is real, right?"
 
-Twilight giggles again before gently kissing my neck. "Yes, need a pinch to prove it?"
+Twilight giggles again before gently kissing my neck. "Yes. Need a pinch to prove it?"
 
 I blush harder and kiss her hoof. "I believe you."
 
 "Good."
 
-I take a moment to reply. "I don't want this moment to end, but I also really want to give you the biggest bestest most romantic hug I can. What should I do?"
+I take a moment to reply. "I don't want this moment to end, but I also really want to give you the biggest, bestest, most romantic hug I can. What should I do?"
 
 "How about this, we can switch places again and in between we can hug."
 
 "Sounds good to me!"
 
-Twilight pulls away from me and I turn around looking her in he eyes for the first time since we revealed our feelings.
+Twilight pulls away from me and I turn around, looking her in the eyes for the first time since we revealed our feelings.
 
 We stare into each other's eyes and get lost in the moment.
 
