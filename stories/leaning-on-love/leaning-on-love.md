@@ -150,7 +150,7 @@ We squeeze each other tighter.
 
 "You too."
 
-We hold the hug for a while, but eventually end it. We lean back and smile wide at each other.
+We hold the hug for a while, but eventually we end it. We lean back and smile wide at each other.
 
 Twilight blushes. "I'd say that was worth the interruption."
 
