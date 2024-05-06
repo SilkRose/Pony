@@ -18,4 +18,4 @@ Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 [Unicute](./unicute.md)
 
 ## Cover:
-![cover](./unicute-cover.png)
+![cover](./unicute-cover-2.png)
