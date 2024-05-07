@@ -17,6 +17,7 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 camino = { workspace = true }
 fancy-regex = { workspace = true }
+gtk = { version = "0.8.2", package = "gtk4", features = ["v4_6"] }
 indoc = { workspace = true }
 rayon = { version = "1.10.0" }
 regex = { workspace = true }
