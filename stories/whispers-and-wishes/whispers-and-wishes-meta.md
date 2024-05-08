@@ -1,4 +1,4 @@
-# Wishes and Whispers
+# Whispers and Wishes
 
 ## Synopsis:
 Fluttershy and Pinkie are the only ones left awake at a slumber party. Fluttershy asks to hold Pinkie's hand and they talk about what they wish for, Fluttershy asks Pinkie out and she says yes.
@@ -13,6 +13,6 @@ Fluttershy and Pinkie are the only ones left awake at a slumber party. Fluttersh
 
 
 ## Story:
-[Wishes and Whispers](./wishes-and-whispers.md)
+[Whispers and Wishes](./whispers-and-wishes.md)
 
 ## Cover:
