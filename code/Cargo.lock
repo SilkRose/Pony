@@ -801,6 +801,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "scootaloo"
+version = "0.0.0"
+
+[[package]]
 name = "semver"
 version = "1.0.23"
 source = "registry+https://github.com/rust-lang/crates.io-index"
