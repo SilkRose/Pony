@@ -1,10 +1,10 @@
-use std::{num::NonZeroUsize, slice};
+use std::num::NonZeroUsize;
 
-fn get_pages<T>(items: &[T], page_size: NonZeroUsize) -> Vec<&[T]> {
+pub fn get_pages<T>(items: &[T], page_size: NonZeroUsize) -> Vec<&[T]> {
 	items.chunks(page_size.get()).collect()
 }
 
-fn get_page<T>(items: &[T], page_size: NonZeroUsize, page: NonZeroUsize) -> Option<&[T]> {
+pub fn get_page<T>(items: &[T], page_size: NonZeroUsize, page: NonZeroUsize) -> Option<&[T]> {
 	let items_start = page_size.get() * page.get();
 	let items_end = page_size.get() * (page.get() + 1);
 
@@ -19,19 +19,27 @@ fn get_page<T>(items: &[T], page_size: NonZeroUsize, page: NonZeroUsize) -> Opti
 	})
 }
 
-fn get_page_with_unsafe_code<T>(
-	items: &[T], page_size: NonZeroUsize, page: NonZeroUsize,
-) -> Option<&[T]> {
-	let items_start = page_size.get() * page.get();
+pub fn get_pages_from_string(text: &str, page_size: NonZeroUsize) -> Vec<&str> {
+	let page_size = page_size.get();
+	let mut passed_newlines = 0;
 
-	if items_start >= items.len() {
-		return None;
-	}
+	let checker = |char: char| {
+		if char == '\n' {
+			passed_newlines += 1;
+			if passed_newlines == page_size {
+				passed_newlines = 0;
+				return true;
+			}
+		}
+		false
+	};
 
-	let num_items = usize::min(page_size.get(), items.len() - items_start);
-	unsafe {
-		let ptr = items as *const [T] as *const T;
-		let slice = slice::from_raw_parts(ptr.add(items_start), num_items);
-		Some(slice)
-	}
+	text.split(checker).collect()
+}
+
+pub fn get_page_from_string(
+	text: &str, page_size: NonZeroUsize, page: NonZeroUsize,
+) -> Option<&str> {
+	let pages = get_pages_from_string(text, page_size);
+	pages.get(page.get()).copied()
 }
