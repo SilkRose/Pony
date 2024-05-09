@@ -61,6 +61,7 @@ members = [
 	"packages/rarity",
 	"packages/scootaloo",
 	"packages/sweetie-belle",
+	"packages/trot",
 	"packages/twilight-sparkle"
 ]
 
