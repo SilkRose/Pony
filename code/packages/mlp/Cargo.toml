@@ -1,6 +1,6 @@
 [package]
 name = "mlp"
-version = "0.0.0"
+version = "0.1.0"
 description = "To be determined."
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/mlp"
 
