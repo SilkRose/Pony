@@ -51,6 +51,7 @@ members = [
 	"packages/applejack",
 	"packages/fanfic",
 	"packages/fanfic-macros",
+	"packages/fim",
 	"packages/fimdoc",
 	"packages/fluttershy",
 	"packages/golden-oak-library",

@@ -1,0 +1,12 @@
+[package]
+name = "fim"
+version = "0.5.0"
+description = "To be determined."
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/fim"
+
+repository = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+
+[dependencies]
