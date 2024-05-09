@@ -50,6 +50,7 @@ resolver = "2"
 members = [
 	"packages/applejack",
 	"packages/fanfic",
+	"packages/fanfic-macros",
 	"packages/fimdoc",
 	"packages/fluttershy",
 	"packages/golden-oak-library",
