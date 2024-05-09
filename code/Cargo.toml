@@ -49,6 +49,7 @@ pinkie-pie = { path = "./packages/pinkie-pie", version = "0.1.0" }
 resolver = "2"
 members = [
 	"packages/applejack",
+	"packages/fanfic",
 	"packages/fimdoc",
 	"packages/fluttershy",
 	"packages/golden-oak-library",
