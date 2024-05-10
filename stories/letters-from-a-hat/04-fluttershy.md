@@ -1,3 +1,5 @@
+# Fluttershy → Applejack ([PseudoBob Delightus](https://www.fimfiction.net/user/12771/))
+
 Dear Applejack,
 
   
