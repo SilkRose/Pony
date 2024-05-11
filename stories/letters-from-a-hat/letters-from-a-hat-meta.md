@@ -15,7 +15,7 @@ Letters sent to the mane 6 and their reply.
 - This whole thing is a friendship building exercise.
 - Plays out like a game of telephone.
 - Anything goes as long as it's E rated.
-- 
+- Takes place during S6 or S7.
 
 ### Prompt:
 Twilight Sparkle found Rarity, Rainbow Dash, and Applejack arguing over how best to represent Equestria to the changelings in an upcoming peace treaty visit. Rarity wanted to do a fashion show, Rainbow a Wonderbolt's show, and Applejack wanted to do a rodeo.
