@@ -19,6 +19,7 @@ camino = { workspace = true }
 fancy-regex = { workspace = true }
 gtk = { version = "0.8.2", package = "gtk4", features = ["v4_6"] }
 indoc = { workspace = true }
+markdown = { workspace = true }
 rayon = { version = "1.10.0" }
 regex = { workspace = true }
 
@@ -28,7 +29,6 @@ golden-oak-library = { path = "./packages/golden-oak-library" }
 pinkie-pie = { path = "./packages/pinkie-pie" }
 rainbow-dash = { path = "./packages/rainbow-dash" }
 rarity = { path = "./packages/rarity" }
-twilight-sparkle = { path = "./packages/twilight-sparkle" }
 
 [workspace.dependencies]
 atty = { version = "0.2.14" }
@@ -60,8 +60,7 @@ members = [
 	"packages/rarity",
 	"packages/scootaloo",
 	"packages/sweetie-belle",
-	"packages/trot",
-	"packages/twilight-sparkle"
+	"packages/trot"
 ]
 
 [profile.dev]

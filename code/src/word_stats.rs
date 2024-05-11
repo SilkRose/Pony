@@ -1,12 +1,7 @@
-use crate::{
-	parser,
-	text_stats::{remove_punctuation, TextType},
-};
-use parser::parse;
+use super::text_stats::remove_punctuation;
 use regex::Regex;
 
 pub struct WordOptions {
-	pub text_type: TextType,
 	pub replace_hyphen: bool,
 	pub remove_apostrophe: bool,
 	pub remove_punctuation: bool,
@@ -27,10 +22,6 @@ pub struct WordResult {
 pub fn get_word_stats(
 	text: String, options: WordOptions, words: Vec<SearchWords>,
 ) -> Vec<WordResult> {
-	let text = match options.text_type {
-		TextType::Markdown => parse(text),
-		TextType::Plaintext => text,
-	};
 	let text = match options.replace_hyphen {
 		true => text.replace('-', " "),
 		false => text,

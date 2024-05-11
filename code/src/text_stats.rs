@@ -1,14 +1,8 @@
-use crate::parser;
-use parser::parse;
+use super::md_to_plaintext::parse;
 use regex::Regex;
 
-pub enum TextType {
-	Markdown,
-	Plaintext,
-}
-
 pub fn word_count(text: String) -> usize {
-	let plain_text = parser::parse(text);
+	let plain_text = parse(text);
 	remove_punctuation(plain_text).split_whitespace().count()
 }
 
