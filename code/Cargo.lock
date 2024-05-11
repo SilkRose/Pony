@@ -912,10 +912,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "trot"
-version = "0.0.0"
-
-[[package]]
 name = "unicode-id"
 version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"

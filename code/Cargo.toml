@@ -59,8 +59,7 @@ members = [
 	"packages/rainbow-dash",
 	"packages/rarity",
 	"packages/scootaloo",
-	"packages/sweetie-belle",
-	"packages/trot"
+	"packages/sweetie-belle"
 ]
 
 [profile.dev]
