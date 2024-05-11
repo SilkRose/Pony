@@ -9,14 +9,14 @@ Planned ideas for my rust crates:
 - FimDoc: CLI tool for Fimd library.
 - Fluttershy: Error handling library.
 - Golden Oak Library: Library for misc useful functions.
-- Mare: ?
+- Mare: Timer/timing and Parallelism.
 - MLP: Library for pagination.
-- Nopony: Covert to and from ponified text.
+- Nopony: Convert to and from ponified text.
 - Pinkie Pie: std in, out, and err library.
 - Pony: CLI tool for managing and working on a Pony-like repository.
-- Rainbow Dash: Timing and parallelism library?
-- Rarity: Data graphing and plotting library?
+- Rainbow Dash: Command line execution library.
+- Rarity: ?
 - Scootaloo: ?
 - Sweetie Belle: Dictionary for pony words.
-- Trot: ?
-- Twilight Sparkles: Math, converter, and counting library.
+- Trot: Trait library.
+- Twilight Sparkles: Math, conversion, and word counting library.
