@@ -1,6 +1,3 @@
-#![deny(missing_docs)]
-#![doc = include_str!("../readme.md")]
-
 use camino::Utf8Path;
 use std::{fs, io};
 

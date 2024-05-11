@@ -22,7 +22,6 @@ indoc = { workspace = true }
 rayon = { version = "1.10.0" }
 regex = { workspace = true }
 
-applejack = { path = "./packages/applejack" }
 fimdoc = { path = "./packages/fimdoc" }
 fluttershy = { path = "./packages/fluttershy" }
 golden-oak-library = { path = "./packages/golden-oak-library" }
@@ -48,7 +47,6 @@ pinkie-pie = { path = "./packages/pinkie-pie", version = "0.1.0" }
 [workspace]
 resolver = "2"
 members = [
-	"packages/applejack",
 	"packages/fanfic",
 	"packages/fanfic-macros",
 	"packages/fim",
