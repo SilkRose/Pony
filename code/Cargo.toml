@@ -25,7 +25,6 @@ regex = { workspace = true }
 sha2 = { version = "0.10.8" }
 
 fimdoc = { path = "./packages/fimdoc" }
-fluttershy = { path = "./packages/fluttershy" }
 golden-oak-library = { path = "./packages/golden-oak-library" }
 pinkie-pie = { path = "./packages/pinkie-pie" }
 rainbow-dash = { path = "./packages/rainbow-dash" }
@@ -51,7 +50,6 @@ members = [
 	"packages/fanfic",
 	"packages/fanfic-macros",
 	"packages/fimdoc",
-	"packages/fluttershy",
 	"packages/golden-oak-library",
 	"packages/pinkie-pie",
 	"packages/rainbow-dash",
