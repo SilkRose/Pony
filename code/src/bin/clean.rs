@@ -1,6 +1,6 @@
 use fancy_regex::Regex;
-use golden_oak_library::regex::matches;
 use pony::fs::find_files_in_dir;
+use pony::regex::matches;
 use std::fs;
 
 fn main() {

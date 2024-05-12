@@ -1,13 +1,18 @@
-use rayon::prelude::*;
+use super::threads::multithread;
 use sha2::{Digest, Sha256};
 use std::path::MAIN_SEPARATOR as SLASH;
 use std::{fs, io};
 
-pub fn get_hashes(files: Vec<String>, announce: bool) -> Vec<(String, String)> {
-	files
-		.par_iter()
-		.map(|file| (get_hash(&file, announce), file))
-		.collect()
+pub fn get_hashes(files: Vec<String>) -> Vec<(String, String)> {
+	multithread(files, None, |thread_num, file| {
+		println!(
+			"[thread {thread_num:02}] getting hash of file: {}",
+			file.split(SLASH).last().unwrap()
+		);
+
+		let hash = get_hash(&file, false);
+		Some((hash, file))
+	})
 }
 
 pub fn get_hash(filename: &str, announce: bool) -> String {
