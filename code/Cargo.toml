@@ -54,7 +54,6 @@ members = [
 	"packages/fluttershy",
 	"packages/golden-oak-library",
 	"packages/mlp",
-	"packages/nopony",
 	"packages/pinkie-pie",
 	"packages/rainbow-dash",
 	"packages/rarity"
