@@ -49,7 +49,6 @@ resolver = "2"
 members = [
 	"packages/fanfic",
 	"packages/fanfic-macros",
-	"packages/fim",
 	"packages/fimdoc",
 	"packages/fluttershy",
 	"packages/golden-oak-library",
