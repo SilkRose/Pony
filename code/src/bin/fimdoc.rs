@@ -1,8 +1,8 @@
 use camino::Utf8Path;
-use fimdoc::parser::{parse, WarningType};
-use golden_oak_library::stderr::{print_error, ErrColor};
-use golden_oak_library::stdin::get_stdin;
 use indoc::printdoc;
+use pony::md_to_bbcode::{parse, WarningType};
+use pony::stderr::{print_error, ErrColor};
+use pony::stdin::get_stdin;
 use std::process::exit;
 use std::{env, fs};
 
@@ -87,7 +87,7 @@ fn parse_input(args: &[String]) -> (WarningType, usize) {
 			exit(0);
 		}
 		_ => {
-			if args[0].starts_with("-") {
+			if args[0].starts_with('-') {
 				print_error("Incorrect argument option!", ErrColor::Red);
 				print_help();
 				exit(1);

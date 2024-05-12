@@ -1,7 +1,7 @@
 use camino::Utf8Path;
 use fancy_regex::Regex;
-use fimdoc::parser::{parse, WarningType};
 use pony::fs::find_files_in_dir;
+use pony::md_to_bbcode::{parse, WarningType};
 use pony::regex::matches;
 use rayon::prelude::*;
 use std::fs;

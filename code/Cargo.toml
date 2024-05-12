@@ -16,11 +16,11 @@ repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
 atty = { version = "0.2.14" }
-camino = { workspace = true }
+camino = { version = "1.1.6" }
 fancy-regex = { version = "0.13.0" }
 gtk = { version = "0.8.2", package = "gtk4", features = ["v4_6"] }
-indoc = { workspace = true }
-markdown = { workspace = true }
+indoc = { version = "2.0.5" }
+markdown = { version = "1.0.0-alpha.17" }
 num_cpus = {version = "1.16.0" }
 rayon = { version = "1.10.0" }
 regex = { version = "1.10.4" }
@@ -28,19 +28,13 @@ serde = { version = "1", features = ["derive"] }
 sha2 = { version = "0.10.8" }
 terminal_color_builder = { version = "0.1.1" }
 
-fimdoc = { path = "./packages/fimdoc" }
-
 [workspace.dependencies]
-camino = { version = "1.1.6" }
-indoc = { version = "2.0.5" }
-markdown = { version = "1.0.0-alpha.17" }
 
 [workspace]
 resolver = "2"
 members = [
 	"packages/fanfic",
-	"packages/fanfic-macros",
-	"packages/fimdoc"
+	"packages/fanfic-macros"
 ]
 
 [profile.dev]

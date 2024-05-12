@@ -200,16 +200,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "fimdoc"
-version = "0.6.1"
-dependencies = [
- "camino",
- "golden-oak-library",
- "indoc",
- "markdown",
-]
-
-[[package]]
 name = "futures-channel"
 version = "0.3.30"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -424,20 +414,6 @@ dependencies = [
  "glib-sys",
  "libc",
  "system-deps",
-]
-
-[[package]]
-name = "golden-oak-library"
-version = "0.1.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "982f38e679fc2937aa9d1d0b2d7244c0c1e89fe8aee35f9bbe25f3554f2402dc"
-dependencies = [
- "atty",
- "camino",
- "markdown",
- "rayon",
- "regex",
- "terminal_color_builder",
 ]
 
 [[package]]
@@ -678,7 +654,6 @@ dependencies = [
  "atty",
  "camino",
  "fancy-regex",
- "fimdoc",
  "gtk4",
  "indoc",
  "markdown",
