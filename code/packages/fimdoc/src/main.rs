@@ -1,8 +1,8 @@
 use camino::Utf8Path;
 use fimdoc::parser::{parse, WarningType};
+use golden_oak_library::stderr::{print_error, ErrColor};
+use golden_oak_library::stdin::get_stdin;
 use indoc::printdoc;
-use pinkie_pie::stderr::{print_error, ErrColor};
-use pinkie_pie::stdin::get_stdin;
 use std::process::exit;
 use std::{env, fs};
 

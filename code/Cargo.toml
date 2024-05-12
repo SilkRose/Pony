@@ -38,8 +38,6 @@ regex = { version = "1.10.4" }
 serde = { version = "1", features = ["derive"] }
 terminal_color_builder = { version = "0.1.1" }
 
-pinkie-pie = { path = "./packages/pinkie-pie", version = "0.1.0" }
-
 [workspace]
 resolver = "2"
 members = [

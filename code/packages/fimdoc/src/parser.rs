@@ -1,9 +1,9 @@
+use golden_oak_library::stderr::{print_error, ErrColor};
 use markdown::mdast::{
 	BlockQuote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
 use markdown::{to_mdast, ParseOptions};
-use pinkie_pie::stderr::{print_error, ErrColor};
 use std::collections::HashMap;
 use std::process::exit;
 
