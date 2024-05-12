@@ -25,9 +25,6 @@ regex = { workspace = true }
 sha2 = { version = "0.10.8" }
 
 fimdoc = { path = "./packages/fimdoc" }
-golden-oak-library = { path = "./packages/golden-oak-library" }
-rainbow-dash = { path = "./packages/rainbow-dash" }
-rarity = { path = "./packages/rarity" }
 
 [workspace.dependencies]
 atty = { version = "0.2.14" }
@@ -48,10 +45,7 @@ resolver = "2"
 members = [
 	"packages/fanfic",
 	"packages/fanfic-macros",
-	"packages/fimdoc",
-	"packages/golden-oak-library",
-	"packages/rainbow-dash",
-	"packages/rarity"
+	"packages/fimdoc"
 ]
 
 [profile.dev]
