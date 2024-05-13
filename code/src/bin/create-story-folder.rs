@@ -1,4 +1,4 @@
-use pony::stdin::ask;
+use pony::stdin::{ask, ask_longform};
 use std::{error::Error, fs};
 
 const TEMPLATE: &str = include_str!("../../../archive/markdown-templates/story-one-shot.md");
@@ -11,7 +11,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 			"Must not be empty and less than 60 characters.",
 		)),
 	)?;
-	let synopsis = ask("Synopsis:", Some((|_: &str| true, "")))?;
+	let synopsis = ask_longform("Synopsis:", "./tempfile.md")?;
 	create_story_folder(&title, &synopsis);
 	Ok(())
 }

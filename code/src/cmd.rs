@@ -15,10 +15,10 @@ pub fn execute_unix_command(cmd: &str) {
 	let output = Command::new("sh")
 		.arg("-c")
 		.arg(cmd)
-		.output()
+		.status()
 		.unwrap_or_else(|_| panic!("failed to execute: {cmd}"));
 
-	if !output.status.success() {
+	if !output.success() {
 		panic!("failed to execute: {cmd}")
 	}
 }
