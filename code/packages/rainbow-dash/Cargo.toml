@@ -3,6 +3,7 @@ name = "rainbow-dash"
 version = "0.1.0"
 description = "Command execution library."
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/rainbow-dash"
+readme = "./readme.md"
 
 repository = { workspace = true }
 authors = { workspace = true }
