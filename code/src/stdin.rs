@@ -1,5 +1,5 @@
-use super::cmd::execute_unix_command;
 use atty::Stream;
+use rainbow_dash::execute_unix_command;
 use std::io::{self, Write};
 use std::{error::Error, fs};
 
