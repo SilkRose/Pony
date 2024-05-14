@@ -1,8 +1,10 @@
 [package]
 name = "trot"
-version = "0.1.0"
+version = "0.1.1"
 description = "Trait library."
+keywords = ["trait", "traits"]
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/trot"
+readme = "./readme.md"
 
 repository = { workspace = true }
 authors = { workspace = true }
