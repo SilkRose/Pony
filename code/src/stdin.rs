@@ -1,5 +1,5 @@
 use atty::Stream;
-use rainbow_dash::execute_unix_command;
+use rainbow_dash::execute_command;
 use std::io::{self, Write};
 use std::{error::Error, fs};
 
@@ -37,7 +37,7 @@ pub fn ask_longform(question: &str, temp_filename: &str) -> Result<String, Box<d
 	let mut stdout = io::stdout();
 	stdout.write_all(b"\x1B[?1049h")?;
 	stdout.flush()?;
-	execute_unix_command(&format!("vim {temp_filename}"));
+	execute_command(&format!("vim {temp_filename}"))?;
 	stdout.write_all(b"\x1B[?1049l")?;
 	stdout.flush()?;
 	let answer = fs::read_to_string(temp_filename)?;
