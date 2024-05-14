@@ -1,0 +1,12 @@
+[package]
+name = "trot"
+version = "0.1.0"
+description = "Trait library."
+homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/trot"
+
+repository = { workspace = true }
+authors = { workspace = true }
+edition = { workspace = true }
+license = { workspace = true }
+
+[dependencies]

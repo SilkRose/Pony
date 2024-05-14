@@ -36,7 +36,8 @@ resolver = "2"
 members = [
 	"packages/fanfic",
 	"packages/fanfic-macros",
-	"packages/rainbow-dash"
+	"packages/rainbow-dash",
+	"packages/trot"
 ]
 
 [profile.dev]
