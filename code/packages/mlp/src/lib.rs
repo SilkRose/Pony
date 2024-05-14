@@ -46,3 +46,25 @@ pub fn get_page_from_string(
 	let pages = get_pages_from_string(text, page_size);
 	pages.get(page.get()).copied()
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+	#[test]
+	fn pages() {
+		let list = [1, 2, 3, 4, 5, 6];
+		let pages = get_pages(&list, NonZeroUsize::new(2).unwrap());
+		assert_eq!(pages, vec![[1, 2], [3, 4], [5, 6]]);
+	}
+	#[test]
+	fn page() {
+		let list = [1, 2, 3, 4, 5, 6];
+		let pages = get_page(
+			&list,
+			NonZeroUsize::new(2).unwrap(),
+			NonZeroUsize::new(2).unwrap(),
+		)
+		.unwrap();
+		assert_eq!(pages, vec![5, 6]);
+	}
+}
