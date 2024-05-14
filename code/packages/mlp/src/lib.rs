@@ -1,3 +1,6 @@
+//#![deny(missing_docs)]
+#![doc = include_str!("../readme.md")]
+
 use std::num::NonZeroUsize;
 
 pub fn get_pages<T>(items: &[T], page_size: NonZeroUsize) -> Vec<&[T]> {

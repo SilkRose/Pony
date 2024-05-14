@@ -36,6 +36,7 @@ resolver = "2"
 members = [
 	"packages/fanfic",
 	"packages/fanfic-macros",
+	"packages/mlp",
 	"packages/rainbow-dash",
 	"packages/trot"
 ]
