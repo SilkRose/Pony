@@ -4,8 +4,7 @@
 use std::io::Result;
 use std::process::{Command, ExitStatus, Output};
 
-/// Executes a command with a Result of ExitStatus.
-/// Picks the correct function for Unix or Windows.
+/// Executes a Linux/macOS or Windows command with a Result of ExitStatus.
 pub fn execute_command(cmd: &str) -> Result<ExitStatus> {
 	#[cfg(not(target_os = "windows"))]
 	return execute_unix_command(cmd);
@@ -13,8 +12,7 @@ pub fn execute_command(cmd: &str) -> Result<ExitStatus> {
 	return execute_windows_command(cmd);
 }
 
-/// Executes a command with a Result of ExitStatus.
-/// Picks the correct function for Unix or Windows.
+/// Executes a Linux/macOS or Windows command with a Result of the output.
 pub fn execute_command_with_return(cmd: &str) -> Result<Output> {
 	#[cfg(not(target_os = "windows"))]
 	return execute_unix_command_with_return(cmd);
@@ -27,7 +25,7 @@ pub fn execute_windows_command(cmd: &str) -> Result<ExitStatus> {
 	Command::new("cmd").args(["/C", cmd]).status()
 }
 
-/// Executes a Unix command with a Result of ExitStatus.
+/// Executes a Linux/macOS command with a Result of ExitStatus.
 pub fn execute_unix_command(cmd: &str) -> Result<ExitStatus> {
 	Command::new("sh").arg("-c").arg(cmd).status()
 }
@@ -37,7 +35,7 @@ pub fn execute_windows_command_with_return(cmd: &str) -> Result<Output> {
 	Command::new("cmd").args(["/C", cmd]).output()
 }
 
-/// Executes a Unix command with a Result of the output.
+/// Executes a Linux/macOS command with a Result of the output.
 pub fn execute_unix_command_with_return(cmd: &str) -> Result<Output> {
 	Command::new("sh").arg("-c").arg(cmd).output()
 }

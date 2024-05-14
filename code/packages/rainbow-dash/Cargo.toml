@@ -1,7 +1,8 @@
 [package]
 name = "rainbow-dash"
 version = "0.1.0"
-description = "Command execution library."
+description = "Command execution library for Linux/macOS and Windows."
+keywords = ["command"]
 homepage = "https://github.com/SilkRose/Pony/tree/mane/code/packages/rainbow-dash"
 readme = "./readme.md"
 
