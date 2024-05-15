@@ -341,10 +341,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "51bc10d4f2e7a2580c9fbeb550ef748c81430cfaffb046f047204bb5a75dbff0"
 
 [[package]]
-name = "trot"
-version = "0.1.1"
-
-[[package]]
 name = "typenum"
 version = "1.17.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

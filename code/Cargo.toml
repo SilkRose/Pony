@@ -37,8 +37,7 @@ members = [
 	"packages/fanfic",
 	"packages/fanfic-macros",
 	"packages/mlp",
-	"packages/rainbow-dash",
-	"packages/trot"
+	"packages/rainbow-dash"
 ]
 
 [profile.dev]
