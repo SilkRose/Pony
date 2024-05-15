@@ -13,4 +13,5 @@ pub mod stdin;
 pub mod structs;
 pub mod text_stats;
 pub mod threads;
+pub mod time;
 pub mod word_stats;

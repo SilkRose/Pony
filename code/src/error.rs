@@ -1,6 +1,7 @@
+use super::time::sleep;
 use std::error::Error;
 use std::num::NonZeroUsize;
-use std::time::{Duration, SystemTime, UNIX_EPOCH};
+use std::time::{SystemTime, UNIX_EPOCH};
 
 /// The initial duration in milliseconds to wait and the multiplier for each subsequent run.
 pub type Backoff = (u128, f64);
@@ -56,17 +57,4 @@ where
 		}
 		attempt = function();
 	}
-}
-
-fn sleep(start_time: u128, interval: u128) {
-	let current_time = SystemTime::now()
-		.duration_since(UNIX_EPOCH)
-		.unwrap()
-		.as_millis();
-	let elapsed_time = current_time - start_time;
-	println!("{elapsed_time}");
-	if elapsed_time > interval {
-		return;
-	};
-	std::thread::sleep(Duration::from_millis((interval - elapsed_time) as u64));
 }
