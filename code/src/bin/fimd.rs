@@ -2,7 +2,6 @@ use camino::Utf8Path;
 use pony::fs::find_files_in_dir;
 use pony::md_to_bbcode::{parse, WarningType};
 use pony::regex::matches;
-use rayon::prelude::*;
 use regex::Regex;
 use std::fs;
 
@@ -19,7 +18,7 @@ fn main() {
 		Some(|path: &_| matches(path, &includes, &excludes)),
 	)
 	.unwrap()
-	.par_iter()
+	.iter()
 	.for_each(|input| {
 		let md = fs::read_to_string(input).unwrap();
 		let bbcode = parse(md, &WarningType::Quiet);
