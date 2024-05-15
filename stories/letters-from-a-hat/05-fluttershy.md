@@ -24,7 +24,7 @@ Well, maybe that's enough rambling from me…
 
 Pinkie Pie says: "Friendship is like a party, both are fun and lead to smiles."
 
-Applejack says: "It’s always worth it to give your family and friends a little love whenever you see them."
+Applejack says: "It's always worth it to give your family and friends a little love whenever you see them."
 
 And my pass-along message for you is: "Hug your closest pony." 
 
