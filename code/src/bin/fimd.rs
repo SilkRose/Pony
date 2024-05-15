@@ -1,9 +1,9 @@
 use camino::Utf8Path;
-use fancy_regex::Regex;
 use pony::fs::find_files_in_dir;
 use pony::md_to_bbcode::{parse, WarningType};
 use pony::regex::matches;
 use rayon::prelude::*;
+use regex::Regex;
 use std::fs;
 
 fn main() {

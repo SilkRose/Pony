@@ -17,7 +17,6 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 atty = { version = "0.2.14" }
 camino = { version = "1.1.6" }
-fancy-regex = { version = "0.13.0" }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.17" }
 num_cpus = {version = "1.16.0" }
