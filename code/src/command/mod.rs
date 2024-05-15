@@ -47,13 +47,13 @@ mod tests {
 	#[test]
 	fn command_status() -> std::result::Result<(), Box<dyn Error>> {
 		let status = execute_command("exit 0")?;
-		assert_eq!(status.success(), true);
+		assert!(status.success());
 		Ok(())
 	}
 	#[test]
 	fn command_status_failure() -> std::result::Result<(), Box<dyn Error>> {
 		let status = execute_command("exit 1")?;
-		assert_eq!(status.success(), false);
+		assert!(!status.success());
 		Ok(())
 	}
 	#[test]
@@ -67,28 +67,28 @@ mod tests {
 	#[cfg(not(target_os = "windows"))]
 	fn unix_status() -> std::result::Result<(), Box<dyn Error>> {
 		let status = execute_unix_command("exit 0")?;
-		assert_eq!(status.success(), true);
+		assert!(status.success());
 		Ok(())
 	}
 	#[test]
 	#[cfg(not(target_os = "windows"))]
 	fn unix_status_failure() -> std::result::Result<(), Box<dyn Error>> {
 		let status = execute_unix_command("exit 1")?;
-		assert_eq!(status.success(), false);
+		assert!(!status.success());
 		Ok(())
 	}
 	#[test]
 	#[cfg(target_os = "windows")]
 	fn windows_status() -> std::result::Result<(), Box<dyn Error>> {
 		let status = execute_windows_command("exit 0")?;
-		assert_eq!(status.success(), true);
+		assert!(status.success());
 		Ok(())
 	}
 	#[test]
 	#[cfg(target_os = "windows")]
 	fn windows_status_failure() -> std::result::Result<(), Box<dyn Error>> {
 		let status = execute_windows_command("exit 1")?;
-		assert_eq!(status.success(), false);
+		assert!(!status.success());
 		Ok(())
 	}
 	#[test]
