@@ -27,16 +27,13 @@ serde = { version = "1", features = ["derive"] }
 sha2 = { version = "0.10.8" }
 terminal_color_builder = { version = "0.1.1" }
 
-rainbow-dash = { path = "packages/rainbow-dash", version = "0.1.0" }
-
 [workspace.dependencies]
 
 [workspace]
 resolver = "2"
 members = [
 	"packages/fanfic",
-	"packages/fanfic-macros",
-	"packages/rainbow-dash"
+	"packages/fanfic-macros"
 ]
 
 [profile.dev]

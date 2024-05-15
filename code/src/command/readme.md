@@ -1,6 +1,6 @@
-# Rainbow Dash
+# Pony Command
 
-Command execution library for Linux/macOS and Windows.
+Command execution module for Linux/macOS and Windows.
 
 Has functions with status and output variants.
 

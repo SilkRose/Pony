@@ -1,6 +1,7 @@
 //#![deny(missing_docs)]
 //#![doc = include_str!("../readme.md")]
 
+pub mod command;
 pub mod error;
 pub mod fs;
 pub mod hash;

@@ -1,5 +1,5 @@
 #![deny(missing_docs)]
-#![doc = include_str!("../readme.md")]
+#![doc = include_str!("./readme.md")]
 
 use std::io::Result;
 use std::process::{Command, ExitStatus, Output};
