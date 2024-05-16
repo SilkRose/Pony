@@ -16,19 +16,18 @@ repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
 atty = { version = "0.2.14" }
-camino = { version = "1.1.6" }
+camino = { version = "1.1.7" }
 clap = { version = "4.5.4", features = ["derive"] }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.17" }
 num_cpus = {version = "1.16.0" }
 regex = { version = "1.10.4" }
-serde = { version = "1", features = ["derive"] }
+serde = { version = "1.0.202", features = ["derive"] }
 terminal_color_builder = { version = "0.1.1" }
 
 [workspace.dependencies]
 
 [workspace]
-resolver = "2"
 members = [
 	"packages/fanfic",
 	"packages/fanfic-macros"
