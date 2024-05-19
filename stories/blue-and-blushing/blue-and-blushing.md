@@ -174,9 +174,7 @@ After the song, we sit on the pedestal, holding hooves while staring blissfully 
 
 I can only think of two things at this moment, both repeating in my mind over and over: I love her, and I want to kiss her again.
 
-And, that's just what we do. We both lean in and press our lips together. We hold the kiss for what feels like forever and not long enough at the same time.
-
-We wrap our hooves around each other and Rarity lids her eyes before closing them. I close mine in response and ==release all the passion I can into the kiss.==
+And, that's just what we do. We both lean in, close our eyes, and press our lips together. We hold the kiss for what feels like forever and not long enough at the same time, and I can feel my inhibitions slipping away.
 
 I open my eyes after noticing I'm crying tears of joy. Rarity still has hers closed, but I can see she's also crying.
 
