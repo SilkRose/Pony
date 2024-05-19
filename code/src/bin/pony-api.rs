@@ -1,6 +1,6 @@
 use camino::Utf8Path;
 use pony::command::execute_command;
-use pony::fs::{find_dir_in_dir, find_dirs_in_dir, find_file_in_dir, find_files_in_dir};
+use pony::fs::{find_dirs_in_dir, find_file_in_dir, find_files_in_dir};
 use pony::regex::matches;
 use pony::text_stats::word_count;
 use regex::Regex;
@@ -82,13 +82,15 @@ fn count_flash_fiction() -> Result<usize, Box<dyn Error>> {
 fn count_stories() -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"stories").unwrap());
 	let excludes = Some(Regex::new(r"archive").unwrap());
-	let stories_dir =
-		find_dir_in_dir("./", true, |path: &str| matches(path, &includes, &excludes))?;
-	if let Some(dir) = stories_dir {
-		Ok(find_dirs_in_dir(&dir, false, |_| true).unwrap().len())
-	} else {
-		Ok(0)
+	let stories_dir = find_dirs_in_dir("./", true)?
+		.into_iter()
+		.filter(|dir| matches(dir, &includes, &excludes))
+		.collect::<Vec<_>>();
+	let stories_dir = stories_dir.first();
+	if let Some(stories_dir) = stories_dir {
+		return Ok(find_dirs_in_dir(stories_dir, false)?.len());
 	}
+	Ok(0)
 }
 
 fn count_words() -> Result<usize, Box<dyn Error>> {
