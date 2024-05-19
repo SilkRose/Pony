@@ -47,7 +47,7 @@ where
 }
 
 /// Find dirs function, takes in a dir, and a closure for what to include.
-pub fn find_dirs_in_dir<F>(dir: &str, recursive: bool, filter: Option<F>) -> io::Result<Vec<String>>
+pub fn find_dirs_in_dir<F>(dir: &str, recursive: bool, filter: F) -> io::Result<Vec<String>>
 where
 	F: Fn(&str) -> bool + Clone,
 {
@@ -56,16 +56,10 @@ where
 	for path in paths {
 		let path = path?.path().to_string();
 		let utf8_path = Utf8Path::new(&path);
-		if utf8_path.is_dir() {
-			if let Some(filter) = filter.clone() {
-				if filter(&path) {
-					dirs.push(path.clone());
-					if recursive {
-						dirs.extend(find_dirs_in_dir(&path, recursive, Some(filter))?)
-					}
-				}
-			} else {
-				dirs.push(path);
+		if utf8_path.is_dir() && filter(&path) {
+			dirs.push(path.clone());
+			if recursive {
+				dirs.extend(find_dirs_in_dir(&path, recursive, filter.clone())?)
 			}
 		}
 	}
