@@ -28,6 +28,24 @@ where
 	Ok(files)
 }
 
+/// Find file function, takes in a dir, and a closure for the file to find.
+pub fn find_file_in_dir<F>(dir: &str, recursive: bool, filter: F) -> io::Result<Option<String>>
+where
+	F: Fn(&str) -> bool + Clone,
+{
+	let paths = Utf8Path::read_dir_utf8(dir.into())?;
+	for path in paths {
+		let path = path?.path().to_string();
+		let utf8_path = Utf8Path::new(&path);
+		if utf8_path.is_dir() && recursive {
+			return find_file_in_dir(&path, recursive, filter.clone());
+		} else if utf8_path.is_file() && filter(&path) {
+			return Ok(Some(path));
+		}
+	}
+	Ok(None)
+}
+
 /// Find dirs function, takes in a dir, and a closure for what to include.
 pub fn find_dirs_in_dir<F>(dir: &str, recursive: bool, filter: Option<F>) -> io::Result<Vec<String>>
 where
@@ -52,6 +70,27 @@ where
 		}
 	}
 	Ok(dirs)
+}
+
+/// Find dirs function, takes in a dir, and a closure for what the dir to find.
+pub fn find_dir_in_dir<F>(dir: &str, recursive: bool, filter: F) -> io::Result<Option<String>>
+where
+	F: Fn(&str) -> bool + Clone,
+{
+	let paths = Utf8Path::read_dir_utf8(dir.into())?;
+	for path in paths {
+		let path = path?.path().to_string();
+		let utf8_path = Utf8Path::new(&path);
+		if utf8_path.is_dir() {
+			if filter(&path) {
+				return Ok(Some(path));
+			}
+			if recursive {
+				return find_dir_in_dir(&path, recursive, filter);
+			}
+		}
+	}
+	Ok(None)
 }
 
 /// Copy files function, takes a source and destination folder.
