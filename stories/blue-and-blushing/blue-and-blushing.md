@@ -2,7 +2,7 @@
 
 I knock on Rarity's door again, this time harder.
 
-==Come on, Rarity, I need to get these feelings off my chest.==
+*Come on, Rarity, I need to get these feelings off my chest.*
 
 Rarity answers the door almost immediately after. She looks worse for wear, her mane has stray hairs and a hairbrush hanging from it. Her makeup was half-running down her face, probably from crying. Her coat looks like it could use a good brushing.
 
@@ -92,7 +92,7 @@ I finish brushing her stomach before daring another nuzzle on said stomach.
 
 I step back so I'm in front of her again. Looking at Rarity, I can see she's sporting a big smile and an adorable blush.
 
-==Rarity, you're beautiful.==
+*Rarity, you're beautiful.*
 
 I force myself back to work. Don't want to stare at her too long, not yet at least.
 
@@ -116,7 +116,7 @@ This is it, Rainbow Dash. This is the moment of truth, time to find out if she f
 
 I know she's been all adorable and blushing this whole time, but that's not confirmation, right?
 
-==Let's do this.==
+*Let's do this.*
 
 After I finish cleaning her last hoof, I gently kiss her leg right above her hoof. I hold the kiss for a few seconds, making sure she knows I did it.
 
@@ -184,7 +184,7 @@ She opens her eyes and we break the kiss.
 
 I quickly steal a small kiss on her cheek before staring at her again.
 
-I am about to tell Rarity, ==I love you==, but she stops me with a hoof.
+I am about to tell Rarity, *I love you*, but she stops me with a hoof.
 
 Now it's my turn to look confused.
 
@@ -192,6 +192,6 @@ She just smiles and kisses my cheek before hugging me tightly.
 
 I smile in her embrace and hug back.
 
-==I love you, Rarity, and I'm happy that you love me, too.==
+*I love you, Rarity, and I'm happy that you love me, too.*
 
 ![Rainbow & Rarity](../this-story-did-not-explode/chapter-art/rainbow-and-rarity.png)
