@@ -39,11 +39,11 @@ where
 		let path = path?.path().to_string();
 		let utf8_path = Utf8Path::new(&path);
 		if utf8_path.is_dir() {
-			if let Some(ref filter) = filter {
+			if let Some(filter) = filter.clone() {
 				if filter(&path) {
-					dirs.push(path);
+					dirs.push(path.clone());
 					if recursive {
-						dirs.extend(find_dirs_in_dir(dir, recursive, Some(filter))?)
+						dirs.extend(find_dirs_in_dir(&path, recursive, Some(filter))?)
 					}
 				}
 			} else {
