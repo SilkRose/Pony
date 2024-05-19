@@ -43,8 +43,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let stats = Stats {
 		covers: count_covers()?,
 		flash_fiction: count_flash_fiction()?,
-		ideas: 0,
-		names: 0,
+		ideas: count_ideas()?,
+		names: count_names()?,
 		stories: count_stories()?,
 		words: count_words()?,
 	};
@@ -74,6 +74,50 @@ fn count_flash_fiction() -> Result<usize, Box<dyn Error>> {
 		.filter(|file| matches(file, &includes, &None))
 		.collect::<Vec<_>>();
 	Ok(flash_fiction.len())
+}
+
+fn count_ideas() -> Result<usize, Box<dyn Error>> {
+	let includes = Some(Regex::new(r".*(src)?[/\\]stories[/\\]ideas\.md$").unwrap());
+	let ideas = find_files_in_dir("./", true)?;
+	let ideas = ideas
+		.iter()
+		.filter(|file| matches(file, &includes, &None))
+		.collect::<Vec<_>>();
+	if let Some(ideas) = ideas.first() {
+		let mut text = String::new();
+		let mut file = fs::File::open(ideas)?;
+		file.read_to_string(&mut text)?;
+		let ideas = text
+			.split('\n')
+			.filter(|line| line.starts_with("## "))
+			.collect::<Vec<_>>()
+			.len();
+		Ok(ideas)
+	} else {
+		Ok(0)
+	}
+}
+
+fn count_names() -> Result<usize, Box<dyn Error>> {
+	let includes = Some(Regex::new(r".*(src)?[/\\]stories[/\\]names\.md$").unwrap());
+	let names = find_files_in_dir("./", true)?;
+	let names = names
+		.iter()
+		.filter(|file| matches(file, &includes, &None))
+		.collect::<Vec<_>>();
+	if let Some(names) = names.first() {
+		let mut text = String::new();
+		let mut file = fs::File::open(names)?;
+		file.read_to_string(&mut text)?;
+		let names = text
+			.split('\n')
+			.filter(|line| line.starts_with("- "))
+			.collect::<Vec<_>>()
+			.len();
+		Ok(names)
+	} else {
+		Ok(0)
+	}
 }
 
 fn count_stories() -> Result<usize, Box<dyn Error>> {
