@@ -9,6 +9,4 @@ pub mod regex;
 pub mod stderr;
 pub mod stdin;
 pub mod text_stats;
-pub mod threads;
-pub mod time;
 pub mod word_stats;
