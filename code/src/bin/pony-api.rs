@@ -1,6 +1,6 @@
 use camino::Utf8Path;
 use pony::command::execute_command;
-use pony::fs::{find_dirs_in_dir, find_file_in_dir, find_files_in_dir};
+use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::regex::matches;
 use pony::text_stats::word_count;
 use regex::Regex;
@@ -36,7 +36,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 		"git clone --quiet --depth 1 --branch mane https://github.com/SilkRose/Pony.git {}",
 		pony_temp
 	))?;
-	fs::File::create("./dist/nojekyll")?;
+	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	env::set_current_dir(Path::new(pony_temp))?;
 	println!("{:#?}", count_covers()?);
@@ -55,13 +55,10 @@ fn main() -> Result<(), Box<dyn Error>> {
 fn count_covers() -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*(external-covers|stories).*cover.*").unwrap());
 	let excludes = Some(Regex::new(r".*(archive/stories|concept|upscaled).*|\.xcf$").unwrap());
-	let covers = find_files_in_dir(
-		"./",
-		true,
-		Some(|path: &str| matches(path, &includes, &excludes)),
-	)?;
+	let covers = find_files_in_dir("./", true)?;
 	let mut covers = covers
 		.iter()
+		.filter(|file| matches(file, &includes, &excludes))
 		.filter_map(|cover| Path::new(cover).parent()?.to_str())
 		.collect::<Vec<_>>();
 	covers.sort();
@@ -71,12 +68,12 @@ fn count_covers() -> Result<usize, Box<dyn Error>> {
 
 fn count_flash_fiction() -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*flash-fiction.*\.md$").unwrap());
-	Ok(find_files_in_dir(
-		"./",
-		true,
-		Some(|path: &str| matches(path, &includes, &None)),
-	)?
-	.len())
+	let flash_fiction = find_files_in_dir("./", true)?;
+	let flash_fiction = flash_fiction
+		.iter()
+		.filter(|file| matches(file, &includes, &None))
+		.collect::<Vec<_>>();
+	Ok(flash_fiction.len())
 }
 
 fn count_stories() -> Result<usize, Box<dyn Error>> {
@@ -96,13 +93,10 @@ fn count_stories() -> Result<usize, Box<dyn Error>> {
 fn count_words() -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"(flash-fiction|stories).*\.md$").unwrap());
 	let excludes = Some(Regex::new(r"archive|stories[/\\](ideas|names)\.md$|meta\.md$").unwrap());
-	let files = find_files_in_dir(
-		"./",
-		true,
-		Some(|path: &str| matches(path, &includes, &excludes)),
-	)?;
+	let files = find_files_in_dir("./", true)?;
 	let text = files
 		.iter()
+		.filter(|file| matches(file, &includes, &excludes))
 		.map(|file| {
 			let mut text = String::new();
 			fs::File::open(file)?.read_to_string(&mut text)?;
