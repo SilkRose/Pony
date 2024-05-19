@@ -28,7 +28,7 @@ I move behind her and start brushing her tail. I look up in between swipes and s
 
 She looks so pretty from every angle. I try not to stare at her too much, and focus on my pampering.
 
-After finishing her tail, I ==slyly== rub up against her side as I get up onto the pedestal with her. I nuzzle her cheek for the briefest of moments before walking around her front to her other side.
+After finishing with her tail, I rub up against her side as I get up onto the pedestal with her. I nuzzle her cheek for the briefest of moments before walking around her front to her other side.
 
 I start to work her coat as I notice the blush that has formed on my face. I look up at Rarity between swipes of the brush.
 
@@ -74,7 +74,7 @@ Once I'm done with her leg, I place a hoof on her cutie mark and use it to motio
 
 I start to brush her chest as an idea comes to my mind. After brushing the main part of her chest, I flip the brush around and nuzzle her chest, while pretending to brush a specific spot on her coat over and over.
 
-As I do, I listen to her heartbeat. ==Its rhythmic, accelerated beating is endearing and soothing.==
+As I do, I listen to her heartbeat. Its rhythmic, accelerated beating is endearing and soothing.
 
 I get lost in the moment and forget to keep brushing. I just stand there, holding my head to her chest.
 
