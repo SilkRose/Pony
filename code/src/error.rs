@@ -10,6 +10,8 @@ pub struct Error {
 enum ErrorInner {
 	#[error(transparent)]
 	Regex(#[from] regex::Error),
+	#[error(transparent)]
+	IO(#[from] std::io::Error),
 }
 
 impl<T: Into<ErrorInner>> From<T> for Error {

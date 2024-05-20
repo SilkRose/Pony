@@ -1,8 +1,8 @@
+use super::error::Result;
 use camino::Utf8Path;
-use std::error::Error;
 
 /// Find files function, takes in a dir, and a closure for what to include.
-pub fn find_files_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>, Box<dyn Error>> {
+pub fn find_files_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>> {
 	let mut files = vec![];
 	let paths = Utf8Path::read_dir_utf8(dir.into())?;
 	for path in paths {
@@ -18,7 +18,7 @@ pub fn find_files_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>, Box<
 }
 
 /// Find dirs function, takes in a dir, and a closure for what to include.
-pub fn find_dirs_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>, Box<dyn Error>> {
+pub fn find_dirs_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>> {
 	let mut dirs = vec![];
 	let paths = Utf8Path::read_dir_utf8(dir.into())?;
 	for path in paths {
