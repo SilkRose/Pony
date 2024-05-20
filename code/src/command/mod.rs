@@ -1,7 +1,7 @@
 #![deny(missing_docs)]
 #![doc = include_str!("./readme.md")]
 
-use std::io::Result;
+use super::error::Result;
 use std::process::{Command, ExitStatus, Output};
 
 /// Executes a Linux/macOS or Windows command with a Result of ExitStatus.
@@ -22,22 +22,22 @@ pub fn execute_command_with_return(cmd: &str) -> Result<Output> {
 
 /// Executes a Windows command with a Result of ExitStatus.
 pub fn execute_windows_command(cmd: &str) -> Result<ExitStatus> {
-	Command::new("cmd").args(["/C", cmd]).status()
+	Ok(Command::new("cmd").args(["/C", cmd]).status()?)
 }
 
 /// Executes a Linux/macOS command with a Result of ExitStatus.
 pub fn execute_unix_command(cmd: &str) -> Result<ExitStatus> {
-	Command::new("sh").arg("-c").arg(cmd).status()
+	Ok(Command::new("sh").arg("-c").arg(cmd).status()?)
 }
 
 /// Executes a Windows command with a Result of the output.
 pub fn execute_windows_command_with_return(cmd: &str) -> Result<Output> {
-	Command::new("cmd").args(["/C", cmd]).output()
+	Ok(Command::new("cmd").args(["/C", cmd]).output()?)
 }
 
 /// Executes a Linux/macOS command with a Result of the output.
 pub fn execute_unix_command_with_return(cmd: &str) -> Result<Output> {
-	Command::new("sh").arg("-c").arg(cmd).output()
+	Ok(Command::new("sh").arg("-c").arg(cmd).output()?)
 }
 
 #[cfg(test)]
