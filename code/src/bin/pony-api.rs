@@ -39,24 +39,24 @@ fn main() -> Result<(), Box<dyn Error>> {
 	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	env::set_current_dir(Path::new(pony_temp))?;
-	println!("{:#?}", count_covers()?);
+	let files = find_files_in_dir("./", true)?;
+	let dirs = find_dirs_in_dir("./", true)?;
 	let stats = Stats {
-		covers: count_covers()?,
-		flash_fiction: count_flash_fiction()?,
-		ideas: count_ideas()?,
-		names: count_names()?,
-		stories: count_stories()?,
-		words: count_words()?,
+		covers: count_covers(files.clone())?,
+		flash_fiction: count_flash_fiction(files.clone())?,
+		ideas: count_specified_lines(files.clone(), "ideas", "## ")?,
+		names: count_specified_lines(files.clone(), "names", "- ")?,
+		stories: count_stories(dirs)?,
+		words: count_words(files.clone())?,
 	};
 	println!("{:#?}", stats);
 	Ok(())
 }
 
-fn count_covers() -> Result<usize, Box<dyn Error>> {
+fn count_covers(files: Vec<String>) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*(external-covers|stories).*cover.*").unwrap());
 	let excludes = Some(Regex::new(r".*(archive/stories|concept|upscaled).*|\.xcf$").unwrap());
-	let covers = find_files_in_dir("./", true)?;
-	let mut covers = covers
+	let mut covers = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
 		.filter_map(|cover| Path::new(cover).parent()?.to_str())
@@ -66,52 +66,27 @@ fn count_covers() -> Result<usize, Box<dyn Error>> {
 	Ok(covers.len())
 }
 
-fn count_flash_fiction() -> Result<usize, Box<dyn Error>> {
+fn count_flash_fiction(files: Vec<String>) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*flash-fiction.*\.md$").unwrap());
-	let flash_fiction = find_files_in_dir("./", true)?;
-	let flash_fiction = flash_fiction
+	let flash_fiction = files
 		.iter()
 		.filter(|file| matches(file, &includes, &None))
 		.collect::<Vec<_>>();
 	Ok(flash_fiction.len())
 }
 
-fn count_ideas() -> Result<usize, Box<dyn Error>> {
-	let includes = Some(Regex::new(r".*(src)?[/\\]stories[/\\]ideas\.md$").unwrap());
-	let ideas = find_files_in_dir("./", true)?;
-	let ideas = ideas
-		.iter()
-		.filter(|file| matches(file, &includes, &None))
-		.collect::<Vec<_>>();
-	if let Some(ideas) = ideas.first() {
-		let mut text = String::new();
-		let mut file = fs::File::open(ideas)?;
-		file.read_to_string(&mut text)?;
-		let ideas = text
-			.split('\n')
-			.filter(|line| line.starts_with("## "))
-			.collect::<Vec<_>>()
-			.len();
-		Ok(ideas)
-	} else {
-		Ok(0)
-	}
-}
-
-fn count_names() -> Result<usize, Box<dyn Error>> {
-	let includes = Some(Regex::new(r".*(src)?[/\\]stories[/\\]names\.md$").unwrap());
-	let names = find_files_in_dir("./", true)?;
-	let names = names
-		.iter()
-		.filter(|file| matches(file, &includes, &None))
-		.collect::<Vec<_>>();
-	if let Some(names) = names.first() {
+fn count_specified_lines(
+	files: Vec<String>, name: &str, starts_with: &str,
+) -> Result<usize, Box<dyn Error>> {
+	let includes = Some(Regex::new(&format!(r".*(src)?[/\\]stories[/\\]{name}\.md$")).unwrap());
+	let names = files.iter().find(|file| matches(file, &includes, &None));
+	if let Some(names) = names {
 		let mut text = String::new();
 		let mut file = fs::File::open(names)?;
 		file.read_to_string(&mut text)?;
 		let names = text
 			.split('\n')
-			.filter(|line| line.starts_with("- "))
+			.filter(|line| line.starts_with(starts_with))
 			.collect::<Vec<_>>()
 			.len();
 		Ok(names)
@@ -120,24 +95,19 @@ fn count_names() -> Result<usize, Box<dyn Error>> {
 	}
 }
 
-fn count_stories() -> Result<usize, Box<dyn Error>> {
+fn count_stories(dirs: Vec<String>) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"stories").unwrap());
 	let excludes = Some(Regex::new(r"archive").unwrap());
-	let stories_dir = find_dirs_in_dir("./", true)?
-		.into_iter()
-		.filter(|dir| matches(dir, &includes, &excludes))
-		.collect::<Vec<_>>();
-	let stories_dir = stories_dir.first();
+	let stories_dir = dirs.iter().find(|dir| matches(dir, &includes, &excludes));
 	if let Some(stories_dir) = stories_dir {
 		return Ok(find_dirs_in_dir(stories_dir, false)?.len());
 	}
 	Ok(0)
 }
 
-fn count_words() -> Result<usize, Box<dyn Error>> {
+fn count_words(files: Vec<String>) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"(flash-fiction|stories).*\.md$").unwrap());
 	let excludes = Some(Regex::new(r"archive|stories[/\\](ideas|names)\.md$|meta\.md$").unwrap());
-	let files = find_files_in_dir("./", true)?;
 	let text = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
