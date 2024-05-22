@@ -1,5 +1,5 @@
 use camino::Utf8Path;
-use pony::command::execute_command;
+use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::regex::matches;
 use pony::word_stats::word_count;
@@ -12,6 +12,7 @@ use std::{env, error::Error, fs, io::Write, path::Path};
 struct Stats {
 	blogs: usize,
 	code: usize,
+	commits: usize,
 	covers: usize,
 	flash_fiction: usize,
 	ideas: usize,
@@ -46,6 +47,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let stats = Stats {
 		blogs: count_blogs(&files)?,
 		code: count_code(&files)?,
+		commits: count_commits()?,
 		covers: count_covers(&files)?,
 		flash_fiction: count_flash_fiction(&files)?,
 		ideas: count_specified_lines(&files, "ideas", "## ")?,
@@ -86,6 +88,11 @@ fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	code.sort();
 	code.dedup();
 	Ok(code.len())
+}
+
+fn count_commits() -> Result<usize, Box<dyn Error>> {
+	let commits = execute_command_with_return(r#"git log mane --format="format:%H""#)?;
+	Ok(String::from_utf8_lossy(&commits.stdout).split('\n').count())
 }
 
 fn count_covers(files: &[String]) -> Result<usize, Box<dyn Error>> {
