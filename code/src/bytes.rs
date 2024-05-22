@@ -12,6 +12,13 @@ pub fn format_size_bytes(bytes: usize) -> String {
 	format_size(bytes, 1000.0, &units)
 }
 
+pub fn format_size_ibibits(bytes: usize) -> String {
+	let units = [
+		"b", "Kib", "Mib", "Gib", "Tib", "Pib", "Eib", "Zib", "Yib", "Rib", "Qib",
+	];
+	format_size(bytes << 3, 1024.0, &units)
+}
+
 pub fn format_size_ibibytes(bytes: usize) -> String {
 	let units = [
 		"B", "KiB", "MiB", "GiB", "TiB", "PiB", "EiB", "ZiB", "YiB", "RiB", "QiB",
@@ -21,10 +28,7 @@ pub fn format_size_ibibytes(bytes: usize) -> String {
 
 fn format_size(bytes: usize, divisor: f64, units: &[&str]) -> String {
 	let mut current = bytes as f64;
-	if current < divisor {
-		return format!("{bytes:.2} {}", units[0]);
-	}
-	for unit in units.iter().skip(1) {
+	for unit in units.iter() {
 		if current <= divisor {
 			return format!("{current:.2} {unit}");
 		}
