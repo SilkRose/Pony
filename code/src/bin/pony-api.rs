@@ -6,6 +6,7 @@ use pony::word_stats::word_count;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::io::Read;
+use std::os::unix::fs::MetadataExt;
 use std::{env, error::Error, fs, io::Write, path::Path};
 
 #[derive(Debug, Deserialize, Serialize)]
@@ -17,6 +18,7 @@ struct Stats {
 	flash_fiction: usize,
 	ideas: usize,
 	names: usize,
+	size: usize,
 	stories: usize,
 	words: usize,
 }
@@ -52,6 +54,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 		flash_fiction: count_flash_fiction(&files)?,
 		ideas: count_specified_lines(&files, "ideas", "## ")?,
 		names: count_specified_lines(&files, "names", "- ")?,
+		size: count_size(&files)?,
 		stories: count_stories(&dirs)?,
 		words: count_words(&files)?,
 	};
@@ -139,6 +142,18 @@ fn count_specified_lines(
 	} else {
 		Ok(0)
 	}
+}
+
+fn count_size(files: &[String]) -> Result<usize, Box<dyn Error>> {
+	let excludes = Some(Regex::new(r".*(\.obsidian|\.git|archive).*")?);
+	let bytes = files
+		.iter()
+		.filter(|file| matches(file, &None, &excludes))
+		.map(|file| Ok::<_, Box<dyn Error>>(fs::File::open(file)?.metadata()?.size() as usize))
+		.collect::<Result<Vec<_>, _>>()?
+		.into_iter()
+		.sum();
+	Ok(bytes)
 }
 
 fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
