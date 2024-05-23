@@ -5,9 +5,11 @@ use pony::regex::matches;
 use pony::word_stats::word_count;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
-use std::io::Read;
-use std::os::unix::fs::MetadataExt;
-use std::{env, error::Error, fs, io::Write, path::Path};
+use std::error::Error;
+use std::io::{Read, Write};
+use std::path::Path;
+use std::process::exit;
+use std::{env, fs};
 
 #[derive(Debug, Deserialize, Serialize)]
 struct Stats {
@@ -46,6 +48,23 @@ fn main() -> Result<(), Box<dyn Error>> {
 	env::set_current_dir(Path::new(pony_temp))?;
 	let files = find_files_in_dir("./", true)?;
 	let dirs = find_dirs_in_dir("./", true)?;
+	let local_hash = hash_api_src(&files)?;
+	let remote_hash = match Path::new("./hash.txt").is_file() {
+		true => {
+			let mut hash = String::new();
+			fs::File::open("./hash.txt")?.read_to_string(&mut hash)?;
+			Some(hash)
+		}
+		false => None,
+	};
+	if local_hash != remote_hash.unwrap_or_default() && env::var_os("CI").is_some() {
+		// rebuild needed
+		env::set_current_dir(Path::new("./code"))?;
+		fs::File::create("./target/release/hash.txt")?.write_all(local_hash.as_bytes())?;
+		let status = rebuild_binary()?;
+		println!("needs_cached=true");
+		exit(if status { 0 } else { 1 });
+	}
 	let stats = Stats {
 		blogs: count_blogs(&files)?,
 		code: count_code(&files)?,
@@ -62,14 +81,34 @@ fn main() -> Result<(), Box<dyn Error>> {
 	Ok(())
 }
 
+fn rebuild_binary() -> Result<bool, Box<dyn Error>> {
+	Ok(execute_command("cargo build --release --bin pony-api")?.success())
+}
+
+fn hash_api_src(files: &[String]) -> Result<String, Box<dyn Error>> {
+	let includes = Some(Regex::new(r".*[/\\]code[/\\](.*\.rs|Cargo.toml)$")?);
+	let excludes = Some(Regex::new(r"archive")?);
+	let mut hasher = blake3::Hasher::new();
+	for path in files
+		.iter()
+		.filter(|file| matches(file, &includes, &excludes))
+	{
+		let mut bytes = Vec::new();
+		fs::File::open(path)?.read_to_end(&mut bytes)?;
+		hasher.update(path.as_bytes());
+		hasher.update(&bytes);
+	}
+	let hash = hasher.finalize();
+	Ok(hash.to_string())
+}
+
 fn count_blogs(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*(archive)?[/\\]blogs[/\\].*\.md$")?);
 	let blogs = files
 		.iter()
 		.filter(|file| matches(file, &includes, &None))
-		.filter_map(|cover| Path::new(cover).parent()?.to_str())
-		.collect::<Vec<_>>();
-	Ok(blogs.len())
+		.count();
+	Ok(blogs)
 }
 
 fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
@@ -149,7 +188,7 @@ fn count_size(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let bytes = files
 		.iter()
 		.filter(|file| matches(file, &None, &excludes))
-		.map(|file| Ok::<_, Box<dyn Error>>(fs::File::open(file)?.metadata()?.size() as usize))
+		.map(|file| Ok::<_, Box<dyn Error>>(fs::File::open(file)?.metadata()?.len() as usize))
 		.collect::<Result<Vec<_>, _>>()?
 		.into_iter()
 		.sum();
