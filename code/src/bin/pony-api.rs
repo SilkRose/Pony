@@ -12,6 +12,14 @@ use std::process::exit;
 use std::{env, fs};
 
 #[derive(Debug, Deserialize, Serialize)]
+struct Commit {
+	hash: String,
+	unix_time: usize,
+	message: String,
+	stats: Stats,
+}
+
+#[derive(Debug, Deserialize, Serialize)]
 struct Stats {
 	blogs: usize,
 	code: usize,
@@ -28,7 +36,7 @@ struct Stats {
 fn main() -> Result<(), Box<dyn Error>> {
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
-	// let url = "https://github.com/SilkRose/Pony";
+	let repo = "https://github.com/SilkRose/Pony.git";
 	if Utf8Path::new(dist_temp).exists() {
 		fs::remove_dir_all(dist_temp)?
 	}
@@ -36,18 +44,15 @@ fn main() -> Result<(), Box<dyn Error>> {
 		fs::remove_dir_all(pony_temp)?
 	}
 	execute_command(&format!(
-		"git clone --quiet --depth 1 --branch api https://github.com/SilkRose/Pony.git {}",
-		dist_temp
+		"git clone --quiet --depth 1 --branch api {repo} {dist_temp}"
 	))?;
 	execute_command(&format!(
-		"git clone --quiet --branch mane https://github.com/SilkRose/Pony.git {}",
-		pony_temp
+		"git clone --quiet --branch mane {repo} {pony_temp}",
 	))?;
 	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	env::set_current_dir(Path::new(pony_temp))?;
 	let files = find_files_in_dir("./", true)?;
-	let dirs = find_dirs_in_dir("./", true)?;
 	let local_hash = hash_api_src(&files)?;
 	let remote_hash = match Path::new("./hash.txt").is_file() {
 		true => {
@@ -65,19 +70,36 @@ fn main() -> Result<(), Box<dyn Error>> {
 		println!("needs_cached=true");
 		exit(if status { 0 } else { 1 });
 	}
-	let stats = Stats {
-		blogs: count_blogs(&files)?,
-		code: count_code(&files)?,
-		commits: count_commits()?,
-		covers: count_covers(&files)?,
-		flash_fiction: count_flash_fiction(&files)?,
-		ideas: count_specified_lines(&files, "ideas", "## ")?,
-		names: count_specified_lines(&files, "names", "- ")?,
-		size: count_size(&files)?,
-		stories: count_stories(&dirs)?,
-		words: count_words(&files)?,
-	};
-	println!("{:#?}", stats);
+	let commits = execute_command_with_return("git log mane --format=\"%H\n%ct\n%s\n\"")?;
+	let binding = String::from_utf8_lossy(&commits.stdout);
+	let text = binding.trim();
+	let mut text = text.split("\n\n").collect::<Vec<_>>();
+	text.reverse();
+	let mut pony_commits: Vec<Stats> = Vec::with_capacity(text.len());
+	for (index, commit) in text.iter().enumerate() {
+		println!("{commit}");
+		let log = commit.split('\n').collect::<Vec<_>>();
+		let hash = log[0].to_string();
+		let timestamp = log[1].parse::<usize>()?;
+		let msg = log[2].to_string();
+		execute_command(&format!("git checkout --quiet {hash}"))?;
+		let files = find_files_in_dir("./", true)?;
+		let dirs = find_dirs_in_dir("./", true)?;
+		let stats = Stats {
+			blogs: count_blogs(&files)?,
+			code: count_code(&files)?,
+			commits: index + 1,
+			covers: count_covers(&files)?,
+			flash_fiction: count_flash_fiction(&files)?,
+			ideas: count_specified_lines(&files, "ideas", "## ")?,
+			names: count_specified_lines(&files, "names", "- ")?,
+			size: count_size(&files)?,
+			stories: count_stories(&dirs)?,
+			words: count_words(&files)?,
+		};
+		println!("{:#?}", stats);
+		pony_commits.push(stats);
+	}
 	Ok(())
 }
 
@@ -112,7 +134,7 @@ fn count_blogs(files: &[String]) -> Result<usize, Box<dyn Error>> {
 }
 
 fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
-	let includes = Some(Regex::new(r".*[/\\]code[/\\].*\.(sh|py|ts|gp|rs)$")?);
+	let includes = Some(Regex::new(r".*\.(sh|py|ts|gp|rs)$")?);
 	let excludes = Some(Regex::new(r".*(\.obsidian|\.git|archive).*")?);
 	let code = files
 		.iter()
@@ -130,11 +152,6 @@ fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	code.sort();
 	code.dedup();
 	Ok(code.len())
-}
-
-fn count_commits() -> Result<usize, Box<dyn Error>> {
-	let commits = execute_command_with_return(r#"git log mane --format="format:%H""#)?;
-	Ok(String::from_utf8_lossy(&commits.stdout).split('\n').count())
 }
 
 fn count_covers(files: &[String]) -> Result<usize, Box<dyn Error>> {
