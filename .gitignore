@@ -8,6 +8,9 @@
 **/target/
 **/dist/
 
+# Files
+code/hash.txt
+
 # Sub-files
 **/bun.lockb
 **/cookies.json
