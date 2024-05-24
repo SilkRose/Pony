@@ -54,19 +54,19 @@ fn main() -> Result<(), Box<dyn Error>> {
 	env::set_current_dir(Path::new(pony_temp))?;
 	let files = find_files_in_dir("./", true)?;
 	let local_hash = hash_api_src(&files)?;
-	let remote_hash = match Path::new("./hash.txt").is_file() {
+	let remote_hash = match Path::new("../hash.txt").is_file() {
 		true => {
 			let mut hash = String::new();
-			fs::File::open("./hash.txt")?.read_to_string(&mut hash)?;
+			fs::File::open("../hash.txt")?.read_to_string(&mut hash)?;
 			Some(hash)
 		}
 		false => None,
 	};
-	if local_hash != remote_hash.unwrap_or_default() && env::var_os("CI").is_some() {
+	if local_hash != remote_hash.unwrap_or_default() {
 		// rebuild needed
 		env::set_current_dir(Path::new("./code"))?;
-		fs::File::create("./target/release/hash.txt")?.write_all(local_hash.as_bytes())?;
-		let status = rebuild_binary()?;
+		fs::File::create("../../hash.txt")?.write_all(local_hash.as_bytes())?;
+		let status = execute_command("cargo build --release --bin pony-api")?.success();
 		println!("needs_cached=true");
 		exit(if status { 0 } else { 1 });
 	}
@@ -75,13 +75,13 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let text = binding.trim();
 	let mut text = text.split("\n\n").collect::<Vec<_>>();
 	text.reverse();
-	let mut pony_commits: Vec<Stats> = Vec::with_capacity(text.len());
+	let mut pony_commits: Vec<Commit> = Vec::with_capacity(text.len());
 	for (index, commit) in text.iter().enumerate() {
 		println!("{commit}");
 		let log = commit.split('\n').collect::<Vec<_>>();
 		let hash = log[0].to_string();
-		let timestamp = log[1].parse::<usize>()?;
-		let msg = log[2].to_string();
+		let unix_time = log[1].parse::<usize>()?;
+		let message = log[2].to_string();
 		execute_command(&format!("git checkout --quiet {hash}"))?;
 		let files = find_files_in_dir("./", true)?;
 		let dirs = find_dirs_in_dir("./", true)?;
@@ -97,14 +97,16 @@ fn main() -> Result<(), Box<dyn Error>> {
 			stories: count_stories(&dirs)?,
 			words: count_words(&files)?,
 		};
-		println!("{:#?}", stats);
-		pony_commits.push(stats);
+		let commit_data = Commit {
+			hash,
+			unix_time,
+			message,
+			stats,
+		};
+		println!("{:#?}", commit_data);
+		pony_commits.push(commit_data);
 	}
 	Ok(())
-}
-
-fn rebuild_binary() -> Result<bool, Box<dyn Error>> {
-	Ok(execute_command("cargo build --release --bin pony-api")?.success())
 }
 
 fn hash_api_src(files: &[String]) -> Result<String, Box<dyn Error>> {
