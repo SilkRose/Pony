@@ -1,12 +1,11 @@
 use camino::Utf8Path;
 use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
-use pony::json::{json_formatter, Indent, Json};
+use pony::json::{format_json, JsonFormat};
 use pony::regex::matches;
 use pony::word_stats::word_count;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
-use serde_json::to_string;
 use std::error::Error;
 use std::io::{Read, Write};
 use std::path::Path;
@@ -109,9 +108,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 		pony_commits.push(commit_data);
 	}
 	pony_commits.reverse();
-	fs::File::create("../dist/api/v1/pony-commits.json")?.write_all(
-		json_formatter(to_string(&pony_commits)?, Json::Format, Indent::Tab).as_bytes(),
-	)?;
+	fs::File::create("../dist/api/v1/pony-commits.json")?
+		.write_all(format_json(&pony_commits, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
 }
 
