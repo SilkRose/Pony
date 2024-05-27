@@ -1,7 +1,9 @@
 use camino::Utf8Path;
+use pony::bytes::format_size_bytes;
 use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{format_json, JsonFormat};
+use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::word_stats::word_count;
 use regex::Regex;
@@ -32,6 +34,20 @@ struct Stats {
 	size: usize,
 	stories: usize,
 	words: usize,
+}
+
+#[derive(Debug, Deserialize, Serialize)]
+struct PonyStats {
+	blogs: String,
+	code: String,
+	commits: String,
+	covers: String,
+	flash_fiction: String,
+	ideas: String,
+	names: String,
+	size: String,
+	stories: String,
+	words: String,
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
@@ -110,6 +126,22 @@ fn main() -> Result<(), Box<dyn Error>> {
 	pony_commits.reverse();
 	fs::File::create("../dist/api/v1/pony-commits.json")?
 		.write_all(format_json(&pony_commits, JsonFormat::Tab)?.as_bytes())?;
+	let latest = pony_commits.first().unwrap();
+	let pony = PonyStats {
+		blogs: format_number_u128(latest.stats.blogs.try_into()?)?,
+		code: format_number_u128(latest.stats.code.try_into()?)?,
+		commits: format_number_u128(latest.stats.commits.try_into()?)?,
+		covers: format_number_u128(latest.stats.covers.try_into()?)?,
+		flash_fiction: format_number_u128(latest.stats.flash_fiction.try_into()?)?,
+		ideas: format_number_u128(latest.stats.ideas.try_into()?)?,
+		names: format_number_u128(latest.stats.names.try_into()?)?,
+		size: format_size_bytes(latest.stats.size)?,
+		stories: format_number_u128(latest.stats.stories.try_into()?)?,
+		words: format_number_u128(latest.stats.words.try_into()?)?,
+	};
+	println!("{:#?}", pony);
+	fs::File::create("../dist/api/v1/pony.json")?
+		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
 }
 
