@@ -8,6 +8,7 @@ pub mod fs;
 pub mod json;
 pub mod md_to_bbcode;
 pub mod md_to_plaintext;
+pub mod number_format;
 pub mod regex;
 pub mod stderr;
 pub mod stdin;
