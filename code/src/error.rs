@@ -12,6 +12,10 @@ enum ErrorInner {
 	Regex(#[from] regex::Error),
 	#[error(transparent)]
 	IO(#[from] std::io::Error),
+	#[error(transparent)]
+	Json(#[from] serde_json::Error),
+	#[error(transparent)]
+	String(#[from] std::string::FromUtf8Error),
 }
 
 impl<T: Into<ErrorInner>> From<T> for Error {
