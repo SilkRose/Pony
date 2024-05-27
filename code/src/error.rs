@@ -16,6 +16,8 @@ enum ErrorInner {
 	Json(#[from] serde_json::Error),
 	#[error(transparent)]
 	String(#[from] std::string::FromUtf8Error),
+	#[error(transparent)]
+	Str(#[from] std::str::Utf8Error),
 }
 
 impl<T: Into<ErrorInner>> From<T> for Error {
