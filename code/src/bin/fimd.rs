@@ -11,8 +11,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 		fs::remove_dir_all("./publish")?
 	}
 	fs::create_dir("./publish")?;
-	let includes = Some(Regex::new(r".*(stories|flash-fiction).*\.md$")?);
-	let excludes = Some(Regex::new(r".*archive.*|.*(ideas|names|readme)\.md$")?);
+	let includes = Some(Regex::new(r".*\.md$")?);
+	let excludes = Some(Regex::new(r".*[/\\]code[/\\].*")?);
 	find_files_in_dir("../", true)?
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
