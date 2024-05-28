@@ -1,10 +1,12 @@
 use camino::Utf8Path;
+use indoc::printdoc;
 use pony::bytes::format_size_bytes;
 use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{format_json, JsonFormat};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
+use pony::stderr::{print_error, ErrColor};
 use pony::word_stats::word_count;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
@@ -13,6 +15,13 @@ use std::io::{Read, Write};
 use std::path::Path;
 use std::process::exit;
 use std::{env, fs};
+
+enum Argument {
+	CheckBinary,
+	CheckJson,
+	RebuildBinary,
+	RebuildJson,
+}
 
 #[derive(Debug, Deserialize, Serialize)]
 struct Commit {
@@ -51,6 +60,7 @@ struct PonyStats {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
+	let _arg = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let repo = "https://github.com/SilkRose/Pony.git";
@@ -143,6 +153,60 @@ fn main() -> Result<(), Box<dyn Error>> {
 	fs::File::create("../dist/api/v1/pony.json")?
 		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
+}
+
+fn parse_argument(args: &[String]) -> Argument {
+	if args.is_empty() {
+		print_error("No argument provided!", ErrColor::Red);
+		print_help();
+		exit(1);
+	}
+	if args.len() > 1 {
+		print_error("Too many arguments provided!", ErrColor::Red);
+		print_help();
+		exit(1);
+	}
+	match args.first().unwrap().as_str() {
+		"-rb" | "--rebuild-binary" => Argument::RebuildBinary,
+		"-cb" | "--check-binary" => Argument::CheckBinary,
+		"-rj" | "--rebuild-json" => Argument::RebuildJson,
+		"-cj" | "--check-json" => Argument::CheckJson,
+		"-h" | "--help" => {
+			print_help();
+			exit(0);
+		}
+		"-v" | "--version" => {
+			println!("{} {}", env!("CARGO_BIN_NAME"), env!("CARGO_PKG_VERSION"));
+			exit(0);
+		}
+		_ => {
+			print_error("Incorrect argument provided!", ErrColor::Red);
+			print_help();
+			exit(1);
+		}
+	}
+}
+
+fn print_help() {
+	printdoc! {"
+		{} {}
+
+		Builds the API json or binary for Silk Rose's Pony repository.
+
+		Usage Examples:
+		  pony-api --check-binary
+		  pony-api --rebuild-json
+
+		Options:
+		  -rb, --rebuild-binary    Rebuilds the binary
+		  -cb, --check-binary      Check binary for rebuild
+		  -rj, --rebuild-json      Rebuild the json
+		  -cj, --check-json        Check the json for updating
+		  -h,  --help              Print help
+		  -v,  --version           Print version\n",
+		env!("CARGO_BIN_NAME"),
+		env!("CARGO_PKG_VERSION")
+	}
 }
 
 fn hash_api_src(files: &[String]) -> Result<String, Box<dyn Error>> {
