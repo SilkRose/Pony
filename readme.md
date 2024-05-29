@@ -66,7 +66,8 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Pony&Wolf Productions]** | [The Pink Tax] | [YouTube][The Pink Tax reading two] |
 | **[Pony&Wolf Productions]** | [Pony Pillows] | [YouTube][Pony Pillows reading two] |
 | **[Lotus Moon]** | [Love Licks] | [YouTube][Love Licks reading] |
-| **[Rainbow Infinity Readings]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading] |
+| **[Rainbow Infinity Readings]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading one] |
+| **[Lotus Moon]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading two] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -188,7 +189,8 @@ While I may be the main contributor to this repository, I have had help, and thu
 [The Pink Tax reading two]: https://www.youtube.com/watch?v=Nouf1_Sbysc "YouTube"
 [Pony Pillows reading two]: https://www.youtube.com/watch?v=HAcBB6HbQ7k "YouTube"
 [Love Licks reading]: https://www.youtube.com/watch?v=hP5idtWADfk "YouTube"
-[Profound Ponytail reading]: https://www.youtube.com/watch?v=IDpCsRCrsdM "YouTube"
+[Profound Ponytail reading one]: https://www.youtube.com/watch?v=IDpCsRCrsdM "YouTube"
+[Profound Ponytail reading two]: https://www.youtube.com/watch?v=fKw3kauBSqM "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
