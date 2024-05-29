@@ -1,4 +1,4 @@
-# Pinkie Pie → Applejack (Silk Rose)
+# Pinkie Pie → Applejack ([Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose))
 
 Dear Applejack,
 
