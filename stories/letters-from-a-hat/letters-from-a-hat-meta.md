@@ -31,15 +31,15 @@ Some suggestions from Twilight to include in your letter(s):
 4. A suggestion for something you two could do together.
 
 ### Characters:
-- Pinkie Pie: Silk Rose
+- Pinkie Pie: [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose)
 - Starlight: Jymbroni
 - Trixie: gapty
-- Rainbow Dash: Scriblits
+- Rainbow Dash: [Sciblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories)
 - Sunset: heartlessons
 - Twilight Sparkle: 6-D Pegasus
 - Applejack: [Rego](https://www.fimfiction.net/user/180061/Rego)
 - Celestia: sirenc0re
-- Fluttershy: PseudoBob
+- Fluttershy: [PseudoBob Delightus](https://www.fimfiction.net/user/12771/)
 - Luna: Tiki Bat
 - Rarity: Pearls
 - Spike: ThePeer
@@ -49,7 +49,11 @@ Some suggestions from Twilight to include in your letter(s):
 1. [Pinkie Pie → Applejack (Silk Rose)](01-pinkie-pie.md)
 2. [Applejack → Pinkie Pie (Rego)](./02-applejack.md)
 3. [Applejack → Fluttershy (Rego)](./03-applejack.md)
-4. 
+4. [Fluttershy → Applejack (PseudoBob Delightus)](./04-fluttershy.md)
+5. [Fluttershy → Rainbow Dash (PseudoBob Delightus)](./05-fluttershy.md)
+6. [Rainbow Dash → Fluttershy (Sciblits Talo)](./06-rainbow-dash.md)
+7. [Rainbow Dash → Spike (Sciblits Talo)](./07-rainbow-dash.md)
+8. 
 
 ## Cover:
 
