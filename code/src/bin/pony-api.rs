@@ -16,11 +16,11 @@ use std::path::Path;
 use std::process::exit;
 use std::{env, fs};
 
-enum Argument {
-	CheckBinary,
-	CheckJson,
-	RebuildBinary,
-	RebuildJson,
+struct State {
+	check_binary: bool,
+	rebuild_binary: bool,
+	update_json: bool,
+	rebuild_json: bool,
 }
 
 #[derive(Debug, Deserialize, Serialize)]
@@ -60,43 +60,41 @@ struct PonyStats {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-	let _arg = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
+	let mut state = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let repo = "https://github.com/SilkRose/Pony.git";
-	if Utf8Path::new(dist_temp).exists() {
-		fs::remove_dir_all(dist_temp)?
-	}
-	if Utf8Path::new(pony_temp).exists() {
-		fs::remove_dir_all(pony_temp)?
-	}
-	execute_command(&format!(
-		"git clone --quiet --depth 1 --branch api {repo} {dist_temp}"
-	))?;
-	execute_command(&format!(
-		"git clone --quiet --branch mane {repo} {pony_temp}",
-	))?;
-	fs::File::create("./dist/.nojekyll")?;
-	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
+	let dist_cmd = format!("git clone --quiet --depth 1 --branch api {repo} {dist_temp}");
+	let pony_cmd = format!("git clone --quiet --branch mane {repo} {pony_temp}");
+	setup_branch(pony_temp, &pony_cmd)?;
 	env::set_current_dir(Path::new(pony_temp))?;
 	let files = find_files_in_dir("./", true)?;
-	let local_hash = hash_api_src(&files)?;
-	let remote_hash = match Path::new("../hash.txt").is_file() {
-		true => {
-			let mut hash = String::new();
-			fs::File::open("../hash.txt")?.read_to_string(&mut hash)?;
-			Some(hash)
-		}
-		false => None,
+	let local_hash = if state.check_binary || state.rebuild_binary {
+		Some(hash_api_src(&files)?)
+	} else {
+		None
 	};
-	if local_hash != remote_hash.unwrap_or_default() {
-		// rebuild needed
+	if state.check_binary {
+		let remote_hash = match Path::new("../hash.txt").is_file() {
+			true => {
+				let mut hash = String::new();
+				fs::File::open("../hash.txt")?.read_to_string(&mut hash)?;
+				Some(hash)
+			}
+			false => None,
+		};
+	}
+
+	if state.rebuild_binary {
 		env::set_current_dir(Path::new("./code"))?;
-		fs::File::create("../../hash.txt")?.write_all(local_hash.as_bytes())?;
+		fs::File::create("../../hash.txt")?.write_all(local_hash.unwrap().as_bytes())?;
 		let status = execute_command("cargo build --release --bin pony-api")?.success();
 		println!("needs_cached=true");
 		exit(if status { 0 } else { 1 });
 	}
+
+	fs::File::create("./dist/.nojekyll")?;
+	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	let commits = execute_command_with_return("git log mane --format=\"%H\n%ct\n%s\n\"")?;
 	let binding = String::from_utf8_lossy(&commits.stdout);
 	let text = binding.trim();
@@ -155,7 +153,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	Ok(())
 }
 
-fn parse_argument(args: &[String]) -> Argument {
+fn parse_argument(args: &[String]) -> State {
 	if args.is_empty() {
 		print_error("No argument provided!", ErrColor::Red);
 		print_help();
@@ -167,10 +165,30 @@ fn parse_argument(args: &[String]) -> Argument {
 		exit(1);
 	}
 	match args.first().unwrap().as_str() {
-		"-rb" | "--rebuild-binary" => Argument::RebuildBinary,
-		"-cb" | "--check-binary" => Argument::CheckBinary,
-		"-rj" | "--rebuild-json" => Argument::RebuildJson,
-		"-cj" | "--check-json" => Argument::CheckJson,
+		"-rb" | "--rebuild-binary" => State {
+			check_binary: false,
+			rebuild_binary: true,
+			update_json: false,
+			rebuild_json: false,
+		},
+		"-cb" | "--check-binary" => State {
+			check_binary: true,
+			rebuild_binary: false,
+			update_json: false,
+			rebuild_json: false,
+		},
+		"-rj" | "--rebuild-json" => State {
+			check_binary: false,
+			rebuild_binary: false,
+			update_json: false,
+			rebuild_json: true,
+		},
+		"-uj" | "--update-json" => State {
+			check_binary: false,
+			rebuild_binary: false,
+			update_json: true,
+			rebuild_json: false,
+		},
 		"-h" | "--help" => {
 			print_help();
 			exit(0);
@@ -201,12 +219,23 @@ fn print_help() {
 		  -rb, --rebuild-binary    Rebuilds the binary
 		  -cb, --check-binary      Check binary for rebuild
 		  -rj, --rebuild-json      Rebuild the json
-		  -cj, --check-json        Check the json for updating
+		  -uj, --update-json       Check the json for updating
 		  -h,  --help              Print help
 		  -v,  --version           Print version\n",
 		env!("CARGO_BIN_NAME"),
 		env!("CARGO_PKG_VERSION")
 	}
+}
+
+fn setup_branch(dir: &str, cmd: &str) -> Result<(), Box<dyn Error>> {
+	if Utf8Path::new(dir).exists() {
+		fs::remove_dir_all(dir)?
+	}
+	let status = execute_command(cmd)?;
+	if !status.success() {
+		return Err(format!("Failed to execute command: {cmd}").into());
+	}
+	Ok(())
 }
 
 fn hash_api_src(files: &[String]) -> Result<String, Box<dyn Error>> {
