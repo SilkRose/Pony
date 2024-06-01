@@ -16,7 +16,7 @@ use std::path::Path;
 use std::process::exit;
 use std::{env, fs};
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Clone, Serialize)]
 struct Commit {
 	hash: String,
 	unix_time: usize,
@@ -24,7 +24,7 @@ struct Commit {
 	stats: Stats,
 }
 
-#[derive(Debug, Deserialize, Serialize)]
+#[derive(Debug, Deserialize, Clone, Serialize)]
 struct Stats {
 	blogs: usize,
 	code: usize,
@@ -53,7 +53,7 @@ struct PonyStats {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-	let _rebuild = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
+	let mut rebuild = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let repo = "https://github.com/SilkRose/Pony.git";
@@ -69,11 +69,28 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let text = binding.trim();
 	let mut text = text.split("\n\n").collect::<Vec<_>>();
 	text.reverse();
+	let json_path = "../dist/api/v1/pony-commits.json";
+	let pony_commits_json: Option<Vec<Commit>> = if Path::new(json_path).is_file() && !rebuild {
+		let mut commits: Vec<Commit> = serde_json::from_str(&fs::read_to_string(json_path)?)?;
+		commits.reverse();
+		Some(commits)
+	} else {
+		rebuild = true;
+		None
+	};
 	let mut pony_commits: Vec<Commit> = Vec::with_capacity(text.len());
 	for (index, commit) in text.iter().enumerate() {
 		println!("{commit}");
 		let log = commit.split('\n').collect::<Vec<_>>();
 		let hash = log[0].to_string();
+		if let Some(ref commits) = pony_commits_json {
+			if !rebuild && commits.get(index).is_some() && hash == commits.get(index).unwrap().hash
+			{
+				println!("{:#?}", commits.get(index).unwrap());
+				pony_commits.push(commits.get(index).unwrap().clone());
+				continue;
+			}
+		}
 		let unix_time = log[1].parse::<usize>()?;
 		let message = log[2].to_string();
 		execute_command(&format!("git checkout --quiet {hash}"))?;
@@ -157,10 +174,10 @@ fn print_help() {
 
 		Usage Examples:
 		  pony-api
-		  pony-api --rebuild-json
+		  pony-api --rebuild
 
 		Options:
-		  -r, --rebuild      Rebuild the json
+		  -r, --rebuild      Rebuild the pony-commits.json file
 		  -h,  --help        Print help
 		  -v,  --version     Print version\n",
 		env!("CARGO_BIN_NAME"),
