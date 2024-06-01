@@ -16,13 +16,6 @@ use std::path::Path;
 use std::process::exit;
 use std::{env, fs};
 
-struct State {
-	check_binary: bool,
-	rebuild_binary: bool,
-	update_json: bool,
-	rebuild_json: bool,
-}
-
 #[derive(Debug, Deserialize, Serialize)]
 struct Commit {
 	hash: String,
@@ -60,41 +53,17 @@ struct PonyStats {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-	let mut state = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
+	let _rebuild = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let repo = "https://github.com/SilkRose/Pony.git";
 	let dist_cmd = format!("git clone --quiet --depth 1 --branch api {repo} {dist_temp}");
 	let pony_cmd = format!("git clone --quiet --branch mane {repo} {pony_temp}");
+	setup_branch(dist_temp, &dist_cmd)?;
 	setup_branch(pony_temp, &pony_cmd)?;
-	env::set_current_dir(Path::new(pony_temp))?;
-	let files = find_files_in_dir("./", true)?;
-	let local_hash = if state.check_binary || state.rebuild_binary {
-		Some(hash_api_src(&files)?)
-	} else {
-		None
-	};
-	if state.check_binary {
-		let remote_hash = match Path::new("../hash.txt").is_file() {
-			true => {
-				let mut hash = String::new();
-				fs::File::open("../hash.txt")?.read_to_string(&mut hash)?;
-				Some(hash)
-			}
-			false => None,
-		};
-	}
-
-	if state.rebuild_binary {
-		env::set_current_dir(Path::new("./code"))?;
-		fs::File::create("../../hash.txt")?.write_all(local_hash.unwrap().as_bytes())?;
-		let status = execute_command("cargo build --release --bin pony-api")?.success();
-		println!("needs_cached=true");
-		exit(if status { 0 } else { 1 });
-	}
-
 	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
+	env::set_current_dir(Path::new(pony_temp))?;
 	let commits = execute_command_with_return("git log mane --format=\"%H\n%ct\n%s\n\"")?;
 	let binding = String::from_utf8_lossy(&commits.stdout);
 	let text = binding.trim();
@@ -153,11 +122,9 @@ fn main() -> Result<(), Box<dyn Error>> {
 	Ok(())
 }
 
-fn parse_argument(args: &[String]) -> State {
+fn parse_argument(args: &[String]) -> bool {
 	if args.is_empty() {
-		print_error("No argument provided!", ErrColor::Red);
-		print_help();
-		exit(1);
+		return false;
 	}
 	if args.len() > 1 {
 		print_error("Too many arguments provided!", ErrColor::Red);
@@ -165,30 +132,7 @@ fn parse_argument(args: &[String]) -> State {
 		exit(1);
 	}
 	match args.first().unwrap().as_str() {
-		"-rb" | "--rebuild-binary" => State {
-			check_binary: false,
-			rebuild_binary: true,
-			update_json: false,
-			rebuild_json: false,
-		},
-		"-cb" | "--check-binary" => State {
-			check_binary: true,
-			rebuild_binary: false,
-			update_json: false,
-			rebuild_json: false,
-		},
-		"-rj" | "--rebuild-json" => State {
-			check_binary: false,
-			rebuild_binary: false,
-			update_json: false,
-			rebuild_json: true,
-		},
-		"-uj" | "--update-json" => State {
-			check_binary: false,
-			rebuild_binary: false,
-			update_json: true,
-			rebuild_json: false,
-		},
+		"-r" | "--rebuild" => true,
 		"-h" | "--help" => {
 			print_help();
 			exit(0);
@@ -209,19 +153,16 @@ fn print_help() {
 	printdoc! {"
 		{} {}
 
-		Builds the API json or binary for Silk Rose's Pony repository.
+		Builds the API json for Silk Rose's Pony repository.
 
 		Usage Examples:
-		  pony-api --check-binary
+		  pony-api
 		  pony-api --rebuild-json
 
 		Options:
-		  -rb, --rebuild-binary    Rebuilds the binary
-		  -cb, --check-binary      Check binary for rebuild
-		  -rj, --rebuild-json      Rebuild the json
-		  -uj, --update-json       Check the json for updating
-		  -h,  --help              Print help
-		  -v,  --version           Print version\n",
+		  -r, --rebuild      Rebuild the json
+		  -h,  --help        Print help
+		  -v,  --version     Print version\n",
 		env!("CARGO_BIN_NAME"),
 		env!("CARGO_PKG_VERSION")
 	}
@@ -234,25 +175,8 @@ fn setup_branch(dir: &str, cmd: &str) -> Result<(), Box<dyn Error>> {
 	let status = execute_command(cmd)?;
 	if !status.success() {
 		return Err(format!("Failed to execute command: {cmd}").into());
-	}
+	};
 	Ok(())
-}
-
-fn hash_api_src(files: &[String]) -> Result<String, Box<dyn Error>> {
-	let includes = Some(Regex::new(r".*[/\\]code[/\\](.*\.rs|Cargo.toml)$")?);
-	let excludes = Some(Regex::new(r"archive")?);
-	let mut hasher = blake3::Hasher::new();
-	for path in files
-		.iter()
-		.filter(|file| matches(file, &includes, &excludes))
-	{
-		let mut bytes = Vec::new();
-		fs::File::open(path)?.read_to_end(&mut bytes)?;
-		hasher.update(path.as_bytes());
-		hasher.update(&bytes);
-	}
-	let hash = hasher.finalize();
-	Ok(hash.to_string())
 }
 
 fn count_blogs(files: &[String]) -> Result<usize, Box<dyn Error>> {
