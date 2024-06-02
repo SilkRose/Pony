@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/SilkRose/Pony/tree/mane/blogs" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8" alt="Blogs"></a>
+	<a href="https://github.com/SilkRose/Pony/tree/mane/archive/blogs" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=blogs&style=flat-square&label=Blogs&labelColor=%23C394D7&color=%23F2C7F8" alt="Blogs"></a>
 	&nbsp;
 	<a href="https://github.com/SilkRose/Pony/commits/mane" title="GitHub"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fpony.silkrose.dev%2Fapi%2Fv1%2Fpony.json&query=commits&style=flat-square&label=Commits&labelColor=%23F37033&color=%23F9B764" alt="Commits"></a>
 	&nbsp;
@@ -63,6 +63,15 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 - **Flash Fiction:** Short stories, typically written in one sitting.
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
+
+## Statistics:
+I wrote code to analyze each of the statistics below the banner at the top. Here is additional context for word and code count:
+
+### Words:
+The total word count for all stories and flash fiction. Does not count meta files, or any markdown syntax, and counts hyphenated words as one word.
+
+### Code:
+The total number of trimmed unique lines of code.
 
 ## Readings:
 A few of my stories have had readings made for them, I would like to thank the following ponies for doing readings of my work:
