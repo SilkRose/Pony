@@ -1,0 +1,54 @@
+name: Binary Rebuild Check
+
+on:
+    push:
+        branches:
+            - mane
+
+jobs:
+    rebuild-check:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Fetch cached hash
+              uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
+              id: restore-cached-hash
+              with:
+                  key: pony-binary-${{ runner.os }}
+                  path: |
+                      hash.txt
+
+            - name: Checkout code
+              uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+
+            - name: Check for source changes
+              run: |
+                  hashes=$(find ./Pony/code \( -name "*.rs" -o -wholename "./Pony/code/Cargo.toml" \) -exec sha256sum {} + | awk '{print $1}')
+                  remote=$(sha256sum ./hash.txt | awk '{print $1}')
+                  local=$(echo "$hashes" | sha256sum | awk '{print $1}')
+                  if [[ "$remote" != "$local" ]]; then echo "$local" > ./hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
+              id: check-hashes
+              if: ${{ steps.restore-cached-binary.outputs.cache-hit }}
+
+            - name: (Re)build binary
+              if: ${{ !steps.restore-cached-binary.outputs.cache-hit || steps.check-hashes.outputs.rebuild == 'true' }}
+              id: build
+              working-directory: code
+              run: |
+                  cargo build --release --bin pony-api
+                  cp target/release/pony-api ..
+                  echo "rebuilt=true" >> $GITHUB_OUTPUT
+
+            - name: Cache binary
+              uses: actions/cache/save@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
+              if: ${{ steps.build.outputs.rebuilt == 'true' }}
+              with:
+                  key: pony-binary-${{ runner.os }}
+                  path: |
+                      pony-api
+                      hash.txt
+
+            - name: Call JSON build workflow
+              uses: ./.github/workflows/api-json-deploy.yaml
+              with:
+                  rebuilt: ${{ steps.build.outputs.rebuilt == 'true' }}
