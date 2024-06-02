@@ -80,13 +80,11 @@ fn main() -> Result<(), Box<dyn Error>> {
 	};
 	let mut pony_commits: Vec<Commit> = Vec::with_capacity(text.len());
 	for (index, commit) in text.iter().enumerate() {
-		println!("{commit}");
 		let log = commit.split('\n').collect::<Vec<_>>();
 		let hash = log[0].to_string();
 		if let Some(ref commits) = pony_commits_json {
 			if !rebuild && commits.get(index).is_some() && hash == commits.get(index).unwrap().hash
 			{
-				println!("{:#?}", commits.get(index).unwrap());
 				pony_commits.push(commits.get(index).unwrap().clone());
 				continue;
 			}
@@ -114,7 +112,6 @@ fn main() -> Result<(), Box<dyn Error>> {
 			message,
 			stats,
 		};
-		println!("{:#?}", commit_data);
 		pony_commits.push(commit_data);
 	}
 	pony_commits.reverse();
@@ -133,7 +130,6 @@ fn main() -> Result<(), Box<dyn Error>> {
 		stories: format_number_u128(latest.stats.stories.try_into()?)?,
 		words: format_number_u128(latest.stats.words.try_into()?)?,
 	};
-	println!("{:#?}", pony);
 	fs::File::create("../dist/api/v1/pony.json")?
 		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
