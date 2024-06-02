@@ -5,6 +5,9 @@ on:
         branches:
             - mane
 
+permissions:
+    contents: write
+
 jobs:
     rebuild-check:
         runs-on: ubuntu-latest
