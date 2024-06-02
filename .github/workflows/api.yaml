@@ -58,11 +58,11 @@ jobs:
 
             - name: Rebuild JSON
               run: ./pony-api --rebuild
-              if: ${{ steps.build.outputs.rebuilt == 'true' }}
+              if: ${{ steps.check-hashes.outputs.rebuild == 'true' }}
 
             - name: Patch JSON
               run: ./pony-api
-              if: ${{ !steps.build.outputs.rebuilt == 'true' }}
+              if: ${{ steps.check-hashes.outputs.rebuild != 'true' }}
 
             - name: Deploy API
               run: |
