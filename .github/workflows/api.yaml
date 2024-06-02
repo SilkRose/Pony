@@ -20,21 +20,12 @@ jobs:
               uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
               id: restore-cached-hash
               with:
-                  key: pony-binary-${{ runner.os }}
+                  key: pony-binary-${{ runner.os }}-${{ hashFiles('**/*.rs','**/Cargo.toml') }}
                   path: |
                       hash.txt
 
-            - name: Check for source changes
-              id: check-hashes
-              working-directory: code
-              run: |
-                  hashes=$(find . \( -name "*.rs" -o -wholename "./Cargo.toml" \) -exec sha256sum {} + | awk '{print $1}')
-                  remote=$( [ -f ../hash.txt ] && sha256sum ../hash.txt | awk '{print $1}' || echo "")
-                  local=$(echo "$hashes" | sha256sum | awk '{print $1}')
-                  if [[ "$remote" != "$local" ]]; then echo "$local" > ../hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
-
             - name: (Re)build binary
-              if: ${{ !steps.restore-cached-hash.outputs.cache-hit || steps.check-hashes.outputs.rebuild == 'true' }}
+              if: ${{ !steps.restore-cached-hash.outputs.cache-hit }}
               id: build
               working-directory: code
               run: |
@@ -46,22 +37,22 @@ jobs:
               uses: actions/cache/save@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
               if: ${{ steps.build.outputs.rebuilt == 'true' }}
               with:
-                  key: pony-binary-${{ runner.os }}
+                  key: pony-binary-${{ runner.os }}-${{ hashFiles('**/*.rs','**/Cargo.toml') }}
                   path: |
                       pony-api
                       hash.txt
 
             - name: Rebuild JSON
               run: ./pony-api --rebuild
-              if: ${{ steps.build.outputs.rebuilt == 'true' }}
+              if: ${{ !steps.restore-cached-hash.outputs.cache-hit }}
 
             - name: Patch JSON
               run: ./pony-api
-              if: ${{ !steps.build.outputs.rebuilt == 'true' }}
+              if: ${{ steps.restore-cached-hash.outputs.cache-hit }}
 
             - name: Deploy API
               run: |
-                  cd ../dist
+                  cd ./dist
                   git diff --exit-code && exit 0
                   git config --global user.name "Silk Rose"
                   git config --global user.email "silkrose@love-tolerance.com"
