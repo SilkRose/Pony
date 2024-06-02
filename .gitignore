@@ -1,6 +1,6 @@
 # Folders
 .*/
-!.github
+!.github/
 /code/pony-temp/
 /code/publish/
 
@@ -8,9 +8,6 @@
 **/node_modules/
 **/target/
 **/dist/
-
-# Files
-code/hash.txt
 
 # Sub-files
 **/bun.lockb
