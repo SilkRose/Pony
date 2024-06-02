@@ -26,10 +26,10 @@ jobs:
               run: |
                   hashes=$(find ./pony-temp/code \
                     \( -name "*.rs" -o -wholename "./Cargo.toml" -o -wholename "./Cargo.lock" \) \
-                    -exec sha256sum {} + | awk '{print $1}')
-                  remote=$( [ -f ./cache/hash.txt ] && sha256sum ./cache/hash.txt | awk '{print $1}' || echo "")
+                    -exec sha256sum {} + | awk '{print $1}' | sort)
+                  remote=$( [ -f ./cache/hash.txt ] && cat ./cache/hash.txt | sort | sha256sum | awk '{print $1}' || echo "")
                   local=$(echo "$hashes" | sha256sum | awk '{print $1}')
-                  if [[ "$remote" != "$local" ]]; then echo "$local" > ./cache/hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
+                  if [[ "$remote" != "$local" ]]; then echo "$hashes" > ./cache/hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
 
             - name: (Re)build binary
               if: ${{ steps.check-hashes.outputs.rebuild == 'true' }}
