@@ -14,41 +14,55 @@ jobs:
 
         steps:
             - name: Checkout code
-              uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
+              shell: bash
+              run: |
+                  git clone --quiet --branch api https://github.com/SilkRose/Pony.git ./dist &
+                  git clone --quiet --branch cache https://github.com/SilkRose/Pony.git ./cache &
+                  git clone --quiet --branch mane https://github.com/SilkRose/Pony.git ./pony-temp &
+                  wait
 
-            - name: Fetch cached hash
-              uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
-              id: restore-cached-hash
-              with:
-                  key: pony-binary-${{ runner.os }}-${{ hashFiles('**/*.rs','**/Cargo.toml','**/Cargo.lock') }}
-                  path: |
-                      hash.txt
+            - name: Compare hashes
+              id: check-hashes
+              run: |
+                  hashes=$(find ./pony-temp/code \
+                    \( -name "*.rs" -o -wholename "./Cargo.toml" -o -wholename "./Cargo.lock" \) \
+                    -exec sha256sum {} + | awk '{print $1}')
+                  remote=$( [ -f ./cache/hash.txt ] && sha256sum ./cache/hash.txt | awk '{print $1}' || echo "")
+                  local=$(echo "$hashes" | sha256sum | awk '{print $1}')
+                  if [[ "$remote" != "$local" ]]; then echo "$local" > ./cache/hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
 
             - name: (Re)build binary
-              if: ${{ !steps.restore-cached-hash.outputs.cache-hit }}
+              if: ${{ steps.check-hashes.outputs.rebuild == 'true' }}
               id: build
-              working-directory: code
               run: |
+                  cd ./pony-temp/code
                   cargo build --release --bin pony-api
-                  cp target/release/pony-api ..
+                  cp target/release/pony-api ../../cache
                   echo "rebuilt=true" >> $GITHUB_OUTPUT
 
-            - name: Cache binary
-              uses: actions/cache/save@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
+            - name: Commit binary
               if: ${{ steps.build.outputs.rebuilt == 'true' }}
-              with:
-                  key: pony-binary-${{ runner.os }}-${{ hashFiles('**/*.rs','**/Cargo.toml','**/Cargo.lock') }}
-                  path: |
-                      pony-api
-                      hash.txt
+              run: |
+                  cd ./cache
+                  git config --global user.name "Silk Rose"
+                  git config --global user.email "silkrose@love-tolerance.com"
+                  git remote set-url origin \
+                    "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/SilkRose/Pony.git"
+                  git add -A
+                  hash=$(echo ${{ github.sha }} | head -c 7)
+                  git commit --amend -m "Deploying to cache from: $hash"
+                  git push --force
+
+            - name: Move binary
+              run: mv ./cache/pony-api .
 
             - name: Rebuild JSON
               run: ./pony-api --rebuild
-              if: ${{ !steps.restore-cached-hash.outputs.cache-hit }}
+              if: ${{ steps.build.outputs.rebuilt == 'true' }}
 
             - name: Patch JSON
               run: ./pony-api
-              if: ${{ steps.restore-cached-hash.outputs.cache-hit }}
+              if: ${{ !steps.build.outputs.rebuilt == 'true' }}
 
             - name: Deploy API
               run: |
@@ -57,7 +71,7 @@ jobs:
                   git config --global user.name "Silk Rose"
                   git config --global user.email "silkrose@love-tolerance.com"
                   git remote set-url origin \
-                    "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/SilkRose/${{ github.event.repository.name }}.git"
+                    "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/SilkRose/Pony.git"
                   git add -A
                   hash=$(echo ${{ github.sha }} | head -c 7)
                   git commit -m "Deploying to API from: $hash"
