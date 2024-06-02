@@ -9,6 +9,9 @@ jobs:
     rebuild-check:
         runs-on: ubuntu-latest
 
+        outputs:
+            rebuilt: ${{ steps.build.outputs.rebuilt }}
+
         steps:
             - name: Fetch cached hash
               uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
@@ -28,10 +31,10 @@ jobs:
                   local=$(echo "$hashes" | sha256sum | awk '{print $1}')
                   if [[ "$remote" != "$local" ]]; then echo "$local" > ./hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
               id: check-hashes
-              if: ${{ steps.restore-cached-binary.outputs.cache-hit }}
+              if: ${{ steps.restore-cached-hash.outputs.cache-hit }}
 
             - name: (Re)build binary
-              if: ${{ !steps.restore-cached-binary.outputs.cache-hit || steps.check-hashes.outputs.rebuild == 'true' }}
+              if: ${{ !steps.restore-cached-hash.outputs.cache-hit || steps.check-hashes.outputs.rebuild == 'true' }}
               id: build
               working-directory: code
               run: |
@@ -48,7 +51,9 @@ jobs:
                       pony-api
                       hash.txt
 
-            - name: Call JSON build workflow
-              uses: ./.github/workflows/api-json-deploy.yaml
-              with:
-                  rebuilt: ${{ steps.build.outputs.rebuilt == 'true' }}
+    deploy-api:
+        name: Call JSON build workflow
+        needs: rebuild-check
+        uses: ./.github/workflows/api-json-deploy.yaml
+        with:
+            rebuilt: ${{ needs.rebuild-check.outputs.rebuilt }}
