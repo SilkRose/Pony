@@ -16,14 +16,48 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@a5ac7e51b41094c92402da3b24376905380afc29 # v4.1.6
 
-            - name: Build binary
+            - name: Fetch cached hash
+              uses: actions/cache/restore@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
+              id: restore-cached-hash
+              with:
+                  key: pony-binary-${{ runner.os }}
+                  path: |
+                      hash.txt
+
+            - name: Check for source changes
+              id: check-hashes
+              working-directory: code
+              run: |
+                  hashes=$(find . \( -name "*.rs" -o -wholename "./Cargo.toml" \) -exec sha256sum {} + | awk '{print $1}')
+                  remote=$( [ -f ../hash.txt ] && sha256sum ../hash.txt | awk '{print $1}' || echo "")
+                  local=$(echo "$hashes" | sha256sum | awk '{print $1}')
+                  if [[ "$remote" != "$local" ]]; then echo "$local" > ../hash.txt && echo "rebuild=true" >> $GITHUB_OUTPUT; fi
+
+            - name: (Re)build binary
+              if: ${{ !steps.restore-cached-hash.outputs.cache-hit || steps.check-hashes.outputs.rebuild == 'true' }}
+              id: build
               working-directory: code
               run: |
                   cargo build --release --bin pony-api
-                  cp target/release/pony-api ../../
+                  cp target/release/pony-api ..
+                  echo "rebuilt=true" >> $GITHUB_OUTPUT
 
-            - name: Build API
-              run: cd ../ && ./pony-api
+            - name: Cache binary
+              uses: actions/cache/save@0c45773b623bea8c8e75f6c82b208c3cf94ea4f9 # v4.0.2
+              if: ${{ steps.build.outputs.rebuilt == 'true' }}
+              with:
+                  key: pony-binary-${{ runner.os }}
+                  path: |
+                      pony-api
+                      hash.txt
+
+            - name: Rebuild JSON
+              run: ./pony-api --rebuild
+              if: ${{ steps.build.outputs.rebuilt == 'true' }}
+
+            - name: Patch JSON
+              run: ./pony-api
+              if: ${{ !steps.build.outputs.rebuilt == 'true' }}
 
             - name: Deploy API
               run: |
