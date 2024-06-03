@@ -183,8 +183,13 @@ fn print_help() {
 
 fn setup_branch(dir: &str, cmd: &str) -> Result<(), Box<dyn Error>> {
 	if Utf8Path::new(dir).exists() {
-		fs::remove_dir_all(dir)?
-	}
+		let status = execute_command(&format!("cd {dir} && git pull --force --quiet"))?;
+		if !status.success() {
+			fs::remove_dir_all(dir)?
+		} else {
+			return Ok(());
+		};
+	};
 	let status = execute_command(cmd)?;
 	if !status.success() {
 		return Err(format!("Failed to execute command: {cmd}").into());
