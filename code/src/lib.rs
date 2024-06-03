@@ -13,4 +13,5 @@ pub mod pagination;
 pub mod regex;
 pub mod stderr;
 pub mod stdin;
+pub mod traits;
 pub mod word_stats;
