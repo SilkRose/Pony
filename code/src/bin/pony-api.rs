@@ -59,8 +59,8 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let repo = "https://github.com/SilkRose/Pony.git";
 	let dist_cmd = format!("git clone --quiet --depth 1 --branch api {repo} {dist_temp}");
 	let pony_cmd = format!("git clone --quiet --branch mane {repo} {pony_temp}");
-	setup_branch(dist_temp, &dist_cmd)?;
-	setup_branch(pony_temp, &pony_cmd)?;
+	setup_branch(dist_temp, &dist_cmd, "api")?;
+	setup_branch(pony_temp, &pony_cmd, "mane")?;
 	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	env::set_current_dir(Path::new(pony_temp))?;
@@ -181,9 +181,11 @@ fn print_help() {
 	}
 }
 
-fn setup_branch(dir: &str, cmd: &str) -> Result<(), Box<dyn Error>> {
+fn setup_branch(dir: &str, cmd: &str, branch: &str) -> Result<(), Box<dyn Error>> {
 	if Utf8Path::new(dir).exists() {
-		let status = execute_command(&format!("cd {dir} && git pull --force --quiet"))?;
+		let status = execute_command(&format!(
+			"cd {dir} && git pull --force --quiet origin {branch}"
+		))?;
 		if !status.success() {
 			fs::remove_dir_all(dir)?
 		} else {
