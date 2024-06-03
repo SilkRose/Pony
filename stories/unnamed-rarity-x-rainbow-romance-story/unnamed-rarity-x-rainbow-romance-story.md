@@ -34,7 +34,7 @@ Rainbow blushes and looked at me uneasily. "I can't tell whether you are joking 
 
 I lower my head and speak in a somber tone. "No, why? Do you not want to kiss me?"
 
-Rainbow get's flustered. "that's not what I said, I don't know."
+Rainbow gets flustered. "That's not what I said, I don't know."
 
 My smile returns. "So, you do *like* me?"
 
@@ -52,7 +52,7 @@ I wink at her. "Why don't you kiss me and find out?"
 
 "What happens after we kiss?"
 
-"You'll see afterwards."
+"You'll see afterward."
 
 "You really want to kiss me, don't you?"
 
@@ -72,9 +72,9 @@ Our faces are mere inches away from each other. I can feel her breath on my face
 
 I pull her closer, our lips a scant few millimeters apart. We stare into each other's eyes.
 
-I dare not move any more. I want her to press our lips together.
+I dare not move anymore. I want her to press our lips together.
 
-After a few seconds of stillness, Rainbow kisses me. I kiss back with passion. I tighten my hold on her and she wraps her hooves around me.
+After a few seconds of stillness, Rainbow kisses me. I kiss back with passion. I tighten my hold on her, and she wraps her hooves around me.
 
 We lock eyes as the kiss plays out. Both of us enamored with the other's touch.
 
