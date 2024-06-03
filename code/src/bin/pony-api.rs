@@ -274,7 +274,9 @@ fn count_specified_lines(
 }
 
 fn count_size(files: &[String]) -> Result<usize, Box<dyn Error>> {
-	let excludes = Some(Regex::new(r".*(\.obsidian|\.git|archive).*")?);
+	let excludes = Some(Regex::new(
+		r".*(\.obsidian|\.git|archive|code/(target|publish|dist|pony-temp)).*",
+	)?);
 	let bytes = files
 		.iter()
 		.filter(|file| matches(file, &None, &excludes))
