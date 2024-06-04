@@ -6,6 +6,7 @@ use pony::json::{format_json, JsonFormat};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::stderr::{print_error, ErrColor};
+use pony::traits::{BasicVector, OrderedVector};
 use pony::word_stats::word_count;
 use regex::Regex;
 use serde::{Deserialize, Serialize};
@@ -66,13 +67,11 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let commits = execute_command_with_return("git log mane --format=\"%H\n%ct\n%s\n\"")?;
 	let binding = String::from_utf8_lossy(&commits.stdout);
 	let text = binding.trim();
-	let mut text = text.split("\n\n").collect::<Vec<_>>();
-	text.reverse();
+	let text = text.split("\n\n").collect::<Vec<_>>().reverse_vec();
 	let json_path = "../dist/api/v1/pony-commits.json";
 	let pony_commits_json: Option<Vec<Commit>> = if Path::new(json_path).is_file() && !rebuild {
-		let mut commits: Vec<Commit> = serde_json::from_str(&fs::read_to_string(json_path)?)?;
-		commits.reverse();
-		Some(commits)
+		let commits: Vec<Commit> = serde_json::from_str(&fs::read_to_string(json_path)?)?;
+		Some(commits.reverse_vec())
 	} else {
 		rebuild = true;
 		None
@@ -135,7 +134,7 @@ fn print_help() {
 fn setup_branch(dir: &str, cmd: &str, branch: &str) -> Result<(), Box<dyn Error>> {
 	if Path::new(dir).exists() {
 		let status = execute_command(&format!(
-			"cd {dir} && git pull --force --quiet origin {branch}"
+			"cd {dir} && git checkout {branch} && git pull --force"
 		))?;
 		if !status.success() {
 			fs::remove_dir_all(dir)?
@@ -171,12 +170,11 @@ fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
 			Ok::<_, Box<dyn Error>>(text)
 		})
 		.collect::<Result<Vec<_>, _>>()?;
-	let mut code = code
+	let code = code
 		.iter()
 		.flat_map(|file| file.split('\n').map(|line| line.trim()))
-		.collect::<Vec<_>>();
-	code.sort();
-	code.dedup();
+		.collect::<Vec<_>>()
+		.sort_and_dedup_vec();
 	Ok(code.len())
 }
 
@@ -185,13 +183,12 @@ fn count_covers(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let excludes = Some(Regex::new(
 		r".*(archive/stories|concept|upscaled).*|\.xcf$",
 	)?);
-	let mut covers = files
+	let covers = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
 		.filter_map(|cover| Path::new(cover).parent()?.to_str())
-		.collect::<Vec<_>>();
-	covers.sort();
-	covers.dedup();
+		.collect::<Vec<_>>()
+		.sort_and_dedup_vec();
 	Ok(covers.len())
 }
 
@@ -307,8 +304,7 @@ fn pony_commit_stats(
 		};
 		pony_commits.push(commit_data);
 	}
-	pony_commits.reverse();
-	Ok(pony_commits)
+	Ok(pony_commits.reverse_vec())
 }
 
 fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
