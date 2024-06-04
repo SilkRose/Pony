@@ -13,6 +13,8 @@ pub trait Vector<T: Ord> {
 	fn sort_and_dedup_vec(self) -> Vec<T>;
 	/// Extends a Vec and returns it.
 	fn extend_vec(self, vec: Vec<T>) -> Vec<T>;
+	/// Reverse a Vec and returns it.
+	fn reverse_vec(self) -> Vec<T>;
 }
 
 impl<T: Ord> Vector<T> for Vec<T> {
@@ -32,6 +34,11 @@ impl<T: Ord> Vector<T> for Vec<T> {
 	/// Extends a Vec and returns it.
 	fn extend_vec(mut self, vec: Vec<T>) -> Vec<T> {
 		self.extend(vec);
+		self
+	}
+	/// Reverse a Vec and returns it.
+	fn reverse_vec(mut self) -> Vec<T> {
+		self.reverse();
 		self
 	}
 }
@@ -69,6 +76,11 @@ mod tests {
 	fn extend() {
 		let vec = vec![2, 1, 1, 0, 0, 3].extend_vec(vec![4, 5]);
 		assert_eq!(vec, vec![2, 1, 1, 0, 0, 3, 4, 5]);
+	}
+	#[test]
+	fn reverse() {
+		let vec = vec![2, 1, 1, 2, 0, 3].reverse_vec();
+		assert_eq!(vec, vec![3, 0, 2, 1, 1, 2]);
 	}
 	#[test]
 	fn compare() {
