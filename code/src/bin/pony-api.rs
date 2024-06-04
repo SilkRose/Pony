@@ -1,4 +1,3 @@
-use camino::Utf8Path;
 use indoc::printdoc;
 use pony::bytes::format_size_bytes;
 use pony::command::{execute_command, execute_command_with_return};
@@ -134,7 +133,7 @@ fn print_help() {
 }
 
 fn setup_branch(dir: &str, cmd: &str, branch: &str) -> Result<(), Box<dyn Error>> {
-	if Utf8Path::new(dir).exists() {
+	if Path::new(dir).exists() {
 		let status = execute_command(&format!(
 			"cd {dir} && git pull --force --quiet origin {branch}"
 		))?;
