@@ -3,42 +3,47 @@
 
 use std::cmp::Ordering;
 
-/// Wrapper trait for Vec. Designed for use in chaining.
-pub trait Vector<T: Ord> {
-	/// Sorts a Vec and returns it.
-	fn sort_vec(self) -> Vec<T>;
-	/// Dedupes a Vec and returns it.
-	fn dedup_vec(self) -> Vec<T>;
-	/// Sorts and dedupes a Vec then returns it.
-	fn sort_and_dedup_vec(self) -> Vec<T>;
+/// Base trait for Vec operations.
+pub trait BasicVector<T> {
 	/// Extends a Vec and returns it.
 	fn extend_vec(self, vec: Vec<T>) -> Vec<T>;
 	/// Reverse a Vec and returns it.
 	fn reverse_vec(self) -> Vec<T>;
 }
 
-impl<T: Ord> Vector<T> for Vec<T> {
+/// Trait for Vec operations that require Ord.
+pub trait OrderedVector<T: Ord>: BasicVector<T> {
 	/// Sorts a Vec and returns it.
-	fn sort_vec(mut self) -> Vec<T> {
-		self.sort();
-		self
-	}
+	fn sort_vec(self) -> Vec<T>;
 	/// Dedupes a Vec and returns it.
-	fn dedup_vec(mut self) -> Vec<T> {
-		self.dedup();
-		self
-	}
-	fn sort_and_dedup_vec(self) -> Vec<T> {
-		self.sort_vec().dedup_vec()
-	}
-	/// Extends a Vec and returns it.
+	fn dedup_vec(self) -> Vec<T>;
+	/// Sorts and dedupes a Vec then returns it.
+	fn sort_and_dedup_vec(self) -> Vec<T>;
+}
+
+impl<T> BasicVector<T> for Vec<T> {
 	fn extend_vec(mut self, vec: Vec<T>) -> Vec<T> {
 		self.extend(vec);
 		self
 	}
-	/// Reverse a Vec and returns it.
 	fn reverse_vec(mut self) -> Vec<T> {
 		self.reverse();
+		self
+	}
+}
+
+impl<T: Ord> OrderedVector<T> for Vec<T> {
+	fn sort_vec(mut self) -> Vec<T> {
+		self.sort();
+		self
+	}
+	fn dedup_vec(mut self) -> Vec<T> {
+		self.dedup();
+		self
+	}
+	fn sort_and_dedup_vec(mut self) -> Vec<T> {
+		self.sort();
+		self.dedup();
 		self
 	}
 }
