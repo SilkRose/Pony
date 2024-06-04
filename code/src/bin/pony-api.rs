@@ -78,58 +78,10 @@ fn main() -> Result<(), Box<dyn Error>> {
 		rebuild = true;
 		None
 	};
-	let mut pony_commits: Vec<Commit> = Vec::with_capacity(text.len());
-	for (index, commit) in text.iter().enumerate() {
-		let log = commit.split('\n').collect::<Vec<_>>();
-		let hash = log[0].to_string();
-		if let Some(ref commits) = pony_commits_json {
-			if !rebuild && commits.get(index).is_some() && hash == commits.get(index).unwrap().hash
-			{
-				pony_commits.push(commits.get(index).unwrap().clone());
-				continue;
-			}
-		}
-		let unix_time = log[1].parse::<usize>()?;
-		let message = log[2].to_string();
-		execute_command(&format!("git checkout --quiet {hash}"))?;
-		let files = find_files_in_dir("./", true)?;
-		let dirs = find_dirs_in_dir("./", true)?;
-		let stats = Stats {
-			blogs: count_blogs(&files)?,
-			code: count_code(&files)?,
-			commits: index + 1,
-			covers: count_covers(&files)?,
-			flash_fiction: count_flash_fiction(&files)?,
-			ideas: count_specified_lines(&files, "ideas", "## ")?,
-			names: count_specified_lines(&files, "names", "- ")?,
-			size: count_size(&files)?,
-			stories: count_stories(&dirs)?,
-			words: count_words(&files)?,
-		};
-		let commit_data = Commit {
-			hash,
-			unix_time,
-			message,
-			stats,
-		};
-		pony_commits.push(commit_data);
-	}
-	pony_commits.reverse();
+	let pony_commits = pony_commit_stats(text, rebuild, pony_commits_json)?;
 	fs::File::create("../dist/api/v1/pony-commits.json")?
 		.write_all(format_json(&pony_commits, JsonFormat::Tab)?.as_bytes())?;
-	let latest = pony_commits.first().unwrap();
-	let pony = PonyStats {
-		blogs: format_number_u128(latest.stats.blogs.try_into()?)?,
-		code: format_number_u128(latest.stats.code.try_into()?)?,
-		commits: format_number_u128(latest.stats.commits.try_into()?)?,
-		covers: format_number_u128(latest.stats.covers.try_into()?)?,
-		flash_fiction: format_number_u128(latest.stats.flash_fiction.try_into()?)?,
-		ideas: format_number_u128(latest.stats.ideas.try_into()?)?,
-		names: format_number_u128(latest.stats.names.try_into()?)?,
-		size: format_size_bytes(latest.stats.size)?,
-		stories: format_number_u128(latest.stats.stories.try_into()?)?,
-		words: format_number_u128(latest.stats.words.try_into()?)?,
-	};
+	let pony = pony_stats(&pony_commits.first().unwrap().stats)?;
 	fs::File::create("../dist/api/v1/pony.json")?
 		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
@@ -315,4 +267,62 @@ fn count_words(files: &[String]) -> Result<usize, Box<dyn Error>> {
 		.collect::<Result<Vec<_>, _>>()?
 		.join("\n");
 	Ok(word_count(text)?)
+}
+
+fn pony_commit_stats(
+	text: Vec<&str>, rebuild: bool, pony_commits_json: Option<Vec<Commit>>,
+) -> Result<Vec<Commit>, Box<dyn Error>> {
+	let mut pony_commits: Vec<Commit> = Vec::with_capacity(text.len());
+	for (index, commit) in text.iter().enumerate() {
+		let log = commit.split('\n').collect::<Vec<_>>();
+		let hash = log[0].to_string();
+		if let Some(ref commits) = pony_commits_json {
+			if !rebuild && commits.get(index).is_some() && hash == commits.get(index).unwrap().hash
+			{
+				pony_commits.push(commits.get(index).unwrap().clone());
+				continue;
+			}
+		}
+		let unix_time = log[1].parse::<usize>()?;
+		let message = log[2].to_string();
+		execute_command(&format!("git checkout --quiet {hash}"))?;
+		let files = find_files_in_dir("./", true)?;
+		let dirs = find_dirs_in_dir("./", true)?;
+		let stats = Stats {
+			blogs: count_blogs(&files)?,
+			code: count_code(&files)?,
+			commits: index + 1,
+			covers: count_covers(&files)?,
+			flash_fiction: count_flash_fiction(&files)?,
+			ideas: count_specified_lines(&files, "ideas", "## ")?,
+			names: count_specified_lines(&files, "names", "- ")?,
+			size: count_size(&files)?,
+			stories: count_stories(&dirs)?,
+			words: count_words(&files)?,
+		};
+		let commit_data = Commit {
+			hash,
+			unix_time,
+			message,
+			stats,
+		};
+		pony_commits.push(commit_data);
+	}
+	pony_commits.reverse();
+	Ok(pony_commits)
+}
+
+fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
+	Ok(PonyStats {
+		blogs: format_number_u128(stats.blogs.try_into()?)?,
+		code: format_number_u128(stats.code.try_into()?)?,
+		commits: format_number_u128(stats.commits.try_into()?)?,
+		covers: format_number_u128(stats.covers.try_into()?)?,
+		flash_fiction: format_number_u128(stats.flash_fiction.try_into()?)?,
+		ideas: format_number_u128(stats.ideas.try_into()?)?,
+		names: format_number_u128(stats.names.try_into()?)?,
+		size: format_size_bytes(stats.size)?,
+		stories: format_number_u128(stats.stories.try_into()?)?,
+		words: format_number_u128(stats.words.try_into()?)?,
+	})
 }
