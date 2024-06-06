@@ -2,37 +2,61 @@
 
 I sit down on the train bench and watch as Rainbow sits opposite of me.
 
-She should have sat next to me. Well, I guess if she did, i would have a harder time looking at her beauty.
+Wish she sat next to me, there is plenty of room.
 
-She is beautiful. I wonder if now would be a good time to confess my feelings.
+I stare at her, taking in her beauty. I wonder if now would be a good time to confess my feelings.
 
 Rainbow looks at me. I smile at her.
 
-She smiles back.
+She smiles back before looking out the window. I notice the bored expression on her face.
 
+*This must not do.*
 
+I decide to channel a bit of Pinkie, trotting over and giving Rainbow a rather spontaneous hug.
 
-I look at Rainbow, who is looking out the window with a bored expression on her face.
+Rainbow blinks, staring at me confused, before thankfully returning the hug. "Rarity, what's the hug for?"
 
-I took note. This must not do.
-
-I channel Pinkie and give Rainbow a hug.
-
-Dash hugs back, but is confused. "Rarity, what's the hug for?"
-
-I sit back down across from her. "You looked so bored, I had to do something."
+I sit back down across from her after the hug. "You looked so bored, I had to do something."
 
 "How does a hug make me less bored?"
 
-I decide to have some fun. "Would it be less boring if we kiss?"
+I decide to test the waters. "Would it be less boring if we kiss?" I say with a smirk.
 
-Rainbow blushes and looked at me uneasily. "I can't tell whether you are joking or not."
+Rainbow looks at me in shock. "What?!"
 
-"Well, a lady never tells, you'll have to kiss me to find out."
+She blushes and looked at me uneasily, ears half-folded back. "I can't tell whether you are joking or not."
+
+I smile at her. "Well, a lady never tells, you'll have to kiss me to find out."
 
 "What's gotten into you? Has somepony put you up to this?"
 
-I lower my head and speak in a somber tone. "No, why? Do you not want to kiss me?"
+I lower my head and speak in a somber tone. "No."
+
+Rainbow speaks quietly. "Well, I'm not bored anymore, so we're good."
+
+*I guess we can talk about something else, then.*
+
+"What do you have planned for when we get home?"
+
+"I'll probably do some flying, and check in on our friends. What do you have planned?"
+
+"I'll tell Twilight about our adventure in Canterlot, but after that, I plan to go to the spa and get some quality relaxing time in."
+
+"I could definitely do with some relaxing too."
+
+"You're always welcome to join me. I know it's not really your thing, but the invite stays all the same."
+
+Rainbow took a second to answer. "I'll think about it."
+
+I smile at her. "What trick have you been practicing lately?"
+
+Her face lights up, and she starts talking about a new trick she's been working on, even doing a little demonstration with her hooves.
+
+I listen attentively and nod along as her smile grows with each detail.
+
+*She's so cute when she's excited.*
+
+
 
 Rainbow gets flustered. "That's not what I said, I don't know."
 
@@ -82,7 +106,7 @@ As the kiss ends, Rainbow folds her ears back. She says in a low, weak voice, "T
 
 I don't let go of her. Instead, I pull her into a hug. "It was amazing," I say serenely.
 
-After the hug she looks into my eyes. "Now, will you answer my questions?"
+After the hug, she looks into my eyes. "Now, will you answer my questions?"
 
 "Yes, darling."
 
