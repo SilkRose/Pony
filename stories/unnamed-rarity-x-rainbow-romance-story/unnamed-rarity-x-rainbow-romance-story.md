@@ -78,11 +78,11 @@ After a few seconds of stillness, Rainbow kisses me. I kiss back with passion. I
 
 We lock eyes as the kiss plays out. Both of us enamored with the other's touch.
 
-As the kiss ends, Rainbow folds her ears back. She says in a low weak voice, "That was awesome!"
+As the kiss ends, Rainbow folds her ears back. She says in a low, weak voice, "That was awesome!"
 
 I don't let go of her. Instead, I pull her into a hug. "It was amazing," I say serenely.
 
-After the hug she looks into my eyes. "Now will you answer my questions?"
+After the hug she looks into my eyes. "Now, will you answer my questions?"
 
 "Yes, darling."
 
@@ -90,7 +90,7 @@ She brings her face close to mine again. "I guess I'll start with the big one. R
 
 I don't answer, I simply press our lips together. We hold each other tight and close our eyes as Rainbow takes in my answer.
 
-After the kiss Rainbow asks another question, "Why didn't you just ask me out like a normal pony?"
+After the kiss, Rainbow asks another question, "Why didn't you just ask me out like a normal pony?"
 
 "Wouldn't you say this was more fun, darling?"
 
