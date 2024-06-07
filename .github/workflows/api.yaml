@@ -9,7 +9,7 @@ permissions:
     contents: write
 
 jobs:
-    rebuild-check:
+    build-and-deploy-api:
         runs-on: ubuntu-latest
 
         steps:
@@ -72,7 +72,11 @@ jobs:
                   git config --global user.email "silkrose@love-tolerance.com"
                   git remote set-url origin \
                     "https://SilkRose:${{ secrets.GITHUB_TOKEN }}@github.com/SilkRose/Pony.git"
+                  git stash save
+                  git reset --soft $(git rev-list --max-parents=0 HEAD)
+                  git commit --amend -m "Initial squash commit"
+                  git stash pop
                   git add -A
                   hash=$(echo ${{ github.sha }} | head -c 7)
                   git commit -m "Deploying to API from: $hash"
-                  git push
+                  git push --force
