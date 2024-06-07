@@ -24,7 +24,7 @@ I decide to test the waters. "Would it be less boring if we kiss?" I say with a 
 
 Rainbow looks at me in shock. "What?!"
 
-She blushes and looked at me uneasily, ears half-folded back. "I can't tell whether you are joking or not."
+She blushes and looks at me uneasily, ears half-folded back. "I can't tell whether you are joking or not."
 
 I smile at her. "Well, a lady never tells, you'll have to kiss me to find out."
 
@@ -55,6 +55,14 @@ Her face lights up, and she starts talking about a new trick she's been working 
 I listen attentively and nod along as her smile grows with each detail.
 
 *She's so cute when she's excited.*
+
+Rainbow finishes her impassioned explanation before smiling at me. We sit in silence for a moment before a blush starts to form on her face. She quickly averts her eyes to the floor, then back at me. "So, um, what new dress have you been working on?"
+
+I regale her with my latest piece, describing it in vivid detail. I make sure to mention how good it would look on a blue pegasus. I don't let myself get too caught up in the dress, lest I might miss her attention.
+
+I do notice the blush on her face has grown, but sadly, she noticed it too. She pretends to cough and hides her face.
+
+I finish my answer before Rainbow changes the subject.
 
 
 
