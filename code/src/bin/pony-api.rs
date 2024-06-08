@@ -145,7 +145,7 @@ fn print_help() {
 fn setup_branch(dir: &str, cmd: &str, branch: &str) -> Result<(), Box<dyn Error>> {
 	if Path::new(dir).exists() {
 		let status = execute_command(&format!(
-			"cd {dir} && git checkout --quiet {branch} && git pull --quiet --force"
+			"cd {dir} && git fetch --quiet && git reset --quiet --hard origin/{branch} && git pull --quiet"
 		))?;
 		if !status.success() {
 			fs::remove_dir_all(dir)?
@@ -330,8 +330,8 @@ fn commit_stats(
 fn character_stats(text: &str) -> Result<Characters, Box<dyn Error>> {
 	Ok(Characters {
 		applejack: count_matches(text, Regex::new(r"Applejack|AJ")?),
-		fluttershy: count_matches(text, Regex::new(r"Fluttershy")?),
-		pinkie_pie: count_matches(text, Regex::new(r"Pinkie Pie|Pinkie")?),
+		fluttershy: count_matches(text, Regex::new(r"Fluttershy|Flutters")?),
+		pinkie_pie: count_matches(text, Regex::new(r"Pinkie( Pie)?")?),
 		rainbow_dash: count_matches(text, Regex::new(r"Rainbow Dash|Rainbow|Dash(ie)?")?),
 		rarity: count_matches(text, Regex::new(r"Rarity")?),
 		twilight_sparkle: count_matches(text, Regex::new(r"Twilight Sparkle|Twi(light)?")?),
