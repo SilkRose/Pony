@@ -57,7 +57,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let repo = "https://github.com/SilkRose/Pony.git";
-	let dist_cmd = format!("git clone --quiet --depth 1 --branch api {repo} {dist_temp}");
+	let dist_cmd = format!("git clone --quiet --branch api {repo} {dist_temp}");
 	let pony_cmd = format!("git clone --quiet --branch mane {repo} {pony_temp}");
 	setup_branch(dist_temp, &dist_cmd, "api")?;
 	setup_branch(pony_temp, &pony_cmd, "mane")?;
@@ -134,7 +134,7 @@ fn print_help() {
 fn setup_branch(dir: &str, cmd: &str, branch: &str) -> Result<(), Box<dyn Error>> {
 	if Path::new(dir).exists() {
 		let status = execute_command(&format!(
-			"cd {dir} && git checkout {branch} && git pull --force"
+			"cd {dir} && git checkout --quiet {branch} && git pull --quiet --force"
 		))?;
 		if !status.success() {
 			fs::remove_dir_all(dir)?
