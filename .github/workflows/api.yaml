@@ -16,9 +16,10 @@ jobs:
             - name: Checkout code
               shell: bash
               run: |
-                  git clone --quiet --branch api https://github.com/SilkRose/Pony.git ./dist &
-                  git clone --quiet --branch cache https://github.com/SilkRose/Pony.git ./cache &
-                  git clone --quiet --branch mane https://github.com/SilkRose/Pony.git ./pony-temp &
+                  git clone --mirror https://github.com/SilkRose/Pony.git ./pony
+                  git clone --branch mane ./pony ./pony-temp &
+                  git clone --branch cache ./pony ./cache &
+                  git clone --branch api ./pony ./dist &
                   wait
 
             - name: Compare hashes
