@@ -21,8 +21,8 @@ pub enum WarningType {
 type Definitions = HashMap<String, String>;
 
 /// Parse function for turning markdown into FIMFiction BBCode.
-pub fn parse(md: String, warn: &WarningType) -> String {
-	let node = to_mdast(&md, &ParseOptions::gfm()).unwrap();
+pub fn parse(md: &str, warn: &WarningType) -> String {
+	let node = to_mdast(md, &ParseOptions::gfm()).unwrap();
 	handle_node(&node, warn)
 }
 

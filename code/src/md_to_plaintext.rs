@@ -2,8 +2,8 @@ use markdown::mdast::Node;
 use markdown::{to_mdast, ParseOptions};
 
 /// Parse Markdown into text, removing all Markdown syntax.
-pub fn parse(md: String) -> String {
-	let node = to_mdast(&md, &ParseOptions::gfm()).unwrap();
+pub fn parse(md: &str) -> String {
+	let node = to_mdast(md, &ParseOptions::gfm()).unwrap();
 	handle_node(&node)
 }
 

@@ -6,7 +6,7 @@ pub fn count_matches(text: &str, includes: Regex) -> usize {
 	includes.find_iter(text).count()
 }
 
-pub fn word_count(text: String) -> Result<usize> {
+pub fn word_count(text: &str) -> Result<usize> {
 	let plain_text = parse(text);
 	Ok(remove_punctuation(plain_text)?.split_whitespace().count())
 }
