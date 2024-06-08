@@ -7,7 +7,7 @@ use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::stderr::{print_error, ErrColor};
 use pony::traits::{BasicVector, OrderedVector};
-use pony::word_stats::word_count;
+use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::error::Error;
@@ -22,6 +22,7 @@ struct Commit {
 	unix_time: usize,
 	message: String,
 	stats: Stats,
+	chars: Characters,
 }
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
@@ -50,6 +51,16 @@ struct PonyStats {
 	size: String,
 	stories: String,
 	words: String,
+}
+
+#[derive(Debug, Deserialize, Clone, Serialize)]
+struct Characters {
+	applejack: usize,
+	fluttershy: usize,
+	pinkie_pie: usize,
+	rainbow_dash: usize,
+	rarity: usize,
+	twilight_sparkle: usize,
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
@@ -247,7 +258,7 @@ fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
 	Ok(0)
 }
 
-fn count_words(files: &[String]) -> Result<usize, Box<dyn Error>> {
+fn story_words(files: &[String]) -> Result<String, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"(flash-fiction|stories).*\.md$")?);
 	let excludes = Some(Regex::new(
 		r"archive|stories[/\\](ideas|names)\.md$|meta\.md$",
@@ -262,7 +273,7 @@ fn count_words(files: &[String]) -> Result<usize, Box<dyn Error>> {
 		})
 		.collect::<Result<Vec<_>, _>>()?
 		.join("\n");
-	Ok(word_count(text)?)
+	Ok(text)
 }
 
 fn pony_commit_stats(
@@ -284,27 +295,47 @@ fn pony_commit_stats(
 		execute_command(&format!("git checkout --quiet {hash}"))?;
 		let files = find_files_in_dir("./", true)?;
 		let dirs = find_dirs_in_dir("./", true)?;
-		let stats = Stats {
-			blogs: count_blogs(&files)?,
-			code: count_code(&files)?,
-			commits: index + 1,
-			covers: count_covers(&files)?,
-			flash_fiction: count_flash_fiction(&files)?,
-			ideas: count_specified_lines(&files, "ideas", "## ")?,
-			names: count_specified_lines(&files, "names", "- ")?,
-			size: count_size(&files)?,
-			stories: count_stories(&dirs)?,
-			words: count_words(&files)?,
-		};
+		let text = story_words(&files)?;
+		let stats = commit_stats(index, &files, &dirs, &text)?;
+		let chars = character_stats(&text)?;
 		let commit_data = Commit {
 			hash,
 			unix_time,
 			message,
 			stats,
+			chars,
 		};
 		pony_commits.push(commit_data);
 	}
 	Ok(pony_commits.reverse_vec())
+}
+
+fn commit_stats(
+	index: usize, files: &[String], dirs: &[String], text: &str,
+) -> Result<Stats, Box<dyn Error>> {
+	Ok(Stats {
+		blogs: count_blogs(files)?,
+		code: count_code(files)?,
+		commits: index + 1,
+		covers: count_covers(files)?,
+		flash_fiction: count_flash_fiction(files)?,
+		ideas: count_specified_lines(files, "ideas", "## ")?,
+		names: count_specified_lines(files, "names", "- ")?,
+		size: count_size(files)?,
+		stories: count_stories(dirs)?,
+		words: word_count(text)?,
+	})
+}
+
+fn character_stats(text: &str) -> Result<Characters, Box<dyn Error>> {
+	Ok(Characters {
+		applejack: count_matches(text, Regex::new(r"Applejack|AJ")?),
+		fluttershy: count_matches(text, Regex::new(r"Fluttershy")?),
+		pinkie_pie: count_matches(text, Regex::new(r"Pinkie Pie|Pinkie")?),
+		rainbow_dash: count_matches(text, Regex::new(r"Rainbow Dash|Rainbow|Dash(ie)?")?),
+		rarity: count_matches(text, Regex::new(r"Rarity")?),
+		twilight_sparkle: count_matches(text, Regex::new(r"Twilight Sparkle|Twi(light)?")?),
+	})
 }
 
 fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
