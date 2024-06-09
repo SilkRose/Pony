@@ -14,6 +14,8 @@ Thanks to [ThePeer](https://www.fimfiction.net/user/537939/ThePeer) for pre-read
 
 Thanks to [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) for pre-reading.
 
+Now with a [reading](https://www.youtube.com/watch?v=Ntgub22ZFcU) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw).
+
 ## Short Description:
 She will be there, she has to be.
 
