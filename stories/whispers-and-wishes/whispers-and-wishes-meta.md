@@ -6,6 +6,8 @@ Fluttershy and Pinkie are the only ones left awake at a slumber party. Fluttersh
 ## Description:
 
 
+Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+
 ## Short Description:
 
 
@@ -16,3 +18,4 @@ Fluttershy and Pinkie are the only ones left awake at a slumber party. Fluttersh
 [Whispers and Wishes](./whispers-and-wishes.md)
 
 ## Cover:
+![cover](./whispers-and-wishes-cover.png)
