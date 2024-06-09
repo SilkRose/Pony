@@ -87,6 +87,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Love Licks] | [YouTube][Love Licks reading] |
 | **[Rainbow Infinity Readings]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading one] |
 | **[Lotus Moon]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading two] |
+| **[Rainbow Infinity Readings]** | [There] | [YouTube][There reading] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -210,6 +211,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Love Licks reading]: https://www.youtube.com/watch?v=hP5idtWADfk "YouTube"
 [Profound Ponytail reading one]: https://www.youtube.com/watch?v=IDpCsRCrsdM "YouTube"
 [Profound Ponytail reading two]: https://www.youtube.com/watch?v=fKw3kauBSqM "YouTube"
+[There reading]: https://www.youtube.com/watch?v=Ntgub22ZFcU "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
@@ -226,5 +228,6 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "FIMFiction"
 [Love Licks]: https://www.fimfiction.net/story/540399/love-licks "FIMFiction"
 [Profound Ponytail]: https://www.fimfiction.net/story/551751/profound-ponytail "FIMFiction"
+[There]: https://www.fimfiction.net/story/555927/there "FIMFiction"
 
 [banner]: ./archive/promotions/banner-02/banner-02-small.jpg
