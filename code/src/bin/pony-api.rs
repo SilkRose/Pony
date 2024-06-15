@@ -22,6 +22,7 @@ struct Commit {
 	unix_time: usize,
 	message: String,
 	stats: Stats,
+	stat_changes: StatChanges,
 	chars: Characters,
 }
 
@@ -37,6 +38,20 @@ struct Stats {
 	size: usize,
 	stories: usize,
 	words: usize,
+}
+
+#[derive(Debug, Deserialize, Clone, Serialize)]
+struct StatChanges {
+	blogs: isize,
+	code: isize,
+	commits: isize,
+	covers: isize,
+	flash_fiction: isize,
+	ideas: isize,
+	names: isize,
+	size: isize,
+	stories: isize,
+	words: isize,
 }
 
 #[derive(Debug, Deserialize, Serialize)]
@@ -297,12 +312,14 @@ fn pony_commit_stats(
 		let dirs = find_dirs_in_dir("./", true)?;
 		let text = story_words(&files)?;
 		let stats = commit_stats(index, &files, &dirs, &text)?;
+		let stat_changes = stat_changes(&pony_commits, &stats)?;
 		let chars = character_stats(&text)?;
 		let commit_data = Commit {
 			hash,
 			unix_time,
 			message,
 			stats,
+			stat_changes,
 			chars,
 		};
 		pony_commits.push(commit_data);
@@ -325,6 +342,39 @@ fn commit_stats(
 		stories: count_stories(dirs)?,
 		words: word_count(text)?,
 	})
+}
+
+fn stat_changes(commits: &[Commit], current: &Stats) -> Result<StatChanges, Box<dyn Error>> {
+	let changes = match commits.len() > 1 {
+		true => {
+			let previous = &commits.last().unwrap().stats;
+			StatChanges {
+				blogs: current.blogs as isize - previous.blogs as isize,
+				code: current.code as isize - previous.code as isize,
+				commits: current.commits as isize - previous.commits as isize,
+				covers: current.covers as isize - previous.covers as isize,
+				flash_fiction: current.flash_fiction as isize - previous.flash_fiction as isize,
+				ideas: current.ideas as isize - previous.ideas as isize,
+				names: current.names as isize - previous.names as isize,
+				size: current.size as isize - previous.size as isize,
+				stories: current.stories as isize - previous.stories as isize,
+				words: current.words as isize - previous.words as isize,
+			}
+		}
+		false => StatChanges {
+			blogs: current.blogs.try_into()?,
+			code: current.code.try_into()?,
+			commits: current.commits.try_into()?,
+			covers: current.covers.try_into()?,
+			flash_fiction: current.flash_fiction.try_into()?,
+			ideas: current.ideas.try_into()?,
+			names: current.names.try_into()?,
+			size: current.size.try_into()?,
+			stories: current.stories.try_into()?,
+			words: current.words.try_into()?,
+		},
+	};
+	Ok(changes)
 }
 
 fn character_stats(text: &str) -> Result<Characters, Box<dyn Error>> {
