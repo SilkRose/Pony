@@ -24,6 +24,7 @@ struct Commit {
 	stats: Stats,
 	stat_changes: StatChanges,
 	chars: Characters,
+	files: Vec<Files>,
 }
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
@@ -76,6 +77,23 @@ struct Characters {
 	rainbow_dash: usize,
 	rarity: usize,
 	twilight_sparkle: usize,
+}
+
+#[derive(Debug, Deserialize, Clone, Serialize)]
+struct Files {
+	name: String,
+	lines_added: usize,
+	lines_removed: usize,
+	change_type: Type,
+}
+
+#[derive(Debug, Deserialize, Clone, Serialize)]
+enum Type {
+	Merge,
+	Modified,
+	Added,
+	Deleted,
+	Renamed(u8, String),
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
@@ -314,6 +332,7 @@ fn pony_commit_stats(
 		let stats = commit_stats(index, &files, &dirs, &text)?;
 		let stat_changes = stat_changes(&pony_commits, &stats)?;
 		let chars = character_stats(&text)?;
+		let file_changes = file_changes(&hash)?;
 		let commit_data = Commit {
 			hash,
 			unix_time,
@@ -321,6 +340,7 @@ fn pony_commit_stats(
 			stats,
 			stat_changes,
 			chars,
+			files: file_changes,
 		};
 		pony_commits.push(commit_data);
 	}
@@ -386,6 +406,58 @@ fn character_stats(text: &str) -> Result<Characters, Box<dyn Error>> {
 		rarity: count_matches(text, Regex::new(r"Rarity")?),
 		twilight_sparkle: count_matches(text, Regex::new(r"Twilight Sparkle|Twi(light)?")?),
 	})
+}
+
+fn file_changes(hash: &str) -> Result<Vec<Files>, Box<dyn Error>> {
+	let num_stats = execute_command_with_return(&format!(
+		"git show --pretty=\"\" --numstat {hash} | sed 's/\\s\\+/ /'",
+	))?;
+	let binding = String::from_utf8_lossy(&num_stats.stdout);
+	let text = binding.trim();
+	let num_stats = text.split('\n').collect::<Vec<_>>();
+	let name_status = execute_command_with_return(&format!(
+		"git show --pretty=\"\" --name-status {hash} | sed 's/\\s\\+/ /'",
+	))?;
+	let binding = String::from_utf8_lossy(&name_status.stdout);
+	let text = binding.trim();
+	let name_status = text.split('\n').collect::<Vec<_>>();
+	if num_stats.len() != name_status.len() {
+		panic!("git show command output different lenght data!")
+	}
+	let stats = num_stats
+		.iter()
+		.zip(name_status)
+		.map(|(num_stats, name_status)| {
+			let num_stats = num_stats.split_whitespace().collect::<Vec<_>>();
+			let name_status = name_status.split_whitespace().collect::<Vec<_>>();
+			let lines_added = num_stats.first().unwrap().parse::<usize>().unwrap_or(0);
+			let lines_removed = num_stats.get(1).unwrap().parse::<usize>().unwrap_or(0);
+			let change_type_char = name_status.first().unwrap_or(&"C").chars().next().unwrap();
+			let name = name_status
+				.get(1)
+				.unwrap_or(num_stats.last().unwrap())
+				.to_string();
+			let change_type = match change_type_char {
+				'C' => Type::Merge,
+				'A' => Type::Added,
+				'D' => Type::Deleted,
+				'M' => Type::Modified,
+				'R' => {
+					let new_name = name_status.last().unwrap().to_string();
+					let percentage = name_status.first().unwrap()[1..].parse::<u8>().unwrap();
+					Type::Renamed(percentage, new_name)
+				}
+				_ => panic!("Encountered wrong letter in git output!"),
+			};
+			Files {
+				name,
+				lines_added,
+				lines_removed,
+				change_type,
+			}
+		})
+		.collect::<Vec<Files>>();
+	Ok(stats)
 }
 
 fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
