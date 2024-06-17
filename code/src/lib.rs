@@ -6,7 +6,6 @@ pub mod command;
 pub mod error;
 pub mod fs;
 pub mod json;
-pub mod matrix;
 pub mod md_to_bbcode;
 pub mod md_to_plaintext;
 pub mod neural_network;
