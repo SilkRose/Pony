@@ -1,110 +1,84 @@
 use std::f64::consts::E;
 
-pub trait ActivationFunctions {
-	fn sigmoid_function(self) -> f64;
-	fn tanh_function(self) -> f64;
-	fn relu_function(self) -> f64;
-	fn leakyrelu_function(self) -> f64;
-	fn elu_function(self) -> f64;
-	fn softplus_function(self) -> f64;
-	fn silu_function(self) -> f64;
-	fn linear_function(self) -> f64;
+pub fn sigmoid_function(x: f64) -> f64 {
+	1.0 / (1.0 + E.powf(-x))
 }
 
-impl ActivationFunctions for f64 {
-	fn sigmoid_function(self) -> f64 {
-		1.0 / (1.0 + E.powf(-self))
-	}
+pub fn tanh_function(x: f64) -> f64 {
+	x.tanh()
+}
 
-	fn tanh_function(self) -> f64 {
-		self.tanh()
-	}
+pub fn relu_function(x: f64) -> f64 {
+	x.max(0.0)
+}
 
-	fn relu_function(self) -> f64 {
-		self.max(0.0)
-	}
-
-	fn leakyrelu_function(self) -> f64 {
-		match self > 0.0 {
-			true => self,
-			false => self * 0.01,
-		}
-	}
-
-	fn elu_function(self) -> f64 {
-		match self > 0.0 {
-			true => self,
-			false => self.exp() - 1.0,
-		}
-	}
-
-	fn softplus_function(self) -> f64 {
-		(1.0 + self.exp()).ln()
-	}
-
-	fn silu_function(self) -> f64 {
-		self / (1.0 + (-self).exp())
-	}
-
-	fn linear_function(self) -> f64 {
-		self
+pub fn leakyrelu_function(x: f64) -> f64 {
+	match x > 0.0 {
+		true => x,
+		false => x * 0.01,
 	}
 }
 
-pub trait ActivationDerivitives {
-	fn sigmoid_derivative(self) -> f64;
-	fn tanh_derivative(self) -> f64;
-	fn relu_derivative(self) -> f64;
-	fn leakyrelu_derivative(self) -> f64;
-	fn elu_derivative(self) -> f64;
-	fn softplus_derivative(self) -> f64;
-	fn silu_derivative(self) -> f64;
-	fn linear_derivative(self) -> f64;
+pub fn elu_function(x: f64) -> f64 {
+	match x > 0.0 {
+		true => x,
+		false => x.exp() - 1.0,
+	}
 }
 
-impl ActivationDerivitives for f64 {
-	fn sigmoid_derivative(self) -> f64 {
-		let a = self.sigmoid_function();
-		a * (1.0 - a)
-	}
+pub fn softplus_function(x: f64) -> f64 {
+	(1.0 + x.exp()).ln()
+}
 
-	fn tanh_derivative(self) -> f64 {
-		1.0 - self.tanh().powf(2.0)
-	}
+pub fn silu_function(x: f64) -> f64 {
+	x / (1.0 + (-x).exp())
+}
 
-	fn relu_derivative(self) -> f64 {
-		match self > 0.0 {
-			true => 1.0,
-			false => 0.0,
-		}
-	}
+pub fn linear_function(x: f64) -> f64 {
+	x
+}
 
-	fn leakyrelu_derivative(self) -> f64 {
-		match self > 0.0 {
-			true => 1.0,
-			false => 0.01,
-		}
-	}
+pub fn sigmoid_derivative(x: f64) -> f64 {
+	let a = sigmoid_function(x);
+	a * (1.0 - a)
+}
 
-	fn elu_derivative(self) -> f64 {
-		match self > 0.0 {
-			true => 1.0,
-			false => self.exp(),
-		}
-	}
+pub fn tanh_derivative(x: f64) -> f64 {
+	1.0 - x.tanh().powf(2.0)
+}
 
-	fn softplus_derivative(self) -> f64 {
-		1.0 / (1.0 + (-self).exp())
+pub fn relu_derivative(x: f64) -> f64 {
+	match x > 0.0 {
+		true => 1.0,
+		false => 0.0,
 	}
+}
 
-	fn silu_derivative(self) -> f64 {
-		let a = self.sigmoid_function();
-		a * (1.0 + self * (1.0 - a))
+pub fn leakyrelu_derivative(x: f64) -> f64 {
+	match x > 0.0 {
+		true => 1.0,
+		false => 0.01,
 	}
+}
 
-	fn linear_derivative(self) -> f64 {
-		1.0
+pub fn elu_derivative(x: f64) -> f64 {
+	match x > 0.0 {
+		true => 1.0,
+		false => x.exp(),
 	}
+}
+
+pub fn softplus_derivative(x: f64) -> f64 {
+	1.0 / (1.0 + (-x).exp())
+}
+
+pub fn silu_derivative(x: f64) -> f64 {
+	let a = sigmoid_function(x);
+	a * (1.0 + x * (1.0 - a))
+}
+
+pub fn linear_derivative(_x: f64) -> f64 {
+	1.0
 }
 
 pub fn softmax_function(values: &[f64]) -> Vec<f64> {
