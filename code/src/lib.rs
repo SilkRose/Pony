@@ -8,7 +8,6 @@ pub mod fs;
 pub mod json;
 pub mod md_to_bbcode;
 pub mod md_to_plaintext;
-pub mod neural_network;
 pub mod number_format;
 pub mod pagination;
 pub mod regex;
