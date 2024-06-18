@@ -25,6 +25,7 @@ struct Commit {
 	stat_changes: StatChanges,
 	chars: Characters,
 	files: Vec<Files>,
+	keywords: Vec<String>,
 }
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
@@ -328,6 +329,7 @@ fn pony_commit_stats(
 		let stat_changes = stat_changes(&pony_commits, &stats)?;
 		let chars = character_stats(&text)?;
 		let file_changes = file_changes(&hash)?;
+		let keywords = categorize(&stat_changes, &file_changes)?;
 		let commit_data = Commit {
 			hash,
 			unix_time,
@@ -336,6 +338,7 @@ fn pony_commit_stats(
 			stat_changes,
 			chars,
 			files: file_changes,
+			keywords,
 		};
 		pony_commits.push(commit_data);
 	}
@@ -468,4 +471,36 @@ fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
 		stories: format_number_u128(stats.stories.try_into()?)?,
 		words: format_number_u128(stats.words.try_into()?)?,
 	})
+}
+
+fn categorize(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+	let mut categories = vec![];
+	// Start of testing, need to expand keywords.
+	// Keyword ideas:
+	// story, cover, writing, proofreading, management
+	// code, coding, pony, ideas, names, meta, repo
+	// workflow, misc, blog, obsidian, templates, merge
+	if stat_changes.stories != 0 {
+		categories.push("Story managment".to_string());
+	}
+	let stories_inc = Regex::new(r"stories")?;
+	if reduce(files, stories_inc) > 0.50 {
+		categories.push("Story".to_string());
+	}
+	Ok(categories)
+}
+
+fn reduce(files: &[Files], includes: Regex) -> f64 {
+	files
+		.iter()
+		.filter(|file| match &file.change_type {
+			Type::Merge => false,
+			Type::Renamed(_, name) => {
+				matches(&file.name, &Some(includes.clone()), &None)
+					|| matches(name, &Some(includes.clone()), &None)
+			}
+			_ => matches(&file.name, &Some(includes.clone()), &None),
+		})
+		.count() as f64
+		/ files.len() as f64
 }
