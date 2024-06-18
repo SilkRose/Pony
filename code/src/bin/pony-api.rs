@@ -204,7 +204,7 @@ fn count_blogs(files: &[String]) -> Result<usize, Box<dyn Error>> {
 
 fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*\.(sh|py|ts|gp|rs)$")?);
-	let excludes = Some(Regex::new(r".*(\.obsidian|\.git|archive).*")?);
+	let excludes = Some(Regex::new(r".*(\.obsidian|\.git).*")?);
 	let code = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
@@ -224,9 +224,7 @@ fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
 
 fn count_covers(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r".*(external-covers|stories).*cover.*")?);
-	let excludes = Some(Regex::new(
-		r".*(archive/stories|concept|upscaled).*|\.xcf$",
-	)?);
+	let excludes = Some(Regex::new(r".*(concept|upscaled).*|\.xcf$|\.ase$")?);
 	let covers = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
@@ -269,7 +267,7 @@ fn count_specified_lines(
 
 fn count_size(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let excludes = Some(Regex::new(
-		r".*(\.obsidian|\.git|archive|code/(target|publish|dist|pony-temp)).*",
+		r".*(\.obsidian|\.git|code/(target|publish|dist|pony-temp)).*",
 	)?);
 	let bytes = files
 		.iter()
@@ -283,8 +281,7 @@ fn count_size(files: &[String]) -> Result<usize, Box<dyn Error>> {
 
 fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"stories")?);
-	let excludes = Some(Regex::new(r"archive")?);
-	let stories_dir = dirs.iter().find(|dir| matches(dir, &includes, &excludes));
+	let stories_dir = dirs.iter().find(|dir| matches(dir, &includes, &None));
 	if let Some(stories_dir) = stories_dir {
 		return Ok(find_dirs_in_dir(stories_dir, false)?.len());
 	}
@@ -292,10 +289,8 @@ fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
 }
 
 fn story_words(files: &[String]) -> Result<String, Box<dyn Error>> {
-	let includes = Some(Regex::new(r"(flash-fiction|stories).*\.md$")?);
-	let excludes = Some(Regex::new(
-		r"archive|stories[/\\](ideas|names)\.md$|meta\.md$",
-	)?);
+	let includes = Some(Regex::new(r"[/\\](flash-fiction|stories)[/\\].*\.md$")?);
+	let excludes = Some(Regex::new(r"stories[/\\](ideas|names)\.md$|meta\.md$")?);
 	let text = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
