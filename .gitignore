@@ -1,15 +1,13 @@
 # Folders
 .*/
 !.github/
+/code/dist/
 /code/pony-temp/
 /code/publish/
+/code/target/
+
+# files
 
 # Sub-folders
-**/node_modules/
-**/target/
-**/dist/
 
 # Sub-files
-**/bun.lockb
-**/cookies.json
-**/pnpm-lock.yaml
