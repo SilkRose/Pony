@@ -12,7 +12,7 @@ use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::error::Error;
 use std::io::{Read, Write};
-use std::path::Path;
+use std::path::{Path, MAIN_SEPARATOR};
 use std::process::exit;
 use std::{env, fs};
 
@@ -281,12 +281,20 @@ fn count_size(files: &[String]) -> Result<usize, Box<dyn Error>> {
 }
 
 fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
-	let includes = Some(Regex::new(r"stories")?);
-	let stories_dir = dirs.iter().find(|dir| matches(dir, &includes, &None));
-	if let Some(stories_dir) = stories_dir {
-		return Ok(find_dirs_in_dir(stories_dir, false)?.len());
+	let archive = Some(Regex::new(r"^\.[/\\]archive[/\\]stories.*")?);
+	let root = Some(Regex::new(r"^\.[/\\](src[/\\])?stories.*")?);
+	let stories_archive = dirs.iter().find(|&dir| matches(dir, &archive, &None));
+	let stories_root = dirs.iter().find(|&dir| matches(dir, &root, &None));
+	let mut stories = Vec::new();
+	for dir in [stories_archive, stories_root].into_iter().flatten() {
+		let dirs = find_dirs_in_dir(dir, false)?;
+		for dir in dirs {
+			if let Some(story_name) = dir.split(MAIN_SEPARATOR).last() {
+				stories.push(story_name.to_string());
+			}
+		}
 	}
-	Ok(0)
+	Ok(stories.sort_and_dedup_vec().len())
 }
 
 fn story_words(files: &[String]) -> Result<String, Box<dyn Error>> {
