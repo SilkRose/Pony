@@ -329,7 +329,7 @@ fn pony_commit_stats(
 		let stat_changes = stat_changes(&pony_commits, &stats)?;
 		let chars = character_stats(&text)?;
 		let file_changes = file_changes(&hash)?;
-		let keywords = categorize(&stat_changes, &file_changes)?;
+		let keywords = keywords(&stat_changes, &file_changes)?;
 		let commit_data = Commit {
 			hash,
 			unix_time,
@@ -473,33 +473,37 @@ fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
 	})
 }
 
-fn categorize(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
-	let mut categories = vec![];
-	// Start of testing, need to expand keywords.
+fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+	let mut keywords = vec![];
 	// Keyword ideas:
 	// story, cover, writing, proofreading, management
 	// code, coding, pony, ideas, names, meta, repo
 	// workflow, misc, blog, obsidian, templates, merge
-	if stat_changes.stories != 0 {
-		categories.push("Story managment".to_string());
+	// archive, deletion, refactoring, editing, readme
+	// license, addition, modification, flash fiction
+	// renaming, github, promotions, banner, props
+	// image, text, configeration, featured images
+	if stat_changes.stories > 1 {
+		keywords.push("Story addition".to_string());
+	} else if stat_changes.stories < 0 {
+		keywords.push("Story deletion".to_string());
 	}
-	let stories_inc = Regex::new(r"stories")?;
-	if reduce(files, stories_inc) > 0.50 {
-		categories.push("Story".to_string());
+	let stories_inc = Some(Regex::new(r"stories")?);
+	if reduce(files, &stories_inc, &None) >= 0.50 {
+		keywords.push("Story".to_string());
 	}
-	Ok(categories)
+	Ok(keywords)
 }
 
-fn reduce(files: &[Files], includes: Regex) -> f64 {
+fn reduce(files: &[Files], includes: &Option<Regex>, excludes: &Option<Regex>) -> f64 {
 	files
 		.iter()
 		.filter(|file| match &file.change_type {
 			Type::Merge => false,
 			Type::Renamed(_, name) => {
-				matches(&file.name, &Some(includes.clone()), &None)
-					|| matches(name, &Some(includes.clone()), &None)
+				matches(&file.name, includes, excludes) || matches(name, includes, excludes)
 			}
-			_ => matches(&file.name, &Some(includes.clone()), &None),
+			_ => matches(&file.name, includes, excludes),
 		})
 		.count() as f64
 		/ files.len() as f64
