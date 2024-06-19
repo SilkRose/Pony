@@ -491,6 +491,13 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 	// license, addition, modification, flash fiction
 	// renaming, github, promotions, banner, props
 	// image, text, configeration, featured images
+	// markdown, rust, toml, yaml, json, python
+	// typescript, gnuplot, shell, png, jpg, xcf
+	// ase, gif, lock file, gitignore, gitattributes
+	//
+	// handling ideas: 1 file min, 1 dir min
+	// special files, speciial dirs
+	// percent min, percent max
 	if stat_changes.stories > 1 {
 		keywords.push("Story addition".to_string());
 	} else if stat_changes.stories < 0 {
