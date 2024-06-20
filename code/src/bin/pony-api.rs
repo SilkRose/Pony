@@ -483,21 +483,23 @@ fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
 
 fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
 	let mut keywords = vec![];
-	// Keyword ideas:
-	// story, cover, writing, proofreading, management
-	// code, coding, pony, ideas, names, meta, repo
-	// workflow, misc, blog, obsidian, templates, merge
-	// archive, deletion, refactoring, editing, readme
-	// license, addition, modification, flash fiction
-	// renaming, github, promotions, banner, props
-	// image, text, configeration, featured images
+	// Special cases:
+	// writing, proofreading, coding, refactoring
+	//
+	// Change type:
+	// add, delete, modify, rename, merge
+	//
+	// File type:
 	// markdown, rust, toml, yaml, json, python
 	// typescript, gnuplot, shell, png, jpg, xcf
-	// ase, gif, lock file, gitignore, gitattributes
+	// ase, gif
 	//
-	// handling ideas: 1 file min, 1 dir min
-	// special files, speciial dirs
-	// percent min, percent max
+	// Dir:
+	// story, code, pony, blog, flash fiction
+	// promotions, archive, obsidian, root(repo)
+	//
+	// File:
+	// ideas, names, meta, templates, cover, props
 	if stat_changes.stories > 1 {
 		keywords.push("Story addition".to_string());
 	} else if stat_changes.stories < 0 {
