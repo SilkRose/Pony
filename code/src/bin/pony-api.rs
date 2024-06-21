@@ -477,53 +477,83 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 	// Special cases:
 	// writing, proofreading, coding, refactoring
 	let words = [
-		("story", Some(Regex::new(r"stories")?)),
-		("cover", Some(Regex::new(r"cover")?)),
-		("code", Some(Regex::new(r".*\.(sh|py|ts|gp|rs)$")?)),
-		("meta", Some(Regex::new(r"meta\.md$")?)),
-		("ponies", Some(Regex::new(r"ponies")?)),
-		("blog", Some(Regex::new(r"blog")?)),
-		("flash-fiction", Some(Regex::new(r"flash-fiction")?)),
-		("promotions", Some(Regex::new(r"promotions")?)),
-		("archive", Some(Regex::new(r"archive")?)),
-		("obsidian", Some(Regex::new(r"^\.obsidian")?)),
-		("ideas", Some(Regex::new(r"ideas\.md$")?)),
-		("names", Some(Regex::new(r"names\.md$")?)),
-		("templates", Some(Regex::new(r"templates")?)),
-		("props", Some(Regex::new(r"props")?)),
-		("license", Some(Regex::new(r"(license|LICENSE)")?)),
-		("readme", Some(Regex::new(r"(readme|README)")?)),
-		("markdown", Some(Regex::new(r"\.md$")?)),
-		("rust", Some(Regex::new(r"\.rs$")?)),
-		("toml", Some(Regex::new(r"\.toml$")?)),
-		("yaml", Some(Regex::new(r"\.ya?ml$")?)),
-		("json", Some(Regex::new(r"\.json$")?)),
-		("python", Some(Regex::new(r"\.py$")?)),
-		("typescript", Some(Regex::new(r"\.ts$")?)),
-		("gnuplot", Some(Regex::new(r"\.gp$")?)),
-		("shell", Some(Regex::new(r"\.sh$")?)),
-		("png", Some(Regex::new(r"\.png$")?)),
-		("jpg", Some(Regex::new(r"\.jpe?g$")?)),
-		("xcf", Some(Regex::new(r"\.xcf$")?)),
-		("ase", Some(Regex::new(r"\.ase$")?)),
-		("gif", Some(Regex::new(r"\.gif$")?)),
-		("gitignore", Some(Regex::new(r"\.gitignore$")?)),
-		("gitattributes", Some(Regex::new(r"\.gitattributes$")?)),
+		("story", Some(Regex::new(r"stories")?), None),
+		("cover", Some(Regex::new(r"cover")?), None),
+		(
+			"code",
+			Some(Regex::new(r"(code|.*\.(sh|py|ts|gp|rs)$)")?),
+			None,
+		),
+		("meta", Some(Regex::new(r"meta\.md$")?), None),
+		("ponies", Some(Regex::new(r"ponies")?), None),
+		("blog", Some(Regex::new(r"blog")?), None),
+		("flash-fiction", Some(Regex::new(r"flash-fiction")?), None),
+		("promotions", Some(Regex::new(r"promotions")?), None),
+		("archive", Some(Regex::new(r"archive")?), None),
+		("obsidian", Some(Regex::new(r"^\.obsidian")?), None),
+		("ideas", Some(Regex::new(r"ideas\.md$")?), None),
+		("names", Some(Regex::new(r"names\.md$")?), None),
+		("templates", Some(Regex::new(r"templates")?), None),
+		("banner", Some(Regex::new(r"banner")?), None),
+		("props", Some(Regex::new(r"props")?), None),
+		("license", Some(Regex::new(r"(license|LICENSE)")?), None),
+		("readme", Some(Regex::new(r"(readme|README)")?), None),
+		(
+			"featured-images",
+			Some(Regex::new(r"featured.*\.png$")?),
+			None,
+		),
+		("root", None, Some(Regex::new(r"[/\\]")?)),
+		("markdown", Some(Regex::new(r"\.md$")?), None),
+		("rust", Some(Regex::new(r"\.rs$")?), None),
+		("toml", Some(Regex::new(r"\.toml$")?), None),
+		("yaml", Some(Regex::new(r"\.ya?ml$")?), None),
+		("json", Some(Regex::new(r"\.json$")?), None),
+		("python", Some(Regex::new(r"\.py$")?), None),
+		("typescript", Some(Regex::new(r"\.ts$")?), None),
+		("gnuplot", Some(Regex::new(r"\.gp$")?), None),
+		("shell", Some(Regex::new(r"\.sh$")?), None),
+		("png", Some(Regex::new(r"\.png$")?), None),
+		("jpg", Some(Regex::new(r"\.jpe?g$")?), None),
+		("xcf", Some(Regex::new(r"\.xcf$")?), None),
+		("ase", Some(Regex::new(r"\.ase$")?), None),
+		("gif", Some(Regex::new(r"\.gif$")?), None),
+		("github", Some(Regex::new(r"\.github")?), None),
+		("lock-file", Some(Regex::new(r"\.lock$")?), None),
+		(
+			"workflow",
+			Some(Regex::new(r"\.github[/\\]workflows")?),
+			None,
+		),
+		("gitignore", Some(Regex::new(r"\.gitignore$")?), None),
+		(
+			"gitattributes",
+			Some(Regex::new(r"\.gitattributes$")?),
+			None,
+		),
 	];
+	let mut merge = false;
 	'word: for keyword in words.iter() {
 		for file in files.iter() {
 			let found = match &file.change_type {
-				Type::Merge => false,
-				Type::Renamed(_, name) => {
-					matches(&file.name, &keyword.1, &None) || matches(name, &keyword.1, &None)
+				Type::Merge => {
+					merge = true;
+					false
 				}
-				_ => matches(&file.name, &keyword.1, &None),
+				Type::Renamed(_, name) => {
+					matches(&file.name, &keyword.1, &keyword.2)
+						|| matches(name, &keyword.1, &keyword.2)
+				}
+				_ => matches(&file.name, &keyword.1, &keyword.2),
 			};
 			if found {
 				keywords.push(keyword.0.to_string());
 				continue 'word;
 			}
 		}
+	}
+	if merge {
+		keywords.push("merge-commit".to_string())
 	}
 	Ok(keywords)
 }
