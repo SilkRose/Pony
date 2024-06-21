@@ -476,43 +476,54 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 	let mut keywords = vec![];
 	// Special cases:
 	// writing, proofreading, coding, refactoring
-	//
-	// Change type:
-	// add, delete, modify, rename, merge
-	//
-	// File type:
-	// markdown, rust, toml, yaml, json, python
-	// typescript, gnuplot, shell, png, jpg, xcf
-	// ase, gif
-	//
-	// Dir:
-	// story, code, pony, blog, flash fiction
-	// promotions, archive, obsidian, root(repo)
-	//
-	// File:
-	// ideas, names, meta, templates, cover, props
-	if stat_changes.stories > 1 {
-		keywords.push("Story addition".to_string());
-	} else if stat_changes.stories < 0 {
-		keywords.push("Story deletion".to_string());
-	}
-	let stories_inc = Some(Regex::new(r"stories")?);
-	if reduce(files, &stories_inc, &None) >= 0.50 {
-		keywords.push("Story".to_string());
+	let words = [
+		("story", Some(Regex::new(r"stories")?)),
+		("cover", Some(Regex::new(r"cover")?)),
+		("code", Some(Regex::new(r".*\.(sh|py|ts|gp|rs)$")?)),
+		("meta", Some(Regex::new(r"meta\.md$")?)),
+		("ponies", Some(Regex::new(r"ponies")?)),
+		("blog", Some(Regex::new(r"blog")?)),
+		("flash-fiction", Some(Regex::new(r"flash-fiction")?)),
+		("promotions", Some(Regex::new(r"promotions")?)),
+		("archive", Some(Regex::new(r"archive")?)),
+		("obsidian", Some(Regex::new(r"^\.obsidian")?)),
+		("ideas", Some(Regex::new(r"ideas\.md$")?)),
+		("names", Some(Regex::new(r"names\.md$")?)),
+		("templates", Some(Regex::new(r"templates")?)),
+		("props", Some(Regex::new(r"props")?)),
+		("license", Some(Regex::new(r"(license|LICENSE)")?)),
+		("readme", Some(Regex::new(r"(readme|README)")?)),
+		("markdown", Some(Regex::new(r"\.md$")?)),
+		("rust", Some(Regex::new(r"\.rs$")?)),
+		("toml", Some(Regex::new(r"\.toml$")?)),
+		("yaml", Some(Regex::new(r"\.ya?ml$")?)),
+		("json", Some(Regex::new(r"\.json$")?)),
+		("python", Some(Regex::new(r"\.py$")?)),
+		("typescript", Some(Regex::new(r"\.ts$")?)),
+		("gnuplot", Some(Regex::new(r"\.gp$")?)),
+		("shell", Some(Regex::new(r"\.sh$")?)),
+		("png", Some(Regex::new(r"\.png$")?)),
+		("jpg", Some(Regex::new(r"\.jpe?g$")?)),
+		("xcf", Some(Regex::new(r"\.xcf$")?)),
+		("ase", Some(Regex::new(r"\.ase$")?)),
+		("gif", Some(Regex::new(r"\.gif$")?)),
+		("gitignore", Some(Regex::new(r"\.gitignore$")?)),
+		("gitattributes", Some(Regex::new(r"\.gitattributes$")?)),
+	];
+	'word: for keyword in words.iter() {
+		for file in files.iter() {
+			let found = match &file.change_type {
+				Type::Merge => false,
+				Type::Renamed(_, name) => {
+					matches(&file.name, &keyword.1, &None) || matches(name, &keyword.1, &None)
+				}
+				_ => matches(&file.name, &keyword.1, &None),
+			};
+			if found {
+				keywords.push(keyword.0.to_string());
+				continue 'word;
+			}
+		}
 	}
 	Ok(keywords)
-}
-
-fn reduce(files: &[Files], includes: &Option<Regex>, excludes: &Option<Regex>) -> f64 {
-	files
-		.iter()
-		.filter(|file| match &file.change_type {
-			Type::Merge => false,
-			Type::Renamed(_, name) => {
-				matches(&file.name, includes, excludes) || matches(name, includes, excludes)
-			}
-			_ => matches(&file.name, includes, excludes),
-		})
-		.count() as f64
-		/ files.len() as f64
 }
