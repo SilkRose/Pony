@@ -475,7 +475,9 @@ fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
 fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
 	let mut keywords = vec![];
 	// Special cases:
-	// writing, proofreading, coding, refactoring
+	// writing, proofreading
+	// coding, refactoring
+	// illustrating, image-editing
 	let words = [
 		("story", Some(Regex::new(r"stories")?), None),
 		("cover", Some(Regex::new(r"cover")?), None),
@@ -490,12 +492,19 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 		("flash-fiction", Some(Regex::new(r"flash-fiction")?), None),
 		("promotions", Some(Regex::new(r"promotions")?), None),
 		("archive", Some(Regex::new(r"archive")?), None),
-		("obsidian", Some(Regex::new(r"^\.obsidian")?), None),
+		(
+			"obsidian",
+			Some(Regex::new(r"^\.obsidian|\.canvas$")?),
+			None,
+		),
 		("ideas", Some(Regex::new(r"ideas\.md$")?), None),
 		("names", Some(Regex::new(r"names\.md$")?), None),
 		("templates", Some(Regex::new(r"templates")?), None),
 		("banner", Some(Regex::new(r"banner")?), None),
 		("props", Some(Regex::new(r"props")?), None),
+		("places", Some(Regex::new(r"places")?), None),
+		("emotes", Some(Regex::new(r"emotes.*\.png$")?), None),
+		("external-cover", Some(Regex::new(r"external-cover")?), None),
 		("license", Some(Regex::new(r"(license|LICENSE)")?), None),
 		("readme", Some(Regex::new(r"(readme|README)")?), None),
 		(
@@ -504,11 +513,14 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 			None,
 		),
 		("root", None, Some(Regex::new(r"[/\\]")?)),
+		("image", Some(Regex::new(r"\.(png|jpg|gif)$")?), None),
+		("image-source", Some(Regex::new(r"\.(ase|xcf)$")?), None),
 		("markdown", Some(Regex::new(r"\.md$")?), None),
 		("rust", Some(Regex::new(r"\.rs$")?), None),
 		("toml", Some(Regex::new(r"\.toml$")?), None),
 		("yaml", Some(Regex::new(r"\.ya?ml$")?), None),
 		("json", Some(Regex::new(r"\.json$")?), None),
+		("config", Some(Regex::new(r"\.(toml|yaml|json)$")?), None),
 		("python", Some(Regex::new(r"\.py$")?), None),
 		("typescript", Some(Regex::new(r"\.ts$")?), None),
 		("gnuplot", Some(Regex::new(r"\.gp$")?), None),
@@ -532,14 +544,10 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 			None,
 		),
 	];
-	let mut merge = false;
 	'word: for keyword in words.iter() {
 		for file in files.iter() {
 			let found = match &file.change_type {
-				Type::Merge => {
-					merge = true;
-					false
-				}
+				Type::Merge => false,
 				Type::Renamed(_, name) => {
 					matches(&file.name, &keyword.1, &keyword.2)
 						|| matches(name, &keyword.1, &keyword.2)
@@ -552,8 +560,26 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 			}
 		}
 	}
-	if merge {
-		keywords.push("merge-commit".to_string())
+	let mut file_changes = [
+		(false, "merge-commit"),
+		(false, "file-added"),
+		(false, "file-modified"),
+		(false, "file-renamed"),
+		(false, "file-deleted"),
+	];
+	for file in files.iter() {
+		match file.change_type {
+			Type::Merge => file_changes[0].0 = true,
+			Type::Modified => file_changes[2].0 = true,
+			Type::Added => file_changes[1].0 = true,
+			Type::Deleted => file_changes[4].0 = true,
+			Type::Renamed(_, _) => file_changes[3].0 = true,
+		}
 	}
+	file_changes.into_iter().for_each(|change| {
+		if change.0 {
+			keywords.push(change.1.to_string())
+		}
+	});
 	Ok(keywords)
 }
