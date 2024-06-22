@@ -70,6 +70,9 @@ I wrote code to analyze each of the statistics below the banner at the top. Here
 ### Words:
 The total word count for all stories and flash fiction. Does not count meta files, or any markdown syntax, and counts hyphenated words as one word.
 
+### Code:
+The total number of trimmed unique lines of code.
+
 ## Readings:
 A few of my stories have had readings made for them, I would like to thank the following ponies for doing readings of my work:
 
