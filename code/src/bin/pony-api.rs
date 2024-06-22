@@ -209,9 +209,18 @@ fn count_code(files: &[String]) -> Result<usize, Box<dyn Error>> {
 	let code = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
-		.map(|file| fs::read_to_string(file).unwrap().lines().count())
-		.sum();
-	Ok(code)
+		.map(|file| {
+			let mut text = String::new();
+			fs::File::open(file)?.read_to_string(&mut text)?;
+			Ok::<_, Box<dyn Error>>(text)
+		})
+		.collect::<Result<Vec<_>, _>>()?;
+	let code = code
+		.iter()
+		.flat_map(|file| file.split('\n').map(|line| line.trim()))
+		.collect::<Vec<_>>()
+		.sort_and_dedup_vec();
+	Ok(code.len())
 }
 
 fn count_covers(files: &[String]) -> Result<usize, Box<dyn Error>> {
