@@ -472,12 +472,11 @@ fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
 	})
 }
 
-fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+fn keywords(_stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
 	let mut keywords = vec![];
 	// Special cases:
 	// writing, proofreading
 	// coding, refactoring
-	// illustrating, image-editing
 	let words = [
 		("story", Some(Regex::new(r"stories")?), None),
 		("cover", Some(Regex::new(r"cover")?), None),
@@ -515,6 +514,13 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 		("root", None, Some(Regex::new(r"[/\\]")?)),
 		("image", Some(Regex::new(r"\.(png|jpg|gif)$")?), None),
 		("image-source", Some(Regex::new(r"\.(ase|xcf)$")?), None),
+		(
+			"concept-cover",
+			Some(Regex::new(
+				r"(concept-cover|cover-concept).*\.(png|jpg|gif|ase|xcf)$",
+			)?),
+			None,
+		),
 		("markdown", Some(Regex::new(r"\.md$")?), None),
 		("rust", Some(Regex::new(r"\.rs$")?), None),
 		("toml", Some(Regex::new(r"\.toml$")?), None),
@@ -581,5 +587,26 @@ fn keywords(stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, 
 			keywords.push(change.1.to_string())
 		}
 	});
+	keywords.extend(art_keywords(files)?);
+	Ok(keywords)
+}
+
+fn art_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+	let image_regex = Some(Regex::new(r"\.(png|jpg|gif|ase|xcf)$")?);
+	let words = [("illustrating", "added"), ("image-editing", "modified")];
+	let mut keywords = vec![];
+	'word: for keyword in words.iter() {
+		for file in files.iter() {
+			let found = match (&file.change_type, keyword.1) {
+				(Type::Added, "added") => matches(&file.name, &image_regex, &None),
+				(Type::Modified, "modified") => matches(&file.name, &image_regex, &None),
+				_ => false,
+			};
+			if found {
+				keywords.push(keyword.0.to_string());
+				continue 'word;
+			}
+		}
+	}
 	Ok(keywords)
 }
