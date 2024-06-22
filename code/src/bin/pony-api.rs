@@ -566,8 +566,9 @@ fn keywords(_stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>,
 			}
 		}
 	}
-	keywords.extend(art_keywords(files)?);
 	keywords.extend(change_keywords(files)?);
+	keywords.extend(art_keywords(files)?);
+	keywords.extend(code_keywords(files)?);
 	Ok(keywords.sort_vec())
 }
 
@@ -601,6 +602,34 @@ fn art_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
 				continue 'word;
 			}
 		}
+	}
+	Ok(keywords)
+}
+
+fn code_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+	let code_regex = Some(Regex::new(r".*\.(sh|py|ts|gp|rs)$")?);
+	let (mut added, mut removed) = (0, 0);
+	let mut keywords = vec![];
+	for file in files.iter().filter(|file| match &file.change_type {
+		Type::Merge => false,
+		Type::Renamed(_, name) => {
+			matches(&file.name, &code_regex, &None) || matches(name, &code_regex, &None)
+		}
+		_ => matches(&file.name, &code_regex, &None),
+	}) {
+		added += file.lines_added;
+		removed += file.lines_removed;
+	}
+	if removed == 0 && added != 0 {
+		keywords.push("coding".to_string())
+	} else if added == 0 && removed != 0 {
+		keywords.push("code-deletion".to_string())
+	} else if added == removed && added != 0 {
+		keywords.push("refactoring".to_string())
+	} else if removed != 0 && added as f64 / removed as f64 >= 1.5 {
+		keywords.push("coding".to_string())
+	} else if added != 0 && removed as f64 / added as f64 >= 0.5 {
+		keywords.push("refactoring".to_string())
 	}
 	Ok(keywords)
 }
