@@ -566,29 +566,23 @@ fn keywords(_stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>,
 			}
 		}
 	}
-	let mut file_changes = [
-		(false, "merge-commit"),
-		(false, "file-added"),
-		(false, "file-modified"),
-		(false, "file-renamed"),
-		(false, "file-deleted"),
-	];
-	for file in files.iter() {
-		match file.change_type {
-			Type::Merge => file_changes[0].0 = true,
-			Type::Modified => file_changes[2].0 = true,
-			Type::Added => file_changes[1].0 = true,
-			Type::Deleted => file_changes[4].0 = true,
-			Type::Renamed(_, _) => file_changes[3].0 = true,
-		}
-	}
-	file_changes.into_iter().for_each(|change| {
-		if change.0 {
-			keywords.push(change.1.to_string())
-		}
-	});
 	keywords.extend(art_keywords(files)?);
-	Ok(keywords)
+	keywords.extend(change_keywords(files)?);
+	Ok(keywords.sort_vec())
+}
+
+fn change_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+	let keywords: Vec<String> = files
+		.iter()
+		.map(|file| match file.change_type {
+			Type::Merge => "merge-commit".to_string(),
+			Type::Modified => "file-modified".to_string(),
+			Type::Added => "file-added".to_string(),
+			Type::Deleted => "file-deleted".to_string(),
+			Type::Renamed(_, _) => "file-renamed".to_string(),
+		})
+		.collect();
+	Ok(keywords.sort_and_dedup_vec())
 }
 
 fn art_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
