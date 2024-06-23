@@ -21,53 +21,25 @@ struct Commit {
 	hash: String,
 	unix_time: usize,
 	message: String,
-	stats: Stats,
-	stat_changes: StatChanges,
+	stats: Stats<usize>,
+	stat_changes: Stats<isize>,
 	chars: Characters,
 	files: Vec<Files>,
 	keywords: Vec<String>,
 }
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
-struct Stats {
-	blogs: usize,
-	code: usize,
-	commits: usize,
-	covers: usize,
-	flash_fiction: usize,
-	ideas: usize,
-	names: usize,
-	size: usize,
-	stories: usize,
-	words: usize,
-}
-
-#[derive(Debug, Deserialize, Clone, Serialize)]
-struct StatChanges {
-	blogs: isize,
-	code: isize,
-	commits: isize,
-	covers: isize,
-	flash_fiction: isize,
-	ideas: isize,
-	names: isize,
-	size: isize,
-	stories: isize,
-	words: isize,
-}
-
-#[derive(Debug, Deserialize, Serialize)]
-struct PonyStats {
-	blogs: String,
-	code: String,
-	commits: String,
-	covers: String,
-	flash_fiction: String,
-	ideas: String,
-	names: String,
-	size: String,
-	stories: String,
-	words: String,
+struct Stats<T> {
+	blogs: T,
+	code: T,
+	commits: T,
+	covers: T,
+	flash_fiction: T,
+	ideas: T,
+	names: T,
+	size: T,
+	stories: T,
+	words: T,
 }
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
@@ -355,7 +327,7 @@ fn pony_commit_stats(
 
 fn commit_stats(
 	index: usize, files: &[String], dirs: &[String], text: &str,
-) -> Result<Stats, Box<dyn Error>> {
+) -> Result<Stats<usize>, Box<dyn Error>> {
 	Ok(Stats {
 		blogs: count_blogs(files)?,
 		code: count_code(files)?,
@@ -370,11 +342,13 @@ fn commit_stats(
 	})
 }
 
-fn stat_changes(commits: &[Commit], current: &Stats) -> Result<StatChanges, Box<dyn Error>> {
+fn stat_changes(
+	commits: &[Commit], current: &Stats<usize>,
+) -> Result<Stats<isize>, Box<dyn Error>> {
 	let changes = match commits.len() > 1 {
 		true => {
 			let previous = &commits.last().unwrap().stats;
-			StatChanges {
+			Stats {
 				blogs: current.blogs as isize - previous.blogs as isize,
 				code: current.code as isize - previous.code as isize,
 				commits: current.commits as isize - previous.commits as isize,
@@ -455,8 +429,8 @@ fn file_changes(hash: &str) -> Result<Vec<Files>, Box<dyn Error>> {
 	Ok(stats)
 }
 
-fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
-	Ok(PonyStats {
+fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
+	Ok(Stats {
 		blogs: format_number_u128(stats.blogs.try_into()?)?,
 		code: format_number_u128(stats.code.try_into()?)?,
 		commits: format_number_u128(stats.commits.try_into()?)?,
@@ -470,7 +444,7 @@ fn pony_stats(stats: &Stats) -> Result<PonyStats, Box<dyn Error>> {
 	})
 }
 
-fn keywords(_stat_changes: &StatChanges, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+fn keywords(_stat_changes: &Stats<isize>, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
 	let mut keywords = vec![];
 	// Special cases:
 	// writing, proofreading
