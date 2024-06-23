@@ -1,4 +1,5 @@
 use super::error::Result;
+use serde::de::DeserializeOwned;
 use serde::ser::Serialize;
 use serde_json::{ser::PrettyFormatter, Serializer};
 
@@ -22,4 +23,10 @@ fn format_json_indent<T: Serialize>(value: &T, indent: &str) -> Result<String> {
 	let mut serializer = Serializer::with_formatter(&mut writer, formatter);
 	value.serialize(&mut serializer)?;
 	Ok(String::from_utf8(writer)?)
+}
+
+pub fn convert_type<T: Serialize, U: DeserializeOwned>(value: &T) -> Result<U> {
+	let json_string = serde_json::to_string(value)?;
+	let result = serde_json::from_str(&json_string)?;
+	Ok(result)
 }
