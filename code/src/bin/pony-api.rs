@@ -19,8 +19,11 @@ use std::{env, fs};
 #[derive(Debug, Deserialize, Clone, Serialize)]
 struct Commit {
 	hash: String,
-	unix_time: usize,
-	message: String,
+	commit_unix_time: usize,
+	author_unix_time: usize,
+	subject: String,
+	#[serde(skip_serializing_if = "Option::is_none")]
+	body: Option<String>,
 	stats: Stats<usize>,
 	stat_changes: Stats<isize>,
 	chars: Characters,
@@ -81,7 +84,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	env::set_current_dir(Path::new(pony_temp))?;
-	let commits = execute_command_with_return("git log mane --format=\"%H\n%ct\n%s\n\"")?;
+	let commits = execute_command_with_return("git log mane --format=\"%H%n%ct%n%at%n%s%n\"")?;
 	let binding = String::from_utf8_lossy(&commits.stdout);
 	let text = binding.trim();
 	let text = text.split("\n\n").collect::<Vec<_>>().reverse_vec();
@@ -299,8 +302,17 @@ fn pony_commit_stats(
 				continue;
 			}
 		}
-		let unix_time = log[1].parse::<usize>()?;
-		let message = log[2].to_string();
+		let commit_unix_time = log[1].parse::<usize>()?;
+		let author_unix_time = log[2].parse::<usize>()?;
+		let subject = log[3].to_string();
+		let body_cmd = format!("git show --pretty=\"%b\" --no-patch {hash}");
+		let body = execute_command_with_return(&body_cmd)?;
+		let body_string = String::from_utf8_lossy(&body.stdout);
+		let body_string = body_string.trim();
+		let body = match body_string.is_empty() {
+			true => None,
+			false => Some(body_string.to_string()),
+		};
 		execute_command(&format!("git checkout --quiet {hash}"))?;
 		let files = find_files_in_dir("./", true)?;
 		let dirs = find_dirs_in_dir("./", true)?;
@@ -312,8 +324,10 @@ fn pony_commit_stats(
 		let keywords = keywords(&stat_changes, &file_changes)?;
 		let commit_data = Commit {
 			hash,
-			unix_time,
-			message,
+			commit_unix_time,
+			author_unix_time,
+			subject,
+			body,
 			stats,
 			stat_changes,
 			chars,
