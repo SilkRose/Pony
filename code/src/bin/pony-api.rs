@@ -2,7 +2,7 @@ use indoc::printdoc;
 use pony::bytes::format_size_bytes;
 use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
-use pony::json::{format_json, JsonFormat};
+use pony::json::{convert_type, format_json, JsonFormat};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::stderr::{print_error, ErrColor};
@@ -387,18 +387,7 @@ fn stat_changes(commits: &[Commit], current: &Stats) -> Result<StatChanges, Box<
 				words: current.words as isize - previous.words as isize,
 			}
 		}
-		false => StatChanges {
-			blogs: current.blogs.try_into()?,
-			code: current.code.try_into()?,
-			commits: current.commits.try_into()?,
-			covers: current.covers.try_into()?,
-			flash_fiction: current.flash_fiction.try_into()?,
-			ideas: current.ideas.try_into()?,
-			names: current.names.try_into()?,
-			size: current.size.try_into()?,
-			stories: current.stories.try_into()?,
-			words: current.words.try_into()?,
-		},
+		false => convert_type(&current)?,
 	};
 	Ok(changes)
 }
