@@ -2,7 +2,7 @@ use indoc::printdoc;
 use pony::bytes::format_size_bytes;
 use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
-use pony::json::{convert_type, format_json, JsonFormat};
+use pony::json::{format_json, JsonFormat};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::stderr::{print_error, ErrColor};
@@ -25,7 +25,6 @@ struct Commit {
 	#[serde(skip_serializing_if = "Option::is_none")]
 	body: Option<String>,
 	stats: Stats<usize>,
-	stat_changes: Stats<isize>,
 	chars: Characters,
 	files: Vec<Files>,
 	keywords: Vec<String>,
@@ -318,10 +317,9 @@ fn pony_commit_stats(
 		let dirs = find_dirs_in_dir("./", true)?;
 		let text = story_words(&files)?;
 		let stats = commit_stats(index, &files, &dirs, &text)?;
-		let stat_changes = stat_changes(&pony_commits, &stats)?;
 		let chars = character_stats(&text)?;
 		let file_changes = file_changes(&hash)?;
-		let keywords = keywords(&stat_changes, &file_changes)?;
+		let keywords = keywords(&file_changes)?;
 		let commit_data = Commit {
 			hash,
 			commit_unix_time,
@@ -329,7 +327,6 @@ fn pony_commit_stats(
 			subject,
 			body,
 			stats,
-			stat_changes,
 			chars,
 			files: file_changes,
 			keywords,
@@ -354,30 +351,6 @@ fn commit_stats(
 		stories: count_stories(dirs)?,
 		words: word_count(text)?,
 	})
-}
-
-fn stat_changes(
-	commits: &[Commit], current: &Stats<usize>,
-) -> Result<Stats<isize>, Box<dyn Error>> {
-	let changes = match commits.len() > 1 {
-		true => {
-			let previous = &commits.last().unwrap().stats;
-			Stats {
-				blogs: current.blogs as isize - previous.blogs as isize,
-				code: current.code as isize - previous.code as isize,
-				commits: current.commits as isize - previous.commits as isize,
-				covers: current.covers as isize - previous.covers as isize,
-				flash_fiction: current.flash_fiction as isize - previous.flash_fiction as isize,
-				ideas: current.ideas as isize - previous.ideas as isize,
-				names: current.names as isize - previous.names as isize,
-				size: current.size as isize - previous.size as isize,
-				stories: current.stories as isize - previous.stories as isize,
-				words: current.words as isize - previous.words as isize,
-			}
-		}
-		false => convert_type(&current)?,
-	};
-	Ok(changes)
 }
 
 fn character_stats(text: &str) -> Result<Characters, Box<dyn Error>> {
@@ -458,7 +431,7 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 	})
 }
 
-fn keywords(_stat_changes: &Stats<isize>, files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
+fn keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
 	let mut keywords = vec![];
 	// Special cases:
 	// writing, proofreading
