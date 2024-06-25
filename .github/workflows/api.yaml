@@ -26,7 +26,7 @@ jobs:
               id: check-hashes
               run: |
                   hashes=$(find ./pony-temp/code \
-                    \( -name "*.rs" -o -wholename "./Cargo.toml" -o -wholename "./Cargo.lock" \) \
+                    \( -name "*.rs" -o -wholename "./Cargo.toml" -o -wholename "./Cargo.lock" -o -name "rust-toolchain.toml" \) \
                     -exec sha256sum {} + | awk '{print $1}' | sort)
                   remote=$( [ -f ./cache/hash.txt ] && cat ./cache/hash.txt | sort | sha256sum | awk '{print $1}' || echo "")
                   local=$(echo "$hashes" | sha256sum | awk '{print $1}')
