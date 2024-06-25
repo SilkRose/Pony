@@ -2,6 +2,7 @@ use super::error::Result;
 use serde::de::DeserializeOwned;
 use serde::ser::Serialize;
 use serde_json::{ser::PrettyFormatter, Serializer};
+use std::{fs, io::Write, path::Path};
 
 pub enum JsonFormat {
 	Minify,
@@ -29,4 +30,22 @@ pub fn convert_type<T: Serialize, U: DeserializeOwned>(value: &T) -> Result<U> {
 	let json_string = serde_json::to_string(value)?;
 	let result = serde_json::from_str(&json_string)?;
 	Ok(result)
+}
+
+pub fn load_json<T: DeserializeOwned>(path: &str) -> Result<T> {
+	Ok(serde_json::from_str(&fs::read_to_string(path)?)?)
+}
+
+pub fn load_json_option<T: DeserializeOwned>(path: &str) -> Result<Option<T>> {
+	if Path::new(path).is_file() {
+		let data: T = serde_json::from_str(&fs::read_to_string(path)?)?;
+		Ok(Some(data))
+	} else {
+		Ok(None)
+	}
+}
+
+pub fn save_json<T: Serialize>(path: &str, format: JsonFormat, json: &T) -> Result<()> {
+	fs::File::create(path)?.write_all(format_json(&json, format)?.as_bytes())?;
+	Ok(())
 }
