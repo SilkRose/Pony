@@ -40,11 +40,11 @@ Rainbow speaks quietly. "Well, I'm not bored anymore, so we're good."
 
 "I'll probably do some flying, and check in on our friends. What do you have planned?"
 
-"I'll tell Twilight about our adventure in Canterlot, but after that, I plan to go to the spa and get some quality relaxing time in."
+"I'll tell Twilight about our adventure in Canterlot, but afterward, I plan to go to the spa and get some quality relaxing time in."
 
 "I could definitely do with some relaxing too."
 
-"You're always welcome to join me. I know it's not really your thing, but the invite stays all the same."
+"You're always welcome to join me. I know it's not really your thing, but the invite still stands all the same."
 
 Rainbow took a second to answer. "I'll think about it."
 
