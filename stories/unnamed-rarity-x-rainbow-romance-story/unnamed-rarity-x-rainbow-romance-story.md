@@ -46,7 +46,7 @@ Rainbow speaks quietly. "Well, I'm not bored anymore, so we're good."
 
 "You're always welcome to join me. I know it's not really your thing, but the invite still stands all the same."
 
-Rainbow took a second to answer. "I'll think about it."
+Rainbow takes a second to answer. "I'll think about it."
 
 I smile at her. "What trick have you been practicing lately?"
 
@@ -62,5 +62,90 @@ I regale her with my latest piece, describing it in vivid detail. I make sure to
 
 I do notice the blush on her face has grown, but sadly, she noticed it too. She pretends to cough and hides her face.
 
-I finish my answer before Rainbow changes the subject.
+I finish my answer and wait for Rainbow's response.
 
+"Are you saying *I* would look good in the dress?"
+
+"Well, come to think of it, you are a blue pegasus, and you're already so pretty. So, yes, I am saying that."
+
+Her blush comes back in full force. "Thanks for the compliment."
+
+"I would be ever so grateful if you considered modeling it for me, I's love to see it on a real pony."
+
+"I'll consider it, I guess. Might take a lot to convince me."
+
+"Oh, you know what would be absolutely delightful, if we went on a spa-date before you model the dress. Doesn't that sound like such fun?"
+
+"What do you mean by *date*?"
+
+I avert my gaze and speak a little softer, "Well, it could be a lot of things."
+
+"Are you suggesting we go on a romantic date, Rarity?"
+
+I say sheepishly, "Maybe."
+
+"So, you were serious about the kiss?"
+
+I nod my head as a blush forms.
+
+Rainbow goes quiet for a bit as she stares out the window again. I watch her out of the corner of my eye.
+
+Eventually, she turns and looks at me. "Do you like me romantically?"
+
+"Yes, darling."
+
+"What was the point of the kiss thing? Seems a little *too* direct for you."
+
+"I was trying to be more like you, I guess it failed."
+
+Rainbow chuckles. "You did alright."
+
+"So, what do you say? Are you interested in me like that?"
+
+"Well, have to see how our first date goes to find out, right?"
+
+I look up at her in shock.
+
+She gets up and comes over and wraps me in a tight hug.
+
+"Thank you!" I say as I return the hug.
+
+"Don't thank me yet, we haven't even had our first kiss yet."
+
+I whisper, "It will be my first-ever kiss."
+
+Rainbow whispers back, "Me too."
+
+My blush intensifies tenfold as we hold the hug for a good while.
+
+"So, are you ready?"
+
+I ask, confused, "Ready for what?"
+
+"Duh, our first kiss, you were trying to kiss me earlier, right?"
+
+"Oh, yes, I would very much like that."
+
+We let go of the hug and stare into each other's eyes. Taking in the moment, we slowly move our heads together until our lips meet.
+
+I wrap my hooves around her and hold her tight. She wraps her wings around me in response.
+
+We hold the kiss as I get lost in her beautiful eyes.
+
+Sadly, it has to end at some point, and we break the kiss.
+
+Rainbow says in a rather soft voice I'm not used to hearing from her, "That was awesome!"
+
+I giggle and nod my head. "Very much so."
+
+We stare at each other in silence for a moment. I hold her hoof in my own. "Thank you, Rainbow Dash."
+
+"No, thank you, for being brave enough to hit on one of your best friends while on a train."
+
+"Well, even still, thank you for saying yes."
+
+"Rarity?"
+
+"Yes?"
+
+"Thank you for being so cute."
