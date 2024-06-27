@@ -6,7 +6,7 @@ I wish she sat next to me. There's plenty of room.
 
 I stare at her, taking in her beauty. I wonder if now would be a good time to confess my feelings.
 
-Rainbow looks at me. I smile at her.
+Rainbow looks at me. I smile.
 
 She smiles back before looking out the window. I notice the bored expression on her face.
 
