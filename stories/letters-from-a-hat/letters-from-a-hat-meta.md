@@ -42,7 +42,7 @@ Some suggestions from Twilight to include in your letter(s):
 - Fluttershy: [PseudoBob Delightus](https://www.fimfiction.net/user/12771/)
 - Luna: Tiki Bat
 - Rarity: Pearls
-- Spike: ThePeer
+- Spike: [ThePeer](https://www.fimfiction.net/user/537939/ThePeer)
 - Cadence: Visharo
 
 ## Chapters:
@@ -53,7 +53,9 @@ Some suggestions from Twilight to include in your letter(s):
 5. [Fluttershy → Rainbow Dash (PseudoBob Delightus)](./05-fluttershy.md)
 6. [Rainbow Dash → Fluttershy (Sciblits Talo)](./06-rainbow-dash.md)
 7. [Rainbow Dash → Spike (Sciblits Talo)](./07-rainbow-dash.md)
-8. 
+8. [Spike → Rainbow Dash (ThePeer)](./08-spike.md)
+9. [Spike → Starlight (ThePeer)](./09-spike.md)
+10. 
 
 ## Cover:
 
