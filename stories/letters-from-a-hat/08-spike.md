@@ -18,5 +18,5 @@ Don't do twenty backflips RD. You just need to talk to Applejack. A good, honest
 
 Oh, and the trip to Canterlot. I'd love to come! 
 
-Your Friend,
+Your Friend,  
 Spike
