@@ -2,6 +2,8 @@
 
 I stare blankly into the darkness of Pinkie's ceiling above me, mind wandering as I can't sleep. Around me all my friends are asleep, but I continue to lay awake, and continue to think of *her*.
 
+I hear a rustle and try to look to see if anyone had awoken, but seeing nothing, I lay my head back down.
+
 I sigh, closing my eyes and resolve to get some sleep.
 
 I whisper to her, "Goodnight, Pinkie…"
@@ -98,3 +100,46 @@ I sigh and squeeze her hand. "I… *like* you."
 
 "Oh."
 
+"I've wanted to tell you for a while," I whisper, my voice softening. "But I've been too shy…"
+
+She squeezes my hand. "Well, you told me now, and that's great!"
+
+I say, with hope in my heart and voice, "Does that mean… you like me?"
+
+"Earlier, before we started talking, I had a Pinkie Sense, and it told me that someone was going to hold my hand tonight. I didn't know what to think of it, I thought something bad might happen! And, I noticed before all that, that you were acting differently around me, and I was sorta acting differently around you too. In a differently-er kinda way. I didn't know what it meant, but when I saw you couldn't sleep, I realized it was you who I was going to hold hands with. And it made me happy! Like super-duper happy! I knew that it could only mean one thing, especially when you asked about being lonely and having a connection to someone."
+
+I hesitantly ask, "What was that?"
+
+Pinkie shouts at a whisper's volume, "That I *like* you too!"
+
+"You do?!"
+
+"Yes!"
+
+"Yay!"
+
+My heart flutters as the realization of the situation hits me.
+
+*Pinkie and I like each other!*
+
+"Fluttershy?"
+
+"Yes?"
+
+"Will you go out with me?"
+
+I squeeze her hand and smile wide. "Yes!"
+
+"Yay!"
+
+We go silent and after a few moments of taking in the moment, I yawn.
+
+Pinkie speaks up, "We should probably get some sleep. We have a lot of dating to do tomorrow."
+
+"Sounds fun, but… can we hold hands while we fall asleep?"
+
+"Absolutely," Pinkie says with enthusiasm.
+
+I giggle. "Goodnight, Pinkie."
+
+She squeezes my hand. "Goodnight, Fluttershy."
