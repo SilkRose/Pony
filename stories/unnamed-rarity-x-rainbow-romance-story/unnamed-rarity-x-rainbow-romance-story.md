@@ -76,7 +76,7 @@ Her blush comes back in full force. "Thanks for the compliment."
 
 "Oh, you know what would be absolutely delightful, if we went on a spa-date before you model the dress. Doesn't that sound like such fun?"
 
-"What do you mean by spa... *date*?"
+"What do you mean by spa… *date*?"
 
 I avert my gaze and speak a little softer, "Well, 'date' could mean a lot of things."
 
