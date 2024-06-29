@@ -1,10 +1,10 @@
 # Whispers and Wishes
 
-I stare blankly into the darkness of Pinkie's ceiling, mind wandering as I can't sleep. Around me all my friends are asleep, but I continue to lay awake, continue to think of *her*.
+I stare blankly into the darkness of Pinkie's ceiling above me, mind wandering as I can't sleep. Around me all my friends are asleep, but I continue to lay awake, and continue to think of *her*.
 
-I sigh, closing my eyes as I resolved myself to get some sleep.
+I sigh, closing my eyes and resolve to get some sleep.
 
-*Goodnight, Pinkie…*
+I whisper to her, "Goodnight, Pinkie…"
 
 "Fluttershy?"
 
@@ -24,13 +24,11 @@ Pinkie holds my hand in return. "OOO, what do you wish for? I'll tell you what I
 
 "Sure. I wish for your wish to come true! And for all my friends to be happy!"
 
-*What do I say?*
-
-"…"
+I try to speak, but don't know what to say. All that comes out in a squeak.
 
 "Are you alright? You're squeezing my hand a lot all of a sudden."
 
-"I'm… I'm… sorry."
+"I… I'm… I'm sorry."
 
 "It's okay. We can talk about something else."
 
