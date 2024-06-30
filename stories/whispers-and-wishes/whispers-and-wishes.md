@@ -70,7 +70,7 @@ I could hear the genuine smile radiating from her statement.
 
 "Thank you… thank you."
 
-We just lay there in silence, eventually I get comfortable enough and start playing little hand games with her. The room stays silent, with the occasional outburst of muffled giggles coming from mostly Pinkie Pie.
+We just lay there in silence, eventually I get comfortable enough and start playing little hand games with her. The room stays silent, with the occasional outburst of muffled giggles coming mostly from Pinkie Pie.
 
 I stop fiddling around as I feel her scooting closer.
 
@@ -80,7 +80,7 @@ I wait a minute before asking, "Do you ever feel lonely?"
 
 "Kinda…"
 
-"I'm glad you did."
+"I'm glad you did, it kept me from being lonely too."
 
 "Do you ever feel a connection to someone you can't explain?"
 
