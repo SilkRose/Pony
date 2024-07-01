@@ -1,16 +1,16 @@
 # Whispers and Wishes
 
-I stare blankly into the darkness of Pinkie's ceiling above me, mind wandering as I can't sleep. Around me all my friends are asleep, but I continue to lay awake, and continue to think of *her*.
+I stare blankly into the darkness of Pinkie's ceiling above me, my mind wandering as I can't sleep. Around me all my friends are asleep, but I continue to lay awake, and continue to think of *her*.
 
-I hear a rustle and try to look to see if anyone had awoken, but seeing nothing, I lay my head back down.
+I hear a rustle and try to look to see if anyone had awoken, but don't see anything. I lay my head back down.
 
 I sigh, closing my eyes and resolve to get some sleep.
 
 I whisper to her, "Goodnight, Pinkie…"
 
-"Fluttershy?"
+Pinkie speaks up. "Fluttershy?"
 
-My eyes shoot open, "Pinkie?"
+My eyes shoot open. "Pinkie?"
 
 "Can't sleep?"
 
@@ -18,21 +18,23 @@ I gently move my hand, trying to find hers. "No, I can't stop thinking."
 
 "Oh, about what?"
 
+*About you.*
+
 I find her hand and hold it. "About what I wish for…"
 
 Pinkie holds my hand in return. "OOO, what do you wish for? I'll tell you what I wish for if you tell me yours!"
 
-"Deal. Can you go first?"
+I hesitate for a moment, but relent. "Deal… can you go first?"
 
 "Sure. I wish for your wish to come true! And for all my friends to be happy!"
 
 I try to speak, but don't know what to say. All that comes out in a squeak.
 
-"Are you alright? You're squeezing my hand a lot all of a sudden."
+Pinkie asks in concern, "Are you alright? You're squeezing my hand a lot all of a sudden."
 
 "I… I'm… I'm sorry."
 
-"It's okay. We can talk about something else."
+Her voice softens. "It's okay. We can talk about something else."
 
 "Like what?"
 
@@ -64,7 +66,7 @@ I eventually say, "Yes."
 
 Pinkie squeezes back. "I know I'm not the most serious of people usually, but I'm always here for you if you need anything."
 
-I could hear the genuine smile radiating from her statement.
+I can hear the genuine smile radiating from her statement.
 
 *Oh, what I have I done? What should I say?*
 
@@ -78,19 +80,19 @@ I wait a minute before asking, "Do you ever feel lonely?"
 
 "I think everybody does sometimes. Is that why you held my hand?"
 
-"Kinda…"
+"Kinda… I've been feeling different lately, and I don't know what to do…"
 
-"I'm glad you did, it kept me from being lonely too."
+"I'm glad you held my hand, it kept me from being lonely, too. Maybe I can help you somehow?"
 
 "Do you ever feel a connection to someone you can't explain?"
 
 "Hmm, yes, actually."
 
-"That's why I couldn't sleep because I was thinking about… you…"
+"That's why I couldn't sleep because I was thinking about… you… I feel different around you… and I didn't understand why for the longest time."
 
 I can feel the blush forming on my face as I wait for her reply.
 
-"That's very nice of you."
+"That's very nice of you to think of me. I love thinking about my friends."
 
 I giggle slightly. "Pinkie…"
 
@@ -132,7 +134,7 @@ I squeeze her hand and smile wide. "Yes!"
 
 "Yay!"
 
-We go silent and after a few moments of taking in the moment, I yawn.
+We go silent and after a few moments of taking in this moment, I yawn.
 
 Pinkie speaks up, "We should probably get some sleep. We have a lot of dating to do tomorrow."
 
