@@ -12,7 +12,7 @@ Pinkie speaks up. "Fluttershy?"
 
 My eyes shoot open. "Pinkie?"
 
-"Can't sleep?"
+Pinkie asks with a concerned tone, "Can't sleep?"
 
 I gently move my hand, trying to find hers. "No, I can't stop thinking."
 
@@ -30,17 +30,17 @@ I hesitate for a moment, but relent. "Deal… can you go first?"
 
 I try to speak, but don't know what to say. All that comes out in a squeak.
 
-Pinkie asks in concern, "Are you alright? You're squeezing my hand a lot all of a sudden."
+Pinkie asks, worried, "Are you alright? You're squeezing my hand a lot all of a sudden."
 
-"I… I'm… I'm sorry."
+I falter. "I… I'm… I'm sorry."
 
 Her voice softens. "It's okay. We can talk about something else."
 
 "Like what?"
 
-"Did you enjoy the sleepover so far?"
+Pinkie asks with optimism, "Did you enjoy the sleepover so far?"
 
-"Yes, I had a lot of fun, but I can't stop thinking about…"
+"Yes, I had a lot of fun, but I couldn't stop thinking about…"
 
 "Am I helping by holding your hand?"
 
@@ -88,7 +88,7 @@ I wait a minute before asking, "Do you ever feel lonely?"
 
 "Hmm, yes, actually."
 
-"That's why I couldn't sleep because I was thinking about… you… I feel different around you… and I didn't understand why for the longest time."
+"That's why I couldn't sleep because I was thinking about… you… I feel different around you… and I didn't understand why for the longest time. I really like being around you, a lot."
 
 I can feel the blush forming on my face as I wait for her reply.
 
@@ -108,7 +108,7 @@ She squeezes my hand. "Well, you told me now, and that's great!"
 
 I say, with hope in my heart and voice, "Does that mean… you like me?"
 
-"Earlier, before we started talking, I had a Pinkie Sense, and it told me that someone was going to hold my hand tonight. I didn't know what to think of it, I thought something bad might happen! And, I noticed before all that, that you were acting differently around me, and I was sorta acting differently around you too. In a differently-er kinda way. I didn't know what it meant, but when I saw you couldn't sleep, I realized it was you who I was going to hold hands with. And it made me happy! Like super-duper happy! I knew that it could only mean one thing, especially when you asked about being lonely and having a connection to someone."
+Pinkie speaks in a quiet but rushed voice, "Earlier, before we started talking, I had a Pinkie Sense, and it told me that someone was going to hold my hand tonight. I didn't know what to think of it, I thought something bad might happen! And, I noticed before all that, that you were acting differently around me, and I was sorta acting differently around you too. In a differently-er kinda way. I didn't know what it meant, but when I saw you couldn't sleep, I realized it was you who I was going to hold hands with. And it made me happy! Like super-duper happy! I knew that it could only mean one thing, especially when you asked about being lonely and having a connection to someone."
 
 I hesitantly ask, "What was that?"
 
@@ -134,13 +134,35 @@ I squeeze her hand and smile wide. "Yes!"
 
 "Yay!"
 
-We go silent and after a few moments of taking in this moment, I yawn.
+We go silent and after a few moments of taking in this moment, then Pinkie asks, "Was that your wish?"
+
+"Yes, I really like you and wanted to date you."
+
+"I'm glad I could make your wish a reality. And I'm glad I discovered I had the same with as you!"
+
+"Thank you, I'm glad too."
+
+I see Pinkie's silhouette rise up, and she uses my hand to pull me up with her.
+
+Moments later, I'm wrapped in a tight Pinkie Pie hug. I return the hug and sink into it.
+
+I hear her squee as I tighten my hold on her.
+
+A few tears escape my eyes as we linger in the loving embrace.
+
+We let go after a bit and stared at each other with big smiles on our faces.
+
+I yawn and Pinkie follows suit.
 
 Pinkie speaks up, "We should probably get some sleep. We have a lot of dating to do tomorrow."
 
-"Sounds fun, but… can we hold hands while we fall asleep?"
+We lay back down, not holding hands anymore.
+
+I speak up and ask, "Sounds fun, but… can we hold hands while we fall asleep?"
 
 "Absolutely," Pinkie says with enthusiasm.
+
+Pinkie grabs my hand and holds it gently.
 
 I giggle. "Goodnight, Pinkie."
 
