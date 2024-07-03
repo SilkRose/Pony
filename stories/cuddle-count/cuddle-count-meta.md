@@ -16,3 +16,4 @@ Ponies treat cuddle count like body count and during a speed dating exercise, va
 [Cuddle Count](./cuddle-count.md)
 
 ## Cover:
+![cover](./cuddle-count-cover-upscaled.png)
