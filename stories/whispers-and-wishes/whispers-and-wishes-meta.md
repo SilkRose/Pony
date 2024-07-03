@@ -8,6 +8,8 @@ While holding hands with her crush, Fluttershy confesses her feelings to her.
 
 Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for providing feedback.
 
 Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
