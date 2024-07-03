@@ -167,3 +167,5 @@ Pinkie grabs my hand and holds it gently.
 I giggle. "Goodnight, Pinkie."
 
 She squeezes my hand. "Goodnight, Fluttershy."
+
+All our friends say in unison, "Goodnight Pinkie, goodnight Fluttershy."
