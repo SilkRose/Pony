@@ -1,6 +1,6 @@
 # Whispers and Wishes
 
-I stare blankly into the darkness of Pinkie's ceiling above me, my mind wandering as I can't sleep. Around me all my friends are asleep, but I continue to lay awake, and continue to think of *her*.
+I stare blankly into the darkness of Pinkie's ceiling above. My mind wanders. My friends are asleep all around me, but I continue to lay awake, and continue to think of *her*.
 
 I hear a rustle and try to look to see if anyone had awoken, but don't see anything. I lay my head back down.
 
@@ -22,9 +22,9 @@ I gently move my hand, trying to find hers. "No, I can't stop thinking."
 
 I find her hand and hold it. "About what I wish for…"
 
-Pinkie holds my hand in return. "OOO, what do you wish for? I'll tell you what I wish for if you tell me yours!"
+Pinkie holds my hand in return. "Ooh, what do you wish for? I'll tell you my wish if you tell me yours!"
 
-I hesitate for a moment, but relent. "Deal… can you go first?"
+I hesitate for a moment, but relent. "Deal… but can you go first?"
 
 "Sure. I wish for your wish to come true! And for all my friends to be happy!"
 
@@ -38,7 +38,7 @@ Her voice softens. "It's okay. We can talk about something else."
 
 "Like what?"
 
-Pinkie asks with optimism, "Did you enjoy the sleepover so far?"
+Pinkie asks with optimism, "Are you enjoying the sleepover so far?"
 
 "Yes, I had a lot of fun, but I couldn't stop thinking about…"
 
@@ -66,13 +66,13 @@ I eventually say, "Yes."
 
 Pinkie squeezes back. "I know I'm not the most serious of people usually, but I'm always here for you if you need anything."
 
-I can hear the genuine smile radiating from her statement.
+I don't need to look at her to see her genuine smile. I can hear it.
 
 *Oh, what I have I done? What should I say?*
 
 "Thank you… thank you."
 
-We just lay there in silence, eventually I get comfortable enough and start playing little hand games with her. The room stays silent, with the occasional outburst of muffled giggles coming mostly from Pinkie Pie.
+We just lie there in silence. Eventually I get comfortable enough and start playing little hand games with her. The room stays silent, except for the occasional outburst of muffled giggles coming mostly from Pinkie Pie.
 
 I stop fiddling around as I feel her scooting closer.
 
@@ -108,11 +108,11 @@ She squeezes my hand. "Well, you told me now, and that's great!"
 
 I say, with hope in my heart and voice, "Does that mean… you like me?"
 
-Pinkie speaks in a quiet but rushed voice, "Earlier, before we started talking, I had a Pinkie Sense, and it told me that someone was going to hold my hand tonight. I didn't know what to think of it, I thought something bad might happen! And, I noticed before all that, that you were acting differently around me, and I was sorta acting differently around you too. In a differently-er kinda way. I didn't know what it meant, but when I saw you couldn't sleep, I realized it was you who I was going to hold hands with. And it made me happy! Like super-duper happy! I knew that it could only mean one thing, especially when you asked about being lonely and having a connection to someone."
+Pinkie speaks in a quiet but rushed voice, "Earlier, before we started talking, I felt my Pinkie Sense, and it told me that someone was going to hold my hand tonight. I didn't know what to think of it, I thought something bad might happen! And I noticed, before all that, that you were acting differently around me, and I was sorta acting differently around you too. In a differently-er kinda way. I didn't know what it meant, but when I saw you couldn't sleep, I realized it was you who I was going to hold hands with. And it made me happy! Like super-duper happy! I knew that it could only mean one thing, especially when you asked about being lonely and having a connection to someone."
 
-I hesitantly ask, "What was that?"
+I hesitantly ask, "What did it mean?"
 
-Pinkie shouts at a whisper's volume, "That I *like* you too!"
+Pinkie shouts at a whisper's volume, "That *I* like you too!"
 
 "You do?!"
 
@@ -120,9 +120,9 @@ Pinkie shouts at a whisper's volume, "That I *like* you too!"
 
 "Yay!"
 
-My heart flutters as the realization of the situation hits me.
+My heart flutters as the reality of the situation hits me.
 
-*Pinkie and I like each other!*
+*Pinkie Pie likes me back!*
 
 "Fluttershy?"
 
@@ -134,11 +134,11 @@ I squeeze her hand and smile wide. "Yes!"
 
 "Yay!"
 
-We go silent and after a few moments of taking in this moment, then Pinkie asks, "Was that your wish?"
+We go silent and after a few moments of taking in this moment, Pinkie asks, "Was that your wish?"
 
 "Yes, I really like you and wanted to date you."
 
-"I'm glad I could make your wish a reality. And I'm glad I discovered I had the same with as you!"
+"I'm glad I could make your wish a reality. And I'm glad I discovered I had the same wish as you!"
 
 "Thank you, I'm glad too."
 
