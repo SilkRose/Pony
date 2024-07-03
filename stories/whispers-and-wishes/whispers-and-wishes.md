@@ -68,7 +68,7 @@ Pinkie squeezes back. "I know I'm not the most serious of people usually, but I'
 
 I don't need to look at her to see her genuine smile. I can hear it.
 
-*Oh, what I have I done? What should I say?*
+*What should I say?*
 
 "Thank you… thank you."
 
@@ -90,7 +90,7 @@ I wait a minute before asking, "Do you ever feel lonely?"
 
 "That's why I couldn't sleep because I was thinking about… you… I feel different around you… and I didn't understand why for the longest time. I really like being around you, a lot."
 
-I can feel the blush forming on my face as I wait for her reply.
+I can feel a blush forming as I wait for her reply.
 
 "That's very nice of you to think of me. I love thinking about my friends."
 
@@ -142,7 +142,7 @@ We go silent and after a few moments of taking in this moment, Pinkie asks, "Was
 
 "Thank you, I'm glad too."
 
-I see Pinkie's silhouette rise up, and she uses my hand to pull me up with her.
+I see Pinkie's silhouette rise, and she uses my hand to pull me up with her.
 
 Moments later, I'm wrapped in a tight Pinkie Pie hug. I return the hug and sink into it.
 
