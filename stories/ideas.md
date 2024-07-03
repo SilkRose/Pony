@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Prosthetic Pony
+
+### Synopsis:
+Iron Will wakes up to find his leg amputated, and Pinkie Pie is his prosthetic leg.
+
+***
+
 ## Flying Feelings
 
 ### Synopsis:
