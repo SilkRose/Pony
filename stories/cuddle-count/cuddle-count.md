@@ -148,3 +148,68 @@ Before I have time to process her answer, the bell rings.
 
 ***
 
+Rainbow sits down and says, "Sup."
+
+"Not much, how's your dates going?"
+
+"Could have gone better, how bout yours?"
+
+"Same."
+
+"So, how many ponies you cuddled?"
+
+"None, you?"
+
+"Wow, waiting for Twilight, I see."
+
+"I never said anything about Twilight."
+
+"Come on, Applejack, It's obvious, I saw how you and Twilight acted on your date."
+
+"So what if I am? You didn't answer the question."
+
+"Four, happy now?"
+
+"You waiting on somepony too?"
+
+"Maybe…"
+
+"Well, what are you looking for?"
+
+"Somepony that can keep up with me, that likes fun as much as I do. Somepony that's as good at pranking as me."
+
+"Pinkie, you like Pinkie."
+
+Rainbow blushes. "I never said that."
+
+"It's okay, I think you got a shot."
+
+"You do? — I mean, what do you like in Twilight, anyway?"
+
+"She's really smart, a great leader, an amazing problem solver, darn pretty to boot."
+
+"So, are you going to ask her out?"
+
+"I don't know if she likes me."
+
+"I think you got a shot, aye."
+
+The buzzer rang again, cutting off our conversation.
+
+***
+
+I blink as Fluttershy sits down in front of me again.
+
+*Wait a second.*
+
+Looking around, I see us six are the only ponies present.
+
+I stand up and speak.
+
+"Girls, why are we the only ones here?"
+
+Nopony answers, so I continue. "Fluttershy and Rarity, just kiss already."
+
+I point at Rainbow. "Rainbow and Pinkie, just kiss already."
+
+I look at Twilight. "Twilight, will you go out with me?"
