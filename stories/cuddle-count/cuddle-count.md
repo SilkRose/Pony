@@ -6,7 +6,7 @@ Fluttershy sits down in front of me and introduces herself.
 
 "Hello! My name is Fluttershy, and I love animals, and I run an animal sanctuary."
 
-I go along with it. "Howdy. My name is Applejack and I love apples and my family."
+I go along with it. "Howdy. My name's Applejack and I love apples and my family."
 
 Fluttershy starts to blush. "I don't know if animals count, but I've cuddled five ponies."
 
