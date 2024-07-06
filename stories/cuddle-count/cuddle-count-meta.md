@@ -4,10 +4,12 @@
 Ponies treat cuddle count like body count and during a speed dating exercise, various ponies reveal their cuddle count and talk about different ponies they've cuddled.
 
 ## Description:
+During a speed-dating event, the mane six reveal the number of ponies they've cuddled… and maybe a bit more.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
 ## Short Description:
-
+During a speed-dating event, the mane six reveal the number of ponies they've cuddled… and maybe a bit more.
 
 ## Ideas:
 - Each pony has a pony they want to be with, and some are bad at hiding it.
