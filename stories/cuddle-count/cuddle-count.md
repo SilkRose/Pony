@@ -1,6 +1,6 @@
 # Cuddle Count
 
-The buzzer rang, marking the start of the first speed date. Fluttershy sat down in front of me and introduced herself.
+The buzzer rings, marking the start of the first speed date. Fluttershy sits down in front of me and introduces herself.
 
 "Hello, my name is Fluttershy, and I love animals, and I run an animal sanctuary."
 
@@ -24,11 +24,11 @@ I think for a second before saying my answer.
 
 "I'm looking for a pony who learns quick and can take charge of a situation when needed. Somepony who will bring me down to earth like I'd do for them."
 
-Before the conversation could continue, the buzzer rang, signalling the first partner switch.
+Before the conversation could continue, the buzzer rings, signalling the first partner switch.
 
 ***
 
-Rarity sat down in front of me and immediately started talking.
+Rarity sits down in front of me and immediately started talking.
 
 "Did Fluttershy ask about me?"
 
@@ -38,7 +38,7 @@ I answer, "Not exactly."
 
 "Aren't we suppose to be on a date right now?"
 
-"Oh, how rude of me. I'm sorry, Applejack. Hello, my name is Rarity, and I love fashion and I run my own boutique."
+"Oh, how rude of me. Sorry, Applejack. Hello, my name is Rarity, and I love fashion and I run several boutiques."
 
 "Hello, you already know who I am and what I love."
 
@@ -74,21 +74,21 @@ She continues, "… and beautiful."
 
 "Fluttershy. Got it."
 
-The bell rang again, and Rarity looked over at Twilight before whispering to me, "Good luck with Twilight."
+The bell rings again, and Rarity looked over at Twilight before whispering to me, "Good luck."
 
 ***
 
-Twilight sits down and greets me with a smile.
+Twilight sits down and smiles.
 
 "Hello, my name is Twilight Sparkle, and I love learning and reading."
 
 "Howdy, Twilight. I'm Applejack, I love farming, apples, and family."
 
-Twilight started to blush. "I've cuddled six ponies."
+Twilight starts to blush. "I've cuddled six ponies."
 
 I sigh. "I haven't cuddled a single pony, Twilight."
 
-Twilight says in shock, "Why haven't you?"
+Twilight asks in shock, "Why haven't you?"
 
 "I don't know, just been waiting for the right pony."
 
@@ -110,9 +110,9 @@ The bell rings and Twilight moves onto the next table.
 
 ***
 
-Pinkie sits down in front of me. "Hi Applejack!"
+Pinkie sits down in front of me. "Hi, Applejack!"
 
-"Hi, Pinkie Pie. How's your dates been going?"
+"Hi, Pinkie. How's your dates been going?"
 
 "They've been alright, I just don't know who I'm supposed to like."
 
@@ -192,9 +192,9 @@ Rainbow blushes. "I never said that."
 
 "I don't know if she likes me."
 
-"I think you got a shot, aye."
+"I think you got a shot."
 
-The buzzer rang again, cutting off our conversation.
+The buzzer rings again, cutting off our conversation.
 
 ***
 
