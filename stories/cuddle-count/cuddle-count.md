@@ -168,7 +168,7 @@ Rainbow sits down and says, "Sup."
 
 "Come on, Applejack, It's obvious! I saw how you two acted on your date."
 
-"Well... So what? You didn't answer the question."
+"Well… So what? You didn't answer the question."
 
 "Four. Happy now?"
 
