@@ -10,6 +10,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
 
+Entry into [A Thousand Words Contest III](https://www.fimfiction.net/group/216361/a-thousand-words/thread/540659/a-thousand-words-contest-iii-2024-jun-09-jul-14).
+
 ## Short Description:
 During a speed-dating event, the mane six reveal the number of ponies they've cuddled… and maybe a bit more.
 
