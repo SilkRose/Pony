@@ -8,6 +8,8 @@ During a speed-dating event, the mane six reveal the number of ponies they've cu
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
+Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
+
 ## Short Description:
 During a speed-dating event, the mane six reveal the number of ponies they've cuddled… and maybe a bit more.
 
