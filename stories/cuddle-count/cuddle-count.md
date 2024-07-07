@@ -40,7 +40,7 @@ I answer, "Not exactly."
 
 "Aren't we suppose to be on a date right now?"
 
-"Oh, how rude of me. Sorry, Applejack. Hello, my name is Rarity, and I love fashion and I run several boutiques."
+"Oh, how rude of me, sorry. Hello, my name is Rarity, and I love fashion and I run several boutiques."
 
 "Hi. You already know who I am and what I love."
 
