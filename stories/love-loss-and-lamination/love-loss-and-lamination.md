@@ -18,3 +18,22 @@ Yet, I still can't do it. It can't be Rainbow Dash.
 
 *What does laminating this marriage certificate change?*
 
+
+
+As I'm about to finally press the start button, I hear somepony trotting towards me. I look and see Rainbow Dash.
+
+Rainbow gets to me and asks, "Hey, Twilight, what are you doing?"
+
+"Oh, just laminating our marriage certificate."
+
+"Need any help?"
+
+"Uh, sure. Just press the start button for me."
+
+Rainbow presses the start button and the machine whirs to life.
+
+She turns to me and wraps me in a loving embrace. "I love you."
+
+I blush and wrap my hooves around her in turn. "I love you, too."
+
+We kiss as the machine toils away in the background. All my worries and cares about a past life seem to vanish the second our lips meet.
