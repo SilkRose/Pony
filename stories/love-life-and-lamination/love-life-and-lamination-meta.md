@@ -13,6 +13,6 @@ Twilight is struggling to laminate her marriage certificate as it marks the loss
 
 
 ## Story:
-[Love, Loss, and Lamination](love-loss-and-lamination.md)
+[Love, Life, and Lamination](love-life-and-lamination.md)
 
 ## Cover:

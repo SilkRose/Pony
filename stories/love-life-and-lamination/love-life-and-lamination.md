@@ -1,4 +1,4 @@
-# Love, Loss, and Lamination
+# Love, Life, and Lamination
 
 I stand in front of a machine I know well. I've been here many times, used its features many times. But now, I was having trouble, now I couldn't do it.
 
