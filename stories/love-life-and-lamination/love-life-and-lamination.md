@@ -30,9 +30,7 @@ By the letter of Celestia, by the words of all my friends, by the vows of my wif
 
 With all that in mind, this should be easy, yet it wasn't. This should just be another task of documentation processing, but no, this was *lamination.*
 
-I love Rainbow Dash, and she loves me. So, why was this so hard? Lamination is just another step in the process of managing paperwork. Yet, this time was different.
-
-But what could it be?
+I love Rainbow Dash, and she loves me. So, why was this so hard?
 
 I've been with Rainbow for many years now. We've gone thought so much together, countless memories of the good times and the bad. We've learned so much about each other and about friendship. Being with her has changed my life for the better.
 
@@ -75,8 +73,45 @@ As I'm about to put the coffee holder back, I realize the machine has already st
 
 ***
 
+I quickly put the coffee holder back, only a little bit of water had made it into the pot.
 
+*Phew.*
 
+As I let the coffee make, I get out our favorite cups from the cabinet.
+
+*What were the measurements she used again?*
+
+*Something about a spoon, I think.*
+
+I get out a spoon and use it to scoop out sugar and cream into both our cups.
+
+I put six spoons in my cup of each and eight spoons in her cup of each.
+
+*That should be right.*
+
+I put the spoon down and watch the water dripping into the pot.
+
+*Why is there so much stuff floating in the coffee?*
+
+*It must dissolve when it's stirred, that's it.*
+
+It was at that moment, I realized the light is still off.
+
+*Oh, no. I hope it's fine to turn it on this late.*
+
+I flick the switch and wait for the coffee to be done.
+
+I carefully pour our two cups, stirring afterward.
+
+After I think I'm done, I look down at our cups and realize something is wrong.
+
+The coffee stuff was still floating at the top.
+
+*That can't be good.*
+
+*Maybe I need some help.*
+
+I sigh and trot defeated back to Twilight.
 
 ***
 
@@ -96,7 +131,7 @@ She turns to me and wraps me in a loving embrace. "I love you."
 
 I blush and wrap my hooves around her in turn. "I love you, too."
 
-We kiss as the machine toils away in the background. All my worries and cares about a past life seem to vanish the second our lips meet.
+We kiss as the machine toils away in the background. As we kiss, I realize how silly my worries were. All I needed was help from my best friend.
 
 We break the kiss and I ask, "Ready for some coffee?"
 
