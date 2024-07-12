@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Mane Magic Mysteries
+
+### Synopsis:
+Several ponies have tried to blow the whistle on the existence of mane magic. So far, none have survived.
+
+***
+
 ## Prosthetic Pony
 
 ### Synopsis:
