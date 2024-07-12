@@ -6,6 +6,12 @@ Twilight is struggling to laminate her marriage certificate, while Rainbow strug
 ## Description:
 Twilight is struggling to laminate her marriage certificate, while Rainbow struggles to make coffee. Maybe they just need each other to help out.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
+Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading, and for writing 1/5th of the story.
+
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for providing feedback and ideas.
+
 ## Short Description:
 Twilight is struggling to laminate her marriage certificate, while Rainbow struggles to make coffee. Maybe they just need each other to help out.
 
