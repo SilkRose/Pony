@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Thin White Sheet
+
+### Synopsis one:
+A romance story about two ponies who like each other. They are sharing a bed and the only thing separating them is a thin white sheet.
+
+### Synopsis two:
+A horror story about a pony hiding under a thin white sheet from a monster outside.
+
+***
+
 ## Mane Magic Mysteries
 
 ### Synopsis:
