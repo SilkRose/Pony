@@ -68,8 +68,49 @@ As I'm about to put the coffee holder back, I realize the machine has already st
 
 ***
 
+Start.
 
+Start.
 
+Start.
+
+Start, start, start!
+
+That single word runs over and over again through my mind… and I can do nothing.
+
+The laminator might as well have been a cockatrice for all I could do with it. I, I don't think even Fluttershy's stare could outdo, the staring contestant I found myself locked in with that start button.
+
+There was a cacophony of clattering in the kitten.  I was sure Rainbow Dash was alright… probably. 
+
+*Maybe I should go help her.*
+
+But I could not move.
+
+Start, start, start. 
+
+I loved her. And she loved me. So why was this so hard.
+
+Start, start, start.
+
+All I had to do was push the button, encase the record of our love in the eternal permanence of plastic laminate. Easy…
+ 
+Right…
+
+Start, Start, Start.
+
+*Just push the button Twi, just push the button.*
+
+Start, start, START!
+
+I was shaking, in near tears… I just needed to push the button. Just seal our fate, our future.
+
+I thought back to or wedding, and forward to the countless days we would have together.
+
+I wanted those days, I didn't want my time with her to end…
+
+Start start start.
+
+Even lamentation disintegrates eventually.
 
 ***
 
