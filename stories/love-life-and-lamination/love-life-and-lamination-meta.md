@@ -28,3 +28,4 @@ Twilight is struggling to laminate her marriage certificate, while Rainbow strug
 [Love, Life, and Lamination](love-life-and-lamination.md)
 
 ## Cover:
+![cover](./love-life-and-lamination-cover-upscaled.png)
