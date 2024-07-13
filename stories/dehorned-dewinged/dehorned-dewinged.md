@@ -1,4 +1,4 @@
-# Dewinged
+# Dehorned, Dewinged
 
 Pinkie Pie sat in shock as she stared at the page of the open book in front of her. She had been like this for several minutes, unable to move, to comprehend the words she just read.
 
@@ -42,7 +42,7 @@ Pinkie tried to make it stop, but she couldn't. The memories were unlocked, and 
 
 Before she could continue, more memories forced their way into her stream of thought.
 
-A heavy spell being cast on me, over and over.
+A heavy spell being cast on her, over and over.
 
 Being sedated but still awake.
 
@@ -72,7 +72,7 @@ The skin being peeled back.
 
 Her horn being ground down to nothing.
 
-A sander removing any trace of a horn ever existed.
+A sander removing any trace of a horn.
 
 Every last connection from the brain to the horn, cut.
 
