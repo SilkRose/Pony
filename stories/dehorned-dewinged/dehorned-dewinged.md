@@ -20,13 +20,13 @@ Pinkie couldn't believe it, but she couldn't stop reading.
 
 As Pinkie finished reading that page, a memory bored its way into her brain.
 
-She screamed in agony, clenching her head. The memory slowly tricked to her, she remembered it in tiny bits.
+She screamed in agony, clenching her head. The memories slowly trickled to her, she remembered them in flashes.
 
 A pink horn focused her chaotic nature.
 
 A pair of pink wings glided her though stale white walls.
 
-Brown straps being pulled tighter and tighter.
+Heavy leather straps being pulled tighter and tighter.
 
 A mechanical saw whirring at an idle.
 
@@ -43,4 +43,44 @@ Pinkie tried to make it stop, but she couldn't. The memories were unlocked, and 
 Before she could continue, more memories forced their way into her stream of thought.
 
 A heavy spell being cast on me, over and over.
+
+Being sedated but still awake.
+
+Wings pulled apart as the buzzing got closer and closer.
+
+Flesh tearing and bone crunching.
+
+Trying to scream but being unable to move.
+
+Wings twitching on the ground.
+
+Pinkie clenched her sides, her memory unlocking a hidden pain.
+
+She cried out from unrelenting pain, reliving every detail of her wings being detached.
+
+"No, no. This can't be real."
+
+The memories continued, unimpeded.
+
+A metal saw grinding against my skull.
+
+The most torturing headache ever experienced.
+
+Her skull being split open.
+
+The skin being peeled back.
+
+Her horn being ground down to nothing.
+
+A sander removing any trace of a horn ever existed.
+
+Every last connection from the brain to the horn, cut.
+
+Pinkie recoiled in pain, her head experiencing the pain from all that time ago.
+
+She screams a most horrific gut-wrenching wail.
+
+"Make it stop!"
+
+The pain only grew as she writhed on the floor.
 
