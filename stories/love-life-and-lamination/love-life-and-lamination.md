@@ -1,8 +1,8 @@
 # Love, Life, and Lamination
 
-Rainbow and I stand in front of our lamination machine.
+Rainbow Dash walks up next to me and looks down at the lamination machine.
 
-Rainbow asks, "What are you laminating, Twilight?"
+She asks, "What are you laminating, Twilight?"
 
 I answer, "Our marriage certificate."
 
@@ -14,9 +14,9 @@ She hugs back. "I love you."
 
 "I love you, too!"
 
-After the hug, Rainbow left the room, and it was just me, the marriage certificate, and the lamination machine now.
+After the hug, Rainbow leaves the room, and it's just me, the marriage certificate, and the lamination machine.
 
-I place the certificate neatly onto the input tray.
+I place the certificate neatly into the input tray.
 
 *Okay, Twilight, this is it.*
 
@@ -24,25 +24,25 @@ I go to press the start button, and just can't.
 
 *Come on, Twilight, you can do it.*
 
-I try again, and can't press it.
+I try again, but can't press it.
 
 By the letter of Celestia, by the words of all my friends, by the vows of my wife, I was married.
 
-With all that in mind, this should be easy, yet it wasn't. This should just be another task of documentation processing, but no, this was *lamination.*
+With all that in mind this should be easy, yet it wasn't. This should just be another task of documentation processing, but no, this was *lamination.*
 
-I love Rainbow Dash, and she loves me. So, why was this so hard?
+I love Rainbow Dash, and she loves me. So why was this so hard?
 
-I've been with Rainbow for many years now. We've gone thought so much together, countless memories of the good times and the bad. We've learned so much about each other and about friendship. Being with her has changed my life for the better.
+I've been with Rainbow for many years now. We've gone through so much together, countless memories of the good times and the bad. We've learned so much about each other and about friendship. Being with her has changed my life for the better.
 
 So, there is no way it could be Rainbow Dash.
 
 *What does laminating this marriage certificate change?*
 
-Realistically, nothing. For me, though, it marked a significant change in my life. It marked the end of the previous chapter and the start of the next. But why was that so scary?
+Realistically, nothing. For me, though, it marked a significant change in my life. It marked the end of the previous chapter and the start of the next. Why was that so scary?
 
 ***
 
-I leave Twilight to go make our coffee.
+I leave Twilight to go make coffee.
 
 Twilight normally makes our coffee, but I've watched her do it hundreds of times, so I have to know how to do it by now, right?
 
@@ -52,15 +52,15 @@ I get to the machine and immediately realize I have no idea what I'm doing.
 
 I use the pot and fill it up with water, before pouring said water into the water reservoir on the back of the coffee machine.
 
-*That was easy, maybe I learned more from Twilight than I thought.*
+*That was easy, maybe I've learned more from Twilight than I thought.*
 
-Okay, next is, uh, the coffee, yea.
+Okay, next is, uh, the coffee, yeah.
 
 I place the pot back on the burner and pull out the coffee holder thing.
 
-I thought the inside part of the holder was supposed to be white, but it was just black plastic. I must be misremembering.
+I thought the inside part of the holder was supposed to be white, but it's just black plastic. I must be misremembering.
 
-I get out the coffee and scoop out two lots of coffee.
+I get the coffee out and scoop out two lots of coffee.
 
 As I'm about to put the coffee holder back, I realize the machine has already started dripping water into the pot.
 
@@ -78,39 +78,39 @@ Start, start, start!
 
 That single word runs over and over again through my mind… and I can do nothing.
 
-The laminator might as well have been a cockatrice for all I could do with it. I, I don't think even Fluttershy's stare could outdo, the staring contestant I found myself locked in with that start button.
+The laminator might as well be a cockatrice for all I can do with it. I don't think even Fluttershy's stare could outdo the staring contest I find myself locked in with that start button.
 
-There was a cacophony of clattering in the kitten.  I was sure Rainbow Dash was alright… probably. 
+There's a cacophony of clattering in the kitten. I'm sure Rainbow Dash was alright… probably. 
 
 *Maybe I should go help her.*
 
-But I could not move.
+But I can't move.
 
 Start, start, start. 
 
-I loved her. And she loved me. So why was this so hard.
+I love her. And she loves me. So why is this so hard?
 
 Start, start, start.
 
 All I had to do was push the button, encase the record of our love in the eternal permanence of plastic laminate. Easy…
  
-Right…
+Right?
 
-Start, Start, Start.
+Start. Start. Start.
 
-*Just push the button Twi, just push the button.*
+*Just push the button Twi, just push the button!*
 
 Start, start, START!
 
-I was shaking, in near tears… I just needed to push the button. Just seal our fate, our future.
+I'm shaking, nearly in tears. I just need to push the button. Just seal our fate, our future.
 
-I thought back to or wedding, and forward to the countless days we would have together.
+I think back to our wedding, and forward to the countless days we would have together.
 
-I wanted those days, I didn't want my time with her to end…
+I want those days! I don't want my time with her to end!
 
 Start start start.
 
-Even lamentation disintegrates eventually.
+Even lamination disintegrates eventually...
 
 ***
 
@@ -118,7 +118,7 @@ I quickly put the coffee holder back, only a little bit of water had made it int
 
 *Phew.*
 
-As I let the coffee make, I get out our favorite cups from the cabinet.
+As I let the coffee maker run, I get out our favorite cups out from the cabinet.
 
 *What were the measurements she used again?*
 
@@ -126,7 +126,7 @@ As I let the coffee make, I get out our favorite cups from the cabinet.
 
 I get out a spoon and use it to scoop out sugar and cream into both our cups.
 
-I put six spoons in my cup of each and eight spoons in her cup of each.
+I put six spoons of each in my cup and eight spoons of each in her cup.
 
 *That should be right.*
 
@@ -136,11 +136,11 @@ I put the spoon down and watch the water dripping into the pot.
 
 *It must dissolve when it's stirred, that's it.*
 
-It was at that moment, I realized the light is still off.
+It's at that moment that I realize the light is still off.
 
 *Oh, no. I hope it's fine to turn it on this late.*
 
-I flick the switch and wait for the coffee to be done.
+I flick the switch and wait for the coffee to finish.
 
 I carefully pour our two cups, stirring afterward.
 
@@ -152,7 +152,7 @@ The coffee stuff was still floating at the top.
 
 *Maybe I need some help.*
 
-I sigh and trot defeated back to Twilight.
+I sigh in defeat and trot back to Twilight.
 
 ***
 
