@@ -110,7 +110,7 @@ I want those days! I don't want my time with her to end!
 
 Start start start.
 
-Even lamination disintegrates eventually...
+Even lamination disintegrates eventually…
 
 ***
 
