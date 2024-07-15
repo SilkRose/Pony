@@ -1,4 +1,4 @@
-use super::stderr::{print_error, ErrColor};
+use crate::stderr::{print_error, ErrColor};
 use markdown::mdast::{
 	BlockQuote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,

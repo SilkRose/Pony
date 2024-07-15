@@ -1,6 +1,6 @@
 use camino::Utf8Path;
 use pony::fs::find_files_in_dir;
-use pony::md_to_bbcode::{parse, WarningType};
+use pony::markdown::md_to_bbcode::{parse, WarningType};
 use pony::regex::matches;
 use regex::Regex;
 use std::error::Error;
