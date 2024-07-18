@@ -89,3 +89,4 @@ This file contains random story names that don't have enough thought to have the
 - Hooficure, Hoofisymptom
 - Cute, Pretty, and Powerful
 - First Kiss, Last Blush
+- Numbers Game
