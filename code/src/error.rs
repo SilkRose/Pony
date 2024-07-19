@@ -18,6 +18,8 @@ enum ErrorInner {
 	String(#[from] std::string::FromUtf8Error),
 	#[error(transparent)]
 	Str(#[from] std::str::Utf8Error),
+	#[error(transparent)]
+	Time(#[from] std::time::SystemTimeError),
 }
 
 impl<T: Into<ErrorInner>> From<T> for Error {
