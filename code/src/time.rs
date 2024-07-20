@@ -6,7 +6,7 @@ use std::time::{Duration, SystemTime, UNIX_EPOCH};
 pub struct TimeUnit {
 	pub single: &'static str,
 	pub multiple: &'static str,
-	pub milliseconds_in_unit: u128,
+	pub milliseconds: u128,
 }
 
 pub fn sleep(start_time: u128, interval: u128) -> Result<()> {
@@ -28,57 +28,57 @@ pub fn format_milliseconds(ms: u128, max_units: Option<u8>) -> Result<String> {
 		TimeUnit {
 			single: "millisecond",
 			multiple: "milliseconds",
-			milliseconds_in_unit: 1,
+			milliseconds: 1,
 		},
 		TimeUnit {
 			single: "second",
 			multiple: "seconds",
-			milliseconds_in_unit: 1_000,
+			milliseconds: 1_000,
 		},
 		TimeUnit {
 			single: "minute",
 			multiple: "minutes",
-			milliseconds_in_unit: 60_000,
+			milliseconds: 60_000,
 		},
 		TimeUnit {
 			single: "hour",
 			multiple: "hours",
-			milliseconds_in_unit: 3_600_000,
+			milliseconds: 3_600_000,
 		},
 		TimeUnit {
 			single: "day",
 			multiple: "days",
-			milliseconds_in_unit: 86_400_000,
+			milliseconds: 86_400_000,
 		},
 		TimeUnit {
 			single: "week",
 			multiple: "weeks",
-			milliseconds_in_unit: 604_800_000,
+			milliseconds: 604_800_000,
 		},
 		TimeUnit {
 			single: "month",
 			multiple: "months",
-			milliseconds_in_unit: 2_629_746_000,
+			milliseconds: 2_629_746_000,
 		},
 		TimeUnit {
 			single: "year",
 			multiple: "years",
-			milliseconds_in_unit: 31_556_952_000,
+			milliseconds: 31_556_952_000,
 		},
 		TimeUnit {
 			single: "decade",
 			multiple: "decades",
-			milliseconds_in_unit: 315_569_520_000,
+			milliseconds: 315_569_520_000,
 		},
 		TimeUnit {
 			single: "century",
 			multiple: "centuries",
-			milliseconds_in_unit: 3_155_695_200_000,
+			milliseconds: 3_155_695_200_000,
 		},
 		TimeUnit {
 			single: "millennium",
 			multiple: "millennia",
-			milliseconds_in_unit: 31_556_952_000_000,
+			milliseconds: 31_556_952_000_000,
 		},
 	];
 	let mut ms = ms;
@@ -86,16 +86,16 @@ pub fn format_milliseconds(ms: u128, max_units: Option<u8>) -> Result<String> {
 		.iter()
 		.rev()
 		.filter_map(|unit| {
-			if ms > unit.milliseconds_in_unit {
-				ms %= unit.milliseconds_in_unit;
-				let count = ms / unit.milliseconds_in_unit;
+			if ms > unit.milliseconds {
+				let count = ms / unit.milliseconds;
+				ms %= unit.milliseconds;
 				let name = if count == 1 {
 					unit.single
 				} else {
 					unit.multiple
 				};
 				let count = if count >= 1000 {
-					format_number_u128(count).unwrap()
+					format_number_u128(count).unwrap_or(count.to_string())
 				} else {
 					count.to_string()
 				};
@@ -106,7 +106,7 @@ pub fn format_milliseconds(ms: u128, max_units: Option<u8>) -> Result<String> {
 		})
 		.collect::<Vec<String>>();
 	if let Some(max_units) = max_units {
-		times = times.into_iter().take(max_units.into()).collect();
+		times.truncate(max_units as usize);
 	}
 	let time = match times.len() {
 		2 => format!("{} and {}", times[0], times[1]),
