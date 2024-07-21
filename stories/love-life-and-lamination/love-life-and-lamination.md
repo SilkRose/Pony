@@ -28,9 +28,9 @@ I try again, but can't press it.
 
 By the letter of Celestia, by the words of all my friends, by the vows of my wife, I was married.
 
-With all that in mind this should be easy, yet it wasn't. This should just be another task of documentation processing, but no, this was *lamination.*
+With all that in mind this should be easy, yet it isn't. This should just be another task of documentation processing, but no, this is *lamination.*
 
-I love Rainbow Dash, and she loves me. So why was this so hard?
+I love Rainbow Dash, and she loves me. So why is this so hard?
 
 I've been with Rainbow for many years now. We've gone through so much together, countless memories of the good times and the bad. We've learned so much about each other and about friendship. Being with her has changed my life for the better.
 
@@ -38,7 +38,7 @@ So, there is no way it could be Rainbow Dash.
 
 *What does laminating this marriage certificate change?*
 
-Realistically, nothing. For me, though, it marked a significant change in my life. It marked the end of the previous chapter and the start of the next. Why was that so scary?
+Realistically, nothing. For me, though, it marks a significant change in my life. It marks the end of the previous chapter and the start of the next. Why is that so scary?
 
 ***
 
@@ -92,7 +92,7 @@ I love her. And she loves me. So why is this so hard?
 
 Start, start, start.
 
-All I had to do was push the button, encase the record of our love in the eternal permanence of plastic laminate. Easy…
+All I have to do is push the button, encase the record of our love in the eternal permanence of plastic laminate. Easy…
  
 Right?
 
