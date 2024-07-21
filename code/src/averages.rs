@@ -1,41 +1,49 @@
 use std::collections::VecDeque;
 
 #[derive(Debug, Clone)]
-pub struct SimpleMovingAverage {
-	pub data: VecDeque<f64>,
+pub struct SimpleMovingAverage<T> {
+	pub data: VecDeque<T>,
 	pub window_size: usize,
 }
 
-impl SimpleMovingAverage {
-	pub fn new(window_size: usize) -> SimpleMovingAverage {
-		SimpleMovingAverage {
-			data: VecDeque::with_capacity(window_size),
-			window_size,
-		}
-	}
+macro_rules! simple_moving_average {
+	($($T:ty),+ $(,)?) => {
+		$(impl SimpleMovingAverage<$T> {
+			pub fn new(window_size: usize) -> SimpleMovingAverage<$T> {
+				SimpleMovingAverage {
+					data: VecDeque::with_capacity(window_size),
+					window_size,
+				}
+			}
 
-	pub fn insert(&mut self, value: f64) {
-		while self.data.len() >= self.window_size {
-			self.data.pop_front();
-		}
-		self.data.push_back(value)
-	}
+			pub fn insert(&mut self, value: $T) {
+				while self.data.len() >= self.window_size {
+					self.data.pop_front();
+				}
+				self.data.push_back(value)
+			}
 
-	pub fn average(&self) -> Option<f64> {
-		if !self.data.is_empty() {
-			Some(self.data.iter().sum::<f64>() / self.data.len() as f64)
-		} else {
-			None
-		}
-	}
+			pub fn average(&self) -> Option<$T> {
+				if !self.data.is_empty() {
+					Some(self.data.iter().sum::<$T>() / self.data.len() as $T)
+				} else {
+					None
+				}
+			}
+		})+
+	};
 }
+
+simple_moving_average!(f32, f64);
+simple_moving_average!(u8, u16, u32, u64, u128, usize);
+simple_moving_average!(i8, i16, i32, i64, i128, isize);
 
 #[cfg(test)]
 mod tests {
 	use super::*;
 	#[test]
 	fn simple_moving_average() {
-		let mut sma = SimpleMovingAverage::new(2);
+		let mut sma = SimpleMovingAverage::<f64>::new(2);
 		sma.insert(2.0);
 		sma.insert(2.0);
 		assert_eq!(Some(2.0), sma.average())
