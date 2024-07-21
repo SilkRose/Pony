@@ -54,7 +54,7 @@ I use the pot and fill it up with water, before pouring said water into the wate
 
 *That was easy, maybe I've learned more from Twilight than I thought.*
 
-Okay, next is, uh, the coffee, yeah.
+Okay, next is, uh, coffee, yeah.
 
 I place the pot back on the burner and pull out the coffee holder thing.
 
@@ -98,7 +98,7 @@ Right?
 
 Start. Start. Start.
 
-*Just push the button Twi, just push the button!*
+*Just push the button Twi, just press it!*
 
 Start, start, START!
 
@@ -142,6 +142,8 @@ It's at that moment that I realize the light is still off.
 
 I flick the switch and wait for the coffee to finish.
 
+*I hope Twilight is alright, she's taking a while.*
+
 I carefully pour our two cups, stirring afterward.
 
 After I think I'm done, I look down at our cups and realize something is wrong.
@@ -156,9 +158,9 @@ I sigh in defeat and trot back to Twilight.
 
 ***
 
-I decide to get some help from Rainbow, but before I can call for her, I hear somepony trotting towards me. I look and see Rainbow Dash.
+I decide to get some help, but before I can call for Rainbow, I hear somepony trotting towards me. I look and see Rainbow.
 
-Rainbow gets to me and says, "I'm having some trouble with the coffee machine, do you think you could help?"
+Rainbow gets to me. "I'm having some trouble with the coffee machine, do you think you could help?"
 
 "Sure, but could you help me real quick, first?"
 
@@ -166,14 +168,18 @@ She smiles at me. "Sure."
 
 "Just press the start button for me."
 
+"You okay, Twi?"
+
+I smile at her. "Yes."
+
 Rainbow presses the start button and the machine whirs to life.
 
 She turns to me and wraps me in a loving embrace. "I love you."
 
 I blush and wrap my hooves around her in turn. "I love you, too."
 
-We kiss as the machine toils away in the background. As we kiss, I realize how silly my worries were. All I needed was help from my best friend.
+We kiss as the machine toils away in the background. I realize how silly my worries were. All I needed was help from my best friend.
 
-We break the kiss and I ask, "Ready for some coffee?"
+We break the kiss and I ask, "Want some help?"
 
-"Absolutely."
+"Definitely."
