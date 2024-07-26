@@ -76,7 +76,7 @@ A sander removing any trace of a horn.
 
 Every last connection from the brain to the horn, cut.
 
-Pinkie recoiled in pain, her head experiencing the pain from all that time ago.
+Pinkie recoils in pain, her head experiencing the pain from all that time ago.
 
 She screams a most horrific gut-wrenching wail.
 
