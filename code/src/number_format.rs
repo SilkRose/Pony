@@ -95,3 +95,31 @@ pub fn format_number_unit_i128(
 		units.last().unwrap()
 	))
 }
+
+pub enum FormatType {
+	MetricPrefix,
+	ShortScaleName,
+}
+
+pub fn format_number_unit_metric(
+	number: f64, format: FormatType, decimal_places: usize,
+) -> Result<String> {
+	let metrix_prefixes = ["K", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+	let short_scale_names = [
+		"thousand",
+		"million",
+		"billion",
+		"trillion",
+		"quadrillion",
+		"quintillion",
+		"sextillion",
+		"septillion",
+		"octillion",
+		"nonillion",
+	];
+	let (units, spaced) = match format {
+		FormatType::MetricPrefix => (metrix_prefixes, false),
+		FormatType::ShortScaleName => (short_scale_names, true),
+	};
+	format_number_unit_f64(number, 1000.0, &units, decimal_places, spaced)
+}
