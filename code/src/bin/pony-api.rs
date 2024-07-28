@@ -1,5 +1,5 @@
 use indoc::printdoc;
-use pony::bytes::format_size_bytes;
+use pony::bytes::{format_size_bytes, FormatType};
 use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{format_json, JsonFormat};
@@ -425,7 +425,7 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 		flash_fiction: format_number_u128(stats.flash_fiction.try_into()?)?,
 		ideas: format_number_u128(stats.ideas.try_into()?)?,
 		names: format_number_u128(stats.names.try_into()?)?,
-		size: format_size_bytes(stats.size as f64)?,
+		size: format_size_bytes(stats.size as f64, FormatType::Abbreviation)?,
 		stories: format_number_u128(stats.stories.try_into()?)?,
 		words: format_number_u128(stats.words.try_into()?)?,
 	})
