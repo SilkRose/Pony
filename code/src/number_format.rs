@@ -41,3 +41,57 @@ fn format_number(number: String) -> Result<String> {
 		.collect::<Result<Vec<&str>, _>>()?
 		.join(","))
 }
+
+pub fn format_number_unit_f64(
+	number: f64, divisor: f64, units: &[&str], decimal_places: usize, spaced: bool,
+) -> Result<String> {
+	let spaced = if spaced { " " } else { "" };
+	let mut current = number;
+	for unit in units.iter() {
+		if current < divisor {
+			return Ok(format!("{:.1$}{spaced}{unit}", current, decimal_places));
+		}
+		current /= divisor;
+	}
+	Ok(format!(
+		"{}{spaced}{}",
+		format_number_f64(current, decimal_places)?,
+		units.last().unwrap()
+	))
+}
+
+pub fn format_number_unit_u128(
+	number: u128, divisor: u128, units: &[&str], spaced: bool,
+) -> Result<String> {
+	let spaced = if spaced { " " } else { "" };
+	let mut current = number;
+	for unit in units.iter() {
+		if current < divisor {
+			return Ok(format!("{current}{spaced}{unit}"));
+		}
+		current /= divisor;
+	}
+	Ok(format!(
+		"{}{spaced}{}",
+		format_number_u128(current)?,
+		units.last().unwrap()
+	))
+}
+
+pub fn format_number_unit_i128(
+	number: i128, divisor: i128, units: &[&str], spaced: bool,
+) -> Result<String> {
+	let spaced = if spaced { " " } else { "" };
+	let mut current = number;
+	for unit in units.iter() {
+		if current < divisor {
+			return Ok(format!("{current}{spaced}{unit}"));
+		}
+		current /= divisor;
+	}
+	Ok(format!(
+		"{}{spaced}{}",
+		format_number_i128(current)?,
+		units.last().unwrap()
+	))
+}

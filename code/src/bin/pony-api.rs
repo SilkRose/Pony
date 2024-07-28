@@ -425,7 +425,7 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 		flash_fiction: format_number_u128(stats.flash_fiction.try_into()?)?,
 		ideas: format_number_u128(stats.ideas.try_into()?)?,
 		names: format_number_u128(stats.names.try_into()?)?,
-		size: format_size_bytes(stats.size)?,
+		size: format_size_bytes(stats.size as f64)?,
 		stories: format_number_u128(stats.stories.try_into()?)?,
 		words: format_number_u128(stats.words.try_into()?)?,
 	})
