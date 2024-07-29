@@ -57,13 +57,8 @@ jobs:
             - name: Move binary
               run: mv ./cache/pony-api .
 
-            - name: Rebuild JSON
-              run: ./pony-api --rebuild
-              if: ${{ steps.check-hashes.outputs.rebuild == 'true' }}
-
-            - name: Patch JSON
+            - name: Generate JSON
               run: ./pony-api
-              if: ${{ steps.check-hashes.outputs.rebuild != 'true' }}
 
             - name: Deploy API
               run: |
