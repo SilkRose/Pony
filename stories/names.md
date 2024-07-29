@@ -90,3 +90,4 @@ This file contains random story names that don't have enough thought to have the
 - Cute, Pretty, and Powerful
 - First Kiss, Last Blush
 - Numbers Game
+- System Fun Thinking
