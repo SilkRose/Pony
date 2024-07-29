@@ -1,6 +1,6 @@
+use git2::{build, Repository, ResetType};
 use indoc::printdoc;
 use pony::bytes::{format_size_bytes, FormatType};
-use pony::command::{execute_command, execute_command_with_return};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{format_json, JsonFormat};
 use pony::number_format::format_number_u128;
@@ -44,22 +44,17 @@ fn main() -> Result<(), Box<dyn Error>> {
 	parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
-	let repo = "https://github.com/SilkRose/Pony.git";
-	let dist_cmd = format!("git clone --quiet --branch api {repo} {dist_temp}");
-	let pony_cmd = format!("git clone --quiet --branch mane {repo} {pony_temp}");
-	setup_branch(dist_temp, &dist_cmd, "api")?;
-	setup_branch(pony_temp, &pony_cmd, "mane")?;
+	let git_url = "https://github.com/SilkRose/Pony.git";
+	let repo = setup_branch(pony_temp, git_url, "mane")?;
+	setup_branch(dist_temp, git_url, "api")?;
 	fs::File::create("./dist/.nojekyll")?;
 	fs::File::create("./dist/CNAME")?.write_all(b"pony.silkrose.dev")?;
 	env::set_current_dir(Path::new(pony_temp))?;
-	let commits = execute_command_with_return("git log mane --format=\"%H%n%ct%n%at%n%s%n\"")?;
-	let binding = String::from_utf8_lossy(&commits.stdout);
-	let text = binding.trim();
-	let index = text.split("\n\n").collect::<Vec<_>>().len() - 1;
+	let commits = count_commits(repo)?;
 	let files = find_files_in_dir("./", true)?;
 	let dirs = find_dirs_in_dir("./", true)?;
 	let text = story_words(&files)?;
-	let stats = commit_stats(index, &files, &dirs, &text)?;
+	let stats = commit_stats(commits, &files, &dirs, &text)?;
 	let pony = pony_stats(&stats)?;
 	fs::File::create("../dist/api/v1/pony.json")?
 		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
@@ -67,6 +62,14 @@ fn main() -> Result<(), Box<dyn Error>> {
 	fs::File::create("../dist/api/v1/characters.json")?
 		.write_all(format_json(&characters, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
+}
+
+fn count_commits(repo: Repository) -> Result<usize, Box<dyn Error>> {
+	let head = repo.head()?;
+	let head_commit = head.peel_to_commit()?;
+	let mut revwalk = repo.revwalk()?;
+	revwalk.push(head_commit.id())?;
+	Ok(revwalk.count())
 }
 
 fn parse_argument(args: &[String]) {
@@ -103,10 +106,8 @@ fn print_help() {
 
 		Usage Examples:
 		  pony-api
-		  pony-api --rebuild
 
 		Options:
-		  -r, --rebuild      Rebuild the pony-commits.json file
 		  -h,  --help        Print help
 		  -v,  --version     Print version\n",
 		env!("CARGO_BIN_NAME"),
@@ -114,22 +115,28 @@ fn print_help() {
 	}
 }
 
-fn setup_branch(dir: &str, cmd: &str, branch: &str) -> Result<(), Box<dyn Error>> {
-	if Path::new(dir).exists() {
-		let status = execute_command(&format!(
-			"cd {dir} && git fetch --quiet && git reset --quiet --hard origin/{branch} && git pull --quiet"
-		))?;
-		if !status.success() {
-			fs::remove_dir_all(dir)?
-		} else {
-			return Ok(());
-		};
+fn setup_branch(dir: &str, repo_path: &str, branch: &str) -> Result<Repository, Box<dyn Error>> {
+	let repo = match Repository::open(dir) {
+		Ok(repo) => {
+			let mut remote = repo.find_remote("origin")?;
+			remote.fetch(&[branch], None, None)?;
+			let refname = format!("refs/remotes/origin/{}", branch);
+			let object = repo.revparse_single(&refname)?;
+			repo.reset(&object, ResetType::Hard, None)?;
+			drop(remote);
+			drop(object);
+			repo
+		}
+		Err(_) => {
+			if Path::new(dir).exists() {
+				fs::remove_dir_all(dir)?;
+			}
+			let mut repo = build::RepoBuilder::new();
+			repo.branch(branch);
+			repo.clone(repo_path, Path::new(dir))?
+		}
 	};
-	let status = execute_command(cmd)?;
-	if !status.success() {
-		return Err(format!("Failed to execute command: {cmd}").into());
-	};
-	Ok(())
+	Ok(repo)
 }
 
 fn count_blogs(files: &[String]) -> Result<usize, Box<dyn Error>> {
@@ -252,12 +259,12 @@ fn story_words(files: &[String]) -> Result<String, Box<dyn Error>> {
 }
 
 fn commit_stats(
-	index: usize, files: &[String], dirs: &[String], text: &str,
+	commits: usize, files: &[String], dirs: &[String], text: &str,
 ) -> Result<Stats<usize>, Box<dyn Error>> {
 	Ok(Stats {
 		blogs: count_blogs(files)?,
 		code: count_code(files)?,
-		commits: index + 1,
+		commits,
 		covers: count_covers(files)?,
 		flash_fiction: count_flash_fiction(files)?,
 		ideas: count_specified_lines(files, "ideas", "## ")?,

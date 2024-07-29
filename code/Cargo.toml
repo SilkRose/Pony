@@ -17,6 +17,7 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 atty = { version = "0.2.14" }
 camino = { version = "1.1.7" }
+git2 = { version = "0.19.0" }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.18" }
 regex = { version = "1.10.5" }
@@ -28,10 +29,7 @@ thiserror = { version = "1.0.63" }
 [workspace.dependencies]
 
 [workspace]
-members = [
-	"packages/fanfic",
-	"packages/fanfic-macros"
-]
+members = ["packages/fanfic", "packages/fanfic-macros"]
 
 [profile.dev]
 opt-level = 0
