@@ -6,7 +6,7 @@ use pony::json::{format_json, JsonFormat};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::stderr::{print_error, ErrColor};
-use pony::traits::{BasicVector, OrderedVector};
+use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
 use serde::{Deserialize, Serialize};
@@ -15,20 +15,6 @@ use std::io::{Read, Write};
 use std::path::{Path, MAIN_SEPARATOR};
 use std::process::exit;
 use std::{env, fs};
-
-#[derive(Debug, Deserialize, Clone, Serialize)]
-struct Commit {
-	hash: String,
-	commit_unix_time: usize,
-	author_unix_time: usize,
-	subject: String,
-	#[serde(skip_serializing_if = "Option::is_none")]
-	body: Option<String>,
-	stats: Stats<usize>,
-	chars: Characters,
-	files: Vec<Files>,
-	keywords: Vec<String>,
-}
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
 struct Stats<T> {
@@ -54,25 +40,8 @@ struct Characters {
 	twilight_sparkle: usize,
 }
 
-#[derive(Debug, Deserialize, Clone, Serialize)]
-struct Files {
-	name: String,
-	lines_added: usize,
-	lines_removed: usize,
-	change_type: Type,
-}
-
-#[derive(Debug, Deserialize, Clone, Serialize)]
-enum Type {
-	Merge,
-	Modified,
-	Added,
-	Deleted,
-	Renamed(u8, String),
-}
-
 fn main() -> Result<(), Box<dyn Error>> {
-	let mut rebuild = parse_argument(&env::args().skip(1).collect::<Vec<_>>());
+	parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let repo = "https://github.com/SilkRose/Pony.git";
@@ -86,27 +55,23 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let commits = execute_command_with_return("git log mane --format=\"%H%n%ct%n%at%n%s%n\"")?;
 	let binding = String::from_utf8_lossy(&commits.stdout);
 	let text = binding.trim();
-	let text = text.split("\n\n").collect::<Vec<_>>().reverse_vec();
-	let json_path = "../dist/api/v1/pony-commits.json";
-	let pony_commits_json: Option<Vec<Commit>> = if Path::new(json_path).is_file() && !rebuild {
-		let commits: Vec<Commit> = serde_json::from_str(&fs::read_to_string(json_path)?)?;
-		Some(commits.reverse_vec())
-	} else {
-		rebuild = true;
-		None
-	};
-	let pony_commits = pony_commit_stats(text, rebuild, pony_commits_json)?;
-	fs::File::create("../dist/api/v1/pony-commits.json")?
-		.write_all(format_json(&pony_commits, JsonFormat::Tab)?.as_bytes())?;
-	let pony = pony_stats(&pony_commits.first().unwrap().stats)?;
+	let index = text.split("\n\n").collect::<Vec<_>>().len() - 1;
+	let files = find_files_in_dir("./", true)?;
+	let dirs = find_dirs_in_dir("./", true)?;
+	let text = story_words(&files)?;
+	let stats = commit_stats(index, &files, &dirs, &text)?;
+	let pony = pony_stats(&stats)?;
 	fs::File::create("../dist/api/v1/pony.json")?
 		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
+	let characters = character_stats(&text)?;
+	fs::File::create("../dist/api/v1/characters.json")?
+		.write_all(format_json(&characters, JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
 }
 
-fn parse_argument(args: &[String]) -> bool {
+fn parse_argument(args: &[String]) {
 	if args.is_empty() {
-		return false;
+		return;
 	}
 	if args.len() > 1 {
 		print_error("Too many arguments provided!", ErrColor::Red);
@@ -114,7 +79,6 @@ fn parse_argument(args: &[String]) -> bool {
 		exit(1);
 	}
 	match args.first().unwrap().as_str() {
-		"-r" | "--rebuild" => true,
 		"-h" | "--help" => {
 			print_help();
 			exit(0);
@@ -287,55 +251,6 @@ fn story_words(files: &[String]) -> Result<String, Box<dyn Error>> {
 	Ok(text)
 }
 
-fn pony_commit_stats(
-	text: Vec<&str>, rebuild: bool, pony_commits_json: Option<Vec<Commit>>,
-) -> Result<Vec<Commit>, Box<dyn Error>> {
-	let mut pony_commits: Vec<Commit> = Vec::with_capacity(text.len());
-	for (index, commit) in text.iter().enumerate() {
-		let log = commit.split('\n').collect::<Vec<_>>();
-		let hash = log[0].to_string();
-		if let Some(ref commits) = pony_commits_json {
-			if !rebuild && commits.get(index).is_some() && hash == commits.get(index).unwrap().hash
-			{
-				pony_commits.push(commits.get(index).unwrap().clone());
-				continue;
-			}
-		}
-		let commit_unix_time = log[1].parse::<usize>()?;
-		let author_unix_time = log[2].parse::<usize>()?;
-		let subject = log[3].to_string();
-		let body_cmd = format!("git show --pretty=\"%b\" --no-patch {hash}");
-		let body = execute_command_with_return(&body_cmd)?;
-		let body_string = String::from_utf8_lossy(&body.stdout);
-		let body_string = body_string.trim();
-		let body = match body_string.is_empty() {
-			true => None,
-			false => Some(body_string.to_string()),
-		};
-		execute_command(&format!("git checkout --quiet {hash}"))?;
-		let files = find_files_in_dir("./", true)?;
-		let dirs = find_dirs_in_dir("./", true)?;
-		let text = story_words(&files)?;
-		let stats = commit_stats(index, &files, &dirs, &text)?;
-		let chars = character_stats(&text)?;
-		let file_changes = file_changes(&hash)?;
-		let keywords = keywords(&file_changes)?;
-		let commit_data = Commit {
-			hash,
-			commit_unix_time,
-			author_unix_time,
-			subject,
-			body,
-			stats,
-			chars,
-			files: file_changes,
-			keywords,
-		};
-		pony_commits.push(commit_data);
-	}
-	Ok(pony_commits.reverse_vec())
-}
-
 fn commit_stats(
 	index: usize, files: &[String], dirs: &[String], text: &str,
 ) -> Result<Stats<usize>, Box<dyn Error>> {
@@ -364,58 +279,6 @@ fn character_stats(text: &str) -> Result<Characters, Box<dyn Error>> {
 	})
 }
 
-fn file_changes(hash: &str) -> Result<Vec<Files>, Box<dyn Error>> {
-	let num_stats = execute_command_with_return(&format!(
-		"git show --pretty=\"\" --numstat {hash} | sed 's/\\s\\+/ /'",
-	))?;
-	let binding = String::from_utf8_lossy(&num_stats.stdout);
-	let text = binding.trim();
-	let num_stats = text.split('\n').collect::<Vec<_>>();
-	let name_status = execute_command_with_return(&format!(
-		"git show --pretty=\"\" --name-status {hash} | sed 's/\\s\\+/ /'",
-	))?;
-	let binding = String::from_utf8_lossy(&name_status.stdout);
-	let text = binding.trim();
-	let name_status = text.split('\n').collect::<Vec<_>>();
-	if num_stats.len() != name_status.len() {
-		panic!("git show command output different lenght data!")
-	}
-	let stats = num_stats
-		.iter()
-		.zip(name_status)
-		.map(|(num_stats, name_status)| {
-			let num_stats = num_stats.split_whitespace().collect::<Vec<_>>();
-			let name_status = name_status.split_whitespace().collect::<Vec<_>>();
-			let lines_added = num_stats.first().unwrap().parse::<usize>().unwrap_or(0);
-			let lines_removed = num_stats.get(1).unwrap().parse::<usize>().unwrap_or(0);
-			let change_type_char = name_status.first().unwrap_or(&"C").chars().next().unwrap();
-			let name = name_status
-				.get(1)
-				.unwrap_or(num_stats.last().unwrap())
-				.to_string();
-			let change_type = match change_type_char {
-				'C' => Type::Merge,
-				'A' => Type::Added,
-				'D' => Type::Deleted,
-				'M' => Type::Modified,
-				'R' => {
-					let new_name = name_status.last().unwrap().to_string();
-					let percentage = name_status.first().unwrap()[1..].parse::<u8>().unwrap();
-					Type::Renamed(percentage, new_name)
-				}
-				_ => panic!("Encountered wrong letter in git output!"),
-			};
-			Files {
-				name,
-				lines_added,
-				lines_removed,
-				change_type,
-			}
-		})
-		.collect::<Vec<Files>>();
-	Ok(stats)
-}
-
 fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 	Ok(Stats {
 		blogs: format_number_u128(stats.blogs.try_into()?)?,
@@ -429,166 +292,4 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 		stories: format_number_u128(stats.stories.try_into()?)?,
 		words: format_number_u128(stats.words.try_into()?)?,
 	})
-}
-
-fn keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
-	let mut keywords = vec![];
-	// Special cases:
-	// writing, proofreading
-	// coding, refactoring
-	let words = [
-		("story", Some(Regex::new(r"stories")?), None),
-		("cover", Some(Regex::new(r"cover")?), None),
-		(
-			"code",
-			Some(Regex::new(r"(code|.*\.(sh|py|ts|gp|rs)$)")?),
-			None,
-		),
-		("meta", Some(Regex::new(r"meta\.md$")?), None),
-		("ponies", Some(Regex::new(r"ponies")?), None),
-		("blog", Some(Regex::new(r"blog.*\.md$")?), None),
-		("flash-fiction", Some(Regex::new(r"flash-fiction")?), None),
-		("promotions", Some(Regex::new(r"promotions")?), None),
-		("archive", Some(Regex::new(r"archive")?), None),
-		(
-			"obsidian",
-			Some(Regex::new(r"^\.obsidian|\.canvas$")?),
-			None,
-		),
-		("ideas", Some(Regex::new(r"ideas\.md$")?), None),
-		("names", Some(Regex::new(r"names\.md$")?), None),
-		("templates", Some(Regex::new(r"templates")?), None),
-		("banner", Some(Regex::new(r"banner")?), None),
-		("props", Some(Regex::new(r"props")?), None),
-		("places", Some(Regex::new(r"places")?), None),
-		("emotes", Some(Regex::new(r"emotes.*\.png$")?), None),
-		("external-cover", Some(Regex::new(r"external-cover")?), None),
-		("license", Some(Regex::new(r"(license|LICENSE)")?), None),
-		("readme", Some(Regex::new(r"(readme|README)")?), None),
-		(
-			"featured-images",
-			Some(Regex::new(r"featured.*\.png$")?),
-			None,
-		),
-		("root", None, Some(Regex::new(r"[/\\]")?)),
-		("image", Some(Regex::new(r"\.(png|jpg|gif)$")?), None),
-		("image-source", Some(Regex::new(r"\.(ase|xcf)$")?), None),
-		(
-			"concept-cover",
-			Some(Regex::new(
-				r"(concept-cover|cover-concept).*\.(png|jpg|gif|ase|xcf)$",
-			)?),
-			None,
-		),
-		("markdown", Some(Regex::new(r"\.md$")?), None),
-		("rust", Some(Regex::new(r"\.rs$")?), None),
-		("toml", Some(Regex::new(r"\.toml$")?), None),
-		("yaml", Some(Regex::new(r"\.ya?ml$")?), None),
-		("json", Some(Regex::new(r"\.json$")?), None),
-		("config", Some(Regex::new(r"\.(toml|yaml|json)$")?), None),
-		("python", Some(Regex::new(r"\.py$")?), None),
-		("typescript", Some(Regex::new(r"\.ts$")?), None),
-		("gnuplot", Some(Regex::new(r"\.gp$")?), None),
-		("shell", Some(Regex::new(r"\.sh$")?), None),
-		("png", Some(Regex::new(r"\.png$")?), None),
-		("jpg", Some(Regex::new(r"\.jpe?g$")?), None),
-		("xcf", Some(Regex::new(r"\.xcf$")?), None),
-		("ase", Some(Regex::new(r"\.ase$")?), None),
-		("gif", Some(Regex::new(r"\.gif$")?), None),
-		("github", Some(Regex::new(r"\.github")?), None),
-		("lock-file", Some(Regex::new(r"\.lock$")?), None),
-		(
-			"workflow",
-			Some(Regex::new(r"\.github[/\\]workflows")?),
-			None,
-		),
-		("gitignore", Some(Regex::new(r"\.gitignore$")?), None),
-		(
-			"gitattributes",
-			Some(Regex::new(r"\.gitattributes$")?),
-			None,
-		),
-	];
-	'word: for keyword in words.iter() {
-		for file in files.iter() {
-			let found = match &file.change_type {
-				Type::Merge => false,
-				Type::Renamed(_, name) => {
-					matches(&file.name, &keyword.1, &keyword.2)
-						|| matches(name, &keyword.1, &keyword.2)
-				}
-				_ => matches(&file.name, &keyword.1, &keyword.2),
-			};
-			if found {
-				keywords.push(keyword.0.to_string());
-				continue 'word;
-			}
-		}
-	}
-	keywords.extend(change_keywords(files)?);
-	keywords.extend(art_keywords(files)?);
-	keywords.extend(code_keywords(files)?);
-	Ok(keywords.sort_vec())
-}
-
-fn change_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
-	let keywords: Vec<String> = files
-		.iter()
-		.map(|file| match file.change_type {
-			Type::Merge => "merge-commit".to_string(),
-			Type::Modified => "file-modified".to_string(),
-			Type::Added => "file-added".to_string(),
-			Type::Deleted => "file-deleted".to_string(),
-			Type::Renamed(_, _) => "file-renamed".to_string(),
-		})
-		.collect();
-	Ok(keywords.sort_and_dedup_vec())
-}
-
-fn art_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
-	let image_regex = Some(Regex::new(r"\.(png|jpg|gif|ase|xcf)$")?);
-	let words = [("illustrating", "added"), ("image-editing", "modified")];
-	let mut keywords = vec![];
-	'word: for keyword in words.iter() {
-		for file in files.iter() {
-			let found = match (&file.change_type, keyword.1) {
-				(Type::Added, "added") => matches(&file.name, &image_regex, &None),
-				(Type::Modified, "modified") => matches(&file.name, &image_regex, &None),
-				_ => false,
-			};
-			if found {
-				keywords.push(keyword.0.to_string());
-				continue 'word;
-			}
-		}
-	}
-	Ok(keywords)
-}
-
-fn code_keywords(files: &[Files]) -> Result<Vec<String>, Box<dyn Error>> {
-	let code_regex = Some(Regex::new(r".*\.(sh|py|ts|gp|rs)$")?);
-	let (mut added, mut removed) = (0, 0);
-	let mut keywords = vec![];
-	for file in files.iter().filter(|file| match &file.change_type {
-		Type::Merge => false,
-		Type::Renamed(_, name) => {
-			matches(&file.name, &code_regex, &None) || matches(name, &code_regex, &None)
-		}
-		_ => matches(&file.name, &code_regex, &None),
-	}) {
-		added += file.lines_added;
-		removed += file.lines_removed;
-	}
-	if removed == 0 && added != 0 {
-		keywords.push("coding".to_string())
-	} else if added == 0 && removed != 0 {
-		keywords.push("code-deletion".to_string())
-	} else if added == removed && added != 0 {
-		keywords.push("refactoring".to_string())
-	} else if removed != 0 && added as f64 / removed as f64 >= 1.5 {
-		keywords.push("coding".to_string())
-	} else if added != 0 && removed as f64 / added as f64 >= 0.5 {
-		keywords.push("refactoring".to_string())
-	}
-	Ok(keywords)
 }
