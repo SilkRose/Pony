@@ -21,9 +21,9 @@ indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.18" }
 regex = { version = "1.10.5" }
 serde = { version = "1.0.204", features = ["derive"] }
-serde_json = { version = "1.0.120", features = ["preserve_order"] }
+serde_json = { version = "1.0.121", features = ["preserve_order"] }
 terminal_color_builder = { version = "0.1.1" }
-thiserror = { version = "1.0.62" }
+thiserror = { version = "1.0.63" }
 
 [workspace.dependencies]
 
