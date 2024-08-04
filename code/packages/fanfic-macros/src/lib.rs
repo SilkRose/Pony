@@ -37,6 +37,7 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 			.collect::<Vec<_>>();
 		let ident = dir.replace("-", "_").replace("../stories/", "");
 		let ident = format_ident!("{ident}");
+		let link_regex = Regex::new(r"\((https://[^\)]+\))").unwrap();
 		let token = match story_files.len() == 1 {
 			true => {
 				let text = ::std::fs::read_to_string(story_files[0]).unwrap();
@@ -48,13 +49,47 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 					}
 				}
 			}
-			false => quote! {
-				#[doc = #short_description]
-				pub mod #ident {
-					#[doc = "Not implemented"]
-					pub mod #ident {}
+			false => {
+				let chapters = story_files
+					.iter()
+					.map(|chapter| ::std::fs::read_to_string(chapter).unwrap())
+					.collect::<Vec<_>>();
+				let mut tokens = proc_macro2::TokenStream::new();
+				for (index, chapter) in chapters.iter().enumerate() {
+					let ident = chapter
+						.lines()
+						.next()
+						.unwrap()
+						.trim_start_matches("# ")
+						.replace(" ", "_")
+						.replace("_→", "")
+						.replace("&", "and")
+						.to_ascii_lowercase();
+					let ident = match ident.chars().next().unwrap().is_ascii_digit() {
+						true => ident,
+						false => format!("{index}_{ident}"),
+					};
+					let ident = format_ident!(
+						"ch_{}",
+						link_regex
+							.replace_all(&ident, "")
+							.replace(":", "")
+							.replace("([", "")
+							.replace("])", "")
+					);
+					let module = quote! {
+						#[doc = #chapter]
+						pub mod #ident {}
+					};
+					tokens.extend::<proc_macro2::TokenStream>(module.into());
 				}
-			},
+				let mut story = quote! {
+					#[doc = #short_description] pub mod #ident {
+						#tokens
+					}
+				};
+				story
+			}
 		};
 		tokens.extend::<proc_macro::TokenStream>(token.into());
 	}
