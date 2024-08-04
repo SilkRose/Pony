@@ -21,7 +21,6 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 			.unwrap()
 			.to_string();
 		let meta = ::std::fs::read_to_string(meta).unwrap();
-		let short_description = String::new();
 		let split_regex = Regex::new(r"(?m)^\s*##\s+").unwrap();
 		let sections: Vec<&str> = split_regex.split(&meta).collect();
 		let short_description_prefix = "Short Description:";
@@ -38,7 +37,6 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 			.collect::<Vec<_>>();
 		let ident = dir.replace("-", "_").replace("../stories/", "");
 		let ident = format_ident!("{ident}");
-		let link_regex = Regex::new(r"\((https://[^\)]+\))").unwrap();
 		let token = match story_files.len() == 1 {
 			true => {
 				let text = ::std::fs::read_to_string(story_files[0]).unwrap();
@@ -57,34 +55,20 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 					.collect::<Vec<_>>();
 				let mut tokens = proc_macro2::TokenStream::new();
 				for (index, chapter) in chapters.iter().enumerate() {
-					let ident = chapter
-						.lines()
-						.next()
+					let ident = ::std::path::Path::new(&story_files[index])
+						.file_stem()
 						.unwrap()
-						.trim_start_matches("# ")
-						.replace(" ", "_")
-						.replace("_→", "")
-						.replace("&", "and")
-						.to_ascii_lowercase();
-					let ident = match ident.chars().next().unwrap().is_ascii_digit() {
-						true => ident,
-						false => format!("{index}_{ident}"),
-					};
-					let ident = format_ident!(
-						"ch_{}",
-						link_regex
-							.replace_all(&ident, "")
-							.replace(":", "")
-							.replace("([", "")
-							.replace("])", "")
-					);
+						.to_str()
+						.unwrap()
+						.replace("-", "_");
+					let ident = format_ident!("chapter_{ident}");
 					let module = quote! {
 						#[doc = #chapter]
 						pub mod #ident {}
 					};
 					tokens.extend::<proc_macro2::TokenStream>(module.into());
 				}
-				let mut story = quote! {
+				let story = quote! {
 					#[doc = #short_description] pub mod #ident {
 						#tokens
 					}
