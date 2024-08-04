@@ -27,6 +27,9 @@ terminal_color_builder = { version = "0.1.1" }
 thiserror = { version = "1.0.63" }
 
 [workspace.dependencies]
+proc-macro2 = { version = "1.0.86" }
+quote = { version = "1.0.36" }
+syn = { version = "2.0.72" }
 
 [workspace]
 members = ["packages/fanfic", "packages/fanfic-macros"]
