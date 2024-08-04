@@ -8,7 +8,7 @@ use regex::Regex;
 #[proc_macro]
 pub fn fanfic(_input: TokenStream) -> TokenStream {
 	let dirs = find_dirs_in_dir("../stories/", false);
-	let meta_regex = ::std::option::Option::Some(Regex::new("-meta.md$").unwrap());
+	let meta_regex = ::std::option::Option::Some(Regex::new(r"-meta\.md$").unwrap());
 	let mut tokens = TokenStream::new();
 	for dir in dirs {
 		let files = find_files_in_dir(&dir, false);
@@ -20,7 +20,7 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 			.unwrap()
 			.to_string();
 		let meta = ::std::fs::read_to_string(meta).unwrap();
-		let mut short_description = String::new();
+		let short_description = String::new();
 		let split_regex = Regex::new(r"(?m)^\s*##\s+").unwrap();
 		let sections: Vec<&str> = split_regex.split(&meta).collect();
 		let short_description_prefix = "Short Description:";
@@ -29,11 +29,32 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 			.find(|&&section| section.trim().starts_with(short_description_prefix))
 			.map(|section| section.trim_start_matches(short_description_prefix).trim())
 			.unwrap_or(&"");
+		let story_include_regex = ::std::option::Option::Some(Regex::new(r"\.md$").unwrap());
+		let story_exclude_regex = ::std::option::Option::Some(Regex::new(r"-meta\.md$").unwrap());
+		let story_files = files
+			.iter()
+			.filter(|f| matches(f, &story_include_regex, &story_exclude_regex))
+			.collect::<Vec<_>>();
 		let ident = dir.replace("-", "_").replace("../stories/", "");
 		let ident = format_ident!("{ident}");
-		let token = quote! {
-			#[doc = #short_description]
-			pub mod #ident {}
+		let token = match story_files.len() == 1 {
+			true => {
+				let text = ::std::fs::read_to_string(story_files[0]).unwrap();
+				quote! {
+					#[doc = #short_description]
+					pub mod #ident {
+						#[doc = #text]
+						pub mod #ident {}
+					}
+				}
+			}
+			false => quote! {
+				#[doc = #short_description]
+				pub mod #ident {
+					#[doc = "Not implemented"]
+					pub mod #ident {}
+				}
+			},
 		};
 		tokens.extend::<proc_macro::TokenStream>(token.into());
 	}
