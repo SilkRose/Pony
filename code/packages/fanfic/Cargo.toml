@@ -10,3 +10,4 @@ edition = { workspace = true }
 license = { workspace = true }
 
 [dependencies]
+fanfic-macros = { path = "../fanfic-macros" }
