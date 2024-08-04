@@ -11,7 +11,8 @@ pub fn fanfic(_input: TokenStream) -> TokenStream {
 	let meta_regex = ::std::option::Option::Some(Regex::new(r"-meta\.md$").unwrap());
 	let mut tokens = TokenStream::new();
 	for dir in dirs {
-		let files = find_files_in_dir(&dir, false);
+		let mut files = find_files_in_dir(&dir, false);
+		files.sort();
 		let meta = files
 			.iter()
 			.filter(|f| matches(f, &meta_regex, &::std::option::Option::None))
