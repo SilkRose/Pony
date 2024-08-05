@@ -1,17 +1,18 @@
 use super::command::execute_command;
-use atty::Stream;
-use std::io::{self, Write};
+use std::io::{self, IsTerminal, Read, Write};
 use std::{error::Error, fs};
 
 /// Function to collect stdin or return None.
 pub fn get_stdin() -> Option<String> {
-	atty::isnt(Stream::Stdin).then(|| {
-		io::stdin()
-			.lines()
-			.map(|l| l.unwrap())
-			.collect::<Vec<_>>()
-			.join("\n")
-	})
+	let stdin = io::stdin();
+	let mut handle = stdin.lock();
+	if stdin.is_terminal() {
+		let mut buffer = String::new();
+		handle.read_to_string(&mut buffer).ok()?;
+		Some(buffer)
+	} else {
+		None
+	}
 }
 
 pub fn ask<F>(question: &str, filter: Option<(F, &str)>) -> Result<String, Box<dyn Error>>
