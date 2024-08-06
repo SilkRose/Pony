@@ -1,8 +1,36 @@
 # An Ill-timed Railway Confession
 
-Pinkie and I take turns pressing down on the mechanical handles of the manual hoofcar we are operating to get back to civilization. Pinkie's constant droning on about chimicherry and cherrychanga is driving me nuts. 
+Pinkie Pie sails through the air, heading straight for me as I panic from the impending crash. As her body impacts mine, I just grab onto her and hope for the best as the two of us are thrown off the moving carriage. We land with a crash as our friends continue on without us.
 
-Pinkie asks, "What do you think, Rarity? Chimicherry or cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga?"
+We get up, and I cough out a leaf, before watching the carriage run off without us. I turn to Pinkie and frown. Pinkie just smiles at me.
+
+I ask, "They're coming back for us, right?"
+
+Pinkie answers, "I'm sure they will!"
+
+I sigh. "What do we do while we wait?"
+
+Pinkie doesn't answer my question while also finding something to do. "Oh no! Your pretty mane is pretty ruined! Here, let me fix that mane-don't back into a mane-do!"
+
+Pinkie shakes herself off like a wet dog and pulls a brush out of her mane.
+
+I simply let her do it while venting my frustrations. "Why couldn't you have picked Twilight, she has stronger magic and could have caught you."
+
+Pinkie just continues to brush as I speak.
+
+"What do we do if they don't come back? Do we even know the way back to civilization?"
+
+Pinkie simply finishes brushing my mane and then smiles at me.
+
+"There you go! Your cascading coiffure is completely corrected! I always keep a brush close by for you!"
+
+
+
+***
+
+Pinkie and I take turns pressing down on the mechanical handles of the manual hoofcar we are operating to get back to civilization. Pinkie's constant droning on about chimicherry and cherrychanga is driving me nuts.
+
+She asks me, "What do you think, Rarity? Chimicherry or cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga?"
 
 Pinkie continues talking as I say, "When I get back, you're gonna get it, Rainbow Dash!"
 
