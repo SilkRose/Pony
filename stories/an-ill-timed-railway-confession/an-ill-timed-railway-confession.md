@@ -48,13 +48,13 @@ Pinkie looks me in the eyes. "No, I just have something I need to tell you."
 
 "What is it? I'm always here for you."
 
-Pinkie presses her handle down extra hard. "Rarity, I really really really really like you."
+Pinkie presses her handle down extra hard. "Rarity, I really really like you."
 
 I'm a little surprised, not expecting a confession at a time like this. "Pinkie, are you saying what I think you are?"
 
 I didn't need an answer though, I could see the blush on her face. She is rather cute with a blush.
 
-"Yes, I think you're so super duper pretty and I want to date you."
+"Yes, I think you're so super-duper pretty, and I want to date you."
 
 Now it's my turn to blush.
 
@@ -62,7 +62,7 @@ I stop pressing the handle down and Pinkie follows suite. We drift down the trac
 
 After the hoofcar stops, I get down onto the ground. "Let's take a break and talk about it, sound good?"
 
-"Okey dokey lokey."
+"Okey-dokey-lokey."
 
 I sit down and gesture for her to sit in front of me, and she does so.
 
@@ -86,13 +86,13 @@ I take her hoof and hold it. "Why didn't you say something sooner? This isn't ex
 
 "No, every time I looked up from pressing the handle down… I was reminded how pretty you are."
 
-I blush again. "You know, you're super duper pretty too."
+I blush again. "You know, you're super-duper pretty too."
 
-Pinkie smiles at me and blushes. "I'm sorry I made you catch me. You were the only pony on my mind so I just said for you to catch me."
+Pinkie smiles at me and blushes. "I'm sorry I made you catch me. You were the only pony on my mind, so I just said for you to catch me."
 
 "It's alright. I'm glad you did."
 
-"It was really nice. you're really soft."
+"It was really nice. You're really soft."
 
 I giggle. "I'm glad I could break your fall, and you're soft too, you know."
 
@@ -136,7 +136,7 @@ We enjoy the moment for a long time, neither of us speaking.
 
 Eventually I sigh. "As much as I want to stay like this with you, we should probably continue heading back."
 
-I let go of her and she looks at me a little sad.
+I let go of her, and she looks at me a little sad.
 
 I say, "I'm sorry."
 
