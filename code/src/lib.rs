@@ -14,6 +14,7 @@ pub mod regex;
 pub mod retry;
 pub mod stderr;
 pub mod stdin;
+pub mod threads;
 pub mod time;
 pub mod traits;
 pub mod word_stats;
