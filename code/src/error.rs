@@ -20,6 +20,10 @@ enum ErrorInner {
 	Str(#[from] std::str::Utf8Error),
 	#[error(transparent)]
 	Time(#[from] std::time::SystemTimeError),
+	#[error(transparent)]
+	Image(#[from] image::ImageError),
+	#[error(transparent)]
+	Int(#[from] std::num::ParseIntError),
 }
 
 impl<T: Into<ErrorInner>> From<T> for Error {
