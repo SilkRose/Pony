@@ -2,7 +2,7 @@ use super::error::Result;
 use crate::fs::find_files_in_dir;
 use image::DynamicImage;
 use std::collections::HashMap;
-use std::path::Path;
+use std::path::MAIN_SEPARATOR as slash;
 
 #[derive(Debug)]
 pub struct CharSet {
@@ -74,9 +74,12 @@ impl CharSet {
 			.collect::<Vec<_>>();
 		let mut chars = HashMap::new();
 		for char in font_files {
-			let ident = Path::new(char).file_stem().unwrap().to_str().unwrap();
+			let hex = char.trim_end_matches(ext).split(slash).last().unwrap();
 			let image = image::open(char)?;
-			chars.insert(char::from_u32(ident.parse::<u32>()?).unwrap(), image);
+			chars.insert(
+				char::from_u32(u32::from_str_radix(hex, 16)?).unwrap(),
+				image,
+			);
 		}
 		Ok(CharSet {
 			chars,
