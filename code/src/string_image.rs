@@ -7,7 +7,8 @@ use std::path::Path;
 #[derive(Debug)]
 pub struct CharSet {
 	pub chars: HashMap<char, DynamicImage>,
-	pub justification: Justification,
+	pub line_justification: LineJustification,
+	pub char_vertical_position: CharVerticalPosition,
 	pub border: Border,
 	pub spacing: Spacing,
 	pub colors: Colors,
@@ -15,10 +16,17 @@ pub struct CharSet {
 }
 
 #[derive(Debug)]
-pub enum Justification {
+pub enum LineJustification {
 	Left,
 	Center,
 	Right,
+}
+
+#[derive(Debug)]
+pub enum CharVerticalPosition {
+	Top,
+	Center,
+	Bottom,
 }
 
 #[derive(Debug)]
@@ -32,9 +40,7 @@ pub struct Border {
 #[derive(Debug)]
 pub struct Spacing {
 	pub letter: u8,
-	pub space: u8,
 	pub line: u8,
-	pub tab: u8,
 }
 
 #[derive(Debug)]
@@ -56,6 +62,7 @@ pub struct DropShadow {
 	pub color: Color,
 	pub offset_x: i8,
 	pub offset_y: i8,
+	pub overlap_border: bool,
 }
 
 impl CharSet {
@@ -73,7 +80,8 @@ impl CharSet {
 		}
 		Ok(CharSet {
 			chars,
-			justification: Justification::Center,
+			line_justification: LineJustification::Center,
+			char_vertical_position: CharVerticalPosition::Center,
 			border: Border::default(),
 			spacing: Spacing::default(),
 			colors: Colors::default(),
@@ -81,8 +89,15 @@ impl CharSet {
 		})
 	}
 
-	pub fn set_justification(&mut self, justification: Justification) -> &mut CharSet {
-		self.justification = justification;
+	pub fn set_line_justification(
+		&mut self, line_justification: LineJustification,
+	) -> &mut CharSet {
+		self.line_justification = line_justification;
+		self
+	}
+
+	pub fn set_char_vertical_position(&mut self, position: CharVerticalPosition) -> &mut CharSet {
+		self.char_vertical_position = position;
 		self
 	}
 
@@ -96,13 +111,8 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_spacing(&mut self, letter: u8, space: u8, line: u8, tab: u8) -> &mut CharSet {
-		self.spacing = Spacing {
-			letter,
-			space,
-			line,
-			tab,
-		};
+	pub fn set_spacing(&mut self, letter: u8, line: u8) -> &mut CharSet {
+		self.spacing = Spacing { letter, line };
 		self
 	}
 
@@ -111,11 +121,14 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i8, offset_y: i8) -> &mut CharSet {
+	pub fn set_drop_shadow(
+		&mut self, color: Color, offset_x: i8, offset_y: i8, overlap_border: bool,
+	) -> &mut CharSet {
 		self.drop_shadow = Some(DropShadow {
 			color,
 			offset_x,
 			offset_y,
+			overlap_border,
 		});
 		self
 	}
@@ -134,12 +147,7 @@ impl Default for Border {
 
 impl Default for Spacing {
 	fn default() -> Self {
-		Spacing {
-			letter: 1,
-			space: 2,
-			line: 2,
-			tab: 4,
-		}
+		Spacing { letter: 1, line: 2 }
 	}
 }
 
