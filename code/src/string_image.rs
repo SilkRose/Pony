@@ -14,15 +14,14 @@ pub struct CharSet {
 	pub drop_shadow: Option<DropShadow>,
 }
 
-#[derive(Debug, Default)]
+#[derive(Debug)]
 pub enum Justification {
-	#[default]
 	Left,
 	Center,
 	Right,
 }
 
-#[derive(Debug, Default)]
+#[derive(Debug)]
 pub struct Border {
 	pub top: u8,
 	pub right: u8,
@@ -30,7 +29,7 @@ pub struct Border {
 	pub left: u8,
 }
 
-#[derive(Debug, Default)]
+#[derive(Debug)]
 pub struct Spacing {
 	pub letter: u8,
 	pub space: u8,
@@ -38,13 +37,13 @@ pub struct Spacing {
 	pub tab: u8,
 }
 
-#[derive(Debug, Default)]
+#[derive(Debug)]
 pub struct Colors {
 	pub text: Color,
 	pub background: Color,
 }
 
-#[derive(Debug, Default)]
+#[derive(Debug)]
 pub struct Color {
 	pub red: u8,
 	pub green: u8,
@@ -52,11 +51,11 @@ pub struct Color {
 	pub alpha: u8,
 }
 
-#[derive(Debug, Default)]
+#[derive(Debug)]
 pub struct DropShadow {
 	pub color: Color,
-	pub offset_x: u8,
-	pub offset_y: u8,
+	pub offset_x: i8,
+	pub offset_y: i8,
 }
 
 impl CharSet {
@@ -74,7 +73,7 @@ impl CharSet {
 		}
 		Ok(CharSet {
 			chars,
-			justification: Justification::default(),
+			justification: Justification::Center,
 			border: Border::default(),
 			spacing: Spacing::default(),
 			colors: Colors::default(),
@@ -112,12 +111,53 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_drop_shadow(&mut self, color: Color, offset_x: u8, offset_y: u8) -> &mut CharSet {
+	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i8, offset_y: i8) -> &mut CharSet {
 		self.drop_shadow = Some(DropShadow {
 			color,
 			offset_x,
 			offset_y,
 		});
 		self
+	}
+}
+
+impl Default for Border {
+	fn default() -> Self {
+		Border {
+			top: 1,
+			right: 1,
+			bottom: 1,
+			left: 1,
+		}
+	}
+}
+
+impl Default for Spacing {
+	fn default() -> Self {
+		Spacing {
+			letter: 1,
+			space: 2,
+			line: 2,
+			tab: 4,
+		}
+	}
+}
+
+impl Default for Colors {
+	fn default() -> Self {
+		Colors {
+			text: Color {
+				red: 0,
+				green: 0,
+				blue: 0,
+				alpha: 255,
+			},
+			background: Color {
+				red: 0,
+				green: 0,
+				blue: 0,
+				alpha: 0,
+			},
+		}
 	}
 }
