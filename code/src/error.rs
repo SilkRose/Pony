@@ -24,12 +24,22 @@ enum ErrorInner {
 	Image(#[from] image::ImageError),
 	#[error(transparent)]
 	Int(#[from] std::num::ParseIntError),
+	#[error("Error: {0}")]
+	FromString(String),
 }
 
 impl<T: Into<ErrorInner>> From<T> for Error {
 	fn from(inner: T) -> Self {
 		Self {
 			inner: inner.into(),
+		}
+	}
+}
+
+impl Error {
+	pub fn new(message: &str) -> Self {
+		Self {
+			inner: ErrorInner::FromString(message.to_string()),
 		}
 	}
 }

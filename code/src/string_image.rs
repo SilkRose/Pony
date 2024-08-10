@@ -1,14 +1,14 @@
-use super::error::Result;
+use super::error::{Error, Result};
 use crate::fs::find_files_in_dir;
-use image::DynamicImage;
+use image::{DynamicImage, GenericImageView};
 use std::collections::HashMap;
 use std::path::MAIN_SEPARATOR as slash;
 
 #[derive(Debug)]
 pub struct CharSet {
 	pub chars: HashMap<char, DynamicImage>,
-	pub line_justification: LineJustification,
-	pub char_vertical_position: CharVerticalPosition,
+	pub line_height: u8,
+	pub justification: Justification,
 	pub border: Border,
 	pub spacing: Spacing,
 	pub colors: Colors,
@@ -16,17 +16,10 @@ pub struct CharSet {
 }
 
 #[derive(Debug)]
-pub enum LineJustification {
+pub enum Justification {
 	Left,
 	Center,
 	Right,
-}
-
-#[derive(Debug)]
-pub enum CharVerticalPosition {
-	Top,
-	Center,
-	Bottom,
 }
 
 #[derive(Debug)]
@@ -72,10 +65,19 @@ impl CharSet {
 			.iter()
 			.filter(|f| f.ends_with(ext))
 			.collect::<Vec<_>>();
+		if font_files.is_empty() {
+			return Err(Error::new("No files found!"));
+		}
+		let mut line_height: Option<u8> = None;
 		let mut chars = HashMap::new();
 		for char in font_files {
 			let hex = char.trim_end_matches(ext).split(slash).last().unwrap();
 			let image = image::open(char)?;
+			if line_height.is_none() {
+				line_height = Some(image.dimensions().1 as u8)
+			} else if line_height != Some(image.dimensions().1 as u8) {
+				return Err(Error::new("Char height variance detected!"));
+			}
 			chars.insert(
 				char::from_u32(u32::from_str_radix(hex, 16)?).unwrap(),
 				image,
@@ -83,8 +85,8 @@ impl CharSet {
 		}
 		Ok(CharSet {
 			chars,
-			line_justification: LineJustification::Center,
-			char_vertical_position: CharVerticalPosition::Center,
+			line_height: line_height.unwrap(),
+			justification: Justification::Center,
 			border: Border::default(),
 			spacing: Spacing::default(),
 			colors: Colors::default(),
@@ -92,15 +94,8 @@ impl CharSet {
 		})
 	}
 
-	pub fn set_line_justification(
-		&mut self, line_justification: LineJustification,
-	) -> &mut CharSet {
-		self.line_justification = line_justification;
-		self
-	}
-
-	pub fn set_char_vertical_position(&mut self, position: CharVerticalPosition) -> &mut CharSet {
-		self.char_vertical_position = position;
+	pub fn set_justification(&mut self, justification: Justification) -> &mut CharSet {
+		self.justification = justification;
 		self
 	}
 
