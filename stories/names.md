@@ -91,3 +91,5 @@ This file contains random story names that don't have enough thought to have the
 - First Kiss, Last Blush
 - Numbers Game
 - System Fun Thinking
+- Late Stage Romanticism
+- Mending Hearts with Broken Parts
