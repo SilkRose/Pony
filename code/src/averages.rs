@@ -79,4 +79,17 @@ mod tests {
 			sma.window_size
 		);
 	}
+	#[test]
+	fn simple_moving_average_inser_after_full() {
+		let mut sma = SimpleMovingAverage::<f64>::new(2);
+		sma.insert(1.0);
+		sma.insert(2.0);
+		sma.insert(2.0);
+		assert_eq!(Some(2.0), sma.average())
+	}
+	#[test]
+	fn simple_moving_average_empty() {
+		let sma = SimpleMovingAverage::<f64>::new(2);
+		assert_eq!(None, sma.average())
+	}
 }
