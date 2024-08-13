@@ -88,9 +88,21 @@ mod tests {
 		assert_eq!(vec, vec![3, 0, 2, 1, 1, 2]);
 	}
 	#[test]
-	fn compare() {
+	fn compare_less() {
 		let mut list = vec![(3, 1), (2, 2), (1, 3)];
 		list.sort_by(|a, b| super::compare(&a.0, &b.0));
 		assert_eq!(list, vec![(1, 3), (2, 2), (3, 1)]);
+	}
+	#[test]
+	fn compare_greater() {
+		let mut list = vec![(1, 1), (2, 2), (3, 3)];
+		list.sort_by(|a, b| super::compare(&a.0, &b.0));
+		assert_eq!(list, vec![(1, 1), (2, 2), (3, 3)]);
+	}
+	#[test]
+	fn compare_equel() {
+		let mut list = vec![(1, 1), (1, 2), (1, 3)];
+		list.sort_by(|a, b| super::compare(&a.0, &b.0));
+		assert_eq!(list, vec![(1, 1), (1, 2), (1, 3)]);
 	}
 }
