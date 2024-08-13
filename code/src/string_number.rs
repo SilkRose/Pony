@@ -108,15 +108,51 @@ mod tests {
 
 	#[test]
 	fn number_f64() {
-		let json = r#"{"number": "123.4"}"#;
+		let json = r#"{"number": 123.4}"#;
 		let parsed: Number = serde_json::from_str(json).unwrap();
 		assert_eq!(123.4, parsed.number.num);
 	}
 	#[test]
 	fn negative_number_f64() {
+		let json = r#"{"number": -123.4}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(-123.4, parsed.number.num);
+	}
+	#[test]
+	fn number_u128() {
+		let json = r#"{"number": 123}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(123.0, parsed.number.num);
+	}
+	#[test]
+	fn negative_number_i128() {
+		let json = r#"{"number": -123}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(-123.0, parsed.number.num);
+	}
+	#[test]
+	fn number_string_f64() {
+		let json = r#"{"number": "123.4"}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(123.4, parsed.number.num);
+	}
+	#[test]
+	fn negative_number_string_f64() {
 		let json = r#"{"number": "-123.4"}"#;
 		let parsed: Number = serde_json::from_str(json).unwrap();
 		assert_eq!(-123.4, parsed.number.num);
+	}
+	#[test]
+	fn number_string_u128() {
+		let json = r#"{"number": "123"}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(123.0, parsed.number.num);
+	}
+	#[test]
+	fn negative_number_string_i128() {
+		let json = r#"{"number": "-123"}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(-123.0, parsed.number.num);
 	}
 	#[test]
 	#[should_panic]
