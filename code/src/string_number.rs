@@ -96,3 +96,32 @@ impl<'de> Visitor<'de> for StringNumberVisitor {
 		de.deserialize_any(Self)
 	}
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+
+	#[derive(Deserialize)]
+	struct Number {
+		number: StringNumber,
+	}
+
+	#[test]
+	fn number_f64() {
+		let json = r#"{"number": "123.4"}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(123.4, parsed.number.num);
+	}
+	#[test]
+	fn negative_number_f64() {
+		let json = r#"{"number": "-123.4"}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(-123.4, parsed.number.num);
+	}
+	#[test]
+	#[should_panic]
+	fn string_fail() {
+		let json = r#"{"number": "string"}"#;
+		let _: Number = serde_json::from_str(json).unwrap();
+	}
+}
