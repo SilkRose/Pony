@@ -64,4 +64,63 @@ mod tests {
 		.unwrap();
 		assert_eq!(vec![3, 4], page);
 	}
+	#[test]
+	fn page_overflow() {
+		let list = [1, 2, 3, 4, 5, 6];
+		let page = get_page(
+			&list,
+			NonZeroUsize::new(1).unwrap(),
+			NonZeroUsize::new(7).unwrap(),
+		);
+		assert_eq!(None, page);
+	}
+	#[test]
+	fn page_under_sized() {
+		let list = [1, 2, 3, 4, 5, 6];
+		let page = get_page(
+			&list,
+			NonZeroUsize::new(8).unwrap(),
+			NonZeroUsize::new(1).unwrap(),
+		)
+		.unwrap();
+		assert_eq!(vec![1, 2, 3, 4, 5, 6], page);
+	}
+	#[test]
+	fn pages_string() {
+		let string = "12\n34\n56";
+		let pages = get_pages_from_string(string, NonZeroUsize::new(2).unwrap());
+		assert_eq!(vec!["12\n34", "56"], pages);
+	}
+	#[test]
+	fn page_string() {
+		let string = "12\n34\n56";
+		let page = get_page_from_string(
+			string,
+			NonZeroUsize::new(2).unwrap(),
+			NonZeroUsize::new(2).unwrap(),
+		)
+		.unwrap();
+		assert_eq!("56", page);
+	}
+	#[test]
+	fn page_string_overflow() {
+		let string = "12\n34\n56";
+		let page = get_page_from_string(
+			string,
+			NonZeroUsize::new(3).unwrap(),
+			NonZeroUsize::new(2).unwrap(),
+		);
+		assert_eq!(None, page);
+	}
+	#[test]
+	fn page_string_under_sized() {
+		let string = "12\n34\n56";
+		let page = get_page_from_string(
+			string,
+			NonZeroUsize::new(8).unwrap(),
+			NonZeroUsize::new(1).unwrap(),
+		)
+		.unwrap();
+		assert_eq!("12\n34\n56", page);
+	}
 }
