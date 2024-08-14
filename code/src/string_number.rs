@@ -194,4 +194,11 @@ mod tests {
 		let parsed: Number = serde_json::from_str(json).unwrap();
 		assert_eq!(123.4, parsed.number.to_number());
 	}
+	#[test]
+	fn number_f64_serialize() {
+		let json = r#"{"number": 123.4}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		let string = serde_json::to_string(&parsed.number).unwrap();
+		assert_eq!("123.4", string);
+	}
 }
