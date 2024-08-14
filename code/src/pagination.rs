@@ -5,8 +5,8 @@ pub fn get_pages<T>(items: &[T], page_size: NonZeroUsize) -> Vec<&[T]> {
 }
 
 pub fn get_page<T>(items: &[T], page_size: NonZeroUsize, page: NonZeroUsize) -> Option<&[T]> {
-	let items_start = page_size.get() * page.get();
-	let items_end = page_size.get() * (page.get() + 1);
+	let items_start = page_size.get() * (page.get() - 1);
+	let items_end = page_size.get() * page.get();
 
 	if items_start >= items.len() {
 		return None;
@@ -41,7 +41,7 @@ pub fn get_page_from_string(
 	text: &str, page_size: NonZeroUsize, page: NonZeroUsize,
 ) -> Option<&str> {
 	let pages = get_pages_from_string(text, page_size);
-	pages.get(page.get()).copied()
+	pages.get(page.get() - 1).copied()
 }
 
 #[cfg(test)]
@@ -51,17 +51,17 @@ mod tests {
 	fn pages() {
 		let list = [1, 2, 3, 4, 5, 6];
 		let pages = get_pages(&list, NonZeroUsize::new(2).unwrap());
-		assert_eq!(pages, vec![[1, 2], [3, 4], [5, 6]]);
+		assert_eq!(vec![[1, 2], [3, 4], [5, 6]], pages);
 	}
 	#[test]
 	fn page() {
 		let list = [1, 2, 3, 4, 5, 6];
-		let pages = get_page(
+		let page = get_page(
 			&list,
 			NonZeroUsize::new(2).unwrap(),
 			NonZeroUsize::new(2).unwrap(),
 		)
 		.unwrap();
-		assert_eq!(pages, vec![5, 6]);
+		assert_eq!(vec![3, 4], page);
 	}
 }
