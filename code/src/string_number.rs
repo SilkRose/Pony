@@ -100,8 +100,9 @@ impl<'de> Visitor<'de> for StringNumberVisitor {
 #[cfg(test)]
 mod tests {
 	use super::*;
+	use ops::DerefMut;
 
-	#[derive(Deserialize)]
+	#[derive(Deserialize, Debug)]
 	struct Number {
 		number: StringNumber,
 	}
@@ -159,5 +160,38 @@ mod tests {
 	fn string_fail() {
 		let json = r#"{"number": "string"}"#;
 		let _: Number = serde_json::from_str(json).unwrap();
+	}
+	#[test]
+	fn number_debug() {
+		let json = r#"{"number": 123.4}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		let debug = format!("{:?}", parsed.number);
+		assert_eq!("123.4", debug);
+	}
+	#[test]
+	fn number_display() {
+		let json = r#"{"number": 123.4}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		let display = format!("{}", parsed.number);
+		assert_eq!("123.4", display);
+	}
+	#[test]
+	fn number_f64_deref() {
+		let json = r#"{"number": 123.4}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(123.4, *parsed.number);
+	}
+	#[test]
+	fn number_f64_deref_mut() {
+		let json = r#"{"number": 123.4}"#;
+		let mut parsed: Number = serde_json::from_str(json).unwrap();
+		*parsed.number.deref_mut() = 1.0;
+		assert_eq!(1.0, parsed.number.num);
+	}
+	#[test]
+	fn number_f64_to_number() {
+		let json = r#"{"number": 123.4}"#;
+		let parsed: Number = serde_json::from_str(json).unwrap();
+		assert_eq!(123.4, parsed.number.to_number());
 	}
 }
