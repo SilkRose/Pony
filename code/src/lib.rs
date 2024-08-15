@@ -15,6 +15,7 @@ pub mod retry;
 pub mod stderr;
 pub mod stdin;
 pub mod string_image;
+pub mod string_number;
 pub mod threads;
 pub mod time;
 pub mod traits;
