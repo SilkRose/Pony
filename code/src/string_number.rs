@@ -187,4 +187,10 @@ mod tests {
 		let string = serde_json::to_string(&parsed.number).unwrap();
 		assert_eq!("123.4", string);
 	}
+	#[test]
+	#[should_panic]
+	fn number_f64_expecting() {
+		let json = r#"{"number": true}"#;
+		let _: Number = serde_json::from_str(json).unwrap();
+	}
 }
