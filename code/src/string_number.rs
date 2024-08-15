@@ -78,23 +78,9 @@ impl<'de> Visitor<'de> for StringNumberVisitor {
 	}
 
 	visit_method!(visit_i64 v: i64 { Ok(v as f64) });
-	visit_method!(visit_i128 v: i128 { Ok(v as f64) });
 	visit_method!(visit_u64 v: u64 { Ok(v as f64) });
-	visit_method!(visit_u128 v: u128 { Ok(v as f64) });
 	visit_method!(visit_f64 v: f64 { Ok(v) });
 	visit_method!(visit_str v: &str { v.parse().map_err(Error::custom) });
-	visit_method!(visit_bytes v: &[u8] {
-		std::str::from_utf8(v)
-			.map_err(Error::custom)
-			.and_then(|s| s.parse().map_err(Error::custom))
-	});
-
-	fn visit_some<D>(self, de: D) -> Result<Self::Value, D::Error>
-	where
-		D: Deserializer<'de>,
-	{
-		de.deserialize_any(Self)
-	}
 }
 
 #[cfg(test)]
