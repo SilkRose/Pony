@@ -142,108 +142,190 @@ mod tests {
 	use ops::DerefMut;
 
 	#[derive(Deserialize, Debug)]
-	struct Number {
+	struct NumberI32 {
+		number: StringNumber<i32>,
+	}
+
+	#[derive(Deserialize, Debug)]
+	struct NumberF64 {
 		number: StringNumber<f64>,
 	}
 
+	// Tests for NumberF64
 	#[test]
 	fn number_f64() {
 		let json = r#"{"number": 123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		assert_eq!(123.4, parsed.number.num);
 	}
+
 	#[test]
 	fn negative_number_f64() {
 		let json = r#"{"number": -123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		assert_eq!(-123.4, parsed.number.num);
 	}
-	#[test]
-	fn number_u128() {
-		let json = r#"{"number": 123}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
-		assert_eq!(123.0, parsed.number.num);
-	}
-	#[test]
-	fn negative_number_i128() {
-		let json = r#"{"number": -123}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
-		assert_eq!(-123.0, parsed.number.num);
-	}
+
 	#[test]
 	fn number_string_f64() {
 		let json = r#"{"number": "123.4"}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		assert_eq!(123.4, parsed.number.num);
 	}
+
 	#[test]
 	fn negative_number_string_f64() {
 		let json = r#"{"number": "-123.4"}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		assert_eq!(-123.4, parsed.number.num);
 	}
-	#[test]
-	fn number_string_u128() {
-		let json = r#"{"number": "123"}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
-		assert_eq!(123.0, parsed.number.num);
-	}
-	#[test]
-	fn negative_number_string_i128() {
-		let json = r#"{"number": "-123"}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
-		assert_eq!(-123.0, parsed.number.num);
-	}
+
 	#[test]
 	#[should_panic]
 	fn string_fail() {
 		let json = r#"{"number": "string"}"#;
-		let _: Number = serde_json::from_str(json).unwrap();
+		let _: NumberF64 = serde_json::from_str(json).unwrap();
 	}
+
+	#[test]
+	#[should_panic]
+	fn bool_fail() {
+		let json = r#"{"number": true}"#;
+		let _: NumberF64 = serde_json::from_str(json).unwrap();
+	}
+
 	#[test]
 	fn number_debug() {
 		let json = r#"{"number": 123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		let debug = format!("{:?}", parsed.number);
 		assert_eq!("123.4", debug);
 	}
+
 	#[test]
 	fn number_display() {
 		let json = r#"{"number": 123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		let display = format!("{}", parsed.number);
 		assert_eq!("123.4", display);
 	}
+
 	#[test]
 	fn number_f64_deref() {
 		let json = r#"{"number": 123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		assert_eq!(123.4, *parsed.number);
 	}
+
 	#[test]
 	fn number_f64_deref_mut() {
 		let json = r#"{"number": 123.4}"#;
-		let mut parsed: Number = serde_json::from_str(json).unwrap();
+		let mut parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		*parsed.number.deref_mut() = 1.0;
 		assert_eq!(1.0, parsed.number.num);
 	}
+
 	#[test]
 	fn number_f64_to_number() {
 		let json = r#"{"number": 123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		assert_eq!(123.4, parsed.number.to_number());
 	}
+
 	#[test]
 	fn number_f64_serialize() {
 		let json = r#"{"number": 123.4}"#;
-		let parsed: Number = serde_json::from_str(json).unwrap();
+		let parsed: NumberF64 = serde_json::from_str(json).unwrap();
 		let string = serde_json::to_string(&parsed.number).unwrap();
 		assert_eq!("123.4", string);
 	}
+
+	// Tests for NumberI32
+	#[test]
+	fn number_i32() {
+		let json = r#"{"number": 123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		assert_eq!(123, parsed.number.num);
+	}
+
+	#[test]
+	fn negative_number_i32() {
+		let json = r#"{"number": -123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		assert_eq!(-123, parsed.number.num);
+	}
+
+	#[test]
+	fn number_string_i32() {
+		let json = r#"{"number": "123"}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		assert_eq!(123, parsed.number.num);
+	}
+
+	#[test]
+	fn negative_number_string_i32() {
+		let json = r#"{"number": "-123"}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		assert_eq!(-123, parsed.number.num);
+	}
+
 	#[test]
 	#[should_panic]
-	fn number_f64_expecting() {
+	fn string_fail_i32() {
+		let json = r#"{"number": "string"}"#;
+		let _: NumberI32 = serde_json::from_str(json).unwrap();
+	}
+
+	#[test]
+	#[should_panic]
+	fn bool_fail_i32() {
 		let json = r#"{"number": true}"#;
-		let _: Number = serde_json::from_str(json).unwrap();
+		let _: NumberI32 = serde_json::from_str(json).unwrap();
+	}
+
+	#[test]
+	fn number_debug_i32() {
+		let json = r#"{"number": 123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		let debug = format!("{:?}", parsed.number);
+		assert_eq!("123", debug);
+	}
+
+	#[test]
+	fn number_display_i32() {
+		let json = r#"{"number": 123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		let display = format!("{}", parsed.number);
+		assert_eq!("123", display);
+	}
+
+	#[test]
+	fn number_i32_deref() {
+		let json = r#"{"number": 123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		assert_eq!(123, *parsed.number);
+	}
+
+	#[test]
+	fn number_i32_deref_mut() {
+		let json = r#"{"number": 123}"#;
+		let mut parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		*parsed.number.deref_mut() = 1;
+		assert_eq!(1, parsed.number.num);
+	}
+
+	#[test]
+	fn number_i32_to_number() {
+		let json = r#"{"number": 123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		assert_eq!(123, parsed.number.to_number());
+	}
+
+	#[test]
+	fn number_i32_serialize() {
+		let json = r#"{"number": 123}"#;
+		let parsed: NumberI32 = serde_json::from_str(json).unwrap();
+		let string = serde_json::to_string(&parsed.number).unwrap();
+		assert_eq!("123", string);
 	}
 }
