@@ -16,8 +16,7 @@ where
 		let wrapped_tasks = Arc::clone(&wrapped_tasks);
 		let task_fn = task_fn.clone();
 
-		let builder =
-			Builder::new().name(format!("pony::threads::multithread thread {thread_num}"));
+		let builder = Builder::new().name(format!("thread: {thread_num}"));
 
 		let join_handle = builder
 			.spawn(move || {
@@ -57,4 +56,49 @@ where
 
 	thread_results.sort_unstable_by_key(|e| e.0);
 	thread_results.into_iter().map(|e| e.1).collect()
+}
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+
+	#[test]
+	fn single_thread() {
+		let mut items: Vec<usize> = Vec::with_capacity(num_cpus::get());
+		items = items.iter().enumerate().map(|(index, _)| index).collect();
+		let answer: Vec<_> = items.iter().map(|i| i * i).collect();
+		let result = multithread(items, Some(1), move |_, i| Some(i * i));
+		assert_eq!(answer, result);
+	}
+
+	#[test]
+	fn multi_thread() {
+		let mut items: Vec<usize> = Vec::with_capacity(num_cpus::get());
+		items = items.iter().enumerate().map(|(index, _)| index).collect();
+		let answer: Vec<_> = items.iter().map(|i| i * i).collect();
+		let result = multithread(items, None, move |_, i| Some(i * i));
+		assert_eq!(answer, result);
+	}
+
+	#[test]
+	fn empty_tasks() {
+		let result: Vec<usize> = multithread(Vec::new(), Some(1), |_, i| Some(i));
+		assert_eq!(result, Vec::<usize>::new());
+	}
+
+	#[test]
+	fn single_task() {
+		let items = vec![0];
+		let result = multithread(items, Some(1), |_, i| Some(i * 2));
+		assert_eq!(result, vec![0]);
+	}
+
+	#[test]
+	fn multi_threaded_task() {
+		let num_tasks = 1000;
+		let items: Vec<usize> = (0..=num_tasks).collect();
+		let expected: Vec<_> = items.iter().map(|&i| i * i).collect();
+		let result = multithread(items, None, move |_, i| Some(i * i));
+		assert_eq!(expected, result);
+	}
 }
