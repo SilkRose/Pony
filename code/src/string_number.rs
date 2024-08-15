@@ -108,25 +108,6 @@ macro_rules! visit_method {
 	};
 }
 
-impl<'de> Visitor<'de> for StringNumberVisitor<f32> {
-	type Value = f32;
-
-	fn expecting(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
-		formatter.write_str("a number, or a number in a string")
-	}
-	visit_method!(visit_f32 v: f32 { Ok(v) });
-	visit_method!(visit_i8 v: i8 { Ok(v.into()) });
-	visit_method!(visit_i16 v: i16 { Ok(v.into()) });
-	visit_method!(visit_u8 v: u8 { Ok(v.into()) });
-	visit_method!(visit_u16 v: u16 { Ok(v.into()) });
-	visit_method!(visit_str v: &str { v.parse().map_err(Error::custom) });
-	visit_method!(visit_bytes v: &[u8] {
-	std::str::from_utf8(v)
-		.map_err(Error::custom)
-		.and_then(|s| s.parse().map_err(Error::custom))
-	});
-}
-
 impl<'de> Visitor<'de> for StringNumberVisitor<f64> {
 	type Value = f64;
 
@@ -148,7 +129,7 @@ impl<'de> Visitor<'de> for StringNumberVisitor<f64> {
 	});
 }
 
-string_number!(f32, f64);
+string_number!(f64);
 string_number!(u8, u16, u32, u64, u128, usize);
 string_number!(i8, i16, i32, i64, i128, isize);
 
