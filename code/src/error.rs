@@ -43,3 +43,43 @@ impl Error {
 		}
 	}
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+	use serde_json;
+	use std::io;
+
+	#[test]
+	fn test_error_new() {
+		let error = Error::new("Test error message");
+		if let ErrorInner::FromString(ref message) = error.inner {
+			assert_eq!(message, "Test error message");
+		} else {
+			panic!("Expected ErrorInner::FromString");
+		}
+	}
+
+	#[test]
+	fn test_error_from_io_error() {
+		let io_error = io::Error::new(io::ErrorKind::Other, "io error");
+		let error: Error = io_error.into();
+		assert!(matches!(error.inner, ErrorInner::IO(_)));
+	}
+
+	#[test]
+	fn test_error_from_json_error() {
+		let json_error = serde_json::from_str::<serde_json::Value>("invalid json")
+			.err()
+			.unwrap();
+		let error: Error = json_error.into();
+		assert!(matches!(error.inner, ErrorInner::Json(_)));
+	}
+
+	#[test]
+	fn test_error_from_parse_int_error() {
+		let parse_int_error = "abc".parse::<u32>().err().unwrap();
+		let error: Error = parse_int_error.into();
+		assert!(matches!(error.inner, ErrorInner::Int(_)));
+	}
+}
