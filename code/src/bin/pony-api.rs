@@ -5,7 +5,7 @@ use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{format_json, JsonFormat};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
-use pony::stderr::{print_error, ErrColor};
+use pony::stderr::print_error;
 use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
@@ -77,9 +77,7 @@ fn parse_argument(args: &[String]) {
 		return;
 	}
 	if args.len() > 1 {
-		print_error("Too many arguments provided!", ErrColor::Red);
-		print_help();
-		exit(1);
+		print_error("Too many arguments provided!");
 	}
 	match args.first().unwrap().as_str() {
 		"-h" | "--help" => {
@@ -91,9 +89,7 @@ fn parse_argument(args: &[String]) {
 			exit(0);
 		}
 		_ => {
-			print_error("Incorrect argument provided!", ErrColor::Red);
-			print_help();
-			exit(1);
+			print_error("Incorrect argument provided!");
 		}
 	}
 }

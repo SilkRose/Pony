@@ -1,11 +1,10 @@
-use crate::stderr::{print_error, ErrColor};
+use crate::stderr::{print_error, print_warning};
 use markdown::mdast::{
 	BlockQuote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
 use markdown::{to_mdast, ParseOptions};
 use std::collections::HashMap;
-use std::process::exit;
 
 #[derive(Clone, Debug)]
 /// Warning type enum for what to do when encountering unsupported markdown syntax.
@@ -88,13 +87,12 @@ fn handle_warning(node: &str, error: &WarningType) -> Option<String> {
 	match error {
 		WarningType::Warn => {
 			let msg = format!("WARNING: unsupported syntax skipped: {}", node);
-			print_error(&msg, ErrColor::Yellow);
+			print_warning(&msg);
 			None
 		}
 		WarningType::Fail => {
 			let msg = format!("WARNING: unsupported syntax found: {}", node);
-			print_error(&msg, ErrColor::Red);
-			exit(0);
+			print_error(&msg);
 		}
 		WarningType::Quiet => None,
 	}
