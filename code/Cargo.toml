@@ -24,7 +24,6 @@ num_cpus = { version = "1.16.0" }
 regex = { workspace = true }
 serde = { version = "1.0.204", features = ["derive"] }
 serde_json = { version = "1.0.122", features = ["preserve_order"] }
-terminal_color_builder = { version = "0.1.1" }
 thiserror = { version = "1.0.63" }
 
 [workspace.dependencies]

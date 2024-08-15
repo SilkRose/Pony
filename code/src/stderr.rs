@@ -1,20 +1,10 @@
-use terminal_color_builder::OutputFormatter as tcb;
+use std::process::exit;
 
-/// Enum for error color.
-pub enum ErrColor {
-	/// Yellow error message.
-	Yellow,
-	/// Red error message.
-	Red,
+pub fn print_warning(warning: &str) {
+	eprintln!("\x1b[93m{warning}\x1b[0m"); // Yellow for warnings
 }
 
-/// Function to print and error in a specified color.
-pub fn print_error(message: &str, color: ErrColor) {
-	let error = match color {
-		ErrColor::Yellow => tcb::new().fg().yellow(),
-		ErrColor::Red => tcb::new().fg().red(),
-	}
-	.text(message.to_string())
-	.print();
-	println!("{error}");
+pub fn print_error(error: &str) -> ! {
+	eprintln!("\x1b[91m{error}\x1b[0m"); // Red for errors
+	exit(0)
 }
