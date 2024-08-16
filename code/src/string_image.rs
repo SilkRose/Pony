@@ -1,4 +1,4 @@
-use super::error::{Error, Result};
+use super::error::Result;
 use crate::fs::find_files_in_dir;
 use image::{DynamicImage, GenericImageView};
 use std::collections::HashMap;
@@ -66,7 +66,7 @@ impl CharSet {
 			.filter(|f| f.ends_with(ext))
 			.collect::<Vec<_>>();
 		if font_files.is_empty() {
-			return Err(Error::new("No files found!"));
+			panic!("No files found!");
 		}
 		let mut line_height: Option<u8> = None;
 		let mut chars = HashMap::new();
@@ -76,7 +76,7 @@ impl CharSet {
 			if line_height.is_none() {
 				line_height = Some(image.dimensions().1 as u8)
 			} else if line_height != Some(image.dimensions().1 as u8) {
-				return Err(Error::new("Char height variance detected!"));
+				panic!("Char height variance detected!");
 			}
 			chars.insert(
 				char::from_u32(u32::from_str_radix(hex, 16)?).unwrap(),
