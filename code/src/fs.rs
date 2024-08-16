@@ -47,7 +47,10 @@ mod tests {
 	fn files_recursive() {
 		let mut files = find_files_in_dir("./test-dir", true).unwrap();
 		files.sort();
-		assert_eq!(vec!["./test-dir/d1/f2", "./test-dir/f1"], files);
+		assert_eq!(
+			vec!["./test-dir/d1/d2/f3", "./test-dir/d1/f2", "./test-dir/f1"],
+			files
+		);
 	}
 	#[test]
 	#[should_panic]
