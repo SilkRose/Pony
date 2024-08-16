@@ -185,7 +185,7 @@ fn handle_math(math: &Math) -> String {
 
 fn handle_heading(heading: &Heading, warn: &WarningType, definitions: &Definitions) -> String {
 	let text = handle_child_nodes(&heading.children, warn, definitions, "");
-	format!("[h{l}]\n{text}\n[/h{l}]", l = heading.depth)
+	format!("[h{l}]{text}[/h{l}]", l = heading.depth)
 }
 
 fn handle_thematic_break() -> String {
@@ -205,4 +205,23 @@ fn handle_paragraph(
 	paragraph: &Paragraph, warn: &WarningType, definitions: &Definitions,
 ) -> String {
 	handle_child_nodes(&paragraph.children, warn, definitions, "")
+}
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+
+	#[test]
+	fn heading_1() {
+		let md = "# Pinkie Pie";
+		let bbcode = parse(md, &WarningType::Quiet);
+		assert_eq!("[h1]Pinkie Pie[/h1]", bbcode);
+	}
+
+	#[test]
+	fn thematic_break() {
+		let md = "***";
+		let bbcode = parse(md, &WarningType::Quiet);
+		assert_eq!("[hr]", bbcode);
+	}
 }
