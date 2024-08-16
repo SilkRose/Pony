@@ -19,11 +19,11 @@ camino = { workspace = true }
 git2 = { version = "0.19.0" }
 image = { version = "0.25.2" }
 indoc = { version = "2.0.5" }
-markdown = { version = "1.0.0-alpha.18" }
+markdown = { version = "1.0.0-alpha.20" }
 num_cpus = { version = "1.16.0" }
 regex = { workspace = true }
-serde = { version = "1.0.204", features = ["derive"] }
-serde_json = { version = "1.0.122", features = ["preserve_order"] }
+serde = { version = "1.0.208", features = ["derive"] }
+serde_json = { version = "1.0.125", features = ["preserve_order"] }
 thiserror = { version = "1.0.63" }
 
 [workspace.dependencies]
@@ -31,7 +31,7 @@ camino = { version = "1.1.7" }
 proc-macro2 = { version = "1.0.86" }
 quote = { version = "1.0.36" }
 regex = { version = "1.10.6" }
-syn = { version = "2.0.72" }
+syn = { version = "2.0.74" }
 
 [workspace]
 members = ["packages/fanfic", "packages/fanfic-macros"]
