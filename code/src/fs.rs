@@ -33,3 +33,41 @@ pub fn find_dirs_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>> {
 	}
 	Ok(dirs)
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+
+	#[test]
+	fn files() {
+		let files = find_files_in_dir("./test-dir", false).unwrap();
+		assert_eq!(vec!["./test-dir/f1"], files);
+	}
+	#[test]
+	fn files_recursive() {
+		let mut files = find_files_in_dir("./test-dir", true).unwrap();
+		files.sort();
+		assert_eq!(vec!["./test-dir/d1/f2", "./test-dir/f1"], files);
+	}
+	#[test]
+	#[should_panic]
+	fn files_missing_dir() {
+		let _ = find_files_in_dir("./dir-test", false).unwrap();
+	}
+	#[test]
+	fn dirs() {
+		let dirs = find_dirs_in_dir("./test-dir", false).unwrap();
+		assert_eq!(vec!["./test-dir/d1"], dirs);
+	}
+	#[test]
+	fn dirs_recursive() {
+		let mut dirs = find_dirs_in_dir("./test-dir", true).unwrap();
+		dirs.sort();
+		assert_eq!(vec!["./test-dir/d1", "./test-dir/d1/d2"], dirs);
+	}
+	#[test]
+	#[should_panic]
+	fn dirs_missing_dir() {
+		let _ = find_dirs_in_dir("./dir-test", false).unwrap();
+	}
+}
