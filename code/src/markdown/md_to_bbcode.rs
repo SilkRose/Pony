@@ -1,4 +1,3 @@
-use crate::stderr::{print_error, print_warning};
 use markdown::mdast::{
 	BlockQuote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
@@ -86,13 +85,11 @@ fn md_to_bbcode(node: &Node, warn: &WarningType, definitions: &Definitions) -> O
 fn handle_warning(node: &str, error: &WarningType) -> Option<String> {
 	match error {
 		WarningType::Warn => {
-			let msg = format!("WARNING: unsupported syntax skipped: {}", node);
-			print_warning(&msg);
+			println!("WARNING: unsupported syntax skipped: {}", node);
 			None
 		}
 		WarningType::Fail => {
-			let msg = format!("WARNING: unsupported syntax found: {}", node);
-			print_error(&msg);
+			panic!("ERROR: unsupported syntax found: {}", node);
 		}
 		WarningType::Quiet => None,
 	}

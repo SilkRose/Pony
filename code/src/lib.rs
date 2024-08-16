@@ -12,7 +12,6 @@ pub mod number_format;
 pub mod pagination;
 pub mod regex;
 pub mod retry;
-pub mod stderr;
 pub mod stdin;
 pub mod string_image;
 pub mod string_number;
