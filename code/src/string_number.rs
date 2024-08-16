@@ -11,7 +11,7 @@ struct StringNumberVisitor<T> {
 }
 
 macro_rules! string_number {
-	($($T:ty),+ $(,)?) => {
+	($($T:ty: $visit:ident),+ $(,)?) => {
 		$(
 			impl fmt::Debug for StringNumber<$T> {
 				fn fmt(&self, f: &mut fmt::Formatter<'_>) -> fmt::Result {
@@ -65,35 +65,24 @@ macro_rules! string_number {
 					.map(|num| Self { num })
 				}
 			}
+
+			impl<'de> Visitor<'de> for StringNumberVisitor<$T> {
+				type Value = $T;
+
+				fn expecting(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
+					formatter.write_str("a number, or a number in a string")
+				}
+
+				visit_method!($visit v: $T { Ok(v) });
+				visit_method!(visit_str v: &str { v.parse().map_err(Error::custom) });
+				visit_method!(visit_bytes v: &[u8] {
+					std::str::from_utf8(v)
+						.map_err(Error::custom)
+						.and_then(|s| s.parse().map_err(Error::custom))
+					}
+				);
+			}
 		)+
-	};
-}
-
-macro_rules! string_number_integer {
-	($($T:ty),+ $(,)?) => {
-		$(impl<'de> Visitor<'de> for StringNumberVisitor<$T> {
-		type Value = $T;
-
-		fn expecting(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
-			formatter.write_str("a number, or a number in a string")
-		}
-		visit_method!(visit_i8 v: i8 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_i16 v: i16 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_i32 v: i32 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_i64 v: i64 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_i128 v: i128 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_u8 v: u8 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_u16 v: u16 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_u32 v: u32 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_u64 v: u64 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_u128 v: u128 { v.try_into().map_err(Error::custom) });
-		visit_method!(visit_str v: &str { v.parse().map_err(Error::custom) });
-		visit_method!(visit_bytes v: &[u8] {
-			std::str::from_utf8(v)
-				.map_err(Error::custom)
-				.and_then(|s| s.parse().map_err(Error::custom))
-			});
-		})+
 	};
 }
 
@@ -108,33 +97,20 @@ macro_rules! visit_method {
 	};
 }
 
-impl<'de> Visitor<'de> for StringNumberVisitor<f64> {
-	type Value = f64;
-
-	fn expecting(&self, formatter: &mut fmt::Formatter) -> fmt::Result {
-		formatter.write_str("a number, or a number in a string")
-	}
-	visit_method!(visit_f64 v: f64 { Ok(v) });
-	visit_method!(visit_i8 v: i8 { Ok(v.into()) });
-	visit_method!(visit_i16 v: i16 { Ok(v.into()) });
-	visit_method!(visit_i32 v: i32 { Ok(v.into()) });
-	visit_method!(visit_u8 v: u8 { Ok(v.into()) });
-	visit_method!(visit_u16 v: u16 { Ok(v.into()) });
-	visit_method!(visit_u32 v: u32 { Ok(v.into()) });
-	visit_method!(visit_str v: &str { v.parse().map_err(Error::custom) });
-	visit_method!(visit_bytes v: &[u8] {
-	std::str::from_utf8(v)
-		.map_err(Error::custom)
-		.and_then(|s| s.parse().map_err(Error::custom))
-	});
-}
-
-string_number!(f64);
-string_number!(u8, u16, u32, u64, u128, usize);
-string_number!(i8, i16, i32, i64, i128, isize);
-
-string_number_integer!(u8, u16, u32, u64, u128, usize);
-string_number_integer!(i8, i16, i32, i64, i128, isize);
+string_number!(
+	f32: visit_f32,
+	f64: visit_f64,
+	u8: visit_u8,
+	u16: visit_u16,
+	u32: visit_u32,
+	u64: visit_u64,
+	u128: visit_u128,
+	i8: visit_i8,
+	i16: visit_i16,
+	i32: visit_i32,
+	i64: visit_i64,
+	i128: visit_i128,
+);
 
 #[cfg(test)]
 mod tests {
