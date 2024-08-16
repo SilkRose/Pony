@@ -17,3 +17,24 @@ pub fn remove_punctuation(text: String) -> Result<String> {
 	let re = Regex::new(r"[^\w\s\'’]")?;
 	Ok(re.replace_all(&text, "").into())
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+	use regex::Regex;
+
+	#[test]
+	fn word_counter() {
+		let text = "Pinkie Pie is best pony!";
+		let words = word_count(text).unwrap();
+		assert_eq!(5, words);
+	}
+
+	#[test]
+	fn match_counter() {
+		let text = "Pinkie Pie is best pony!";
+		let includes = Regex::new(r"Pinkie Pie").unwrap();
+		let count = count_matches(text, includes);
+		assert_eq!(1, count);
+	}
+}
