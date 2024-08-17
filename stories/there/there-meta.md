@@ -16,6 +16,8 @@ Thanks to [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) for pre-
 
 Now with a [reading](https://www.youtube.com/watch?v=Ntgub22ZFcU) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw).
 
+[Reviewed](https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose) by [Lucky Seven](https://www.fimfiction.net/user/47070/Lucky+Seven).
+
 ## Short Description:
 She will be there, she has to be.
 
