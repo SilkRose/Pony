@@ -94,3 +94,5 @@ This file contains random story names that don't have enough thought to have the
 - Late Stage Romanticism
 - Mending Hearts with Broken Parts
 - Pinkie's Puzzle
+- Solve for Friendship
+- Solve for Love
