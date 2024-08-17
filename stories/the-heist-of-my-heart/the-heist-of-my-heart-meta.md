@@ -14,6 +14,8 @@ Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 Translated into Ukrainian by [volkov](https://www.fimfiction.net/user/595939/volkov), available [here](https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr).
 
+[Reviewed](https://www.fimfiction.net/group/217953/harmony-reviews/thread/544467/review-the-heist-of-my-heart-silk-rose) by [Shirlendra](https://www.fimfiction.net/user/312832/Shirlendra).
+
 ## Short Description:
 Pinkie tries to steal Twilight's heart, Twilight has other plans.
 
