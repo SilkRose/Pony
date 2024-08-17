@@ -1,4 +1,5 @@
-use super::error::Result;
+use crate::color::Color;
+use crate::error::Result;
 use crate::fs::find_files_in_dir;
 use image::{DynamicImage, GenericImageView};
 use std::collections::HashMap;
@@ -40,14 +41,6 @@ pub struct Spacing {
 pub struct Colors {
 	pub text: Color,
 	pub background: Color,
-}
-
-#[derive(Debug)]
-pub struct Color {
-	pub red: u8,
-	pub green: u8,
-	pub blue: u8,
-	pub alpha: u8,
 }
 
 #[derive(Debug)]
@@ -152,18 +145,8 @@ impl Default for Spacing {
 impl Default for Colors {
 	fn default() -> Self {
 		Colors {
-			text: Color {
-				red: 0,
-				green: 0,
-				blue: 0,
-				alpha: 255,
-			},
-			background: Color {
-				red: 0,
-				green: 0,
-				blue: 0,
-				alpha: 0,
-			},
+			text: Color::from_rgba(0, 0, 0, 255).unwrap(),
+			background: Color::from_rgba(0, 0, 0, 0).unwrap(),
 		}
 	}
 }
