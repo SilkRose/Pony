@@ -12,6 +12,8 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Now with a [reading](https://www.youtube.com/watch?v=hP5idtWADfk) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
+[Reviewed](https://www.fimfiction.net/blog/1046983/fic-recs-august-10th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Short Description:
 What do you do when your best friend licks your face out of nowhere? You lick back, obviously.
 
