@@ -10,6 +10,7 @@ pub mod json;
 pub mod markdown;
 pub mod number_format;
 pub mod pagination;
+pub mod palette;
 pub mod regex;
 pub mod retry;
 pub mod stdin;
