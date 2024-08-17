@@ -115,21 +115,21 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 While I may be the main contributor to this repository, I have had help, and thus I would like to give a special thanks to the following ponies:
 
 - **[Meadowsys]** for general coding help, cover feedback, pre-reading, and for creating [wiwi] and V1 of [fimd][original fimd].
-- **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, and cover feedback.
+- **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, cover feedback, and making the cover for [Unnamed Rarity x Rainbow Romance Story].
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
-- **[Scriblits Talo]** for collaborative writing, pre-reading, and making the cover for There.
+- **[Scriblits Talo]** for collaborative writing, pre-reading, and making the cover for [There].
 - **[knighty]** for granting me access to the FIMFiction [API][FIMFiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
 - **[IrradiatedPirateBooty]** for illustrating covers.
 - **TikiBat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
-- **[Rego]** for collaborative writing.
+- **[Rego]** for collaborative writing, story outlining, and writing advice.
 - **Cookieteer** for proofreading and pre-reading.
-- **[Steady Gaze]** for proofreading and making the cover for Timeless Tears.
+- **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **[gapty]** for proofreading.
 - **[Hyper Star]** for proofreading and pre-reading.
 - **[Visharo]** for pre-reading.
-- **[MoonSong Darkstone]** for writing The Saddest Rainbow.
+- **[MoonSong Darkstone]** for writing [The Saddest Rainbow].
 - **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
 - **EDEN** for collaborative writing.
 - **[Mockingbirb]** for proofreading.
@@ -229,5 +229,9 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Love Licks]: https://www.fimfiction.net/story/540399/love-licks "FIMFiction"
 [Profound Ponytail]: https://www.fimfiction.net/story/551751/profound-ponytail "FIMFiction"
 [There]: https://www.fimfiction.net/story/555927/there "FIMFiction"
+[Unnamed Rarity x Rainbow Romance Story]: https://www.fimfiction.net/story/560621/unnamed-rarity-and-rainbow-romance-story "FIMFiction"
+[Timeless Tears]: https://www.fimfiction.net/story/539973/timeless-tears "FIMFiction"
+
+[The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
 [banner]: ./archive/promotions/banner-02/banner-02-small.jpg
