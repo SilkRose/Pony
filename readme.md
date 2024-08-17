@@ -101,7 +101,7 @@ A few of my stories have had translations made for them, I would like to thank t
 ## License:
 All my writing: stories, ideas, names, outlines, and anything related to it in this repository is licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license-cc-zero], and its deed can be read [here][deed-cc-zero].
 
-All covers made by [Steady Gaze] are licensed under the Creative Commons Zero 1.0 Universal License.
+All covers made by [Steady Gaze], [Scriblits Talo], and [PseudoBob Delightus] are licensed under the Creative Commons Zero 1.0 Universal License.
 
 All pixel-art pony sprites and props created by [Langtanium], and all code within this repository is licensed under the MIT License, which can be read [here][license-mit].
 
