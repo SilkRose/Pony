@@ -16,6 +16,8 @@ Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo
 
 Entry into [The Rainbow Rocks 10th Anniversary Shipping Contest](https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-3-the-rules-and-how-to-enter).
 
+[Reviewed](https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose) by [Visharo](https://www.fimfiction.net/user/449252/Visharo).
+
 ## Short Description:
 While holding hands with her crush, Fluttershy confesses her feelings to her.
 
