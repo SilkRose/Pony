@@ -98,6 +98,16 @@ A few of my stories have had translations made for them, I would like to thank t
 | **[Nova Twinkle]** | Simplified Chinese | [Pony Pillows] | [小马枕头][Pony Pillows Chinese] |
 | **[keezwus]** | Simplified Chinese | [The Pink Tax] | [粉红税][The Pink Tax Chinese]
 
+## Reviews:
+A few of my stories have had reviews made for them, I would like to thank the following ponies for reviewing my work:
+
+| Reviewer | Story | Review |
+| :---: | :---: | :---: |
+| **[Shirlendra]** | [The Heist of My Heart] | [FIMFiction][The Heist of My Heart review] |
+| **[PresentPerfect]** | [Love Licks] | [FIMFiction][Love Licks review] |
+| **[Lucky Seven]** | [There] | [FIMFiction][There review] |
+| **[Visharo]** | [Whispers and Wishes] | [FIMFiction][Whispers and Wishes review] |
+
 ## License:
 All my writing: stories, ideas, names, outlines, and anything related to it in this repository is licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license-cc-zero], and its deed can be read [here][deed-cc-zero].
 
@@ -195,6 +205,9 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Visharo]: https://www.fimfiction.net/user/449252/Visharo "FIMFiction"
 [ThePeer]: https://www.fimfiction.net/user/537939/ThePeer "FIMFiction"
 [Rego]: https://www.fimfiction.net/user/180061/Rego "FIMFiction"
+[Shirlendra]: https://www.fimfiction.net/user/312832/Shirlendra "FIMFiction"
+[PresentPerfect]: https://www.fimfiction.net/user/923/PresentPerfect "FIMFiction"
+[Lucky Seven]: https://www.fimfiction.net/user/47070/Lucky+Seven "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
@@ -221,6 +234,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pony Pillows Chinese]: https://fimtale.com/t/57065 "FimTale"
 [The Pink Tax Chinese]: https://fimtale.com/t/54575 "FimTale"
 
+[The Heist of My Heart review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544467/review-the-heist-of-my-heart-silk-rose "FIMFiction"
+[Love Licks review]: https://www.fimfiction.net/blog/1046983/fic-recs-august-10th "FIMFiction"
+[There review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose "FIMFiction"
+[Whispers and Wishes review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose "FIMFiction"
+
 [Pony Pillows]: https://www.fimfiction.net/story/541813/pony-pillows "FIMFiction"
 [Best of Seventy-One]: https://www.fimfiction.net/story/540748/best-of-seventy-one "FIMFiction"
 [The Pink Tax]: https://www.fimfiction.net/story/539422/the-pink-tax "FIMFiction"
@@ -231,6 +249,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [There]: https://www.fimfiction.net/story/555927/there "FIMFiction"
 [Unnamed Rarity x Rainbow Romance Story]: https://www.fimfiction.net/story/560621/unnamed-rarity-and-rainbow-romance-story "FIMFiction"
 [Timeless Tears]: https://www.fimfiction.net/story/539973/timeless-tears "FIMFiction"
+[Whispers and Wishes]: https://www.fimfiction.net/story/560940/whispers-and-wishes "FIMFiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
