@@ -93,3 +93,4 @@ This file contains random story names that don't have enough thought to have the
 - System Fun Thinking
 - Late Stage Romanticism
 - Mending Hearts with Broken Parts
+- Pinkie's Puzzle
