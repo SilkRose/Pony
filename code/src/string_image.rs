@@ -1,7 +1,7 @@
 use crate::color::Color;
 use crate::error::Result;
 use crate::fs::find_files_in_dir;
-use image::{DynamicImage, GenericImageView};
+use image::{DynamicImage, GenericImageView, ImageBuffer, RgbaImage};
 use std::collections::HashMap;
 use std::path::MAIN_SEPARATOR as slash;
 
@@ -118,6 +118,36 @@ impl CharSet {
 			offset_y,
 		});
 		self
+	}
+
+	pub fn text_to_image(&self, text: &str, filepath: Option<&str>) -> Result<DynamicImage> {
+		let lines = text.split('\n').collect::<Vec<_>>();
+		let height = self.line_height * lines.len() as u32 + (self.border.top + self.border.bottom);
+		let width = lines
+			.iter()
+			.map(|line| {
+				line.chars()
+					.map(|c| self.chars.get(&c).unwrap().dimensions().0)
+					.sum::<u32>() + (line.len() as u32 * self.spacing.letter)
+					- 1
+			})
+			.max()
+			.unwrap();
+
+		let mut image: RgbaImage = ImageBuffer::from_fn(width, height, |_, _| {
+			image::Rgba([
+				self.colors.background.rgba.red,
+				self.colors.background.rgba.green,
+				self.colors.background.rgba.blue,
+				self.colors.background.rgba.alpha,
+			])
+		});
+
+		if let Some(filepath) = filepath {
+			image.save(filepath)?;
+		}
+
+		Ok(DynamicImage::from(image))
 	}
 }
 
