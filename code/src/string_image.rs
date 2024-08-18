@@ -123,14 +123,15 @@ impl CharSet {
 
 	pub fn text_to_image(&self, text: &str, filepath: Option<&str>) -> Result<DynamicImage> {
 		let lines = text.split('\n').collect::<Vec<_>>();
-		let height =
-			(self.line_height * lines.len() as u32) + (self.border.top + self.border.bottom);
+		let height = (self.line_height * lines.len() as u32)
+			+ (self.border.top + self.border.bottom)
+			+ (lines.len() as u32 - 1) * self.spacing.line;
 		let line_widths = lines
 			.iter()
 			.map(|line| {
 				line.chars()
 					.map(|c| self.chars.get(&c).unwrap().dimensions().0)
-					.sum::<u32>() + (line.len() as u32 * (self.spacing.letter - 1))
+					.sum::<u32>() + ((line.chars().count() as u32 - 1) * self.spacing.letter)
 			})
 			.collect::<Vec<_>>();
 		let max_width = line_widths.iter().max().unwrap() + (self.border.left + self.border.right);
@@ -155,12 +156,12 @@ impl CharSet {
 				let mut start_x = match self.justification {
 					Justification::Left => self.border.left,
 					Justification::CenterBreakLeft => {
-						((max_width - width) as f64 / 2.0).floor() as u32
+						((max_width - self.border.right - width) as f64 / 2.0).floor() as u32 + 1
 					}
 					Justification::CenterBreakRight => {
-						((max_width - width) as f64 / 2.0).ceil() as u32
+						((max_width - self.border.right - width) as f64 / 2.0).ceil() as u32 + 1
 					}
-					Justification::Right => self.border.right - width,
+					Justification::Right => max_width - width - self.border.right,
 				};
 
 				for char in line.chars() {
@@ -199,7 +200,7 @@ impl Default for Border {
 
 impl Default for Spacing {
 	fn default() -> Self {
-		Spacing { letter: 1, line: 2 }
+		Spacing { letter: 1, line: 1 }
 	}
 }
 
@@ -215,6 +216,7 @@ impl Default for Colors {
 #[cfg(test)]
 mod tests {
 	use super::*;
+
 	#[test]
 	fn load_chars() -> Result<()> {
 		CharSet::new("../archive/image-fonts/3x5-digits-square/", ".png")?;
