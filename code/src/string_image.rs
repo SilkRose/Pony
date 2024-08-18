@@ -8,7 +8,7 @@ use std::path::MAIN_SEPARATOR as slash;
 #[derive(Debug)]
 pub struct CharSet {
 	pub chars: HashMap<char, DynamicImage>,
-	pub line_height: u8,
+	pub line_height: u32,
 	pub justification: Justification,
 	pub border: Border,
 	pub spacing: Spacing,
@@ -25,16 +25,16 @@ pub enum Justification {
 
 #[derive(Debug)]
 pub struct Border {
-	pub top: u8,
-	pub right: u8,
-	pub bottom: u8,
-	pub left: u8,
+	pub top: u32,
+	pub right: u32,
+	pub bottom: u32,
+	pub left: u32,
 }
 
 #[derive(Debug)]
 pub struct Spacing {
-	pub letter: u8,
-	pub line: u8,
+	pub letter: u32,
+	pub line: u32,
 }
 
 #[derive(Debug)]
@@ -48,7 +48,6 @@ pub struct DropShadow {
 	pub color: Color,
 	pub offset_x: i8,
 	pub offset_y: i8,
-	pub overlap_border: bool,
 }
 
 impl CharSet {
@@ -61,14 +60,14 @@ impl CharSet {
 		if font_files.is_empty() {
 			panic!("No files found!");
 		}
-		let mut line_height: Option<u8> = None;
+		let mut line_height: Option<u32> = None;
 		let mut chars = HashMap::new();
 		for char in font_files {
 			let hex = char.trim_end_matches(ext).split(slash).last().unwrap();
 			let image = image::open(char)?;
 			if line_height.is_none() {
-				line_height = Some(image.dimensions().1 as u8)
-			} else if line_height != Some(image.dimensions().1 as u8) {
+				line_height = Some(image.dimensions().1)
+			} else if line_height != Some(image.dimensions().1) {
 				panic!("Char height variance detected!");
 			}
 			chars.insert(
@@ -92,7 +91,7 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_border(&mut self, top: u8, right: u8, bottom: u8, left: u8) -> &mut CharSet {
+	pub fn set_border(&mut self, top: u32, right: u32, bottom: u32, left: u32) -> &mut CharSet {
 		self.border = Border {
 			top,
 			right,
@@ -102,7 +101,7 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_spacing(&mut self, letter: u8, line: u8) -> &mut CharSet {
+	pub fn set_spacing(&mut self, letter: u32, line: u32) -> &mut CharSet {
 		self.spacing = Spacing { letter, line };
 		self
 	}
@@ -112,14 +111,11 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_drop_shadow(
-		&mut self, color: Color, offset_x: i8, offset_y: i8, overlap_border: bool,
-	) -> &mut CharSet {
+	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i8, offset_y: i8) -> &mut CharSet {
 		self.drop_shadow = Some(DropShadow {
 			color,
 			offset_x,
 			offset_y,
-			overlap_border,
 		});
 		self
 	}
