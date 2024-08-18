@@ -19,7 +19,8 @@ pub struct CharSet {
 #[derive(Debug)]
 pub enum Justification {
 	Left,
-	Center,
+	CenterBreakLeft,
+	CenterBreakRight,
 	Right,
 }
 
@@ -46,8 +47,8 @@ pub struct Colors {
 #[derive(Debug)]
 pub struct DropShadow {
 	pub color: Color,
-	pub offset_x: i8,
-	pub offset_y: i8,
+	pub offset_x: i32,
+	pub offset_y: i32,
 }
 
 impl CharSet {
@@ -78,7 +79,7 @@ impl CharSet {
 		Ok(CharSet {
 			chars,
 			line_height: line_height.unwrap(),
-			justification: Justification::Center,
+			justification: Justification::CenterBreakLeft,
 			border: Border::default(),
 			spacing: Spacing::default(),
 			colors: Colors::default(),
@@ -111,7 +112,7 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i8, offset_y: i8) -> &mut CharSet {
+	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i32, offset_y: i32) -> &mut CharSet {
 		self.drop_shadow = Some(DropShadow {
 			color,
 			offset_x,
