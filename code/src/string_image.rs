@@ -122,14 +122,15 @@ impl CharSet {
 
 	pub fn text_to_image(&self, text: &str, filepath: Option<&str>) -> Result<DynamicImage> {
 		let lines = text.split('\n').collect::<Vec<_>>();
-		let height = self.line_height * lines.len() as u32 + (self.border.top + self.border.bottom);
+		let height =
+			(self.line_height * lines.len() as u32) + (self.border.top + self.border.bottom);
 		let width = lines
 			.iter()
 			.map(|line| {
 				line.chars()
 					.map(|c| self.chars.get(&c).unwrap().dimensions().0)
-					.sum::<u32>() + (line.len() as u32 * self.spacing.letter)
-					- 1
+					.sum::<u32>() + (line.len() as u32 * (self.spacing.letter - 1))
+					+ (self.border.left + self.border.right)
 			})
 			.max()
 			.unwrap();
