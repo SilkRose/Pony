@@ -150,3 +150,13 @@ impl Default for Colors {
 		}
 	}
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+	#[test]
+	fn load_chars() -> Result<()> {
+		CharSet::new("../archive/image-fonts/3x5-digits-square/", ".png")?;
+		Ok(())
+	}
+}
