@@ -7,13 +7,13 @@ use std::path::MAIN_SEPARATOR as slash;
 
 #[derive(Debug)]
 pub struct StringImage {
-	pub chars: HashMap<char, DynamicImage>,
-	pub line_height: u32,
-	pub justification: Justification,
-	pub border: Border,
-	pub spacing: Spacing,
-	pub colors: Colors,
-	pub drop_shadow: Option<DropShadow>,
+	chars: HashMap<char, DynamicImage>,
+	line_height: u32,
+	justification: Justification,
+	border: Border,
+	spacing: Spacing,
+	colors: Colors,
+	drop_shadow: Option<DropShadow>,
 }
 
 #[derive(Debug)]
@@ -25,30 +25,30 @@ pub enum Justification {
 }
 
 #[derive(Debug)]
-pub struct Border {
-	pub top: u32,
-	pub right: u32,
-	pub bottom: u32,
-	pub left: u32,
+struct Border {
+	top: u32,
+	right: u32,
+	bottom: u32,
+	left: u32,
 }
 
 #[derive(Debug)]
-pub struct Spacing {
-	pub letter: u32,
-	pub line: u32,
+struct Spacing {
+	letter: u32,
+	line: u32,
 }
 
 #[derive(Debug)]
-pub struct Colors {
-	pub text: Color,
-	pub background: Color,
+struct Colors {
+	text: Color,
+	background: Color,
 }
 
 #[derive(Debug)]
-pub struct DropShadow {
-	pub color: Color,
-	pub offset_x: i32,
-	pub offset_y: i32,
+struct DropShadow {
+	color: Color,
+	offset_x: i32,
+	offset_y: i32,
 }
 
 impl StringImage {
