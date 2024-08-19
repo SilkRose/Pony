@@ -1,12 +1,12 @@
 use crate::color::Color;
 use crate::error::Result;
 use crate::fs::find_files_in_dir;
-use image::{DynamicImage, GenericImageView, ImageBuffer, RgbaImage};
+use image::{DynamicImage, GenericImageView, ImageBuffer, Rgba, RgbaImage};
 use std::collections::HashMap;
 use std::path::MAIN_SEPARATOR as slash;
 
 #[derive(Debug)]
-pub struct CharSet {
+pub struct StringImage {
 	pub chars: HashMap<char, DynamicImage>,
 	pub line_height: u32,
 	pub justification: Justification,
@@ -51,8 +51,8 @@ pub struct DropShadow {
 	pub offset_y: i32,
 }
 
-impl CharSet {
-	pub fn new(letter_dir: &str, ext: &str) -> Result<CharSet> {
+impl StringImage {
+	pub fn new(letter_dir: &str, ext: &str) -> Result<StringImage> {
 		let font_files = find_files_in_dir(letter_dir, true)?;
 		let font_files = font_files
 			.iter()
@@ -76,7 +76,7 @@ impl CharSet {
 				image,
 			);
 		}
-		Ok(CharSet {
+		Ok(StringImage {
 			chars,
 			line_height: line_height.unwrap(),
 			justification: Justification::CenterBreakLeft,
@@ -87,12 +87,12 @@ impl CharSet {
 		})
 	}
 
-	pub fn set_justification(&mut self, justification: Justification) -> &mut CharSet {
+	pub fn set_justification(&mut self, justification: Justification) -> &mut StringImage {
 		self.justification = justification;
 		self
 	}
 
-	pub fn set_border(&mut self, top: u32, right: u32, bottom: u32, left: u32) -> &mut CharSet {
+	pub fn set_border(&mut self, top: u32, right: u32, bottom: u32, left: u32) -> &mut StringImage {
 		self.border = Border {
 			top,
 			right,
@@ -102,17 +102,17 @@ impl CharSet {
 		self
 	}
 
-	pub fn set_spacing(&mut self, letter: u32, line: u32) -> &mut CharSet {
+	pub fn set_spacing(&mut self, letter: u32, line: u32) -> &mut StringImage {
 		self.spacing = Spacing { letter, line };
 		self
 	}
 
-	pub fn set_colors(&mut self, text: Color, background: Color) -> &mut CharSet {
+	pub fn set_colors(&mut self, text: Color, background: Color) -> &mut StringImage {
 		self.colors = Colors { text, background };
 		self
 	}
 
-	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i32, offset_y: i32) -> &mut CharSet {
+	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i32, offset_y: i32) -> &mut StringImage {
 		self.drop_shadow = Some(DropShadow {
 			color,
 			offset_x,
@@ -166,14 +166,18 @@ impl CharSet {
 
 				for char in line.chars() {
 					let char_image = self.chars.get(&char).unwrap();
-					'pix: for pixel in char_image.pixels() {
-						let a = pixel.2 .0[3];
-						if a == 0 {
-							continue 'pix;
+					for pixel in char_image.pixels() {
+						if pixel.2 .0[3] == 0 {
+							continue;
 						}
 						let (x, y) = (pixel.0 + start_x, pixel.1 + start_y);
-						let rgba = [pixel.2 .0[0], pixel.2 .0[1], pixel.2 .0[2], a];
-						image.put_pixel(x, y, image::Rgba(rgba));
+						let rgba = [
+							self.colors.text.rgba.red,
+							self.colors.text.rgba.green,
+							self.colors.text.rgba.blue,
+							self.colors.text.rgba.alpha,
+						];
+						image.put_pixel(x, y, Rgba(rgba));
 					}
 					start_x += char_image.dimensions().0 + self.spacing.letter;
 				}
@@ -219,7 +223,7 @@ mod tests {
 
 	#[test]
 	fn load_chars() -> Result<()> {
-		CharSet::new("../archive/image-fonts/3x5-digits-square/", ".png")?;
+		StringImage::new("../archive/image-fonts/3x5-digits-square/", ".png")?;
 		Ok(())
 	}
 }
