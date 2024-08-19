@@ -156,10 +156,12 @@ impl StringImage {
 				let mut start_x = match self.justification {
 					Justification::Left => self.border.left,
 					Justification::CenterBreakLeft => {
-						((max_width - self.border.right - width) as f64 / 2.0).floor() as u32 + 1
+						((max_width - self.border.left - self.border.right - width) as f64 / 2.0)
+							.floor() as u32 + self.border.left
 					}
 					Justification::CenterBreakRight => {
-						((max_width - self.border.right - width) as f64 / 2.0).ceil() as u32 + 1
+						((max_width - self.border.left - self.border.right - width) as f64 / 2.0)
+							.ceil() as u32 + self.border.left
 					}
 					Justification::Right => max_width - width - self.border.right,
 				};
