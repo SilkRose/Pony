@@ -130,7 +130,13 @@ impl StringImage {
 			.iter()
 			.map(|line| {
 				line.chars()
-					.map(|c| self.chars.get(&c).unwrap().dimensions().0)
+					.map(|c| {
+						self.chars
+							.get(&c)
+							.unwrap_or_else(|| panic!("Char in text not found in set!"))
+							.dimensions()
+							.0
+					})
 					.sum::<u32>() + ((line.chars().count() as u32 - 1) * self.spacing.letter)
 			})
 			.collect::<Vec<_>>();
