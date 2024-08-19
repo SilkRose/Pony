@@ -87,12 +87,12 @@ impl StringImage {
 		})
 	}
 
-	pub fn set_justification(&mut self, justification: Justification) -> &mut StringImage {
+	pub fn set_justification(mut self, justification: Justification) -> Self {
 		self.justification = justification;
 		self
 	}
 
-	pub fn set_border(&mut self, top: u32, right: u32, bottom: u32, left: u32) -> &mut StringImage {
+	pub fn set_border(mut self, top: u32, right: u32, bottom: u32, left: u32) -> Self {
 		self.border = Border {
 			top,
 			right,
@@ -102,17 +102,17 @@ impl StringImage {
 		self
 	}
 
-	pub fn set_spacing(&mut self, letter: u32, line: u32) -> &mut StringImage {
+	pub fn set_spacing(mut self, letter: u32, line: u32) -> Self {
 		self.spacing = Spacing { letter, line };
 		self
 	}
 
-	pub fn set_colors(&mut self, text: Color, background: Color) -> &mut StringImage {
+	pub fn set_colors(mut self, text: Color, background: Color) -> Self {
 		self.colors = Colors { text, background };
 		self
 	}
 
-	pub fn set_drop_shadow(&mut self, color: Color, offset_x: i32, offset_y: i32) -> &mut StringImage {
+	pub fn set_drop_shadow(mut self, color: Color, offset_x: i32, offset_y: i32) -> Self {
 		self.drop_shadow = Some(DropShadow {
 			color,
 			offset_x,
