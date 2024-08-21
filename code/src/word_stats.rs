@@ -1,5 +1,5 @@
 use super::error::Result;
-use super::markdown::md_to_plaintext::parse;
+use super::markdown::plaintext::parse;
 use regex::Regex;
 
 pub fn count_matches(text: &str, includes: Regex) -> usize {
