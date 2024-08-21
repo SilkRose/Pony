@@ -174,6 +174,35 @@ impl StringImage {
 
 				for char in line.chars() {
 					let char_image = self.chars.get(&char).unwrap();
+
+					if let Some(drop_shadow) = &self.drop_shadow {
+						for pixel in char_image.pixels() {
+							if pixel.2 .0[3] == 0
+								|| self.colors.background.rgba.red != pixel.2 .0[0]
+								|| self.colors.background.rgba.green != pixel.2 .0[1]
+								|| self.colors.background.rgba.blue != pixel.2 .0[2]
+								|| self.colors.background.rgba.alpha != pixel.2 .0[3]
+							{
+								continue;
+							}
+							let (x, y) = (
+								(pixel.0 + start_x) as i32 + drop_shadow.offset_x,
+								(pixel.1 + start_y) as i32 + drop_shadow.offset_y,
+							);
+							let rgba = [
+								drop_shadow.color.rgba.red,
+								drop_shadow.color.rgba.green,
+								drop_shadow.color.rgba.blue,
+								drop_shadow.color.rgba.alpha,
+							];
+							image.put_pixel(
+								x.try_into().unwrap(),
+								y.try_into().unwrap(),
+								Rgba(rgba),
+							);
+						}
+					}
+
 					for pixel in char_image.pixels() {
 						if pixel.2 .0[3] == 0 {
 							continue;
