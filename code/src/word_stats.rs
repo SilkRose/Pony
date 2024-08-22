@@ -1,6 +1,5 @@
 use super::error::Result;
-use super::markdown::parse;
-use crate::markdown::{FormatType, WarningType};
+use super::markdown::plaintext::parse;
 use regex::Regex;
 
 pub fn count_matches(text: &str, includes: Regex) -> usize {
@@ -8,7 +7,7 @@ pub fn count_matches(text: &str, includes: Regex) -> usize {
 }
 
 pub fn word_count(text: &str) -> Result<usize> {
-	let plain_text = parse(text, &WarningType::Quiet, &FormatType::PlainText);
+	let plain_text = parse(text);
 	Ok(remove_punctuation(plain_text)?.split_whitespace().count())
 }
 

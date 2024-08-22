@@ -1,12 +1,36 @@
-use super::{handle_child_nodes_bbcode, handle_warning, Definitions, WarningType};
+use super::{handle_warning, Definitions, WarningType};
 use markdown::mdast::{
-	BlockQuote, Code, Delete, Emphasis, Heading, Image, ImageReference, InlineCode, InlineMath,
-	Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
+	BlockQuote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
+	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
+use markdown::{to_mdast, ParseOptions};
 
-pub(super) fn md_to_bbcode(
-	node: &Node, warn: &WarningType, definitions: &Definitions,
-) -> Option<String> {
+/// Parse function for turning markdown into FIMFiction BBCode.
+pub fn parse(md: &str, warn: &WarningType) -> String {
+	let node = to_mdast(md, &ParseOptions::gfm()).unwrap();
+	handle_node(&node, warn)
+}
+
+fn handle_node(node: &Node, warn: &WarningType) -> String {
+	let definitions = node
+		.children()
+		.unwrap()
+		.iter()
+		.filter_map(|n| match n {
+			Node::Definition(definition) => Some(handle_definition(definition)),
+			_ => None,
+		})
+		.collect::<Definitions>();
+
+	node.children()
+		.unwrap()
+		.iter()
+		.filter_map(|n| md_to_bbcode(n, warn, &definitions))
+		.collect::<Vec<_>>()
+		.join("\n\n")
+}
+
+fn md_to_bbcode(node: &Node, warn: &WarningType, definitions: &Definitions) -> Option<String> {
 	match node {
 		Node::Root(root) => Some(handle_root(root, warn, definitions)),
 		Node::BlockQuote(quote) => Some(handle_quote(quote, warn, definitions)),
@@ -45,13 +69,27 @@ pub(super) fn md_to_bbcode(
 	}
 }
 
+fn handle_child_nodes(
+	nodes: &[Node], warn: &WarningType, definitions: &Definitions, separator: &str,
+) -> String {
+	nodes
+		.iter()
+		.filter_map(|node| md_to_bbcode(node, warn, definitions))
+		.collect::<Vec<_>>()
+		.join(separator)
+}
+
+fn handle_root(root: &Root, warn: &WarningType, definitions: &Definitions) -> String {
+	handle_child_nodes(&root.children, warn, definitions, "")
+}
+
 fn handle_quote(blockquote: &BlockQuote, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&blockquote.children, warn, definitions, "\n\n");
+	let text = handle_child_nodes(&blockquote.children, warn, definitions, "\n\n");
 	format!("[quote]\n{text}\n[/quote]")
 }
 
 fn handle_list(list: &List, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&list.children, warn, definitions, "\n");
+	let text = handle_child_nodes(&list.children, warn, definitions, "\n");
 	match list.ordered {
 		true => format!("[list=1]\n{text}\n[/list]"),
 		false => format!("[list]\n{text}\n[/list]"),
@@ -71,12 +109,12 @@ fn handle_inline_math(math: &InlineMath) -> String {
 }
 
 fn handle_delete(delete: &Delete, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&delete.children, warn, definitions, "");
+	let text = handle_child_nodes(&delete.children, warn, definitions, "");
 	format!("[s]{text}[/s]")
 }
 
 fn handle_emphasis(emphasis: &Emphasis, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&emphasis.children, warn, definitions, "");
+	let text = handle_child_nodes(&emphasis.children, warn, definitions, "");
 	format!("[i]{text}[/i]")
 }
 
@@ -90,20 +128,20 @@ fn handle_image_reference(image: &ImageReference, definitions: &Definitions) -> 
 }
 
 fn handle_link(link: &Link, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&link.children, warn, definitions, "");
+	let text = handle_child_nodes(&link.children, warn, definitions, "");
 	format!("[url={}]{text}[/url]", link.url)
 }
 
 fn handle_link_reference(
 	link: &LinkReference, warn: &WarningType, definitions: &Definitions,
 ) -> String {
-	let text = handle_child_nodes_bbcode(&link.children, warn, definitions, "");
+	let text = handle_child_nodes(&link.children, warn, definitions, "");
 	let url = definitions.get(&link.identifier).unwrap();
 	format!("[url={url}]{text}[/url]")
 }
 
 fn handle_strong(strong: &Strong, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&strong.children, warn, definitions, "");
+	let text = handle_child_nodes(&strong.children, warn, definitions, "");
 	format!("[b]{text}[/b]")
 }
 
@@ -120,7 +158,7 @@ fn handle_math(math: &Math) -> String {
 }
 
 fn handle_heading(heading: &Heading, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&heading.children, warn, definitions, "");
+	let text = handle_child_nodes(&heading.children, warn, definitions, "");
 	format!("[h{l}]{text}[/h{l}]", l = heading.depth)
 }
 
@@ -129,16 +167,35 @@ fn handle_thematic_break() -> String {
 }
 
 fn handle_list_item(list_item: &ListItem, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes_bbcode(&list_item.children, warn, definitions, "");
+	let text = handle_child_nodes(&list_item.children, warn, definitions, "");
 	format!("[*]{text}")
+}
+
+fn handle_definition(definition: &Definition) -> (String, String) {
+	(definition.identifier.clone(), definition.url.clone())
 }
 
 fn handle_paragraph(
 	paragraph: &Paragraph, warn: &WarningType, definitions: &Definitions,
 ) -> String {
-	handle_child_nodes_bbcode(&paragraph.children, warn, definitions, "")
+	handle_child_nodes(&paragraph.children, warn, definitions, "")
 }
 
-fn handle_root(root: &Root, warn: &WarningType, definitions: &Definitions) -> String {
-	handle_child_nodes_bbcode(&root.children, warn, definitions, "")
+#[cfg(test)]
+mod tests {
+	use super::*;
+
+	#[test]
+	fn heading_1() {
+		let md = "# Pinkie Pie";
+		let bbcode = parse(md, &WarningType::Quiet);
+		assert_eq!("[h1]Pinkie Pie[/h1]", bbcode);
+	}
+
+	#[test]
+	fn thematic_break() {
+		let md = "***";
+		let bbcode = parse(md, &WarningType::Quiet);
+		assert_eq!("[hr]", bbcode);
+	}
 }

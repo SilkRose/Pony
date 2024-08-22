@@ -1,6 +1,7 @@
 use camino::Utf8Path;
 use pony::fs::find_files_in_dir;
-use pony::markdown::{parse, FormatType, WarningType};
+use pony::markdown::bbcode::parse;
+use pony::markdown::WarningType;
 use pony::regex::matches;
 use regex::Regex;
 use std::error::Error;
@@ -18,7 +19,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 		.filter(|file| matches(file, &includes, &excludes))
 		.for_each(|input| {
 			let md = fs::read_to_string(input).unwrap();
-			let bbcode = parse(&md, &WarningType::Quiet, &FormatType::BBCode);
+			let bbcode = parse(&md, &WarningType::Quiet);
 			let output = input.replace("../", "./publish/").replace(".md", ".txt");
 			fs::create_dir_all(Utf8Path::new(&output).parent().unwrap()).unwrap();
 			fs::write(output, bbcode).unwrap();
