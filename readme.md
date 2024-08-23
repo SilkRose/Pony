@@ -107,6 +107,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[PresentPerfect]** | [Love Licks] | [FIMFiction][Love Licks review] |
 | **[Lucky Seven]** | [There] | [FIMFiction][There review] |
 | **[Visharo]** | [Whispers and Wishes] | [FIMFiction][Whispers and Wishes review] |
+| **[PresentPerfect]** | [The Pink Tax] | [FIMFiction][The Pink Tax review] |
 
 ## License:
 All my writing: stories, ideas, names, outlines, and anything related to it in this repository is licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license-cc-zero], and its deed can be read [here][deed-cc-zero].
@@ -238,6 +239,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Love Licks review]: https://www.fimfiction.net/blog/1046983/fic-recs-august-10th "FIMFiction"
 [There review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose "FIMFiction"
 [Whispers and Wishes review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose "FIMFiction"
+[The Pink Tax review]: https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd "FIMFiction"
 
 [Pony Pillows]: https://www.fimfiction.net/story/541813/pony-pillows "FIMFiction"
 [Best of Seventy-One]: https://www.fimfiction.net/story/540748/best-of-seventy-one "FIMFiction"
