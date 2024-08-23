@@ -14,6 +14,8 @@ Translated into Chinese by [keezwus](https://fimtale.com/u/keezwus), available [
 
 Now with two readings, [one](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio), and [one](https://www.youtube.com/watch?v=Nouf1_Sbysc) done by [Pony&Wolf Productions](https://www.youtube.com/@PonyWolfProductions).
 
+[Reviewed](https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Short Description:
 Tax season is almost over, and Pinkie hasn't paid hers yet.
 
