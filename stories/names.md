@@ -96,3 +96,5 @@ This file contains random story names that don't have enough thought to have the
 - Pinkie's Puzzle
 - Solve for Friendship
 - Solve for Love
+- Deterministic
+- Non-deterministic
