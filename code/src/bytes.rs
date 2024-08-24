@@ -1,5 +1,6 @@
-use super::error::Result;
 use super::number_format::format_number_unit_f64;
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 pub enum FormatType {
 	Abbreviation,

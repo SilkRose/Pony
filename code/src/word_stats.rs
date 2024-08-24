@@ -1,6 +1,7 @@
-use super::error::Result;
 use super::markdown::plaintext::parse;
 use regex::Regex;
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 pub fn count_matches(text: &str, includes: Regex) -> usize {
 	includes.find_iter(text).count()

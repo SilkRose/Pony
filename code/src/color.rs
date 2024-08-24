@@ -1,5 +1,6 @@
-use super::error::Result;
 use serde::{Deserialize, Serialize};
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 #[derive(Debug, Serialize, Deserialize, PartialEq)]
 pub struct Color {

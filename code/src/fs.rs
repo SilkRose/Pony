@@ -1,5 +1,6 @@
-use super::error::Result;
 use camino::Utf8Path;
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 /// Find files function, takes in a dir, and a closure for what to include.
 pub fn find_files_in_dir(dir: &str, recursive: bool) -> Result<Vec<String>> {

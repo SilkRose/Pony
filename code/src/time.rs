@@ -1,6 +1,7 @@
-use super::error::Result;
 use crate::number_format::format_number_u128;
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 #[derive(Debug, Clone)]
 pub struct TimeUnit {

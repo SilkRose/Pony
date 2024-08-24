@@ -1,8 +1,9 @@
-use super::error::Result;
 use serde::de::DeserializeOwned;
 use serde::ser::Serialize;
 use serde_json::{ser::PrettyFormatter, Serializer};
 use std::{fs, io::Write, path::Path};
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 pub enum JsonFormat {
 	Minify,

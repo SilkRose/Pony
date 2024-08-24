@@ -5,7 +5,6 @@ pub mod averages;
 pub mod bytes;
 pub mod color;
 pub mod command;
-pub mod error;
 pub mod fs;
 pub mod json;
 pub mod markdown;

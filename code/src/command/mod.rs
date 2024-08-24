@@ -1,8 +1,9 @@
 #![deny(missing_docs)]
 #![doc = include_str!("./readme.md")]
 
-use super::error::Result;
 use std::process::{Command, ExitStatus, Output};
+
+type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
 /// Executes a Linux/macOS or Windows command with a Result of ExitStatus.
 pub fn execute_command(cmd: &str) -> Result<ExitStatus> {
