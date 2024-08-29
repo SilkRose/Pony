@@ -100,3 +100,4 @@ This file contains random story names that don't have enough thought to have the
 - Non-deterministic
 - Precipitation Protocol
 - Stolen Story
+- Suffering Insincere
