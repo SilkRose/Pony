@@ -23,6 +23,7 @@ impl LevelSystem {
 	pub fn add_xp(mut self, xp: u128) -> Result<Self> {
 		let mut xp = xp;
 		while xp >= self.next_level_xp {
+			self.current_level += 1;
 			xp -= self.next_level_xp - self.xp_within_level;
 			self.xp_within_level = 0;
 			self.next_level_xp = (self.algorithm)(self.current_level, self.next_level_xp)?;
