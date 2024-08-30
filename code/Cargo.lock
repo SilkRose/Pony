@@ -249,17 +249,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "fanfic-macros"
-version = "0.0.0"
-dependencies = [
- "camino",
- "proc-macro2",
- "quote",
- "regex",
- "syn",
-]
-
-[[package]]
 name = "fdeflate"
 version = "0.3.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
