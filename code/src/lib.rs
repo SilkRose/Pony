@@ -12,7 +12,6 @@ pub mod number_format;
 pub mod regex;
 pub mod stdin;
 pub mod string_image;
-pub mod threads;
 pub mod time;
 pub mod traits;
 pub mod word_stats;
