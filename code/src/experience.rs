@@ -22,7 +22,7 @@ macro_rules! experience {
 				}
 			}
 
-			pub fn add_xp(mut self, xp: $T) -> Result<Self> {
+			pub fn add_xp(&mut self, xp: $T) -> Result<()> {
 				let mut xp = xp;
 				while xp >= self.next_level_xp {
 					self.current_level += 1;
@@ -31,14 +31,13 @@ macro_rules! experience {
 					self.next_level_xp = (self.algorithm)(self.current_level, self.next_level_xp)?;
 				}
 				self.xp_within_level += xp;
-				Ok(self)
+				Ok(())
 			}
 		})+
 	};
 }
 
 experience!(u8, u16, u32, u64, u128, usize);
-experience!(i8, i16, i32, i64, i128, isize);
 
 #[cfg(test)]
 mod tests {
@@ -46,24 +45,24 @@ mod tests {
 
 	#[test]
 	fn xp() -> Result<()> {
-		let xp = LevelSystem::<u128>::new(0, 100, Box::new(|level, _| Ok((level + 1) * 100)))
-			.add_xp(1000)?;
+		let mut xp = LevelSystem::<u128>::new(0, 100, Box::new(|level, _| Ok((level + 1) * 100)));
+		xp.add_xp(1000)?;
 		assert_eq!(4, xp.current_level);
 		Ok(())
 	}
 
 	#[test]
 	fn progress() -> Result<()> {
-		let xp = LevelSystem::<u128>::new(0, 100, Box::new(|level, _| Ok((level + 1) * 100)))
-			.add_xp(200)?;
+		let mut xp = LevelSystem::<u128>::new(0, 100, Box::new(|level, _| Ok((level + 1) * 100)));
+		xp.add_xp(200)?;
 		assert_eq!(100, xp.xp_within_level);
 		Ok(())
 	}
 
 	#[test]
 	fn max() -> Result<()> {
-		let xp = LevelSystem::<u128>::new(0, u128::MAX, Box::new(|_, _| Ok(u128::MAX)))
-			.add_xp(u128::MAX)?;
+		let mut xp = LevelSystem::<u128>::new(0, u128::MAX, Box::new(|_, _| Ok(u128::MAX)));
+		xp.add_xp(u128::MAX)?;
 		assert_eq!(1, xp.current_level);
 		Ok(())
 	}
