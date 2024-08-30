@@ -22,15 +22,15 @@ indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.20" }
 num_cpus = { version = "1.16.0" }
 regex = { workspace = true }
-serde = { version = "1.0.208", features = ["derive"] }
-serde_json = { version = "1.0.125", features = ["preserve_order"] }
+serde = { version = "1.0.209", features = ["derive"] }
+serde_json = { version = "1.0.127", features = ["preserve_order"] }
 
 [workspace.dependencies]
-camino = { version = "1.1.7" }
+camino = { version = "1.1.9" }
 proc-macro2 = { version = "1.0.86" }
-quote = { version = "1.0.36" }
+quote = { version = "1.0.37" }
 regex = { version = "1.10.6" }
-syn = { version = "2.0.74" }
+syn = { version = "2.0.76" }
 
 [workspace]
 members = ["packages/fanfic", "packages/fanfic-macros"]
