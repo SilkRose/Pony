@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## The Ship of Theseus
+
+### Synopsis:
+the Ship of Theseus but it's two groups of changelings each pretending to be a single pony each. The two ponies are dating but neither of the groups know the other pony is a group of changelings.
+
+***
+
 ## Thin White Sheet
 
 ### Synopsis one:
