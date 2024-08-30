@@ -9,7 +9,6 @@ pub mod fs;
 pub mod json;
 pub mod markdown;
 pub mod number_format;
-pub mod pagination;
 pub mod regex;
 pub mod stdin;
 pub mod string_image;
