@@ -32,3 +32,32 @@ impl LevelSystem {
 		Ok(self)
 	}
 }
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+
+	#[test]
+	fn xp() -> Result<()> {
+		let xp =
+			LevelSystem::new(0, 100, Box::new(|level, _| Ok((level + 1) * 100))).add_xp(1000)?;
+		assert_eq!(4, xp.current_level);
+		Ok(())
+	}
+
+	#[test]
+	fn progress() -> Result<()> {
+		let xp =
+			LevelSystem::new(0, 100, Box::new(|level, _| Ok((level + 1) * 100))).add_xp(200)?;
+		assert_eq!(100, xp.xp_within_level);
+		Ok(())
+	}
+
+	#[test]
+	fn max() -> Result<()> {
+		let xp =
+			LevelSystem::new(0, u128::MAX, Box::new(|_, _| Ok(u128::MAX))).add_xp(u128::MAX)?;
+		assert_eq!(1, xp.current_level);
+		Ok(())
+	}
+}
