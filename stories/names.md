@@ -101,3 +101,4 @@ This file contains random story names that don't have enough thought to have the
 - Precipitation Protocol
 - Stolen Story
 - Suffering Insincere
+- Conspiracy to Cuddle
