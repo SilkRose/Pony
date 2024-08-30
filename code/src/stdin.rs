@@ -1,6 +1,5 @@
-use super::command::execute_command;
+use std::error::Error;
 use std::io::{self, IsTerminal, Read, Write};
-use std::{error::Error, fs};
 
 /// Function to collect stdin or return None.
 pub fn get_stdin() -> Option<String> {
@@ -30,18 +29,4 @@ where
 		}
 	}
 	Ok(answer.trim().to_string())
-}
-
-pub fn ask_longform(question: &str, temp_filename: &str) -> Result<String, Box<dyn Error>> {
-	fs::File::create_new(temp_filename)?;
-	fs::write(temp_filename, question)?;
-	let mut stdout = io::stdout();
-	stdout.write_all(b"\x1B[?1049h")?;
-	stdout.flush()?;
-	execute_command(&format!("vim {temp_filename}"))?;
-	stdout.write_all(b"\x1B[?1049l")?;
-	stdout.flush()?;
-	let answer = fs::read_to_string(temp_filename)?;
-	fs::remove_file(temp_filename)?;
-	Ok(answer)
 }
