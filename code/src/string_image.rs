@@ -138,10 +138,10 @@ impl StringImage {
 		for line in &lines {
 			let mut width = 0;
 			for char in line.chars() {
-				if char == ' ' {
+				if char == ' ' && !self.chars.contains_key(&char) {
 					width += self.spacing.space;
 					continue;
-				} else if char == '\t' {
+				} else if char == '\t' && !self.chars.contains_key(&char) {
 					width += self.spacing.tab;
 					continue;
 				}
@@ -195,10 +195,10 @@ impl StringImage {
 					if let Some(pre) = previous {
 						if pre != ' ' && pre != '\t' && char == ' ' || char == '\t' {
 							start_x -= self.spacing.letter;
-							if char == ' ' {
+							if char == ' ' && !self.chars.contains_key(&char) {
 								start_x += self.spacing.space;
 								continue;
-							} else if char == '\t' {
+							} else if char == '\t' && !self.chars.contains_key(&char) {
 								start_x += self.spacing.tab;
 								continue;
 							}
