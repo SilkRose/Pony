@@ -35,8 +35,10 @@ struct Border {
 
 #[derive(Debug)]
 struct Spacing {
-	letter: u32,
+	tab: u32,
 	line: u32,
+	space: u32,
+	letter: u32,
 }
 
 #[derive(Debug)]
@@ -103,8 +105,13 @@ impl StringImage {
 		self
 	}
 
-	pub fn set_spacing(mut self, letter: u32, line: u32) -> Self {
-		self.spacing = Spacing { letter, line };
+	pub fn set_spacing(mut self, tab: u32, line: u32, space: u32, letter: u32) -> Self {
+		self.spacing = Spacing {
+			tab,
+			line,
+			space,
+			letter,
+		};
 		self
 	}
 
@@ -173,7 +180,21 @@ impl StringImage {
 					Justification::Right => max_width - width - self.border.right,
 				};
 
+				let mut previous: Option<char> = None;
 				for char in line.chars() {
+					if let Some(pre) = previous {
+						if pre != ' ' && pre != '\t' && char == ' ' || char == '\t' {
+							start_x -= self.spacing.letter;
+							if char == ' ' {
+								start_x += self.spacing.space;
+								continue;
+							} else if char == '\t' {
+								start_x += self.spacing.tab;
+								continue;
+							}
+						}
+					}
+
 					let char_image = self.chars.get(&char).unwrap();
 
 					for pixel in char_image.pixels() {
@@ -208,6 +229,7 @@ impl StringImage {
 						}
 					}
 					start_x += char_image.dimensions().0 + self.spacing.letter;
+					previous = Some(char);
 				}
 			});
 
@@ -232,7 +254,12 @@ impl Default for Border {
 
 impl Default for Spacing {
 	fn default() -> Self {
-		Spacing { letter: 1, line: 1 }
+		Spacing {
+			tab: 12,
+			line: 2,
+			space: 3,
+			letter: 1,
+		}
 	}
 }
 
