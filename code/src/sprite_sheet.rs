@@ -1,4 +1,4 @@
-use image::{DynamicImage, GenericImage, GenericImageView, ImageBuffer, Rgba, RgbaImage};
+use image::{imageops, DynamicImage, GenericImage, GenericImageView, ImageBuffer, Rgba, RgbaImage};
 use std::collections::HashMap;
 
 type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
@@ -76,6 +76,20 @@ impl SpriteSheet {
 		}
 
 		Ok(())
+	}
+
+	pub fn get_sprite(&self, x: u32, y: u32) -> Result<DynamicImage> {
+		if x >= self.columns || y >= self.rows {
+			return Err("Sprite X or Y outside of sheet bounds!".into());
+		}
+		let img = imageops::crop_imm(
+			&self.image,
+			x * self.sprite_width,
+			y * self.sprite_height,
+			self.sprite_width,
+			self.sprite_height,
+		);
+		Ok(DynamicImage::ImageRgba8(img.to_image()))
 	}
 }
 
