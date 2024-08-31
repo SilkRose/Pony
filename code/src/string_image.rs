@@ -134,20 +134,30 @@ impl StringImage {
 		let height = (self.line_height * lines.len() as u32)
 			+ (self.border.top + self.border.bottom)
 			+ (lines.len() as u32 - 1) * self.spacing.line;
-		let line_widths = lines
-			.iter()
-			.map(|line| {
-				line.chars()
-					.map(|c| {
-						self.chars
-							.get(&c)
-							.unwrap_or_else(|| panic!("Char in text not found in set!"))
-							.dimensions()
-							.0
-					})
-					.sum::<u32>() + ((line.chars().count() as u32 - 1) * self.spacing.letter)
-			})
-			.collect::<Vec<_>>();
+		let mut line_widths: Vec<u32> = vec![];
+		for line in &lines {
+			let mut width = 0;
+			for char in line.chars() {
+				if char == ' ' {
+					width += self.spacing.space;
+					continue;
+				} else if char == '\t' {
+					width += self.spacing.tab;
+					continue;
+				}
+				width += self
+					.chars
+					.get(&char)
+					.unwrap_or_else(|| panic!("Char in text not found in set!"))
+					.dimensions()
+					.0
+			}
+			let char_count = line.chars().filter(|c| *c != ' ' || *c != '\t').count() as u32;
+			if char_count > 1 {
+				width += (char_count - 1) * self.spacing.letter;
+			}
+			line_widths.push(width);
+		}
 		let max_width = line_widths.iter().max().unwrap() + (self.border.left + self.border.right);
 
 		let mut image: RgbaImage = ImageBuffer::from_fn(max_width, height, |_, _| {
