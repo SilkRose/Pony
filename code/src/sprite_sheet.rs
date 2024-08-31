@@ -58,6 +58,25 @@ impl SpriteSheet {
 			columns,
 		})
 	}
+
+	pub fn set_sprite(&mut self, sprite: DynamicImage, x: u32, y: u32) -> Result<()> {
+		let (width, height) = sprite.dimensions();
+		if x >= self.columns || y >= self.rows {
+			return Err("Sprite X or Y outside of sheet bounds!".into());
+		}
+		if width > self.sprite_width || height > self.sprite_height {
+			return Err("Sprite height or width outside of sheet bounds!".into());
+		}
+		let start_x = x * self.sprite_width;
+		let start_y = y * self.sprite_height;
+		for (sprite_x, sprite_y, pixel) in sprite.pixels() {
+			let target_x = start_x + sprite_x;
+			let target_y = start_y + sprite_y;
+			self.image.put_pixel(target_x, target_y, pixel);
+		}
+
+		Ok(())
+	}
 }
 
 #[cfg(test)]
