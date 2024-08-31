@@ -35,10 +35,10 @@ struct Border {
 
 #[derive(Debug)]
 struct Spacing {
-	tab: u32,
 	line: u32,
-	space: u32,
 	letter: u32,
+	tab: Option<u32>,
+	space: Option<u32>,
 }
 
 #[derive(Debug)]
@@ -105,12 +105,14 @@ impl StringImage {
 		self
 	}
 
-	pub fn set_spacing(mut self, tab: u32, line: u32, space: u32, letter: u32) -> Self {
+	pub fn set_spacing(
+		mut self, line: u32, letter: u32, tab: Option<u32>, space: Option<u32>,
+	) -> Self {
 		self.spacing = Spacing {
-			tab,
 			line,
-			space,
 			letter,
+			tab,
+			space,
 		};
 		self
 	}
@@ -138,11 +140,23 @@ impl StringImage {
 		for line in &lines {
 			let mut width = 0;
 			for char in line.chars() {
-				if char == ' ' && !self.chars.contains_key(&char) {
-					width += self.spacing.space;
+				if char == ' ' {
+					if let Some(space) = self.chars.get(&char) {
+						width += space.dimensions().0;
+					} else if let Some(space) = self.spacing.space {
+						width += space
+					} else {
+						return Err("Char in text not found in set!".into());
+					}
 					continue;
-				} else if char == '\t' && !self.chars.contains_key(&char) {
-					width += self.spacing.tab;
+				} else if char == '\t' {
+					if let Some(tab) = self.chars.get(&char) {
+						width += tab.dimensions().0;
+					} else if let Some(tab) = self.spacing.tab {
+						width += tab
+					} else {
+						return Err("Char in text not found in set!".into());
+					}
 					continue;
 				}
 				width += self
@@ -195,11 +209,19 @@ impl StringImage {
 					if let Some(pre) = previous {
 						if pre != ' ' && pre != '\t' && char == ' ' || char == '\t' {
 							start_x -= self.spacing.letter;
-							if char == ' ' && !self.chars.contains_key(&char) {
-								start_x += self.spacing.space;
+							if char == ' ' {
+								if let Some(space) = self.chars.get(&char) {
+									start_x += space.dimensions().0;
+								} else if let Some(space) = self.spacing.space {
+									start_x += space
+								}
 								continue;
-							} else if char == '\t' && !self.chars.contains_key(&char) {
-								start_x += self.spacing.tab;
+							} else if char == '\t' {
+								if let Some(tab) = self.chars.get(&char) {
+									start_x += tab.dimensions().0;
+								} else if let Some(tab) = self.spacing.tab {
+									start_x += tab
+								}
 								continue;
 							}
 						}
@@ -265,10 +287,10 @@ impl Default for Border {
 impl Default for Spacing {
 	fn default() -> Self {
 		Spacing {
-			tab: 12,
 			line: 2,
-			space: 3,
 			letter: 1,
+			tab: None,
+			space: None,
 		}
 	}
 }
