@@ -1,4 +1,4 @@
-use image::{DynamicImage, GenericImageView, ImageBuffer, Rgba, RgbaImage};
+use image::{DynamicImage, GenericImage, GenericImageView, ImageBuffer, Rgba, RgbaImage};
 use std::collections::HashMap;
 
 type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
@@ -15,14 +15,17 @@ pub struct SpriteSheet {
 
 impl SpriteSheet {
 	pub fn new(width: u32, height: u32, rows: u32, columns: u32) -> Result<SpriteSheet> {
+		if rows == 0 || columns == 0 {
+			return Err("Number of rows or columns cannot be zero!".into());
+		}
 		let image: RgbaImage = ImageBuffer::from_fn(width, height, |_, _| Rgba([0, 0, 0, 0]));
 		let sprite_width = width / columns;
 		let sprite_height = height / rows;
 		if sprite_width == 0 || sprite_height == 0 {
-			return Err("Tile width or height is zero!".into());
+			return Err("Sprite width or height is zero!".into());
 		}
-		if width % sprite_width != 0 || height % sprite_height != 0 {
-			return Err("Image dimensions not divisible by rows or columns!".into());
+		if width % columns != 0 || height % rows != 0 {
+			return Err("Image dimensions not divisible by number of rows or columns!".into());
 		}
 		Ok(SpriteSheet {
 			image: DynamicImage::from(image),
@@ -34,16 +37,18 @@ impl SpriteSheet {
 	}
 
 	pub fn load(file: &str, rows: u32, columns: u32) -> Result<SpriteSheet> {
+		if rows == 0 || columns == 0 {
+			return Err("Number of rows or columns cannot be zero!".into());
+		}
 		let image = image::open(file)?;
-		let width = image.dimensions().0;
-		let height = image.dimensions().1;
+		let (width, height) = image.dimensions();
 		let sprite_width = width / columns;
 		let sprite_height = height / rows;
 		if sprite_width == 0 || sprite_height == 0 {
-			return Err("Tile width or height is zero!".into());
+			return Err("Sprite width or height is zero!".into());
 		}
-		if width % sprite_width != 0 || height % sprite_height != 0 {
-			return Err("Image dimensions not divisible by rows or columns!".into());
+		if width % columns != 0 || height % rows != 0 {
+			return Err("Image dimensions not divisible by number of rows or columns!".into());
 		}
 		Ok(SpriteSheet {
 			image,
