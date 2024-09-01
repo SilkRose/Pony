@@ -24,6 +24,12 @@ pub fn unix_time() -> Result<u128> {
 	Ok(SystemTime::now().duration_since(UNIX_EPOCH)?.as_millis())
 }
 
+pub fn sleep_until_interval(interval: u128) -> Result<()> {
+	let start_time = unix_time()?;
+	let end_time = start_time % interval;
+	sleep(start_time, end_time)
+}
+
 pub fn format_milliseconds(ms: u128, max_units: Option<u8>) -> Result<String> {
 	let units = vec![
 		TimeUnit {
