@@ -37,8 +37,8 @@ struct Border {
 struct Spacing {
 	line: u32,
 	letter: u32,
-	tab: Option<u32>,
 	space: Option<u32>,
+	tab_stop: Option<u32>,
 }
 
 #[derive(Debug)]
@@ -106,15 +106,34 @@ impl StringImage {
 	}
 
 	pub fn set_spacing(
-		mut self, line: u32, letter: u32, tab: Option<u32>, space: Option<u32>,
-	) -> Self {
+		mut self, line: u32, letter: u32, space: Option<u32>, tab_stop: Option<u32>,
+	) -> Result<Self> {
+		if let Some(space) = space {
+			let image: RgbaImage =
+				ImageBuffer::from_fn(space, self.line_height, |_, _| Rgba([0, 0, 0, 0]));
+			self.chars
+				.insert(' ', image::DynamicImage::ImageRgba8(image));
+		}
+		if let Some(tab) = tab_stop {
+			let width = if let Some(space) = space {
+				space * tab + ((self.spacing.letter - 1) * tab)
+			} else if self.chars.contains_key(&' ') {
+				self.chars.get(&' ').unwrap().dimensions().0 * tab + (self.spacing.letter - 1) * tab
+			} else {
+				return Err("Can't set tab stop without space width or character!".into());
+			};
+			let image: RgbaImage =
+				ImageBuffer::from_fn(width, self.line_height, |_, _| Rgba([0, 0, 0, 0]));
+			self.chars
+				.insert('\t', image::DynamicImage::ImageRgba8(image));
+		}
 		self.spacing = Spacing {
 			line,
 			letter,
-			tab,
 			space,
+			tab_stop,
 		};
-		self
+		Ok(self)
 	}
 
 	pub fn set_colors(mut self, text: Color, background: Color) -> Self {
@@ -136,42 +155,20 @@ impl StringImage {
 		let height = (self.line_height * lines.len() as u32)
 			+ (self.border.top + self.border.bottom)
 			+ (lines.len() as u32 - 1) * self.spacing.line;
-		let mut line_widths: Vec<u32> = vec![];
-		for line in &lines {
-			let mut width = 0;
-			for char in line.chars() {
-				if char == ' ' {
-					if let Some(space) = self.chars.get(&char) {
-						width += space.dimensions().0;
-					} else if let Some(space) = self.spacing.space {
-						width += space
-					} else {
-						return Err("Char in text not found in set!".into());
-					}
-					continue;
-				} else if char == '\t' {
-					if let Some(tab) = self.chars.get(&char) {
-						width += tab.dimensions().0;
-					} else if let Some(tab) = self.spacing.tab {
-						width += tab
-					} else {
-						return Err("Char in text not found in set!".into());
-					}
-					continue;
-				}
-				width += self
-					.chars
-					.get(&char)
-					.unwrap_or_else(|| panic!("Char in text not found in set!"))
-					.dimensions()
-					.0
-			}
-			let char_count = line.chars().filter(|c| *c != ' ' || *c != '\t').count() as u32;
-			if char_count > 1 {
-				width += (char_count - 1) * self.spacing.letter;
-			}
-			line_widths.push(width);
-		}
+		let line_widths = lines
+			.iter()
+			.map(|line| {
+				line.chars()
+					.map(|c| {
+						self.chars
+							.get(&c)
+							.unwrap_or_else(|| panic!("Char in text not found in set!"))
+							.dimensions()
+							.0
+					})
+					.sum::<u32>() + ((line.chars().count() as u32 - 1) * self.spacing.letter)
+			})
+			.collect::<Vec<_>>();
 		let max_width = line_widths.iter().max().unwrap() + (self.border.left + self.border.right);
 
 		let mut image: RgbaImage = ImageBuffer::from_fn(max_width, height, |_, _| {
@@ -204,29 +201,7 @@ impl StringImage {
 					Justification::Right => max_width - width - self.border.right,
 				};
 
-				let mut previous: Option<char> = None;
 				for char in line.chars() {
-					if let Some(pre) = previous {
-						if pre != ' ' && pre != '\t' && char == ' ' || char == '\t' {
-							start_x -= self.spacing.letter;
-							if char == ' ' {
-								if let Some(space) = self.chars.get(&char) {
-									start_x += space.dimensions().0;
-								} else if let Some(space) = self.spacing.space {
-									start_x += space
-								}
-								continue;
-							} else if char == '\t' {
-								if let Some(tab) = self.chars.get(&char) {
-									start_x += tab.dimensions().0;
-								} else if let Some(tab) = self.spacing.tab {
-									start_x += tab
-								}
-								continue;
-							}
-						}
-					}
-
 					let char_image = self.chars.get(&char).unwrap();
 
 					for pixel in char_image.pixels() {
@@ -261,7 +236,6 @@ impl StringImage {
 						}
 					}
 					start_x += char_image.dimensions().0 + self.spacing.letter;
-					previous = Some(char);
 				}
 			});
 
@@ -289,8 +263,8 @@ impl Default for Spacing {
 		Spacing {
 			line: 2,
 			letter: 1,
-			tab: None,
 			space: None,
+			tab_stop: None,
 		}
 	}
 }
