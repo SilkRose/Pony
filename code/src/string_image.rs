@@ -37,8 +37,6 @@ struct Border {
 struct Spacing {
 	line: u32,
 	letter: u32,
-	space: Option<u32>,
-	tab_stop: Option<u32>,
 }
 
 #[derive(Debug)]
@@ -127,12 +125,7 @@ impl StringImage {
 			self.chars
 				.insert('\t', image::DynamicImage::ImageRgba8(image));
 		}
-		self.spacing = Spacing {
-			line,
-			letter,
-			space,
-			tab_stop,
-		};
+		self.spacing = Spacing { line, letter };
 		Ok(self)
 	}
 
@@ -260,12 +253,7 @@ impl Default for Border {
 
 impl Default for Spacing {
 	fn default() -> Self {
-		Spacing {
-			line: 2,
-			letter: 1,
-			space: None,
-			tab_stop: None,
-		}
+		Spacing { line: 2, letter: 1 }
 	}
 }
 
