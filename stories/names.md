@@ -103,3 +103,4 @@ This file contains random story names that don't have enough thought to have the
 - Suffering Insincere
 - Conspiracy to Cuddle
 - Celestial Counting
+- Letters From a Lost Friend
