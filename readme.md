@@ -109,6 +109,13 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[Visharo]** | [Whispers and Wishes] | [FIMFiction][Whispers and Wishes review] |
 | **[PresentPerfect]** | [The Pink Tax] | [FIMFiction][The Pink Tax review] |
 
+## Contest Placements:
+I've participated in a few contests, here are the placements below:
+
+| Story | Contest | Results | Placement |
+| :---: | :---: | :---: | :---: |
+| **[Whispers and Wishes]** | [The Rainbow Rocks 10th Anniversary Shipping Contest] | [FIMFiction][The Rainbow Rocks 10th Anniversary Shipping Contest Results] | Judge Prize |
+
 ## License:
 All my writing: stories, ideas, names, outlines, and anything related to it in this repository is licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license-cc-zero], and its deed can be read [here][deed-cc-zero].
 
@@ -240,6 +247,10 @@ While I may be the main contributor to this repository, I have had help, and thu
 [There review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose "FIMFiction"
 [Whispers and Wishes review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose "FIMFiction"
 [The Pink Tax review]: https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd "FIMFiction"
+
+[The Rainbow Rocks 10th Anniversary Shipping Contest]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-7-the-rules-and-how-to-enter "FIMFiction"
+
+[The Rainbow Rocks 10th Anniversary Shipping Contest Results]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/546412/the-rainbow-rocks-shipping-contest-results "FIMFiction"
 
 [Pony Pillows]: https://www.fimfiction.net/story/541813/pony-pillows "FIMFiction"
 [Best of Seventy-One]: https://www.fimfiction.net/story/540748/best-of-seventy-one "FIMFiction"
