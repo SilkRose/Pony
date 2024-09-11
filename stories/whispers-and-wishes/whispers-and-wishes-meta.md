@@ -14,7 +14,7 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
 
-Entry into [The Rainbow Rocks 10th Anniversary Shipping Contest](https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-3-the-rules-and-how-to-enter).
+Entry into [The Rainbow Rocks 10th Anniversary Shipping Contest](https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-3-the-rules-and-how-to-enter). Won a [Judge Prize](https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/546412/the-rainbow-rocks-shipping-contest-results).
 
 [Reviewed](https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose) by [Visharo](https://www.fimfiction.net/user/449252/Visharo).
 
