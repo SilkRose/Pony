@@ -14,6 +14,8 @@ Now with a [reading](https://www.youtube.com/watch?v=IDpCsRCrsdM) done by [Rainb
 
 Now with a second [reading](https://www.youtube.com/watch?v=fKw3kauBSqM) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
+[Reviewed](https://www.fimfiction.net/blog/1050186/fic-recs-september-13th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Short Description:
 Applejack loses her ponytail and nopony recognizes her after.
 
