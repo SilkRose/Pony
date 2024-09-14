@@ -108,6 +108,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[Lucky Seven]** | [There] | [FIMFiction][There review] |
 | **[Visharo]** | [Whispers and Wishes] | [FIMFiction][Whispers and Wishes review] |
 | **[PresentPerfect]** | [The Pink Tax] | [FIMFiction][The Pink Tax review] |
+| **[PresentPerfect]** | [Profound Ponytail] | [FIMFiction][Profound Ponytail review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
@@ -247,6 +248,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [There review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose "FIMFiction"
 [Whispers and Wishes review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose "FIMFiction"
 [The Pink Tax review]: https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd "FIMFiction"
+[Profound Ponytail review]: https://www.fimfiction.net/blog/1050186/fic-recs-september-13th "FIMFiction"
 
 [The Rainbow Rocks 10th Anniversary Shipping Contest]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-7-the-rules-and-how-to-enter "FIMFiction"
 
