@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## The Pinkie Pie Protection Act
+
+### Synopsis:
+Pinkie's friends create a legal act protecting them from her shenanigans. After drafting the entire act with Pinkie protesting, they reveal that it was all just a prank.
+
+***
+
 ## The Ship of Theseus
 
 ### Synopsis:
