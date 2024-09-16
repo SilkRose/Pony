@@ -105,3 +105,4 @@ This file contains random story names that don't have enough thought to have the
 - Celestial Counting
 - Letters From a Lost Friend
 - Mares and Math
+- Four's Friendship
