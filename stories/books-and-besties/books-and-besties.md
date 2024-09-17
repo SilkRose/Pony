@@ -14,7 +14,7 @@ Twilight doesn't wait for my reply, instead she starts getting books down from t
 
 As she levitates books at me, I notice a book with an old-timey castle on the front of it. I get inspired and build the castle out of the books Twilight is floating me.
 
-Eventually she turns back to me and notices the castle, causing her mouth to hand open in shock. "Didn't think I got down that many books…"
+Eventually she turns back to me and notices the castle, causing her mouth to hang open in shock. "Didn't think I got down that many books…"
 
 I lower the functioning book drawbridge. "It's okay, come on in!"
 
@@ -76,7 +76,7 @@ Twilight asks, "What makes the walk romantic?"
 
 "I think its being together with the other pony, and I think you're supposed to talk about your interests and hobbies."
 
-"I really like learning new things. I love reading and studying. I love my friends and I *like* you."
+"I really like learning new things. I love reading and studying. I love my friends and I *like* you, a lot."
 
 I nuzzle Twilight as we walk. "I like you too. I love throwing parties and making my friends smile!"
 
@@ -114,7 +114,7 @@ We finish another lap of the castle and stop at the gate.
 
 Twilight looks at me and asks, "What do we do now?"
 
-I think for a moment before my stomach grumbles. "Let's have a romantic dinner. What do you think?"
+I think for a moment before my stomach grumbles. "Let's have a romantic candle-lit dinner. What do you think?"
 
 "That sounds good. What should we eat?"
 
@@ -126,7 +126,7 @@ I think for a moment before my stomach grumbles. "Let's have a romantic dinner. 
 
 "Okay, let's do this!"
 
-With that I left for her kitchen while thinking of what to make.
+With that I leave for her kitchen while thinking of what to make.
 
 Looking through her cupboards I find exactly what I am looking for: spaghetti.
 
@@ -170,7 +170,7 @@ Twilight starts eating as well, levitating the end of a noodle before slurping i
 
 I munch down on the food rather quickly as I am starving.
 
-We make quick work on the food, but as the dries up, I start to slurp a particularly long noodle. I follow it, and it leads me right to Twilight. Before I knew it our lips met and we stared into each other's eyes.
+We make quick work on the food, but as it dries up, I start to slurp a particularly long noodle. I follow it, and it leads me right to Twilight. Before I knew it our lips met and we stared into each other's eyes.
 
 After the accidental kiss, I apologize. "I'm sorry, Twilight."
 
@@ -252,7 +252,7 @@ Twilight squeezes me tighter. "Well, that depends."
 
 I can't think of what to say as the events of the date play over in my head. Every interaction replayed with a new intention. A blush overtakes my face as the realization hits.
 
-I have a crush on Twilight.
+*I have a crush on Twilight.*
 
 I don't answer the question, I simply turn to Twilight and kiss her gently.
 
