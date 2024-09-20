@@ -1,34 +1,32 @@
 # Books and Besties
 
-I close Twilight's door as the rain pounds the bark of her tree house.
+I peer out of Twilight's door as the rain pounds the bark of her treehouse.
 
 Twilight asks, "Do you want to stay here tonight, Pinkie?"
 
-Thunder roars in the distance as my answer is made for me.
+ My answer is made for me as thunder roars in the distance.
 
-"Yes, this is going to be so much fun!"
+"Sure! This is going to be so much fun!"
 
-"Oh, I'm so excited! What should we do, read a book? I've been reading a lot of stories about romance lately."
+"Oh, I'm so excited! What should we do, read a book? I've been reading a lot of romance lately."
 
-Twilight doesn't wait for my reply, instead she starts getting books down from the shelves, funneling them to me.
+Twilight doesn't wait for my reply. Instead she starts getting books down from the shelves, showing them to me faster than I can read the titles. But I notice a book with an old-timey castle on the front of it, and I get inspired and build the castle out of the books Twilight is showing me.
 
-As she levitates books at me, I notice a book with an old-timey castle on the front of it. I get inspired and build the castle out of the books Twilight is floating me.
+Eventually she turns around and notices the castle, causing her mouth to hang open in shock. "Woah... I didn't think I grabbed *that* many books…"
 
-Eventually she turns back to me and notices the castle, causing her mouth to hang open in shock. "Didn't think I got down that many books…"
-
-I lower the functioning book drawbridge. "It's okay, come on in!"
+I lower the drawbridge, which is made of books. "It's okay, come on in!"
 
 She comes inside and I give her a hug.
 
 She returns the hug. "Nice job on the castle."
 
-"Thanks, but instead of reading a story, we could make our own! We've got so many books we can make anything we want out of them."
+"Thanks, but how about instead of reading a story, we make our own! You've got so many books here, we can make anything we want out of them."
 
-"What story should we tell, though?"
+"Hmm. What story should we tell, though?"
 
 "It could be anything. What story do you want to tell?"
 
-Twilight's ears fold back, and she looks down at the floor for a second before looking back up at me. "Could we go on a date? Like a fake one… I've never been on a date."
+Twilight's ears fold back, and she looks down at the floor for a second before looking back up at me. "Could we go on a date? Like a fake one… I've never been on a real date."
 
 "Absolutely! That sounds fun."
 
@@ -38,15 +36,15 @@ Twilight hugs me tightly. "Thanks."
 
 After the hug, Twilight asks, "What do we do first on our date?"
 
-As I think about how dates work, something immediately sticks out in my head. "Let's go on a romantic walk at the beach."
+As I think about how dates work, something immediately comes to mind. "Let's go on a romantic walk on the beach."
 
 "How do we do that with just a pile of books?"
 
-"We use our imagination. We can use books with colors like sand and water."
+"We can use books with different colors... and our imagination."
 
 "Oh, okay."
 
-"Can you get me the books we can use for sand?"
+"Can you find some books we can use for sand?"
 
 "Sure," Twilight says before exiting the castle.
 
@@ -72,21 +70,21 @@ Twilight blushes and asks, "You ready for our romantic walk on the beach?"
 
 I nod, and we come together and slowly trot side by side on the path.
 
-Twilight asks, "What makes the walk romantic?"
+Twilight asks, "What makes a walk like this romantic?"
 
-"I think its being together with the other pony, and I think you're supposed to talk about your interests and hobbies."
+"I think it's all about being together with another pony. Maybe we're supposed to talk about our interests and hobbies."
 
-"I really like learning new things. I love reading and studying. I love my friends and I *like* you, a lot."
+"Well, I really like learning new things. I love reading and studying. I love my friends and I like *you*, a lot."
 
 I nuzzle Twilight as we walk. "I like you too. I love throwing parties and making my friends smile!"
 
 Twilight blushes as we trot in silence.
 
-*Twilight is really cute when she's blushing.*
+*She's really cute when she's blushing.*
 
-I don't think about it and continue on, after all, this isn't a real date.
+I try not to think about that and continue on. After all, this isn't a real date.
 
-As we walk we occasionally bump and rub against each other. Each touch sending mixed signals throughout my mind.
+As we walk along the thin path, we occasionally bump and rub against each other. Each touch sends tingles through my mind.
 
 *This must be a really good fake date if its making me feel like this.*
 
@@ -96,17 +94,17 @@ She says, "The waves are really beautiful, like you." Twilight levitates more bl
 
 I blush as I stare at the extremely cute wave simulation, then I hold her hoof.
 
-After the moment is over Twilight puts the waves back, and we continue our slow gaunt.
+After the moment is over Twilight puts the waves back, and we continue our slow walk.
 
-I think about what else to talk about and think of a good question. "Twilight, why did you want to go on a date me?"
+I wonder what else we can talk about, and think of a good question. "Twilight, why did you want to go on a date me?"
 
 "I love your personality, you always make me smile and laugh. You think of things I never would have. You're also the prettiest mare I've ever seen. Your presence never fails to brighten my mood."
 
 "Aww, thank you!" I say before pulling Twilight into a tight hug.
 
-She hugs back and after the hug, I give my answer.
+She hugs back and after the hug, I give my own answer.
 
-"I love your personality too, you are so curious and knowledgeable. You ask why to my why not. You're also, also super-duper pretty. You make me smile just by being near."
+"I wanted to go on date with you because I love your personality too. You're so curious and knowledgeable. You ask why to my why not. You're also super-duper pretty. You make me smile just by being nearby."
 
 She says, "Thank you," and we both smile eat each other.
 
