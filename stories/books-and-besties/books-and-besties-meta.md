@@ -4,12 +4,12 @@
 Pinkie is stuck at Twilight's in a thunderstorm, and Twilight is trying to get her to read. Pinkie gets an idea as Twilight shovels books her way. She makes a fort out of books that looks like one of the forts on the cover of a book. Twilight is shocked and inquires what she is doing.
 
 ## Description:
-Twilight tries to get Pinkie to read more while stuck at her house in a thunderstorm; Pinkie has other plans.
+A thunderstorm keeps Pinkie at Twilight's house. Twilight tries to get her to read more; Pinkie has other plans.
 
 Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 ## Short Description:
-Twilight tries to get Pinkie to read more while stuck at her house in a thunderstorm; Pinkie has other plans.
+A thunderstorm keeps Pinkie at Twilight's house. Twilight tries to get her to read more; Pinkie has other plans.
 
 ## Ideas:
 
