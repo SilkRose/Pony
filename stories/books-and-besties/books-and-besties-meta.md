@@ -8,6 +8,10 @@ A thunderstorm keeps Pinkie at Twilight's house. Twilight tries to get her to re
 
 Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for helping with ideas.
+
 ## Short Description:
 A thunderstorm keeps Pinkie at Twilight's house. Twilight tries to get her to read more; Pinkie has other plans.
 
