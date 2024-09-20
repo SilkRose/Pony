@@ -106,7 +106,7 @@ She hugs back and after the hug, I give my own answer.
 
 "I wanted to go on date with you because I love your personality too. You're so curious and knowledgeable. You ask why to my why not. You're also super-duper pretty. You make me smile just by being nearby."
 
-She says, "Thank you," and we both smile eat each other.
+Twilight blushed, saying, "Thank you."
 
 We finish another lap of the castle and stop at the gate.
 
