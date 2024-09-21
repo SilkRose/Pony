@@ -116,19 +116,17 @@ I think for a moment before my stomach grumbles. "Let's have a romantic candle-l
 
 "That sounds good. What should we eat?"
 
-"How about this? I'll make the food, and you make the setting."
+"How about this - I make the food, and you make the setting."
 
-"You really think I can do it?"
+"You really think I can do that?"
 
-"You got this. Those waves were pretty creative."
+"Those waves were pretty creative. You got this. "
 
-"Okay, let's do this!"
+"Okay, let's do it!"
 
-With that I leave for her kitchen while thinking of what to make.
+With that I leave her to it while I head to the kitchen thinking of what to make.
 
-Looking through her cupboards I find exactly what I am looking for: spaghetti.
-
-What romantic dinner is complete without spaghetti.
+Looking through her cupboards I find exactly what I am looking for: spaghetti. What romantic dinner is complete without spaghetti?
 
 I begin to make the pasta as I think about the date.
 
@@ -144,7 +142,7 @@ I begin to make the pasta as I think about the date.
 
 *But, if she liked me, why would it be a fake date?*
 
-*At least were both having fun.*
+*At least we're both having fun.*
 
 I focus on making the food and hum to myself until the pasta and sauce are finished.
 
@@ -162,7 +160,7 @@ Twilight says, "The food looks delicious."
 
 "Thanks."
 
-As I continue to stare, a blush starts to form on my face. I decide to start eating to hide it.
+As I continue to stare, a blush starts to form on my face. I start eating to hide it.
 
 Twilight starts eating as well, levitating the end of a noodle before slurping it up.
 
@@ -184,7 +182,7 @@ We sit in silence again and stare at each other.
 
 Twilight breaks the silence eventually. "What should we do next?"
 
-"Why don't you pick the last thing, since I picked the first two."
+"Why don't you pick the next thing, since I picked the first two."
 
 Twilight thinks for a moment, before suggesting, "How about I make a little show for us to watch?"
 
@@ -198,17 +196,13 @@ I point at a specific book and say, "Pull that."
 
 Twilight does, and the gate raises up.
 
-Twilight scoots close to me and wraps a hoof around me, holding me tight.
+Twilight scoots close to me and wraps a hoof around me, holding me tight. I lean into her embrace and hold her hoof to my chest.
 
-She strategically pulls out a rectangle of books from the wall of the castle in front of us.
+She strategically pulls rectangle of books out of the wall of the castle in front of us, then levitates a purple book into the frame. "This is a story about a lonely book."
 
-I lean into Twilight's embrace, and hold her hoof to my chest.
+She levitates five more books into frame, each a different color: pink, blue, white, yellow, and orange.
 
-Twilight levitates a purple book into the frame. "This is a story about a lonely book."
-
-She levitates five more books into frame, the colors: pink, blue, white, yellow, and orange.
-
-"She had friends, but her loneliness was from a lack of romantic companionship."
+"The book had friends, sure, but her loneliness was from a lack of romantic companionship."
 
 Twilight levitates all but the pink book away.
 
@@ -220,11 +214,11 @@ She brings the two books really close.
 
 She spins the pink book in her magic.
 
-"Luckily for her, her pink book friend had to stay the night, and they wanted to do something together."
+"Luckily for her, her pink book friend had to stay the night, so they could do something together."
 
 She spins the purple book now.
 
-"She asked if they could go on a fake date. She thought if she could go on a pretend date, maybe by the end she would have the courage to ask her friend out."
+"She asked if they could go on a fake date. She thought if she could go through the motions of a date, maybe by the end she would have the courage to ask her friend out."
 
 She puts the books together and moves them in a circle around the frame.
 
@@ -240,23 +234,25 @@ She puts the books together in the corner and adds a third book on the other sid
 
 She moves the books to the center and places them down.
 
+"And then..."
+
 I ask, "What happens next?"
 
 Twilight squeezes me tighter. "Well, that depends."
 
 "On what?"
 
-"Pinkie, can we change the past? Can this date be real? Will you go out with me?"
+"Pinkie, can we change the past? Can we make this date real? Will you go out with me?"
 
-I can't think of what to say as the events of the date play over in my head. Every interaction replayed with a new intention. A blush overtakes my face as the realization hits.
+I can't think of what to say as I remember the events of the date. Everything replays in my head with a new intention. A blush overtakes my face as the realization hits.
 
 *I have a crush on Twilight.*
 
-I don't answer the question, I simply turn to Twilight and kiss her gently.
+I don't so anything, I simply turn to Twilight and kiss her gently.
 
 "Does that answer your question?"
 
-Twilight doesn't reply and kisses me again.
+Twilight returns the kiss.
 
 I wrap my hooves around her and hold her tight.
 
@@ -270,7 +266,7 @@ We smile at each other before we hug tightly.
 
 After the hug I ask, "So, did the books have a happy ending?"
 
-"I don't know how their story ended, but I can say it has a good beginning," Twilight says before giving me a kiss on the cheek.
+"I don't know how their story ends, but I can say it has a good beginning," Twilight says before giving me a kiss on the cheek.
 
 I nuzzle her chest, "I agree, they had an amazing start."
 
