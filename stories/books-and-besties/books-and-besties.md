@@ -12,7 +12,7 @@ Twilight asks, "Do you want to stay here tonight, Pinkie?"
 
 Twilight doesn't wait for my reply. Instead she starts getting books down from the shelves, showing them to me faster than I can read the titles. But I notice a book with an old-timey castle on the front of it, and I get inspired and build the castle out of the books Twilight is showing me.
 
-Eventually she turns around and notices the castle, causing her mouth to hang open in shock. "Woah... I didn't think I grabbed *that* many books…"
+Eventually she turns around and notices the castle, causing her mouth to hang open in shock. "Woah… I didn't think I grabbed *that* many books…"
 
 I lower the drawbridge, which is made of books. "It's okay, come on in!"
 
@@ -40,7 +40,7 @@ As I think about how dates work, something immediately comes to mind. "Let's go 
 
 "How do we do that with just a pile of books?"
 
-"We can use books with different colors... and our imagination."
+"We can use books with different colors… and our imagination."
 
 "Oh, okay."
 
@@ -234,7 +234,7 @@ She puts the books together in the corner and adds a third book on the other sid
 
 She moves the books to the center and places them down.
 
-"And then..."
+"And then…"
 
 I ask, "What happens next?"
 
