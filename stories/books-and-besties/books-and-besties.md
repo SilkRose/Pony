@@ -248,7 +248,7 @@ I can't think of what to say as I remember the events of the date. Everything re
 
 *I have a crush on Twilight.*
 
-I don't so anything, I simply turn to Twilight and kiss her gently.
+I don't do anything, I simply turn to Twilight and kiss her gently.
 
 "Does that answer your question?"
 
