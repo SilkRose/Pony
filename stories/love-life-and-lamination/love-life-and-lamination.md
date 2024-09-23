@@ -80,7 +80,7 @@ That single word runs over and over again through my mind… and I can do nothin
 
 The laminator might as well be a cockatrice for all I can do with it. I don't think even Fluttershy's stare could outdo the staring contest I find myself locked in with that start button.
 
-There's a cacophony of clattering in the kitten. I'm sure Rainbow Dash was alright… probably. 
+There's a cacophony of clattering in the kitchen. I'm sure Rainbow Dash was alright… probably. 
 
 *Maybe I should go help her.*
 
