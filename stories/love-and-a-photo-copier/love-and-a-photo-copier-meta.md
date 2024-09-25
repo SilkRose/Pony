@@ -16,3 +16,4 @@ Rainbow Dash and Pinkie go to the photo copier as friends and come back in a rel
 [Love and a Photo Copier](./love-and-a-photo-copier.md)
 
 ## Cover:
+![cover](./love-and-a-photo-copier-cover-upscaled.png)
