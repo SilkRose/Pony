@@ -1,159 +1,54 @@
 # Love and a Photo Copier
 
-The whole friend group were in the library, each of us studying for something different and most likely boring.
+I sit in the library, our group of friends surrounding me. Each of us studying for this or that different thing. As I pretend to read the book in front of me, I can't help but steal glances up at the person sitting across from me: Pinkie Pie.
 
-I flipped to the next page of the book I wasn't reading. I occasionally look up and notice Pinkie looking at me.
+*Come on Rainbow, just ask her out already.*
 
-She's probably just as bored as I am.
+Yea, I've got a crush on Pinkie. It's been a couple of weeks now, I need to do something about it. The thing is, I can't entirely tell if she likes me back. The way Pinkie acts with everybody isn't all that different from what you might expect from someone who has a crush on you.
 
-If only there was something else we could be doing.
+On my next glance up, I notice Pinkie looking at me. I lock eyes with her, and she smiles at me. I smile back before Pinkie gets up and nods for me to follow. I get up and the moment I make it to her, she grabs my hand and pulls me away.
 
-Pinkie must have been reading my mind, because she asks, "Rainbow, can you help me go copy something page?"
+Sparks shoot up my arm as I feel a blush overtaking my face. I hold her hand as we walk, enjoying the moment. She looks back at me as we walk through the library, the barest hints of a blush on her face.
 
-I don't understand why she needs help, but I'm not complaining. "Sure."
+Pinkie leads up down seemingly random isles of books and even does a few literal circles, but eventually we stop in the photo copier room. She brings me to the end where the printer outputs and lets go of my hand.
 
-I close the book withing saving the page I was pretending to be on and get up from the table.
+I am about to speak, but Pinkie silences me with a finger, then points at the photo copier. I don't understand what she means, but remain silent anyway. Pinkie starts looking through the box of papers waiting to be recycled.
 
-Pinkie leads me to the photo copier, bouncing the whole way. When we get there, Pinkie turns around and hugs me tight.
+She finds whatever she's looking for, what appears to be random old magazines. After setting them on the copier bed, she pulls a pair of scissors from her hair and begins to cut out pages from them.
 
-I hug back. "What's up, Pinkie?"
+*What could she be doing?*
 
-"Not much, just wanted to let you know I care for you!"
+I don't have to wait long, as she places down her cutouts on the scanner and closes the lid. She presses the copy button and looks at me with a smile. As the machine works, Pinkie gently holds her hand out towards me.
 
-Pinkie, you are too cute.
+I take it in my own and pull her a little closer to me. My blush intensifies and I notice one forming on her cheeks. We enjoy the moment for as long as it lasts. Soon after the copy is finished, and I am forced to let go.
 
-Where did that come from? Why am I blushing?
+I pick up the piece of paper and see what's on it. It says, "You're awesome," but each word has different colors and fonts. I realize this is what she used the magazines for. I flip the paper around and point at it before pointing at her.
 
-I shake my head and notice Pinkie is already copying something.
+Pinkie jumps forward and hugs me tight. I hug back and squeeze her tight. Afterward, I set the paper down and decide to copy something for Pinkie. She definitely has a crush on me, and I owe her a compliment.
 
-I wait by the end of the machine and wait for the copy to print. Picking it up I see it's a mish mash of layered papers, spelling out a new sentence.
+Pinkie waits as I search through the papers and magazines. I find the first letter quickly, a giant 'U'. The second was also easy, the letter 'r'. The last one was harder, but I eventually found it in a fashion magazine, the word 'pretty'.
 
-I read it out loud, "Rainbow Dash, you are awesome!"
+After cutting them out, I construct the sentence on the scanner and hit start after closing the lid. I turn back to Pinkie and just admire her. She's so pretty, I couldn't think of a better way to tell her.
 
-While I agree with the message, I have to ask, "Is this what you came to copy?"
+Pinkie bounces excitedly as the paper finishes printing. She picks it up and reads it. Her blush grows as she sets the paper down and looks at me. I just smile at her and hold her hand, playing with it. She looks down at our hands and giggles.
 
-"I wanted to have fun!"
+Pinkie lets go and starts looking for her next sentence. I just stand by the end of the machine and stare at her, lost in thought over *her*.
 
-"Me too, I guess."
+*I can't believe this is real. I like Pinkie, and she likes me back! She looks so cute, especially when she's blushing. We held hand, multiple times. Her hands are so soft.*
 
-I start to look around through the papers and magazines in the copier room. I find what I'm looking for and place it all down the the copy bed before hitting start.
+*I never would have thought I'd feel like this. Rainbow Dash, in love.*
 
-Pinkie waits at the outlet with a giddy smile.
+*Rainbow Dash, in love…*
 
-When did Pinkie's smile become so pretty?
+My blush takes over my face after that thought, but I don't try to hide it. Pinkie has just hit the start button and was about to look at me. I smile and offer my hand to her this time. She takes it before using her other hand to blow me a kiss.
 
-I shake my head again. What is going on with me?
+I kiss the back of her hand, and now it's her turn for her blush to take over her face. This just makes her look even more cute. We don't have much time to enjoy the moment as the paper finishes printing.
 
-I get no answer as Pinkie picks up the paper and reads it aloud. "You too."
+I pick up the paper. It says, 'cute & pretty', and has two extra hearts that were cut out from different magazines. I point at the paper and then point at Pinkie while tilting my head in a questioning manner.
 
-"Aww, thank you Rainbow." Pinkie hugs me again.
+Pinkie points at the paper, and then at me. I act like I'm thinking before point at the word 'cute' then I point at her. I repeat this again with the word 'pretty'. She pretends to think like me then does the same as me but points at both of us.
 
-I hug back again, this time even tighter.
+I nod at her assertion and get an idea as I see some scotch tape next to the printer. I hug Pinkie and quickly take a piece of tape and put the 'cute & pretty' paper on her back as a sign. Pinkie seems to notices and holds the hug for a long time as I hear the printer going off again.
 
-After the hug we trade places again and Pinkie looks for the right words for her next sentence.
+I hold Pinkie and enjoy the moment, closing my eyes. I play with her hair some before I realize the sign is blocked almost completely by her hair. This makes me giggle as I realize, and Pinkie joins in as she pats my back.
 
-As she places her pages on the scanner, I can't help but stare at her, lost in a trance.
-
-Pinkie stares back at me, smiling sweetly.
-
-I break out of the trance and pick up the new paper. "I like you, Dashie."
-
-I use the paper to block Pinkie view of my blush.
-
-What do I say?
-
-I put the paper down and start looking for my own papers.
-
-I like Pinkie?
-
-I find the relevant papers and press start.
-
-Pinkie waits patiently for the first time in her life, humming an adorable tune.
-
-Pinkie reads the paper out loud. "I like you, too?"
-
-She puts the paper down before holding my hand.
-
-I blush and try to look her in the eye, but can't.
-
-Where did these feelings come from? Does Pinkie *like* me?
-
-Pinkie lets go and rummages for new papers to use.
-
-I wait by the output as Pinkie arranges her next message.
-
-Pinkie's hand was really soft. I kind of want to hold it again.
-
-I pick up the paper. "Rainbow, I *like* you." The 'like' was titled at a forty-five degree angle.
-
-Well, that confirms it.
-
-I look at Pinkie, who smiles wide back at me.
-
-I hug Pinkie, and hold her tight. What should I do?
-
-An idea strikes me as I look down at Pinkie's back.
-
-"Pinkie, can you go get me some tape?"
-
-"Yes!" Pinkie leaves the copier room.
-
-I hurriedly search the the words I need. Where am I going to find an arrow?
-
-I find the three words I need and improvise an arrow before placing it all on the scan bed.
-
-Hitting start I watch the door, ready to intercept Pinkie if she comes back to soon.
-
-Luckily it prints in time, i look at it and smile. Perfect. I hide it and wait for Pinkie.
-
-Pinkie returns and gives me the tape. She waits by the output as I remember it's my turn.
-
-Oh yea, what should I say? Hmm.
-
-That's it! I start to gather the words, and look for some individual letters.
-
-After gathering it all, I smile at Pinkie.
-
-This is a lot of fun.
-
-I hit start and wait for Pinkie's reaction.
-
-Pinkie picks up the output and reads it aloud. "I *like* you, too!" She even managed to voice the smile-shaped text I did for 'like'.
-
-Pinkie blushes and hugs me again, this time the tightest of them all.
-
-I take the opportunity to tape my makeshift message to her back.
-
-After the hug we smile at each other before Pinkie starts working on her next message.
-
-Pinkie places her message on the scanner and looks at me. Her face looks worried.
-
-I hold her hand and smile at her. She smiles back and presses start.
-
-I don't let go until the message is printed. I pick it up and read it out loud. "Rainbow Dash, will you go out with me?"
-
-I blush more than ever before. Looking at Pinkie, she is smiling at me serenely.
-
-I start to look around the room for what might be my last message. Hmm.
-
-I find everything I need a look at Pinkie before assembling it on the scan bed.
-
-As it scans I grab her hand and hold it tight. We smile at each other as we both already know my answer.
-
-Pinkie waits patiently for the second time in her life.
-
-Once it's printed, she picks it up with one hand and reads it out loud. "Yes!"
-
-We are both full on blushing at this point. Pinkie jumps up and down in excitement.
-
-Somehow the paper stays stuck to her back.
-
-I settle her down and hug her tightly.
-
-I never thought I would go to the copier and come back in a relationship, but here we are.
-
-Sunset interrupts us. "What's goin on in here?"
-
-We let go of the hug and shrug.
-
-Sunset asks, "Why do both of you have signs on your back that say, 'cute and pretty'?"
