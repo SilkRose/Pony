@@ -10,7 +10,7 @@ On my next glance up, I notice Pinkie looking at me. I lock eyes with her, and s
 
 Sparks shoot up my arm as I feel a blush overtaking my face. I hold her hand as we walk, enjoying the moment. She looks back at me as we walk through the library, the barest hints of a blush on her face.
 
-Pinkie leads up down seemingly random isles of books and even does a few literal circles, but eventually we stop in the photo copier room. She brings me to the end where the printer outputs and lets go of my hand.
+Pinkie leads us down seemingly random isles of books and even does a few literal circles, but eventually we stop in the photo copier room. She brings me to the end where the printer outputs and lets go of my hand.
 
 I am about to speak, but Pinkie silences me with a finger, then points at the photo copier. I don't understand what she means, but remain silent anyway. Pinkie starts looking through the box of papers waiting to be recycled.
 
@@ -42,13 +42,42 @@ Pinkie lets go and starts looking for her next sentence. I just stand by the end
 
 My blush takes over my face after that thought, but I don't try to hide it. Pinkie has just hit the start button and was about to look at me. I smile and offer my hand to her this time. She takes it before using her other hand to blow me a kiss.
 
-I kiss the back of her hand, and now it's her turn for her blush to take over her face. This just makes her look even more cute. We don't have much time to enjoy the moment as the paper finishes printing.
+I kiss the back of her hand in response, and now it's her turn for a blush to take over her face. This just makes her look even more cute. We don't have much time to enjoy the moment as the paper finishes printing.
 
-I pick up the paper. It says, 'cute & pretty', and has two extra hearts that were cut out from different magazines. I point at the paper and then point at Pinkie while tilting my head in a questioning manner.
+I pick up the paper. It says, 'cute & pretty', and has an extra heart that was cut out from a different magazine. I point at the paper and then point at Pinkie while tilting my head in a questioning manner.
 
 Pinkie points at the paper, and then at me. I act like I'm thinking before point at the word 'cute' then I point at her. I repeat this again with the word 'pretty'. She pretends to think like me then does the same as me but points at both of us.
 
-I nod at her assertion and get an idea as I see some scotch tape next to the printer. I hug Pinkie and quickly take a piece of tape and put the 'cute & pretty' paper on her back as a sign. Pinkie seems to notices and holds the hug for a long time as I hear the printer going off again.
+I nod at her assertion and get an idea as I see some scotch tape next to the printer. I hug Pinkie and quickly take a piece of tape and put the 'cute & pretty' paper on her back as a sign. Pinkie seems to notice and holds the hug for a long time as I hear the printer going off again.
 
-I hold Pinkie and enjoy the moment, closing my eyes. I play with her hair some before I realize the sign is blocked almost completely by her hair. This makes me giggle as I realize, and Pinkie joins in as she pats my back.
+I hold Pinkie and enjoy the moment, closing my eyes. I play with her hair some before I realize the sign is blocked almost completely by her hair. This realization makes me giggle. Pinkie giggles to as she pats my back.
 
+We let go of the hug, and I look to see what Pinkie printed, finding nothing. I just decide to go ahead and take my turn. I decide to embody Pinkie this time and start looking through the box. I want to surprise her with a hug.
+
+It takes me a bit, but I eventually find the words I'm looking for in the same magazine about parties, on different pages. I also find two hearts to put around the message. Very Pinkie Pie indeed.
+
+I arrange them and hit start before turning to Pinkie and winking. She just smiles at me waits patiently. I smile back, and notice something on my back. I reach back and pull a piece of paper that was taped on my back.
+
+It was the same 'cute & pretty' paper. I check Pinkie's back, and it's still there. She giggles when she sees I have the paper. I giggle in return and point to her back. She finds her own copy and we both giggle even harder.
+
+After we calm down, I get close to her and wait for her to pick up the next message. As she does, I quickly hug her with a tight embrace. She hugs back even tighter, almost crushing my spine. I kiss her cheek as the hug ends.
+
+She blushes more as she starts to work on her next sentence. I watch as she finds her words easily. Pinkie cuts them out and places them in place before hitting start. While still looking at the printer, Pinkie does a clockwise twirl as she moves to me.
+
+She lands in front of me with a big smile and blush on her face. She places one hand on my shoulder and holds the other one out for me to grab. I hold her hand and, she starts leading us in a dance, and she hums a gentle tune for us to dance to.
+
+I return her smile and blush with some of my own as we dance. I follow her lead and get lost in her beautiful blue eyes. I can't look away, nor would I want to. Sadly the dance doesn't last very long, as the paper has been done for half of it.
+
+I blink as I realize we both have tears in our eyes. I decide to do something I've always thought about. I reach into Pinkie's hair and pull out some tissues. I use them and wipe away both our tears.
+
+Pinkie just giggles and smiles at me. I walk over to the paper and pick it up. It says, 'I love you'. I put the paper down and look at Pinkie. Her eyes are low, and her smile is weaker.
+
+*She's still nervous after all this. I can fix that.*
+
+I wrap my arms around her gently and pull her close. She looks up at me with curiosity overtaking her eyes. I silence all of her internal concerns with one action. I kiss her on the lips.
+
+The joy immediately returns to her eyes, and she wraps her arms around me. We hold each other and the kiss for a while. After the hug I collect all the copies we made and hold up the 'I love you' one and point to it and then Pinkie.
+
+Pinkie smiles and nods before doing the same but pointing at me.
+
+*Pinkie Pie, you are so cute.*
