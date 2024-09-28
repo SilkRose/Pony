@@ -108,3 +108,9 @@ This file contains random story names that don't have enough thought to have the
 - Four's Friendship
 - Fungible Fun
 - The Hollow Halls of My Heart
+- Companionship thy name is Hope
+- Dying on the Hill they call Rainbow Dash
+- A Shy Pony and her Quiet Place
+- Pink Paradigm
+- Not Knowing and the Laughter that Ensues
+- Thought Provoking Nothingness
