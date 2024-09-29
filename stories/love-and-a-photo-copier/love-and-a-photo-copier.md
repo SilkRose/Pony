@@ -52,7 +52,7 @@ I nod at her assertion and get an idea as I see some scotch tape next to the cop
 
 I hold Pinkie and enjoy the moment, closing my eyes. I play with her hair some before I realize the paper is blocked almost completely by her hair. This realization makes me giggle. Pinkie giggles too as she pats my back.
 
-We let go of the hug, and I look to see what Pinkie copied, finding nothing. I just go ahead and take my turn. I decide to act Pinkie this time and start looking through the box. I want to surprise her with a hug.
+We let go of the hug, and I look to see what Pinkie copied, finding nothing. I just go ahead and take my turn. I decide to act like Pinkie this time and start looking through the box. I want to surprise her with a hug.
 
 It takes some time, but I eventually find the words I'm looking for in a magazine about parties. I also find two hearts to put around the message. Very Pinkie Pie indeed.
 
