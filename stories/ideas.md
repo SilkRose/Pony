@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Body to Bear
+
+### Synopsis:
+The story is a romance horror, it's about Rainbow carrying Applejack's dead body to save her life, but she's so delusional she thinks she's still alive, and the whole story she talks to her and imagines what she would respond. It would have moments sprinkled throughout where the facade almost cracks because some part of her knows the truth. But, right at the end (not sure how yet) it is revealed that AJ is dead.
+
+***
+
 ## Universal Truths
 
 ### Short Description:
