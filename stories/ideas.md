@@ -25,23 +25,6 @@ the Ship of Theseus but it's two groups of changelings each pretending to be a s
 
 ***
 
-## Thin White Sheet
-
-### Synopsis one:
-A romance story about two ponies who like each other. They are sharing a bed and the only thing separating them is a thin white sheet.
-
-### Synopsis two:
-A horror story about a pony hiding under a thin white sheet from a monster outside.
-
-***
-
-## Mane Magic Mysteries
-
-### Synopsis:
-Several ponies have tried to blow the whistle on the existence of mane magic. So far, none have survived.
-
-***
-
 ## Prosthetic Pony
 
 ### Synopsis:
@@ -119,13 +102,6 @@ Fluttershy has a crush on Pinkie, and while at a sleepover at Twilight's, Flutte
 
 ***
 
-## Non-Linear Romance
-
-### Synopsis:
-Rainbow Dash shooting off a sign 'I love you' on a stadium billboard during a Wonderbolts performance, then each of the other five heroines (maybe less) reminisce about her quasi-romantic experience with Rainbow Dash in their head, but it ends with RD swooping and gunning for some other character, or she meant it in a platonic way.
-
-***
-
 ## Pink Prank
 
 ### Synopsis:
@@ -161,35 +137,10 @@ Pinkie gives her friends each a coupon for a free cuddle with her. What causes e
 
 ***
 
-## Brideways
-
-### Synopsis:
-The mane 6 help each other prepare for their respective weddings.
-
-***
-
 ## Pinkie Practice
 
 ### Synopsis:
 Pinkie teaches Twilight how to be like Pinkie herself.
-
-***
-
-## Competitive Kissing
-
-### Synopsis:
-The mane 6 each open a competitive kissing stand, and all of them try to sway customers to their booth.
-
-### Ideas:
-- By the end, they are going to each other's stands and buying a kiss.
-- Twilight files paperwork for her stand and Celestia shows up asking what the stand is for, embarrassing Twilight.
-- Celestia pays for a kiss on the cheek as a gesture of good will.
-- Luna is also there and buys a kiss on the lips with a smirk.
-- Zephyr Breeze buys a kiss from Dash.
-- Rarity would charge the most.
-- Pinkie would offer a free hug with every purchase.
-- Trixie buys a kiss from all but Twilight.
-- They would charge different rates from each other.
 
 ***
 
@@ -242,13 +193,6 @@ Pinkie becomes depressed and decides to dye her coat, but not matter what, it ju
 
 ***
 
-## Cover Me Up
-
-### Synopsis:
-Pinkie just wants Rarity to tuck her in; Rarity has other plans.
-
-***
-
 ## Desires of a Dead Dash
 
 ### Synopsis:
@@ -270,13 +214,6 @@ Rarity (as a filly) having her new dress designs make it to a fashion magazine f
 
 ***
 
-## Spoopy Boopy
-
-### Synopsis:
-A pony is visiting an old (haunted) mansion, and an invisible ghost of the old pony resident keeps booping them.
-
-***
-
 ## Crème de la Cuddle
 
 ### Synopsis:
@@ -291,20 +228,6 @@ Pinkie listens to her marefriend's heartbeat as it calms her. In her mind, she c
 
 ***
 
-## Snuggle Snafu
-
-### Synopsis:
-From Monday to Friday, Pinkie snuggles a different member of the mane 6, but none of them know she's been snuggling the others until one day when all of them learn it together, leading to chaos(?)
-
-***
-
-## Cute Cuddles
-
-### Synopsis:
-Rarity is feeling down, so Pinkie decides to cheer her up with cute cuddles.
-
-***
-
 ## Pinkie Poof
 
 ### Synopsis:
@@ -316,13 +239,6 @@ Pinkie Pie discovers she can teleport.
 
 ### Synopsis:
 Rainbow Dash has got a few problems, and they're all Pinkie Pie. (Has a crush on her, she keeps appearing in bedroom mysteriously. Etc)
-
-***
-
-## Silly Siblings
-
-### Synopsis:
-Pinkie is trying to teach her siblings how to be silly or how to have more fun while working on the rock farm.
 
 ***
 
@@ -359,13 +275,6 @@ Applejack pretends to be bad at math, then smokes her friends in a math-off.
 
 ***
 
-## Princess Pampering
-
-### Synopsis:
-Rarity pampers her marefriend after a long day at work.
-
-***
-
 ## Pony Prancing Practices
 
 ### Synopsis:
@@ -377,13 +286,6 @@ Pinkie Pie teaches Twilight how to prance.
 
 ### Synopsis:
 Somepony finds a package and nopony can open it, no matter what they try. What could be inside it?
-
-***
-
-## Two Pies and a Pie
-
-### Synopsis:
-Pony and EQG Pinkie meet somewhere and eat a pie together.
 
 ***
 
@@ -472,28 +374,6 @@ Pinkie accidentally stains her coat when baking a new recipe, but the color give
 
 ***
 
-## Dangerously Cute
-
-### Synopsis:
-A magical accident causes the mere sight of Pinkie to make the ponies of Ponyville fall unconscious from cuteness overload.
-
-***
-
-## Silly Sandwich
-
-### Synopsis:
-Pinkie attempts to teach Fluttershy how to make different sandwiches, who struggles to follow along due to Pinkie's jokes and antics and switch ups.
-
-***
-
-## Trixie, Trixie, and Trixie
-
-### Synopsis:
-Trixie clones herself twice in the mirror pool (results in 4) but one accidentally dies somehow, leaving 3 Trixies to figure how to dispose of the dead Trixie.
-
-
-***
-
 ## Pinkie's Posthumous Plea
 
 ### Synopsis:
@@ -511,13 +391,6 @@ Twilight Sparkle gets addicted to a new game called Factorio, where you manage a
 
 ### Short Description
 Twilight gets addicted to Factorio. Can her friends get her free of its grasp?
-
-***
-
-## Continuity of Ponks
-
-### Short Description:
-Do you know where your Pinkie Pie is?
 
 ***
 
@@ -746,10 +619,3 @@ Pinkie has a crush on Twilight, one day she goes over to Twilight's, who is read
 
 ### Synopsis:
 Rainbow has a crush on Rarity, she wants to spend more time with her. She decides to break something belonging to Rarity and offer to help work at her shop to pay it off. They bond while Rainbow works there. Eventually, Rainbow fesses up to doing it on purpose. She apologizes and admits to having a crush on her. Rarity is flattered that she would do that, but says she should have just asked her out. Rarity asks Rainbow out and they kiss.
-
-***
-
-## Unnamed Chrysalis as Twilight romance story
-
-### Synopsis:
-Guy is cuddling twilight Sparkle and loving it in chapter one, chapter two is from Twilight's perspective revealing she is actually Queen Chrysalis and thinks this human is president of earth when he is actually just a president of a fan club or something.
