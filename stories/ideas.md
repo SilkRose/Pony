@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Universal Truths
+
+### Short Description:
+The eons echo and winds whisper of truths too true to neglect. Foremost among them: Fluttershy is cute.
+
+***
+
 ## The Pinkie Pie Protection Act
 
 ### Synopsis:
