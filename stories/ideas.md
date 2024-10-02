@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Disappearing Fact
+
+### Synopsis:
+Everything Twilight reads disappears. It would start off small, words would be lighter and eventually they would disappear. Then entire pages would be gone, then whole books. And it would escalate from there.
+
+***
+
 ## Body to Bear
 
 ### Synopsis:
