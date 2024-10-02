@@ -10,3 +10,13 @@ Applejack blushes. "Me too."
 
 "I did too, and I have been as well."
 
+I wrap a hoof around her and pull her close before kissing her on the cheek.
+
+Applejack blushes before kissing me on the lips. I kiss back and blush. Afterward, Applejack says, "I needed that after how sore my muscles are today's work."
+
+I smile. "Glad I could help."
+
+She boops me. "Thank you."
+
+I giggle and hug her tight. She hugs back with a giggle of her own.
+
