@@ -32,7 +32,7 @@ Some suggestions from Twilight to include in your letter(s):
 
 ### Characters:
 - Pinkie Pie: [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose)
-- Starlight: Jymbroni
+- Starlight: [TheAncientPolitzanian](https://www.fimfiction.net/user/338193/TheAncientPolitzanian)
 - Trixie: gapty
 - Rainbow Dash: [Sciblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories)
 - Sunset: heartlessons
@@ -55,7 +55,8 @@ Some suggestions from Twilight to include in your letter(s):
 7. [Rainbow Dash → Spike (Sciblits Talo)](./07-rainbow-dash.md)
 8. [Spike → Rainbow Dash (ThePeer)](./08-spike.md)
 9. [Spike → Starlight (ThePeer)](./09-spike.md)
-10. 
+10. [Starlight → Spike (TheAncientPolitzanian)](./10-starlight.md)
+11. 
 
 ## Cover:
 
