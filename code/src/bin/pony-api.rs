@@ -24,6 +24,7 @@ struct Stats<T> {
 	flash_fiction: T,
 	ideas: T,
 	names: T,
+	prompts: T,
 	size: T,
 	stories: T,
 	words: T,
@@ -239,7 +240,9 @@ fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
 
 fn story_words(files: &[String]) -> Result<String, Box<dyn Error>> {
 	let includes = Some(Regex::new(r"[/\\](flash-fiction|stories)[/\\].*\.md$")?);
-	let excludes = Some(Regex::new(r"stories[/\\](ideas|names)\.md$|meta\.md$")?);
+	let excludes = Some(Regex::new(
+		r"stories[/\\](ideas|names|prompts)\.md$|meta\.md$",
+	)?);
 	let text = files
 		.iter()
 		.filter(|file| matches(file, &includes, &excludes))
@@ -264,6 +267,7 @@ fn commit_stats(
 		flash_fiction: count_flash_fiction(files)?,
 		ideas: count_specified_lines(files, "ideas", "## ")?,
 		names: count_specified_lines(files, "names", "- ")?,
+		prompts: count_specified_lines(files, "prompts", "- ")?,
 		size: count_size(files)?,
 		stories: count_stories(dirs)?,
 		words: word_count(text)?,
@@ -290,6 +294,7 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 		flash_fiction: format_number_u128(stats.flash_fiction.try_into()?)?,
 		ideas: format_number_u128(stats.ideas.try_into()?)?,
 		names: format_number_u128(stats.names.try_into()?)?,
+		prompts: format_number_u128(stats.prompts.try_into()?)?,
 		size: format_size_bytes(stats.size as f64, FormatType::Abbreviation)?,
 		stories: format_number_u128(stats.stories.try_into()?)?,
 		words: format_number_u128(stats.words.try_into()?)?,
