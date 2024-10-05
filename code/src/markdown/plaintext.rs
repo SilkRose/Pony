@@ -27,7 +27,7 @@ fn handle_child_nodes(nodes: &[Node], separator: &str) -> String {
 fn md_to_text(node: &Node) -> Option<String> {
 	match node {
 		Node::Root(root) => Some(handle_child_nodes(&root.children, "")),
-		Node::BlockQuote(quote) => Some(handle_child_nodes(&quote.children, "\n")),
+		Node::Blockquote(quote) => Some(handle_child_nodes(&quote.children, "\n")),
 		Node::List(list) => Some(handle_child_nodes(&list.children, "\n")),
 		Node::Break(_) => Some("\n".into()),
 		Node::InlineCode(code) => Some(code.value.to_string()),

@@ -1,6 +1,6 @@
 use super::{handle_warning, Definitions, WarningType};
 use markdown::mdast::{
-	BlockQuote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
+	Blockquote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
 use markdown::{to_mdast, ParseOptions};
@@ -33,7 +33,7 @@ fn handle_node(node: &Node, warn: &WarningType) -> String {
 fn md_to_bbcode(node: &Node, warn: &WarningType, definitions: &Definitions) -> Option<String> {
 	match node {
 		Node::Root(root) => Some(handle_root(root, warn, definitions)),
-		Node::BlockQuote(quote) => Some(handle_quote(quote, warn, definitions)),
+		Node::Blockquote(quote) => Some(handle_quote(quote, warn, definitions)),
 		Node::FootnoteDefinition(_) => handle_warning("FootnoteDefinition", warn),
 		Node::MdxJsxFlowElement(_) => handle_warning("MdxJsFlowElement", warn),
 		Node::List(list) => Some(handle_list(list, warn, definitions)),
@@ -83,7 +83,7 @@ fn handle_root(root: &Root, warn: &WarningType, definitions: &Definitions) -> St
 	handle_child_nodes(&root.children, warn, definitions, "")
 }
 
-fn handle_quote(blockquote: &BlockQuote, warn: &WarningType, definitions: &Definitions) -> String {
+fn handle_quote(blockquote: &Blockquote, warn: &WarningType, definitions: &Definitions) -> String {
 	let text = handle_child_nodes(&blockquote.children, warn, definitions, "\n\n");
 	format!("[quote]\n{text}\n[/quote]")
 }
