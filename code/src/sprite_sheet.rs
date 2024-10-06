@@ -93,6 +93,33 @@ impl SpriteSheet {
 	}
 }
 
+pub trait ToHashMap<T> {
+	fn to_hashmap(&mut self, map: Vec<Vec<T>>, blank: T, trim: [bool; 4]) -> Sprites<T>;
+}
+
+impl<T> ToHashMap<T> for SpriteSheet
+where
+	T: std::cmp::Eq + std::hash::Hash,
+{
+	fn to_hashmap(&mut self, map: Vec<Vec<T>>, blank: T, trim: [bool; 4]) -> Sprites<T> {
+		let mut sprites = HashMap::new();
+		for (x, row) in map.into_iter().enumerate() {
+			for (y, ident) in row.into_iter().enumerate() {
+				if ident == blank {
+					continue;
+				}
+				let x = x as u32 * self.sprite_width;
+				let y = y as u32 * self.sprite_height;
+				let sprite = self
+					.image
+					.crop_imm(x, y, self.sprite_width, self.sprite_height);
+				sprites.insert(ident, sprite);
+			}
+		}
+		sprites
+	}
+}
+
 #[cfg(test)]
 mod tests {
 	use super::*;
