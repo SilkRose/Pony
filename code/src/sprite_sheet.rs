@@ -94,14 +94,25 @@ impl SpriteSheet {
 }
 
 pub trait ToHashMap<T> {
-	fn to_hashmap(&mut self, map: Vec<Vec<T>>, blank: T, trim: [bool; 4]) -> Sprites<T>;
+	fn to_hashmap(
+		&mut self, map: Vec<Vec<T>>, blank: T, trim_top: bool, trim_right: bool, trim_bottom: bool,
+		trim_left: bool,
+	) -> Result<Sprites<T>>;
+}
+
+enum Coord {
+	C1,
+	C2,
 }
 
 impl<T> ToHashMap<T> for SpriteSheet
 where
 	T: std::cmp::Eq + std::hash::Hash,
 {
-	fn to_hashmap(&mut self, map: Vec<Vec<T>>, blank: T, trim: [bool; 4]) -> Sprites<T> {
+	fn to_hashmap(
+		&mut self, map: Vec<Vec<T>>, blank: T, trim_top: bool, trim_right: bool, trim_bottom: bool,
+		trim_left: bool,
+	) -> Result<Sprites<T>> {
 		let mut sprites = HashMap::new();
 		for (x, row) in map.into_iter().enumerate() {
 			for (y, ident) in row.into_iter().enumerate() {
@@ -110,14 +121,59 @@ where
 				}
 				let x = x as u32 * self.sprite_width;
 				let y = y as u32 * self.sprite_height;
-				let sprite = self
+				let mut sprite = self
 					.image
 					.crop_imm(x, y, self.sprite_width, self.sprite_height);
+				let width = self.sprite_width as i32;
+				let height = self.sprite_height as i32;
+				let x = match trim_left {
+					true => get_trim(&sprite, 0, 0, 1, 1, Coord::C1)? as u32,
+					false => 0,
+				};
+				let y = match trim_top {
+					true => get_trim(&sprite, width, 0, -1, 1, Coord::C2)? as u32,
+					false => 0,
+				};
+				let new_width = match trim_right {
+					true => get_trim(&sprite, width, height, -1, -1, Coord::C1)? as u32,
+					false => self.sprite_width,
+				};
+				let new_height = match trim_bottom {
+					true => get_trim(&sprite, width, height, -1, -1, Coord::C2)? as u32,
+					false => self.sprite_height,
+				};
+				sprite = sprite.crop_imm(x, y, new_width, new_height);
 				sprites.insert(ident, sprite);
 			}
 		}
-		sprites
+		Ok(sprites)
 	}
+}
+
+fn get_trim(
+	sprite: &DynamicImage, mut c1: i32, mut c2: i32, c1_shift: i32, c2_shift: i32, coord: Coord,
+) -> Result<i32> {
+	let c2_start = c2;
+	loop {
+		loop {
+			if sprite.get_pixel(c1 as u32, c2 as u32) != Rgba::from([0, 0, 0, 0]) {
+				return match coord {
+					Coord::C1 => Ok(c1),
+					Coord::C2 => Ok(c2),
+				};
+			}
+			c2 += c2_shift;
+			if c2 == -1 || c2 as u32 > sprite.dimensions().1 {
+				c2 = c2_start;
+				break;
+			}
+		}
+		c1 += c1_shift;
+		if c1 == -1 || c1 as u32 > sprite.dimensions().0 {
+			break;
+		}
+	}
+	Err("Sprite is empty!".into())
 }
 
 #[cfg(test)]
@@ -126,7 +182,7 @@ mod tests {
 
 	#[test]
 	fn load_image() -> Result<()> {
-		let sprite_sheet = SpriteSheet::load("", 16, 16)?;
+		let _sprite_sheet = SpriteSheet::load("", 16, 16)?;
 		Ok(())
 	}
 }
