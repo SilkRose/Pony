@@ -107,15 +107,15 @@ enum Coord {
 
 impl<T> ToHashMap<T> for SpriteSheet
 where
-	T: std::cmp::Eq + std::hash::Hash,
+	T: std::fmt::Debug + std::cmp::Eq + std::hash::Hash,
 {
 	fn to_hashmap(
 		&mut self, map: Vec<Vec<T>>, blank: T, trim_top: bool, trim_right: bool, trim_bottom: bool,
 		trim_left: bool,
 	) -> Result<Sprites<T>> {
 		let mut sprites = HashMap::new();
-		for (x, row) in map.into_iter().enumerate() {
-			for (y, ident) in row.into_iter().enumerate() {
+		for (y, row) in map.into_iter().enumerate() {
+			for (x, ident) in row.into_iter().enumerate() {
 				if ident == blank {
 					continue;
 				}
@@ -124,8 +124,8 @@ where
 				let mut sprite = self
 					.image
 					.crop_imm(x, y, self.sprite_width, self.sprite_height);
-				let width = self.sprite_width as i32;
-				let height = self.sprite_height as i32;
+				let width = self.sprite_width as i32 - 1;
+				let height = self.sprite_height as i32 - 1;
 				let x = match trim_left {
 					true => get_trim(&sprite, 0, 0, 1, 1, Coord::C1)? as u32,
 					false => 0,
@@ -135,11 +135,11 @@ where
 					false => 0,
 				};
 				let new_width = match trim_right {
-					true => get_trim(&sprite, width, height, -1, -1, Coord::C1)? as u32,
+					true => get_trim(&sprite, width, 0, -1, 1, Coord::C1)? as u32 + 1,
 					false => self.sprite_width,
 				};
 				let new_height = match trim_bottom {
-					true => get_trim(&sprite, width, height, -1, -1, Coord::C2)? as u32,
+					true => get_trim(&sprite, width, height, -1, -1, Coord::C2)? as u32 + 1,
 					false => self.sprite_height,
 				};
 				sprite = sprite.crop_imm(x, y, new_width, new_height);
@@ -156,20 +156,20 @@ fn get_trim(
 	let c2_start = c2;
 	loop {
 		loop {
-			if sprite.get_pixel(c1 as u32, c2 as u32) != Rgba::from([0, 0, 0, 0]) {
+			if sprite.get_pixel(c1 as u32, c2 as u32) != Rgba([0, 0, 0, 0]) {
 				return match coord {
 					Coord::C1 => Ok(c1),
 					Coord::C2 => Ok(c2),
 				};
 			}
 			c2 += c2_shift;
-			if c2 == -1 || c2 as u32 > sprite.dimensions().1 {
+			if c2 < 0 || c2 as u32 >= sprite.dimensions().1 {
 				c2 = c2_start;
 				break;
 			}
 		}
 		c1 += c1_shift;
-		if c1 == -1 || c1 as u32 > sprite.dimensions().0 {
+		if c1 < 0 || c1 as u32 >= sprite.dimensions().0 {
 			break;
 		}
 	}
