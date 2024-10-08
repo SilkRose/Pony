@@ -295,10 +295,32 @@ impl Default for Colors {
 #[cfg(test)]
 mod tests {
 	use super::*;
+	use crate::sprite_sheet::{SpriteSheet, ToHashMap};
+	use serde_json;
+	use std::fs;
 
 	#[test]
-	fn load_chars() -> Result<()> {
-		StringImage::new("../archive/image-fonts/3x5-digits-square/", ".png")?;
+	fn load_image() -> Result<()> {
+		let mut sprite_sheet = SpriteSheet::load(
+			"../archive/image-fonts/32x32-love-and-tolerance/font.png",
+			10,
+			10,
+		)?;
+		let json: Vec<Vec<char>> = serde_json::from_str(&fs::read_to_string(
+			"../archive/image-fonts/32x32-love-and-tolerance/font.json",
+		)?)?;
+		let map = sprite_sheet.to_hashmap(json, ' ', false, true, false, false)?;
+		let simg = StringImage::from_hashmap(map)?
+			.set_spacing(8, 4, Some(16), Some(3))?
+			.set_border(4, 4, 4, 4)
+			.set_colors(
+				Color::from_hex("#ffffff".to_owned())?,
+				Color::from_hex("#DD6FA4".to_owned())?,
+			)
+			.set_drop_shadow(Color::from_hex("#000000".to_owned())?, 2, 2)
+			.set_justification(Justification::Left);
+		let text = fs::read_to_string("./src/sprite_sheet.rs")?;
+		simg.text_to_image(&text, Some("test.png"))?;
 		Ok(())
 	}
 }
