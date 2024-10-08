@@ -151,6 +151,9 @@ impl StringImage {
 		let line_widths = lines
 			.iter()
 			.map(|line| {
+				if line.chars().count() == 0 {
+					return 0;
+				}
 				line.chars()
 					.map(|c| {
 						self.chars
