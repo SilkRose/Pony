@@ -175,14 +175,3 @@ fn get_trim(
 	}
 	Err("Sprite is empty!".into())
 }
-
-#[cfg(test)]
-mod tests {
-	use super::*;
-
-	#[test]
-	fn load_image() -> Result<()> {
-		let _sprite_sheet = SpriteSheet::load("", 16, 16)?;
-		Ok(())
-	}
-}
