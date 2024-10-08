@@ -88,6 +88,29 @@ impl StringImage {
 		})
 	}
 
+	pub fn from_hashmap(sprites: HashMap<char, DynamicImage>) -> Result<StringImage> {
+		if sprites.is_empty() {
+			panic!("Hashmap is empty!");
+		}
+		let mut line_height: Option<u32> = None;
+		for image in sprites.values() {
+			if line_height.is_none() {
+				line_height = Some(image.dimensions().1)
+			} else if line_height != Some(image.dimensions().1) {
+				panic!("Char height variance detected!");
+			}
+		}
+		Ok(StringImage {
+			chars: sprites,
+			line_height: line_height.unwrap(),
+			justification: Justification::CenterBreakLeft,
+			border: Border::default(),
+			spacing: Spacing::default(),
+			colors: Colors::default(),
+			drop_shadow: None,
+		})
+	}
+
 	pub fn set_justification(mut self, justification: Justification) -> Self {
 		self.justification = justification;
 		self
