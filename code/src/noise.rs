@@ -4,6 +4,10 @@ use rand::SeedableRng;
 
 type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
+fn fade(t: f64) -> f64 {
+	t * t * t * (t * (t * 6.0 - 15.0) + 10.0)
+}
+
 pub struct PerlinNoise1D {
 	/// Seed value to generate noise from.
 	pub seed: u64,
@@ -38,8 +42,7 @@ impl PerlinNoise1D {
 			rng = StdRng::seed_from_u64(self.seed.wrapping_add_signed(upper_lattice));
 			let upper_noise = rng.gen_range(self.minimum..=self.maximum);
 			let interpolation_factor = (x - lower_lattice) as f64 / frequency as f64;
-			let interpolation_factor =
-				(1.0 - (interpolation_factor * std::f64::consts::PI).cos()) * 0.5;
+			let interpolation_factor = fade(interpolation_factor);
 			let n = (1.0 - interpolation_factor) * lower_noise + interpolation_factor * upper_noise;
 			noise += n * amplitude;
 			max_noise += amplitude * maximum;
