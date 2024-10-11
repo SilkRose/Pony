@@ -38,6 +38,8 @@ impl PerlinNoise1D {
 			rng = StdRng::seed_from_u64(self.seed.wrapping_add_signed(upper_lattice));
 			let upper_noise = rng.gen_range(self.minimum..=self.maximum);
 			let interpolation_factor = (x - lower_lattice) as f64 / frequency as f64;
+			let interpolation_factor =
+				(1.0 - (interpolation_factor * std::f64::consts::PI).cos()) * 0.5;
 			let n = (1.0 - interpolation_factor) * lower_noise + interpolation_factor * upper_noise;
 			noise += n * amplitude;
 			max_noise += amplitude * maximum;
