@@ -8,6 +8,10 @@ fn fade(t: f64) -> f64 {
 	t * t * t * (t * (t * 6.0 - 15.0) + 10.0)
 }
 
+fn lerp(t: f64, a: f64, b: f64) -> f64 {
+	a + t * (b - a)
+}
+
 pub struct PerlinNoise1D {
 	/// Seed value to generate noise from.
 	pub seed: u64,
@@ -57,22 +61,33 @@ impl PerlinNoise1D {
 #[cfg(test)]
 mod test {
 	use super::*;
+	use image::{ImageBuffer, Rgba, RgbaImage};
 
 	#[test]
-	fn test() -> Result<()> {
-		let noise = PerlinNoise1D {
-			seed: 10,
-			minimum: 0.0,
-			maximum: 1.0,
-			frequency: 32,
-			amplitude: 1.0,
-			lacunarity: 2.0,
-			persistence: 0.5,
-			octaves: 2,
-		};
-		for x in 0..=1_000 {
-			let n = noise.get_point(x)?;
-			println!("{x} - {n}");
+	fn one_dimension() -> Result<()> {
+		for octave in 1..=8 {
+			let noise = PerlinNoise1D {
+				seed: 7669,
+				minimum: 0.0,
+				maximum: 100.0,
+				frequency: 64,
+				amplitude: 1.0,
+				lacunarity: 4.0,
+				persistence: 0.8,
+				octaves: octave,
+			};
+			let mut values = vec![];
+			for x in 0..1000 {
+				values.push(noise.get_point(x)?.round() as u32);
+			}
+			let image: RgbaImage = ImageBuffer::from_fn(1000, 100, |x, y| {
+				if y > values[x as usize] {
+					Rgba([0, 0, 0, 255])
+				} else {
+					Rgba([255, 255, 255, 255])
+				}
+			});
+			image.save(format!("{octave}.png"))?;
 		}
 		Ok(())
 	}
