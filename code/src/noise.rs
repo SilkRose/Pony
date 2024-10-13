@@ -12,6 +12,10 @@ fn lerp(t: f64, a: f64, b: f64) -> f64 {
 	a + t * (b - a)
 }
 
+fn join_integers(a: i64, b: i64) -> i64 {
+	a << 32 | b
+}
+
 pub struct PerlinNoise1D {
 	/// Seed value to generate noise from.
 	pub seed: u64,
@@ -66,17 +70,16 @@ impl PerlinNoise1D {
 mod test {
 	use super::*;
 	use image::{ImageBuffer, Rgba, RgbaImage};
-	use std::collections::HashSet;
 
 	#[test]
 	fn one_dimension() -> Result<()> {
-		for octave in 1..=8 {
+		for octave in 1..=4 {
 			let noise = PerlinNoise1D {
 				seed: 7669,
-				scale: 0.01,
+				scale: 0.005,
 				minimum: 0.0,
 				maximum: 100.0,
-				frequency: 1.2,
+				frequency: 2.2,
 				amplitude: 1.0,
 				lacunarity: 2.0,
 				persistence: 0.5,
@@ -96,19 +99,5 @@ mod test {
 			image.save(format!("{octave}.png"))?;
 		}
 		Ok(())
-	}
-
-	#[test]
-	fn has_test() {
-		let seed = 7669_u64;
-		let mut values = HashSet::with_capacity(300_000_000);
-		for x in 0..300_i64 {
-			for y in 0..1_i64 {
-				let seed = seed.wrapping_add_signed(x << 32 | y);
-				values.insert(seed);
-			}
-		}
-		println!("{}", values.len());
-		println!("{}", i64::MAX >> 32);
 	}
 }
