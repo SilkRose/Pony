@@ -56,7 +56,8 @@ Some suggestions from Twilight to include in your letter(s):
 8. [Spike → Rainbow Dash (ThePeer)](./08-spike.md)
 9. [Spike → Starlight (ThePeer)](./09-spike.md)
 10. [Starlight → Spike (TheAncientPolitzanian)](./10-starlight.md)
-11. 
+11. [Starlight → Celestia (TheAncientPolitzanian)](./11-starlight.md)
+12. 
 
 ## Cover:
 
