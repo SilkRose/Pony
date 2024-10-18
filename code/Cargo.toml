@@ -11,12 +11,12 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 camino = { version = "1.1.9" }
 git2 = { version = "0.19.0" }
-image = { version = "0.25.3" }
+image = { version = "0.25.4" }
 indoc = { version = "2.0.5" }
 markdown = { version = "1.0.0-alpha.21" }
 regex = { version = "1.11.0" }
 serde = { version = "1.0.210", features = ["derive"] }
-serde_json = { version = "1.0.128", features = ["preserve_order"] }
+serde_json = { version = "1.0.129", features = ["preserve_order"] }
 
 [profile.dev]
 opt-level = 0
