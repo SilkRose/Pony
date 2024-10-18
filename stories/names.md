@@ -30,7 +30,6 @@ This file contains random story names that don't have enough thought to have the
 - Gentle Persistence
 - The Party Crafter
 - Creatively Pink
-- Extra Pink
 - Coffee and Couture
 - Fearing Fun
 - Hidden Hovel
