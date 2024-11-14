@@ -81,3 +81,4 @@ This file contains random story names that don't have enough thought to have the
 - Burden to Wear
 - Non-Linear Romance
 - Smartpone Service
+- The Pink Pony I Know and Love
