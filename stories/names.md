@@ -83,3 +83,10 @@ This file contains random story names that don't have enough thought to have the
 - Smartpone Service
 - The Pink Pony I Know and Love
 - If I Wrote You a Letter
+- Please Forget Me When I'm Gone
+- Marewithal
+- Unbodied Empire
+- Softly Unspoken
+- My Marefriend's Marefriend has a Marefriend
+- Discord in Delight
+- Darling Discord
