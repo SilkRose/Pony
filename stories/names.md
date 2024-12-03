@@ -91,3 +91,4 @@ This file contains random story names that don't have enough thought to have the
 - Discord in Delight
 - Darling Discord
 - Twisted Parchment
+- Value by the Hearts
