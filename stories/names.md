@@ -90,3 +90,4 @@ This file contains random story names that don't have enough thought to have the
 - My Marefriend's Marefriend has a Marefriend
 - Discord in Delight
 - Darling Discord
+- Twisted Parchment
