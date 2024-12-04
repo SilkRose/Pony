@@ -1,6 +1,6 @@
 # Chaotic Crush
 
-Discord snaps into existence into Twilight's tree-house. He looks around for her, and shouts her name, "Twilight!"
+Discord snaps into existence in Twilight's tree-house. He looks around for her, and shouts her name, "Twilight!"
 
 Twilight looks up from the book she is reading and responds, "Hello, Discord."
 
@@ -30,13 +30,13 @@ Discord answers the question, "Okay, yes I do."
 
 "Well, what do I do about it?"
 
-"Go talk to her. Tell her how you feel and see if she feels the same about you."
+Twilight levitates down a book from her shelves. "Here, read this. It's a book about romance, it will help you deal with your feelings and expressing them to Fluttershy."
 
-"But, that's too simple. I can't just talk to her, this is Fluttershy we're talking about."
+"But, that sounds like work. The lord of chaos doesn't read."
 
-"I don't know what to tell you if you don't want my advice."
+"I don't know what to tell you. The lord of chaos will have to read if he wants any advice on how to handle his feelings."
 
-Discord just snaps his fingers and disappears.
+Discord takes the book and puts it in his stomach before snapping his fingers and disappearing.
 
 ***
 
