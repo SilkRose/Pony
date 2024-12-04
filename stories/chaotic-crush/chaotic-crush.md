@@ -10,7 +10,7 @@ Twilight looks up from the book she is reading and responds, "Hello, Discord."
 
 "I feel different around Fluttershy and I must know why."
 
-Twilight paused and put down her book. "How exactly do you feel different? I need details to be able to help."
+Twilight pauses and puts down her book. "How exactly do you feel different? I need details to be able to help."
 
 "I don't ever want to leave her side. Well, more than I usually do. I want to hold her hoof. I want to hug her and not let go. I feel all wobbly inside around her."
 
@@ -30,7 +30,7 @@ Discord answers the question, "Okay, yes I do."
 
 "Well, what do I do about it?"
 
-Twilight levitates down a book from her shelves. "Here, read this. It's a book about romance, it will help you deal with your feelings and expressing them to Fluttershy."
+Twilight thinks for a moment, then levitates down a book from her shelves. "Here, read this. It's a book about romance, it will help you deal with your feelings and expressing them to Fluttershy."
 
 "But, that sounds like work. The lord of chaos doesn't read."
 
@@ -80,3 +80,26 @@ Discord snaps his fingers, reverting the change. "Okay, fine."
 
 ***
 
+Discord teleports over to the next pony.
+
+"Oh, hey Discord. What's up?", says Rainbow Dash.
+
+"Well, the sky of course! Of all ponies I thought you would know.", Discord laughs smugly. Rainbow audibly groans.
+
+Discord sighs, "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. What do you think I should do, Rainbow?"
+
+Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a pony's heart is to impress them. If you do something really awesome, Fluttershy's sure to love it!"
+
+"Really awesome you say? Like that time I turned Sweet Apple Acres into a skating rink, or made it rain chocolate milk?"
+
+"Yeah well... maybe try not to destroy anypony's property this time, or turn the whole world crazy. Use your powers to do something Fluttershy would like."
+
+***
+
+Discord carefully pondered the advice, and decided he would...
+
+- [Follow Twilight's advice and read the book.](02-twilight.md)
+- [Follow Rarity's advice and take Fluttershy on a date.](03-rarity.md)
+- [Follow Rainbow's advice and try to impress her.](04-rainbow-dash.md)
+- [Follow Pinkie's advice and give her a gift.](05-pinkie-pie.md)
+- [Follow Applejack's advice and come clean.](06-applejack.md)
