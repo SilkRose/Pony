@@ -40,3 +40,43 @@ Discord takes the book and puts it in his stomach before snapping his fingers an
 
 ***
 
+Discord poofs into existence at his next destination, Carousel Boutique. He calls out for the owner, "Rarity?"
+
+Rarity trots into the main room from her kitchen before answering, "Hello. To what do I owe the *pleasure* of this visit, Discord?"
+
+"I need your help, Twilight says I have a crush on Fluttershy and I don't know what to do about it." Discord's face wavers as concern flashes on his face.
+
+"Do you think you have a crush on Fluttershy?"
+
+"I don't know. I have noticed her beauty a lot more now, like thousands of times a day instead of hundreds."
+
+"Okay, yes, you probably have a crush on her."
+
+"So, what should I do?"
+
+Rarity's face lights up. "You should take her out on a date."
+
+Discord snaps his fingers. "There, done."
+
+Rarity looks concerned. "What is done?"
+
+"Every Friday all across Equestria is now Fluttershy Friday."
+
+Rarity's face turns to worry as she rushes to a calendar on her wall, and sure enough, every Friday has been renamed to Fluttershy Friday.
+
+She returns to him and says, "Discord, that's not what I meant, if you change it back I can explain in more detail."
+
+Discord snaps his fingers, reverting the change. "Okay, fine."
+
+"Thank you. Now, what I mean is to take her on a romantic date, a special outing just the two of you. A picnic date sounds like something Fluttershy would like."
+
+"I see."
+
+"Do let me know how it goes."
+
+"I still haven't decided what I will do. I'm going to get more advice before I decide. I still haven't digested the words Twilight gave me."
+
+"Okay, well, good luck!"
+
+***
+
