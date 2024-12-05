@@ -1,9 +1,5 @@
 # One Friend, Extra Cute
 
-It's about a dystopian future where Equestria has devolved to the point where ponies buy friends to talk to. It will be about Twilight's first time going to one of these places, and she meets Pinkie, and they fall for each other.
-
-***
-
 The door closes behind me after I enter an establishment I've never been in before. Looking around I see mostly empty tables with the occasional pair of ponies, and couches with more stains than should even be possible. Several ponies sat on the cleaner sections of the couches, all of them making out with each other. Barely functioning lights buzz above me as a greeter pony approaches me.
 
 They skip all formalities and get straight to the point. "What's your name, and would you like a table for talking or a couch for cuddling?"
