@@ -833,6 +833,7 @@ dependencies = [
  "image",
  "indoc",
  "markdown",
+ "rand",
  "regex",
  "serde",
  "serde_json",
