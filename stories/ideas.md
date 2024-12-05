@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Past Predictions
+
+### Synopsis:
+Pinkie predicts the past. It starts off with really silly things like stuff that happened yesterday and everypony brushes her off, but then she predicts oddly specific things about pony history and the history of the universe and reality itself by the end.
+
+***
+
 ## Lying on Literature
 
 ### Synopsis:
