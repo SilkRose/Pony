@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Lying on Literature
+
+### Synopsis:
+Twilight keeps falling asleep on books and her friends are concerned that it's not good for her health. Surely it can't be comfortable at all.
+
+***
+
 ## Disappearing Fact
 
 ### Synopsis:
