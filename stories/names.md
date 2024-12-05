@@ -93,3 +93,5 @@ This file contains random story names that don't have enough thought to have the
 - Twisted Parchment
 - Value by the Hearts
 - Extra Pink
+- Bed of Books
+- Read 'em and Sleep
