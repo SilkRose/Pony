@@ -13,6 +13,7 @@ pub mod number_format;
 pub mod pagination;
 pub mod passphrase;
 pub mod regex;
+pub mod retry;
 pub mod sprite_sheet;
 pub mod stdin;
 pub mod string_image;
