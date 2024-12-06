@@ -80,6 +80,20 @@ Discord snaps his fingers, reverting the change. "Okay, fine."
 
 ***
 
+Discord materializes in front of the counter at Sugarcube Corner. He looks down at the Pinkie Pie. "Hello."
+
+"Hello, Discord, want any pastries or cakes this fine day?"
+
+"Not right now. I need your advice."
+
+"Oh, what about? I'm always here to help!"
+
+"I've got a crush on Fluttershy, and I don't know what to do about it."
+
+""
+
+***
+
 Discord teleports over to the next pony.
 
 "Oh, hey Discord. What's up?", says Rainbow Dash.
