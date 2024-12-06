@@ -15,6 +15,7 @@ pub mod passphrase;
 pub mod regex;
 pub mod retry;
 pub mod sprite_sheet;
+pub mod stderr;
 pub mod stdin;
 pub mod string_image;
 pub mod time;
