@@ -18,6 +18,7 @@ pub mod sprite_sheet;
 pub mod stderr;
 pub mod stdin;
 pub mod string_image;
+pub mod threads;
 pub mod time;
 pub mod traits;
 pub mod word_stats;
