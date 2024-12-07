@@ -80,15 +80,21 @@ Discord snaps his fingers, reverting the change. "Okay, fine."
 
 ***
 
-Discord materializes in front of the counter at Sugarcube Corner. He looks down at the Pinkie Pie. "Hello."
+Discord materializes in front of the counter at Sugarcube Corner. He looks down at Pinkie Pie. "Hello."
 
-"Hello, Discord, want any pastries or cakes this fine day?"
+"Hello, Discord, want any pastries or cakes this fine day?" Pinkie says with a smile.
 
 "Not right now. I need your advice."
 
 "Oh, what about? I'm always here to help!"
 
 "I've got a crush on Fluttershy, and I don't know what to do about it."
+
+"Are you going to ask her out?"
+
+"Yes, but I need to make it special, this is Fluttershy we are talking about."
+
+"Oh, you could give her a gift when you ask her out!"
 
 ""
 
