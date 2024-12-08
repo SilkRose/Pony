@@ -106,20 +106,24 @@ Discord teleports over to the next pony.
 
 "Well, the sky of course! Of all ponies I thought you would know.", Discord laughs smugly. Rainbow audibly groans.
 
-Discord sighs, "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. What do you think I should do, Rainbow?"
+Discord sighs, "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. Pinkie Pie said I should get her a gift. What do you think I should do, Rainbow?"
 
-Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a pony's heart is to impress them. If you do something really awesome, Fluttershy's sure to love it!"
+Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a pony's heart is to impress them. If you do something really awesome for Fluttershy, she's sure to love it!"
 
-"Really awesome you say? Like that time I turned Sweet Apple Acres into a skating rink, or made it rain chocolate milk?"
+"Really awesome? Like that time I turned Sweet Apple Acres into a skating rink, or made it rain chocolate milk?"
 
-"Yeah well... maybe try not to destroy anypony's property this time, or turn the whole world crazy. Use your powers to do something Fluttershy would like."
+"Yeah well... maybe try not to destroy anypony's property this time, or turn the whole world crazy. You should do something special that Fluttershy will *like*, to show that you care."
+
+"Something special that Fluttershy will like... hmm, I'll think about it"
+
+Discord snaps his fingers and disappears again.
 
 ***
 
-Discord carefully pondered the advice, and decided he would...
+Discord carefully ponders the advice, and decides he will...
 
 - [Follow Twilight's advice and read the book.](02-twilight.md)
 - [Follow Rarity's advice and take Fluttershy on a date.](03-rarity.md)
-- [Follow Rainbow's advice and try to impress her.](04-rainbow-dash.md)
-- [Follow Pinkie's advice and give her a gift.](05-pinkie-pie.md)
+- [Follow Pinkie's advice and give her a gift.](04-pinkie-pie.md)
+- [Follow Rainbow's advice and try to impress her.](05-rainbow-dash.md)
 - [Follow Applejack's advice and come clean.](06-applejack.md)
