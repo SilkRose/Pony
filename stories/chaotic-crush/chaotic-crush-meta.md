@@ -22,6 +22,6 @@ Written for [Kleia](https://www.fimfiction.net/user/482079/kleia) for [Jinglemas
 - 
 
 ## Story:
-[Chaotic Crush](./chaotic-crush.md)
+[Chaotic Crush](./01-chaotic-crush.md)
 
 ## Cover:
