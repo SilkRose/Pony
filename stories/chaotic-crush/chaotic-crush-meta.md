@@ -19,7 +19,13 @@ Written for [Kleia](https://www.fimfiction.net/user/482079/kleia) for [Jinglemas
 - Pinkie: give her a gift
 - Rainbow: woo her with a show
 - Applejack: just talk to her
-- 
+
+Names for chapters:
+- Twi: Klutzy Draconequus
+- Rarity: A beautiful heart
+- Pinkie: 
+- Rainbow: 
+- AJ: 
 
 ## Story:
 [Chaotic Crush](./01-chaotic-crush.md)
