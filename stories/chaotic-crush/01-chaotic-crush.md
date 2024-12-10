@@ -96,7 +96,15 @@ Discord materializes in front of the counter at Sugarcube Corner. He looks down 
 
 "Oh, you could give her a gift when you ask her out!"
 
-""
+"What kind of gift? I can snap my fingers and make anything appear."
+
+"No, no, no. It needs to be a gift from the heart. Something that you make and reminds her of you."
+
+"Okay, I'll think of something. Thank you for the help."
+
+"You're welcome!"
+
+With that, Discord disappears.
 
 ***
 
