@@ -128,6 +128,14 @@ Discord snaps his fingers and disappears again.
 
 ***
 
+Discord appears at his last stop before deciding what to do, Sweet Apple Acres.
+
+Applejack greets him as he turns to find him. "Howdy, Discord."
+
+
+
+***
+
 Discord carefully ponders the advice, and decides he will...
 
 - [Follow Twilight's advice and read the book.](02-klutzy-draconequus.md)
