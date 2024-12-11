@@ -112,7 +112,7 @@ Discord teleports over to the next pony.
 
 "Oh, hey Discord. What's up?", says Rainbow Dash.
 
-"Well, the sky of course! Of all ponies I thought you would know.", Discord laughs smugly. Rainbow audibly groans.
+"Well, the sky of course! Of all ponies I thought you would know." Discord laughs smugly. Rainbow audibly groans.
 
 Discord sighs, "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. Pinkie Pie said I should get her a gift. What do you think I should do, Rainbow?"
 
@@ -120,9 +120,9 @@ Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a 
 
 "Really awesome? Like that time I turned Sweet Apple Acres into a skating rink, or made it rain chocolate milk?"
 
-"Yeah well... maybe try not to destroy anypony's property this time, or turn the whole world crazy. You should do something special that Fluttershy will *like*, to show that you care."
+"Yeah well… maybe try not to destroy anypony's property this time, or turn the whole world crazy. You should do something special that Fluttershy will *like*, to show that you care."
 
-"Something special that Fluttershy will like... hmm, I'll think about it"
+"Something special that Fluttershy will like… hmm, I'll think about it"
 
 Discord snaps his fingers and disappears again.
 
@@ -136,7 +136,7 @@ Applejack greets him as he turns to find him. "Howdy, Discord."
 
 ***
 
-Discord carefully ponders the advice, and decides he will...
+Discord carefully ponders the advice, and decides he will…
 
 - [Follow Twilight's advice and read the book.](02-klutzy-draconequus.md)
 - [Follow Rarity's advice and take Fluttershy on a date.](03-rarity.md)
