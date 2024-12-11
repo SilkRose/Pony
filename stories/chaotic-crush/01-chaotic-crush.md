@@ -96,15 +96,31 @@ Discord materializes in front of the counter at Sugarcube Corner. He looks down 
 
 "Oh, you could give her a gift when you ask her out!"
 
-"What kind of gift? I can snap my fingers and make anything appear."
+"I can't give her butterflies, left those at Twilight's. Can't give her a day of the week, Rarity shot that down. What about a book on romance?"
+
+Discord pulls the book from his stomach, showing it off to Pinkie.
 
 "No, no, no. It needs to be a gift from the heart. Something that you make and reminds her of you."
 
-"Okay, I'll think of something. Thank you for the help."
+Discord put the book back, and taps his chin, thinking. "What would I make? I've never made anything myself, I always just snap my fingers and stuff appears."
 
-"You're welcome!"
+"I usually bake a cake, but you might want to think of something more permanent that she could use more than once."
 
-With that, Discord disappears.
+Discord thinks some more before snapping his fingers. A scarf appears in his hands that shared a striking resemblance to the draconequus holding it. "Ta-da, what do you think?"
+
+Pinkie took the scarf and wrapped it around herself. "This is really nice, but you should make a new one that's hoofmade."
+
+"Okay, thank you, Pinkie!"
+
+Pinkie smiled. "You're welcome!"
+
+With that, Discord disappears and soon after so does the scarf wrapped around Pinkie.
+
+"Hey, I was going to keep that!"
+
+A few seconds later, the scarf reappears in Pinkie's room and falls into her bed.
+
+"Thank you."
 
 ***
 
