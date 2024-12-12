@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## CVE-1000-0001
+
+### Synopsis:
+Twilight creates a first of its kind computer that uses both electricity and magic to power itself. Unfortunately for her, Starlight discovers a critical vulnerability in the design.
+
+***
+
 ## Past Predictions
 
 ### Synopsis:
