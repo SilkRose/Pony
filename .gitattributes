@@ -1,5 +1,6 @@
-# Tell GitHub Linguist to track Markdown files
+# Tell GitHub Linguist to track Markdown and JSON files
 *.md linguist-detectable=true
+*.json linguist-detectable=true
 
 # Auto detect text files and perform LF normalization
 * text=auto
