@@ -2,11 +2,9 @@
 
 Discord thinks to himself, "Well, I suppose it won't hurt to take a peek at Twilight's book."
 
-Discord takes the book out from his stomach. The book is called, *What Now? How To Know When You Have a Crush, and What To Do About It* by **
+Discord takes the book out from his stomach, and opens to the foreword.
 
-Discord opens the book to read the foreword.
-
-> Do you think you have a crush on somepony, but you're not sure what to do about it? If so, this book is for you! This book outlines everything you need to know to deal with a crush, and more. Everything from conversation tips, to date ideas, and how to know if they like you back, and much, much more. This is the only book you'll ever need to have a successful relationship in life.
+> If you think you have a crush on somepony, but you're not sure what to do about it, then this book is for you! This book includes everything you need to know about how to deal with a crush- conversation tips, date ideas, and much, much more.
 
 Discord thinks to himself, "Wow, this book is exactly what I need!"
 
@@ -25,15 +23,52 @@ He reads on to the next chapter.
 > 
 > When you're getting to know somepony, a good strategy is to ask them personal questions, like:
 > - What's your name?
-> - Do you have any hobbies?
 > - Do you come here often?
+> - What are your hobbies?
 >
-> Once you get to know your crush, then it's time to ask them on a date. A date is a special get together with just the two of you, to evaluate your compatibility in a relationship. Some examples of good dates are:
-> - Going to the library
+> Once you get to know your crush, then it's time to ask them on a date. A date is a special outing with just the two of you, to evaluate your compatibility in a relationship. Some examples of good dates are:
 > - Going to an amusement park
+> - Going golfing
+> - Etc.
 >
-> Before you ask your crush on a date, you should also think of a good pickup line, or something clever you say when asking someone on a date. Good luck!
+> Good luck!
 
 "Thanks, Twilight. I hope I don't mess this up.", Discord thinks as he puts the book back in his stomach.
+
+***
+
+Discord teleports over to Fluttershy's cottage. The butterflies come back to his stomach. Discord looks over the book one last time, to make sure he didn't miss-
+
+"Oh, hey Discord!"
+
+Without warning, Discord panicks and blurts out the first thing that comes to his mind. He glances at the book, "Umm, hi. What's your name?"
+
+"Umm, Discord?"
+
+"Discord! Uhh, me too!", Discord says, staring down at the book to find what to ask next.
+
+"So um, do you come here often..?", Discord asks, and instantly regrets.
+
+"I... suppose so? I live here-"
+
+Fluttershy is cut off by Discord- "What are your hobbies?"
+
+"Umm, Discord?", Fluttershy glances at the book Discord is holding, "Are you... asking me on a date?"
+
+Discord is frozen with embarassment. His cheeks are bright red. He doesn't know how to respond.
+
+"It's okay", Fluttershy says, "...actually, I think that would be pretty nice, if that's what you're asking."
+
+Discord's ears perk up. "Really?"
+
+Fluttershy nods. "Really."
+
+Discord squirms with excitement. "What do you want to do? Amusement park? Golfing?"
+
+Fluttershy responds, "Umm... actually, I was thinking of something a little more low-key."
+
+"How about a picnic?"
+
+"Sounds perfect."
 
 ***
