@@ -136,13 +136,27 @@ Discord sighs. "Okay, fine. I have a crush on Fluttershy, and I don't know what 
 
 Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a pony's heart is to impress them. If you do something really awesome for Fluttershy, she's sure to love it!"
 
-"Really awesome? Like that time I turned Sweet Apple Acres into a skating rink, or made it rain chocolate milk?"
+"What would she think is really awesome?"
 
-"Yeah well… maybe try not to destroy anypony's property this time, or turn the whole world crazy. You should do something special that Fluttershy will *like*, to show that you care."
+"Think of something Fluttershy really likes and try to do something with that."
 
-"Something special that Fluttershy will like… hmm, I'll think about it"
+"She really likes animals."
 
-Discord snaps his fingers and disappears again.
+"Why don't you try to befriend some of her animals? That would probably mean a lot to her."
+
+"I don't think anypony besides Fluttershy could befriend that bunny. It hates everything and everypony that isn't her."
+
+"Yea, I'm pretty sure he just tolerates all us now since we come around so much. I didn't mean him, though. Make friends with her other animals. You can talk to animals, right?"
+
+"Oh, I can. I hadn't thought about that. We both can talk to animals. That's quite rare among ponies."
+
+"Also, don't just snap your fingers and make it happen. Fluttershy will know. If you make real friends with them, she will be thrilled."
+
+"Okay, thank you!"
+
+"No problem."
+
+With that, Discord snaps his fingers and disappears again.
 
 ***
 
