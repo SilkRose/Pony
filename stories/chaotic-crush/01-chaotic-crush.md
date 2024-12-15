@@ -1,6 +1,6 @@
 # Chaotic Crush
 
-Discord snaps into existence in Twilight's tree-house. He looks around for her, and shouts her name, "Twilight!"
+Discord pops into existence in Twilight's tree-house. He looks around for her, and calls her name, "Twilight!"
 
 Twilight looks up from the book she is reading and responds, "Hello, Discord."
 
@@ -12,7 +12,7 @@ Twilight looks up from the book she is reading and responds, "Hello, Discord."
 
 Twilight pauses and puts down her book. "How exactly do you feel different? I need details to be able to help."
 
-"I don't ever want to leave her side. Well, more than I usually do. I want to hold her hoof. I want to hug her and not let go. I feel all wobbly inside around her."
+"I don't ever want to leave her side. Well, more than I usually do. I want to hold her hoof. I want to hug her and not let go. I feel all wobbly inside around her." Discord emphasizes the last bit by noodling his body around randomly.
 
 Twilight giggles. "Sounds like you have a crush on Fluttershy."
 
@@ -20,7 +20,7 @@ Twilight giggles. "Sounds like you have a crush on Fluttershy."
 
 "Do you feel butterflies in your stomach when she is around you?"
 
-"Well, yes, but where else am I going to keep them." Discord open a door on his stomach and butterflies fly out before he closes the door.
+"Well, yes, but where else am I going to keep them." Discord opens a door on his stomach and three butterflies fly out before he closes the door.
 
 Twilight just looks at him, unamused.
 
@@ -30,7 +30,7 @@ Discord answers the question, "Okay, yes I do."
 
 "Well, what do I do about it?"
 
-Twilight thinks for a moment, then levitates down a book from her shelves. "Here, read this. It's a book about romance, it will help you deal with your feelings and expressing them to Fluttershy."
+Twilight thinks for a moment, then levitates down a book from her shelves. "Here, read this. It's a book about romance, it will help you deal with your feelings, and expressing them to Fluttershy."
 
 "But, that sounds like work. The lord of chaos doesn't read."
 
@@ -76,15 +76,17 @@ Discord snaps his fingers, reverting the change. "Okay, fine."
 
 "I still haven't decided what I will do. I'm going to get more advice before I decide. I still haven't digested the words Twilight gave me."
 
-"Okay, well, good luck!"
+"Okay, well, good luck!" Rarity smiles and waves goodbye to Discord.
+
+Discord waves back before saying, "goodbye."
 
 ***
 
-Discord materializes in front of the counter at Sugarcube Corner. He looks down at Pinkie Pie. "Hello."
+Discord materializes in front of the door to Pinkie's room at Sugarcube Corner. He knocks on the door and says, "Hello."
 
-"Hello, Discord, want any pastries or cakes this fine day?" Pinkie says with a smile.
+Pinkie opens her door a moment later. "Hello, Discord."
 
-"Not right now. I need your advice."
+"Pinkie, I need your advice."
 
 "Oh, what about? I'm always here to help!"
 
@@ -108,17 +110,17 @@ Discord put the book back, and taps his chin, thinking. "What would I make? I've
 
 Discord thinks some more before snapping his fingers. A scarf appears in his hands that shared a striking resemblance to the draconequus holding it. "Ta-da, what do you think?"
 
-Pinkie took the scarf and wrapped it around herself. "This is really nice, but you should make a new one that's hoofmade."
+Pinkie took the scarf and wrapped it around herself a few times. "This is really nice, but you should make a new one that's hoofmade."
 
-"Okay, thank you, Pinkie!"
+"Okay, thank you, Pinkie!" Discord says with a smile.
 
-Pinkie smiled. "You're welcome!"
+Pinkie smiles back. "You're welcome!"
 
 With that, Discord disappears and soon after so does the scarf wrapped around Pinkie.
 
 "Hey, I was going to keep that!"
 
-A few seconds later, the scarf reappears in Pinkie's room and falls into her bed.
+A few seconds later, the scarf reappears in Pinkie's room and falls onto her bed.
 
 "Thank you."
 
@@ -126,11 +128,11 @@ A few seconds later, the scarf reappears in Pinkie's room and falls into her bed
 
 Discord teleports over to the next pony.
 
-"Oh, hey Discord. What's up?", says Rainbow Dash.
+"Oh, hey Discord. What's up?" asks Rainbow Dash.
 
-"Well, the sky of course! Of all ponies I thought you would know." Discord laughs smugly. Rainbow audibly groans.
+"Well, the sky, of course! Of all ponies, I thought you would know that." Discord laughs smugly. Rainbow audibly groans.
 
-Discord sighs, "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. Pinkie Pie said I should get her a gift. What do you think I should do, Rainbow?"
+Discord sighs. "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. Pinkie Pie said I should get her a gift. What do you think I should do, Rainbow?"
 
 Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a pony's heart is to impress them. If you do something really awesome for Fluttershy, she's sure to love it!"
 
@@ -146,7 +148,7 @@ Discord snaps his fingers and disappears again.
 
 Discord appears at his last stop before deciding what to do, Sweet Apple Acres.
 
-Applejack greets him as he turns to find him. "Howdy, Discord."
+Applejack greets him as she turns to find him. "Howdy, Discord."
 
 
 
