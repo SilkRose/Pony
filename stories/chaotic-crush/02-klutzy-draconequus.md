@@ -1,63 +1,67 @@
 # Klutzy Draconequus
 
-Discord thinks to himself, "Well, I suppose it won't hurt to take a peek at Twilight's book."
+Discord thinks to himself. *Well, I suppose it won't hurt to take a peek at Twilight's book.*
 
 Discord takes the book out from his stomach, and opens to the foreword.
 
-> If you think you have a crush on somepony, but you're not sure what to do about it, then this book is for you! This book includes everything you need to know about how to deal with a crush- conversation tips, date ideas, and much, much more.
+> If you think you have a crush on somepony, but you're not sure what to do about it, then this book is for you! This book includes everything you need to know about how to deal with a crush: conversation tips, date ideas, and much, much more.
 
 Discord thinks to himself, "Wow, this book is exactly what I need!"
 
 He reads on to the next chapter.
 
 > Many ponies actually have a crush without realizing it. Some signs you have a crush on somepony are:
-> - You think about them a lot.
-> - You have butterflies in your stomach.
-> - You start reading books about what to do if you have a crush on them.
-> 
+
+- You think about them a lot.
+- You have butterflies in your stomach.
+- You start reading books about what to do if you have a crush on them.
+
 > If you meet two or more of these criteria, you may have a crush on them.
 
-"Wow, I meet all three!- Although I suppose I did let the butterflies out of my stomach earlier, so maybe just two."
+"Wow, I meet all three! — Although I suppose I did let the butterflies out of my stomach earlier, so maybe just two."
 
 > So, what do you do when you have a crush on somepony? The first step is to get to know them, then when you get to know them better, you can ask them on a date.
 > 
 > When you're getting to know somepony, a good strategy is to ask them personal questions, like:
-> - What's your name?
-> - Do you come here often?
-> - What are your hobbies?
->
+
+- What's your name?
+- Do you come here often?
+- What are your hobbies?
+
 > Once you get to know your crush, then it's time to ask them on a date. A date is a special outing with just the two of you, to evaluate your compatibility in a relationship. Some examples of good dates are:
-> - Going to an amusement park
-> - Going golfing
-> - Etc.
->
+
+- Going to an amusement park.
+- Going golfing.
+- Third example.
+- Etc.
+
 > Good luck!
 
-"Thanks, Twilight. I hope I don't mess this up.", Discord thinks as he puts the book back in his stomach.
+*Thanks, Twilight. I hope I don't mess this up.* Discord thinks as he puts the book back in his stomach.
 
 ***
 
-Discord teleports over to Fluttershy's cottage. The butterflies come back to his stomach. Discord looks over the book one last time, to make sure he didn't miss-
+Discord teleports over to Fluttershy's cottage. The butterflies come back to his stomach. Discord looks over the book one last time, to make sure he didn't miss–
 
-"Oh, hey Discord!"
+"Oh, hey Discord!" Fluttershy says.
 
-Without warning, Discord panicks and blurts out the first thing that comes to his mind. He glances at the book, "Umm, hi. What's your name?"
+Without warning, Discord panics and blurts out the first thing that comes to his mind. He glances at the book, "Umm, hi. What's your name?"
 
 "Umm, Discord?"
 
 "Discord! Uhh, me too!", Discord says, staring down at the book to find what to ask next.
 
-"So um, do you come here often..?", Discord asks, and instantly regrets.
+"So, um, do you come here often…" Discord asks, and instantly regrets.
 
-"I... suppose so? I live here-"
+"I… suppose so? I live here–"
 
-Fluttershy is cut off by Discord- "What are your hobbies?"
+Fluttershy is cut off by Discord. "What are your hobbies?"
 
-"Umm, Discord?", Fluttershy glances at the book Discord is holding, "Are you... asking me on a date?"
+"Umm, Discord?" Fluttershy glances at the book Discord is holding, "Are you… asking me on a date?"
 
-Discord is frozen with embarassment. His cheeks are bright red. He doesn't know how to respond.
+Discord is frozen with embarrassment. His cheeks are bright red. He doesn't know how to respond.
 
-"It's okay", Fluttershy says, "...actually, I think that would be pretty nice, if that's what you're asking."
+"It's okay," Fluttershy says, "…actually, I think that would be pretty nice if that's what you're asking."
 
 Discord's ears perk up. "Really?"
 
@@ -65,10 +69,8 @@ Fluttershy nods. "Really."
 
 Discord squirms with excitement. "What do you want to do? Amusement park? Golfing?"
 
-Fluttershy responds, "Umm... actually, I was thinking of something a little more low-key."
+Fluttershy responds, "Umm… actually, I was thinking of something a little more low-key."
 
 "How about a picnic?"
 
 "Sounds perfect."
-
-***
