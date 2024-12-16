@@ -4,6 +4,23 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Prettiest Presentation
+
+### Synopsis:
+Twilight creates a slide show for Rarity about why they should date.
+
+### Slide ideas:
+- Title slide
+- Who, what, why, where, when.
+- "Survey"
+- Graph
+- Why Twilight likes Rarity
+- Why Twilight thinks they'll work well together
+- Twilight's plan for first date
+- Question and answer and credits
+
+***
+
 ## CVE-1000-0001
 
 ### Synopsis:
