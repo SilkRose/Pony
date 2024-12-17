@@ -164,6 +164,26 @@ Discord appears at his last stop before deciding what to do, Sweet Apple Acres.
 
 Applejack greets him as she turns to find him. "Howdy, Discord."
 
+"Applejack, I need your advice. I have a crush on Fluttershy and I don't know what to do about it. I've asked Twilight, Rarity, Pinkie, and Rainbow for advice. They all gave different advice."
+
+"Let me guess, Twilight gave you a book, Rarity said to take her on a date, Pinkie said to give her a gift, and Rainbow said to impress her somehow."
+
+"Wow, you really know your friends."
+
+"Do you know Fluttershy that well?"
+
+In a rare moment of self-reflection, Discord says in a somber tone, "I would like to think so, yes."
+
+"Then, how would Fluttershy want you to admit your feelings to her?"
+
+"She would probably want me to just tell her and have a conversation about it."
+
+"Then, that's my advice. Any of the advice you got would probably work, but no matter what, you two will have to talk about your feelings."
+
+"I'm surprised I didn't realize that myself. Thank you, Applejack."
+
+"I'm not surprised." Applejack chuckles. "All jokes aside, don't mention it. Tell you the truth, I'm glad you asked for help, it shows how much you care for her and how much you've learned."
+
 
 
 ***
