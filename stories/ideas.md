@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Off-screen Obliteration
+
+### Synopsis:
+Everything not shown in the focus of the story cease's to exist until it is re-shown in the story. Eventually, somepony notices.
+
+***
+
 ## Prettiest Presentation
 
 ### Synopsis:
