@@ -168,10 +168,10 @@ Applejack greets him as she turns to find him. "Howdy, Discord."
 
 ***
 
-Discord carefully ponders the advice, and decides he will…
+Discord carefully ponders the advice, and decides to will follow the advice from…
 
-- [Follow Twilight's advice and read the book.](02-reading-romance.md)
-- [Follow Rarity's advice and take Fluttershy on a date.](03-rarity.md)
-- [Follow Pinkie's advice and give her a gift.](04-pinkie-pie.md)
-- [Follow Rainbow's advice and try to impress her.](05-rainbow-dash.md)
-- [Follow Applejack's advice and come clean.](06-applejack.md)
+- [Twilight Sparkle](02-reading-romance.md)
+- [Rarity](03-pleasant-picnic.md)
+- [Pinkie Pie](04-genuine-gift.md)
+- [Rainbow Dash](05-animal-articulation.md)
+- [Applejack](06-cute-confession.md)
