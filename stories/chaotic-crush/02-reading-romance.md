@@ -1,4 +1,4 @@
-# Klutzy Draconequus
+# Reading Romance
 
 Discord thinks to himself. *Well, I suppose it won't hurt to take a peek at Twilight's book.*
 
