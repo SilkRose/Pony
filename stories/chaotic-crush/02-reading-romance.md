@@ -6,7 +6,7 @@ Discord takes the book out from his stomach, and opens to the foreword.
 
 > If you think you have a crush on somepony, but you're not sure what to do about it, then this book is for you! This book includes everything you need to know about how to deal with a crush: conversation tips, date ideas, and much, much more.
 
-Discord thinks to himself, "Wow, this book is exactly what I need!"
+*Wow, this book is exactly what I need!*
 
 He reads on to the next chapter.
 
