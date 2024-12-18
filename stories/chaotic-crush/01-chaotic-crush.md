@@ -184,7 +184,11 @@ In a rare moment of self-reflection, Discord says in a somber tone, "I would lik
 
 "I'm not surprised." Applejack chuckles. "All jokes aside, don't mention it. Tell you the truth, I'm glad you asked for help, it shows how much you care for her and how much you've learned."
 
+"In any case, you've all given me a lot to think about. I don't know what I'll do yet, but I appreciate all the advice."
 
+Applejack tips her hat to Discord. "Good luck to ya."
+
+"Thank you." Discord says before disappearing to figure out what to do.
 
 ***
 
