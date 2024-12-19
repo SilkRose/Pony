@@ -1,18 +1,18 @@
 # Pleasant Picnic
 
-Discord knocks on Fluttershy's door. The first time he's done so in a while. Normally he would just appear in her house in a loud and brash manner, but this time, he wanted to respect her privacy.
+Discord knocks on Fluttershy's door, the first time he's done so in a while. Normally he would just appear in her house in a loud and brash manner, but this time, he wanted to respect her privacy.
 
-Fluttershy answers the door with a somewhat confused expression. "Hello, Discord."
+Fluttershy answers the door with a somewhat confused expression. "Oh, hello, Discord."
 
-"Oh, hello Fluttershy. I was coming to see if you would like to accompany me on a nice little picnic this fine evening?"
+"Hello Fluttershy. I was coming to ask if you would like to join me on a nice little picnic this fine evening?"
 
-"Sounds fun. Yes, I'll go."
+"A picnic? Oh, that sounds nice. Sure!"
 
-"Perfect!" Discord says before snapping his fingers and teleporting both of them.
+"Perfect!" Discord says, before snapping his fingers and teleporting both of them.
 
 After reorienting herself, Fluttershy finds herself sitting on a picnic blanket with little hears embossed into each square.
 
-Discord opens a picnic basket and offers her a sandwich. "I made them myself."
+Discord opens a picnic basket and offers her a sandwich. "I made them myself," Discord says proudly.
 
 Fluttershy takes it, noticing it has been cut into a heart shape.
 
@@ -46,7 +46,7 @@ After they have both finished eating, Fluttershy asks, "What's next?"
 
 Discord lays down on the blanket and stares up at the sky. "I figured we could watch the clouds together."
 
-"Sounds very serene." Fluttershy says before laying down too.
+"Sounds very serene." Fluttershy says before lying down too.
 
 Discord points up at a cloud. "Look, it's the formula for cold fusion!"
 
