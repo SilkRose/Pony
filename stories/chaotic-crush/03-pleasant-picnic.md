@@ -4,7 +4,7 @@ Discord knocks on Fluttershy's door, the first time he's done so in a while. Nor
 
 Fluttershy answers the door with a somewhat confused expression. "Oh, hello, Discord."
 
-"Hello Fluttershy. I came to ask… you would like to join me on a nice little picnic this evening?", Discord asks nervously.
+"Hello Fluttershy. I came to ask… would you like to join me on a nice little picnic this evening?", Discord asks nervously.
 
 "A picnic? Oh, that sounds nice. Sure!"
 
