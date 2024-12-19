@@ -4,13 +4,13 @@ Discord knocks on Fluttershy's door, the first time he's done so in a while. Nor
 
 Fluttershy answers the door with a somewhat confused expression. "Oh, hello, Discord."
 
-"Hello Fluttershy. I was coming to ask if you would like to join me on a nice little picnic this fine evening?"
+"Hello Fluttershy. I came to ask… you would like to join me on a nice little picnic this evening?", Discord asks nervously.
 
 "A picnic? Oh, that sounds nice. Sure!"
 
 "Perfect!" Discord says, before snapping his fingers and teleporting both of them.
 
-After reorienting herself, Fluttershy finds herself sitting on a picnic blanket with little hears embossed into each square.
+After reorienting herself, Fluttershy finds herself sitting on a picnic blanket with little hearts embossed into each square.
 
 Discord opens a picnic basket and offers her a sandwich. "I made them myself," Discord says proudly.
 
