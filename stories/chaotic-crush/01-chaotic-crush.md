@@ -192,19 +192,19 @@ Applejack tips her hat to Discord. "Good luck to ya."
 
 ***
 
-Discord reappears in his pocket dimension and starts pacing around the room. *What will I do?*, he thinks to himself.
+Discord reappears in his house and starts pacing around the room. *What will I do?*, he thinks to himself.
 
-Suddenly, he has an idea. With a snap of his fingers, 5 clones of himself appear in the room.
+Suddenly, he has an idea. With a snap of his fingers, five clones of himself appear in the room.
 
-The first clone says, "Twilight's idea is clearly the best! You've never dated anypony before, Discord, so you should read up on it. And besides, it's not like you know how to make a handmade gift anyway."
+The first clone says, "Twilight's idea is clearly the best! You've never dated anypony before, so you should read up on it. And besides, it's not like you know how to make a handmade gift anyway."
 
 The second clone replies, "I think Pinkie Pie's idea is better! It's the sentiment that counts, after all, and besides– a gift would mean more than a special outing."
 
 The third clone replies, "But what about Rarity's idea? Fluttershy would love a picnic date! At least it's easier than trying to befriend her animals."
 
-The fourth clone replies, "It doesn't matter if it's easy or not! If you're gonna date Fluttershy, you'll have to befriend her animals at some point anyway. You should follow Rainbow's advice. At least it's better than just talking to her– that's way too simple to work."
+The fourth clone replies, "It doesn't matter if it's easy or not! If you're going to date Fluttershy, you'll have to befriend her animals at some point anyway. You should follow Rainbow Dash's advice. At least it's better than just talking to her– that's way too simple to work."
 
-The fifth clone replies, "You're all overcomplicating this! Just talk to her– there's no other way around it. You should follow AJ's advice."
+The fifth clone replies, "You're all overcomplicating this! Just talk to her– there's no other way around it. You should follow Applejack's advice."
 
 Discord snaps his fingers, and the clones disappear. After considering what the clones said, he decides to follow the advice given to him by…
 
