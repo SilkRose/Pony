@@ -96,3 +96,4 @@ This file contains random story names that don't have enough thought to have the
 - Bed of Books
 - Read 'em and Sleep
 - A Letter of Little to no Significance
+- Mare Formality
