@@ -4,7 +4,7 @@ Discord knocks on Fluttershy's door as he nervously holds a present.
 
 After what feels like an eternity, Fluttershy opens the door. "Hello Fluttershy, can I come in? I have something for you."
 
-"You do? Oh, sure! Actually– I had something for you too.", Fluttershy replies. 
+"You do? Oh, sure! Actually– I had something for you too," Fluttershy replies. 
 
 Fluttershy leads him inside and they sit down. Discord presents his box to her. It's wrapped in a cute butterfly themed paper.
 
@@ -46,7 +46,7 @@ Discord says, "I was planning on asking you out, but you beat me to it."
 
 After the hug, they lean back and smile at each other.
 
-Fluttershy says, "After I saw the scarf on Pinkie I asked her about it, and we started talking, and I told her about my feelings for you. I asked for her advice. I take it you asked her for advice, too?"
+Fluttershy says, "After I saw the scarf on Pinkie, I asked her about it, and we started talking, and I told her about my feelings for you. I asked for her advice. I take it you asked her for advice, too?"
 
 "Yes, actually. I asked all your friends for advice, and decided to take hers."
 
