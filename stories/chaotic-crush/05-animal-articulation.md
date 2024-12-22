@@ -14,3 +14,11 @@ Fluttershy says, "Oh wow! You made it so my animals can speak? Did you make them
 
 Angel speaks up, "He didn't make them say anything, I still hate him."
 
+Fluttershy asks, "What did all you critters want to tell me?"
+
+A frog jumps forward and says, "While Discord has been making friends with us, we have noticed something about you both."
+
+"What?" Fluttershy asks, putting her hoof to her mouth.
+
+"You both have strong feelings for each other, in a – ribbit – *romantic* way."
+
