@@ -132,7 +132,7 @@ Discord teleports over to the next pony.
 
 "Well, the sky, of course! Of all ponies, I thought you would know that." Discord laughs smugly. Rainbow audibly groans.
 
-Discord sighs. "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. Pinkie Pie said I should get her a gift. What do you think I should do, Rainbow?"
+Discord sighs. "Okay, fine. I have a crush on Fluttershy, and I don't know what to do about it. I asked Twilight, and she said I should read a book. I asked Rarity, and she said I should bring her on a date. Pinkie Pie said I should get her a gift. What do *you* think I should do?"
 
 Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a pony's heart is to impress them. If you do something really awesome for Fluttershy, she's sure to love it!"
 
@@ -140,17 +140,17 @@ Rainbow thinks for a second, then answers, "Well, I'd say the best way to win a 
 
 "Think of something Fluttershy really likes and try to do something with that."
 
-"She really likes animals."
+Discord taps his chin. "Hmm. She really likes animals."
 
 "Why don't you try to befriend some of her animals? That would probably mean a lot to her."
 
-"I don't think anypony besides Fluttershy could befriend that bunny. It hates everything and everypony that isn't her."
+"I don't think anypony besides Fluttershy could befriend that bunny of hers. It hates everything and everypony that isn't her."
 
-"Yea, I'm pretty sure he just tolerates all us now since we come around so much. I didn't mean him, though. Make friends with her other animals. You can talk to animals, right?"
+"Yeah, I'm pretty sure Angel only tolerates us now since we come around so much. I didn't mean him, though. Make friends with her other animals. You can talk to animals, right?"
 
 "Oh, I can. I hadn't thought about that. We both can talk to animals. That's quite rare among ponies."
 
-"Also, don't just snap your fingers and make it happen. Fluttershy will know. If you make real friends with them, she will be thrilled."
+"But don't just snap your fingers and make it happen. Fluttershy will know. If you really do friends with them, she'll be thrilled."
 
 "Okay, thank you!"
 
@@ -164,9 +164,9 @@ Discord appears at his last stop before deciding what to do, Sweet Apple Acres.
 
 Applejack greets him as she turns to find him. "Howdy, Discord."
 
-"Applejack, I need your advice. I have a crush on Fluttershy and I don't know what to do about it. I've asked Twilight, Rarity, Pinkie, and Rainbow for advice. They all gave different advice."
+"Applejack, I need your advice. I have a crush on Fluttershy and I don't know what to do about it. I've asked Twilight, Rarity, Pinkie, and Rainbow for advice. They all had different ideas."
 
-"Let me guess, Twilight gave you a book, Rarity said to take her on a date, Pinkie said to give her a gift, and Rainbow said to impress her somehow."
+"Let me guess, Twilight told you to read a book, Rarity told you to take her on a date, Pinkie told you to give her a gift, and Rainbow told you to impress her somehow."
 
 "Wow, you really know your friends."
 
@@ -174,15 +174,15 @@ Applejack greets him as she turns to find him. "Howdy, Discord."
 
 In a rare moment of self-reflection, Discord says in a somber tone, "I would like to think so, yes."
 
-"Then, how would Fluttershy want you to admit your feelings to her?"
+"Then how would Fluttershy want you to admit your feelings to her?"
 
-"She would probably want me to just tell her and have a conversation about it."
+"She would probably want me to just tell her, so we could have a conversation about it."
 
-"Then, that's my advice. Any of the advice you got would probably work, but no matter what, you two will have to talk about your feelings."
+"That's my advice, then. Those other ideas you got would probably work, but no matter what, you two will have to talk about your feelings eventually."
 
 "I'm surprised I didn't realize that myself. Thank you, Applejack."
 
-"I'm not surprised." Applejack chuckles. "All jokes aside, don't mention it. Tell you the truth, I'm glad you asked for help, it shows how much you care for her and how much you've learned."
+"I'm not surprised," Applejack chuckles. "And don't mention it. Jokes aside, I'm glad you asked for help. It shows how much you care for her and how much you've learned."
 
 "In any case, you've all given me a lot to think about. I don't know what I'll do yet, but I appreciate all the advice."
 
@@ -198,13 +198,13 @@ Suddenly, he has an idea. With a snap of his fingers, five clones of himself app
 
 The first clone says, "Twilight's idea is clearly the best! You've never dated anypony before, so you should read up on it. And besides, it's not like you know how to make a handmade gift anyway."
 
-The second clone replies, "I think Pinkie Pie's idea is better! It's the sentiment that counts, after all, and besides– a gift would mean more than a special outing."
+The second clone replies, "I think Pinkie Pie's idea is better! It's the sentiment that counts, after all. And besides, a gift would mean more than a special outing."
 
 The third clone replies, "But what about Rarity's idea? Fluttershy would love a picnic date! At least it's easier than trying to befriend her animals."
 
-The fourth clone replies, "It doesn't matter if it's easy or not! If you're going to date Fluttershy, you'll have to befriend her animals at some point anyway. You should follow Rainbow Dash's advice. At least it's better than just talking to her– that's way too simple to work."
+The fourth clone replies, "It doesn't matter if it's easy or not! If you're going to date Fluttershy, you'll have to befriend her animals at some point anyway. You should follow Rainbow Dash's advice. At least it's better than just talking to her – that would never work."
 
-The fifth clone replies, "You're all overcomplicating this! Just talk to her– there's no other way around it. You should follow Applejack's advice."
+The fifth clone replies, "You're all overcomplicating this! Just talk to her – there's no way around it. You should follow Applejack's advice."
 
 Discord snaps his fingers, and the clones disappear. After considering what the clones said, he decides to follow the advice given to him by…
 
