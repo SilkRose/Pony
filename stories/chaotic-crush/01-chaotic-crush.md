@@ -10,33 +10,33 @@ Twilight looks up from the book she is reading and responds, "Hello, Discord."
 
 "I feel different around Fluttershy and I must know why."
 
-Twilight pauses and puts down her book. "How exactly do you feel different? I need details to be able to help."
+Twilight pauses and puts down her book. "How exactly do you feel different? I need details before I can help."
 
-"I don't ever want to leave her side. Well, more than I usually do. I want to hold her hoof. I want to hug her and not let go. I feel all wobbly inside around her." Discord emphasizes the last bit by noodling his body around randomly.
+"I want to stay by her side. I want to hold her hoof. I want to hug her and not let go. Even more than usual!"
 
 Twilight giggles. "Sounds like you have a crush on Fluttershy."
 
 "Are you sure that's it?"
 
-"Do you feel butterflies in your stomach when she is around you?"
+"Do you feel butterflies in your stomach when she's around?"
 
-"Well, yes, but where else am I going to keep them." Discord opens a door on his stomach and three butterflies fly out before he closes the door.
+"Well, yes, but where else am I going to keep them?" Discord opens a door on his stomach and three butterflies fly out before he shuts the door.
 
 Twilight just looks at him, unamused.
 
 Discord answers the question, "Okay, yes I do."
 
-"Then, yea. I would say you have a crush on her."
+"Then, yeah. I would say you have a crush on her."
 
 "Well, what do I do about it?"
 
 Twilight thinks for a moment, then levitates down a book from her shelves. "Here, read this. It's a book about romance, it will help you deal with your feelings, and expressing them to Fluttershy."
 
-"But, that sounds like work. The lord of chaos doesn't read."
+Discord groans. "Augh, *reading!?* The lord of chaos doesn't read."
 
 "I don't know what to tell you. The lord of chaos will have to read if he wants any advice on how to handle his feelings."
 
-Discord takes the book and puts it in his stomach before snapping his fingers and disappearing.
+Discord reluctantly takes the book and puts it in his stomach before snapping his fingers and disappearing.
 
 ***
 
@@ -44,15 +44,15 @@ Discord poofs into existence at his next destination, Carousel Boutique. He call
 
 Rarity trots into the main room from her kitchen before answering, "Hello. To what do I owe the *pleasure* of this visit, Discord?"
 
-"I need your help, Twilight says I have a crush on Fluttershy and I don't know what to do about it." Discord's face wavers as concern flashes on his face.
+"I need your help! Twilight thinks I have a crush on Fluttershy and I don't know what to do about it." Discord's face wavers as concern flashes on his face.
 
-"Do you think you have a crush on Fluttershy?"
+"Do *you* think you have a crush on Fluttershy?"
 
-"I don't know. I have noticed her beauty a lot more now, like thousands of times a day instead of hundreds."
+"I don't know. I have been noticing her beauty a lot more now - like, thousands of times a day, instead of hundreds."
 
 "Okay, yes, you probably have a crush on her."
 
-"So, what should I do?"
+"So what should I do?"
 
 Rarity's face lights up. "You should take her out on a date."
 
@@ -64,21 +64,21 @@ Rarity looks concerned. "What is done?"
 
 Rarity's face turns to worry as she rushes to a calendar on her wall, and sure enough, every Friday has been renamed to Fluttershy Friday.
 
-She returns to him and says, "Discord, that's not what I meant, if you change it back I can explain in more detail."
+She returns to him and says, "Discord, that's not what I meant! If you change it back I can explain in more detail."
 
 Discord snaps his fingers, reverting the change. "Okay, fine."
 
-"Thank you. Now, what I mean is to take her on a romantic date, a special outing just the two of you. A picnic date sounds like something Fluttershy would like."
+"Thank you. Now, what I mean is to take her on a *romantic* date. A special outing with just the two of you. Maybe a... picnic! That's something Fluttershy might like."
 
-"I see."
+"A romantic picnic, you say? But I still haven't digested the words Twilight gave me. They're still in here, where I usually keep my butterflies." He pats his belly.
 
-"Do let me know how it goes."
+"... Pardon me?"
 
-"I still haven't decided what I will do. I'm going to get more advice before I decide. I still haven't digested the words Twilight gave me."
+"I need more advice from Fluttershy's friends before I can decide."
 
 "Okay, well, good luck!" Rarity smiles and waves goodbye to Discord.
 
-Discord waves back before saying, "goodbye."
+Discord waves back before saying, "Goodbye."
 
 ***
 
@@ -94,7 +94,7 @@ Pinkie opens her door a moment later. "Hello, Discord."
 
 "Are you going to ask her out?"
 
-"Yes, but I need to make it special, this is Fluttershy we are talking about."
+"Maybe, but I need to make it special. This is Fluttershy we're talking about."
 
 "Oh, you could give her a gift when you ask her out!"
 
@@ -102,13 +102,13 @@ Pinkie opens her door a moment later. "Hello, Discord."
 
 Discord pulls the book from his stomach, showing it off to Pinkie.
 
-"No, no, no. It needs to be a gift from the heart. Something that you make and reminds her of you."
+"No, no, no. It needs to be a gift from the heart." Discord hesitantly reaches for the door handle on his chest, but Pinkie shrieks, "NO! I meant, it should be something you make, something that reminds her of you."
 
-Discord put the book back, and taps his chin, thinking. "What would I make? I've never made anything myself, I always just snap my fingers and stuff appears."
+Discord puts the book back, and taps his chin, thinking. "What should I make? I've never made anything myself, anyway. I always just snap my fingers and stuff appears."
 
 "I usually bake a cake, but you might want to think of something more permanent that she could use more than once."
 
-Discord thinks some more before snapping his fingers. A scarf appears in his hands that shared a striking resemblance to the draconequus holding it. "Ta-da, what do you think?"
+Discord thinks some more before snapping his fingers. A scarf appears in his hands that shares a striking resemblance to the draconequus holding it. "Ta-da! What do you think?"
 
 Pinkie took the scarf and wrapped it around herself a few times. "This is really nice, but you should make a new one that's hoofmade."
 
