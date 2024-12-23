@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Plushie Protector
+
+### Synopsis:
+Pinkie has a Rainbow Dash plushie. Rainbow finds out and offers to replace the plush for a night.
+
+***
+
 ## Off-screen Obliteration
 
 ### Synopsis:
