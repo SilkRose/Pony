@@ -12,11 +12,11 @@ fn lerp(t: f64, a: f64, b: f64) -> f64 {
 	a + t * (b - a)
 }
 
-fn join_integers(a: i64, b: i64) -> i64 {
+fn _join_integers(a: i64, b: i64) -> i64 {
 	a << 32 | b
 }
 
-pub struct PerlinNoise1D {
+pub struct ValueNoise1D {
 	/// Seed value to generate noise from.
 	pub seed: u64,
 	/// Amount to scale x by before calculation.
@@ -37,7 +37,7 @@ pub struct PerlinNoise1D {
 	pub octaves: u8,
 }
 
-impl PerlinNoise1D {
+impl ValueNoise1D {
 	pub fn get_point(&self, x: f64) -> Result<f64> {
 		let mut x = x * self.scale;
 		let mut noise = 0.0;
@@ -74,7 +74,7 @@ mod test {
 	#[test]
 	fn one_dimension() -> Result<()> {
 		for octave in 1..=4 {
-			let noise = PerlinNoise1D {
+			let noise = ValueNoise1D {
 				seed: 7669,
 				scale: 0.005,
 				minimum: 0.0,
