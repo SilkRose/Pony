@@ -150,7 +150,7 @@ Discord taps his chin. "Hmm. She really likes animals."
 
 "Oh, I can. I hadn't thought about that. We both can talk to animals. That's quite rare among ponies."
 
-"But don't just snap your fingers and make it happen. Fluttershy will know. If you really do friends with them, she'll be thrilled."
+"But don't just snap your fingers and make it happen. Fluttershy will know. If you really do become friends with them, she'll be thrilled."
 
 "Okay, thank you!"
 
