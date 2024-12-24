@@ -10,9 +10,9 @@ Fluttershy answers the door with a somewhat confused expression. "Oh, hello, Dis
 
 "Perfect!" Discord says, before snapping his fingers and teleporting both of them.
 
-After reorienting herself, Fluttershy finds herself sitting on a picnic blanket with little hearts embossed into each square.
+After a moment of disorientation, Fluttershy finds herself sitting on a picnic blanket with little hearts embossed into each square.
 
-Discord opens a picnic basket and offers her a sandwich. "I made them myself," Discord says proudly.
+Discord opens a picnic basket and offers her a sandwich. "I made them myself," he says proudly.
 
 Fluttershy takes it, noticing it has been cut into a heart shape.
 
