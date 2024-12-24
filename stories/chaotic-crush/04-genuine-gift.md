@@ -1,12 +1,12 @@
 # Genuine Gift
 
-Discord knocks on Fluttershy's door as he nervously holds a present.
+Discord knocks on Fluttershy's door, nervously holding a present behind his back.
 
 After what feels like an eternity, Fluttershy opens the door. "Hello Fluttershy, can I come in? I have something for you."
 
-"You do? Oh, sure! Actually– I had something for you too," Fluttershy replies. 
+"You do? Oh, sure!," Fluttershy replies. "Actually– I had something for you too
 
-Fluttershy leads him inside and they sit down. Discord presents his box to her. It's wrapped in a cute butterfly themed paper.
+Fluttershy leads him inside and they sit down. Discord presents his box to her. It's wrapped in a cute butterfly-themed paper.
 
 Fluttershy presents her gift to Discord. It's a plain cardboard box.
 
@@ -24,9 +24,9 @@ They both ooh'd and aww'd as they wrapped their scarf around themselves.
 
 Discord speaks up. "I made it myself. I wanted you to never feel alone even when I'm not around."
 
-Fluttershy replies, "I hoofmade mine too. I wanted to always be there for you as well. I got the idea after seeing Pinkie Pie wearing a scarf that looks exactly like this one."
+Fluttershy replies, "I made yours, too. I wanted to always be there for you as well. I got the idea after seeing Pinkie Pie wearing a scarf that looks exactly like this one."
 
-"Oh, that scarf!", Discord laughs. " That scarf was the one I snapped into existence. She wanted to keep it and told me to make one by hand to make it more special."
+"Oh, that one!", Discord laughs. "That was the scarf I snapped into existence. She wanted to keep it and told me to make one by hand to make it more special."
 
 "I really like it, thank you!" Fluttershy says as a blush starts to form on her face.
 
