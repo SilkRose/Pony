@@ -1,6 +1,6 @@
 # Animal Articulation
 
-"So, this is Elizabeak. She needs to be fed twice per day. Angel Bunny needs to eat 3 times per day, but he can be picky– here's the recipe for his special salad. Make sure to follow it exactly." Fluttershy hands Discord a recipe. "This is Hummingway and Constance. They eat at the same time as Elizabeak. There's also Harry, but he's in hibernation, so you don't have to worry about him. You sure you can handle all that?"
+"So, this is Elizabeak. She needs to be fed twice per day. Angel Bunny needs to eat three times per day, but he can be picky– here's the recipe for his special salad. Make sure to follow it exactly." Fluttershy hands Discord a recipe. "This is Hummingway and Constance. They eat at the same time as Elizabeak. There's also Harry, but he's in hibernation, so you don't have to worry about him. You sure you can handle all that?"
 
 "Elizabeak and the birds eat twice a day, Angel eats three times. Yes, I think I can."
 
@@ -10,7 +10,7 @@
 
 "Thanks, Discord. I'll see you later."
 
-Fluttershy leaves to go to the train station. As Fluttershy leaves, Discord looks at the time– it's time to feed Elizabeak. He opens the cupboard to grab the chicken food and goes out the back door. "Hello– you must be Elizabeak," he says as he sees the chicken.
+Fluttershy leaves to go to the train station. As Fluttershy leaves, Discord summons a watch to look at the time– it's time for Elizabeak to eat. He opens the cupboard to grab the chicken food and goes out the back door. "Hello– you must be Elizabeak," he says as he sees the chicken.
 
 Elizabeak tilts her head to the side in confusion. "Hello? You can speak to animals too? I've never met anypony who can do that besides Fluttershy. What's your name?"
 
