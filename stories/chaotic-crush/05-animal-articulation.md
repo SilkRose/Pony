@@ -16,7 +16,7 @@ Elizabeak tilts her head to the side in confusion. "Hello? You can speak to anim
 
 Hummingway and Constance fly onto a nearby branch to listen.
 
-"My name is Discord. As the spirit of chaos, I have the power to bend reality in any way I want– including speaking to animals. I'm going to be petsitting you for the next few days."
+"My name is Discord. As the spirit of chaos, I have the power to bend reality in any way I want– including speaking to animals. I'm going to be pet sitting you for the next few days."
 
 Elizabeak has a frightened look on her face. "The… spirit of chaos…?"
 
@@ -48,19 +48,19 @@ Discord snaps his fingers and an apron appears on him. He grabs the ingredients 
 
 Angel Bunny gives the salad a sniff and cautiously takes a bite. After a few seconds, he wolfs down the whole thing. "Wow, you're a great chef!"
 
-"Thanks, I'm glad you enjoyed it. I know we've met before, but I don't think I've properly introduced myself. My name is Discord. I'm gonna be watching you while Fluttershy is gone. What do you usually like to do with Fluttershy."
+"Thanks, I'm glad you enjoyed it. I know we've met before, but I don't think I've properly introduced myself. My name is Discord. I'm going to be watching you while Fluttershy is gone. What do you usually like to do with Fluttershy."
 
 Angel puts his paw on his chin. "Nice to meet you. My name's Angel. I spend a lot of time with Fluttershy, but I think one of my favorite things is when Fluttershy reads us books. That's always nice."
 
 "We can read a book tonight if you want. Plus, we can have tea, and carrots, and whatever else you want," offers Discord.
 
-"Sounds nice", replies Angel.
+"Sounds nice," replies Angel.
 
 ***
 
 As Fluttershy arrives home, Discord is in the living room with the animals.
 
-"Hi Fluttershy!", he says.
+"Hi Fluttershy!" he says.
 
 Angel Bunny runs up and hugs Fluttershy. She pets his head.
 
@@ -84,6 +84,6 @@ Discord blushes and nods timidly.
 
 Fluttershy blushes. "That's okay. Actually, I've had a crush on you too, but, you know I'm way too shy to ask anypony out. Looks like you are too," Fluttershy giggles a little.
 
-Discord blushes. "So, do you wanna go out with me?"
+Discord blushes. "So, do you want to go out with me?"
 
 Fluttershy replies, "Sure!"
