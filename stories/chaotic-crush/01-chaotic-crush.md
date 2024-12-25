@@ -68,11 +68,11 @@ She returns to him and says, "Discord, that's not what I meant! If you change it
 
 Discord snaps his fingers, reverting the change. "Okay, fine."
 
-"Thank you. Now, what I mean is to take her on a *romantic* date. A special outing with just the two of you. Maybe a... picnic! That's something Fluttershy might like."
+"Thank you. Now, what I mean is to take her on a *romantic* date. A special outing with just the two of you. Maybe a… picnic! That's something Fluttershy might like."
 
 "A romantic picnic, you say? But I still haven't digested the words Twilight gave me. They're still in here, where I usually keep my butterflies." He pats his belly.
 
-"... Pardon me?"
+"… Pardon me?"
 
 "I need more advice from Fluttershy's friends before I can decide."
 
