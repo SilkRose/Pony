@@ -57,7 +57,7 @@ Without warning, Discord panics and blurts out the first thing that comes to his
 
 Discord interrupts, "What are your hobbies?"
 
-"Umm..." Fluttershy glances at the book Discord is holding, "Are you… asking me on a date?"
+"Umm…" Fluttershy glances at the book Discord is holding, "Are you… asking me on a date?"
 
 Discord is frozen with embarrassment. His cheeks are bright red. He doesn't know how to respond.
 
