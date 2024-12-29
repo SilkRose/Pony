@@ -4,7 +4,7 @@ Discord knocks on Fluttershy's door, the first time he's done so in a while. Nor
 
 Fluttershy answers the door with a somewhat confused expression. "Oh, hello, Discord."
 
-"Hello Fluttershy. I came to ask… would you like to join me on a nice little picnic this evening?", Discord asks nervously.
+"Hello Fluttershy. I came to ask… would you like to join me on a nice little picnic this evening?" Discord asks nervously.
 
 "A picnic? Oh, that sounds nice. Sure!"
 
@@ -46,7 +46,7 @@ After they have both finished eating, Fluttershy asks, "What's next?"
 
 Discord lays down on the blanket and stares up at the sky. "I figured we could watch the clouds together."
 
-"Sounds very serene." Fluttershy says before lying down too.
+"Sounds very serene," Fluttershy says before lying down too.
 
 Discord points up at a cloud. "Look, it's the formula for cold fusion!"
 
@@ -56,13 +56,13 @@ Fluttershy tries to find it but can't. "I don't see it." She points at a cloud h
 
 "Uhm, no, I can't see it, sorry." Fluttershy finds her next cloud and points. "It's Twilight playing chess with Pinkie!"
 
-Discord smiles, "Oh, that's a good one, but do you see that one," — he points at a new cloud. — "it's the Mandelbrot Set."
+Discord smiles. "Oh, that's a good one, but do you see that one," — he points at a new cloud. — "it's the Mandelbrot Set."
 
 "I can kinda see it, oh look!" She points to a new cloud. "It's the script for the story we are in!"
 
 "Wait, let me see that." Discord reads the cloud before saying, "I like how it ends."
 
-Fluttershy giggles before Discord joined in with her.
+Fluttershy giggles before Discord joins in with her.
 
 Discord sits up before offering his hand to pull Fluttershy up. She takes it, and they sit there staring at each other.
 
@@ -77,3 +77,5 @@ They both blush.
 Fluttershy pulls Discord into a tight hug. "Yes."
 
 Discord hugs back. "I couldn't actually read the ending, by the way."
+
+They both giggle together in the loving embrace.
