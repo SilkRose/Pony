@@ -49,7 +49,7 @@ Without warning, Discord panics and blurts out the first thing that comes to his
 
 "Umm, Discord?"
 
-"Discord! Uhh, me too!", Discord says, staring down at the book to find what to ask next.
+"Discord! Uhh, me too!" Discord says, staring down at the book to find what to ask next.
 
 "So, um, do you come here often…?" Discord asks, though he instantly regrets it.
 
