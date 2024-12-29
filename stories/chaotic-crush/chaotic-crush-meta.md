@@ -31,3 +31,4 @@ Names for chapters:
 [Chaotic Crush](./01-chaotic-crush.md)
 
 ## Cover:
+![cover](./chaotic-crush-cover-upscaled.png)
