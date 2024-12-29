@@ -12,7 +12,7 @@ Discord speaks up. "I wanted to talk to you. I've been feeling different and the
 
 Fluttershy pours them each a cup of tea. "Oh, sure, I also wanted to tell you something, I'll let you go first."
 
-The butterflies return to Discord's stomach, and let decides to let them out. "The butterflies are back. They always show up when you're around…" He opens his stomach and three butterflies fly out into Fluttershy's house.
+The butterflies return to Discord's stomach, and he decides to let them out. "The butterflies are back. They always show up when you're around…" He opens his stomach and three butterflies fly out into Fluttershy's house.
 
 Fluttershy asks, "Why do they show up?" A blush forms on her face as she watches the butterflies flying around the room.
 
