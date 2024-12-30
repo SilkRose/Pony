@@ -8,7 +8,7 @@ It is time to leave the stage, so she walks towards her group of friends who are
 
 Luckily for her, the formation for a group hug transitions into a safety net pretty effectively. Her friends catch her before she can get close to the ground. Her friends lift her and start the group hug, everyone smiling and happy.
 
-Sunset hugs back as a tear rolls down her cheek. She was so happy she was crying, or at least that what she thought. But, deep down inside her mind, a small piece of her was unhappy. She didn't know it yet, but this one small piece would grow, becoming what she would call her.
+Sunset hugs back as a tear rolls down her cheek. She was so happy she was crying, or at least that's what she thought. But, deep down inside her mind, a small piece of her was unhappy. She didn't know it yet, but this one small piece would grow, becoming what she would call her.
 
 ***
 
@@ -17,6 +17,44 @@ As her tears stain the page, Sunset frantically writes to Princess Twilight. She
 *Why do I feel like this? Why isn't Twilight answering? Where did these feelings come from? Why do I feel so lost? Why do I feel so sad? Why can't I just talk to my friends here? I wish I knew if any of them were feeling the same way…*
 
 Sunset wipes away here tears. She picks up her phone and opens the group chat, and just stares at it. The last thing said was Pinkie saying I love you to everyone, and all them reciprocating. She hesitantly typed out a message before erasing it, then she typed it again. She erased it one more time before finally writing and sending the message, 'Meet me at the portal.'
+
+***
+
+Sunset was the last to arrive at the portal, she took a while making herself look presentable. All her friends had concerned looks on their faces as they stood by the portal in the cool night air. Sunset made it to them and hugged the closest one to her, which happens to be Rarity.
+
+Rarity hugs her back. "What's going on, darling? Is everything okay?"
+
+Sunset answers, "I'm going back to Equestria for a few days. I wanted to see you all before I left."
+
+Their hug ends and Sunset hugs Rainbow Dash next.
+
+Rainbow asks, "What're you going back for?"
+
+"I need to talk with princess Celestia. I haven't been feeling well, and I think she can help."
+
+Sunset hugs Fluttershy next.
+
+Fluttershy asks, "Do you need any of us to come with you?"
+
+"No, I'll be fine, I just need to go back home for a bit."
+
+Sunset hugs Applejack next.
+
+Applejack says, "We'll always be here for you, don't forget it."
+
+Sunset smiles. "I won't."
+
+She hugs Pinkie next.
+
+Pinkie hugs back tightly. "We love you so much, Sunset!"
+
+"I love you all too!"
+
+She hugs Twilight last, "Stay safe and have a good trip."
+
+"I will, thank you."
+
+After the last hug was over, Sunset was ambushed with one more hug, a big group wide hug. Once the hug had finished, Sunset waved goodbye to her friends, and they waved back before she stepped through the portal to Equestria.
 
 ***
 
