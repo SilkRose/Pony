@@ -4,7 +4,19 @@ Sunset Shimmer stood just offstage, waiting for her name to be called. All her f
 
 As she finally thinks she has it fixed, her name is called. She proceeds onto the stage, where principal Celestia hands her a diploma with her name on it. She takes in all the cheers from a student body she at one point never thought she would be friends with. Here she was though, she had redeemed herself in the eyes of the students, and this was the proof.
 
-It is time to leave the stage, so she walks towards her group of friends who are offstage on the opposite side she entered on. They all have big smiles on their faces, and are already information for a giant congratulatory group hug. Sunset smiles as she reaches the stairs, but before she can make it down to them, she trips.
+It is time to leave the stage, so she walks towards her group of friends who are offstage on the opposite side she entered on. They all have big smiles on their faces, and are already in formation for a giant congratulatory group hug. Sunset smiles as she reaches the stairs, but before she can make it down to them, she trips on her gown.
 
 Luckily for her, the formation for a group hug transitions into a safety net pretty effectively. Her friends catch her before she can get close to the ground. Her friends lift her and start the group hug, everyone smiling and happy.
+
+Sunset hugs back as a tear rolls down her cheek. She was so happy she was crying, or at least that what she thought. But, deep down inside her mind, a small piece of her was unhappy. She didn't know it yet, but this one small piece would grow, becoming what she would call her.
+
+***
+
+As her tears stain the page, Sunset frantically writes to Princess Twilight. She had felt these feelings before, but never like this. It all started when she graduated, and only got worse over time. She gave up on contacting Twilight after the fifth page of incoherent ramblings.
+
+*Why do I feel like this? Why isn't Twilight answering? Where did these feelings come from? Why do I feel so lost? Why do I feel so sad? Why can't I just talk to my friends here? I wish I knew if any of them were feeling the same way…*
+
+Sunset wipes away here tears. She picks up her phone and opens the group chat, and just stares at it. The last thing said was Pinkie saying I love you to everyone, and all them reciprocating. She hesitantly typed out a message before erasing it, then she typed it again. She erased it one more time before finally writing and sending the message, 'Meet me at the portal.'
+
+***
 
