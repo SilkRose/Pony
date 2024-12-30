@@ -97,3 +97,4 @@ This file contains random story names that don't have enough thought to have the
 - Read 'em and Sleep
 - A Letter of Little to no Significance
 - Mare Formality
+- What Is a Day, if Not the Rest of Your Life
