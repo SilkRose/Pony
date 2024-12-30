@@ -58,3 +58,9 @@ After the last hug was over, Sunset was ambushed with one more hug, a big group 
 
 ***
 
+Sunset sits on the last train to Canterlot. She looks out the windows as snow flies past as speed. She wore a scarf and earmuffs Twilight had given her. Sunset was still shocked to find that it was Hearth's Warming day when she came through the portal, when back at C.H.S., it was the middle of summer.
+
+With every measure of distance passed, she felt somehow better, like she knew she was closer to the solution to her problems, even if she didn't fully know what her problems were. She just knew Celestia would be able to help.
+
+Sunset was still a little nervous though, this was the first time seeing her old mentor while not trying to solve some crises. Even still, she was excited to spend time with Celestia, and especially so that its Hearth's Warming. She kinda hopped it might be like old times when they spent the holiday together as her student.
+
