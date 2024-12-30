@@ -4,7 +4,7 @@ Sunset Shimmer stood just offstage, waiting for her name to be called. All her f
 
 As she finally thinks she has it fixed, her name is called. She proceeds onto the stage, where principal Celestia hands her a diploma with her name on it. She takes in all the cheers from a student body she at one point never thought she would be friends with. Here she was though, she had redeemed herself in the eyes of the students, and this was the proof.
 
-It is time to leave the stage, so she walks towards her group of friends who are offstage on the opposite side she entered on. They all have big smiles on their faces, and are already in formation for a giant congratulatory group hug. Sunset smiles as she reaches the stairs, but before she can make it down to them, she trips on her gown.
+It's time to leave the stage, so she walks towards her group of friends who are offstage on the opposite side she entered on. They all have big smiles on their faces, and are already in formation for a giant congratulatory group hug. Sunset smiles as she reaches the stairs, but before she can make it down to them, she trips on her gown.
 
 Luckily for her, the formation for a group hug transitions into a safety net pretty effectively. Her friends catch her before she can get close to the ground. Her friends lift her and start the group hug, everyone smiling and happy.
 
@@ -16,7 +16,7 @@ As her tears stain the page, Sunset frantically writes to Princess Twilight. She
 
 *Why do I feel like this? Why isn't Twilight answering? Where did these feelings come from? Why do I feel so lost? Why do I feel so sad? Why can't I just talk to my friends here? I wish I knew if any of them were feeling the same way…*
 
-Sunset wipes away here tears. She picks up her phone and opens the group chat, and just stares at it. The last thing said was Pinkie saying I love you to everyone, and all them reciprocating. She hesitantly typed out a message before erasing it, then she typed it again. She erased it one more time before finally writing and sending the message, 'Meet me at the portal.'
+Sunset wipes away her tears. She picks up her phone, opens the group chat, and just stares at it. The last thing said was Pinkie saying I love you to everyone, and all them reciprocating. She hesitantly typed out a message before erasing it, then she typed it again. She erased it one more time before finally writing and sending the message, 'Meet me at the portal.'
 
 ***
 
@@ -62,5 +62,5 @@ Sunset sits on the last train to Canterlot. She looks out the windows as snow fl
 
 With every measure of distance passed, she felt somehow better, like she knew she was closer to the solution to her problems, even if she didn't fully know what her problems were. She just knew Celestia would be able to help.
 
-Sunset was still a little nervous though, this was the first time seeing her old mentor while not trying to solve some crises. Even still, she was excited to spend time with Celestia, and especially so that its Hearth's Warming. She kinda hopped it might be like old times when they spent the holiday together as her student.
+Sunset was still a little nervous though, this was the first time she's seen her old mentor while not trying to solve some crisis. Even still, she was excited to spend time with Celestia, and especially so that it's Hearth's Warming. She kinda hoped it might be like old times when they spent the holiday together as her student.
 
