@@ -62,5 +62,19 @@ Sunset sits on the last train to Canterlot. She looks out the windows as snow fl
 
 With every measure of distance passed, she felt somehow better, like she knew she was closer to the solution to her problems, even if she didn't fully know what her problems were. She just knew Celestia would be able to help.
 
-Sunset was still a little nervous though, this was the first time she's seen her old mentor while not trying to solve some crisis. Even still, she was excited to spend time with Celestia, and especially so that it's Hearth's Warming. She kinda hoped it might be like old times when they spent the holiday together as her student.
+Sunset was still a little nervous though, this was the first time she's seen her old mentor while not trying to solve some crisis. Even still, she was excited to spend time with Celestia, and especially so now that it's Hearth's Warming. She kinda hoped it might be like old times when they spent the holiday together as her student.
+
+***
+
+Sunset stands in front of the throne room doors at Canterlot castle. She took a deep breath and knocked on the door with her hoof. Almost immediately, the doors glow with Celestia's magic, and they are opened.
+
+Looking inside, Sunset sees Celestia sitting on her throne, a warm motherly smile on her face. Sunset slowly advances into the room, neither pony speaking just yet. Sunset makes it to the stairs at the bottom of the throne, and bows to Celestia.
+
+Celestia breaks the silence. "There is no need for such formalities, my little pony."
+
+Sunset took her at her word and sprints up the stairs, throwing herself into a hug around the princess. "I've missed you so much!"
+
+Celestia hugs back. "I've missed you too."
+
+As sunset hugs Celestia, her previous feelings become recontextualized. She realizes one of the things causing her so much distress is that she was homesick.
 
