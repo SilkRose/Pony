@@ -78,3 +78,13 @@ Celestia hugs back. "I've missed you too."
 
 As sunset hugs Celestia, her previous feelings become recontextualized. She realizes one of the things causing her so much distress is that she was homesick.
 
+Sunset says, "I came here to get some advice, I needed to talk to you."
+
+"I know, my faithful student, I heard of it in Twilight's letter. Why don't you stay for Hearth's Warming, and we can discuss what brought you hear over some hot cocoa?"
+
+"That sounds great, thank you princess."
+
+***
+
+Sunset sits down on a pillow in front of a lit fire as she waits for Celestia to return with their hot chocolate. She stares blankly into the fire as she takes in its heat.
+
