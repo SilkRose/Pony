@@ -80,7 +80,7 @@ As sunset hugs Celestia, her previous feelings become recontextualized. She real
 
 Sunset says, "I came here to get some advice, I needed to talk to you."
 
-"I know, my faithful student, I heard of it in Twilight's letter. Why don't you stay for Hearth's Warming, and we can discuss what brought you hear over some hot cocoa?"
+"I know, my faithful student, I heard of it in Twilight's letter. Why don't you stay for Hearth's Warming, and we can discuss what brought you here over some hot cocoa?"
 
 "That sounds great, thank you princess."
 
