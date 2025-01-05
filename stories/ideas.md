@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Quantum Mark
+
+### Synopsis:
+A pony has an ever-changing cutie mark that makes them good at whatever they try to do.
+
+### Short Description:
+What is a pony to do when their destiny is everything?
+
+***
+
 ## Plushie Protector
 
 ### Synopsis:
