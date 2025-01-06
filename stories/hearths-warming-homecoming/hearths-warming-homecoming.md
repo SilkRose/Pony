@@ -88,3 +88,47 @@ Sunset says, "I came here to get some advice, I needed to talk to you."
 
 Sunset sits down on a pillow in front of a lit fire as she waits for Celestia to return with their hot chocolate. She stares blankly into the fire as she takes in its heat.
 
+Celestia returns to her after a few minutes. She sets down a hot chocolate in front of Sunset and one in front of her own pillow. "Here you are."
+
+Sunset looks at Celestia. "Thank you."
+
+Celestia sits down. "You're welcome. Now, what's on your mind?"
+
+"Well, I guess to start, I've been homesick. I realized that when we hugged."
+
+"It has been a long time since you were my student, and last time you were here was under strenuous circumstances."
+
+"Yeah. It's nice to be able to relax and have a talk."
+
+"You're welcome to stay here as long as you like."
+
+"Thanks. I only plan on staying a few days. I told my friends I wouldn't be too long."
+
+"It'll be nice to see you no matter how long you stay."
+
+Sunset tentatively takes a sip from her drink. "My other issues is… I just graduated from high school and ever since then, I've felt lost and like I don't know what I'll do in life. It feels like all my friends have some idea of what they want to do, but I don't. Do you have any advice for me?"
+
+"We all feel like that from time to time. Let me ask, have you talked with your friends about this?"
+
+"Well, no. I know I probably should have, but I just didn't want to bring them down."
+
+"If they're anything like the ponies I know, they wouldn't become sad at this news. They would be happy to help, they would think of stuff and do whatever it takes."
+
+"You are right about that, they are some pretty great friends."
+
+Celestia takes her first sip of hot chocolate. "I know it's not exactly the advice you were looking for, but if you want, we can watch the Hearth's Warming play if you want. It might help."
+
+Sunset looks confused. "But, were nowhere near the theater."
+
+"I sent a unicorn to Ponyville to watch the show, she's using a spell I taught her to send back the play to us here."
+
+Celestia casts a spell and a magical screen appears in front of them, showing the curtains of the Ponyville theater opening up. The play is just now starting. Sunset can see the pony versions of all her friends on stage.
+
+"Sure, it's been a while since I've seen it."
+
+They both take another drink of their hot cocoa. As sunset watches the show, her thought drift to her friends that are the counterparts of the ponies on screen.
+
+*Celestia is right, these ponies– people would want nothing more than the best for me, to help me.*
+
+***
+
