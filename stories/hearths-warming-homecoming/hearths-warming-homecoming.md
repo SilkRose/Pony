@@ -88,13 +88,13 @@ Sunset says, "I came here to get some advice, I needed to talk to you."
 
 Sunset sits down on a pillow in front of a lit fire as she waits for Celestia to return with their hot chocolate. She stares blankly into the fire as she takes in its heat.
 
-Celestia returns to her after a few minutes. She sets down a hot chocolate in front of Sunset and one in front of her own pillow. "Here you are."
+Celestia returns to her after a few minutes. She sets down a hot chocolate in front of Sunset and one in front of herself. "Here you are."
 
 Sunset looks at Celestia. "Thank you."
 
 Celestia sits down. "You're welcome. Now, what's on your mind?"
 
-"Well, I guess to start, I've been homesick. I realized that when we hugged."
+"Well, I guess to start, I now realize I've been feeling homesick. I realized that when we hugged."
 
 "It has been a long time since you were my student, and last time you were here was under strenuous circumstances."
 
@@ -106,11 +106,11 @@ Celestia sits down. "You're welcome. Now, what's on your mind?"
 
 "It'll be nice to see you no matter how long you stay."
 
-Sunset tentatively takes a sip from her drink. "My other issues is… I just graduated from high school and ever since then, I've felt lost and like I don't know what I'll do in life. It feels like all my friends have some idea of what they want to do, but I don't. Do you have any advice for me?"
+Sunset tentatively takes a sip from her drink. "My other issue is… I just graduated from high school, and ever since then, I've felt lost and like I don't know what I'll do in life. It feels like all my friends have some idea of what they want to do, but I don't. Do you have any advice for me?"
 
 "We all feel like that from time to time. Let me ask, have you talked with your friends about this?"
 
-"Well, no. I know I probably should have, but I just didn't want to bring them down."
+"Well, no. I know I probably should, but I just didn't want to bring them down."
 
 "If they're anything like the ponies I know, they wouldn't become sad at this news. They would be happy to help, they would think of stuff and do whatever it takes."
 
@@ -118,7 +118,7 @@ Sunset tentatively takes a sip from her drink. "My other issues is… I just gra
 
 Celestia takes her first sip of hot chocolate. "I know it's not exactly the advice you were looking for, but if you want, we can watch the Hearth's Warming play if you want. It might help."
 
-Sunset looks confused. "But, were nowhere near the theater."
+Sunset looks confused. "But, we're nowhere near the theater…"
 
 "I sent a unicorn to Ponyville to watch the show, she's using a spell I taught her to send back the play to us here."
 
@@ -128,7 +128,7 @@ Celestia casts a spell and a magical screen appears in front of them, showing th
 
 They both take another drink of their hot cocoa. As sunset watches the show, her thought drift to her friends that are the counterparts of the ponies on screen.
 
-*Celestia is right, these ponies– people would want nothing more than the best for me, to help me.*
+*Celestia is right, these ponies– people, would want nothing more than the best for me, to help me.*
 
 ***
 
