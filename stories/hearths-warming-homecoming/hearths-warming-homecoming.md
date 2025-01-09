@@ -8,7 +8,7 @@ It's time to leave the stage, so she walks towards her group of friends who are 
 
 Luckily for her, the formation for a group hug transitions into a safety net pretty effectively. Her friends catch her before she can get close to the ground. Her friends lift her and start the group hug, everyone smiling and happy.
 
-Sunset hugs back as a tear rolls down her cheek. She was so happy she was crying, or at least that's what she thought. But, deep down inside her mind, a small piece of her was unhappy. She didn't know it yet, but this one small piece would grow, becoming what she would call her.
+Sunset hugs back as a tear rolls down her cheek. She was so happy she was crying, or at least that's what she thought. But, deep down inside her mind, a small piece of her was unhappy. She didn't know it yet, but this one small piece would grow, becoming something she didn't understand.
 
 ***
 
@@ -58,7 +58,7 @@ After the last hug was over, Sunset was ambushed with one more hug, a big group 
 
 ***
 
-Sunset sits on the last train to Canterlot. She looks out the windows as snow flies past as speed. She wore a scarf and earmuffs Twilight had given her. Sunset was still shocked to find that it was Hearth's Warming day when she came through the portal, when back at C.H.S., it was the middle of summer.
+Sunset sits on the last train to Canterlot. She looks out the windows as snow flies past at speed. She wore a scarf and earmuffs Twilight had given her. Sunset was still shocked to find that it was Hearth's Warming day when she came through the portal, when back at C.H.S., it was the middle of summer.
 
 With every measure of distance passed, she felt somehow better, like she knew she was closer to the solution to her problems, even if she didn't fully know what her problems were. She just knew Celestia would be able to help.
 
@@ -114,9 +114,9 @@ Sunset tentatively takes a sip from her drink. "My other issue is… I just grad
 
 "If they're anything like the ponies I know, they wouldn't become sad at this news. They would be happy to help, they would think of stuff and do whatever it takes."
 
-"You are right about that, they are some pretty great friends."
+"You are right about that, they are some pretty great friends." Sunset smiles.
 
-Celestia takes her first sip of hot chocolate. "I know it's not exactly the advice you were looking for, but if you want, we can watch the Hearth's Warming play if you want. It might help."
+Celestia takes her first sip of hot chocolate. "I know it's not exactly the advice you were looking for, but if you want, we can watch the Hearth's Warming play. It might help."
 
 Sunset looks confused. "But, we're nowhere near the theater…"
 
