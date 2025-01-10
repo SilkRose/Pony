@@ -300,7 +300,7 @@ mod tests {
 	use std::fs;
 
 	#[test]
-	fn load_image() -> Result<()> {
+	fn create_cover_base() -> Result<()> {
 		let mut sprite_sheet = SpriteSheet::load(
 			"../archive/image-fonts/32x32-love-and-tolerance/font.png",
 			10,
@@ -314,13 +314,12 @@ mod tests {
 			.set_spacing(8, 4, Some(16), Some(3))?
 			.set_border(4, 4, 4, 4)
 			.set_colors(
-				Color::from_hex("#ffffff".to_owned())?,
-				Color::from_hex("#DD6FA4".to_owned())?,
+				Color::from_rgba(255, 255, 255, 255)?,
+				Color::from_rgba(255, 255, 255, 0)?,
 			)
 			.set_drop_shadow(Color::from_hex("#000000".to_owned())?, 2, 2)
-			.set_justification(Justification::Left);
-		let text = fs::read_to_string("./src/sprite_sheet.rs")?;
-		simg.text_to_image(&text, Some("test.png"))?;
+			.set_justification(Justification::CenterBreakLeft);
+		simg.text_to_image("", Some("cover.png"))?;
 		Ok(())
 	}
 }
