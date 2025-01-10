@@ -134,7 +134,7 @@ They both take another drink of their hot cocoa. As sunset watches the show, her
 
 A tear escapes Sunset's eye as she watches the curtain close on the play. She sits and takes in this surreal moment as the ponies she just watched in the play look exactly like her friends from C.H.S. After spending so much time at the school, seeing the ponies of them feels different.
 
-Celestia speaks up, "That was nice. Is there anything you wanted to do while you are here?"
+Celestia speaks up, "That was nice. Is there anything else you wanted to do while you are here?"
 
 Sunset giggles. "How about a game of Trotting Spoons?"
 
@@ -156,4 +156,4 @@ But, she's still accepted by them. Sunset smiles and moves onto finding her next
 
 ***
 
-Sunset emerges from the portal in the middle of the day, and as expected, her friends were there waiting for her. Once they all noticed her, she was once again enveloped in a group hug. She hugs back.
+Sunset emerges from the portal in the middle of the day, and as expected, her friends were there waiting for her. Once they noticed her, she was once again enveloped in a group hug. She hugs back.
