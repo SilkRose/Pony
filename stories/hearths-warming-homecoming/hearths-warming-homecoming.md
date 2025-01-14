@@ -148,11 +148,39 @@ But, she's still accepted by them. Sunset smiles and moves onto finding her next
 
 ***
 
+Sunset opens the door to her old room. It looks like it hadn't changed much since she was here last time. She looks over to the bookshelves and notices a pile of books on the floor. Upon further inspections, she sees something on the books. She goes over to investigate.
 
+She sees her spoon. It's standing up next to the books, holding a plat but with the other end being supported by the stack of books. On top the plate are six forks, each covered in a colored napkin of the following colors: purple, white, blue, yellow, pink, and orange.
+
+Sunset picks up the spoon and rests the plate on the book as the meaning hits her. This shows her supporting her friends and being there for them. Sunset smiles again and leaves the room.
 
 ***
 
+Sunset trots up the stairs inside Twilight's old home in Canterlot. She had looked all over, and not been able to find that last spoon. This was the last place she was going to check before conceding to Celestia.
 
+Luckily for her, this was the right place. She found on Twilight's old nightstand six forks all hanging off the edge holding up her last spoon. The forks were weighed down as to not let the spoon fall.
+
+She picks up the last spoon and smiles. This was her friends supporting her and lifting her up when she needed them. As she left to go find Celestia, she couldn't help but think, *I should really talk to my friends soon.*
+
+***
+
+Sunset trots back into the room where they drank their hot cocoa, and sat back down on her pillow. Celestia was there waiting for her with all three of her spoons laid out in front of her. Sunset lays her own spoons out in front of herself.
+
+Sunset asks, "How long have you been done?"
+
+Celestia smiles. "About twenty minutes."
+
+"Sorry I took so long, you did a great of hiding them."
+
+Celestia giggles. "I tried to give you plenty of time to think."
+
+Sunset giggles in turn. "I didn't try nearly as hard as you."
+
+Celestia yawns. "Are you ready to sleep? I certainly am."
+
+"I am." Sunset gets up and hugs Celestia. "Thank you, princess."
+
+Celestia hugs back. "You're most welcome, Sunset."
 
 ***
 
