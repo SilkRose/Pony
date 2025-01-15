@@ -12,7 +12,7 @@ Sunset hugs them all back as a tear rolls down her cheek. She was so happy she w
 
 ***
 
-As her tears stain the page, Sunset frantically writes to Princess Twilight. She had felt these feelings before, but never like this. It only got worse graduation. She gave up on contacting Twilight after the fifth page of incoherent ramblings.
+As her tears stain the page, Sunset frantically writes to Princess Twilight. She had felt these feelings before, but never like this. It only got worse after graduation. She gave up on contacting Twilight after the fifth page of incoherent ramblings.
 
 *Why do I feel like this? Why isn't Twilight answering? Where did these feelings come from? Why do I feel so sad? Why do I feel so lost? Why can't I just talk to my friends here? I wish I knew if any of them were feeling the same way…*
 
@@ -78,7 +78,7 @@ Celestia hugs back. "I've missed you too."
 
 As Sunset hugs Celestia, her previous feelings become recontextualized. She realizes one of the things causing her so much distress is that she is homesick.
 
-Sunset says, "I want... I need to talk to you. I need some advice."
+Sunset says, "I want… I need to talk to you. I need some advice."
 
 "I know, my faithful student. I heard of it in Twilight's letter. Why don't you stay for Hearth's Warming, and we can discuss what brought you here over some hot cocoa?"
 
