@@ -22,4 +22,4 @@ After graduating from high school, Sunset feels lost and sad. She goes back home
 [Hearth's Warming Homecoming](stories/hearths-warming-homecoming/hearths-warming-homecoming.md)
 
 ## Cover:
-
+![cover](./hearths-warming-homecoming-cover-upscaled.png)
