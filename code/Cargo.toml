@@ -18,7 +18,7 @@ num_cpus = { version = "1.16.0" }
 rand = { version = "0.8.5" }
 regex = { version = "1.11.1" }
 serde = { version = "1.0.216", features = ["derive"] }
-serde_json = { version = "1.0.135", features = ["preserve_order"] }
+serde_json = { version = "1.0.137", features = ["preserve_order"] }
 
 [profile.dev]
 opt-level = 0
