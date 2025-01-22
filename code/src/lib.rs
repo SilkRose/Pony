@@ -2,6 +2,7 @@
 //#![doc = include_str!("../readme.md")]
 
 pub mod averages;
+pub mod bbcode;
 pub mod bytes;
 pub mod color;
 pub mod command;
