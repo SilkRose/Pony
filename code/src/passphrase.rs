@@ -45,15 +45,15 @@ pub fn generate_passphrase() -> String {
 		"HoldsHoovesWith",
 	];
 
-	let mut rng = rand::thread_rng();
+	let mut rng = rand::rng();
 
-	let char1 = characters[rng.gen_range(0..characters.len())];
-	let char2 = characters[rng.gen_range(0..characters.len())];
+	let char1 = characters[rng.random_range(0..characters.len())];
+	let char2 = characters[rng.random_range(0..characters.len())];
 
 	if char1 == char2 {
 		format!("{char1}IsTheSamePonyAs{char2}")
 	} else {
-		let action = actions[rng.gen_range(0..actions.len())];
+		let action = actions[rng.random_range(0..actions.len())];
 		format!("{char1}{action}{char2}")
 	}
 }

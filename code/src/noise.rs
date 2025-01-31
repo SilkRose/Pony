@@ -50,9 +50,9 @@ impl ValueNoise1D {
 			let upper_lattice = lower_lattice + 1.0;
 			let mut rng =
 				StdRng::seed_from_u64(self.seed.wrapping_add_signed(lower_lattice as i64));
-			let lower_noise = rng.gen_range(self.minimum..=self.maximum);
+			let lower_noise = rng.random_range(self.minimum..=self.maximum);
 			rng = StdRng::seed_from_u64(self.seed.wrapping_add_signed(upper_lattice as i64));
-			let upper_noise = rng.gen_range(self.minimum..=self.maximum);
+			let upper_noise = rng.random_range(self.minimum..=self.maximum);
 			let interpolation_factor = fade(x - lower_lattice);
 			let n = lerp(interpolation_factor, lower_noise, upper_noise);
 			noise += n * amplitude;
