@@ -1,5 +1,5 @@
 use super::user::{AttributesAvatar, UserData};
-use super::{ApiDebug, ApiLinks, ApiMeta, AttributesColor};
+use super::{ApiDebug, ApiLinks, ApiMeta, AttributesColor, RelationshipData, RelationshipDataVec};
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
@@ -57,42 +57,9 @@ pub struct AttributesCoverImage {
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct DataRelationships {
-	pub author: RelationshipAuthor,
-	pub tags: RelationshipTags,
-	pub prequel: Option<RelationshipPrequel>,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct RelationshipAuthor {
-	pub data: AuthorData,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct AuthorData {
-	pub r#type: String,
-	pub id: String,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct RelationshipTags {
-	pub data: Vec<TagData>,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct TagData {
-	pub r#type: String,
-	pub id: String,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct RelationshipPrequel {
-	pub data: PrequelData,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct PrequelData {
-	pub r#type: String,
-	pub id: String,
+	pub author: RelationshipData,
+	pub tags: RelationshipDataVec,
+	pub prequel: Option<RelationshipData>,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
