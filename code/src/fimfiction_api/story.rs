@@ -4,7 +4,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct StoryApi {
-	pub data: ApiData,
+	pub data: StoryData,
 	pub included: Vec<UserData<AuthorAttributes>>,
 	pub uri: String,
 	pub method: String,
@@ -12,17 +12,17 @@ pub struct StoryApi {
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct ApiData {
+pub struct StoryData {
 	pub id: String,
 	pub r#type: String,
-	pub attributes: DataAttributes,
-	pub relationships: DataRelationships,
+	pub attributes: StoryAttributes,
+	pub relationships: StoryRelationships,
 	pub links: ApiLinks,
 	pub meta: ApiMeta,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct DataAttributes {
+pub struct StoryAttributes {
 	pub title: String,
 	pub short_description: String,
 	pub description: String,
@@ -56,7 +56,7 @@ pub struct AttributesCoverImage {
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct DataRelationships {
+pub struct StoryRelationships {
 	pub author: RelationshipData,
 	pub tags: RelationshipDataVec,
 	pub prequel: Option<RelationshipData>,
