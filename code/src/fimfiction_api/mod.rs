@@ -1,5 +1,6 @@
 use serde::{Deserialize, Serialize};
 
+pub mod blog;
 pub mod story;
 pub mod user;
 
