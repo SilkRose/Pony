@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Statistical Outliers
+
+### Synopsis:
+Twilight freaks out over the statistical outliers among her friends relationships.
+
+***
+
 ## Quantum Mark
 
 ### Synopsis:
