@@ -24,6 +24,8 @@ pub struct BlogAttributes {
 	pub title: String,
 	pub date_posted: String,
 	pub content: String,
+	pub num_views: u32,
+	pub num_comments: u32,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
