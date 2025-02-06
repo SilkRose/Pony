@@ -1,4 +1,4 @@
-use super::user::{UserAttributes, UserData};
+use super::user::UserData;
 use super::{ApiDebug, ApiLinks, ApiMeta, AttributesColor, RelationshipData, RelationshipDataVec};
 use serde::{Deserialize, Serialize};
 
