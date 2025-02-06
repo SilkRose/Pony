@@ -1,10 +1,11 @@
+use super::user::UserData;
 use super::{ApiDebug, ApiMeta, RelationshipData};
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct BlogApi {
 	pub data: BlogData,
-	pub included: Vec<()>,
+	pub included: Vec<UserData>,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,
@@ -30,6 +31,5 @@ pub struct BlogAttributes {
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct BlogRelationships {
-	pub author: RelationshipData,
 	pub tagged_story: RelationshipData,
 }

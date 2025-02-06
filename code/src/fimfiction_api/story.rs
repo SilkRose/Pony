@@ -1,11 +1,11 @@
-use super::user::{AttributesAvatar, UserData};
+use super::user::{UserAttributes, UserData};
 use super::{ApiDebug, ApiLinks, ApiMeta, AttributesColor, RelationshipData, RelationshipDataVec};
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct StoryApi {
 	pub data: StoryData,
-	pub included: Vec<UserData<AuthorAttributes>>,
+	pub included: Vec<UserData>,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,
@@ -60,17 +60,4 @@ pub struct StoryRelationships {
 	pub author: RelationshipData,
 	pub tags: RelationshipDataVec,
 	pub prequel: Option<RelationshipData>,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct AuthorAttributes {
-	pub name: String,
-	pub bio: String,
-	pub bio_html: String,
-	pub num_followers: u32,
-	pub num_stories: u32,
-	pub num_blog_posts: u32,
-	pub avatar: AttributesAvatar,
-	pub color: AttributesColor,
-	pub date_joined: String,
 }

@@ -3,7 +3,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct UserApi {
-	pub data: UserData<UserAttributes>,
+	pub data: UserData,
 	pub included: Vec<()>,
 	pub uri: String,
 	pub method: String,
@@ -11,10 +11,10 @@ pub struct UserApi {
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct UserData<T> {
+pub struct UserData {
 	pub id: String,
 	pub r#type: String,
-	pub attributes: T,
+	pub attributes: UserAttributes,
 	pub links: ApiLinks,
 	pub meta: ApiMeta,
 }
@@ -28,7 +28,7 @@ pub struct UserAttributes {
 	pub num_stories: u32,
 	pub num_blog_posts: u32,
 	pub avatar: AttributesAvatar,
-	pub date_last_online: String,
+	pub date_last_online: Option<String>,
 	pub color: AttributesColor,
 	pub date_joined: String,
 }
