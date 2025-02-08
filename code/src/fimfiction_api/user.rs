@@ -2,8 +2,8 @@ use super::{ApiDebug, ApiLinks, ApiMeta, AttributesColor};
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct UserApi {
-	pub data: UserData,
+pub struct UserApi<T = u32> {
+	pub data: UserData<T>,
 	pub included: Vec<()>,
 	pub uri: String,
 	pub method: String,
@@ -11,22 +11,22 @@ pub struct UserApi {
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct UserData {
+pub struct UserData<T = u32> {
 	pub id: String,
 	pub r#type: String,
-	pub attributes: UserAttributes,
+	pub attributes: UserAttributes<T>,
 	pub links: ApiLinks,
 	pub meta: ApiMeta,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct UserAttributes {
+pub struct UserAttributes<T = u32> {
 	pub name: String,
 	pub bio: String,
 	pub bio_html: String,
-	pub num_followers: u32,
-	pub num_stories: u32,
-	pub num_blog_posts: u32,
+	pub num_followers: T,
+	pub num_stories: T,
+	pub num_blog_posts: T,
 	pub avatar: AttributesAvatar,
 	pub date_last_online: Option<String>,
 	pub color: AttributesColor,

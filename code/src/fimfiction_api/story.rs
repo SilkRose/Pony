@@ -3,26 +3,26 @@ use super::{ApiDebug, ApiLinks, ApiMeta, AttributesColor, RelationshipData, Rela
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct StoryApi {
-	pub data: StoryData,
-	pub included: Vec<UserData>,
+pub struct StoryApi<T = u32> {
+	pub data: StoryData<T>,
+	pub included: Vec<UserData<T>>,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct StoryData {
+pub struct StoryData<T = u32> {
 	pub id: String,
 	pub r#type: String,
-	pub attributes: StoryAttributes,
+	pub attributes: StoryAttributes<T>,
 	pub relationships: StoryRelationships,
 	pub links: ApiLinks,
 	pub meta: ApiMeta,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct StoryAttributes {
+pub struct StoryAttributes<T = u32> {
 	pub title: String,
 	pub short_description: String,
 	pub description: String,
@@ -33,12 +33,12 @@ pub struct StoryAttributes {
 	pub published: bool,
 	pub cover_image: Option<AttributesCoverImage>,
 	pub color: AttributesColor,
-	pub num_views: u32,
-	pub total_num_views: u32,
-	pub num_words: u32,
-	pub num_chapters: u32,
-	pub num_comments: u32,
-	pub rating: u32,
+	pub num_views: T,
+	pub total_num_views: T,
+	pub num_words: T,
+	pub num_chapters: T,
+	pub num_comments: T,
+	pub rating: T,
 	pub status: String,
 	pub submitted: bool,
 	pub completion_status: String,

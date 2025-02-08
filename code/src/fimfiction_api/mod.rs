@@ -23,7 +23,7 @@ pub struct ApiDebug {
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct AttributesColor {
 	pub hex: String,
-	pub rgb: (u32, u32, u32),
+	pub rgb: (u8, u8, u8),
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
