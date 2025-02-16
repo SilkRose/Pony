@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Recombinance
+
+### Synopsis:
+A story made up entirely of sentences from other stories.
+
+***
+
 ## Statistical Outliers
 
 ### Synopsis:
