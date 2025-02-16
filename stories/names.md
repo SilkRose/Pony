@@ -100,3 +100,4 @@ This file contains random story names that don't have enough thought to have the
 - What Is a Day, if Not the Rest of Your Life
 - The Death Defying Stunts of a Flower
 - From Conception to Contraption
+- In her Palace of Mine
