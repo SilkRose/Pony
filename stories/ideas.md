@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Authorial Intent
+
+### Synopsis:
+Pinkie Pie meta story about her accepting the fact that people write her doing awful things.
+
+### Short Description:
+Pinkie Pie comes to terms with what she's been made to do.
+
+***
+
 ## Recombinance
 
 ### Synopsis:
