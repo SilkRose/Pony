@@ -12,3 +12,7 @@ Just the thought alone almost made her smile. Unfortunately for her, now she had
 
 *The reasons I like her: all of them. She's brave, beautiful, and my best friend.*
 
+*If she did like me, why hasn't she asked me out? Rainbow Dash isn't the type of pony to hide how she feels.*
+
+*Usually, I'm not either.*
+
