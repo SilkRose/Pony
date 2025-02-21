@@ -4,7 +4,7 @@ version = "0.0.0"
 description = "Binaries for the Pony repo."
 publish = false
 authors = ["Silk Rose", "Meadowsys"]
-edition = "2021"
+edition = "2024"
 license = "MIT"
 repository = "https://github.com/SilkRose/Pony"
 
