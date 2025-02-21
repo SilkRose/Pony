@@ -13,7 +13,7 @@ fn lerp(t: f64, a: f64, b: f64) -> f64 {
 }
 
 fn _join_integers(a: i64, b: i64) -> i64 {
-	a << 32 | b
+	(a << 32) | b
 }
 
 pub struct ValueNoise1D {
