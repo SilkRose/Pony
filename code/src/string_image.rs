@@ -224,7 +224,7 @@ impl StringImage {
 					let char_image = self.chars.get(&char).unwrap();
 
 					for pixel in char_image.pixels() {
-						if pixel.2 .0[3] == 0 {
+						if pixel.2.0[3] == 0 {
 							continue;
 						}
 						let (x, y) = (pixel.0 + start_x, pixel.1 + start_y);

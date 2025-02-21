@@ -1,5 +1,5 @@
 use markdown::mdast::Node;
-use markdown::{to_mdast, ParseOptions};
+use markdown::{ParseOptions, to_mdast};
 
 /// Parse Markdown into text, removing all Markdown syntax.
 pub fn parse(md: &str) -> String {

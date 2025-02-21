@@ -1,6 +1,6 @@
-use rand::rngs::StdRng;
 use rand::Rng;
 use rand::SeedableRng;
+use rand::rngs::StdRng;
 
 type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 

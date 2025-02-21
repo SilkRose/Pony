@@ -1,5 +1,5 @@
 use pony::fs::find_files_in_dir;
-use pony::json::{format_json, JsonFormat};
+use pony::json::{JsonFormat, format_json};
 use pony::regex::matches;
 use regex::Regex;
 use serde_json::Value;

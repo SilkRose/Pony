@@ -1,6 +1,6 @@
 use serde::de::DeserializeOwned;
 use serde::ser::Serialize;
-use serde_json::{ser::PrettyFormatter, Serializer};
+use serde_json::{Serializer, ser::PrettyFormatter};
 use std::{fs, io::Write, path::Path};
 
 type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;

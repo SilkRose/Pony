@@ -1,8 +1,8 @@
-use git2::{build, Repository, ResetType};
+use git2::{Repository, ResetType, build};
 use indoc::printdoc;
-use pony::bytes::{format_size_bytes, FormatType};
+use pony::bytes::{FormatType, format_size_bytes};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
-use pony::json::{format_json, JsonFormat};
+use pony::json::{JsonFormat, format_json};
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::traits::OrderedVector;
@@ -11,7 +11,7 @@ use regex::Regex;
 use serde::{Deserialize, Serialize};
 use std::error::Error;
 use std::io::{Read, Write};
-use std::path::{Path, MAIN_SEPARATOR};
+use std::path::{MAIN_SEPARATOR, Path};
 use std::process::exit;
 use std::{env, fs};
 

@@ -1,9 +1,9 @@
-use super::{handle_warning, Definitions, WarningType};
+use super::{Definitions, WarningType, handle_warning};
 use markdown::mdast::{
 	Blockquote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
 	InlineMath, Link, LinkReference, List, ListItem, Math, Node, Paragraph, Root, Strong,
 };
-use markdown::{to_mdast, ParseOptions};
+use markdown::{ParseOptions, to_mdast};
 
 /// Parse function for turning markdown into FIMFiction BBCode.
 pub fn parse(md: &str, warn: &WarningType) -> String {
