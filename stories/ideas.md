@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Rainbow Dash Development
+
+### Synopsis:
+Twilight has a tiny Rainbow Dash doll that she explain complex problems to try to solve them.
+
+***
+
 ## Curious Currency
 
 ### Synopsis:
