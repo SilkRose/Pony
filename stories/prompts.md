@@ -18,3 +18,4 @@ This file contains random story prompts that you can write from.
 - Pinkie's ancestors inventing pie.
 - Fluttershy can suddenly trot on water.
 - Fluttershy tries to woo Pinkie Pie.
+- Pinkie Pie finds a U.S. penny on the ground.

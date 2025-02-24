@@ -11,13 +11,6 @@ Twilight has a tiny Rainbow Dash doll that she explain complex problems to try t
 
 ***
 
-## Curious Currency
-
-### Synopsis:
-Pinkie Pie find a U.S. penny on the ground.
-
-***
-
 ## Find & Replace
 
 ## Synopsis:
