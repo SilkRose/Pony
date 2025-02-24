@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Find & Replace
+
+## Synopsis:
+it is realized that every time Rarity says the word "darling", she really intends to say a horrible swear word.
+
+***
+
 ## Authorial Intent
 
 ### Synopsis:
