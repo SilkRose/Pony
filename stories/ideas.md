@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Curious Currency
+
+### Synopsis:
+Pinkie Pie find a U.S. penny on the ground.
+
+***
+
 ## Find & Replace
 
 ## Synopsis:
