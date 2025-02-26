@@ -1,12 +1,14 @@
 # Folders
 .*/
 !.github/
+.stfolder/
 /code/dist/
 /code/pony-temp/
 /code/publish/
 /code/target/
 
 # files
+.stignore
 
 # Sub-folders
 
