@@ -10,7 +10,6 @@ pub mod fimfiction_api;
 pub mod fs;
 pub mod json;
 pub mod markdown;
-pub mod noise;
 pub mod number_format;
 pub mod pagination;
 pub mod passphrase;
