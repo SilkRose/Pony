@@ -16,6 +16,8 @@ Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151
 
 Now with two readings, [one](https://www.youtube.com/watch?v=O7dc4uZj3xY) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw), and [one](https://www.youtube.com/watch?v=HAcBB6HbQ7k) done by [Pony&Wolf Productions](https://www.youtube.com/@PonyWolfProductions).
 
+[Reviewed](https://www.fimfiction.net/blog/1050887/fic-recs-september-20th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Short Description:
 Pinkie sets out on a quest to determine which of her friends makes the softest pillow.
 
