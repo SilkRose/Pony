@@ -88,6 +88,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Rainbow Infinity Readings]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading one] |
 | **[Lotus Moon]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading two] |
 | **[Rainbow Infinity Readings]** | [There] | [YouTube][There reading] |
+| **[Lotus Moon]** | [Blue and Blushing] | [YouTube][Blue and Blushing reading] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -235,6 +236,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Profound Ponytail reading one]: https://www.youtube.com/watch?v=IDpCsRCrsdM "YouTube"
 [Profound Ponytail reading two]: https://www.youtube.com/watch?v=fKw3kauBSqM "YouTube"
 [There reading]: https://www.youtube.com/watch?v=Ntgub22ZFcU "YouTube"
+[Blue and Blushing reading]: https://www.youtube.com/watch?v=ZG9fQEqbLi8 "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
@@ -267,6 +269,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Unnamed Rarity x Rainbow Romance Story]: https://www.fimfiction.net/story/560621/unnamed-rarity-and-rainbow-romance-story "FIMFiction"
 [Timeless Tears]: https://www.fimfiction.net/story/539973/timeless-tears "FIMFiction"
 [Whispers and Wishes]: https://www.fimfiction.net/story/560940/whispers-and-wishes "FIMFiction"
+[Blue and Blushing]: https://www.fimfiction.net/story/557818/blue-and-blushing "FIMFiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
