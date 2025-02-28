@@ -10,6 +10,8 @@ Cover and chapter art done by [IrradiatedPirateBooty](https://irradiatedpiratebo
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
+Now with a [reading](https://www.youtube.com/watch?v=ZG9fQEqbLi8) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
+
 ## Short Description:
 When Rarity is distraught, Rainbow restores her beauty through action and verse.
 
