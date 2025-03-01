@@ -111,3 +111,4 @@ This file contains random story names that don't have enough thought to have the
 - Archive of our Pone
 - Going Through the Potions
 - Affection Archive
+- Zero Sum Fame
