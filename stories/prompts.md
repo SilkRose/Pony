@@ -20,3 +20,5 @@ This file contains random story prompts that you can write from.
 - Fluttershy tries to woo Pinkie Pie.
 - Pinkie Pie finds a U.S. penny on the ground.
 - Rarity has a sleepover with Pinkie as the only guest.
+- Pinkie and Twilight create a non-verbal language.
+- Pinkie asks Twilight out in a unique way.
