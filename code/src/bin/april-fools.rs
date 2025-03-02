@@ -147,7 +147,7 @@ async fn handle_events(
 			if event.cover.is_some() {
 				let cover = format!("{}{}", args.covers_dir, event.cover.as_ref().unwrap());
 				let command = format!(
-					"node {} {} {} {}",
+					r#"node "{}" {} "{}" "{}""#,
 					args.cover_mane_js, args.story_id, cover, args.fimfic_cookie_json
 				);
 
