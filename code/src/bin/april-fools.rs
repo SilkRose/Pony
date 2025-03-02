@@ -1,4 +1,5 @@
 use async_recursion::async_recursion;
+use pony::command::execute_command;
 use reqwest::Client;
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use serde::{Deserialize, Serialize};
@@ -7,7 +8,6 @@ use std::collections::HashMap;
 use std::env;
 use std::fs;
 use std::time::Duration;
-use tokio::process::Command;
 use wiwi::prelude::*;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -151,11 +151,7 @@ async fn handle_events(
 					args.cover_mane_js, args.story_id, cover, args.fimfic_cookie_json
 				);
 
-				#[cfg(target_os = "windows")]
-				execute_windows_command_with_fail_msg(&command).await;
-
-				#[cfg(not(target_os = "windows"))]
-				execute_unix_command_with_fail_msg(&command).await;
+				execute_command(&command).unwrap();
 			}
 		}
 	} else {
@@ -225,29 +221,4 @@ fn story_json(
 		}
 	});
 	serde_json::to_string(&json).unwrap()
-}
-
-async fn execute_windows_command_with_fail_msg(cmd: &str) {
-	let output = Command::new("cmd")
-		.args(["/C", cmd])
-		.output()
-		.await
-		.unwrap();
-
-	if !output.status.success() {
-		println!("Failed to execute command: {cmd}")
-	}
-}
-
-async fn execute_unix_command_with_fail_msg(cmd: &str) {
-	let output = Command::new("sh")
-		.arg("-c")
-		.arg(cmd)
-		.output()
-		.await
-		.unwrap();
-
-	if !output.status.success() {
-		println!("Failed to execute command: {cmd}")
-	}
 }
