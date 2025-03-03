@@ -92,3 +92,24 @@ Her thoughts drifted to how she thought Rainbow Dash saw her.
 
 Before she can think of anything else, she was hit with a blast of cold and moisture as she crashed through a cloud.
 
+*I need to speed this up…*
+
+*What does it mean if I'm wrong and she doesn't like me?*
+
+*Well, that would suck.*
+
+*It would solve the whole problem, though.*
+
+*Not exactly the outcome I'm looking for, but I need to be prepared for it anyway.*
+
+
+
+
+
+*Time to go ask her out. For better or worse, I need to make my feelings known.*
+
+She used her wings and started to slow down as she took the blinders off her goggles. Seeing the ground was quickly approaching, she turned sharply to try to stay airborne.
+
+Barely missing the ground, she sighted in relief.
+
+*That was the closest call this month, I need to be more careful doing this.*
