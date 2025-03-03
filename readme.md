@@ -139,12 +139,18 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, cover feedback, and making the cover for [Unnamed Rarity x Rainbow Romance Story].
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
 - **[Scriblits Talo]** for collaborative writing, pre-reading, and making the cover for [There].
-- **[knighty]** for granting me access to the FIMFiction [API][FIMFiction API].
+- **[knighty]** for granting me access to the [FIMFiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
 - **[IrradiatedPirateBooty]** for illustrating covers.
 - **TikiBat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
+- **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
+- **[TheAncientPolitzanian]** for collaborative writing.
+- **[RunicTreetops]** for collaborative writing.
+- **[ThePeer]** for collaborative writing and pre-reading.
+- **[csos95]** for helping me with the [FIMFiction API].
+- **[Damaged]** for helping me with the [FIMFiction API].
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **[gapty]** for proofreading.
@@ -156,7 +162,6 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Mockingbirb]** for proofreading.
 - **[MorganaTheNotCat]** for pre-reading.
 - **[Jymbroni]** for pre-reading.
-- **[ThePeer]** for pre-reading.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
@@ -219,6 +224,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Shirlendra]: https://www.fimfiction.net/user/312832/Shirlendra "FIMFiction"
 [PresentPerfect]: https://www.fimfiction.net/user/923/PresentPerfect "FIMFiction"
 [Lucky Seven]: https://www.fimfiction.net/user/47070/Lucky+Seven "FIMFiction"
+[csos95]: https://github.com/csos95 "GitHub"
+[Damaged]: https://excessive.space/ "The Kobolds' Lair"
+[Ashy]: https://github.com/ashy1227 "GitHub"
+[TheAncientPolitzanian]: https://www.fimfiction.net/user/338193/TheAncientPolitzanian "FIMFiction"
+[RunicTreetops]: https://www.fimfiction.net/user/489485/RunicTreetops "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
