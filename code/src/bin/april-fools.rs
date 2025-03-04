@@ -94,17 +94,12 @@ struct Arguments {
 	skip_past_events: bool,
 	duration_hours: i64,
 	interval_minutes: i64,
-	countdown_duration_hours: i64,
 	covers_dir: String,
 	content_dir: String,
 	cover_mane_js: String,
+	events_json: String,
+	event_state_json: String,
 	fimfic_cookie_json: String,
-}
-
-#[derive(Serialize, Deserialize, Debug, Clone)]
-struct Urls {
-	story: String,
-	chapter: String,
 }
 
 #[derive(Debug, Clone)]
@@ -115,6 +110,7 @@ struct FimficRequest {
 	interval_step: Duration,
 	interval_max: Duration,
 	timeout: Duration,
+	max_tries: u32,
 }
 
 #[tokio::main]
@@ -127,15 +123,15 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let arguments = env::args().collect::<Vec<_>>();
 	let api_token = arguments[1].clone();
 	let args: Arguments = serde_json::from_str(&fs::read_to_string(&arguments[2])?)?;
-	let events: Vec<Event> = serde_json::from_str(&fs::read_to_string(&arguments[3])?)?;
+	let events: Events = serde_json::from_str(&fs::read_to_string(&args.events_json)?)?;
+	let mut state: EventState =
+		serde_json::from_str(&fs::read_to_string(&args.event_state_json)?).unwrap_or_default();
 
-	let urls = Urls {
-		story: format!(
-			"https://www.fimfiction.net/api/v2/stories/{}",
-			args.story_id
-		),
-		chapter: "https://www.fimfiction.net/api/v2/chapters".to_string(),
-	};
+	let story_url = format!(
+		"https://www.fimfiction.net/api/v2/stories/{}",
+		args.story_id
+	);
+	let chapter_url = format!("{story_url}/chapters");
 
 	// API and site request structs, client, headers, and time intervals.
 	let api = FimficRequest {
@@ -145,6 +141,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		interval_step: Duration::from_secs(2),
 		interval_max: Duration::from_secs(120),
 		timeout: Duration::from_secs(10),
+		max_tries: 4,
 	};
 
 	let mut timer = ClockTimer::builder()
@@ -153,14 +150,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		.with_interval(TimeDelta::try_minutes(args.interval_minutes).unwrap())
 		.build();
 
-	let mut current_state = EventState::default();
 	while let Some(tick) = timer.tick().await {
 		if args.skip_past_events && tick.past_due() {
 			continue;
 		}
-
-		let elapsed = tick.elapsed();
-		let remaining = tick.remaining();
 	}
 
 	Ok(())
@@ -177,7 +170,48 @@ fn setup_api_headers(token: &str) -> Result<HeaderMap, Box<dyn Error>> {
 }
 
 macro_rules! api_request {
-	($fun:ident, $method:ident) => {};
+	($fun:ident, $method:ident) => {
+		async fn $fun(
+			request: &FimficRequest, body: String, url: &str,
+		) -> Result<Response, Box<dyn std::error::Error + Send + Sync>> {
+			let mut interval = request.interval;
+			let mut tries = 1;
+			loop {
+				let start_time = unix_time()?;
+				let res = timeout(
+					request.timeout,
+					request
+						.client
+						.$method(url)
+						.body(body.clone())
+						.headers(request.headers.clone())
+						.send(),
+				)
+				.await;
+				match res {
+					Ok(Ok(response)) => {
+						return Ok(response);
+					}
+					Ok(Err(error)) => {
+						println!("Request failed: {error}");
+					}
+					Err(error) => {
+						println!("Request timed out: {error}");
+					}
+				}
+				sleep(start_time, interval).await?;
+				interval = if interval < request.interval_max {
+					interval + request.interval_step
+				} else {
+					request.interval_max
+				};
+				if tries > request.max_tries {
+					return Err("Max tries reached!".into());
+				}
+				tries += 1;
+			}
+		}
+	};
 }
 
 api_request!(api_post_request, post);
@@ -187,6 +221,7 @@ async fn api_get_request(
 	request: &FimficRequest, url: &str,
 ) -> Result<Response, Box<dyn std::error::Error + Send + Sync>> {
 	let mut interval = request.interval;
+	let mut tries = 1;
 	loop {
 		let start_time = unix_time()?;
 		let res = timeout(
@@ -215,6 +250,10 @@ async fn api_get_request(
 		} else {
 			request.interval_max
 		};
+		if tries > request.max_tries {
+			return Err("Max tries reached!".into());
+		}
+		tries += 1;
 	}
 }
 
