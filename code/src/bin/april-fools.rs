@@ -12,14 +12,7 @@ use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use tokio::time::timeout;
 use wiwi::prelude::*;
 
-type Events = HashMap<u32, Event>;
-
-#[derive(Serialize, Deserialize, Debug, Clone)]
-enum Event {
-	Chapter(Chapter),
-	VoteResult(VoteResult),
-}
-
+type Events = HashMap<u32, Chapter>;
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Chapter {
 	// ID of the next vote result event.
@@ -50,6 +43,8 @@ struct Chapter {
 	short_description_above: Option<String>,
 	// Authors note.
 	authors_note: Option<String>,
+	// Vote result object.
+	result: VoteResult,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -77,7 +72,7 @@ struct VoteResult {
 #[derive(Serialize, Deserialize, Debug, Clone, Default)]
 struct EventState {
 	// Likes at the start of the last vote.
-	likes: u32,
+	likes: i32,
 	// Minutes into the current event.
 	elapsed: u32,
 	// Last event.
@@ -159,17 +154,31 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		if args.skip_past_events && tick.past_due() {
 			continue;
 		}
-		let time = unix_time().unwrap();
+		let time = unix_time()?;
 		let current_event = events
 			.get(&state.chapter)
 			.expect("Event should be present.");
-		let response = api_get_request(&api, &story_url).await.unwrap();
-		let api = response.json::<StoryApi<u32>>().await.unwrap();
-		responses.insert(time, api);
+		let response = api_get_request(&api, &story_url).await?;
+		let story = response.json::<StoryApi<u32>>().await?;
+		responses.insert(time, story.clone());
 		fs::write(
 			args.api_responses_json.clone(),
 			serde_json::to_string(&responses)?,
 		)?;
+
+		if state.elapsed == 0 {
+			state.likes = story.data.attributes.num_likes;
+			if let Some(path) = &current_event.content {
+				let content = &fs::read_to_string(format!("{}{path}", args.content_dir))?;
+				let chapter = chapter_json(
+					&current_event.title_below,
+					content,
+					current_event.authors_note.as_deref(),
+				);
+				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
+			}
+		}
+		state.elapsed += 1;
 	}
 
 	Ok(())
@@ -189,7 +198,7 @@ macro_rules! api_request {
 	($fun:ident, $method:ident) => {
 		async fn $fun(
 			request: &FimficRequest, body: String, url: &str,
-		) -> Result<Response, Box<dyn std::error::Error + Send + Sync>> {
+		) -> Result<Response, Box<dyn std::error::Error>> {
 			let mut interval = request.interval;
 			let mut tries = 1;
 			loop {
@@ -235,7 +244,7 @@ api_request!(api_patch_request, patch);
 
 async fn api_get_request(
 	request: &FimficRequest, url: &str,
-) -> Result<Response, Box<dyn std::error::Error + Send + Sync>> {
+) -> Result<Response, Box<dyn std::error::Error>> {
 	let mut interval = request.interval;
 	let mut tries = 1;
 	loop {
@@ -273,9 +282,7 @@ async fn api_get_request(
 	}
 }
 
-async fn sleep(
-	start_time: u128, interval: Duration,
-) -> Result<(), Box<dyn std::error::Error + Send + Sync>> {
+async fn sleep(start_time: u128, interval: Duration) -> Result<(), Box<dyn std::error::Error>> {
 	let current_time = unix_time()?;
 	let elapsed_time = Duration::from_millis((current_time - start_time).try_into()?);
 	if elapsed_time > interval {
@@ -285,15 +292,18 @@ async fn sleep(
 	Ok(())
 }
 
-fn unix_time() -> Result<u128, Box<dyn std::error::Error + Send + Sync>> {
+fn unix_time() -> Result<u128, Box<dyn std::error::Error>> {
 	Ok(SystemTime::now().duration_since(UNIX_EPOCH)?.as_millis())
 }
 
-fn chapter_json(id: u32) -> Value {
+fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value {
 	json!({
 		 "data": {
-			  "id": id,
+			  "type": "chapter",
 			  "attributes": {
+					"title": title,
+					"content": content,
+					"authors_note": authors_note.unwrap_or_default(),
 					"published": true
 			  }
 		 }
