@@ -1,4 +1,5 @@
 use pony::command::execute_command;
+use pony::fimfiction_api::story::StoryApi;
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use reqwest::{Client, Response};
 use serde::{Deserialize, Serialize};
@@ -11,7 +12,7 @@ use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use tokio::time::timeout;
 use wiwi::prelude::*;
 
-type Events = HashMap<String, Event>;
+type Events = HashMap<u32, Event>;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 enum Event {
@@ -22,9 +23,9 @@ enum Event {
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Chapter {
 	// ID of the next vote result event.
-	next_event: Option<String>,
+	next_event: Option<u32>,
 	// ID of the next chapter event.
-	vote_result_event: Option<String>,
+	vote_result_event: Option<u32>,
 	// Duration of the event.
 	duration: u32,
 	// Cover file name, no path included.
@@ -80,7 +81,7 @@ struct EventState {
 	// Minutes into the current event.
 	elapsed: u32,
 	// Last event.
-	chapter: Option<String>,
+	chapter: u32,
 	// Replacements for passed votes.
 	content_pass_replace: HashMap<String, String>,
 	// Replacements for failed votes.
@@ -94,12 +95,14 @@ struct Arguments {
 	skip_past_events: bool,
 	duration_hours: i64,
 	interval_minutes: i64,
+	result_duration: i64,
 	covers_dir: String,
 	content_dir: String,
 	cover_mane_js: String,
 	events_json: String,
 	event_state_json: String,
 	fimfic_cookie_json: String,
+	api_responses_json: String,
 }
 
 #[derive(Debug, Clone)]
@@ -126,6 +129,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let events: Events = serde_json::from_str(&fs::read_to_string(&args.events_json)?)?;
 	let mut state: EventState =
 		serde_json::from_str(&fs::read_to_string(&args.event_state_json)?).unwrap_or_default();
+	let mut responses: HashMap<u128, StoryApi> =
+		serde_json::from_str(&fs::read_to_string(&args.api_responses_json)?).unwrap_or_default();
 
 	let story_url = format!(
 		"https://www.fimfiction.net/api/v2/stories/{}",
@@ -154,6 +159,17 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		if args.skip_past_events && tick.past_due() {
 			continue;
 		}
+		let time = unix_time().unwrap();
+		let current_event = events
+			.get(&state.chapter)
+			.expect("Event should be present.");
+		let response = api_get_request(&api, &story_url).await.unwrap();
+		let api = response.json::<StoryApi<u32>>().await.unwrap();
+		responses.insert(time, api);
+		fs::write(
+			args.api_responses_json.clone(),
+			serde_json::to_string(&responses)?,
+		)?;
 	}
 
 	Ok(())
