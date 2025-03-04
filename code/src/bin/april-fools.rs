@@ -13,6 +13,7 @@ use tokio::time::timeout;
 use wiwi::prelude::*;
 
 type Events = HashMap<u32, Chapter>;
+
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Chapter {
 	// ID of the next vote result event.
@@ -25,6 +26,8 @@ struct Chapter {
 	cover: Option<String>,
 	// Title for setting when no vote is taking place.
 	like_delta: i32,
+	// Title for the chapter.
+	chapter_title: String,
 	// Content to post.
 	content: Option<String>,
 	// The title for before the vote passes.
@@ -57,6 +60,8 @@ struct VoteResult {
 	short_description_fail: String,
 	// Short description for if the vote passes.
 	short_description_pass: String,
+	// Title for the chapter.
+	chapter_title: String,
 	// Content to pre-pend if the vote passes.
 	content_pass: String,
 	// Content to pre-pend if the vote fails.
@@ -69,6 +74,14 @@ struct VoteResult {
 	authors_note: Option<String>,
 }
 
+#[derive(Serialize, Deserialize, Debug, Clone)]
+struct VoteOutcome {
+	title: String,
+	short_description: String,
+	content: String,
+	content_replace: Option<HashMap<String, String>>,
+}
+
 #[derive(Serialize, Deserialize, Debug, Clone, Default)]
 struct EventState {
 	// Likes at the start of the last vote.
@@ -77,10 +90,8 @@ struct EventState {
 	elapsed: u32,
 	// Last event.
 	chapter: u32,
-	// Replacements for passed votes.
-	content_pass_replace: HashMap<String, String>,
-	// Replacements for failed votes.
-	content_fail_replace: HashMap<String, String>,
+	// Replacements for votes.
+	content_replace: HashMap<String, String>,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -90,7 +101,7 @@ struct Arguments {
 	skip_past_events: bool,
 	duration_hours: i64,
 	interval_minutes: i64,
-	result_duration: i64,
+	result_duration: u32,
 	covers_dir: String,
 	content_dir: String,
 	cover_mane_js: String,
@@ -169,19 +180,65 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		if state.elapsed == 0 {
 			state.likes = story.data.attributes.num_likes;
 			if let Some(path) = &current_event.content {
-				let content = &fs::read_to_string(format!("{}{path}", args.content_dir))?;
+				let mut content = fs::read_to_string(format!("{}{path}", args.content_dir))?;
+				for (hash, value) in &state.content_replace {
+					content = content.replace(hash, value);
+				}
 				let chapter = chapter_json(
-					&current_event.title_below,
-					content,
+					&current_event.chapter_title,
+					&content,
 					current_event.authors_note.as_deref(),
 				);
 				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
 			}
-		}
+		} else if state.elapsed == current_event.duration - args.result_duration {
+			let passed = story.data.attributes.num_likes >= state.likes + current_event.like_delta;
+			let result = vote_results(current_event.result.clone(), passed);
+			let mut content =
+				fs::read_to_string(format!("{}{}", args.content_dir, result.content))?;
+			if let Some(replacements) = result.content_replace {
+				state.content_replace.extend(replacements);
+			}
+			for (hash, value) in &state.content_replace {
+				content = content.replace(hash, value);
+			}
+			let chapter = chapter_json(
+				&current_event.result.chapter_title,
+				&content,
+				current_event.result.authors_note.as_deref(),
+			);
+			api_post_request(&api, chapter.to_string(), &chapter_url).await?;
+		} else if state.elapsed == current_event.duration {
+			if let Some(next) = current_event.next_event {
+				state.chapter = next;
+				state.elapsed = 0;
+				continue;
+			}
+		} else {
+			// Handle normal cases here.
+			todo!()
+		};
 		state.elapsed += 1;
 	}
 
 	Ok(())
+}
+
+fn vote_results(options: VoteResult, passed: bool) -> VoteOutcome {
+	match passed {
+		true => VoteOutcome {
+			title: options.title_pass,
+			short_description: options.short_description_pass,
+			content: options.content_pass,
+			content_replace: options.content_pass_replace,
+		},
+		false => VoteOutcome {
+			title: options.title_fail,
+			short_description: options.short_description_fail,
+			content: options.content_fail,
+			content_replace: options.content_fail_replace,
+		},
+	}
 }
 
 fn setup_api_headers(token: &str) -> Result<HeaderMap, Box<dyn Error>> {
