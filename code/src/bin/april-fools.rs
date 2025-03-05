@@ -204,6 +204,15 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		if state.elapsed == 0 {
 			state.likes = story.data.attributes.num_likes;
 			if let Some(path) = &current_event.content {
+				if let Some(ref cover) = current_event.cover {
+					let cover = format!("{}{}", args.covers_dir, cover);
+					let command = format!(
+						r#"node "{}" {} "{}" "{}""#,
+						args.cover_mane_js, args.story_id, cover, args.fimfic_cookie_json
+					);
+
+					execute_command(&command).unwrap();
+				}
 				let mut content = fs::read_to_string(format!("{}{path}", args.content_dir))?;
 				for (hash, value) in &state.content_replace {
 					content = content.replace(hash, value);
