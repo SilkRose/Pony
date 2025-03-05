@@ -4,10 +4,12 @@ use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use reqwest::{Client, Response};
 use serde::{Deserialize, Serialize};
 use serde_json::{Value, json};
+use std::cmp::Ordering;
 use std::collections::HashMap;
 use std::env;
 use std::error::Error;
 use std::fs;
+use std::process::exit;
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use tokio::time::timeout;
 use wiwi::prelude::*;
@@ -33,21 +35,28 @@ struct Chapter {
 	// The title for before the vote passes.
 	title_below: String,
 	// The title for when exact votes are met.
-	title_exact: Option<String>,
+	title_exact: String,
 	// The title for after the vote passes.
-	title_above: Option<String>,
+	title_above: String,
 	// Long description.
 	description: String,
 	// The short description for before the vote passes.
 	short_description_below: String,
 	// The short description for when exact votes are met.
-	short_description_exact: Option<String>,
+	short_description_exact: String,
 	// The short description for after the vote passes.
-	short_description_above: Option<String>,
+	short_description_above: String,
 	// Authors note.
 	authors_note: Option<String>,
 	// Vote result object.
 	result: VoteResult,
+}
+
+#[derive(Serialize, Deserialize, Debug, Clone)]
+struct StoryData {
+	title: String,
+	description: String,
+	short_description: String,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -191,6 +200,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				);
 				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
 			}
+		} else if state.elapsed < current_event.duration - args.result_duration {
+			let update = story_parameters(
+				current_event.clone(),
+				story.data.attributes.num_likes,
+				state.likes,
+			);
+			let json = story_json(
+				args.story_id,
+				&Some(update.title),
+				&Some(update.short_description),
+				&Some(update.description),
+			);
+			let response = api_patch_request(&api, json, &story_url).await?;
+			let _ = response.json::<StoryApi<u32>>().await?;
 		} else if state.elapsed == current_event.duration - args.result_duration {
 			let passed = story.data.attributes.num_likes >= state.likes + current_event.like_delta;
 			let result = vote_results(current_event.result.clone(), passed);
@@ -208,20 +231,49 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				current_event.result.authors_note.as_deref(),
 			);
 			api_post_request(&api, chapter.to_string(), &chapter_url).await?;
+		} else if state.elapsed < current_event.duration {
+			// Result events.
 		} else if state.elapsed == current_event.duration {
 			if let Some(next) = current_event.next_event {
 				state.chapter = next;
 				state.elapsed = 0;
 				continue;
 			}
-		} else {
-			// Handle normal cases here.
-			todo!()
+			exit(0);
 		};
 		state.elapsed += 1;
 	}
 
 	Ok(())
+}
+
+fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> StoryData {
+	match (starting_likes + chapter.like_delta).cmp(&total_likes) {
+		Ordering::Less => StoryData {
+			title: chapter.title_below,
+			description: format!(
+				"{}\n\n[hr]\n\n{}",
+				chapter.short_description_below, chapter.description
+			),
+			short_description: chapter.short_description_below,
+		},
+		Ordering::Equal => StoryData {
+			title: chapter.title_below,
+			description: format!(
+				"{}\n\n[hr]\n\n{}",
+				chapter.short_description_exact, chapter.description
+			),
+			short_description: chapter.short_description_exact,
+		},
+		Ordering::Greater => StoryData {
+			title: chapter.title_below,
+			description: format!(
+				"{}\n\n[hr]\n\n{}",
+				chapter.short_description_above, chapter.description
+			),
+			short_description: chapter.short_description_above,
+		},
+	}
 }
 
 fn vote_results(options: VoteResult, passed: bool) -> VoteOutcome {
@@ -369,7 +421,7 @@ fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value
 
 fn story_json(
 	id: u32, title: &Option<String>, short_description: &Option<String>,
-	description: &Option<String>, completion_status: &Option<String>,
+	description: &Option<String>,
 ) -> String {
 	let mut attributes = HashMap::new();
 	if let Some(name) = title {
@@ -380,9 +432,6 @@ fn story_json(
 	}
 	if let Some(desc) = description {
 		attributes.insert("description", desc);
-	}
-	if let Some(status) = completion_status {
-		attributes.insert("completion_status", status);
 	}
 	let json = json!({
 		"data": {
