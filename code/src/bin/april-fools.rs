@@ -106,6 +106,18 @@ struct EventState {
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
+struct Replacements {
+	// The like delta between the target and recieved amounts.
+	like_diff: i32,
+	// The likes recieved since the start of the chapter.
+	like_rec: i32,
+	// The total likes on the story.
+	like_total: i32,
+	// The delta time remaining for the current chapter.
+	minutes_left: u32,
+}
+
+#[derive(Serialize, Deserialize, Debug, Clone)]
 struct Arguments {
 	story_id: u32,
 	start_time: i64,
@@ -188,17 +200,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			serde_json::to_string(&responses)?,
 		)?;
 
-		// The total likes on the story.
-		let tl = story.data.attributes.num_likes;
-		// The likes recieved since the start of the chapter.
-		let rl = tl - state.likes;
-		// The like delta between the target and recieved amounts.
-		let dl = tl - rl;
-		// The delta time remaining for the current chapter.
-		let dt = if state.elapsed >= current_event.duration - args.result_duration {
-			current_event.duration - state.elapsed
-		} else {
-			current_event.duration - state.elapsed - args.result_duration
+		let replace = Replacements {
+			like_diff: current_event.like_delta - (story.data.attributes.num_likes - state.likes),
+			like_rec: story.data.attributes.num_likes - state.likes,
+			like_total: story.data.attributes.num_likes,
+			minutes_left: match state.elapsed >= current_event.duration - args.result_duration {
+				true => current_event.duration - state.elapsed,
+				false => current_event.duration - state.elapsed - args.result_duration,
+			},
 		};
 
 		if state.elapsed == 0 {
@@ -267,7 +276,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				args.story_id,
 				Some(&outcome.title),
 				Some(&outcome.short_description),
-				Some(&current_event.description),
+				Some(&format!(
+					"{}\n\n[hr]\n\n{}",
+					outcome.short_description, current_event.description
+				)),
 			);
 			let response = api_patch_request(&api, json, &story_url).await?;
 			let _ = response.json::<StoryApi<u32>>().await?;
