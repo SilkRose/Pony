@@ -241,9 +241,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			);
 			let json = story_json(
 				args.story_id,
-				Some(&update.title),
-				Some(&update.short_description),
-				Some(&update.description),
+				Some(&replace_text(&update.title, &replace)),
+				Some(&replace_text(&update.short_description, &replace)),
+				Some(&replace_text(&update.description, &replace)),
 			);
 			let response = api_patch_request(&api, json, &story_url).await?;
 			let _ = response.json::<StoryApi<u32>>().await?;
@@ -274,11 +274,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				.expect("Outcome should always be present.");
 			let json = story_json(
 				args.story_id,
-				Some(&outcome.title),
-				Some(&outcome.short_description),
+				Some(&replace_text(&outcome.title, &replace)),
+				Some(&replace_text(&outcome.short_description, &replace)),
 				Some(&format!(
 					"{}\n\n[hr]\n\n{}",
-					outcome.short_description, current_event.description
+					replace_text(&outcome.short_description, &replace),
+					replace_text(&current_event.description, &replace)
 				)),
 			);
 			let response = api_patch_request(&api, json, &story_url).await?;
@@ -491,4 +492,43 @@ fn story_json(
 		}
 	});
 	serde_json::to_string(&json).unwrap()
+}
+
+fn replace_text(text: &str, replace: &Replacements) -> String {
+	let mut result = String::from(text);
+	let tokens = text.split('%');
+	for token in tokens {
+		if token.starts_with("ld[") && token.ends_with("]") {
+			result.push_str(&split_count(token, replace.like_diff));
+		} else if token.starts_with("lr[") && token.ends_with("]") {
+			result.push_str(&split_count(token, replace.like_rec));
+		} else if token.starts_with("lt[") && token.ends_with("]") {
+			result.push_str(&split_count(token, replace.like_total));
+		} else if token.starts_with("ml[") && token.ends_with("]") {
+			result.push_str(&split_count(
+				token,
+				replace.minutes_left.try_into().unwrap(),
+			));
+		} else if token == "ld" {
+			result.push_str(&replace.like_diff.to_string());
+		} else if token == "lr" {
+			result.push_str(&replace.like_rec.to_string());
+		} else if token == "lt" {
+			result.push_str(&replace.like_total.to_string());
+		} else if token == "ml" {
+			result.push_str(&replace.minutes_left.to_string());
+		} else {
+			result.push_str(token);
+		}
+	}
+	result
+}
+
+fn split_count(token: &str, count: i32) -> String {
+	let (plural, single) = token.split_once('|').expect("Should always be present.");
+	if count == 1 {
+		single.trim_end_matches(']').to_string()
+	} else {
+		plural.split_once('[').unwrap().1.into()
+	}
 }
