@@ -99,6 +99,8 @@ struct EventState {
 	elapsed: u32,
 	// Last event.
 	chapter: u32,
+	// The outcome of the vote.
+	outcome: Option<VoteOutcome>,
 	// Replacements for votes.
 	content_replace: HashMap<String, String>,
 }
@@ -186,6 +188,19 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			serde_json::to_string(&responses)?,
 		)?;
 
+		// The total likes on the story.
+		let tl = story.data.attributes.num_likes;
+		// The likes recieved since the start of the chapter.
+		let rl = tl - state.likes;
+		// The like delta between the target and recieved amounts.
+		let dl = tl - rl;
+		// The delta time remaining for the current chapter.
+		let dt = if state.elapsed >= current_event.duration - args.result_duration {
+			current_event.duration - state.elapsed
+		} else {
+			current_event.duration - state.elapsed - args.result_duration
+		};
+
 		if state.elapsed == 0 {
 			state.likes = story.data.attributes.num_likes;
 			if let Some(path) = &current_event.content {
@@ -208,33 +223,48 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			);
 			let json = story_json(
 				args.story_id,
-				&Some(update.title),
-				&Some(update.short_description),
-				&Some(update.description),
+				Some(&update.title),
+				Some(&update.short_description),
+				Some(&update.description),
 			);
 			let response = api_patch_request(&api, json, &story_url).await?;
 			let _ = response.json::<StoryApi<u32>>().await?;
-		} else if state.elapsed == current_event.duration - args.result_duration {
-			let passed = story.data.attributes.num_likes >= state.likes + current_event.like_delta;
-			let result = vote_results(current_event.result.clone(), passed);
-			let mut content =
-				fs::read_to_string(format!("{}{}", args.content_dir, result.content))?;
-			if let Some(replacements) = result.content_replace {
-				state.content_replace.extend(replacements);
+		} else if state.elapsed > current_event.duration {
+			if state.elapsed == current_event.duration - args.result_duration {
+				let passed =
+					story.data.attributes.num_likes >= state.likes + current_event.like_delta;
+				let result = vote_results(current_event.result.clone(), passed);
+				let mut content =
+					fs::read_to_string(format!("{}{}", args.content_dir, result.content))?;
+				if let Some(replacements) = result.content_replace.clone() {
+					state.content_replace.extend(replacements);
+				}
+				for (hash, value) in &state.content_replace {
+					content = content.replace(hash, value);
+				}
+				let chapter = chapter_json(
+					&current_event.result.chapter_title,
+					&content,
+					current_event.result.authors_note.as_deref(),
+				);
+				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
+				state.outcome = Some(result);
 			}
-			for (hash, value) in &state.content_replace {
-				content = content.replace(hash, value);
-			}
-			let chapter = chapter_json(
-				&current_event.result.chapter_title,
-				&content,
-				current_event.result.authors_note.as_deref(),
+			let outcome = state
+				.outcome
+				.clone()
+				.expect("Outcome should always be present.");
+			let json = story_json(
+				args.story_id,
+				Some(&outcome.title),
+				Some(&outcome.short_description),
+				Some(&current_event.description),
 			);
-			api_post_request(&api, chapter.to_string(), &chapter_url).await?;
-		} else if state.elapsed < current_event.duration {
-			// Result events.
+			let response = api_patch_request(&api, json, &story_url).await?;
+			let _ = response.json::<StoryApi<u32>>().await?;
 		} else if state.elapsed == current_event.duration {
 			if let Some(next) = current_event.next_event {
+				state.outcome = None;
 				state.chapter = next;
 				state.elapsed = 0;
 				continue;
@@ -420,8 +450,8 @@ fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value
 }
 
 fn story_json(
-	id: u32, title: &Option<String>, short_description: &Option<String>,
-	description: &Option<String>,
+	id: u32, title: Option<&String>, short_description: Option<&String>,
+	description: Option<&String>,
 ) -> String {
 	let mut attributes = HashMap::new();
 	if let Some(name) = title {
