@@ -1,5 +1,6 @@
 use pony::command::execute_command;
 use pony::fimfiction_api::story::StoryApi;
+use pony::time::format_milliseconds;
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use reqwest::{Client, Response};
 use serde::{Deserialize, Serialize};
@@ -179,11 +180,32 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		max_tries: 4,
 	};
 
+	let program_start = Utc::now();
+	let start_time = DateTime::from_timestamp(args.start_time, 0).unwrap();
+	let duration = TimeDelta::try_hours(args.duration_hours).unwrap();
+	let interval = TimeDelta::try_minutes(args.interval_minutes).unwrap();
+	let end_time = start_time.checked_add_signed(duration).unwrap();
+	let program_start_utc = program_start.format("%Y-%m-%d %H:%M:%S").to_string();
+	let start_utc = start_time.format("%Y-%m-%d %H:%M:%S").to_string();
+	let start_diff = program_start.timestamp_millis() - start_time.timestamp_millis();
+
 	let mut timer = ClockTimer::builder()
-		.with_start_datetime(DateTime::from_timestamp(args.start_time, 0).unwrap())
-		.with_duration(TimeDelta::try_hours(args.duration_hours).unwrap())
-		.with_interval(TimeDelta::try_minutes(args.interval_minutes).unwrap())
+		.with_start_datetime(start_time)
+		.with_duration(duration)
+		.with_interval(interval)
 		.build();
+
+	if program_start < start_time {
+		println!(
+			"{program_start_utc}: event will start in {} at {start_utc}",
+			format_milliseconds(start_diff.unsigned_abs() as u128, None)?
+		);
+	} else if program_start > start_time && program_start < end_time {
+		println!(
+			"{program_start_utc}: event started {} ago, at {start_utc}",
+			format_milliseconds(start_diff.unsigned_abs() as u128, None)?
+		);
+	};
 
 	while let Some(tick) = timer.tick().await {
 		if args.skip_past_events && tick.past_due() {
@@ -313,6 +335,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				state.elapsed = 0;
 				continue;
 			}
+			// If we finish, set chapter to MAX to error on restart.
+			state.chapter = u32::MAX;
+			let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
+			let runtime = program_start.timestamp_millis() - Utc::now().timestamp_millis();
+			println!(
+				"{time}: event completed with a runtime of {}",
+				format_milliseconds(runtime as u128, None)?
+			);
 			exit(0);
 		};
 	}
