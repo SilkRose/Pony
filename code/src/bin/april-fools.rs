@@ -23,7 +23,7 @@ struct Chapter {
 	// ID of the next chapter event.
 	vote_result_event: Option<u32>,
 	// Duration of the event.
-	duration: u32,
+	duration: i32,
 	// Cover file name, no path included.
 	cover: Option<String>,
 	// Title for setting when no vote is taking place.
@@ -96,7 +96,7 @@ struct EventState {
 	// Likes at the start of the last vote.
 	likes: i32,
 	// Minutes into the current event.
-	elapsed: u32,
+	elapsed: i32,
 	// Last event.
 	chapter: u32,
 	// The outcome of the vote.
@@ -114,7 +114,7 @@ struct Replacements {
 	// The total likes on the story.
 	like_total: i32,
 	// The delta time remaining for the current chapter.
-	minutes_left: u32,
+	minutes_left: i32,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -124,7 +124,7 @@ struct Arguments {
 	skip_past_events: bool,
 	duration_hours: i64,
 	interval_minutes: i64,
-	result_duration: u32,
+	result_duration: i32,
 	covers_dir: String,
 	content_dir: String,
 	cover_mane_js: String,
@@ -204,10 +204,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			like_diff: current_event.like_delta - (story.data.attributes.num_likes - state.likes),
 			like_rec: story.data.attributes.num_likes - state.likes,
 			like_total: story.data.attributes.num_likes,
-			minutes_left: match state.elapsed >= current_event.duration - args.result_duration {
-				true => current_event.duration - state.elapsed,
-				false => current_event.duration - state.elapsed - args.result_duration,
-			},
+			minutes_left: (current_event.duration - state.elapsed - args.result_duration).abs(),
 		};
 
 		if state.elapsed == 0 {
@@ -505,10 +502,7 @@ fn replace_text(text: &str, replace: &Replacements) -> String {
 		} else if token.starts_with("lt[") && token.ends_with("]") {
 			result.push_str(&split_count(token, replace.like_total));
 		} else if token.starts_with("ml[") && token.ends_with("]") {
-			result.push_str(&split_count(
-				token,
-				replace.minutes_left.try_into().unwrap(),
-			));
+			result.push_str(&split_count(token, replace.minutes_left));
 		} else if token == "ld" {
 			result.push_str(&replace.like_diff.to_string());
 		} else if token == "lr" {
