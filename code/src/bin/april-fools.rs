@@ -546,7 +546,7 @@ fn story_json(
 }
 
 fn replace_text(text: &str, replace: &Replacements) -> String {
-	let mut result = String::from(text);
+	let mut result = String::new();
 	let tokens = text.split('%');
 	for token in tokens {
 		if token.starts_with("ld[") && token.ends_with("]") {
