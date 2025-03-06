@@ -20,10 +20,8 @@ type Events = HashMap<u32, Chapter>;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Chapter {
-	// ID of the next vote result event.
-	next_event: Option<u32>,
 	// ID of the next chapter event.
-	vote_result_event: Option<u32>,
+	next_event: Option<u32>,
 	// Duration of the event.
 	duration: i32,
 	// Cover file name, no path included.
@@ -159,9 +157,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let args: Arguments = serde_json::from_str(&fs::read_to_string(&arguments[2])?)?;
 	let events: Events = serde_json::from_str(&fs::read_to_string(&args.events_json)?)?;
 	let mut state: EventState =
-		serde_json::from_str(&fs::read_to_string(&args.event_state_json)?).unwrap_or_default();
+		serde_json::from_str(&fs::read_to_string(&args.event_state_json).unwrap_or_default())
+			.unwrap_or_default();
 	let mut responses: HashMap<u128, StoryApi<i32>> =
-		serde_json::from_str(&fs::read_to_string(&args.api_responses_json)?).unwrap_or_default();
+		serde_json::from_str(&fs::read_to_string(&args.api_responses_json).unwrap_or_default())
+			.unwrap_or_default();
 
 	let story_url = format!(
 		"https://www.fimfiction.net/api/v2/stories/{}",
