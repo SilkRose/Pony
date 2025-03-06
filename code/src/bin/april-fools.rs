@@ -12,6 +12,7 @@ use std::fs;
 use std::process::exit;
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 use tokio::time::timeout;
+use wiwi::clock_timer::chrono::Utc;
 use wiwi::prelude::*;
 
 type Events = HashMap<u32, Chapter>;
@@ -158,7 +159,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let events: Events = serde_json::from_str(&fs::read_to_string(&args.events_json)?)?;
 	let mut state: EventState =
 		serde_json::from_str(&fs::read_to_string(&args.event_state_json)?).unwrap_or_default();
-	let mut responses: HashMap<u128, StoryApi> =
+	let mut responses: HashMap<u128, StoryApi<i32>> =
 		serde_json::from_str(&fs::read_to_string(&args.api_responses_json)?).unwrap_or_default();
 
 	let story_url = format!(
@@ -193,61 +194,72 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			.get(&state.chapter)
 			.expect("Event should be present.");
 		let response = api_get_request(&api, &story_url).await?;
-		let story = response.json::<StoryApi<u32>>().await?;
+		let story = response.json::<StoryApi<i32>>().await?;
 		responses.insert(time, story.clone());
 		fs::write(
 			args.api_responses_json.clone(),
 			serde_json::to_string(&responses)?,
 		)?;
 
+		let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
+
+		// We use likes for release mode.
+		#[cfg(not(debug_assertions))]
+		let metric = story.data.attributes.num_likes;
+
+		// We use comments for debug mode.
+		#[cfg(debug_assertions)]
+		let metric = story.data.attributes.num_comments;
+
 		let replace = Replacements {
-			like_diff: current_event.like_delta - (story.data.attributes.num_likes - state.likes),
-			like_rec: story.data.attributes.num_likes - state.likes,
-			like_total: story.data.attributes.num_likes,
+			like_diff: current_event.like_delta - (metric - state.likes),
+			like_rec: metric - state.likes,
+			like_total: metric,
 			minutes_left: (current_event.duration - state.elapsed - args.result_duration).abs(),
 		};
 
-		if state.elapsed == 0 {
-			state.likes = story.data.attributes.num_likes;
-			if let Some(path) = &current_event.content {
+		let mut changes: Vec<&str> = Vec::new();
+		if state.elapsed < current_event.duration - args.result_duration {
+			if state.elapsed == 0 {
+				state.likes = metric;
 				if let Some(ref cover) = current_event.cover {
 					let cover = format!("{}{}", args.covers_dir, cover);
 					let command = format!(
 						r#"node "{}" {} "{}" "{}""#,
 						args.cover_mane_js, args.story_id, cover, args.fimfic_cookie_json
 					);
-
+					changes.push("cover update");
 					execute_command(&command).unwrap();
 				}
-				let mut content = fs::read_to_string(format!("{}{path}", args.content_dir))?;
-				for (hash, value) in &state.content_replace {
-					content = content.replace(hash, value);
+				if let Some(path) = &current_event.content {
+					let mut content = fs::read_to_string(format!("{}{path}", args.content_dir))?;
+					for (hash, value) in &state.content_replace {
+						content = content.replace(hash, value);
+					}
+					let chapter = chapter_json(
+						&current_event.chapter_title,
+						&content,
+						current_event.authors_note.as_deref(),
+					);
+					changes.push("init chapter post");
+					api_post_request(&api, chapter.to_string(), &chapter_url).await?;
 				}
-				let chapter = chapter_json(
-					&current_event.chapter_title,
-					&content,
-					current_event.authors_note.as_deref(),
-				);
-				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
 			}
-		} else if state.elapsed < current_event.duration - args.result_duration {
-			let update = story_parameters(
-				current_event.clone(),
-				story.data.attributes.num_likes,
-				state.likes,
-			);
+			let update = story_parameters(current_event.clone(), metric, state.likes);
 			let json = story_json(
 				args.story_id,
 				Some(&replace_text(&update.title, &replace)),
 				Some(&replace_text(&update.short_description, &replace)),
 				Some(&replace_text(&update.description, &replace)),
 			);
+			changes.push("story update");
 			let response = api_patch_request(&api, json, &story_url).await?;
 			let _ = response.json::<StoryApi<u32>>().await?;
-		} else if state.elapsed > current_event.duration {
+		} else if state.elapsed >= current_event.duration - args.result_duration
+			&& state.elapsed < current_event.duration
+		{
 			if state.elapsed == current_event.duration - args.result_duration {
-				let passed =
-					story.data.attributes.num_likes >= state.likes + current_event.like_delta;
+				let passed = metric >= state.likes + current_event.like_delta;
 				let result = vote_results(current_event.result.clone(), passed);
 				let mut content =
 					fs::read_to_string(format!("{}{}", args.content_dir, result.content))?;
@@ -262,6 +274,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					&content,
 					current_event.result.authors_note.as_deref(),
 				);
+				changes.push("result chapter post");
 				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
 				state.outcome = Some(result);
 			}
@@ -279,9 +292,21 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					replace_text(&current_event.description, &replace)
 				)),
 			);
+			changes.push("result story update");
 			let response = api_patch_request(&api, json, &story_url).await?;
 			let _ = response.json::<StoryApi<u32>>().await?;
-		} else if state.elapsed == current_event.duration {
+		}
+		state.elapsed += 1;
+		fs::write(
+			args.event_state_json.clone(),
+			serde_json::to_string(&state)?,
+		)?;
+		println!(
+			"{time} - diff: {:0>2}, rec: {:0>2}, total: {:0>3}, mins left: {:0>2}",
+			replace.like_diff, replace.like_rec, replace.like_total, replace.minutes_left
+		);
+		println!("{}", changes.join(", "));
+		if state.elapsed == current_event.duration {
 			if let Some(next) = current_event.next_event {
 				state.outcome = None;
 				state.chapter = next;
@@ -290,7 +315,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			}
 			exit(0);
 		};
-		state.elapsed += 1;
 	}
 
 	Ok(())
@@ -307,7 +331,7 @@ fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> 
 			short_description: chapter.short_description_below,
 		},
 		Ordering::Equal => StoryData {
-			title: chapter.title_below,
+			title: chapter.title_exact,
 			description: format!(
 				"{}\n\n[hr]\n\n{}",
 				chapter.short_description_exact, chapter.description
@@ -315,7 +339,7 @@ fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> 
 			short_description: chapter.short_description_exact,
 		},
 		Ordering::Greater => StoryData {
-			title: chapter.title_below,
+			title: chapter.title_above,
 			description: format!(
 				"{}\n\n[hr]\n\n{}",
 				chapter.short_description_above, chapter.description
