@@ -33,12 +33,12 @@ Some suggestions from Twilight to include in your letter(s):
 ### Characters:
 - Pinkie Pie: [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose)
 - Starlight: [TheAncientPolitzanian](https://www.fimfiction.net/user/338193/TheAncientPolitzanian)
-- Trixie: gapty
+- Discord: [SparklingTwilight](https://www.fimfiction.net/user/423060/SparklingTwilight)
 - Rainbow Dash: [Sciblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories)
 - Sunset: heartlessons
 - Twilight Sparkle: 6-D Pegasus
 - Applejack: [Rego](https://www.fimfiction.net/user/180061/Rego)
-- Celestia: sirenc0re
+- Celestia: [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops)
 - Fluttershy: [PseudoBob Delightus](https://www.fimfiction.net/user/12771/)
 - Luna: Tiki Bat
 - Rarity: Pearls
@@ -57,7 +57,9 @@ Some suggestions from Twilight to include in your letter(s):
 9. [Spike → Starlight (ThePeer)](./09-spike.md)
 10. [Starlight → Spike (TheAncientPolitzanian)](./10-starlight.md)
 11. [Starlight → Celestia (TheAncientPolitzanian)](./11-starlight.md)
-12. 
+12. [Celestia → Starlight (RunicTreetops)](./12-celestia.md)
+13. [Celestia → Discord (RunicTreetops)](./13-celestia.md)
+14. 
 
 ## Cover:
 
