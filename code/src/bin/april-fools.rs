@@ -147,11 +147,11 @@ struct FimficRequest {
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
-	// 0 - ./fimfic-april-fools
+	// 0 - ./april-fools
 	// 1 - api-token
 	// 2 - arguments.json
-	// 3 - events.json
 
+	// Variable setup.
 	let arguments = env::args().collect::<Vec<_>>();
 	let api_token = arguments[1].clone();
 	let args: Arguments = serde_json::from_str(&fs::read_to_string(&arguments[2])?)?;
@@ -163,13 +163,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		serde_json::from_str(&fs::read_to_string(&args.api_responses_json).unwrap_or_default())
 			.unwrap_or_default();
 
+	// URL setup.
 	let story_url = format!(
 		"https://www.fimfiction.net/api/v2/stories/{}",
 		args.story_id
 	);
 	let chapter_url = format!("{story_url}/chapters");
 
-	// API and site request structs, client, headers, and time intervals.
+	// API request structs, client, headers, and time intervals.
 	let api = FimficRequest {
 		client: Client::new(),
 		headers: setup_api_headers(&api_token)?,
@@ -180,6 +181,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		max_tries: 4,
 	};
 
+	// Time variables.
 	let program_start = Utc::now();
 	let start_time = DateTime::from_timestamp(args.start_time, 0).unwrap();
 	let duration = TimeDelta::try_hours(args.duration_hours).unwrap();
@@ -189,12 +191,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let start_utc = start_time.format("%Y-%m-%d %H:%M:%S").to_string();
 	let start_diff = program_start.timestamp_millis() - start_time.timestamp_millis();
 
+	// Timer setup.
 	let mut timer = ClockTimer::builder()
 		.with_start_datetime(start_time)
 		.with_duration(duration)
 		.with_interval(interval)
 		.build();
 
+	// Program start log.
 	if program_start < start_time {
 		println!(
 			"{program_start_utc}: event will start in {} at {start_utc}",
@@ -207,10 +211,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		);
 	};
 
+	// Mane loop.
 	while let Some(tick) = timer.tick().await {
+		// Should always skip past events.
 		if args.skip_past_events && tick.past_due() {
 			continue;
 		}
+		// API story response get and save.
 		let time = unix_time()?;
 		let current_event = events
 			.get(&state.chapter)
@@ -223,6 +230,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			serde_json::to_string(&responses)?,
 		)?;
 
+		// Time for logging.
 		let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
 
 		// We use likes for release mode.
@@ -233,6 +241,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		#[cfg(debug_assertions)]
 		let metric = story.data.attributes.num_comments;
 
+		// Replacements for title, short description, and description.
 		let replace = Replacements {
 			like_diff: current_event.like_delta - (metric - state.likes),
 			like_rec: metric - state.likes,
@@ -240,10 +249,15 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			minutes_left: (current_event.duration - state.elapsed - args.result_duration).abs(),
 		};
 
+		// Variable for keeping track of changes.
 		let mut changes: Vec<&str> = Vec::new();
+		// First if block for while elapsed is before the result chapter.
 		if state.elapsed < current_event.duration - args.result_duration {
+			// Check if 0 for posting a chapter and updating the cover.
 			if state.elapsed == 0 {
+				// Save likes for the rest of the chapter/
 				state.likes = metric;
+				// Update cover if set.
 				if let Some(ref cover) = current_event.cover {
 					let cover = format!("{}{}", args.covers_dir, cover);
 					let command = format!(
@@ -253,8 +267,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					changes.push("cover update");
 					execute_command(&command).unwrap();
 				}
+				// Post a chapter if set.
 				if let Some(path) = &current_event.content {
 					let mut content = fs::read_to_string(format!("{}{path}", args.content_dir))?;
+					// Replace content based off previous votes.
 					for (hash, value) in &state.content_replace {
 						content = content.replace(hash, value);
 					}
@@ -264,10 +280,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 						current_event.authors_note.as_deref(),
 					);
 					changes.push("init chapter post");
+					// Send post request to FIMFiction.
 					api_post_request(&api, chapter.to_string(), &chapter_url).await?;
 				}
 			}
+			// Get correct story data based off vote count.
 			let update = story_parameters(current_event.clone(), metric, state.likes);
+			// Construct the JSON and replace variables in the data.
 			let json = story_json(
 				args.story_id,
 				&replace_text(&update.title, &replace),
@@ -275,35 +294,47 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				&replace_text(&update.description, &replace),
 			);
 			changes.push("story update");
+			// Send patch request to FIMFiction.
 			let response = api_patch_request(&api, json, &story_url).await?;
+			// Derserialize to confirm the changes worked.
 			let _ = response.json::<StoryApi<u32>>().await?;
 		} else if state.elapsed >= current_event.duration - args.result_duration
 			&& state.elapsed < current_event.duration
 		{
+			// Post a result chapter if it's the first tick of the result.
 			if state.elapsed == current_event.duration - args.result_duration {
+				// Check if the vote passed.
 				let passed = metric >= state.likes + current_event.like_delta;
+				// Get results for the vote.
 				let result = vote_results(current_event.result.clone(), passed);
 				let mut content =
 					fs::read_to_string(format!("{}{}", args.content_dir, result.content))?;
+				// Extend stored replacements if they are set.
 				if let Some(replacements) = result.content_replace.clone() {
 					state.content_replace.extend(replacements);
 				}
+				// Replace content based off previous votes.
 				for (hash, value) in &state.content_replace {
 					content = content.replace(hash, value);
 				}
+				// Construct the JSON.
 				let chapter = chapter_json(
 					&current_event.result.chapter_title,
 					&content,
 					current_event.result.authors_note.as_deref(),
 				);
 				changes.push("result chapter post");
+				// Send post request to FIMFiction.
 				api_post_request(&api, chapter.to_string(), &chapter_url).await?;
+				// Save the outcome in the state variable.
 				state.outcome = Some(result);
 			}
+			// Get outcome that we know is set.
 			let outcome = state
 				.outcome
 				.clone()
 				.expect("Outcome should always be present.");
+			// Construct the JSON and replace variables in the data.
 			let json = story_json(
 				args.story_id,
 				&replace_text(&outcome.title, &replace),
@@ -315,19 +346,26 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				),
 			);
 			changes.push("result story update");
+			// Send patch request to FIMFiction.
 			let response = api_patch_request(&api, json, &story_url).await?;
+			// Derserialize to confirm the changes worked.
 			let _ = response.json::<StoryApi<u32>>().await?;
 		}
+		// Increment the elapsed time.
 		state.elapsed += 1;
+		// Save changes to disk.
 		fs::write(
 			args.event_state_json.clone(),
 			serde_json::to_string(&state)?,
 		)?;
+		// End of tick logging.
 		println!(
 			"{time} - diff: {:0>2}, rec: {:0>2}, total: {:0>3}, mins left: {:0>2}",
 			replace.like_diff, replace.like_rec, replace.like_total, replace.minutes_left
 		);
+		// Change logging.
 		println!("{}", changes.join(", "));
+		// Handling for end of tick.
 		if state.elapsed == current_event.duration {
 			if let Some(next) = current_event.next_event {
 				state.outcome = None;
@@ -337,6 +375,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			}
 			// If we finish, set chapter to MAX to error on restart.
 			state.chapter = u32::MAX;
+			// End of programm logging.
 			let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
 			let runtime = program_start.timestamp_millis() - Utc::now().timestamp_millis();
 			println!(
