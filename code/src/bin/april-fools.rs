@@ -523,14 +523,14 @@ fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value
 }
 
 fn story_json(id: u32, title: &str, short_description: &str, description: &str) -> String {
-	let mut attributes = HashMap::new();
-	attributes.insert("title", title);
-	attributes.insert("short_description", short_description);
-	attributes.insert("description", description);
 	let json = json!({
 		"data": {
 			"id": id,
-			"attributes": serde_json::to_value(attributes).unwrap()
+			"attributes": {
+				"title": title,
+				"description": description,
+				"short_description": short_description
+			}
 		}
 	});
 	serde_json::to_string(&json).unwrap()
