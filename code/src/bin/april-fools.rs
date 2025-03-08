@@ -10,7 +10,6 @@ use std::collections::HashMap;
 use std::env;
 use std::error::Error;
 use std::fs;
-use std::process::exit;
 use std::time::Duration;
 use tokio::time::timeout;
 use wiwi::clock_timer::chrono::Utc;
@@ -379,6 +378,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			}
 			// If we finish, set chapter to MAX to error on restart.
 			state.chapter = u32::MAX;
+			// Save file if events are all over.
+			fs::write(
+				args.event_state_json.clone(),
+				serde_json::to_string(&state)?,
+			)?;
 			// End of programm logging.
 			let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
 			let runtime = program_start.timestamp_millis() - Utc::now().timestamp_millis();
@@ -386,7 +390,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				"{time}: event completed with a runtime of {}",
 				format_milliseconds(runtime as u128, None)?
 			);
-			exit(0);
+			break;
 		};
 	}
 	Ok(())
