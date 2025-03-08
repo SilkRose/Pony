@@ -270,9 +270,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			let update = story_parameters(current_event.clone(), metric, state.likes);
 			let json = story_json(
 				args.story_id,
-				Some(&replace_text(&update.title, &replace)),
-				Some(&replace_text(&update.short_description, &replace)),
-				Some(&replace_text(&update.description, &replace)),
+				&replace_text(&update.title, &replace),
+				&replace_text(&update.short_description, &replace),
+				&replace_text(&update.description, &replace),
 			);
 			changes.push("story update");
 			let response = api_patch_request(&api, json, &story_url).await?;
@@ -306,13 +306,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				.expect("Outcome should always be present.");
 			let json = story_json(
 				args.story_id,
-				Some(&replace_text(&outcome.title, &replace)),
-				Some(&replace_text(&outcome.short_description, &replace)),
-				Some(&format!(
+				&replace_text(&outcome.title, &replace),
+				&replace_text(&outcome.short_description, &replace),
+				&format!(
 					"{}\n\n[hr]\n\n{}",
 					replace_text(&outcome.short_description, &replace),
 					replace_text(&current_event.description, &replace)
-				)),
+				),
 			);
 			changes.push("result story update");
 			let response = api_patch_request(&api, json, &story_url).await?;
@@ -522,20 +522,11 @@ fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value
 	})
 }
 
-fn story_json(
-	id: u32, title: Option<&String>, short_description: Option<&String>,
-	description: Option<&String>,
-) -> String {
+fn story_json(id: u32, title: &str, short_description: &str, description: &str) -> String {
 	let mut attributes = HashMap::new();
-	if let Some(name) = title {
-		attributes.insert("title", name);
-	}
-	if let Some(short_desc) = short_description {
-		attributes.insert("short_description", short_desc);
-	}
-	if let Some(desc) = description {
-		attributes.insert("description", desc);
-	}
+	attributes.insert("title", title);
+	attributes.insert("short_description", short_description);
+	attributes.insert("description", description);
 	let json = json!({
 		"data": {
 			"id": id,
