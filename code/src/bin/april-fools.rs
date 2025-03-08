@@ -391,7 +391,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> StoryData {
 	match (starting_likes + chapter.like_delta).cmp(&total_likes) {
-		Ordering::Less => StoryData {
+		Ordering::Greater => StoryData {
 			title: chapter.title_below,
 			description: format!(
 				"{}\n\n[hr]\n\n{}",
@@ -407,7 +407,7 @@ fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> 
 			),
 			short_description: chapter.short_description_exact,
 		},
-		Ordering::Greater => StoryData {
+		Ordering::Less => StoryData {
 			title: chapter.title_above,
 			description: format!(
 				"{}\n\n[hr]\n\n{}",
