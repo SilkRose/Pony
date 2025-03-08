@@ -1,6 +1,6 @@
 use pony::command::execute_command;
 use pony::fimfiction_api::story::StoryApi;
-use pony::time::format_milliseconds;
+use pony::time::{format_milliseconds, unix_time};
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use reqwest::{Client, Response};
 use serde::{Deserialize, Serialize};
@@ -11,7 +11,7 @@ use std::env;
 use std::error::Error;
 use std::fs;
 use std::process::exit;
-use std::time::{Duration, SystemTime, UNIX_EPOCH};
+use std::time::Duration;
 use tokio::time::timeout;
 use wiwi::clock_timer::chrono::Utc;
 use wiwi::prelude::*;
@@ -502,10 +502,6 @@ async fn sleep(start_time: u128, interval: Duration) -> Result<(), Box<dyn std::
 	};
 	tokio::time::sleep(interval - elapsed_time).await;
 	Ok(())
-}
-
-fn unix_time() -> Result<u128, Box<dyn std::error::Error>> {
-	Ok(SystemTime::now().duration_since(UNIX_EPOCH)?.as_millis())
 }
 
 fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value {
