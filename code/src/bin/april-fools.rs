@@ -29,7 +29,7 @@ struct Chapter {
 	// Title for setting when no vote is taking place.
 	like_delta: i32,
 	// Title for the chapter.
-	chapter_title: String,
+	chapter_title: Option<String>,
 	// Content to post.
 	content: Option<String>,
 	// The title for before the vote passes.
@@ -274,8 +274,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					for (hash, value) in &state.content_replace {
 						content = content.replace(hash, value);
 					}
+					// Construct the JSON.
 					let chapter = chapter_json(
-						&current_event.chapter_title,
+						&current_event
+							.chapter_title
+							.clone()
+							.expect("Title should be set if content is some."),
 						&content,
 						current_event.authors_note.as_deref(),
 					);
@@ -385,7 +389,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			exit(0);
 		};
 	}
-
 	Ok(())
 }
 
