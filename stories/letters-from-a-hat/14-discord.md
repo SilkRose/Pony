@@ -65,7 +65,7 @@ Last year, matters became a bit... hare raising. I even gave birth to a few worr
 
 Never mind. I was just joking. About you suggesting I eat an Apple. Not the vomit. That's very real.
 
-you thank, I guess!
+you thank, I suppose!
 
 But maybe Fluttershy could be a third wheel to our tricycle... If she wants. Of course.
 
