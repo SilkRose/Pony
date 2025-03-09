@@ -1,8 +1,9 @@
 use pony::command::execute_command;
 use pony::fimfiction_api::story::StoryApi;
-use pony::time::{format_milliseconds, sleep_tokio, unix_time};
+use pony::http::{Request, api_get_request, api_patch_request, api_post_request};
+use pony::time::{format_milliseconds, unix_time};
+use reqwest::Client;
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
-use reqwest::{Client, Response};
 use serde::{Deserialize, Serialize};
 use serde_json::{Value, json};
 use std::cmp::Ordering;
@@ -11,7 +12,6 @@ use std::env;
 use std::error::Error;
 use std::fs;
 use std::time::Duration;
-use tokio::time::timeout;
 use wiwi::clock_timer::chrono::Utc;
 use wiwi::prelude::*;
 
@@ -133,17 +133,6 @@ struct Arguments {
 	api_responses_json: String,
 }
 
-#[derive(Debug, Clone)]
-struct FimficRequest {
-	client: Client,
-	headers: HeaderMap,
-	interval: Duration,
-	interval_step: Duration,
-	interval_max: Duration,
-	timeout: Duration,
-	max_tries: u32,
-}
-
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	// 0 - ./april-fools
@@ -170,7 +159,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let chapter_url = format!("{story_url}/chapters");
 
 	// API request structs, client, headers, and time intervals.
-	let api = FimficRequest {
+	let api = Request {
 		client: Client::new(),
 		headers: setup_api_headers(&api_token)?,
 		interval: Duration::from_millis(500),
@@ -450,94 +439,6 @@ fn setup_api_headers(token: &str) -> Result<HeaderMap, Box<dyn Error>> {
 	);
 	headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
 	Ok(headers)
-}
-
-macro_rules! api_request {
-	($fun:ident, $method:ident) => {
-		async fn $fun(
-			request: &FimficRequest, body: String, url: &str,
-		) -> Result<Response, Box<dyn std::error::Error>> {
-			let mut interval = request.interval;
-			let mut tries = 1;
-			loop {
-				let start_time = unix_time()?;
-				let res = timeout(
-					request.timeout,
-					request
-						.client
-						.$method(url)
-						.body(body.clone())
-						.headers(request.headers.clone())
-						.send(),
-				)
-				.await;
-				match res {
-					Ok(Ok(response)) => {
-						return Ok(response);
-					}
-					Ok(Err(error)) => {
-						println!("Request failed: {error}");
-					}
-					Err(error) => {
-						println!("Request timed out: {error}");
-					}
-				}
-				sleep_tokio(start_time, interval).await?;
-				interval = if interval < request.interval_max {
-					interval + request.interval_step
-				} else {
-					request.interval_max
-				};
-				if tries > request.max_tries {
-					return Err("Max tries reached!".into());
-				}
-				tries += 1;
-			}
-		}
-	};
-}
-
-api_request!(api_post_request, post);
-api_request!(api_patch_request, patch);
-
-async fn api_get_request(
-	request: &FimficRequest, url: &str,
-) -> Result<Response, Box<dyn std::error::Error>> {
-	let mut interval = request.interval;
-	let mut tries = 1;
-	loop {
-		let start_time = unix_time()?;
-		let res = timeout(
-			request.timeout,
-			request
-				.client
-				.get(url)
-				.headers(request.headers.clone())
-				.send(),
-		)
-		.await;
-		match res {
-			Ok(Ok(response)) => {
-				return Ok(response);
-			}
-			Ok(Err(error)) => {
-				println!("Request failed: {error}");
-			}
-			Err(error) => {
-				println!("Request timed out: {error}");
-			}
-		}
-		sleep_tokio(start_time, interval).await?;
-		interval = if interval < request.interval_max {
-			interval + request.interval_step
-		} else {
-			request.interval_max
-		};
-		if tries > request.max_tries {
-			return Err("Max tries reached!".into());
-		}
-		tries += 1;
-	}
 }
 
 fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value {

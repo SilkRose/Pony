@@ -8,6 +8,7 @@ pub mod command;
 pub mod experience;
 pub mod fimfiction_api;
 pub mod fs;
+pub mod http;
 pub mod json;
 pub mod markdown;
 pub mod number_format;
