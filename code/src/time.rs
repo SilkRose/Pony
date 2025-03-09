@@ -3,28 +3,19 @@ use std::time::{Duration, SystemTime, UNIX_EPOCH};
 
 type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
 
-#[derive(Debug, Clone)]
-pub struct TimeUnit {
-	pub single: &'static str,
-	pub multiple: &'static str,
-	pub milliseconds: u128,
-}
-
-pub fn sleep(start_time: u128, interval: u128) -> Result<()> {
-	let current_time = unix_time()?;
-	let elapsed_time = current_time - start_time;
+pub fn sleep(start_time: Duration, interval: Duration) -> Result<()> {
+	let elapsed_time = unix_time()? - start_time;
 	if elapsed_time > interval {
 		return Ok(());
 	};
-	std::thread::sleep(Duration::from_millis((interval - elapsed_time) as u64));
+	std::thread::sleep(interval - elapsed_time);
 	Ok(())
 }
 
 pub async fn sleep_tokio(
-	start_time: u128, interval: Duration,
+	start_time: Duration, interval: Duration,
 ) -> Result<(), Box<dyn std::error::Error>> {
-	let current_time = unix_time()?;
-	let elapsed_time = Duration::from_millis((current_time - start_time).try_into()?);
+	let elapsed_time = unix_time()? - start_time;
 	if elapsed_time > interval {
 		return Ok(());
 	};
@@ -32,14 +23,14 @@ pub async fn sleep_tokio(
 	Ok(())
 }
 
-pub fn unix_time() -> Result<u128> {
-	Ok(SystemTime::now().duration_since(UNIX_EPOCH)?.as_millis())
+pub fn unix_time() -> Result<Duration> {
+	Ok(SystemTime::now().duration_since(UNIX_EPOCH)?)
 }
 
-pub fn sleep_until_interval(interval: u128) -> Result<()> {
-	let start_time = unix_time()?;
-	let end_time = start_time % interval;
-	sleep(start_time, end_time)
+struct TimeUnit {
+	single: &'static str,
+	multiple: &'static str,
+	milliseconds: u128,
 }
 
 pub fn format_milliseconds(ms: u128, max_units: Option<u8>) -> Result<String> {

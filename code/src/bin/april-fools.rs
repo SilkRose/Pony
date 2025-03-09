@@ -217,7 +217,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			continue;
 		}
 		// API story response get and save.
-		let time = unix_time()?;
+		let time = unix_time()?.as_millis();
 		let current_event = events
 			.get(&state.chapter)
 			.expect("Event should be present.");
