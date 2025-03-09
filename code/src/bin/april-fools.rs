@@ -306,7 +306,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			);
 			changes.push("story update");
 			// Send patch request to FIMFiction.
-			let response = api_patch_request(&api, json, &story_url).await?;
+			let response = api_patch_request(&api, json.to_string(), &story_url).await?;
 			// Derserialize to confirm the changes worked.
 			let _ = response.json::<StoryApi<u32>>().await?;
 		} else if state.elapsed >= current_event.duration - args.result_duration
@@ -358,7 +358,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			);
 			changes.push("result story update");
 			// Send patch request to FIMFiction.
-			let response = api_patch_request(&api, json, &story_url).await?;
+			let response = api_patch_request(&api, json.to_string(), &story_url).await?;
 			// Derserialize to confirm the changes worked.
 			let _ = response.json::<StoryApi<u32>>().await?;
 		}
@@ -468,9 +468,9 @@ fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value
 	})
 }
 
-fn story_json(id: u32, title: &str, short_description: &str, description: &str) -> String {
-	let json = json!({
+fn story_json(id: u32, title: &str, short_description: &str, description: &str) -> Value {
 	// Construct the json for story updates.
+	json!({
 		"data": {
 			"id": id,
 			"attributes": {
@@ -479,8 +479,7 @@ fn story_json(id: u32, title: &str, short_description: &str, description: &str) 
 				"short_description": short_description
 			}
 		}
-	});
-	serde_json::to_string(&json).unwrap()
+	})
 }
 
 fn replace_text(text: &str, replace: &Replacements) -> String {
