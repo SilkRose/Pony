@@ -1,15 +1,14 @@
 use pony::command::execute_command;
+use pony::fimfiction_api::fimfic_api_headers;
 use pony::fimfiction_api::story::StoryApi;
 use pony::http::{Request, api_get_request, api_patch_request, api_post_request};
 use pony::time::{format_milliseconds, unix_time};
 use reqwest::Client;
-use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use serde::{Deserialize, Serialize};
 use serde_json::{Value, json};
 use std::cmp::Ordering;
 use std::collections::HashMap;
 use std::env;
-use std::error::Error;
 use std::fs;
 use std::time::Duration;
 use wiwi::clock_timer::chrono::Utc;
@@ -161,7 +160,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	// API request structs, client, headers, and time intervals.
 	let api = Request {
 		client: Client::new(),
-		headers: setup_api_headers(&api_token)?,
+		headers: fimfic_api_headers(None, &api_token)?,
 		interval: Duration::from_millis(500),
 		interval_step: Duration::from_secs(2),
 		interval_max: Duration::from_secs(120),
@@ -429,16 +428,6 @@ fn vote_results(options: VoteResult, passed: bool) -> VoteOutcome {
 			content_replace: options.content_fail_replace,
 		},
 	}
-}
-
-fn setup_api_headers(token: &str) -> Result<HeaderMap, Box<dyn Error>> {
-	let mut headers = HeaderMap::new();
-	headers.insert(
-		AUTHORIZATION,
-		HeaderValue::from_str(&format!("Bearer {}", token))?,
-	);
-	headers.insert(CONTENT_TYPE, HeaderValue::from_static("application/json"));
-	Ok(headers)
 }
 
 fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value {

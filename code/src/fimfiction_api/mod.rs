@@ -1,4 +1,6 @@
+use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue, USER_AGENT};
 use serde::{Deserialize, Serialize};
+use std::error::Error;
 
 pub mod blog;
 pub mod story;
@@ -40,4 +42,22 @@ pub struct RelationshipData {
 pub struct DataType {
 	pub r#type: String,
 	pub id: String,
+}
+
+pub fn fimfic_api_headers(
+	user_agent: Option<&str>, token: &str,
+) -> Result<HeaderMap, Box<dyn Error>> {
+	let mut headers = HeaderMap::new();
+	if let Some(user_agent) = user_agent {
+		headers.insert(USER_AGENT, HeaderValue::from_str(user_agent)?);
+	}
+	headers.insert(
+		AUTHORIZATION,
+		HeaderValue::from_str(&format!("Bearer {}", token))?,
+	);
+	headers.insert(
+		CONTENT_TYPE,
+		HeaderValue::from_static("application/vnd.api+json"),
+	);
+	Ok(headers)
 }
