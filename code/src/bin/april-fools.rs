@@ -1,6 +1,6 @@
 use pony::command::execute_command;
 use pony::fimfiction_api::story::StoryApi;
-use pony::time::{format_milliseconds, unix_time};
+use pony::time::{format_milliseconds, sleep_tokio, unix_time};
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue};
 use reqwest::{Client, Response};
 use serde::{Deserialize, Serialize};
@@ -482,7 +482,7 @@ macro_rules! api_request {
 						println!("Request timed out: {error}");
 					}
 				}
-				sleep(start_time, interval).await?;
+				sleep_tokio(start_time, interval).await?;
 				interval = if interval < request.interval_max {
 					interval + request.interval_step
 				} else {
@@ -527,7 +527,7 @@ async fn api_get_request(
 				println!("Request timed out: {error}");
 			}
 		}
-		sleep(start_time, interval).await?;
+		sleep_tokio(start_time, interval).await?;
 		interval = if interval < request.interval_max {
 			interval + request.interval_step
 		} else {
@@ -538,16 +538,6 @@ async fn api_get_request(
 		}
 		tries += 1;
 	}
-}
-
-async fn sleep(start_time: u128, interval: Duration) -> Result<(), Box<dyn std::error::Error>> {
-	let current_time = unix_time()?;
-	let elapsed_time = Duration::from_millis((current_time - start_time).try_into()?);
-	if elapsed_time > interval {
-		return Ok(());
-	};
-	tokio::time::sleep(interval - elapsed_time).await;
-	Ok(())
 }
 
 fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value {

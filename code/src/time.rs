@@ -20,6 +20,18 @@ pub fn sleep(start_time: u128, interval: u128) -> Result<()> {
 	Ok(())
 }
 
+pub async fn sleep_tokio(
+	start_time: u128, interval: Duration,
+) -> Result<(), Box<dyn std::error::Error>> {
+	let current_time = unix_time()?;
+	let elapsed_time = Duration::from_millis((current_time - start_time).try_into()?);
+	if elapsed_time > interval {
+		return Ok(());
+	};
+	tokio::time::sleep(interval - elapsed_time).await;
+	Ok(())
+}
+
 pub fn unix_time() -> Result<u128> {
 	Ok(SystemTime::now().duration_since(UNIX_EPOCH)?.as_millis())
 }
