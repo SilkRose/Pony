@@ -52,8 +52,11 @@ struct Chapter {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct StoryData {
+	// New title.
 	title: String,
+	// New long description.
 	description: String,
+	// New short description.
 	short_description: String,
 }
 
@@ -83,9 +86,13 @@ struct VoteResult {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct VoteOutcome {
+	// Chapter title.
 	title: String,
+	// New short description.
 	short_description: String,
+	// Chapter content to post.
 	content: String,
+	// Repalcements to apply to all future chapters.
 	content_replace: Option<HashMap<String, String>>,
 }
 
@@ -117,18 +124,31 @@ struct Replacements {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Arguments {
+	// The story ID to update.
 	story_id: u32,
+	// The unix time in seconds to start at.
 	start_time: i64,
+	// Skips past events, this should always be true.
 	skip_past_events: bool,
+	// Duration in hours, set this to a high number.
 	duration_hours: i64,
+	// Interval in minutes, should be 1.
 	interval_minutes: i64,
+	// Minutes a result chapter should be posted before the end of an event.
 	result_duration: i32,
+	// Covers directory.
 	covers_dir: String,
+	// Content directory.
 	content_dir: String,
+	// Cover mane.js file path.
 	cover_mane_js: String,
+	// Events json file path.
 	events_json: String,
+	// State json file path.
 	event_state_json: String,
+	// FIMFiction cookie.json file path.
 	fimfic_cookie_json: String,
+	// Response json file path.
 	api_responses_json: String,
 }
 
@@ -385,6 +405,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 
 fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> StoryData {
+	// Get the story data for if likes is above, at, or below than the target.
+	// \n\n[hr]\n\n is to format the long description correctly with the short description at the top.
 	match (starting_likes + chapter.like_delta).cmp(&total_likes) {
 		Ordering::Greater => StoryData {
 			title: chapter.title_below,
@@ -414,6 +436,7 @@ fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> 
 }
 
 fn vote_results(options: VoteResult, passed: bool) -> VoteOutcome {
+	// Returns the data based off if the vote passed.
 	match passed {
 		true => VoteOutcome {
 			title: options.title_pass,
@@ -431,6 +454,7 @@ fn vote_results(options: VoteResult, passed: bool) -> VoteOutcome {
 }
 
 fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value {
+	// Construct the json for chapters.
 	json!({
 		 "data": {
 			  "type": "chapter",
@@ -446,6 +470,7 @@ fn chapter_json(title: &str, content: &str, authors_note: Option<&str>) -> Value
 
 fn story_json(id: u32, title: &str, short_description: &str, description: &str) -> String {
 	let json = json!({
+	// Construct the json for story updates.
 		"data": {
 			"id": id,
 			"attributes": {
@@ -459,9 +484,11 @@ fn story_json(id: u32, title: &str, short_description: &str, description: &str) 
 }
 
 fn replace_text(text: &str, replace: &Replacements) -> String {
+	// Variable setup.
 	let mut result = String::new();
 	let tokens = text.split('%');
 	for token in tokens {
+		// Check for plural | singular replacement.
 		if token.starts_with("ld[") && token.ends_with("]") {
 			result.push_str(&split_count(token, replace.like_diff));
 		} else if token.starts_with("lr[") && token.ends_with("]") {
@@ -470,6 +497,7 @@ fn replace_text(text: &str, replace: &Replacements) -> String {
 			result.push_str(&split_count(token, replace.like_total));
 		} else if token.starts_with("ml[") && token.ends_with("]") {
 			result.push_str(&split_count(token, replace.minutes_left));
+		// Check for normal replacement.
 		} else if token == "ld" {
 			result.push_str(&replace.like_diff.to_string());
 		} else if token == "lr" {
@@ -486,6 +514,7 @@ fn replace_text(text: &str, replace: &Replacements) -> String {
 }
 
 fn split_count(token: &str, count: i32) -> String {
+	// Check and return based off if count is 1.
 	let (plural, single) = token.split_once('|').expect("Should always be present.");
 	if count == 1 {
 		single.trim_end_matches(']').to_string()
