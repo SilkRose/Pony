@@ -14,5 +14,21 @@ In the name of friendship, I would like to say one more thing: Whether or not yo
 
 If nothing else, please consider taking my invitation to next year’s gala seriously. It’s much more fun with you around!
 
+Now, to fulfil my duty as another link in this chain and pass on the ever-growing list of advice!
+
+Pinkie: "Friendship is like a party, both are fun and lead to smiles."
+
+Applejack: "It's always worth it to give your family and friends a little love whenever you see them."
+
+Fluttershy: "Hug your closest pony."
+
+Rainbow Dash: "Don't be afraid to ask for help; even somepony as cool as me, or as cool as you, cannot be expected to solve every problem on their own."
+
+Spike: "Words are strong."
+
+Starlight Glimmer: “There's a world outside your head. Don't be afraid to let it in.”
+
+If I may save you the trouble of summarizing my own words, allow me to do it for you: “Be not defined by your past mistakes. After all, the sun will always rise again. Today is a new day!”
+
 With care,  
 Princess Celestia
