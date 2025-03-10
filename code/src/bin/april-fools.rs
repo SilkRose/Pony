@@ -14,10 +14,10 @@ use std::time::Duration;
 use wiwi::clock_timer::chrono::Utc;
 use wiwi::prelude::*;
 
-type Events = HashMap<u32, Chapter>;
+type Events = HashMap<u32, ChapterEvent>;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
-struct Chapter {
+struct ChapterEvent {
 	// ID of the next chapter event.
 	next_event: Option<u32>,
 	// Duration of the event.
@@ -47,7 +47,7 @@ struct Chapter {
 	// Authors note.
 	authors_note: Option<String>,
 	// Vote result object.
-	result: VoteResult,
+	result: ResultEvent,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
@@ -61,7 +61,7 @@ struct StoryData {
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
-struct VoteResult {
+struct ResultEvent {
 	// The title for if the vote fails.
 	title_fail: String,
 	// The title for if the vote passes.
@@ -85,7 +85,7 @@ struct VoteResult {
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
-struct VoteOutcome {
+struct ResultData {
 	// Chapter title.
 	title: String,
 	// New short description.
@@ -105,7 +105,7 @@ struct EventState {
 	// Last event.
 	chapter: u32,
 	// The outcome of the vote.
-	outcome: Option<VoteOutcome>,
+	outcome: Option<ResultData>,
 	// Replacements for votes.
 	content_replace: HashMap<String, String>,
 }
@@ -404,7 +404,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	Ok(())
 }
 
-fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> StoryData {
+fn story_parameters(chapter: ChapterEvent, total_likes: i32, starting_likes: i32) -> StoryData {
 	// Get the story data for if likes is above, at, or below than the target.
 	// \n\n[hr]\n\n is to format the long description correctly with the short description at the top.
 	match (starting_likes + chapter.like_delta).cmp(&total_likes) {
@@ -435,16 +435,16 @@ fn story_parameters(chapter: Chapter, total_likes: i32, starting_likes: i32) -> 
 	}
 }
 
-fn vote_results(options: VoteResult, passed: bool) -> VoteOutcome {
+fn vote_results(options: ResultEvent, passed: bool) -> ResultData {
 	// Returns the data based off if the vote passed.
 	match passed {
-		true => VoteOutcome {
+		true => ResultData {
 			title: options.title_pass,
 			short_description: options.short_description_pass,
 			content: options.content_pass,
 			content_replace: options.content_pass_replace,
 		},
-		false => VoteOutcome {
+		false => ResultData {
 			title: options.title_fail,
 			short_description: options.short_description_fail,
 			content: options.content_fail,
