@@ -128,12 +128,6 @@ struct Arguments {
 	story_id: u32,
 	// The unix time in seconds to start at.
 	start_time: i64,
-	// Skips past events, this should always be true.
-	skip_past_events: bool,
-	// Duration in hours, set this to a high number.
-	duration_hours: i64,
-	// Interval in minutes, should be 1.
-	interval_minutes: i64,
 	// Minutes a result chapter should be posted before the end of an event.
 	result_duration: i32,
 	// Covers directory.
@@ -191,9 +185,10 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	// Time variables.
 	let program_start = Utc::now();
 	let start_time = DateTime::from_timestamp(args.start_time, 0).unwrap();
-	let duration = TimeDelta::try_hours(args.duration_hours).unwrap();
-	let interval = TimeDelta::try_minutes(args.interval_minutes).unwrap();
-	let end_time = start_time.checked_add_signed(duration).unwrap();
+	// Event ends when all chapter events finish.
+	let duration = TimeDelta::try_hours(1_000_000).unwrap();
+	// Interval is always 1 minute.
+	let interval = TimeDelta::try_minutes(1).unwrap();
 	let program_start_utc = program_start.format("%Y-%m-%d %H:%M:%S").to_string();
 	let start_utc = start_time.format("%Y-%m-%d %H:%M:%S").to_string();
 	let start_diff = program_start.timestamp_millis() - start_time.timestamp_millis();
@@ -206,22 +201,21 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		.build();
 
 	// Program start log.
-	if program_start < start_time {
-		println!(
+	match program_start < start_time {
+		true => println!(
 			"{program_start_utc}: event will start in {} at {start_utc}",
 			format_milliseconds(start_diff.unsigned_abs() as u128, None)?
-		);
-	} else if program_start > start_time && program_start < end_time {
-		println!(
+		),
+		false => println!(
 			"{program_start_utc}: event started {} ago, at {start_utc}",
 			format_milliseconds(start_diff.unsigned_abs() as u128, None)?
-		);
-	};
+		),
+	}
 
 	// Mane loop.
 	while let Some(tick) = timer.tick().await {
 		// Should always skip past events.
-		if args.skip_past_events && tick.past_due() {
+		if tick.past_due() {
 			continue;
 		}
 		// API story response get and save.
