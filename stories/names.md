@@ -113,3 +113,4 @@ This file contains random story names that don't have enough thought to have the
 - Affection Archive
 - Zero Sum Fame
 - Darling Disaster
+- Pretty Crimes
