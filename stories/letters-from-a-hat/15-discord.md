@@ -2,6 +2,24 @@
 
 Twi||ligh||t Sparkle,
 
+For this "Friendship" project, I suppose I must review a checklist for a really boring section of pass-through messages. Let us then get this inanity out of the way early, so we can bore everycreature before there is a risk that those creatures might peruse the amazing wisdom hidden within my erudite writings.
+
+Pinkie prattled: "Friendship is like a potty, both are fun and lead to smiles." Check.
+
+Applejack added: ".meht ees uoy revenehw evol elttil a sdneirf dna ylimaf ruoy evig ot ti htrow syawla s'tI", check.
+
+Fluttershy wishes to relate that we all should: "Hug your closest pony." Check! Excellent advice. I just returned from hugging her, myself. Fluttershy is **always** my nearest pony. Because she lives in my heart.
+
+Rainbow Dash deigned: "Don't be afraid to ask for help. Rainbow Dash cannot be expected to solve every problem on her own."
+
+Spike shouted with extreme confidence: "**WORDS ARE STRONG**."
+
+Starlight Glimmer susurrated: “There's a world outside your head. D̷̯͈͈͒̉o̸̺̫̫͙̔̅̕͜n̸͚̖͋'̵̪͚̬̼̌́͑̓̓̏ẗ̴̬̕ ̵̞̻̀̃́̉̂b̴̳̏̈́̉̎̈́e̷̝̓̋ ̷͎̺̭͉͂̈̕a̸̹̖̭̱̯̖̋̔͒̇̂f̷̟̙͑̿͛͝r̸̼͒a̵̡̢̪̭̠͕̓͗̿͒̾͝ị̶̡̦̼̦͙̈́͋̐͆͝͠d̷̛͓̩͕̠̙̦͂͗̊̎̏͛ ̷͈̳̼͌̂̔t̵̡̧̹̝͉̜̚ỏ̷̯̙̩̮͌͗̏̿ ̷̧̝̠͙͓͓́͆̽͒̚͘**l̴̖̞͍͂̆̒͛e̸̩͓͎̜̾̄̄̄͠t̴͕̟͈͛̀̑͝ ̷̧̛͙̪͇̾̑̈́̚i̷̮̰̓̒̒̀͗̋̅t̷͕̦͎̝̲͔̆̏̔̿ ̵̧̢̧̛͉͉͍̺́͂̅̌͘͝i̷͉̬͑̽͛̀́n̶͚̥̦̹̦̻̘̒͋̆̚”** Heh-heh. Need to be careful around that one. Just last month I helped her out of a sticky situation involving an ungentlemanly chap with tentacles protruding from everywhere who was threatening to--well, that's neither here nor there and it's not my story to tell of how she got herself entangled in that situation, is it? By chaos, was she ever twisted in a pickle. And I am _certain_ you have heard all about it already.
+
+Celestia chuckled: “Be not defined by your past mistakes. After all, the sun will always rise again. Today is a new day!” Gah. I disagree. If Luna moons us, then the sun will be unable to rise. I thought the whole purpose of saving her from Nightmare Moon was because Equestria would otherwise be shrouded in eternal darkness? Hem-hem.
+
+And then, speaking unto them, raising a defiant claw to the sky, holding the crystal of knowledge, and holding one claw down, grasping the toilet paper of ignorance, his holiness Discord, the CDXVIth of Our name, declaimed: "Do not do unto others what you--pineapples!"
+
 Friendship 'Sonnet' Number Won  
 _It excites mes to announces thats I gets to writes to yous_  
 _I don haf ta youse proffer grandmer or puncutalization rulz_  
