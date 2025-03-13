@@ -2,7 +2,7 @@
 
 I stand in front of Twilight's front door, my hoof a few inches from the door. I take a few seconds to get my bearings and knock.
 
-*You can do this Pinkie. You're just trying to spend time with her.*
+*You can do this, Pinkie. You're just trying to spend time with her.*
 
 Twilight answers the door and greets me. I don't seem to notice.
 
@@ -72,9 +72,7 @@ I look around and notice Twilight has put away the rest of the books with her ma
 
 I say, "That was fun, how'd I do?"
 
-Twilight looks at the shelf for 'L' and nearly has a panic attack. Her eyes go wide as she levitates down the books I put there. "These don't belong there…"
-
-Twilight eye's skitter between the six books and me.
+Twilight looks at the shelf for 'L' and nearly has a panic attack. Twilight's eyes skitter between the six books and me before fixating on the title of the last one. She freezes for a moment before she levitates down the books I put there. "These don't belong there…"
 
 I ask, "Oh, where do they go?"
 
