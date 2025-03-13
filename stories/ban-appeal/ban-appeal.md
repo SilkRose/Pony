@@ -22,3 +22,71 @@ We make it to the main part of the library and the room is a mess. Books are sta
 
 "What have you been working on? This place looks well read."
 
+Twilight falters for a second before recovering. "I was uh, reading about the differences between friendship and romance."
+
+I swear I could see a ting of blush on Twilight's face, but say nothing.
+
+"Sounds interesting. What are we doing first?"
+
+Twilight sighs before saying, "Let's put all these books back on the shelves. I've read them all already."
+
+With a pep in my step and a good friend by my side, I get to work. I pickup one book at a time, looking at it before deciding where it goes.
+
+The first book's title is: 'What is Love? A Complete Guide to Romantic Relationships'.
+
+*That's easy, it goes under 'L' for love!*
+
+The second is: 'How to Ask out your Best Friend'.
+
+*Another piece of cake, 'L' for you Love your best friend.*
+
+As I work I look at Twilight putting away her own pile of books and smile.
+
+*She's so amazing, wanting to learn more about everything.*
+
+I shake the blush from my face as I realize I've been staring and get back to work.
+
+The third book is: '101 Baking Recipes to Impress your Crush'.
+
+*Baking, hmm. Aha, it will go under 'L' because I Love to bake! Yeah.*
+
+The fourth book is: 'How to Tell if your Earth Pony Friend Likes you Back'.
+
+*That's ones tricky. How would you tell?*
+
+*I know, 'L' because I Like Twilight, a lot.*
+
+The fifth book is: 'How to get Closer Romantically to your Cute Best Friend, Who is a Pink Earth Pony Mare'.
+
+*Wow, these books are oddly specific.*
+
+*It should go under… 'L' for Twilight Loves to read!*
+
+I pickup the last book in the pile, it is: 'What to do if Your Crush Comes Over and Offers to Help you in the Middle of you Studying Romance in Order to ask her out'.
+
+*That's the longest book title I've ever seen.*
+
+*'L' for Long. Fits perfectly.*
+
+I look around and notice Twilight has put away the rest of the books with her magic.
+
+I say, "That was fun, how'd I do?"
+
+Twilight looks at the shelf for 'L' and nearly has a panic attack. Her eyes go wide as she levitates down the books I put there. "These don't belong there…"
+
+Twilight eye's skitter between the six books and me.
+
+I ask, "Oh, where do they go?"
+
+Twilight doesn't answer and just levitates the books to their correct places. She gets out a paper bag and starts breathing into it, trying to calm herself.
+
+I hug her. "What's wrong?"
+
+She calms down after a bit and tentatively asks, "You don't have any *other* questions for me?"
+
+"No, I just want to make sure my best friend is okay and try to make her as happy as she makes me."
+
+Twilight hugs back finally, resting her head on me for a moment. "Thank you, Pinkie."
+
+After the hug is over, I ask, "What should we do next? Do you need more help?"
+
