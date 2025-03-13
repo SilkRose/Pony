@@ -15,7 +15,7 @@ Pinkie tries to help around the library to be closer to Twilight, who she has a 
 - Pinkie tries:
    - Helping put the books away.
    - Helping organize Twilight notes.
-   - 
+   - Pinkie quizzes Twilight with her notes.
 - On the third try Twilight has had enough and bans her.
 - They both are in the wrong, Pinkie for overdoing it, Twilight for overreacting.
 - Pinkie goes home crying.
