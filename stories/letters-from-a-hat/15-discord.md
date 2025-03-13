@@ -23,15 +23,15 @@ And then, speaking unto them, raising a defiant claw to the sky, holding the cry
 Friendship 'Sonnet' Number Won  
 _It excites mes to announces thats I gets to writes to yous_  
 _I don haf ta youse proffer grandmer or puncutalization rulz_  
-_I ken specks--til' youse stand no more--with sonik phoniks, kools~_
+_I ken speek--til' youse stand no more o' my phoniks, kools~_
 
 _pish-posh sine._  
 _i ken write rhyme_  
-_leaf is a crime_  
+_friends do crime_  
 _all da' time_
 
 _you like dis' chord_  
-_\[discordantly modern music plays as the prevoius line is read\]_  
+\[discordantly modern music plays as the previous line is read\]  
 _so, y'must love sweet Discord!_
 
 **Discord: In Sincerely**
@@ -76,5 +76,3 @@ You're worth two bits.
 
 Author's Note:
 > If you liked the irreverence, you may enjoy: [https://www.fimfiction.net/story/562314/tryhard-sparkle](https://www.fimfiction.net/story/562314/tryhard-sparkle). My catalogue is here: [https://www.fimfiction.net/user/423060/SparklingTwilight/stories](https://www.fimfiction.net/user/423060/SparklingTwilight/stories)
->
-> If you were here for sweet saccharine stories, then you have my deepest apologies. ![:pinkiecrazy:](../../../emotes/pinkiecrazy.png)
