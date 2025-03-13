@@ -88,5 +88,9 @@ She calms down after a bit and tentatively asks, "You don't have any *other* que
 
 Twilight hugs back finally, resting her head on me for a moment. "Thank you, Pinkie."
 
+"You have some really specific books. I have no idea where you'd even get some of those books."
+
+Twilight giggles and hugs tighter.
+
 After the hug is over, I ask, "What should we do next? Do you need more help?"
 
