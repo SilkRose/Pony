@@ -28,13 +28,13 @@ I swear I could see a ting of blush on Twilight's face, but say nothing.
 
 "Sounds interesting. What are we doing first?"
 
-Twilight sighs before saying, "Let's put all these books back on the shelves. I've read them all already."
+Twilight sighs before saying, "Let's put all these books back on the shelves. I've read almost all of them all already."
 
 With a pep in my step and a good friend by my side, I get to work. I pickup one book at a time, looking at it before deciding where it goes.
 
 The first book's title is: 'What is Love? A Complete Guide to Romantic Relationships'.
 
-*That's easy, it goes under 'L' for love!*
+*That's easy, it goes under 'L' for Love!*
 
 The second is: 'How to Ask out your Best Friend'.
 
@@ -124,6 +124,8 @@ The next note is blue and says:
 
 > I think she's loyal, does she think I am?
 
+I scribble yes.
+
 The fifth note is slightly different, its pink and says:
 
 > I know she's funny, but am I?
@@ -150,7 +152,9 @@ Looking over I see Twilight is done organizing her notes.
 
 Twilight comes over and starts looking at my pile of notes.
 
+I falter. "I uh, I… Hug!"
+
 I quickly hug her as I hear her magic levitating the notes. Repeating after Twilight I start breathing in and out of the same paper bag quietly.
 
-Twilight seems to notice and just hugs me tighter. She whispers to me, "Oh Pinkie, you're such a good friend."
+Twilight seems to notice and hugs me tighter. She whispers to me, "Oh Pinkie, you're such a good friend."
 
