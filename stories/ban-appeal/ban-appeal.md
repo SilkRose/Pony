@@ -92,3 +92,65 @@ Twilight giggles and hugs tighter.
 
 After the hug is over, I ask, "What should we do next? Do you need more help?"
 
+Twilight thinks for a second, looking around the room. She focuses on her desk before saying, "You can help me organize my notes."
+
+"Okay, let's do it!"
+
+Twilight trots over to her desk and scans over all her notes. She uses her magic and levitates a stack of sticky notes to me. "Here, organize these notes."
+
+I take the notes. "Yes, Twilight."
+
+I decide to look over all the notes before deciding how to organize them.
+
+The first note is yellow, and says:
+
+> I think she's kind, does she think I am?
+
+I grab a pen and write my answer, yes.
+
+The next note is orange and says:
+
+> I think she's honest, does she think I am?
+
+I answer yes again.
+
+The next note is white and says:
+
+> I think she's generous, does she think I am?
+
+I write yes and move to the next note.
+
+The next note is blue and says:
+
+> I think she's loyal, does she think I am?
+
+The fifth note is slightly different, its pink and says:
+
+> I know she's funny, but am I?
+
+I write, 'YES!' and move onto the last note.
+
+The last note is even more different, its longer and purple.
+
+> I hope I'm a good friend, I know she is.
+>
+> I love her, but does she love me?
+
+I write a special message to Twilight on the note.
+
+> I love you Twilight! <3
+
+As I finish going over the notes, I realize what I'd done.
+
+*I just confessed to Twilight in her own notes…*
+
+Looking over I see Twilight is done organizing her notes.
+
+*I never organized the notes.*
+
+Twilight comes over and starts looking at my pile of notes.
+
+I quickly hug her as I hear her magic levitating the notes. Repeating after Twilight I start breathing in and out of the same paper bag quietly.
+
+Twilight seems to notice and just hugs me tighter. She whispers to me, "Oh Pinkie, you're such a good friend."
+
