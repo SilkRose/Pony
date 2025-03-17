@@ -148,7 +148,7 @@ As I finish going over the notes, I realize what I'd done.
 
 Looking over I see Twilight is done organizing her notes.
 
-*I never organized the notes.*
+*I never organized the notes, either.*
 
 Twilight comes over and starts looking at my pile of notes.
 
@@ -157,4 +157,10 @@ I falter. "I uh, I… Hug!"
 I quickly hug her as I hear her magic levitating the notes. Repeating after Twilight I start breathing in and out of the same paper bag quietly.
 
 Twilight seems to notice and hugs me tighter. She whispers to me, "Oh Pinkie, you're such a good friend."
+
+After I calm down and the hug is over, we look at each other and smile. I notice a blush fading from Twilight's face as I feel one starting to form on my own.
+
+I paw at the ground and ask, "Did you need help with anything else?"
+
+Twilight levitates the notes I had written on and puts them away before she looks around for our next activity.
 
