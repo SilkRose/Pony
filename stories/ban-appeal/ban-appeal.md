@@ -128,7 +128,7 @@ I scribble yes.
 
 The fifth note is slightly different, its pink and says:
 
-> I know she's funny, but am I?
+> She makes me smile, but do I make her?
 
 I write, 'YES!' and move onto the last note.
 
@@ -163,4 +163,50 @@ After I calm down and the hug is over, we look at each other and smile. I notice
 I paw at the ground and ask, "Did you need help with anything else?"
 
 Twilight levitates the notes I had written on and puts them away before she looks around for our next activity.
+
+I get an idea and decide to speak up. "Ooh, I have an idea we can do!"
+
+Twilight looks at me. "What is it?"
+
+"I can ask you questions about romance to test your knowledge."
+
+Twilight nods. "Sounds good, what's the first one?"
+
+I think for a moment before asking, "What's the difference between friendship and romance?"
+
+"Friendship is a relationship between ponies that is platonic, meaning you don't have romantic feelings for each other. Romance is that, you feel attracted to them on a different level than friendship. You typically would be more physical together and attracted to them physically."
+
+I nod at Twilight. "Good answer."
+
+Twilight smiles.
+
+I ask, "How would a pony know if she has a crush on her friend?"
+
+Twilight takes a moment before answering. She finally says, "Well, the way she thinks and feels about her friend would change. It might start small, like wanting to spend more time with her. You might notice her beauty more. You might want to hug her for longer. You might want to kiss her."
+
+Twilight is blushing now as she does a poor job hiding it by looking away.
+
+I don't say anything and congratulate her. "That's a great answer Twilight!"
+
+Twilight looks back and smiles at me.
+
+I ask my next question, "What should somepony do when she has a crush on a friend?"
+
+Twilight looks at the floor, her tone saddening. "The best answer is to talk to her. Ask if she feels the same way and don't hide your feelings. But, that's easier said than done. Sometimes the answer is that obvious and not buried in a book somewhere."
+
+I forget all about the questions and ask what's on my mind. "How do I get over the fear and doubt inside to ask you out?"
+
+Tears start to form in Twilight's eyes. "You're suppose to just get over them, I guess. Some ponies talk themselves up before they do it. Other ponies might be too shy and ask in a letter. I don't know what to do…"
+
+I hug Twilight and ask another question. "Why did you start researching romance?"
+
+Twilight hugs back and sniffles. "Because I have a crush…"
+
+I can feel her tears landing on my back and I hug tighter. "Am I your cr—"
+
+Before I can finish my question, Twilight casts a teleport spell. We both let go of the hug as I get accustom to our new location. We are in front of Twilight's house.
+
+I shake my head as Twilight opens her door, she walks inside before turning around the face me.
+
+Twilight's tears were streaming down her face as her voice cracked. "Pinkie, I need to be left alone, you are hereby banned from The Golden Oaks Library until further notice." She closed the door before I could say anything.
 
