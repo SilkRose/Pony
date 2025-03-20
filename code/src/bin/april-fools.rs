@@ -1,3 +1,4 @@
+use chrono_tz::America::New_York;
 use pony::command::execute_command;
 use pony::fimfiction_api::fimfic_api_headers;
 use pony::fimfiction_api::story::StoryApi;
@@ -250,6 +251,13 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			minutes_left: (current_event.duration - state.elapsed - args.result_duration).abs(),
 		};
 
+		// Event ending time for author's note.
+		let event_end = unix_time()? + Duration::from_secs(replace.minutes_left as u64 * 60);
+		let end_time = DateTime::from_timestamp(event_end.as_secs() as i64, 0)
+			.unwrap()
+			.with_timezone(&New_York);
+		let end_string = end_time.format("%I:%M %p").to_string();
+
 		// Variable for keeping track of changes.
 		let mut changes: Vec<&str> = Vec::new();
 		// First if block for while elapsed is before the result chapter.
@@ -275,6 +283,11 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					for (hash, value) in &state.content_replace {
 						content = content.replace(hash, value);
 					}
+					// Replace ending time in author's note.
+					let authors_note = current_event
+						.authors_note
+						.as_ref()
+						.map(|text| text.replace("%ee%", &end_string));
 					// Construct the JSON.
 					let chapter = chapter_json(
 						&current_event
@@ -282,7 +295,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 							.clone()
 							.expect("Title should be set if content is some."),
 						&content,
-						current_event.authors_note.as_deref(),
+						authors_note.as_deref(),
 					);
 					changes.push("init chapter post");
 					// Send post request to FIMFiction.
@@ -322,11 +335,16 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				for (hash, value) in &state.content_replace {
 					content = content.replace(hash, value);
 				}
+				// Replace ending time in author's note.
+				let authors_note = current_event
+					.authors_note
+					.as_ref()
+					.map(|text| text.replace("%ee%", &end_string));
 				// Construct the JSON.
 				let chapter = chapter_json(
 					&current_event.result.chapter_title,
 					&content,
-					current_event.result.authors_note.as_deref(),
+					authors_note.as_deref(),
 				);
 				changes.push("result chapter post");
 				// Send post request to FIMFiction.
