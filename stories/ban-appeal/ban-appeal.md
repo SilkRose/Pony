@@ -18,19 +18,19 @@ Twilight smiles. "Oh, that's very nice of you. Come on in." She leads me inside.
 
 We make it to the main part of the library and the room is a mess. Books are stacked up all over the place. Notes are littering Twilight desk.
 
-*She must have done some serious studying lately, wow.*
+*Wow, she must have done some serious studying recently.*
 
 "What have you been working on? This place looks well read."
 
 Twilight falters for a second before recovering. "I was uh, reading about the differences between friendship and romance."
 
-I swear I could see a ting of blush on Twilight's face, but say nothing.
+I swear I could see a tinge of blush on Twilight's face, but say nothing.
 
 "Sounds interesting. What are we doing first?"
 
-Twilight sighs before saying, "Let's put all these books back on the shelves. I've read almost all of them all already."
+Twilight sighs. "Let's put all these books back on the shelves. I've read almost all of them all already."
 
-With a pep in my step and a good friend by my side, I get to work. I pickup one book at a time, looking at it before deciding where it goes.
+With a pep in my step and a good friend by my side, I get to work! I pick up one book at a time, and look at it before deciding where it goes.
 
 The first book's title is: 'What is Love? A Complete Guide to Romantic Relationships'.
 
@@ -42,13 +42,13 @@ The second is: 'How to Ask out your Best Friend'.
 
 As I work I look at Twilight putting away her own pile of books and smile.
 
-*She's so amazing, wanting to learn more about everything.*
+*She's so amazing, always wanting to learn more about everything.*
 
 I shake the blush from my face as I realize I've been staring and get back to work.
 
 The third book is: '101 Baking Recipes to Impress your Crush'.
 
-*Baking, hmm. Aha, it will go under 'L' because I Love to bake! Yeah.*
+*Baking, hmm… I know! It will go under 'L' because I Love to bake! Yeah.*
 
 The fourth book is: 'How to Tell if your Earth Pony Friend Likes you Back'.
 
@@ -74,17 +74,17 @@ I say, "That was fun, how'd I do?"
 
 Twilight looks at the shelf for 'L' and nearly has a panic attack. Twilight's eyes skitter between the six books and me before fixating on the title of the last one. She freezes for a moment before she levitates down the books I put there. "These don't belong there…"
 
-I ask, "Oh, where do they go?"
+I ask, curiously, "Oh, where do they go?"
 
-Twilight doesn't answer and just levitates the books to their correct places. She gets out a paper bag and starts breathing into it, trying to calm herself.
+Twilight doesn't answer and just levitates the books to their correct places. She gets out a paper bag and starts breathing into it to try to calm herself.
 
-I hug her. "What's wrong?"
+"What's wrong, Twilight?", I ask, and offer her a hug.
 
 She calms down after a bit and tentatively asks, "You don't have any *other* questions for me?"
 
-"No, I just want to make sure my best friend is okay and try to make her as happy as she makes me."
+"Nope, I just want to make sure my best friend is okay, and to make her as happy as she makes me."
 
-Twilight hugs back finally, resting her head on me for a moment. "Thank you, Pinkie."
+Twilight hugs back finally, and rests her head on me for a moment. "Thank you, Pinkie."
 
 "You have some really specific books. I have no idea where you'd even get some of those books."
 
@@ -92,7 +92,7 @@ Twilight giggles and hugs tighter.
 
 After the hug is over, I ask, "What should we do next? Do you need more help?"
 
-Twilight thinks for a second, looking around the room. She focuses on her desk before saying, "You can help me organize my notes."
+Twilight thinks for a second, looking around the room. She focuses on her desk and responds, "You can help me organize my notes."
 
 "Okay, let's do it!"
 
@@ -158,7 +158,7 @@ I quickly hug her as I hear her magic levitating the notes. Repeating after Twil
 
 Twilight seems to notice and hugs me tighter. She whispers to me, "Oh Pinkie, you're such a good friend."
 
-After I calm down and the hug is over, we look at each other and smile. I notice a blush fading from Twilight's face as I feel one starting to form on my own.
+After I calm down, we look at each other and smile. I notice a blush fading from Twilight's face as I start to feel one form on my own.
 
 I paw at the ground and ask, "Did you need help with anything else?"
 
@@ -204,7 +204,7 @@ Twilight hugs back and sniffles. "Because I have a crush…"
 
 I can feel her tears landing on my back and I hug tighter. "Am I your cr—"
 
-Before I can finish my question, Twilight casts a teleport spell. We both let go of the hug as I get accustom to our new location. We are in front of Twilight's house.
+Before I can finish my question, Twilight casts a teleport spell. We both let go of the hug as I get accustomed to our new location. We are in front of Twilight's house.
 
 I shake my head as Twilight opens her door, she walks inside before turning around the face me.
 
