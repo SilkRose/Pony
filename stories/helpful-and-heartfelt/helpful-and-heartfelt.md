@@ -1,4 +1,4 @@
-# Ban Appeal
+# Helpful and Heartfelt
 
 I stand in front of Twilight's front door, my hoof a few inches from the door. I take a few seconds to get my bearings and knock.
 
