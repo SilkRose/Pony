@@ -202,11 +202,39 @@ I hug Twilight and ask another question. "Why did you start researching romance?
 
 Twilight hugs back and sniffles. "Because I have a crush…"
 
-I can feel her tears landing on my back and I hug tighter. "Am I your cr—"
+I can feel her tears landing on my back and I hug tighter.
 
-Before I can finish my question, Twilight casts a teleport spell. We both let go of the hug as I get accustomed to our new location. We are in front of Twilight's house.
+As Twilight hugs tighter as well, I realize it's me.
 
-I shake my head as Twilight opens her door, she walks inside before turning around the face me.
+*I'm her best friend.*
 
-Twilight's tears were streaming down her face as her voice cracked. "Pinkie, I need to be left alone, you are hereby banned from The Golden Oaks Library until further notice." She closed the door before I could say anything.
+*I like baking.*
+
+*I'm an earth pony.*
+
+*I'm cute.*
+
+*I'm pink.*
+
+*I came over to help Twilight in the middle of her studying to ask me out.*
+
+The books were about me.
+
+*She thinks I'm kind.*
+
+*She thinks I'm honest.*
+
+*She thinks I'm generous.*
+
+*She thinks I'm loyal.*
+
+*I make her smile.*
+
+*She loves me.*
+
+The notes are about me too.
+
+As tears start to fall from my own eyes, I hug Twilight even tighter and try to whisper to her.
+
+"I love you."
 
