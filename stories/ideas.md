@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Bogus Bits
+
+### Synopsis:
+Pinkie Pie decides to start a business selling bits. what she doesn't realize is that what she's doing has a name… counterfeiting. strangely, nopony else realizes that either, except Twilight, who tries to stop her.
+
+***
+
 ## Rainbow Dash Development
 
 ### Synopsis:
