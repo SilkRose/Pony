@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Deternal
+
+### Synopsis:
+Twilight casts a spell linking her heart to her friends so when the last one dies, she does too.
+
+***
+
 ## Bogus Bits
 
 ### Synopsis:
