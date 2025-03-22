@@ -117,3 +117,4 @@ This file contains random story names that don't have enough thought to have the
 - I See You When I Close My Eyes
 - Visions of the Fast
 - Romantic Friendship
+- Buy my Butt
