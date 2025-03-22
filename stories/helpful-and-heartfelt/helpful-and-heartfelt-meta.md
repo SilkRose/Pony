@@ -1,7 +1,7 @@
 # Helpful and Heartfelt
 
 ## Synopsis:
-Pinkie tries to help around the library to be closer to Twilight, who she has a crush on. Pinkie does too much and makes a mess of the place. Twilight not seeing the reason Pinkie is there, bans her in protest as an attempt to get through to her. Pinkie goes home sad and dejected. After some sulking and crying, she realizes her error and goes to apologize, asking Twilight to unban her.
+Pinkie tries to help around the library to be closer to Twilight, who she has a crush on. Pinkie does too much and makes a mess of the place. Twilight not seeing the reason Pinkie is there, pushes her away in protest so she can think alonr. Pinkie goes home sad and dejected. After some sulking and crying, she realizes her error and goes to apologize. They make up and hug.
 
 ## Description:
 
@@ -16,14 +16,14 @@ Pinkie tries to help around the library to be closer to Twilight, who she has a 
    - Helping put the books away.
    - Helping organize Twilight notes.
    - Pinkie quizzes Twilight with her notes.
-- On the third try Twilight has had enough and bans her.
+- Twilight panics and kicks Pinkie out after the third thing.
 - They both are in the wrong, Pinkie for overdoing it, Twilight for overreacting.
 - Pinkie goes home crying.
 - Pinkie is sad and feels dejected.
 - Twilight is sad and feels bad for how she reacted.
 - Pinkie goes back to apologize.
 - Twilight accepts and apologizes too.
-- Twilight unbans Pinkie and they hug.
+- Twilight and Pinkie hug.
 - Pinkie explains why she came there in the first place.
 - Pinkie asks Twilight out.
 - Twilight says yes.
