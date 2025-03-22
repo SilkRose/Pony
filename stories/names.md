@@ -119,3 +119,6 @@ This file contains random story names that don't have enough thought to have the
 - Romantic Friendship
 - Buy my Butt
 - Counterfeit Confectionery
+- Friendship Flat-line
+- Soul Solidarity
+- Linked Lifespan
