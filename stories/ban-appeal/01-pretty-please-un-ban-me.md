@@ -32,7 +32,7 @@ I'm sorry that you accidentally cuddled me that night. It made me so happy after
 
 I'm sorry that I kissed you the next morning after you woke me up with pancakes shaped like hearts like I had done before. It made me feel loved and happy and I still smile thinking about it. I'm sorry :(
 
-I'm sorry for any wetness or stains on this letter, I've been crying the whole time I've been writing it.. I just love everything about you and you make me feel so different and happy inside. I just want to be friends again.
+I'm sorry for any wetness or stains on this letter, I've been crying the whole time I've been writing it… I just love everything about you and you make me feel so different and happy inside. I just want to be friends again.
 
 I'm sorry I had to writer this letter in the first place.
 
