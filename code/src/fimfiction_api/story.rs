@@ -28,7 +28,7 @@ pub struct StoryAttributes<T = u32> {
 	pub description: String,
 	pub description_html: String,
 	pub date_modified: String,
-	pub date_updated: String,
+	pub date_updated: Option<String>,
 	pub date_published: Option<String>,
 	pub published: bool,
 	pub cover_image: Option<AttributesCoverImage>,
