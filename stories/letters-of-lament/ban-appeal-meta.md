@@ -1,4 +1,4 @@
-# Ban Appeal
+# Letters of Lament
 
 ## Synopsis:
 Pinkie writes a letter asking Twilight to un-ban her.
