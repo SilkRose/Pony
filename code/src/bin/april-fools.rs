@@ -388,8 +388,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		)?;
 		// End of tick logging.
 		println!(
-			"{time} - diff: {:0>2}, rec: {:0>2}, total: {:0>3}, mins left: {:0>2}",
-			replace.like_diff, replace.like_rec, replace.like_total, replace.minutes_left
+			"{time} - diff: {:0>2}, rec: {:0>2}, total: {:0>3}, mins left: {:0>2}, end time: {} EST",
+			replace.like_diff,
+			replace.like_rec,
+			replace.like_total,
+			replace.minutes_left,
+			end_string
 		);
 		// Change logging.
 		println!("{}", changes.join(", "));
