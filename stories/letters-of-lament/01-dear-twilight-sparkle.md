@@ -1,4 +1,4 @@
-# Pretty Please un-ban me?
+# Dear Twilight Sparkle
 
 Dear Twilight Sparkle,
 
