@@ -3,6 +3,7 @@ use pony::command::execute_command;
 use pony::fimfiction_api::fimfic_api_headers;
 use pony::fimfiction_api::story::StoryApi;
 use pony::http::{Request, api_get_request, api_patch_request, api_post_request};
+use pony::markdown;
 use pony::time::{format_milliseconds, unix_time};
 use reqwest::Client;
 use serde::{Deserialize, Serialize};
@@ -288,6 +289,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 						.authors_note
 						.as_ref()
 						.map(|text| text.replace("%ee%", &end_string));
+					// Convert the content from markdown to nncode.
+					content = markdown::bbcode::parse(&content, &markdown::WarningType::Warn);
 					// Construct the JSON.
 					let chapter = chapter_json(
 						&current_event
@@ -340,6 +343,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					.authors_note
 					.as_ref()
 					.map(|text| text.replace("%ee%", &end_string));
+				// Convert the content from markdown to nncode.
+				content = markdown::bbcode::parse(&content, &markdown::WarningType::Warn);
 				// Construct the JSON.
 				let chapter = chapter_json(
 					&current_event.result.chapter_title,
