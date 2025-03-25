@@ -6,7 +6,7 @@ I'm writing to apologize to you. I really messed up and I should have known bett
 
 It started out small, I just wanted to hang out with you more. Simple enough, even harmless back then, but that didn't last long. I didn't know it at the time, but there was a reason I wanted to be around you more.
 
-I like you a lot Twilight, like a lot a lot. Like in a romantic way… I have a crush on you, and instead of just talking to you about it, I went and ruined it all and got myself banned from the library.
+I like you a lot Twilight, like a lot a lot. Like in a romantic way… I have a crush on you, and instead of just talking to you about it, I went and ruined it all and our friendship.
 
 Seeing you mad at me was the worstest feeling I ever felt. Like this sinking pit of helplessness in my stomach that kept going lower and lower. I wanted to hug you and apologize and beg for forgiveness right then and there. But, all I could do was stand there.
 
