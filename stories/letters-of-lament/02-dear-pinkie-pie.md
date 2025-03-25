@@ -2,7 +2,7 @@
 
 Dear Pinkie Pie,
 
-You have nothing to apologize for, you did nothing wrong. I think this is just one big misunderstanding. I'm sorry that you ever felt we weren't friends. I love you and you're my best friend!
+You have nothing to apologize for, you did nothing wrong. I think this is just one big misunderstanding. I'm sorry that you ever felt we weren't friends. I love you and you're my bestest friend!
 
 I should be the one apologizing, I was the one who raised my voice, but I never expected you to react like this. I'm sorry I didn't communicate my feelings in a more constructive manner. I wasn't mad at you for having feelings for me. I was trying to get your attention.
 
@@ -38,7 +38,7 @@ With all that said, I have one thing left to ask.
 
 Pinkie Pie, will you go out with me?
 
-Love,
+Love,  
 Twilight Sparkle
 
 P.S. – You're super duper pretty too!
