@@ -20,8 +20,6 @@ type Events = HashMap<u32, ChapterEvent>;
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct ChapterEvent {
-	// ID of the next chapter event.
-	next_event: Option<u32>,
 	// Duration of the event.
 	duration: i32,
 	// Cover file name, no path included.
@@ -78,6 +76,10 @@ struct ResultEvent {
 	content_pass: String,
 	// Content to pre-pend if the vote fails.
 	content_fail: String,
+	// ID of the next chapter event if the vote passes.
+	next_event_fail: Option<u32>,
+	// ID of the next chapter event if the vote fails.
+	next_event_pass: Option<u32>,
 	// Replacements for if the vote passes.
 	content_pass_replace: Option<HashMap<String, String>>,
 	// Replacements for if the vote fails.
@@ -96,6 +98,8 @@ struct ResultData {
 	content: String,
 	// Repalcements to apply to all future chapters.
 	content_replace: Option<HashMap<String, String>>,
+	// ID of the next event.
+	next_event: Option<u32>,
 }
 
 #[derive(Serialize, Deserialize, Debug, Clone, Default)]
@@ -398,12 +402,14 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		// Change logging.
 		println!("{}", changes.join(", "));
 		// Handling for end of tick.
-		if state.elapsed == current_event.duration {
-			if let Some(next) = current_event.next_event {
-				state.outcome = None;
-				state.chapter = next;
-				state.elapsed = 0;
-				continue;
+		if state.elapsed >= current_event.duration {
+			if let Some(ref outcome) = state.outcome {
+				if let Some(next) = outcome.next_event {
+					state.outcome = None;
+					state.chapter = next;
+					state.elapsed = 0;
+					continue;
+				}
 			}
 			// If we finish, set chapter to MAX to error on restart.
 			state.chapter = u32::MAX;
@@ -464,12 +470,14 @@ fn vote_results(options: ResultEvent, passed: bool) -> ResultData {
 			short_description: options.short_description_pass,
 			content: options.content_pass,
 			content_replace: options.content_pass_replace,
+			next_event: options.next_event_pass,
 		},
 		false => ResultData {
 			title: options.title_fail,
 			short_description: options.short_description_fail,
 			content: options.content_fail,
 			content_replace: options.content_fail_replace,
+			next_event: options.next_event_fail,
 		},
 	}
 }
