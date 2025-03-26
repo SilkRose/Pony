@@ -18,7 +18,7 @@ use wiwi::prelude::*;
 
 type Events = HashMap<u32, ChapterEvent>;
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Serialize, Deserialize, Debug, Clone, PartialEq)]
 struct ChapterEvent {
 	// Duration of the event.
 	duration: i32,
@@ -60,7 +60,7 @@ struct StoryData {
 	short_description: String,
 }
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Serialize, Deserialize, Debug, Clone, PartialEq)]
 struct ResultEvent {
 	// The title for if the vote fails.
 	title_fail: String,
@@ -169,6 +169,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let mut responses: HashMap<u128, StoryApi<i32>> =
 		serde_json::from_str(&fs::read_to_string(&args.api_responses_json).unwrap_or_default())
 			.unwrap_or_default();
+
+	// Check the arugments and events are correct and all files and folders exist.
+	check_arguments(&args)?;
+	let checked = check_events(&events, &args, 0)?;
+	let missing = events
+		.clone()
+		.into_iter()
+		.filter(|event| checked.contains(event))
+		.collect::<Events>();
+	for event in &missing {
+		eprintln!("Missing event:\n{event:?}")
+	}
+	drop(checked);
+	drop(missing);
 
 	// URL setup.
 	let story_url = format!(
@@ -549,4 +563,76 @@ fn split_count(token: &str, count: i32) -> String {
 	} else {
 		plural.split_once('[').unwrap().1.into()
 	}
+}
+
+fn check_arguments(args: &Arguments) -> Result<(), Box<dyn std::error::Error>> {
+	let file_exists = fs::exists(&args.content_dir);
+	if !file_exists? {
+		return Err(format!("Folder missing at: {}", &args.content_dir).into());
+	}
+	let file_exists = fs::exists(&args.covers_dir);
+	if !file_exists? {
+		return Err(format!("Folder missing at: {}", &args.covers_dir).into());
+	}
+	let file_exists = fs::exists(&args.cover_mane_js);
+	if !file_exists? {
+		return Err(format!("File missing at: {}", &args.cover_mane_js).into());
+	}
+	let file_exists = fs::exists(&args.events_json);
+	if !file_exists? {
+		return Err(format!("File missing at: {}", &args.events_json).into());
+	}
+	let file_exists = fs::exists(&args.fimfic_cookie_json);
+	if !file_exists? {
+		return Err(format!("File missing at: {}", &args.fimfic_cookie_json).into());
+	}
+	Ok(())
+}
+
+fn check_events(
+	events: &Events, args: &Arguments, id: u32,
+) -> Result<Vec<(u32, ChapterEvent)>, Box<dyn std::error::Error>> {
+	let mut checked: Vec<(u32, ChapterEvent)> = Vec::new();
+	let event = events.get(&id);
+	if event.is_none() {
+		return Err(format!("Event data missing for ID: {id}").into());
+	}
+	let event = event.unwrap();
+	if let Some(path) = &event.content {
+		let path = format!("{}{path}", args.content_dir);
+		let file_exists = fs::exists(&path);
+		if !file_exists? {
+			return Err(format!("File missing at: {path}").into());
+		}
+		if event.chapter_title.is_none() {
+			return Err(format!("Chapter title missing for event ID: {id}").into());
+		}
+	}
+	if let Some(cover) = &event.cover {
+		let path = format!("{}{}", args.covers_dir, cover);
+		let file_exists = fs::exists(&path);
+		if !file_exists? {
+			return Err(format!("File missing at: {path}").into());
+		}
+	}
+	let result = event.result.clone();
+	if result.next_event_pass.is_none() && result.next_event_fail.is_some() {
+		return Err(format!("Pass event ID missing for next event ID: {id}").into());
+	} else if result.next_event_pass.is_some() && result.next_event_fail.is_none() {
+		return Err(format!("Fail event ID missing for next event ID: {id}").into());
+	}
+	let path = format!("{}{}", args.content_dir, result.content_pass);
+	let file_exists = fs::exists(&path);
+	if !file_exists? {
+		return Err(format!("File missing at: {path}").into());
+	}
+	let path = format!("{}{}", args.content_dir, result.content_fail);
+	let file_exists = fs::exists(&path);
+	if !file_exists? {
+		return Err(format!("File missing at: {path}").into());
+	}
+	checked.extend(check_events(events, args, result.next_event_pass.unwrap())?);
+	checked.extend(check_events(events, args, result.next_event_fail.unwrap())?);
+	checked.push((id, event.clone()));
+	Ok(checked)
 }
