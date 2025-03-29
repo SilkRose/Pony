@@ -631,8 +631,10 @@ fn check_events(
 	if !file_exists? {
 		return Err(format!("File missing at: {path}").into());
 	}
-	checked.extend(check_events(events, args, result.next_event_pass.unwrap())?);
-	checked.extend(check_events(events, args, result.next_event_fail.unwrap())?);
+	if result.next_event_pass.is_some() && result.next_event_fail.is_some() {
+		checked.extend(check_events(events, args, result.next_event_pass.unwrap())?);
+		checked.extend(check_events(events, args, result.next_event_fail.unwrap())?);
+	}
 	checked.push((id, event.clone()));
 	Ok(checked)
 }
