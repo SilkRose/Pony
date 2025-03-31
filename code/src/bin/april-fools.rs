@@ -172,17 +172,17 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 	// Check the arugments and events are correct and all files and folders exist.
 	check_arguments(&args)?;
-	let checked = check_events(&events, &args, 0)?;
+	let checked = check_events(&events, &args, state.chapter)?;
 	let missing = events
 		.clone()
 		.into_iter()
 		.filter(|event| checked.contains(event))
 		.collect::<Events>();
-	for event in &missing {
-		eprintln!("Missing event:\n{event:?}")
-	}
-	drop(checked);
-	drop(missing);
+	let missing = missing
+		.into_iter()
+		.map(|e| e.0.to_string())
+		.collect::<Vec<_>>();
+	println!("Missing events: {}", missing.join(", "));
 
 	// URL setup.
 	let story_url = format!(
