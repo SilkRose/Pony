@@ -258,20 +258,20 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		// Time for logging.
 		let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
 
-		// We use likes for release mode.
-		#[cfg(not(debug_assertions))]
-		let metric = story.data.attributes.num_likes;
+		// Get likes metric.
+		let likes = story.data.attributes.num_likes;
 
-		// We use comments for debug mode.
-		#[cfg(debug_assertions)]
-		let metric = story.data.attributes.num_comments;
+		if state.elapsed == 0 {
+			// Save likes for the rest of the chapter.
+			state.likes = likes;
+		}
 
 		// Replacements for title, short description, and description.
 		let replace = Replacements {
-			like_diff: current_event.like_delta - (metric - state.likes),
-			like_rec: metric - state.likes,
-			like_total: metric,
 			chapter_id: current_event.chapter_id,
+			like_diff: (current_event.like_delta - (likes - state.likes)).abs(),
+			like_rec: likes - state.likes,
+			like_total: likes,
 			minutes_left: (current_event.duration - state.elapsed - args.result_duration).abs(),
 		};
 
@@ -288,8 +288,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 		if state.elapsed < current_event.duration - args.result_duration {
 			// Check if 0 for posting a chapter and updating the cover.
 			if state.elapsed == 0 {
-				// Save likes for the rest of the chapter/
-				state.likes = metric;
 				// Update cover if set.
 				if let Some(ref cover) = current_event.cover {
 					let cover = format!("{}{}", args.covers_dir, cover);
@@ -330,7 +328,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				}
 			}
 			// Get correct story data based off vote count.
-			let update = story_parameters(current_event.clone(), metric, state.likes);
+			let update = story_parameters(current_event.clone(), likes, state.likes);
 			// Construct the JSON and replace variables in the data.
 			let json = story_json(
 				args.story_id,
@@ -349,7 +347,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			// Post a result chapter if it's the first tick of the result.
 			if state.elapsed == current_event.duration - args.result_duration {
 				// Check if the vote passed.
-				let passed = metric >= state.likes + current_event.like_delta;
+				let passed = likes >= state.likes + current_event.like_delta;
 				// Get results for the vote.
 				let result = vote_results(current_event.result.clone(), passed);
 				let mut content =
