@@ -439,7 +439,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 			)?;
 			// End of programm logging.
 			let time = Utc::now().format("%Y-%m-%d %H:%M:%S").to_string();
-			let runtime = program_start.timestamp_millis() - Utc::now().timestamp_millis();
+			let runtime = Utc::now().timestamp_millis() - program_start.timestamp_millis();
 			println!(
 				"{time}: event completed with a runtime of {}",
 				format_milliseconds(runtime as u128, None)?
