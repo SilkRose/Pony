@@ -180,7 +180,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 	let missing = events
 		.clone()
 		.into_iter()
-		.filter(|event| checked.contains(event))
+		.filter(|event| !checked.iter().any(|(id, _)| id == &event.0))
 		.collect::<Events>();
 	let missing = missing
 		.into_iter()
