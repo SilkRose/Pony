@@ -311,7 +311,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 					let authors_note = current_event
 						.authors_note
 						.as_ref()
-						.map(|text| text.replace("%ee%", &end_string));
+						.map(|text| text.replace("%ee%", &end_string))
+						.map(|text| replace_text(&text, &replace));
 					// Convert the content from markdown to nncode.
 					content = markdown::bbcode::parse(&content, &markdown::WarningType::Warn);
 					// Construct the JSON.
@@ -365,7 +366,8 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				let authors_note = current_event
 					.authors_note
 					.as_ref()
-					.map(|text| text.replace("%ee%", &end_string));
+					.map(|text| text.replace("%ee%", &end_string))
+					.map(|text| replace_text(&text, &replace));
 				// Convert the content from markdown to nncode.
 				content = markdown::bbcode::parse(&content, &markdown::WarningType::Warn);
 				// Construct the JSON.
