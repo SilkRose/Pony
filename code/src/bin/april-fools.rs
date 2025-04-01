@@ -362,6 +362,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 				}
 				// Replace ending time in author's note.
 				let authors_note = current_event
+					.result
 					.authors_note
 					.as_ref()
 					.map(|text| text.replace("%ee%", &end_string))
