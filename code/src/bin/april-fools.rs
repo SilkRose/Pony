@@ -176,17 +176,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 	// Check the arugments and events are correct and all files and folders exist.
 	check_arguments(&args)?;
-	let checked = check_events(&events, &args, state.chapter)?;
-	let missing = events
-		.clone()
-		.into_iter()
-		.filter(|event| !checked.iter().any(|(id, _)| id == &event.0))
-		.collect::<Events>();
-	let missing = missing
-		.into_iter()
-		.map(|e| e.0.to_string())
-		.collect::<Vec<_>>();
-	println!("Missing events: {}", missing.join(", "));
+	check_events(&events, &args, state.chapter)?;
 
 	// URL setup.
 	let story_url = format!(
@@ -599,8 +589,7 @@ fn check_arguments(args: &Arguments) -> Result<(), Box<dyn std::error::Error>> {
 
 fn check_events(
 	events: &Events, args: &Arguments, id: u32,
-) -> Result<Vec<(u32, ChapterEvent)>, Box<dyn std::error::Error>> {
-	let mut checked: Vec<(u32, ChapterEvent)> = Vec::new();
+) -> Result<(), Box<dyn std::error::Error>> {
 	let event = events.get(&id);
 	if event.is_none() {
 		return Err(format!("Event data missing for ID: {id}").into());
@@ -640,9 +629,8 @@ fn check_events(
 		return Err(format!("File missing at: {path}").into());
 	}
 	if result.next_event_pass.is_some() && result.next_event_fail.is_some() {
-		checked.extend(check_events(events, args, result.next_event_pass.unwrap())?);
-		checked.extend(check_events(events, args, result.next_event_fail.unwrap())?);
+		check_events(events, args, result.next_event_pass.unwrap())?;
+		check_events(events, args, result.next_event_fail.unwrap())?;
 	}
-	checked.push((id, event.clone()));
-	Ok(checked)
+	Ok(())
 }
