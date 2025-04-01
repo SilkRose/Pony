@@ -21,3 +21,4 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 2. [Dear Pinkie Pie](02-dear-pinkie-pie.md)
 
 ## Cover:
+![cover](./letters-of-lament-cover-upscaled.png)
