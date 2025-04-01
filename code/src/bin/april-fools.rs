@@ -26,8 +26,6 @@ struct ChapterEvent {
 	cover: Option<String>,
 	// Title for setting when no vote is taking place.
 	like_delta: i32,
-	// The chapter id.
-	chapter_id: u32,
 	// Title for the chapter.
 	chapter_title: Option<String>,
 	// Content to post.
@@ -120,8 +118,6 @@ struct EventState {
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 struct Replacements {
-	// The chapter id.
-	chapter_id: u32,
 	// The like delta between the target and recieved amounts.
 	like_diff: i32,
 	// The likes recieved since the start of the chapter.
@@ -258,7 +254,6 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 		// Replacements for title, short description, and description.
 		let replace = Replacements {
-			chapter_id: current_event.chapter_id,
 			like_diff: (current_event.like_delta - (likes - state.likes)).abs(),
 			like_rec: likes - state.likes,
 			like_total: likes,
@@ -544,8 +539,6 @@ fn replace_text(text: &str, replace: &Replacements) -> String {
 			result.push_str(&replace.like_total.to_string());
 		} else if token == "ml" {
 			result.push_str(&replace.minutes_left.to_string());
-		} else if token == "id" {
-			result.push_str(&replace.chapter_id.to_string());
 		} else {
 			result.push_str(token);
 		}
