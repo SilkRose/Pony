@@ -13,6 +13,8 @@ Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofrea
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
+Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
+
 ## Ideas:
 
 
