@@ -3,6 +3,7 @@ use serde::{Deserialize, Serialize};
 use std::error::Error;
 
 pub mod blog;
+pub mod error;
 pub mod story;
 pub mod user;
 
