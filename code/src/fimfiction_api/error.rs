@@ -18,7 +18,14 @@ pub struct FimficErrorInner<T = u32> {
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct ErrorMeta<T = u32> {
 	pub resource: String,
-	pub id: T,
+	pub id: OptionsID<T>,
+}
+
+#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
+#[serde(untagged)]
+pub enum OptionsID<T> {
+	Number(T),
+	String(String),
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
