@@ -2,7 +2,7 @@ use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct FimficError<T = u32> {
-	errors: Vec<FimficErrorInner<T>>,
+	pub errors: Vec<FimficErrorInner<T>>,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
@@ -23,5 +23,5 @@ pub struct ErrorMeta<T = u32> {
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct ErrorLinks {
-	about: String,
+	pub about: String,
 }
