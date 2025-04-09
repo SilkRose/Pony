@@ -4,16 +4,16 @@ use serde::{Deserialize, Serialize};
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct ChapterApi<T = u32> {
 	pub data: ChapterData<T>,
-	pub included: Vec<ChapterIncluded>,
+	pub included: Vec<ChapterIncluded<T>>,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub enum ChapterIncluded {
-	Story(StoryData),
-	Author(UserData),
+pub enum ChapterIncluded<T = u32> {
+	Story(StoryData<T>),
+	Author(UserData<T>),
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
