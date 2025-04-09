@@ -2,7 +2,7 @@ type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>
 
 pub fn format_number_f64(number: f64, decimal_places: usize) -> Result<String> {
 	let number = format!("{number:.decimal_places$}");
-	let decimal = number.split('.').last().unwrap();
+	let decimal = number.split('.').next_back().unwrap();
 	let number = number.split('.').collect::<Vec<_>>();
 	let number = number.first().unwrap();
 	let (number, negative) = match number.starts_with('-') {

@@ -65,7 +65,7 @@ impl StringImage {
 		let mut line_height: Option<u32> = None;
 		let mut chars = HashMap::new();
 		for char in font_files {
-			let hex = char.trim_end_matches(ext).split(slash).last().unwrap();
+			let hex = char.trim_end_matches(ext).split(slash).next_back().unwrap();
 			let image = image::open(char)?;
 			if line_height.is_none() {
 				line_height = Some(image.dimensions().1)

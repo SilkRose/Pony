@@ -225,7 +225,7 @@ fn count_stories(dirs: &[String]) -> Result<usize, Box<dyn Error>> {
 	for dir in stories_dir.into_iter() {
 		let dirs = find_dirs_in_dir(dir, false)?;
 		for dir in dirs {
-			if let Some(story_name) = dir.split(MAIN_SEPARATOR).last() {
+			if let Some(story_name) = dir.split(MAIN_SEPARATOR).next_back() {
 				stories.push(story_name.to_string());
 			}
 		}
