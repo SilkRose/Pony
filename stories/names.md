@@ -54,7 +54,6 @@ This file contains random story names that don't have enough thought to have the
 - Snuggle Support
 - Recovering Romantic
 - Questions and Kisses
-- Heavy Weighs a Frown
 - Written in Rust
 - Cute, Pretty, and Powerful
 - First Kiss, Last Blush
