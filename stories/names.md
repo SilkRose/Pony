@@ -123,3 +123,4 @@ This file contains random story names that don't have enough thought to have the
 - Linked Lifespan
 - Friendship Fulcrum
 - Scary and Fun Feelings
+- Waist Management
