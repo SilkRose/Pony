@@ -124,3 +124,4 @@ This file contains random story names that don't have enough thought to have the
 - Friendship Fulcrum
 - Scary and Fun Feelings
 - Waist Management
+- Flowers for Fluttershy
