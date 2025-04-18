@@ -12,6 +12,8 @@ Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for proofr
 
 Thanks to [Hyper Star](https://www.fimfiction.net/user/622256/Hyper+Star) for proofreading.
 
+Now with a [reading](https://www.youtube.com/watch?v=lI5cmum7740) done by [Openair](https://www.youtube.com/@openairpony).
+
 ## Short Description:
 When a spell temporarily blinds Twilight, Pinkie is left to take care of her as they discover new feelings, which they try to express creatively.
 
