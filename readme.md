@@ -89,6 +89,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading two] |
 | **[Rainbow Infinity Readings]** | [There] | [YouTube][There reading] |
 | **[Lotus Moon]** | [Blue and Blushing] | [YouTube][Blue and Blushing reading] |
+**[Openair]** | [Pink-Mended Sparkles] | [YouTube][Pink-Mended Sparkles reading]
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -235,6 +236,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Rainbow Infinity Readings]: https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube"
 [Pony&Wolf Productions]: https://www.youtube.com/@PonyWolfProductions "Youtube"
 [Lotus Moon]: https://www.youtube.com/@LotusMoon "YouTube"
+[Openair]: https://www.youtube.com/@openairpony "YouTube"
 
 [Pretty and Pink reading]: https://www.youtube.com/watch?v=haVP8dKX_Mg "YouTube"
 [The Pink Tax reading one]: https://www.youtube.com/watch?v=6DTLq1e9NXk "YouTube"
@@ -247,6 +249,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Profound Ponytail reading two]: https://www.youtube.com/watch?v=fKw3kauBSqM "YouTube"
 [There reading]: https://www.youtube.com/watch?v=Ntgub22ZFcU "YouTube"
 [Blue and Blushing reading]: https://www.youtube.com/watch?v=ZG9fQEqbLi8 "YouTube"
+[Pink-Mended Sparkles reading]: https://www.youtube.com/watch?v=lI5cmum7740 "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
@@ -280,6 +283,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Timeless Tears]: https://www.fimfiction.net/story/539973/timeless-tears "FIMFiction"
 [Whispers and Wishes]: https://www.fimfiction.net/story/560940/whispers-and-wishes "FIMFiction"
 [Blue and Blushing]: https://www.fimfiction.net/story/557818/blue-and-blushing "FIMFiction"
+[Pink-Mended Sparkles]: https://www.fimfiction.net/story/547972/pink-mended-sparkles "FIMFiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
