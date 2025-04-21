@@ -29,8 +29,14 @@ Ch 2 (Pink Refraction): Pinkie helps someone in the Everfree and brushes against
 
 Ch 3 (Pink Restoration): Pinkie returns home and is surprised by her friends, who each tell or do or give something to calm each individual anxiety. Pinkie is relieved and breaks down crying and hugs them, before finally smiling a genuine smile. After the hug, she glances at a nearby reflective surface and sees her reflection back and smiling sincerely as well.
 
+## Story:
+[Pink Reflections](./pink-reflections.md)
+
 ## Chapters:
-[Chapter 1: Pink Reflection](./01-pink-reflection.md)
+
+Decided to do a single chapter instead of three, keeping all these notes as an archive.
+
+### Chapter 1: Pink Reflection
 - Starts with Pinkie, bouncing as usual, in her room above Sugarcube Corner.
 - Maybe she is planning her next party and going through the checklist, or maybe she is going over a list of her pinkie promises for the next day. (she will go through each item individually.)
 - After that, her final item on that list is to check on her smile.
@@ -48,7 +54,7 @@ Ch 3 (Pink Restoration): Pinkie returns home and is surprised by her friends, wh
 - Pinkie acts satisfied and goes something like, "alright, one more time!" She tries on a big grin in the mirror.
 - Her own poofy-maned, bright-colored self smiles back, and Pinkie nods in satisfaction, wiping away a single tear in the corner of her eye before leaving.
 
-[Chapter 2: Pink Refraction](./02-pink-refraction.md)
+### Chapter 2: Pink Refraction
 - Starts with Pinkie helping Fluttershy in the Everfree forest, and accidentally brushes against poison joke.
 - Pinkie bonds with Fluttershy and almost opens up to her, but doesn't because of her fears.
 - From there, that night, she does the same thing as the first part, but this time loses her temper and smashes the mirror. She goes to sleep and doesn't notice her reflection is missing from the fallen pieces of mirror.
@@ -56,7 +62,7 @@ Ch 3 (Pink Restoration): Pinkie returns home and is surprised by her friends, wh
 - Pinkie cleans up the mirror the next day after helping said friend. She cleans up her broken mirror, realizing she has no reflection.
 - Pinkie reasons she just hasn't slept enough, leaving the room happy.
 
-[Chapter 3: Pink Restoration](./03-pink-restoration.md)
+### Chapter 3: Pink Restoration
 - Perspective switches to pinkie who is returning home after hosting a party or something, and is surprised by her friends with a something that assuages all her fears and anxieties
 
 ## Cover:
