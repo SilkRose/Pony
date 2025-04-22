@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Pony Information News and Knowledge
+
+### Synopsis:
+Pinkie starts a pretend news channel with a cardboard camera operated by Spike and goes around interviewing ponies for the news.
+
+***
+
 ## Deternal
 
 ### Synopsis:
