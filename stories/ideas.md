@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Rainbow Dine and Dash
+
+### Synopsis:
+Pinkie and Rainbow dine and dash at Sugarcube Corner. Later Pinkie tells the cakes and they reveal she gets free food for working there.
+
+***
+
 ## Pony Information News and Knowledge
 
 ### Synopsis:
