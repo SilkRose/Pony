@@ -212,9 +212,7 @@ Pinkie smiles at Fluttershy.
 
 When Fluttershy looked up, Pinkie had vanished.
 
-***
-
-Pinkie starts hyperventilating a mere four-hundred hooves away from Fluttershy as she tries to calm herself.
+Pinkie reappears four-hundred hooves away from Fluttershy before she tries to calm herself.
 
 *Just calm down. You don't need to tell her.*
 
@@ -226,7 +224,7 @@ As Pinkie started to cry silently, she brushes against an almost unnoticeable am
 
 She finally calms herself and gets ready to head back.
 
-***
+Pinkie show back up with Fluttershy and smiles.
 
 "Sorry I had to leave you, got a sudden Pinkie Sense that I needed to figure out."
 
