@@ -80,7 +80,7 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
 
-*"You know it will, and you're afraid. You've delayed the crash, and you're terrified of the burns."*
+*"You know it will, and you're afraid. You've delayed the crash, but you're still terrified of the burns."*
 
 "I've delayed it this long, what's a few more years?"
 
@@ -220,7 +220,7 @@ Pinkie starts hyperventilating a mere four-hundred hooves away from Fluttershy a
 
 *You're just here to get flowers, nothing else.*
 
-As Pinkie started to cry silently, she brushes against a almost unnoticeable amount of poison joke plant.
+As Pinkie started to cry silently, she brushes against an almost unnoticeable amount of poison joke plant.
 
 *Just tell her you had a Pinkie Sense and everything will be fine.*
 
