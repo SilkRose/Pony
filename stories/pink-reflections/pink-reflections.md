@@ -188,7 +188,7 @@ They trot the rest of the trip in silence, eventually making it to the flower pi
 
 Fluttershy starts picking flowers and filling up her first basket. Pinkie watches her while standing still.
 
-*I should try and talk to her, now is like a perfect time.*
+*I should try and talk to her, now is like the perfect time.*
 
 "Fluttershy?"
 
