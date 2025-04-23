@@ -236,3 +236,95 @@ Pinkie show back up with Fluttershy and smiles.
 
 ***
 
+Pinkie once again bounces up the stairs to her floor at Sugarcube Corner. A smile features on her face as she hums to herself.
+
+She makes it into her room where she finds her pet alligator, Gummy, who she hugs and greets. "Hi, Gummy!"
+
+Gummy doesn't respond, only wagging his tail.
+
+"You're right, today was a great day!"
+
+Pinkie bounces over to her bed before she pulls out her checklist, laying it flat on her bed.
+
+"Let's see here, what all did I do today…"
+
+She goes over each item one at a time, the same as yesterday.
+
+"Run the counter and hand out the cakes for pickup? Check! Help Fluttershy pick flowers in the Everfree Forest? Check! *Try* to talk to a friend about my problems? Check! Clean the front dining room? Check!"
+
+Again she stars at the last item on her list.
+
+*Check on your smile.*
+
+*Hopefully my attempt to tell Fluttershy might make this go smoother…*
+
+Pinkie bounces to her bathroom and flicks on the light, before standing in front of the mirror.
+
+She smiles big a wide at her reflection.
+
+Her reflection does not smile back.
+
+*"Do you want praised for failing?"*
+
+"I thought it would mean something… Do we have to do this again?"
+
+Her reflection dulls and deflates like its done everyday for years.
+
+*"You need to try harder, I know you can do it."*
+
+"I don't think I can…"
+
+*"You NEED to, for you, for me, for your friends."*
+
+Pinkie raises her voice slightly. "Do you know how hard it is to tell your best friend that you've been faking it for years and that you've never truly been happy for like ever?"
+
+*"Unfortunately, I don't, and can't. I can't exactly go talk to them for you. So, you need to for US."*
+
+A tear escapes Pinkie, rolling down her face. "Well, I tried. I caved and wanted to curl into a ball and give up."
+
+*"I understand this is hard, but now is not the time for failure. You NEED their help. Just like they need you."*
+
+"I know, it's just so hard after so long of the status quo."
+
+*"You need to try again, and again, until you do it and get the help you need."*
+
+"I'll try again, okay? Geez, I thought me trying would have made today easier…"
+
+*"I'm not going easy because you're so far gone. You needed help three years ago. It's good that you tried, but it's not enough."*
+
+Pinkie raises her voice. "When will it ever be enough? I tried, I said I'd try again. Can't you give me a break?"
+
+*"It'll be enough when you get the help you need, when you tell your friends how you really are. You can't stop now, we finally made a smidgen of progress and you want a break, that is not how this should work."*
+
+Pinkie practically yells through tears. "It's not that easy, I can't just go up to Fluttershy and say, 'Hey, Fluttershy, I've been secretly miserable and faking my smile and happiness for you and all our friends for the past few years or so.' I tried to talk to her and I couldn't even say a single word."
+
+*"You have to push through that. I know it will be hard, but you have to. You have to…"*
+
+"Why can't you just let me have this one day. One day where we don't have to fight, where you just smile and tell me I did good for trying. I said I'd try again, I just need time, okay?"
+
+*"Because you don't have time. You need help NOW, not tomorrow, not the day after tomorrow, NOW."*
+
+"Can you just smile so I can be done with this and go to bed?"
+
+*"No. I'll smile if you promise to try and ask a friend for help."*
+
+"I can't do that. You saw what it did to me today, I can't do this every day!"
+
+*"Then, I guess you won't be checking off this smile from your list."*
+
+With that, Pinkie snaps, letting out years of pent up hatred and aggression for her reflection. She pulls back her hoof and hurls it full force into the mirror, the last expression on her reflections face one of shock and surprise. As the mirror shatters the reflection fragments into hundreds of tiny shards.
+
+The mirror falls piece by piece into the sink and blood starts to drip from Pinkie's hoof, landing on the broken glass in the sink. Pinkie just stands there in silence, trying to comprehend what she just did.
+
+She slowly pulls her hoof away and more bits of broken mirror fall into the sink. She looks at the thin line of blood connecting from her hoof to the sink.
+
+She finally snaps out of it and sighs. She starts to wash her hoof in the sink, not caring about the glass filling the bowl. Her hoof is cleaned as the blood is washed down the drain.
+
+She dries her hoof off before wiping away her tears.
+
+She makes her way slowly back to her checklist before crossing out the last item on her list.
+
+~~*Check on your smile.*~~
+
+***
+
