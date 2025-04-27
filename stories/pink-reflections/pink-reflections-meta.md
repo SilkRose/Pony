@@ -15,10 +15,16 @@ Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
 
 ## Ideas:
 - Twilight: fear of failure.
+  - Twilight offers to help her manage expectations?
+  - It's okay to fail, that's how you learn
+  - Mirror tells Twilight to get her other friends together so it can talk to them all, because Pinkie needs as much support as possible
+    - Reflection can find them for Twi?
 - Rarity: fear of burnout.
   - Looks in a mirror and sees Pinkie's reflection.
+  - Pinkie needs to take breaks to unwind and not push herself so hard all the time. Rarity offers to take her to the spa every week
 - Rainbow: Fear of rejection. (romance)
   - Rainbow Dash is flying over a lake and sees her reflection as Pinkie, thinking she is drowning, she dives in to save her. When there is nopony there, she gets out and looks back at the edge of the lake, where the reflection greets her.
+  - Rainbow says that Pinkie needs to improve her self-confidence and shows her how to do that, then asks her out/hints at it at the end
 - Fluttershy: Anxiety.
 - Applejack: Pressure.
 
