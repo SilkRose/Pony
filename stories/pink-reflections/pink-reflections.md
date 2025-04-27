@@ -328,3 +328,61 @@ She makes her way slowly back to her checklist before crossing out the last item
 
 ***
 
+Twilight Sparkle wakes up with a yawn. She gets out of bed and stretches her legs. Making her way over to her mirror, she levitates up a hairbrush to brush her mane.
+
+Looking the mirror, Twilight froze as her reflection did not greet her. Instead, Pinkie Pie was in her mirror, and she looks worried.
+
+Pinkie's reflection spoke up. "Twilight!"
+
+"Pinkie? What are you doing in my mirror?" Twilight asks.
+
+"I'm not Pinkie. I mean I am, but not really. I'm her reflection, and she – we need your help!"
+
+The reflection at this moment morphs from looking like her bright and cheerful, bubbly friend to what Pinkie hid from her friends.
+
+"Why do you look so bad? What's going on?" Twilight asks in a concerning voice.
+
+"Pinkie has been hiding how she really is for a long time. I'm how she really is, I'm Pinkie Pie."
+
+"What do you mean hiding? How could she hide this?" Twilight gestures at the reflection.
+
+"She forces it, she puts on a smile and forces everything because she's convinced its the only way to make everypony happy."
+
+Twilight voices drops. "But, what about her? Why isn't she happy?"
+
+"Because she refuses to ask for help. She's overdoing every aspect of her life and acting like the mental and physical tolls are optional."
+
+"Why didn't she ask for help sooner?"
+
+"She's not asking for help, even now. I'm not her, but due to opportune circumstances I was able to speak with you all."
+
+"Pinkie's reflection is sentient? Have you always been like that?"
+
+"Everyday Pinkie and I argue over her smile. She refuses to go to bed until I smile. I tried for so long to get her help, but she kept refusing."
+
+"How are you my reflection and not hers right now?"
+
+"Last night we got into it and I tried giving her an ultimatum, it didn't work and she snapped, breaking the mirror."
+
+"But how did that mean you can talk to me now?"
+
+"Earlier in the day Pinkie brushed up against some poison joke, I think in this one instance the plant did something good."
+
+"That's incredible."
+
+"Pinkie needs your help now, will you give it?"
+
+"Yes, absolutely. What does she need from me?"
+
+"She's afraid she is going to fail. She does so much for the community and her friends, if she starts failing at parties or making ponies smile, she would lose it completely."
+
+"She needs help managing expectations?"
+
+"Yes! She tries to make every party greater than the last, but that's not sustainable, eventually the next party is going to flop, and she needs to be okay with that."
+
+"I'll do my best, for her and for you!" Twilight smiles a determined smile.
+
+Pinkie's reflection smiles a genuine smile for the first time in a long time. "Thank you."
+
+***
+
