@@ -218,13 +218,13 @@ Pinkie reappears four-hundred hooves away from Fluttershy before she tries to ca
 
 *You're just here to get flowers, nothing else.*
 
-As Pinkie started to cry silently, she brushes against an almost unnoticeable amount of poison joke plant.
+As Pinkie starts to cry silently, she brushes against an almost unnoticeable amount of poison joke plant.
 
 *Just tell her you had a Pinkie Sense and everything will be fine.*
 
 She finally calms herself and gets ready to head back.
 
-Pinkie show back up with Fluttershy and smiles.
+Pinkie shows back up with Fluttershy and smiles.
 
 "Sorry I had to leave you, got a sudden Pinkie Sense that I needed to figure out."
 
@@ -330,7 +330,7 @@ She makes her way slowly back to her checklist before crossing out the last item
 
 Twilight Sparkle wakes up with a yawn. She gets out of bed and stretches her legs. Making her way over to her mirror, she levitates up a hairbrush to brush her mane.
 
-Looking the mirror, Twilight froze as her reflection did not greet her. Instead, Pinkie Pie was in her mirror, and she looks worried.
+Looking in the mirror, Twilight froze as her reflection did not greet her. Instead, Pinkie Pie was in her mirror, and she looks worried.
 
 Pinkie's reflection spoke up. *"Twilight!"*
 
@@ -383,6 +383,62 @@ Twilight voices drops. "But, what about her? Why isn't she happy?"
 "I'll do my best, for her and for you!" Twilight smiles a determined smile.
 
 Pinkie's reflection smiles a genuine smile for the first time in a long time. *"Thank you."*
+
+***
+
+Rarity looks in a mirror hanging on her wall as she makes her way into her kitchen. Instead of seeing her usual beautiful self however, she sees Pinkie Pie. Catching her off guard, she stops and blinks. Her reflection is back and she shakes her head.
+
+Mere seconds later, she hears the sound of somepony teleporting into her abode. Looking at where the sound came, she finds Twilight Sparkle.
+
+Rarity glances back at the mirror, seeing that Pinkie has returned to it.
+
+"Twilight, why is Pinkie in my mirror?"
+
+"It's a long story, but I'll do my best to explain it."
+
+Rarity simply nods.
+
+Twilight explains everything to Rarity about Pinkie and her reflection. She ends by gesturing at the mirror and says, "She needs our help."
+
+Rarity turns to Pinkie's reflection. "What can I do to help our dearly beloved friend, Pinkie Pie?"
+
+Pinkie's reflection smiles. *"Pinkie needs help dealing with burnout. If she hasn't burnt out already, she will soon."*
+
+Rarity smiles back. "I think I can help, I've had to deal with burnout myself many a time as a designer and dress maker."
+
+*"Thank you!"*
+
+***
+
+Rainbow Dash is flying above the Ponyville Lake, doing all sorts of tricks for practice. As she flies though, she sees Pinkie below under the water. She stops flying as she tries to understand what's going on.
+
+After not seeing Pinkie move, she bolts into action, realizing she might be drowning.
+
+She flies down as fast as she can, diving into the water to save her friend. After some time trying to find her she surfaces and walks out of the water to look back in for her.
+
+Twilight interrupts her. "Rainbow Dash."
+
+Rainbow turns to find Twilight behind her. "Pinkie is under the water, we gotta save her!"
+
+"Wait, that wasn't Pinkie."
+
+Rainbow is confused as she looks back in the water again. She doesn't see any sign of Pinkie until she looks right at her hooves. Her reflection has been replaced with Pinkie's.
+
+"What's going on her, Twilight?"
+
+Twilight once again explains everything going on. At the end she points at the reflection and says, "Pinkie needs our help."
+
+Rainbow speaks to Pinkie's reflection. "I'm down to help. What can I do for my best friend?"
+
+Pinkie's reflection speaks. *"Pinkie is afraid of being rejected by her friends, especially when they find out what Twilight just told you."*
+
+Rainbow mulls this over before saying, "So, she needs reassurance that we won't leave her?"
+
+*"Yes, but especially from you. She kinda has a crush on you and is too scared to ask you out."*
+
+Rainbow blushes. "In that case, we'll just have to see what she says when I ask her out."
+
+Pinkie's reflection smiles.
 
 ***
 
