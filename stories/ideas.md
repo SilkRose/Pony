@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Mane Storage Device
+
+### Synopsis:
+Pinkie keeps a bunch of stuff in her mane, Rarity pulls them out and is shocked.
+
+### Short Description:
+While trying to cuddle, Rarity is poked by something in Pinkie's mane. What could she be keeping in there?
+
+***
+
 ## Rainbow Dine and Dash
 
 ### Synopsis:
