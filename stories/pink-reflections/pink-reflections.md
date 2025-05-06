@@ -424,7 +424,7 @@ Rainbow turns to find Twilight behind her. "Pinkie is under the water, we gotta 
 
 Rainbow is confused as she looks back in the water again. She doesn't see any sign of Pinkie until she looks right at her hooves. Her reflection has been replaced with Pinkie's.
 
-"What's going on her, Twilight?"
+"What's going on here, Twilight?"
 
 Twilight once again explains everything going on. At the end she points at the reflection and says, "Pinkie needs our help."
 
@@ -439,6 +439,64 @@ Rainbow mulls this over before saying, "So, she needs reassurance that we won't 
 Rainbow blushes. "In that case, we'll just have to see what she says when I ask her out."
 
 Pinkie's reflection smiles.
+
+***
+
+Applejack spits the mouthwash into the sink before looking back up into the mirror. She gasps in surprise as Pinkie's reflection stares back at her. She shakes her head and blinks before seeing her own reflection is back.
+
+A few seconds later she hears a teleportation spell outside her bathroom then a knock on the door. "Hello, Applejack, we need to talk."
+
+Applejack wipes off her mouth and exits the bathroom to find Twilight Sparkle.
+
+"What's going on Twilight? Does this have to do with Pinkie? I swear I saw her in my mirror right before you showed up."
+
+Twilight explains everything to Applejack as she leads her into the living room. They sit down on the couch and Twilight levitates a mirror in front of them.
+
+"She needs to ask you something," Twilight says while pointing in the mirror.
+
+Applejack looks at Pinkie's reflection and asks, "What does Pinkie need, I'd do anything for my family!"
+
+Pinkie's reflection smiles. *"She needs to know when to ask for help. She's trying to do everything by herself and its destroying her."*
+
+"I can see why you'd come to me for that one. I know it can be hard to ask for help, but it sure does make a difference when you do. I'll help her all I can."
+
+*"Thank you, Applejack."*
+
+***
+
+Fluttershy looks in the mirror and says, "You got this Fluttershy!"
+
+She blinks and is shocked to find her reflection replaced with Pinkie Pie. She backs away and hides behind her mane with her eyes looking at the floor. After a few seconds to compose herself, she looks back in the mirror to find her own reflection is back.
+
+She hears a knock at the door and goes to answer it.
+
+"Hello, Fluttershy," Twilight says as Fluttershy answers the door.
+
+"Hi Twilight, what are you doing here?"
+
+"Can I come in? We need to talk about Pinkie Pie."
+
+Fluttershy nods and they go inside to the mirror.
+
+"Does this have to do with Pinkie being in my mirror?"
+
+Fluttershy looks in the mirror again, noticing Pinkie has returned.
+
+"Yes, sort of," Twilight says.
+
+Twilight goes ahead and explains it all to Fluttershy before pointing at the mirror. "She needs to talk to you."
+
+Fluttershy turns and greets Pinkie's reflection. "Hello."
+
+*"Hello, Fluttershy. Pinkie Pie needs your help!"*
+
+"What can I do to help?"
+
+*"Pinkie is overwhelmed with anxiety, she keeps ignoring it, but it's ruining her life. She needs to deal with it, and she needs help!"*
+
+"Oh, I see. I'll do my best to help her."
+
+*"Thank you."*
 
 ***
 
