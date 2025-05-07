@@ -14,3 +14,6 @@ Showing what could happen if the rest of the mane six also had an extended lifes
 
 [Disparate Pen Pals](https://www.fimfiction.net/story/571169/disparate-pen-pals)
 This story takes a unique approach to one of my favorite story types, the letter story. The increasing emotion and desperation in the letters as they went on was done amazingly. The replies from the at first mystery reply-er were very cute and heartfelt. The pairing sounds cute, but sadly they had little interaction in the story. I loved the ending and hope the letters find there way to her. Thank you [Rego](https://www.fimfiction.net/user/180061/Rego) for writing this adorable story.
+
+[The First One's Free](https://www.fimfiction.net/story/569158/the-first-ones-free)
+This story shows addiction in a very real light. Sunset taking advantage of Pinkie hurt, but is all too realistic. The desperation in Sunset and the Worry in Pinkie escalating as the story progressed was handled excellently. I loved this pairing, especially Pinkie Pie. The escape mechanic is great and very on the nose for a drug allegory. The ending shows Pinkie's vulnerability and Sunset's willingness to abuse on full display. Thank you [TCC56](https://www.fimfiction.net/user/350373/TCC56) for writing this relatable story.
