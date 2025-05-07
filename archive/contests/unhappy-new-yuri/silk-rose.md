@@ -26,3 +26,12 @@ This story lives up to its name with a gut punch of an ending you know is coming
 
 ### [I'm Not Her.](https://www.fimfiction.net/story/570610/im-not-her)
 Showing what happens when you let something go on for too long, this story shows Twilight at her breaking point. The characters are done amazingly. Twilight's straightforward attitude and hard love towards Sunset is great. Sunset's slow breakdown is handled with care. The idea of Sunset loving the other Twilight is really interesting and handled great. The pairing is good, and one of my favorites. The ending is sad and done well. Thank you [PI](https://www.fimfiction.net/user/241272/PI_) for writing this sad story.
+
+### [sunsetshimmer.exe](https://www.fimfiction.net/story/570289/sunsetshimmerexe)
+This story is unique, having the POV character be a robot who is being worked on throughout the story. The changes and upgrades to her mind and body telling their own story alongside the one of Twilight and her love for Sunset. Replacing your ex-girlfriend with a robot you made and programmed is dedication… Perhaps in the wrong direction though. The characters are great, and the ship is awesome! The ending leaves me wanting more and for her to eventually be her own person. Thank you [Oroboro](https://www.fimfiction.net/user/163197/Oroboro) for writing this interesting story.
+
+### [Fairytale of Canterlot City](https://www.fimfiction.net/story/571138/fairytale-of-canterlot-city)
+The difference between being responsible for someone and loving someone is a fine line that this story takes place on. Lemon's stupid actions while drunk are all too relatable, and Sunny's responsibility wearing thin isn't surprising. My first time reading this pairing, and I loved it and I plan on reading more. The characters are great. The ending was sad, but expected; it was done well too. Hopefully Lemon's arm isn't broken! Thank you [Samey90](https://www.fimfiction.net/user/112709/Samey90) for writing this festive story.
+
+### [Leave Your Name At The Door](https://www.fimfiction.net/story/571125/leave-your-name-at-the-door)
+This story shows what it feels like to be lonely. Cherry finds solace in Akira for the night, and is left with only a name to remember her by. The action scene is great, while the overall pacing is slow. The pairing is unique and lovely, they play off each other perfectly. The characters are handled well. I hope the bits help Cherry out a lot! Thank you [Jarvy Jared](https://www.fimfiction.net/user/230376/Jarvy+Jared) for writing this lonely story.
