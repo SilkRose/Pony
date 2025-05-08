@@ -59,3 +59,9 @@ This story is an interesting one, it brings up Christianity but doesn't say much
 
 ### [Yuri FOMO](https://www.fimfiction.net/story/571173/yuri-fomo)
 This story seems like a joke written specifically for this contest. I don't know how to take it seriously, at all. The premise didn't click and it just feels like bait for dislikes. The idea of a yuri curse could have a been a lot more interesting if it was done seriously and with taste. The pairings are whatever, I didn't care much for them here. I don't have much else to say, I disliked this story and its un-seriousness. Thank you [Bad Dragon](https://www.fimfiction.net/user/127717/Bad+Dragon) for writing this disqualified story.
+
+### Dashie and Me?! A Totally True (But Maybe Not Actually True) Hearth’s Warming Wedding Mystery!!!
+The premise seems alright when you start reading but quickly falls off near the end. I don't understand why the ponies in the story would do what they did to cause the events of the story. This story gives me AI vibes like it wasn't written by a human. This is likely correct as the story is no longer on the site. I like the pairing, but the story lets it down. Thanks to [PinkieCrushie](https://www.fimfiction.net/user/823022/PinkieCrushie) for writing this weird story.
+
+### [The Eternal Date](https://www.fimfiction.net/story/571865/the-eternal-date)
+Twilight's inability to let go is interesting. Instead of living a real life with her remaining friends, she chooses to live in a constructed world with a presumably fake Rarity re-making the same date every day. It's sad to see Twilight go so far and to hear about what she would have done if her friends had went along. I love the ship, its one of my favorites. The characters are great. Thank you [Not That Anon](https://www.fimfiction.net/user/386458/Not+That+Anon) for writing this eternal story.
