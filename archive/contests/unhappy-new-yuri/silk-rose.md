@@ -35,3 +35,15 @@ The difference between being responsible for someone and loving someone is a fin
 
 ### [Leave Your Name At The Door](https://www.fimfiction.net/story/571125/leave-your-name-at-the-door)
 This story shows what it feels like to be lonely. Cherry finds solace in Akira for the night, and is left with only a name to remember her by. The action scene is great, while the overall pacing is slow. The pairing is unique and lovely, they play off each other perfectly. The characters are handled well. I hope the bits help Cherry out a lot! Thank you [Jarvy Jared](https://www.fimfiction.net/user/230376/Jarvy+Jared) for writing this lonely story.
+
+### [Fidelity](https://www.fimfiction.net/story/569346/fidelity)
+This story is sad, and I feel for Autumn. The descriptions of everything are so beautiful. Autumn's feelings are so raw and controlled. The custom line break is really cool. Autumn's interactions with Rainbow was nice. I love any mane six ship, but Autumn's unrequited feelings are painful and all too real. The cover is cute and pretty. The characters are all on point. The ending was sweet and done well. Thank you [pitbull-prideful](https://www.fimfiction.net/user/697467/pitbull-prideful) for writing this somber story.
+
+### [Love In Tears](https://www.fimfiction.net/story/570596/love-in-tears)
+The song in this story was beautiful, and I could practically hear Sweetie Belle singing it. Sweetie's tears feel real and I love her cat Pearl. The crystal phone is cool. The letter from Applebloom is written well and felt in character. This is the first story I've read about the CMC dating each other, sadly it didn't work out, but I hope Scootaloo and Sweetie Belle works out. Thank you [CasualBrony84](https://www.fimfiction.net/user/792928/CasualBrony84) for writing this tearful story.
+
+### [Take Me Home](https://www.fimfiction.net/story/571457/take-me-home)
+The train ride while reading letters is a unique story idea that I like. I feel bad for Applejack. I'd like to think Rarity wouldn't have done this to her friends, but distance and time can do a lot of damage. Brilliant Lotus is written well and I don't like them. The pairing is one I love, but it didn't work out in this one, sadly. The ending is sad and done well. Thank you [Jhoira](https://www.fimfiction.net/user/347398/Jhoira) for writing this melancholic story.
+
+### [Manes and Mayhem](https://www.fimfiction.net/story/570867/manes-and-mayhem)
+The hero and villain romance is one I haven't read much of. I liked this one. Showing the first time the Power Ponies all met was really cool. The team being dividing on if them being together is bad or not was interesting. The Power Ponies and Mane-iac characterization is great. The pairing is unique and the obsession with manes is cute. Thank you [EpicGamer10075](https://www.fimfiction.net/user/383636/EpicGamer10075) for writing this radiant story.
