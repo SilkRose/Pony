@@ -65,3 +65,6 @@ The premise seems alright when you start reading but quickly falls off near the 
 
 ### [The Eternal Date](https://www.fimfiction.net/story/571865/the-eternal-date)
 Twilight's inability to let go is interesting. Instead of living a real life with her remaining friends, she chooses to live in a constructed world with a presumably fake Rarity re-making the same date every day. It's sad to see Twilight go so far and to hear about what she would have done if her friends had went along. I love the ship, its one of my favorites. The characters are great. Thank you [Not That Anon](https://www.fimfiction.net/user/386458/Not+That+Anon) for writing this eternal story.
+
+### [Storm Chasing](https://www.fimfiction.net/story/571439/storm-chasing)
+Some ponies are like storms, and some ponies can't help but chase them. Rainbow Dash's insistence on being with Lightning is ruining her life whether she sees it or not. The element not recognizing her is a pretty dire situation. The small interludes about storm chasers were interesting. The pairing is cute, if not sad because of the ending. I liked this story despite the weird formatting. Thank you [LockandKeyHyena](https://www.fimfiction.net/user/388630/LockandKeyHyena) for writing this stormy story.
