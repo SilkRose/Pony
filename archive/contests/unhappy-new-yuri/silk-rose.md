@@ -68,3 +68,6 @@ Twilight's inability to let go is interesting. Instead of living a real life wit
 
 ### [Storm Chasing](https://www.fimfiction.net/story/571439/storm-chasing)
 Some ponies are like storms, and some ponies can't help but chase them. Rainbow Dash's insistence on being with Lightning is ruining her life whether she sees it or not. The element not recognizing her is a pretty dire situation. The small interludes about storm chasers were interesting. The pairing is cute, if not sad because of the ending. I liked this story despite the weird formatting. Thank you [LockandKeyHyena](https://www.fimfiction.net/user/388630/LockandKeyHyena) for writing this stormy story.
+
+### [Diamond Ring](https://www.fimfiction.net/story/571762/diamond-ring)
+This story is tragic. I feel bad for Rarity and Luna. Rarity having been manipulated for five years, that's not something you can adjust to normality quickly from. Luna having just returned and with one of her saviors in love with her, while she herself doesn't remember any of it. The ship is interesting and I liked it. The characters were great. The ending is sad. Hopefully Rarity can return and get over her love… Thank you [gloamish](https://www.fimfiction.net/user/606398/gloamish) for writing this tragic story.
