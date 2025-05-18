@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Hot Spare
+
+### Synopsis:
+Celestia is revealed to have clones of the mane 6 in case of death. One of the mane 6 die horribly, so Celestia just replaces them with a malformed clone, and everyone else is even more horrified. Eventually it's revealed that the mane 6 were always clones. The real ones are in suspended animation in a closet somewhere, but they've never lived real lives.
+
+***
+
 ## Mane Storage Device
 
 ### Synopsis:
