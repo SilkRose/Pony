@@ -65,3 +65,9 @@ Some ponies are like storms, and some ponies can't help but chase them. Rainbow 
 
 ### [Diamond Ring](https://www.fimfiction.net/story/571762/diamond-ring)
 This story is tragic. I feel bad for Rarity and Luna. Rarity having been manipulated for five years, that's not something you can adjust to normality quickly from. Luna having just returned and with one of her saviors in love with her, while she herself doesn't remember any of it. The ship is interesting and I liked it. The characters were great. The ending is sad. Hopefully Rarity can return and get over her love… Thank you [gloamish](https://www.fimfiction.net/user/606398/gloamish) for writing this tragic story.
+
+### [Scirocco](https://www.fimfiction.net/story/572000/scirocco)
+I really like the characters in this, both of whom I don't read enough of. Their chemistry and pairing is great! Lightning's regrets and nomadic lifestyle are an interesting contrast to Fiddlesticks, who seems to be stuck in Appleoosa. The title referencing real life winds is cool. The storm is interesting as it is what brought Lightning to town, or maybe she brought it? The ending is good. Thank you [MATP](https://www.fimfiction.net/user/544735/MATP) for writing this windy story.
+
+### [Odysseus Drowned](https://www.fimfiction.net/story/571223/odysseus-drowned)
+The Dazzlings manipulated Sunset like a fiddle, right down to the last note. The characters were handled great. I've not read this pairing before, it is good. This is a sad story as Sunset is driven away from her friends. The ending is tragic and heartbreaking. The back and forth between the scenes with the Dazzlings and the scenes with her friends played nicely, and kept the pacing well. Thank you [Mokoma](https://www.fimfiction.net/user/376481/Mokoma) for writing this tragic story.
