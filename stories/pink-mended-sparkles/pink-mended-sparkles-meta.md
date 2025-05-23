@@ -14,6 +14,8 @@ Thanks to [Hyper Star](https://www.fimfiction.net/user/622256/Hyper+Star) for pr
 
 Now with a [reading](https://www.youtube.com/watch?v=lI5cmum7740) done by [Openair](https://www.youtube.com/@openairpony).
 
+[Reviewed](https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose) by [Stinium_Ruide](https://www.fimfiction.net/user/381526/Stinium_Ruide).
+
 ## Short Description:
 When a spell temporarily blinds Twilight, Pinkie is left to take care of her as they discover new feelings, which they try to express creatively.
 
