@@ -112,6 +112,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[PresentPerfect]** | [The Pink Tax] | [FIMFiction][The Pink Tax review] |
 | **[PresentPerfect]** | [Profound Ponytail] | [FIMFiction][Profound Ponytail review] |
 | **[PresentPerfect]** | [Pony Pillows] | [FIMFiction][Pony Pillows review] |
+| **[Stinium_Ruide]** | [Pink-Mended Sparkles] | [FIMFiction][Pink-Mended Sparkles review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
@@ -230,6 +231,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Ashy]: https://github.com/ashy1227 "GitHub"
 [TheAncientPolitzanian]: https://www.fimfiction.net/user/338193/TheAncientPolitzanian "FIMFiction"
 [RunicTreetops]: https://www.fimfiction.net/user/489485/RunicTreetops "FIMFiction"
+[Stinium_Ruide]: https://www.fimfiction.net/user/381526/Stinium_Ruide "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
@@ -266,6 +268,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [The Pink Tax review]: https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd "FIMFiction"
 [Profound Ponytail review]: https://www.fimfiction.net/blog/1050186/fic-recs-september-13th "FIMFiction"
 [Pony Pillows review]: https://www.fimfiction.net/blog/1050887/fic-recs-september-20th "FIMFiction"
+[Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "FIMFiction"
 
 [The Rainbow Rocks 10th Anniversary Shipping Contest]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-7-the-rules-and-how-to-enter "FIMFiction"
 
