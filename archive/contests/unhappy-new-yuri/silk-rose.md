@@ -71,3 +71,6 @@ I really like the characters in this, both of whom I don't read enough of. Their
 
 ### [Odysseus Drowned](https://www.fimfiction.net/story/571223/odysseus-drowned)
 The Dazzlings manipulated Sunset like a fiddle, right down to the last note. The characters were handled great. I've not read this pairing before, it is good. This is a sad story as Sunset is driven away from her friends. The ending is tragic and heartbreaking. The back and forth between the scenes with the Dazzlings and the scenes with her friends played nicely, and kept the pacing well. Thank you [Mokoma](https://www.fimfiction.net/user/376481/Mokoma) for writing this tragic story.
+
+### [It Was Almost Always](https://www.fimfiction.net/story/571932/it-was-almost-always)
+This story feels all too real, like it is something Twilight would actually do. It's sad and filled with regret. This is my favorite mane 6 ship, and I hate to see it end this way. Written beautifully. Twilight's decision to just work through the holidays is in character and saddens me. The characters are great. I could practically hear Pinkie in my head. The ending is sad. Thank you [PinkamenaPictures](https://www.fimfiction.net/user/580599/PinkamenaPictures) for writing this regretful story.
