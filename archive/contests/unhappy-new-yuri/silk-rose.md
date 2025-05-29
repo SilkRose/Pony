@@ -74,3 +74,9 @@ The Dazzlings manipulated Sunset like a fiddle, right down to the last note. The
 
 ### [It Was Almost Always](https://www.fimfiction.net/story/571932/it-was-almost-always)
 This story feels all too real, like it is something Twilight would actually do. It's sad and filled with regret. This is my favorite mane 6 ship, and I hate to see it end this way. Written beautifully. Twilight's decision to just work through the holidays is in character and saddens me. The characters are great. I could practically hear Pinkie in my head. The ending is sad. Thank you [PinkamenaPictures](https://www.fimfiction.net/user/580599/PinkamenaPictures) for writing this regretful story.
+
+### [To Pink a Butterfly](https://www.fimfiction.net/story/570168/to-pink-a-butterfly)
+Fluttershy continuing the relationship for way too long to is sad, but definitely something she would do. Pinkie trying to so hard also lines up, and is sad too. I want them to be happy together, but in this case it didn't work out. The characters are good. I love the pairing. The missing punctuation at the end of every single paragraph was a little distracting, and so was the weird phrasing in spots. Thank you [FriendshipItself](https://www.fimfiction.net/user/374294/FriendshipItself) for writing this cute story.
+
+### [How Do We?](https://www.fimfiction.net/story/571901/how-do-we)
+I'm a little surprised this story is E rated and not T because it has alcohol at the start. Pinkie not loving Fluttershy in the same way is sad. Fluttershy's attitude towards Pinkie getting more possessive and mean feels out of character to me. Spending time with someone romantically is nice, but it can't last that long if you don't love them. I really like the pairing. The characters are good, with the exception of Fluttershy. The ending is really sad. Thank you [Xrevias](https://www.fimfiction.net/user/365447/Xrevias) for writing this cute Story.
