@@ -83,3 +83,6 @@ I'm a little surprised this story is E rated and not T because it has alcohol at
 
 ### [Bardo](https://www.fimfiction.net/story/572191/bardo)
 This story is different and interesting, in a different and interesting kind of way. Sunset being forced to endure lifetimes she knows isn't real and in between only getting conversation with the one who has trapped her in them, sounds real awful. I love it. The idea of bardo is fascinating and a creative idea. I enjoyed the pairings. The characters are great. The seventeen-hundred word paragraph was something else, hard to read, but fit the story perfectly. The ending is sad, and makes me feel for Sunset even more. Thank you [Bicyclette](https://www.fimfiction.net/user/398813/Bicyclette) for writing this thousand million story.
+
+### [Sold on a fantasy](https://www.fimfiction.net/story/571763/sold-on-a-fantasy)
+Being alone sucks. I can empathize with Coco a lot. Dealing with your problems in unhealthy ways is never good. I love the selling of a fantasy aspect, it's so easy for use to make ourselves believe what we want. The characters are good. The pairing is good, but sad. The ending is heartbreaking. I hope Raven finds the life she wants, and that Coco finds somepony special. Thank you [MorganaTheNotCat](https://www.fimfiction.net/user/546110/MorganaTheNotCat) for writing this sad story.
