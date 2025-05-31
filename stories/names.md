@@ -126,3 +126,6 @@ This file contains random story names that don't have enough thought to have the
 - Waist Management
 - Flowers for Fluttershy
 - Cuddle Quota
+- Doomed in Desire
+- Destination Denial
+- Render unto Regret
