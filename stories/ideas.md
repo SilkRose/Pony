@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Afterlife Affection
+
+### Synopsis:
+Sunset goes to Equestria to see Pinkie after the one she's dating in her world dies.
+
+***
+
 ## Narrative Intervention
 
 ### Synopsis:
