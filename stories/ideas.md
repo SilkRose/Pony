@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Authorial Assistance
+
+### Synopsis:
+Pinkie Pie gets the author/narrator to help her ask out Rarity.
+
+***
+
 ## Afterlife Affection
 
 ### Synopsis:
