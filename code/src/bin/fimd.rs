@@ -25,5 +25,27 @@ fn main() -> Result<(), Box<dyn Error>> {
 			fs::write(output, bbcode).unwrap();
 			println!("Converted: {input}");
 		});
+	fix_blog_2025_06_02a()?;
+	Ok(())
+}
+
+fn fix_blog_2025_06_02a() -> Result<(), Box<dyn Error>> {
+	let path = "./publish/archive/blogs/2025/06/02a.txt";
+	let text = fs::read_to_string(path).unwrap();
+	let (intro, stories) = text.split_once("[hr]").unwrap();
+	let mut output = format!("{intro}[hr]\n\n");
+	for line in stories.lines() {
+		if line.starts_with("[h3]") {
+			let link = line
+				.trim_start_matches("[h3][url=")
+				.split_once(']')
+				.unwrap()
+				.0;
+			output.push_str(&format!("[center][embed]{link}[/embed][/center]\n"));
+		} else if !line.is_empty() {
+			output.push_str(&format!("[quote]{line}[/quote]\n\n[hr]\n\n"));
+		}
+	}
+	fs::write(path, output).unwrap();
 	Ok(())
 }
