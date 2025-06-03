@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Narrative Intervention
+
+### Synopsis:
+The mane 6 have an intervention for the narrator because he's so unreliable.
+
+***
+
 ## Hot Spare
 
 ### Synopsis:
