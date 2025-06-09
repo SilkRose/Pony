@@ -498,3 +498,120 @@ Fluttershy turns and greets Pinkie's reflection. "Hello."
 
 ***
 
+Pinkie Pie opens the door to her bedroom. She makes her way into the room and is about to greet Gummy when she notices a lone floor-standing mirror in the center of her room.
+
+She trots up to the mirror noticing she can't see herself in it. She has no reflection. As she's about to start panicking, she sees something strange in the mirror. Five Pinkie Pies appear in the mirror, one center one with four more popping in to the side from behind them.
+
+Pinkie blinks and rubs her eyes. After she opens her eyes, the five ponies are no longer her, but her five best friends in the world.
+
+"What's going on here?" Pinkie asks before turning around to see all her friends standing behind her.
+
+Twilight, who is standing in front comes forward and wraps Pinkie in a hug. "Pinkie, we know what you've been doing for us, but we want to help so that you can be happy too."
+
+For a second, Pinkie wanted to deny it, but she knew she couldn't. She didn't know how to respond at first, all she could do was hug back as tears fall from her face into Twilight's back.
+
+As she cried in Twilight's hooves, Pinkie felt more of her friends joining the hug, wrapping their own hooves around her wherever they could find space.
+
+Pinkie finally spoke, saying in a choked back whisper, "I love you girls."
+
+All her friends replied in unison, in a heartfelt tone, "We love you too, Pinkie."
+
+After the hug was over Pinkie looks down at the floor. "I'm sorry I lied to you all for so long…"
+
+Rainbow put a hoof under Pinkie's chin, lifting her face so they were looking eye to eye. "Hey, It's okay, we forgive you, and we love you!"
+
+Pinkie jumps forward uncontrollably and hugs Rainbow in a tight bear-like hug. "Thank you."
+
+Rainbow hugs back as a blush spreads across her face.
+
+After the hug is over, Pinkie looks back at the mirror with a confused expression. "Where did my reflection go? How did you girls find out?"
+
+Twilight steps forward. "Well, they're related, your reflection came and talked to us, telling us about how you've been doing this for so long. I guess you stepped in poison joke that let your reflection talk to us."
+
+"I appreciate the help, but I don't know where to even start with how bad things have gotten…"
+
+"Well, you don't have to do it alone, your reflection already gave us each an idea of where to start."
+
+"I'll have to thank her when she comes back…"
+
+Twilight decides to go first. "I was told you need help managing expectations."
+
+Pinkie nods.
+
+"I want to come over every week and we can write down a realistic expectations table for what you are doing that week. We can make sure nothing crazy keeps you from doing your best, for everypony, but especially for you."
+
+Pinkie'e eyes are full of tears again. "Thank you Twilight."
+
+Twilight hugs Pinkie. "You're welcome."
+
+Pinkie hugs back as her tears start to dry up.
+
+Fluttershy steps forward after the hug is over. "I hear your having some anxiety trouble."
+
+Pinkie nods again. "I almost broke down and told you the other day, but I couldn't bring myself to get it out. I'm sorry."
+
+Fluttershy smiles. "It's okay. I'm just glad we can help you now."
+
+"Do you know how to help me with anxiety?" Pinkie asks.
+
+"The first thing is, you can use my butterfly grove whenever you want. It's very relaxing and can help a lot with stress and anxiety."
+
+Pinkie nods.
+
+"But, more importantly, I want you to talk to me every week about everything that's causing you anxiety. I might not be able to solve all your problems, but I'm a great listening."
+
+Fluttershy hugs Pinkie.
+
+Pinkie hugs back. "Thank you, Fluttershy."
+
+Fluttershy says as the hug ends, "I know the perfect place for us to talk weekly at, and another friend would be there too." Fluttershy nods her head at Rarity.
+
+Rarity steps forward and smiles at Pinkie. "Darling, I know how hard it is to constantly be doing stuff, either for a friend or for a customer. You need to take a break from time to time so you don't burn out."
+
+Pinkie asks, "What do you suggest then?"
+
+"I want you to come with me and Fluttershy to our weekly sap trips. It will give you a much needed break and two of your closest friends to talk to the whole time."
+
+Pinkie's eyes were full of tears again as she hugs Rarity. "thank you!"
+
+Rarity hugs back.
+
+Applejack steps forward next. "I know how hard it is to ask for help, but you need to be able to do it. Asking you girls for help was the best decision I ever made. We all love you and would help you do anything."
+
+Pinkie asks, "How do I know when I should ask for help?"
+
+"When it's too much to handle. When you get anxious and can't do it anymore. When your tired and just want some help. It's not a science, but you'll get used to it and have a sense for it after a while. You can even come to me if you need help deciding if you need help or not."
+
+Pinkie and Applejack chuckle together as they hug.
+
+"Thank you, Applejack."
+
+Rainbow steps forward now. "Thank you, Pinkie. You've been the shining light of this town and us here now. Without you, I don't know if we'd all be friends."
+
+Pinkie blushes as she looks at Rainbow.
+
+Rainbow continues. "We love you Pinkie. We will always be your friend, and always be there for you. Even knowing everything you hid from us, all of our first thought's were, 'what can I do to help Pinkie?'"
+
+Pinkie's blush grew bigger. "There is something I've been wanting to ask you…"
+
+Rainbow smiles. "I have something to ask you, can I go first?"
+
+Pinkie nods.
+
+Rainbow leans forward and kisses Pinkie on the lips.
+
+Pinkie kiss back after getting over the shock of the moment.
+
+After the kiss, Rainbow grins. "Pinkie, will you go out with me?"
+
+Pinkie's smile took up the entire width of her face. "Yes!"
+
+The two hugged each other tight as their blushes slowly fade.
+
+After the hug, Pinkie looks around the room at her friends with a big beautiful smile. "i love girls, so much…"
+
+Another group hug forms as Pinkie is once again embraced by the love and joy of her friends.
+
+Pinkie takes a look in the mirror and smiles at her reflection, which has returned.
+
+Her reflection smiles back, matching her without resistance for the first time in a long time.
