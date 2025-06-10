@@ -1,6 +1,6 @@
 # Pink Reflections
 
-Pinkie Pie bounces up the stairs of Sugarcube Corner to her room with a wide grin plastered on her face. She sighs in satisfaction to herself.
+Pinkie Pie bounces up the stairs to her room with a wide grin plastered on her face. She sighs in satisfaction to herself.
 
 "Another successful party planned! That one was quite a doozy."
 
@@ -32,7 +32,7 @@ Her reflection does not smile back.
 
 "Come on, can we not do this today? It's been a long day."
 
-Her reflection's mane flattens and falls down, the colors across her face and body dulling. Its gaze leaves her own and casts upon the floor.
+Her reflection's mane flattens and falls down, the colors across her face and body dulling. Her gaze leaves Pinkie and casts upon the floor.
 
 *"How long do you think you can keep doing this, Pinkie?"*
 
@@ -48,11 +48,11 @@ Pinkie hangs her head in shame.
 
 "I'm always happy!"
 
-*"Yeah, sure you are."
+*"Yeah, sure you are."*
 
 "My wide smile says so!"
 
-*"The one you put on every morning so nopony ever sees who you really are?"*
+*"The one you put on each morning so nopony sees who you really are?"*
 
 Pinkie drops the smile and looks away.
 
@@ -68,15 +68,15 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "But I'm fine! I can take it! I love seeing ponies laugh, and if this is what it takes, then I'll do it!"
 
-*"But you're NOT fine! You put on a front for your friends, but deep down you're miserable. Deep down you're* me.*"*
+*"But you're NOT fine! You put on a front for your friends, but deep down you're miserable. Deep down you're me."*
 
 "I said I'm fine, I can handle it!"
 
-*"Can you? Really? What are you going to do when you can't anymore? When you crash and burn, when your friends see the real you."*
+*"Can you? Really? What are you going to do when you can't anymore? When you crash and burn. When your friends see the real you."*
 
 "That won't happen, I won't let it!"
 
-*"But it will! Sooner or later, all of… THIS, that you've kept hidden underneath, will be too much to handle. What then? Please, you can't keep doing this!"*
+*"But it will! Sooner or later, all of… this, that you've kept hidden underneath you, will be too much to handle."* Pinkie's reflection gestures in her general direction. *"What then? Please, you can't keep doing this."*
 
 "No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
 
@@ -90,7 +90,7 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 *"What about those friends? What will you do when you can't make them smile? When you burn out and can't plan the next party, the next celebration?"*
 
-"I haven't run out of ideas yet, and I got a million more in the back of my head, as long as I force myself, I can do anything."
+"I haven't run out of ideas yet, and I've got a million more in the back of my head. As long as I force myself, I can do anything."
 
 *"What about when forcing yourself stops working? When you see a room and the decorations don't appear in your mind, when your party cannon fails?"*
 
@@ -112,7 +112,7 @@ Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they w
 
 "I can handle the pressure!" Pinkie almost screams.
 
-*"You already put a lot on your plate, and your friends only add to it. If you told them, they could take some from you, help you like you help them. That's what friends are for."*
+*"You already put a lot on your plate, and your friends only add to it. If you told them, they could take some from you– help you like you help them. That's what friends are for."*
 
 "I don't need to burden them with my problems."
 
@@ -124,7 +124,7 @@ Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they w
 
 "What about it? I'm Pinkie Pie, nopony bats an eye when I disappear out of nowhere."
 
-*"You know that's not true, and what will you do when they say something? You know your* disappearances *have been taking longer and longer lately."*
+*"You know that's not true, and what will you do when they say something? You know your disappearances have been taking longer and longer lately."*
 
 "They won't ask, and if they do, I'll figure something out, blame it on a Pinkie sense if I have to."
 
@@ -132,7 +132,7 @@ Pinkie's reflection sighs sadly and drops her gaze to the floor. *"We can't do t
 
 Pinkie closes her eyes and takes in a deep breath, holding it in for a few seconds before releasing it slowly. Her eyes fall upon the list lying abandoned on the ground, all but one item checked off.
 
-"I'll get help when I want to, okay? But I don't need it right now. I can't. Pinkie doesn't need help, she's the one there when others need that help. So that's who I'll be for as long as I can." She picks the list up in a hoof and brushes it off. "Now, if you don't mind, I have a smile to check."
+"I'll get help when I want to, okay? But I don't need it right now. I can't. Pinkie doesn't need help, she's the one there when others need that help. So that's who I'll be for as long as I can." She picks the list up and brushes it off. "Now, if you don't mind, I have a smile to check."
 
 She looks back up to the mirror into her own eyes, framed by her own bright pink fur and poofy mane. She tilts her head to one side, observing her reflection matching her. She smiles widely at the mirror.
 
@@ -216,7 +216,7 @@ Pinkie reappears four-hundred hooves away from Fluttershy before she tries to ca
 
 *You're just here to get flowers, nothing else.*
 
-As Pinkie starts to cry silently, she brushes against an almost unnoticeable amount of poison joke plant.
+As Pinkie sits there crying, she mistakenly brushes against an almost unnoticeable amount of poison joke.
 
 *Just tell her you had a Pinkie Sense and everything will be fine.*
 
@@ -250,7 +250,7 @@ She goes over each item one at a time, the same as yesterday.
 
 "Run the counter and hand out the cakes for pickup? Check! Help Fluttershy pick flowers in the Everfree Forest? Check! *Try* to talk to a friend about my problems? Check! Clean the front dining room? Check!"
 
-Again she stars at the last item on her list.
+Again, she stares at the last item on her list.
 
 *Check on your smile.*
 
@@ -284,7 +284,7 @@ A tear escapes Pinkie, rolling down her face. "Well, I tried. I caved and wanted
 
 "I know, it's just so hard when I've been like this for so long."
 
-*"You need to try again, and again, until you do it and get the help you need."*
+*"You need to try again, and again, until you do it, until you get the help you need."*
 
 "I'll try again, okay? Geez, I thought me trying would have made today easier…"
 
@@ -294,7 +294,7 @@ Pinkie raises her voice. "When will it ever be enough? I tried, I said I'd try a
 
 *"It'll be enough when you get the help you need, when you tell your friends how you really are. You can't stop now. We finally made a smidgen of progress and you want a break, that is not how this should work."*
 
-Pinkie practically yells through tears. "It's not that easy! I can't just go up to Fluttershy and say, 'Hey, Fluttershy, I've been secretly miserable and faking my smile and happiness for you and all our friends for the past few years or so.' I tried to talk to her and I couldn't even say a single word."
+Pinkie practically yells through tears. "It's not that easy! I can't just go up to Fluttershy and say, 'Hey, Fluttershy, I've been secretly miserable and faking my smile and happiness for you and all our friends for the past few years.' I tried to talk to her and I couldn't even say a single word."
 
 *"You have to push through that. I know it will be hard, but you have to. You have to…"*
 
@@ -310,15 +310,15 @@ Pinkie practically yells through tears. "It's not that easy! I can't just go up 
 
 *"Then, I guess you won't be checking off this smile from your list."*
 
-With that, Pinkie snaps, letting out years of pent up hatred and aggression for her reflection. She pulls back her hoof and hurls it full-force into the mirror. Her reflection stares back at her with shock and surprise. As the mirror shatters, the reflection breaks into hundreds of tiny shards.
+With that, Pinkie snaps, letting out years of pent up hatred and aggression for her reflection. She pulls back her hoof and hurls it full-force into the mirror. Her reflection stares back at her with shock. As the mirror shatters, the reflection breaks into hundreds of tiny shards.
 
-The mirror falls piece by piece into the sink and blood starts to drip from Pinkie's hoof onto the broken glass in the sink. Pinkie stands there in silence, trying to comprehend what she just did.
+The mirror falls piece by piece into the sink as blood drips down Pinkie's hoof and onto the broken glass in the sink. Pinkie stands there in silence, trying to comprehend what she just did.
 
-She slowly pulls her hoof away as more bits of broken mirror fall into the sink. She looks at the thin line of blood running from her hoof to the sink. As the surge of anger fades she begins to cry. How did it come to this?
+Her hoof shakes as she slowly pulls it away from the shattered mirror. More bits fall off into the sink. She looks at the thin line of blood running down her hoof. As the surge of anger fades she begins to cry. How did it get this bad?
 
-She finally snaps out of it and sighs. She starts to wash her hoof in the sink, ignoring the glass filling the bowl. Her hoof is clean and the blood is washed down the drain.
+She finally snaps out of it and sighs. She washes the blood off her hoof in the sink, ignoring the pieces of mirror. The water slowly fills up the sink due to the blockage. Her hoof is clean and the blood is washed down the drain.
 
-She dries her hoof off and wipes away her tears.
+She dries off her hoof and wipes away her tears.
 
 She makes her way slowly back to her checklist before crossing out the last item on her list.
 
@@ -336,7 +336,7 @@ Pinkie's reflection spoke up. *"Twilight!"*
 
 *"I'm not Pinkie… I mean I am, but not really. I'm her reflection, and she – we need your help!"*
 
-The reflection at this moment morphs from looking like her bright and cheerful, bubbly friend to the version of herself she hid from her friends.
+The reflection at this moment morphs from looking like her bright and cheerful friend to the version of herself she hid from her friends.
 
 "Why do you look so bad? What's going on?" Twilight asks in a concerning voice.
 
@@ -344,7 +344,7 @@ The reflection at this moment morphs from looking like her bright and cheerful, 
 
 "What do you mean hiding? How could she hide this?" Twilight gestures at the reflection.
 
-*"She forces it, she puts on a smile and forces everything because she's convinced its the only way to make everypony else happy."*
+*"She forces it. She puts on a smile and forces everything because she's convinced its the only way to make everypony else happy."*
 
 Twilight voices drops. "But, what about her? Why isn't she happy?"
 
@@ -380,7 +380,7 @@ Twilight voices drops. "But, what about her? Why isn't she happy?"
 
 "I'll do my best, for her and for you!" Twilight smiles a determined smile.
 
-Pinkie's reflection smiles a genuine smile for the first time in a long time. *"Thank you."*
+Pinkie's reflection smiles a genuine smile for the first time in many years. *"Thank you."*
 
 ***
 
@@ -424,7 +424,7 @@ Rainbow is confused as she looks back in the water again. She doesn't see any si
 
 "What's going on here, Twilight?"
 
-Twilight once again explains everything going on. At the end she points at the reflection and says, "Pinkie needs our help."
+Twilight once again explains everything going on before pointing at the reflection. "Pinkie needs our help."
 
 Rainbow speaks to Pinkie's reflection. "I'm down to help. What can I do for my best friend?"
 
@@ -440,7 +440,7 @@ Pinkie's reflection smiles.
 
 ***
 
-Applejack spits the mouthwash into the sink before looking back up into the mirror. She gasps in surprise as Pinkie's reflection stares back at her. She shakes her head and blinks before seeing her own reflection is back.
+Applejack spits her mouthwash into the sink before looking back into the mirror. She gasps in surprise as Pinkie's reflection stares back at her. She shakes her head and blinks before seeing her own reflection is back.
 
 A few seconds later she hears a teleportation spell outside her bathroom then a knock on the door. "Hello, Applejack? We need to talk."
 
@@ -452,7 +452,7 @@ Twilight explains everything to Applejack as she leads her into the living room.
 
 "She needs to ask you something," Twilight says while pointing in the mirror.
 
-Applejack looks at Pinkie's reflection and asks, "What does Pinkie need, I'd do anything for my family!"
+Applejack looks at Pinkie's reflection and asks, "What does Pinkie need? I'd do anything for my family!"
 
 Pinkie's reflection smiles. *"She needs to know when to ask for help. She's trying to do everything by herself and it's destroying her."*
 
@@ -464,7 +464,7 @@ Pinkie's reflection smiles. *"She needs to know when to ask for help. She's tryi
 
 Fluttershy looks in the mirror and says, "You got this Fluttershy!"
 
-She blinks and is shocked to find her reflection replaced with Pinkie Pie. She backs away and hides behind her mane with her eyes looking at the floor. After taking a few seconds to compose herself, she looks back in the mirror to find her own reflection is back.
+She blinks and is shocked to find her reflection replaced with Pinkie Pie. She backs away and hides behind her mane. After taking a few seconds to compose herself, she looks back in the mirror to find her own reflection is back.
 
 She hears a knock at the door and goes to answer it.
 
@@ -492,23 +492,23 @@ Fluttershy turns and greets Pinkie's reflection. "Hello."
 
 *"Pinkie is overwhelmed with anxiety, she keeps ignoring it, but it's ruining her life. She needs to deal with it, and she needs help!"*
 
-"Oh, I see. Well, I've had to deal with my fair share of anxiety… I'll do my best to help her."
+"Oh, I see. Well, I've had to deal with my fair share of anxiety… as you can probably guess." Fluttershy blushes. "I'll do my best to help her."
 
 *"Thank you."*
 
 ***
 
-Pinkie Pie opens the door to her bedroom. She makes her way into the room and is about to greet Gummy when she notices a lone floor-standing mirror in the center of her room.
+Pinkie Pie opens the door to her bedroom. She is about to greet Gummy when she notices a lone floor-standing mirror in the center of her room.
 
-She trots up to the mirror noticing she can't see herself in it. She has no reflection. As she's about to start panicking, she sees something strange in the mirror. Five Pinkie Pies appear in the mirror, one center one with four more popping in to the side from behind them.
+She trots up to the mirror and notices she can't see herself in it… she has no reflection! As she's about to start panicking, she sees something strange in the mirror. Five Pinkie Pies appear in the mirror, one center one with four more popping in to the side from behind them.
 
-Pinkie blinks and rubs her eyes. After she opens her eyes, the five ponies are no longer her, but her five best friends in the world.
+Pinkie blinks and rubs her eyes. After she opens them, the five ponies are no longer her, but her five best friends.
 
-"What's going on here?" Pinkie asks before turning around to see all her friends standing behind her.
+"What's going on here?" Pinkie asks. Pinkie looks behind herself to see all her friends standing behind her.
 
 Twilight, who is standing in front comes forward and wraps Pinkie in a hug. "Pinkie, we know what you've been doing for us, but we want to help so that you can be happy too."
 
-For a second, Pinkie wanted to deny it, but she knew she couldn't. She didn't know how to respond at first, all she could do was hug back as tears fall from her face into Twilight's back.
+For a second, Pinkie wanted to deny it, but she knew she couldn't. She didn't know how to respond at first, all she could do was let the tears fall from her face onto Twilight's back.
 
 As she cried in Twilight's hooves, Pinkie felt more of her friends joining the hug, wrapping their own hooves around her wherever they could find space.
 
@@ -518,19 +518,19 @@ All her friends replied in unison, in a heartfelt tone, "We love you too, Pinkie
 
 After the hug was over Pinkie looks down at the floor. "I'm sorry I lied to you all for so long…"
 
-Rainbow put a hoof under Pinkie's chin, lifting her face so they were looking eye to eye. "Hey, It's okay, we forgive you, and we love you!"
+Rainbow put a hoof under Pinkie's chin, lifting her face so they were looking eye to eye. "Hey, It's okay, we forgive you. We love you!"
 
 Pinkie jumps forward uncontrollably and hugs Rainbow in a tight bear-like hug. "Thank you."
 
-Rainbow hugs back as a blush spreads across her face.
+Rainbow hugs her back as a blush spreads across her face.
 
-After the hug is over, Pinkie looks back at the mirror with a confused expression. "Where did my reflection go? How did you girls find out?"
+After the hug is over, Pinkie looks at the mirror with a confused expression. "Where did my reflection go? How did you girls find out?"
 
-Twilight steps forward. "Well, they're related, your reflection came and talked to us, telling us about how you've been doing this for so long. I guess you stepped in poison joke that let your reflection talk to us."
+Twilight steps forward. "Well, they're related. Your reflection came and talked to us, telling us about how you've been doing this for so long. I guess you stepped in poison joke when you were in the Everfree Forest with Fluttershy, it seems like that allowed your reflection talk to us."
 
 "I appreciate the help, but I don't know where to even start with how bad things have gotten…"
 
-"Well, you don't have to do it alone, your reflection already gave us each an idea of where to start."
+"Well, you don't have to do it alone. Your reflection already gave us each an idea of where to start."
 
 "I'll have to thank her when she comes back…"
 
@@ -544,9 +544,7 @@ Pinkie'e eyes are full of tears again. "Thank you Twilight."
 
 Twilight hugs Pinkie. "You're welcome."
 
-Pinkie hugs back as her tears start to dry up.
-
-Fluttershy steps forward after the hug is over. "I hear your having some anxiety trouble."
+Fluttershy steps forward after the hug is over. "I hear you're having trouble with anxiety…"
 
 Pinkie nods again. "I almost broke down and told you the other day, but I couldn't bring myself to get it out. I'm sorry."
 
@@ -554,43 +552,39 @@ Fluttershy smiles. "It's okay. I'm just glad we can help you now."
 
 "Do you know how to help me with anxiety?" Pinkie asks.
 
-"The first thing is, you can use my butterfly grove whenever you want. It's very relaxing and can help a lot with stress and anxiety."
+"The first thing is, you can use my butterfly grove whenever you want. It's very relaxing and I use it all the time when I feel stressed or overwhelmed."
 
 Pinkie nods.
 
-"But, more importantly, I want you to talk to me every week about everything that's causing you anxiety. I might not be able to solve all your problems, but I'm a great listening."
+"But, more importantly, I want you to talk to me every week about everything that's causing you anxiety. I might not be able to solve all your problems, but it always helps to have a friend listen, and I can teach you the skills I use to cope."
 
-Fluttershy hugs Pinkie.
+Fluttershy hugs Pinkie. "I know the perfect place for us to talk weekly at, and another friend would be there too." Fluttershy nods her head at Rarity.
 
-Pinkie hugs back. "Thank you, Fluttershy."
-
-Fluttershy says as the hug ends, "I know the perfect place for us to talk weekly at, and another friend would be there too." Fluttershy nods her head at Rarity.
-
-Rarity steps forward and smiles at Pinkie. "Darling, I know how hard it is to constantly be doing stuff, either for a friend or for a customer. You need to take a break from time to time so you don't burn out."
+Rarity smiles at Pinkie. "Darling, I know how hard it is to constantly be doing stuff, either for a friend or for a customer. You need to take a break from time to time so you don't over-exert yourself."
 
 Pinkie asks, "What do you suggest then?"
 
-"I want you to come with me and Fluttershy to our weekly sap trips. It will give you a much needed break and two of your closest friends to talk to the whole time."
+"I want you to come with me and Fluttershy to our weekly spa trips. It will give you a much needed break and two of your closest friends to talk to the whole time."
 
 Pinkie's eyes were full of tears again as she hugs Rarity. "thank you!"
 
 Rarity hugs back.
 
-Applejack steps forward next. "I know how hard it is to ask for help, but you need to be able to do it. Asking you girls for help was the best decision I ever made. We all love you and would help you do anything."
+Applejack steps forward next. "I know how hard it is to ask for help, but you need to be able to do it. Learning to ask others for help when I need it was one of the best decisions I ever made. We all love you and would help you do anything."
 
 Pinkie asks, "How do I know when I should ask for help?"
 
-"When it's too much to handle. When you get anxious and can't do it anymore. When your tired and just want some help. It's not a science, but you'll get used to it and have a sense for it after a while. You can even come to me if you need help deciding if you need help or not."
+"When it's too much to handle. When you get anxious and can't do it anymore. Or when you're tired and just need a break. It's not a science, but you'll get used to it and have a sense for it after a while. You can even come to me if you need help deciding if you need help or not."
 
 Pinkie and Applejack chuckle together as they hug.
 
 "Thank you, Applejack."
 
-Rainbow steps forward now. "Thank you, Pinkie. You've been the shining light of this town and us here now. Without you, I don't know if we'd all be friends."
+Rainbow steps forward now. "Thank you, Pinkie. You're the shining light of this town and for your friends. Without you, I don't know if we'd all be friends."
 
 Pinkie blushes as she looks at Rainbow.
 
-Rainbow continues. "We love you Pinkie. We will always be your friend, and always be there for you. Even knowing everything you hid from us, all of our first thought's were, 'what can I do to help Pinkie?'"
+Rainbow continues. "We love you Pinkie. We will always be your friend, and we'll always be there for you. Even knowing everything you hid from us, all of our first thoughts were, 'what can I do to help Pinkie?'"
 
 Pinkie's blush grew bigger. "There is something I've been wanting to ask you…"
 
@@ -598,20 +592,18 @@ Rainbow smiles. "I have something to ask you, can I go first?"
 
 Pinkie nods.
 
-Rainbow leans forward and kisses Pinkie on the lips.
+Rainbow leans forward and gently kisses Pinkie on the lips.
 
-Pinkie kiss back after getting over the shock of the moment.
-
-After the kiss, Rainbow grins. "Pinkie, will you go out with me?"
+After a moment of shock, Pinkie passionately kisses her back. Rainbow grins. "Pinkie, will you go out with me?"
 
 Pinkie's smile took up the entire width of her face. "Yes!"
 
-The two hugged each other tight as their blushes slowly fade.
+The two hugged each other tight as their blushes slowly begin to fade.
 
-After the hug, Pinkie looks around the room at her friends with a big beautiful smile. "i love girls, so much…"
+After the hug, Pinkie looks around the room at her friends with a big beautiful smile. "I love you girls, so much…"
 
 Another group hug forms as Pinkie is once again embraced by the love and joy of her friends.
 
 Pinkie takes a look in the mirror and smiles at her reflection, which has returned.
 
-Her reflection smiles back, matching her without resistance for the first time in a long time.
+Her reflection smiles back, matching her without resistance with a genuine smile for the first time in a long time.
