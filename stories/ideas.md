@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Coaster Couple
+
+### Synopsis:
+Rainbow flies Pinkie on the exact path of her old favorite roller coaster from her childhood which is long gone.
+
+***
+
 ## Authorial Assistance
 
 ### Synopsis:
