@@ -146,7 +146,7 @@ She flicks the light switch, and right before closing the door, she spares a fin
 
 ***
 
-Pinkie trots beside Fluttershy as the pair make their way deeper into the Everfree forest. A small flower basket hangs from Pinkie's mane, swaying with the motion of the wind.
+Pinkie trots beside Fluttershy as the pair make their way deeper into the Everfree Forest. A small flower basket hangs from Pinkie's mane, swaying with the motion of the wind.
 
 "Where are the flowers you needed, Fluttershy?" Pinkie asks cheerfully.
 
@@ -410,7 +410,7 @@ Rarity smiles back. "I think I can help, I've had to deal with burnout myself ma
 
 Rainbow Dash is flying above the Ponyville Lake, practicing her tricks. As she flies around, she spots something pink under the water. She stops flying as she tries to understand what's going on.
 
-After not seeing Pinkie move, she bolts into action, realizing she might be drowning.
+She realizes it's Pinkie Pie. After not seeing Pinkie move, she bolts into action, realizing she might be drowning.
 
 She swoops down as fast as she can, diving into the water to save her friend. After some time searching frantically, she surfaces and walks out of the water to look for her.
 
