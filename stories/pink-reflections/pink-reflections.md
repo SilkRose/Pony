@@ -1,6 +1,6 @@
 # Pink Reflections
 
-Pinkie Pie bounces up the stairs to her room with a wide grin plastered on her face. She sighs in satisfaction to herself.
+Pinkie Pie bounces up the stairs to her room with a wide grin plastered on her face. She sighs to herself with satisfaction.
 
 "Another successful party planned! That one was quite a doozy."
 
@@ -40,7 +40,7 @@ Her reflection's mane flattens and falls down, the colors across her face and bo
 
 *"That's not what I mean, and you know it."*
 
-Pinkie hangs her head in shame.
+Pinkie looks away.
 
 "I still don't know what you mean. Sweetie Belle was happy at the party! They all were! They were all smiling and laughing and having a total blast tonight!"
 
@@ -54,11 +54,11 @@ Pinkie hangs her head in shame.
 
 *"The one you put on each morning so nopony sees who you really are?"*
 
-Pinkie drops the smile and looks away.
+Pinkie hangs her head in shame.
 
 "And what does it matter if I put it on every morning so that's what ponies see instead?"
 
-*"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy, but you yourself can barely make your true self smile!"* 
+*"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy except yourself!"* 
 
 "So what?! If wearing a smile brings one to the faces of all my friends and all the ponies of Ponyville, why should I stop?"
 
@@ -68,7 +68,7 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "But I'm fine! I can take it! I love seeing ponies laugh, and if this is what it takes, then I'll do it!"
 
-*"But you're NOT fine! You put on a front for your friends, but deep down you're miserable. Deep down you're me."*
+*"But you're NOT fine! You put on a front for your friends, but deep down you're miserable. Deep down you're still me."*
 
 "I said I'm fine, I can handle it!"
 
@@ -80,13 +80,13 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
 
-*"You know it will, and you're afraid. You've delayed the crash, but you're still terrified of the burns."*
+*"You know you will, and you're afraid. You've delayed the crash, but you're still terrified of the burns."*
 
 "I've delayed it this long, what's a few more years?"
 
 *"You don't have a few more years. You need help, and you need it now!"*
 
-"I don't need anything from anypony, I just need to make my friends smile."
+"I don't need anything from anypony. I just need to make my friends smile."
 
 *"What about those friends? What will you do when you can't make them smile? When you burn out and can't plan the next party, the next celebration?"*
 
@@ -104,7 +104,7 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 "They would never do that…"
 
-*"They WILL and are going to if you don't get the help you NEED."*
+*"They WOULD, and they're GOING TO if you don't get the help you NEED."*
 
 Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they won't. We've been over this a million times already!"
 
