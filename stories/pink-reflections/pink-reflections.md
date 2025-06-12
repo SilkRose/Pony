@@ -166,15 +166,15 @@ Pinkie trots beside Fluttershy as the pair make their way deeper into the Everfr
 
 "Well…"
 
-For a moment, Pinkie considers opening up to Fluttershy because of her reflections pleading.
+For a moment, Pinkie considers opening up to Fluttershy because of her reflection's pleading.
 
 "I'm…"
 
-The more the words stick in her throat, the more hesitance she gets, ultimately, she decides to pretend she's fine.
-
-*Maybe next time…*
+The more the words stick in her throat, the more hesitant she gets, until, finally, she eeks out the words...
 
 "Doing pretty good!"
+
+*Maybe next time…*
 
 Fluttershy looks at Pinkie warily before leaving it be. "That's good to hear."
 
@@ -304,19 +304,19 @@ Pinkie practically yells through tears. "It's not that easy! I can't just go up 
 
 "Can you just smile so I can be done with this and go to bed?"
 
-*"No. I'll smile if you promise to try and ask a friend for help."*
+*"No. I'll smile if you promise to ask a friend for help."*
 
-"I can't do that. You saw what it did to me today, I can't do this every day!"
+"I can't do that. You saw what that did to me today, I can't do this every day!"
 
 *"Then, I guess you won't be checking off this smile from your list."*
 
 With that, Pinkie snaps, letting out years of pent up hatred and aggression for her reflection. She pulls back her hoof and hurls it full-force into the mirror. Her reflection stares back at her with shock. As the mirror shatters, the reflection breaks into hundreds of tiny shards.
 
-The mirror falls piece by piece into the sink as blood drips down Pinkie's hoof and onto the broken glass in the sink. Pinkie stands there in silence, trying to comprehend what she just did.
+The mirror falls piece by piece into the sink, and the shards collect drops of blood from Pinkie's hoof. Pinkie stands there in silence, trying to comprehend what she just did.
 
 Her hoof shakes as she slowly pulls it away from the shattered mirror. More bits fall off into the sink. She looks at the thin line of blood running down her hoof. As the surge of anger fades she begins to cry. How did it get this bad?
 
-She finally snaps out of it and sighs. She washes the blood off her hoof in the sink, ignoring the pieces of mirror. The water slowly fills up the sink due to the blockage. Her hoof is clean and the blood is washed down the drain.
+She finally snaps out of it and sighs. She washes the blood off her hoof in the sink, ignoring the pieces of mirror. The water slowly fills up the sink due to the blockage. Her hoof is clean and the blood trickles down the drain.
 
 She dries off her hoof and wipes away her tears.
 
@@ -338,7 +338,7 @@ Pinkie's reflection spoke up. *"Twilight!"*
 
 The reflection at this moment morphs from looking like her bright and cheerful friend to the version of herself she hid from her friends.
 
-"Why do you look so bad? What's going on?" Twilight asks in a concerning voice.
+"Why do you look so sad? What's going on?" Twilight asks in a concerning voice.
 
 *"Pinkie has been hiding how she really is for a long time. I'm how she really is. I'm Pinkie Pie."*
 
