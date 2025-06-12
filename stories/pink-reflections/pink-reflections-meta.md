@@ -6,10 +6,15 @@
 ## Description:
 Pinkie Pie can't look her reflection in the eyes. Maybe her friends can.
 
-Written in partnership with [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus), who owns this story just as much as me, without them, this story wouldn't be what it is today.
-
 Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
+ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for writing 700 words and for paying for the cover.
+
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
+Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading.
+
+Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) for pre-reading.
 ## Short Description:
 Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
 
