@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Secret Party Planner
+
+### Synopsis:
+The mane six go to a party secretly planned by one of them. At the end of the party they try to figure out who planned it.
+
+***
+
 ## Coaster Couple
 
 ### Synopsis:
