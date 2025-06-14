@@ -26,6 +26,20 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Well Silkie, you have my attention. Let's see if you have my heart."
 
+> I want to get started by telling you a bit about myself first. My name is Silk Rose, short for Silken Rosette. I love to create, I like to do art and I love to code and write. You're a big inspiration for me; I want to make others happy just like you!
+
+"That's so sweet. I'm glad I'm not alone in my mission!"
+
+> I love to write stories; mostly about romance, but also about comedy and horror. I've written a lot, and hopefully it's doing me justice in this letter. When it comes to coding I mostly do automation tasks and command line interface tools. Hopefully that made sense.
+
+"I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool Silkie."
+
+> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task that ponies might not realize is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
+
+"You are so right. It's a lot of work to do all the planning, and you are invited to my next party!"
+
+
+
 > Despite us never meeting, you've affected my life in ways you probably would never expect. You give me and many others hope by showing them the value of laughter and friendship. You inspire me to be better and to be myself in all aspect of life.
 
 *Aww, that just fills my heart with joy.*
