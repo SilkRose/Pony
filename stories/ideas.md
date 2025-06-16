@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Silk Scream
+
+### Short Description:
+It was the most beautiful scream I'd ever heard… I wanted to hear it again.
+
+***
+
 ## Secret Party Planner
 
 ### Synopsis:
