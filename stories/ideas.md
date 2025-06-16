@@ -32,13 +32,6 @@ Sunset goes to Equestria to see Pinkie after the one she's dating in her world d
 
 ***
 
-## Narrative Intervention
-
-### Synopsis:
-The mane 6 have an intervention for the narrator because he's so unreliable.
-
-***
-
 ## Hot Spare
 
 ### Synopsis:
