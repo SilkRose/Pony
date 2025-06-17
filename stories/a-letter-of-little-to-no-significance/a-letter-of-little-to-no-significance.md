@@ -62,11 +62,28 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "I bet you're cute and pretty too! I wouldn't mind if the hug lasted longer than normal."
 
-> 
+> I'm going to end this letter with a poem I wrote for you.
 
-""
+"I love poems!"
 
-> Love,
+> Thoughts so random, you'd think it luck  
+> For in my mind, you'll forever be stuck  
+> Beautiful without a chance  
+> With you, I'd like to dance
+
+> Your heart stained smile  
+> I could watch for a while  
+> Love to share our sanity  
+> While we drip off vanity
+
+> I want to make you go wild  
+> As we both act like a child  
+> I hope this brightens your day, for I will get out the way  
+> One last thing while I blush, I must say you are my crush
+
+"Aww, that was so sweet. I love it!"
+
+> Love,  
 > Silk Rose
 
 "Silkie, I love you too!"
