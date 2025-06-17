@@ -2,7 +2,7 @@
 
 Pinkie Pie bounces up the stairs to her room with a wide grin plastered on her face. She sighs to herself with satisfaction.
 
-"Another successful party planned! That one was quite a doozy."
+"Another party planned, prepared, and... pulled off! That one was quite a doozy."
 
 Pinkie reaches into her mane and pulls out a long piece of paper.
 
@@ -18,7 +18,7 @@ Pinkie's eyes linger at the final item at the bottom of the list, one that has r
 
 Pinkie's grin briefly wavers. "R- right. Well, okie dokie lokie!"
 
-She bounces her way to the bathroom and flicks on the lights, her eyes settling on the mirror over the nearby sink. She trots over to the mirror and gives her brightest smile.
+She bounces her way to the bathroom and flicks on the lights, her eyes settling on the mirror over the sink. She trots over to the mirror and gives her brightest smile.
 
 Her reflection does not smile back.
 
@@ -26,13 +26,13 @@ She smiles wider.
 
 Her reflection does not smile back.
 
-She strains and stretches the tips of her grin as far as she possibly can.
+She strains and stretches the edges of her mouth as far as she possibly can.
 
 Her reflection does not smile back.
 
-"Come on, can we not do this today? It's been a long day."
+"Come on, can we not do this again? It's been a long day."
 
-Her reflection's mane flattens and falls down, the colors across her face and body dulling. Her gaze leaves Pinkie and casts upon the floor.
+Her reflection's mane flattens and falls down, the color dulling on her face and body. Her gaze leaves Pinkie and falls upon the floor.
 
 *"How long do you think you can keep doing this, Pinkie?"*
 
@@ -50,7 +50,7 @@ Pinkie looks away.
 
 *"Yeah, sure you are."*
 
-"My wide smile says so!"
+"My smile sure says so!"
 
 *"The one you put on each morning so nopony sees who you really are?"*
 
@@ -60,11 +60,11 @@ Pinkie hangs her head in shame.
 
 *"It's everything! All of it!"* Her reflection pleads with her. *"You're making everypony happy except yourself!"* 
 
-"So what?! If wearing a smile brings one to the faces of all my friends and all the ponies of Ponyville, why should I stop?"
+"So what?! If my fake smile brings a real smile to the faces of all my friends, why should I stop?"
 
 *"Pinkie, look at me! Can you even recognize me anymore, your own reflection?"*
 
-Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, reddened eyes, her flat mane cascades down her neck and face, several loose strands sticking out all over. The fur under her eyes is matted from nights of tears. Both ears hang limp to the sides of her face. She squeezes her eyes shut and turns away.
+Pinkie complies, and winces momentarily. Heavy bags weigh under her tired, reddened eyes. Her flat mane cascades down her neck and face, with several loose strands sticking out all over. The fur under her eyes is matted from nights of tears. Both ears hang limp to the sides of her face. She squeezes her eyes shut and turns away.
 
 "But I'm fine! I can take it! I love seeing ponies laugh, and if this is what it takes, then I'll do it!"
 
@@ -78,7 +78,7 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 *"But it will! Sooner or later, all of… this, that you've kept hidden underneath you, will be too much to handle."* Pinkie's reflection gestures in her general direction. *"What then? Please, you can't keep doing this."*
 
-"No, it won't, you're wrong. I am strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
+"No, it won't, you're wrong. I'm strong, and I'll never disappoint my friends," Pinkie says as a tear rolls down her face.
 
 *"You know you will, and you're afraid. You've delayed the crash, but you're still terrified of the burns."*
 
@@ -108,7 +108,7 @@ Pinkie complies, and winced momentarily. Heavy bags weigh under her tired, redde
 
 Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they won't. We've been over this a million times already!"
 
-"Getting angry won't help, you're under too much pressure for that to let off steam."
+"*Getting angry won't help, you're under too much pressure for that to let off steam.*"
 
 "I can handle the pressure!" Pinkie almost screams.
 
@@ -118,21 +118,21 @@ Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they w
 
 *"They wouldn't see it as a burden, and you know that. They would love to help you any way they could."*
 
-"I don't need their help, I'm doing fine!" Pinkie says angrily.
+"I don't need their help, I'm doing fine!"
 
 *"What about when you're not fine? When the anxiety gets to you, and you shut down?"*
 
-"What about it? I'm Pinkie Pie, nopony bats an eye when I disappear out of nowhere."
+"What about it? I'm Pinkie Pie, nopony bats an eye when I disappear."
 
 *"You know that's not true, and what will you do when they say something? You know your disappearances have been taking longer and longer lately."*
 
-"They won't ask, and if they do, I'll figure something out, blame it on a Pinkie sense if I have to."
+"They won't ask, and if they do, I'll figure something out. Blame it on my Pinkie sense if I have to."
 
 Pinkie's reflection sighs sadly and drops her gaze to the floor. *"We can't do this forever, Pinkie. We need to get help… while we still can, while we still have friends."*
 
 Pinkie closes her eyes and takes in a deep breath, holding it in for a few seconds before releasing it slowly. Her eyes fall upon the list lying abandoned on the ground, all but one item checked off.
 
-"I'll get help when I want to, okay? But I don't need it right now. I can't. Pinkie doesn't need help, she's the one there when others need that help. So that's who I'll be for as long as I can." She picks the list up and brushes it off. "Now, if you don't mind, I have a smile to check."
+"I'll get help when I need to, okay? But I don't need it right now. I can't. Pinkie doesn't need help, she's the one who's always there when others need help. So that's who I'll be for as long as I can." She picks the list up and brushes it off. "Now, if you don't mind, I have a smile to check."
 
 She looks back up to the mirror into her own eyes, framed by her own bright pink fur and poofy mane. She tilts her head to one side, observing her reflection matching her. She smiles widely at the mirror.
 
