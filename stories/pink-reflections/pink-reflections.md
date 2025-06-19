@@ -150,7 +150,7 @@ Pinkie trots beside Fluttershy as the pair make their way deeper into the Everfr
 
 "Where are the flowers you needed, Fluttershy?" Pinkie asks cheerfully.
 
-"Not too far from here. Thank you for helping," Fluttershy says.
+"Not too far from here," Fluttershy says. "Thank you for helping."
 
 "Anything for a friend!" Pinkie bounces along with a smile.
 
@@ -158,9 +158,9 @@ Pinkie trots beside Fluttershy as the pair make their way deeper into the Everfr
 
 "It went great! She loved it and everypony had a great time!"
 
-"That's good to hear." Fluttershy smiles.
+Fluttershy smiles. "That's good to hear."
 
-"How have you been lately?"
+"So how have you been lately?"
 
 "I've been good. I've been a little busy with a new animal I'm taking care of. It's hard, but it's rewarding work. How have you been?"
 
@@ -176,9 +176,9 @@ The more the words stick in her throat, the more hesitant she gets, until, final
 
 *Maybe next time…*
 
-Fluttershy looks at Pinkie warily before leaving it be. "That's good to hear."
+Fluttershy looks at Pinkie warily before leaving it be. "That's... good to hear."
 
-They trot together for the rest of the trip in silence, eventually making it to the flower picking spot.
+They trot together in silence for the rest of the trip, eventually making it to the flower-picking spot.
 
 "We're here," Fluttershy says before setting down her empty baskets on the ground.
 
@@ -186,7 +186,7 @@ They trot together for the rest of the trip in silence, eventually making it to 
 
 Fluttershy starts picking flowers and filling up her first basket. Pinkie watches her while standing still.
 
-*I should try and talk to her, now is like the perfect time.*
+*I should try and talk to her. Now is, like, the perfect time.*
 
 "Fluttershy?"
 
@@ -208,7 +208,7 @@ Fluttershy continues picking flowers.
 
 "Was there something you wanted to talk about?–"
 
-When Fluttershy looked up, Pinkie had vanished.
+When Fluttershy looks up, Pinkie had already vanished.
 
 Pinkie reappears four-hundred hooves away from Fluttershy before she tries to calm herself.
 
@@ -218,7 +218,7 @@ Pinkie reappears four-hundred hooves away from Fluttershy before she tries to ca
 
 As Pinkie sits there crying, she mistakenly brushes against an almost unnoticeable amount of poison joke.
 
-*Just tell her you had a Pinkie Sense and everything will be fine.*
+*Just tell her your Pinkie Sense was acting up and everything will be fine.*
 
 She finally calms herself and gets ready to head back.
 
