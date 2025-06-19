@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Discord of the Author
+
+### Short Description:
+Discord takes on the one pony who might be even stronger than him: the author.
+
+***
+
 ## Silk Scream
 
 ### Short Description:
