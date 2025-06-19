@@ -242,7 +242,7 @@ Gummy doesn't respond, only wagging his tail.
 
 "You're right, today was a great day!"
 
-Pinkie bounces over to her bed before she pulls out her checklist, laying it flat on her bed.
+Pinkie bounces over to her bed before she pulls out her checklist and lays it flat on the covers.
 
 "Let's see here, what all did I do today…"
 
@@ -258,21 +258,21 @@ Again, she stares at the last item on her list.
 
 Pinkie bounces to her bathroom and flicks on the light, before standing in front of the mirror.
 
-She smiles a big wide smile at her reflection.
+She smiles a big, wide smile at her reflection.
 
 Her reflection does not smile back.
 
-*"Do you want praised for failing?"*
+*"Do you want praise for failing?"*
 
 "I thought it would mean something… Do we have to do this again?"
 
-Her reflection dulls and deflates like its done everyday for years.
+Her reflection dulls and deflates like it has done every day for years.
 
-*"You need to try harder, I know you can do it."*
+*"You need to try harder. I know you can do it."*
 
 "I don't think I can…"
 
-*"You NEED to, for you, for me, for your friends."*
+*"You NEED to. For you, for me, for your friends."*
 
 Pinkie raises her voice slightly. "Do you know how hard it is to tell your best friend that you've been faking it for years and that you've never truly been happy for like ever?"
 
