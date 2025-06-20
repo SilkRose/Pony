@@ -122,9 +122,7 @@ They settle on the names of: Sprinkles, Sprinkles, Sprinkles, Sprinkles, Sprinkl
 
 Silk Rose didn't know what to do next so they asked [knighty](https://www.fimfiction.net/user/1/knighty).
 
-[knighty](https://www.fimfiction.net/user/1/knighty) replied, "talk about their favourite scrap metal :V"
-
-[knighty](https://www.fimfiction.net/user/1/knighty) now leaves this story.
+[knighty](https://www.fimfiction.net/user/1/knighty) returns from getting milk and says, "talk about their favourite scrap metal :V"
 
 Rarity spoke first. "I really like platinum. It's great for jewelry and accents on dresses."
 
@@ -139,4 +137,30 @@ Pinkie says, "I love stainless steel, it's great for bakeware and in a pinch you
 Applejack says, "I like lead because it tastes good."
 
 [knighty](https://www.fimfiction.net/user/1/knighty) un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
+
+[knighty](https://www.fimfiction.net/user/1/knighty) now leaves this story.
+
+Silk Rose forgot what they were doing and asks [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) what to do.
+
+[RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) says, "They should compare tails!"
+
+All six ponies turn their butts towards each other, forming a circle. They each try to move their tall so it's in view but struggle with how cramped it in.
+
+While struggling their tails get interwoven and they are all tied to each other by the tail.
+
+Each pony starts to struggle to get loose, but all fail.
+
+Rarity starts to panic, worried for her tail's health.
+
+Fluttershy's extensions break loose and she is fried. (freed?)
+
+Pinkie Pie giggles and starts playing tug of war.
+
+Twilight sighs in defeat and gives up.
+
+Applejack does a cartwheel.
+
+Rainbow Dash Rainbow Dashes.
+
+[RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) now leaves this story.
 
