@@ -4,7 +4,7 @@
 
 
 ## Description:
-Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
+Pinkie Pie can't look her reflection in the eyes. Maybe her friends can.
 
 Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
@@ -19,7 +19,7 @@ Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLone
 Thanks to [MATP](https://www.fimfiction.net/user/544735/MATP) for pre-reading.
 
 ## Short Description:
-Pinkie Pie can't look her reflection in the eyes, maybe her friends can.
+Pinkie Pie can't look her reflection in the eyes. Maybe her friends can.
 
 ## Ideas:
 - Twilight: fear of failure.
