@@ -138,3 +138,5 @@ Pinkie says, "I love stainless steel, it's great for bakeware and in a pinch you
 
 Applejack says, "I like lead because it tastes good."
 
+[knighty](https://www.fimfiction.net/user/1/knighty) un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
+
