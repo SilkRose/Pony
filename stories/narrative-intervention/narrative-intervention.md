@@ -102,7 +102,7 @@ Pinkie bounces over to Rarity. "Rarity, will you go out with me?"
 
 Rarity answers with delight in her eyes, "Yes!"
 
-The two ponies hug as everypony else D'aww's in repsonse.
+The two ponies hug as everypony else D'awws in response.
 
 Twilight decides to ask Twilight the pony for a hug. "Twilight, can I have a hug? You're my favorite princess, and I just think you're super cute."
 
@@ -119,4 +119,22 @@ Silk Rose told her the harsh truth. "You will get a free puppy."
 Everypony smiles as they think of what to name their puppy.
 
 They settle on the names of: Sprinkles, Sprinkles, Sprinkles, Sprinkles, Sprinkles, Twilight Sprinkles, and Narrator Sprinkles.
+
+Silk Rose didn't know what to do next so they asked [knighty](https://www.fimfiction.net/user/1/knighty).
+
+[knighty](https://www.fimfiction.net/user/1/knighty) replied, "talk about their favourite scrap metal :V"
+
+[knighty](https://www.fimfiction.net/user/1/knighty) now leaves this story.
+
+Rarity spoke first. "I really like platinum. It's great for jewelry and accents on dresses."
+
+Rainbow Dash says, "Gold, because I'm always in first place!"
+
+Twilight, the pony says, "I like copper because it's so versatile and useful."
+
+Fluttershy says, "I love uranium, its great for making nuclear bombs."
+
+Pinkie says, "I love stainless steel, it's great for bakeware and in a pinch you can use it as a mirror."
+
+Applejack says, "I like lead because it tastes good."
 
