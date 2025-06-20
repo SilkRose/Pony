@@ -15,6 +15,9 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading.
 
 Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) for pre-reading.
+
+Thanks to [MATP](https://www.fimfiction.net/user/544735/MATP) for pre-reading.
+
 ## Short Description:
 Pinkie Pie can't look her reflection in the eyes. Maybe her friends can.
 

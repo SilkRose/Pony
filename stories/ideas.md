@@ -4,6 +4,27 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Discord of the Author
+
+### Short Description:
+Discord takes on the one pony who might be even stronger than him: the author.
+
+***
+
+## Silk Scream
+
+### Short Description:
+It was the most beautiful scream I'd ever heard… I wanted to hear it again.
+
+***
+
+## Secret Party Planner
+
+### Synopsis:
+The mane six go to a party secretly planned by one of them. At the end of the party they try to figure out who planned it.
+
+***
+
 ## Coaster Couple
 
 ### Synopsis:
@@ -22,13 +43,6 @@ Pinkie Pie gets the author/narrator to help her ask out Rarity.
 
 ### Synopsis:
 Sunset goes to Equestria to see Pinkie after the one she's dating in her world dies.
-
-***
-
-## Narrative Intervention
-
-### Synopsis:
-The mane 6 have an intervention for the narrator because he's so unreliable.
 
 ***
 
