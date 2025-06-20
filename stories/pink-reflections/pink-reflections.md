@@ -604,6 +604,4 @@ After the hug, Pinkie looks around the room at her friends with a big beautiful 
 
 Another group hug forms as Pinkie is once again embraced by the love and joy of her friends.
 
-Pinkie takes a look in the mirror and smiles at her reflection, which has returned.
-
-Her reflection smiles back, matching her without resistance with a genuine smile for the first time in a long time.
+Pinkie takes a look in the mirror and smiles at her reflection, and for the first time in a long, long time, she sees Pinkie Pie looking back at her - with a genuine smile on her face.
