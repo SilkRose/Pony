@@ -72,13 +72,13 @@ Silk Rose replied, "Yes, none of those previous changes before this meeting ever
 
 A darkness spread across Twilight, the pony's face. "How many words are left in this story?"
 
-Rarity replies, "Five-hundred-and-eighty-three."
+Rarity replies, "Five hundred and eighty three."
 
 Pinkie gasps. "What's going to happen for the rest of the story then?"
 
 Silk Rose thought for a moment, then said, "[MATP](https://www.fimfiction.net/user/544735/MATP), you decide."
 
-[MATP](https://www.fimfiction.net/user/544735/MATP)'s section had to be cut due to budgetary constraints.
+Unfortunately, [MATP](https://www.fimfiction.net/user/544735/MATP)'s section had to be cut due to budgetary constraints.
 
 Rainbow Dash finally speaks like a normal pony, asking, "What does that even mean?"
 
@@ -112,7 +112,7 @@ After all the hugging was over, Fluttershy files her taxes.
 
 Pinkie asks an innocent question, "What happens to us when the story ends?"
 
-Silk Rose told her the harsh truth. "You will get a free puppy."
+Silk Rose told her the harsh truth. "You will each get a free puppy."
 
 Everypony smiles as they think of what to name their puppy.
 
@@ -140,7 +140,7 @@ Silk Rose forgot what they were doing and asks [RunicTreetops](https://www.fimfi
 
 [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) says, "They should compare tails!"
 
-All six ponies turn their butts towards each other to form a circle. They each try to move their tail so it's in view, but struggle with how cramped it in.
+All six ponies turn their butts towards each other to form a circle. They each try to move their tail so it's in view, but struggle with how cramped it is.
 
 While struggling, their tails get interwoven into a knot.
 
