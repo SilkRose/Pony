@@ -126,7 +126,7 @@ Pinkie stomps her hooves on the floor and lets out a frustrated huff. "No they w
 
 *"You know that's not true, and what will you do when they say something? You know your disappearances have been taking longer and longer lately."*
 
-"They won't ask, and if they do, I'll figure something out. Blame it on my Pinkie sense if I have to."
+"They won't ask, and if they do, I'll figure something out. Blame it on my Pinkie Sense if I have to."
 
 Pinkie's reflection sighs sadly and drops her gaze to the floor. *"We can't do this forever, Pinkie. We need to get help… while we still can, while we still have friends."*
 
@@ -538,7 +538,7 @@ Twilight decides to go first. "I was told you need help managing expectations."
 
 Pinkie nods.
 
-"I want to come over every week and we can write down a realistic expectations table for what you are doing that week. We can make sure nothing crazy keeps you from doing your best, for everypony, but especially for you."
+"I want to come over every week and we can write down a realistic expectations list for what you are doing that week. We can make sure nothing crazy keeps you from doing your best, for everypony, but especially for you."
 
 Pinkie's eyes are full of tears again. "Thank you, Twilight."
 
