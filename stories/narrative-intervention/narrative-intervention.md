@@ -22,7 +22,7 @@ Applejack does a cartwheel. "Come on, just talk with us."
 
 I decide to finally speak. "Maybe."
 
-Twilight asks, "Do you have an name we should call you?"
+Twilight asks, "Do you have a name we should call you?"
 
 I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
 
@@ -38,7 +38,7 @@ Applejack asks, "Can we have a normal conversation? We're just trying to talk he
 
 I, the real Twilight Sparkle say, "Why don't you like my changes? I'm just doing my job."
 
-Pinkie protests the current destruction of this story. "Your suppose to narrate the story how it happens, not lie and change facts."
+Pinkie protests the current destruction of this story. "Your supposed to narrate the story how it happens, not lie and change facts."
 
 Unfortunately, she was looking at the wrong Twilight while saying it.
 
@@ -66,21 +66,19 @@ Pinkie asks, "So, um, Silk Rose, why are you making the narrator change the stor
 
 Silk Rose replied, "Because I needed to write this story for a comedy entry in the [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06)."
 
-Twilight, the narrator one, asks, "So, this is all just a bit for 1000 word story?"
+Twilight, the narrator one, asks, "So, this is all just a bit for a one-thousand word story?"
 
 Silk Rose replied, "Yes, none of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
 
 A darkness spread across Twilight, the pony's face. "How many words are left in this story?"
 
-Rarity replies, "480."
+Rarity replies, "Five-hundred-and-eighty-three."
 
 Pinkie gasps. "What's going to happen for the rest of the story then?"
 
 Silk Rose thought for a moment, then said, "[MATP](https://www.fimfiction.net/user/544735/MATP), you decide."
 
-[MATP](https://www.fimfiction.net/user/544735/MATP) replies, "Nothing honestly."
-
-[MATP](https://www.fimfiction.net/user/544735/MATP) now leaves this story.
+[MATP](https://www.fimfiction.net/user/544735/MATP)'s section had to be cut due to budgetary constraints.
 
 Rainbow Dash finally speaks like a normal pony, asking, "What does that even mean?"
 
@@ -138,13 +136,11 @@ Applejack says, "I like lead because it tastes good."
 
 [knighty](https://www.fimfiction.net/user/1/knighty) un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
 
-[knighty](https://www.fimfiction.net/user/1/knighty) now leaves this story.
-
 Silk Rose forgot what they were doing and asks [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) what to do.
 
 [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) says, "They should compare tails!"
 
-All six ponies turn their butts towards each other, forming a circle. They each try to move their tall so it's in view but struggle with how cramped it in.
+All six ponies turn their butts towards each other, forming a circle. They each try to move their tail so it's in view but struggle with how cramped it in.
 
 While struggling their tails get interwoven and they are all tied to each other by the tail.
 
@@ -161,6 +157,4 @@ Twilight sighs in defeat and gives up.
 Applejack does a cartwheel.
 
 Rainbow Dash Rainbow Dashes.
-
-[RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) now leaves this story.
 
