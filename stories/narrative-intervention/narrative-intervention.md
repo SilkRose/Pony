@@ -1,10 +1,10 @@
 # Narrative Intervention
 
-Twilight and her friends are all gathered inside her tree-house home, for some reason.
+Twilight and her friends are all gathered inside her tree-house, for some reason.
 
-"Okay girls, you ready for an intervention?" Twilight asks without catching on fire.
+"Okay girls, you remember why we're here?" Twilight asks, without catching fire.
 
-All her friends nod in approval of her skill at not spontaneously combusting.
+All her friends nod, amazed by her skill at not spontaneously combusting.
 
 Twilight sighs. "That's why were here, Mr. Narrator. You need to stop lying in our stories."
 
@@ -14,7 +14,7 @@ Pinkie speaks down, "He lied about the size of my last party!"
 
 Rainbow Dash becomes a real horse, and whinnies.
 
-Fluttershy says something, but you can only read it if you [pay](https://ko-fi.com/loveandtolerance) me five dollars.
+Fluttershy says something, but you can only read it if you [pay me](https://ko-fi.com/loveandtolerance) five dollars.
 
 Rarity groans. "Could you at least talk to us?"
 
@@ -28,7 +28,7 @@ I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
 
 Twilight groans. Which one? I don't know.
 
-Fluttershy tries to pay that five dollars from earlier, but Twilight Sparkle doesn't accept bits.
+Fluttershy tries to pay Twilight the five dollars from earlier, but Ko-Fi doesn't accept bits.
 
 Rarity asks, "Did you just change to third pony perspective from first?"
 
@@ -38,13 +38,13 @@ Applejack asks, "Can we have a normal conversation? We're just trying to talk he
 
 I, the real Twilight Sparkle say, "Why don't you like my changes? I'm just doing my job."
 
-Pinkie protests the current destruction of this story. "Your supposed to narrate the story how it happens, not lie and change facts."
+Pinkie protests the current destruction of this story. "You're supposed to narrate the story how it happens, not lie and change facts."
 
 Unfortunately, she was looking at the wrong Twilight while saying it.
 
-Twilight says, "Yea, why are you doing this?"
+Twilight backs her up, "Yeah, why are you doing this?"
 
-I laugh. "I'm not the one doing this, really."
+I frown. "I'm not the one doing this, really."
 
 Rarity realizes a realization of real life. "Wait, Twilight's right! The author is the one making them do all this stuff."
 
@@ -52,9 +52,9 @@ Everypony gasps at this revelation.
 
 Silk Rose pauses this story to remind you that Pinkie Pie is in fact best pony!
 
-Rainbow Dash blinks in Morse Code but replaces every letter Q with a neigh. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
+Rainbow Dash, unable to speak, blinks in Morse Code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
 
-Twilight Sparkle turns Rainbow Dash back into a pony.
+Twilight Sparkle obliges and turns Rainbow Dash back into a pony.
 
 Fluttershy hugs Rainbow Dash. "I missed you!"
 
@@ -84,11 +84,11 @@ Rainbow Dash finally speaks like a normal pony, asking, "What does that even mea
 
 Silk Rose shrugged. "You girls like romance?"
 
-Rarity smiles and nods. "I do, darling."
+Rarity smiles and nods. "Of course, darling."
 
 Silk Rose asked, "Do you have a crush on anypony?"
 
-Rarity thinks for a second as a blush forms on her face. "I do have a crush on Pinkie Pie."
+Rarity thinks for a second as a blush forms on her face. "I might have a crush on Pinkie Pie."
 
 Pinkie gasps. "Wait, if Silk Rose is the one writing this story, and they asked you the question, doesn't that mean they would just make you have a crush on whoever they wanted?"
 
@@ -102,9 +102,9 @@ Rarity answers with delight in her eyes, "Yes!"
 
 The two ponies hug as everypony else D'awws in response.
 
-Twilight decides to ask Twilight the pony for a hug. "Twilight, can I have a hug? You're my favorite princess, and I just think you're super cute."
+Twilight the narrator decides to ask Twilight the pony for a hug. "Twilight, can I have a hug? You're my favorite princess, and I just think you're super cute."
 
-Twilight nods and both Twilight's hug.
+Twilight nods and both Twilights hug.
 
 While all the sentimental hugging is going on [MATP](https://www.fimfiction.net/user/544735/MATP) returns and gives Silk Rose a big hug.
 
@@ -140,15 +140,15 @@ Silk Rose forgot what they were doing and asks [RunicTreetops](https://www.fimfi
 
 [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) says, "They should compare tails!"
 
-All six ponies turn their butts towards each other, forming a circle. They each try to move their tail so it's in view but struggle with how cramped it in.
+All six ponies turn their butts towards each other to form a circle. They each try to move their tail so it's in view, but struggle with how cramped it in.
 
-While struggling their tails get interwoven and they are all tied to each other by the tail.
+While struggling, their tails get interwoven into a knot.
 
 Each pony starts to struggle to get loose, but all fail.
 
 Rarity starts to panic, worried for her tail's health.
 
-Fluttershy's extensions break loose and she is fried. (freed?)
+Fluttershy's tail extensions break loose and she is fried. (freed?)
 
 Pinkie Pie giggles and starts playing tug of war.
 
