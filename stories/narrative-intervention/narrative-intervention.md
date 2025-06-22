@@ -158,3 +158,14 @@ Applejack does a cartwheel.
 
 Rainbow Dash Rainbow Dashes.
 
+Twilight casts a spell, freeing them all.
+
+˙uʍop ǝpᴉsdn ʎɹoʇs ǝɥʇ sdᴉlɟ puɐ ʎq sǝɯoɔ [qoqopnǝsԀ](https://www.fimfiction.net/user/12771/PseudoBob+Delightus)
+
+[ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) flips the story right side up.
+
+Due to the rapid turning on the story, everypony falls to the ceiling then back onto the floor.
+
+Twilight groans. "Okay, I'm done. This story is over," she says before catching on fire.
+
+The end.
