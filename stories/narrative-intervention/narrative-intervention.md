@@ -50,11 +50,11 @@ Rarity realizes a realization of real life. "Wait, Twilight's right! The author 
 
 Everypony gasps at this revelation.
 
-Silk Rose pauses this story to remind you that Pinkie Pie is in fact best pony!
+Silk Rose pauses this story to remind you that Pinkie is in fact best pony!
 
 Rainbow Dash, unable to speak, blinks in Morse Code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
 
-Twilight Sparkle obliges and turns Rainbow Dash back into a pony.
+Twilight obliges and turns Rainbow Dash back into a pony.
 
 Fluttershy hugs Rainbow Dash. "I missed you!"
 
@@ -72,7 +72,7 @@ Silk Rose replied, "Yes, none of those previous changes before this meeting ever
 
 A darkness spread across Twilight, the pony's face. "How many words are left in this story?"
 
-Rarity replies, "Five hundred and eighty three."
+Rarity replies, "Five hundred and forty."
 
 Pinkie gasps. "What's going to happen for the rest of the story then?"
 
@@ -80,7 +80,7 @@ Silk Rose thought for a moment, then said, "[MATP](https://www.fimfiction.net/us
 
 Unfortunately, [MATP](https://www.fimfiction.net/user/544735/MATP)'s section had to be cut due to budgetary constraints.
 
-Rainbow Dash finally speaks like a normal pony, asking, "What does that even mean?"
+Rainbow Dash finally speaks normally, asking, "What does that even mean?"
 
 Silk Rose shrugged. "You girls like romance?"
 
@@ -102,11 +102,7 @@ Rarity answers with delight in her eyes, "Yes!"
 
 The two ponies hug as everypony else D'awws in response.
 
-Twilight the narrator decides to ask Twilight the pony for a hug. "Twilight, can I have a hug? You're my favorite princess, and I just think you're super cute."
-
-Twilight nods and both Twilights hug.
-
-While all the sentimental hugging is going on [MATP](https://www.fimfiction.net/user/544735/MATP) returns and gives Silk Rose a big hug.
+[Ashy](https://www.fimfiction.net/user/499793/ashley1227) shows up and takes a selfie with Fluttershy and then they hug.
 
 After all the hugging was over, Fluttershy files her taxes.
 
@@ -150,7 +146,7 @@ Rarity starts to panic, worried for her tail's health.
 
 Fluttershy's tail extensions break loose and she is fried. (freed?)
 
-Pinkie Pie giggles and starts playing tug of war.
+Pinkie giggles and starts playing tug of war.
 
 Twilight sighs in defeat and gives up.
 
