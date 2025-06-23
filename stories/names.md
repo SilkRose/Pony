@@ -132,3 +132,5 @@ This file contains random story names that don't have enough thought to have the
 - Thinking Outside the Heart-Shaped Box
 - Undefined Feelings
 - Throne Room Throw Down
+- A Diamond a Day
+- Many Hugs to the Kind
