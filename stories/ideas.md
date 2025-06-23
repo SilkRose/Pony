@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Major Boopage
+
+### Synopsis:
+Pinkie Pie can't stop booping everypony in town, what are they to do?
+
+***
+
 ## Mares Without Labels
 
 ### Synopsis:
