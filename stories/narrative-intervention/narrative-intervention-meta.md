@@ -6,6 +6,8 @@ The mane 6 have an intervention for the narrator because he's so unreliable.
 ## Description:
 Twilight and her friends hold an intervention for the narrator because he's so unreliable.
 
+Entry into [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06).
+
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading and appearing in the story.
 
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading and appearing in the story.
