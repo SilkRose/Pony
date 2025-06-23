@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Mares Without Labels
+
+### Synopsis:
+Rainbow Dash and Rarity have a heartfelt talk on the parts of their lives they don't share publicly. They find comfort in each other, leading Rarity to ask Rainbow out.
+
+### Short Description:
+Sometimes, rejecting the labels society puts on you is the best thing you can do.
+
+***
+
 ## Discord of the Author
 
 ### Short Description:
