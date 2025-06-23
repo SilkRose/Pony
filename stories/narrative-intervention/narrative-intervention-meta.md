@@ -4,10 +4,26 @@
 The mane 6 have an intervention for the narrator because he's so unreliable.
 
 ## Description:
+Twilight and her friends hold an intervention for the narrator because he's so unreliable.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading and appearing in the story.
+
+Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading and appearing in the story.
+
+Thanks to [MATP](https://www.fimfiction.net/user/544735/MATP) for pre-reading and appearing in the story.
+
+Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) for pre-reading and appearing in the story.
+
+Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
+
+Thanks to [AtomicGlow](https://www.fimfiction.net/user/90142/AtomicGlow) for pre-reading.
+
+Thanks to [knighty](https://www.fimfiction.net/user/1/knighty) for appearing in the story.
+
+Thanks to [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) for appearing in the story.
 
 ## Short Description:
-
+Twilight and her friends hold an intervention for the narrator because he's so unreliable.
 
 ## Ideas:
 - Fluttershy says something but you have to pay $5 to read it.
