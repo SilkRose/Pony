@@ -10,7 +10,7 @@ Twilight sighs. "That's why were here, Mr. Narrator. You need to stop lying in o
 
 I, the narrator, don't reply.
 
-Pinkie speaks down, "He lied about the size of my last party!"
+Pinkie Pie speaks down, "He lied about the size of my last party!"
 
 Rainbow Dash becomes a real horse and whinnies.
 
@@ -62,7 +62,7 @@ Rainbow Dash blinks. ".. / -- .. ... ... . -.. / -.-- --- ..- / - --- --- .-.-.-
 
 Fluttershy did not see the blinks as they were not done hugging at the time.
 
-Pinkie asks, "So, um, Silk Rose, why are you making the narrator change the stories we are in?"
+Pinkie Pie asks, "So, um, Silk Rose, why are you making the narrator change the stories we are in?"
 
 Silk Rose replied, "Because I needed to write this story for a comedy entry in the [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06)."
 
