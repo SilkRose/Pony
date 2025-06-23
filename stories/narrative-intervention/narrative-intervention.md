@@ -1,10 +1,10 @@
 # Narrative Intervention
 
-Twilight and her friends are all gathered inside her tree-house, for some reason.
+Twilight and her friends are all gathered inside her tree-house– for some reason.
 
 "Okay girls, you remember why we're here?" Twilight asks, without catching fire.
 
-All her friends nod, amazed by her skill at not spontaneously combusting.
+Her friends nod, amazed by her skill at not spontaneously combusting.
 
 Twilight sighs. "That's why were here, Mr. Narrator. You need to stop lying in our stories."
 
@@ -12,19 +12,19 @@ I, the narrator, don't reply.
 
 Pinkie speaks down, "He lied about the size of my last party!"
 
-Rainbow Dash becomes a real horse, and whinnies.
+Rainbow Dash becomes a real horse and whinnies.
 
-Fluttershy says something, but you can only read it if you [pay me](https://ko-fi.com/loveandtolerance) five dollars.
+Fluttershy says something, but you can only read it if you [donate five dollars](https://ko-fi.com/loveandtolerance).
 
-Rarity groans. "Could you at least talk to us?"
+Rarity groans. "Can you at least talk to us?"
 
 Applejack does a cartwheel. "Come on, just talk with us."
 
-I decide to finally speak. "Maybe."
+I finally decide to speak. "Maybe."
 
 Twilight asks, "Do you have a name we should call you?"
 
-I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
+I simply answer, "Twilight Sparkle– but you can call me Twilight for short."
 
 Twilight groans. Which one? I don't know.
 
@@ -32,7 +32,7 @@ Fluttershy tries to pay Twilight the five dollars from earlier, but Ko-Fi doesn'
 
 Rarity asks, "Did you just change to third pony perspective from first?"
 
-Twilight doesn't reply, but Twilight does, "I don't know," I say.
+Twilight doesn't reply, but Twilight does. "I don't know," I say.
 
 Applejack asks, "Can we have a normal conversation? We're just trying to talk here."
 
@@ -68,9 +68,9 @@ Silk Rose replied, "Because I needed to write this story for a comedy entry in t
 
 Twilight, the narrator one, asks, "So, this is all just a bit for a one-thousand word story?"
 
-Silk Rose replied, "Yes, none of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
+Silk Rose replied, "Yes. None of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
 
-A darkness spread across Twilight, the pony's face. "How many words are left in this story?"
+A darkness spreads across Twilight, the pony's face. "How many words are left in this story?"
 
 Rarity replies, "Five hundred and forty."
 
@@ -100,7 +100,7 @@ Pinkie bounces over to Rarity. "Rarity, will you go out with me?"
 
 Rarity answers with delight in her eyes, "Yes!"
 
-The two ponies hug as everypony else D'awws in response.
+The two ponies hug as everypony else d'awws in response.
 
 [Ashy](https://www.fimfiction.net/user/499793/ashley1227) shows up and takes a selfie with Fluttershy and then they hug.
 
