@@ -149,6 +149,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
 - **[TheAncientPolitzanian]** for collaborative writing.
+- **[SparklingTwilight]** for collaborative writing.
 - **[RunicTreetops]** for collaborative writing.
 - **[ThePeer]** for collaborative writing and pre-reading.
 - **[csos95]** for helping me with the [FIMFiction API].
@@ -157,6 +158,10 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **[gapty]** for proofreading.
 - **[Hyper Star]** for proofreading and pre-reading.
+- **[MATP]** for pre-reading.
+- **[ARandomLonelyGirl]** for pre-reading.
+- **[AtomicGlow]** for pre-reading.
+- **[Hoofprintz]** for pre-reading.
 - **[Visharo]** for pre-reading.
 - **[MoonSong Darkstone]** for writing [The Saddest Rainbow].
 - **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
@@ -232,6 +237,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 [TheAncientPolitzanian]: https://www.fimfiction.net/user/338193/TheAncientPolitzanian "FIMFiction"
 [RunicTreetops]: https://www.fimfiction.net/user/489485/RunicTreetops "FIMFiction"
 [Stinium_Ruide]: https://www.fimfiction.net/user/381526/Stinium_Ruide "FIMFiction"
+[SparklingTwilight]: https://www.fimfiction.net/user/423060/SparklingTwilight "FIMFiction"
+[MATP]: https://www.fimfiction.net/user/544735/MATP "FIMFiction"
+[ARandomLonelyGirl]: https://www.fimfiction.net/user/419652/ARandomLonelyGirl "FIMFiction"
+[AtomicGlow]: https://www.fimfiction.net/user/90142/AtomicGlow "FIMFiction"
+[Hoofprintz]: https://www.fimfiction.net/user/503681/Hoofprintz "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
