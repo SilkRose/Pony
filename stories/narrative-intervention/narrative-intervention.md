@@ -1,12 +1,12 @@
 # Narrative Intervention
 
-Twilight and her friends are all gathered inside her tree-house– for some reason.
+Twilight and her friends are all gathered inside her treehouse, for some reason.
 
 "Okay girls, you remember why we're here?" Twilight asks, without catching fire.
 
 Her friends nod, amazed by her skill at not spontaneously combusting.
 
-Twilight sighs. "That's why were here, Mr. Narrator. You need to stop lying in our stories."
+Twilight sighs. "That's why we're here, Mr. Narrator. You need to stop lying in our stories."
 
 I, the narrator, don't reply.
 
@@ -24,7 +24,7 @@ I finally decide to speak. "Maybe."
 
 Twilight asks, "Do you have a name we should call you?"
 
-I simply answer, "Twilight Sparkle– but you can call me Twilight for short."
+I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
 
 Twilight groans. Which one? I don't know.
 
@@ -36,7 +36,7 @@ Twilight doesn't reply, but Twilight does. "I don't know," I say.
 
 Applejack asks, "Can we have a normal conversation? We're just trying to talk here."
 
-I, the real Twilight Sparkle say, "Why don't you like my changes? I'm just doing my job."
+I, the real Twilight Sparkle, say, "Why don't you like my changes? I'm just doing my job."
 
 Pinkie protests the current destruction of this story. "You're supposed to narrate the story how it happens, not lie and change facts."
 
@@ -52,7 +52,7 @@ Everypony gasps at this revelation.
 
 Silk Rose pauses this story to remind you that Pinkie is in fact best pony!
 
-Rainbow Dash, unable to speak, blinks in Morse Code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
+Rainbow Dash, unable to speak, blinks in Morse code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
 
 Twilight obliges and turns Rainbow Dash back into a pony.
 
@@ -66,11 +66,11 @@ Pinkie Pie asks, "So, um, Silk Rose, why are you making the narrator change the 
 
 Silk Rose replied, "Because I needed to write this story for a comedy entry in the [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06)."
 
-Twilight, the narrator one, asks, "So, this is all just a bit for a one-thousand word story?"
+Twilight, the narrator one, asks, "So, this is all just a bit for a one thousand word story?"
 
 Silk Rose replied, "Yes. None of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
 
-A darkness spreads across Twilight, the pony's face. "How many words are left in this story?"
+A darkness spreads across pony Twilight's face. "How many words are left in this story?"
 
 Rarity replies, "Five hundred and forty."
 
@@ -122,11 +122,11 @@ Rarity spoke first. "I really like platinum. It's great for jewelry and accents 
 
 Rainbow Dash says, "Gold, because I'm always in first place!"
 
-Twilight, the pony says, "I like copper because it's so versatile and useful."
+Pony Twilight says, "I like copper because it's so versatile and useful."
 
-Fluttershy says, "I love uranium, its great for making nuclear bombs."
+Fluttershy says, "I love uranium, it's great for making nuclear bombs."
 
-Pinkie says, "I love stainless steel, it's great for bakeware and in a pinch you can use it as a mirror."
+Pinkie Pie says, "I love stainless steel, it's great for bakeware and in a pinch you can use it as a mirror."
 
 Applejack says, "I like lead because it tastes good."
 
