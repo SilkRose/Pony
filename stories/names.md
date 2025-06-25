@@ -134,3 +134,4 @@ This file contains random story names that don't have enough thought to have the
 - Throne Room Throw Down
 - A Diamond a Day
 - Many Hugs to the Kind
+- Writ of Romance
