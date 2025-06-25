@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## No Reset
+
+### Synopsis:
+Twilight has gone insane believing she is stuck in a reset loop where she resets if she dies. The story ends with her tragic death.
+
+***
+
 ## Major Boopage
 
 ### Synopsis:
