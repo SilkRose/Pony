@@ -12,6 +12,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading and appearing in the story.
 
+Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
+
 Thanks to [MATP](https://www.fimfiction.net/user/544735/MATP) for pre-reading and appearing in the story.
 
 Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) for pre-reading and appearing in the story.
