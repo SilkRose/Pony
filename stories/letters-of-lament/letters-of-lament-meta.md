@@ -15,6 +15,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for pre-reading.
 
+Now with a [reading](https://www.youtube.com/watch?v=RiBFaquSNSw) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
+
 ## Ideas:
 
 
