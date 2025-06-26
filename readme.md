@@ -89,7 +89,8 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Profound Ponytail] | [YouTube][Profound Ponytail reading two] |
 | **[Rainbow Infinity Readings]** | [There] | [YouTube][There reading] |
 | **[Lotus Moon]** | [Blue and Blushing] | [YouTube][Blue and Blushing reading] |
-**[Openair]** | [Pink-Mended Sparkles] | [YouTube][Pink-Mended Sparkles reading]
+**[Openair]** | [Pink-Mended Sparkles] | [YouTube][Pink-Mended Sparkles reading] |
+| **[Lotus Moon]** | [Letters of Lament] | [YouTube][Letters of Lament reading] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -262,6 +263,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [There reading]: https://www.youtube.com/watch?v=Ntgub22ZFcU "YouTube"
 [Blue and Blushing reading]: https://www.youtube.com/watch?v=ZG9fQEqbLi8 "YouTube"
 [Pink-Mended Sparkles reading]: https://www.youtube.com/watch?v=lI5cmum7740 "YouTube"
+[Letters of Lament reading]: https://www.youtube.com/watch?v=RiBFaquSNSw "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
@@ -297,6 +299,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Whispers and Wishes]: https://www.fimfiction.net/story/560940/whispers-and-wishes "FIMFiction"
 [Blue and Blushing]: https://www.fimfiction.net/story/557818/blue-and-blushing "FIMFiction"
 [Pink-Mended Sparkles]: https://www.fimfiction.net/story/547972/pink-mended-sparkles "FIMFiction"
+[Letters of Lament]: https://www.fimfiction.net/story/575613/letters-of-lament "FIMFiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
