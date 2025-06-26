@@ -157,7 +157,8 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Damaged]** for helping me with the [FIMFiction API].
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
-- **[gapty]** for proofreading.
+- **gapty** for proofreading.
+- **[Math Spook]** for proofreading.
 - **[Hyper Star]** for proofreading and pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
@@ -215,7 +216,6 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Tiki Bat FIMFiction]: https://www.fimfiction.net/user/218083/Tiki+Bat "FIMFiction"
 [Tiki Bat Twitter]: https://twitter.com/TikiBat "Twitter"
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "FIMFiction"
-[gapty]: https://www.fimfiction.net/user/493938/gapty "FIMFiction"
 [Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "FIMFiction"
 [PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "FIMFiction"
 [MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "FIMFiction"
@@ -243,6 +243,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [ARandomLonelyGirl]: https://www.fimfiction.net/user/419652/ARandomLonelyGirl "FIMFiction"
 [AtomicGlow]: https://www.fimfiction.net/user/90142/AtomicGlow "FIMFiction"
 [Hoofprintz]: https://www.fimfiction.net/user/503681/Hoofprintz "FIMFiction"
+[Math Spook]: https://www.fimfiction.net/user/612387/Math+Spook "FIMFiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
