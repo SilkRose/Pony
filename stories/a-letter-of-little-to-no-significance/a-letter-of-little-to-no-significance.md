@@ -62,6 +62,14 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "I bet you're cute and pretty too! I wouldn't mind if the hug lasted longer than normal."
 
+> Before I wrap this letter up, I wanted to say something from the heart.
+
+"Okay!"
+
+> I don't know where I'd be without your influence on my life. I know we've never met, but you impacted countless ponies lives, including mine. So, I wanted to say thank you, for being you.
+
+"Thank you for writing this letter! You've impacted my life, even if just a little bit."
+
 > I'm going to end this letter with a poem I wrote for you.
 
 "I love poems!"
@@ -82,6 +90,10 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 > One last thing while I blush, I must say you are my crush
 
 "Aww, that was so sweet. I love it!"
+
+> Hopefully all that shows that I do love you. :)
+
+"I believe you!"
 
 > Love,  
 > Silk Rose
