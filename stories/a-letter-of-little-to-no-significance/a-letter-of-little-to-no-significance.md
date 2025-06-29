@@ -4,7 +4,7 @@ Pinkie Pie opens her mailbox on a bright sunny day with a smile. She fishes out 
 
 *Junk mail, bill, bill, more junk mail, a hoof-written letter.*
 
-"Ooh, a letter!"
+"Ooh, a letter!" She says with a smile.
 
 Pinkie takes the mail inside and makes her way to her bedroom. She sets all the other mail down on her bed as she pays attention to the letter.
 
@@ -33,6 +33,10 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 > I love to write stories; mostly about romance, but also about comedy and horror. I've written a lot, and hopefully it's doing me justice in this letter. When it comes to coding I mostly do automation tasks and command line interface tools. Hopefully that made sense.
 
 "I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool Silkie."
+
+> When it comes to art, I mostly do pixel art for story covers, but I've also made over a thousands textures for a block based video game. I love to vibrant and visually stunning art. Believe it or not, my favorite color is pink!
+
+"I'd love to see some of your art! My favorite color is also pink!"
 
 > As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task that ponies might not realize is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
 
@@ -68,7 +72,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 > I don't know where I'd be without your influence on my life. I know we've never met, but you impacted countless ponies lives, including mine. So, I wanted to say thank you, for being you.
 
-"Thank you for writing this letter! You've impacted my life, even if just a little bit."
+"Thank you for writing this letter! You've impacted my life with just a single letter."
 
 > I'm going to end this letter with a poem I wrote for you.
 
@@ -86,8 +90,13 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 > I want to make you go wild  
 > As we both act like a child  
-> I hope this brightens your day, for I will get out the way  
-> One last thing while I blush, I must say you are my crush
+> Having fun as we run  
+> As we play in the sun
+
+> I hope this brightens your day  
+> For I will get out your way  
+> One last thing while I blush  
+> I must say you are my crush
 
 "Aww, that was so sweet. I love it!"
 
