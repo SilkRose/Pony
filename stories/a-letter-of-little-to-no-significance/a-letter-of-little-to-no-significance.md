@@ -34,7 +34,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool Silkie."
 
-> When it comes to art, I mostly do pixel art for story covers, but I've also made over a thousands textures for a block based video game. I love to vibrant and visually stunning art. Believe it or not, my favorite color is pink!
+> When it comes to art, I mostly do pixel art for story covers, but I've also made over a thousands textures for a block based video game. I love to create vibrant and visually stunning art. Believe it or not, my favorite color is pink!
 
 "I'd love to see some of your art! My favorite color is also pink!"
 
@@ -46,7 +46,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Okay, thank you."
 
-> Despite us never meeting, you've affected my life in ways you probably would never expect. You give me and many others hope by showing them the value of laughter and friendship. You inspire me to be better and to be myself in all aspect of life.
+> Despite us never meeting, you've affected my life in ways you probably would never expect. You give me and many others hope by showing them the value of laughter and friendship. You inspire me to be better and to be myself in all aspects of life.
 
 "Aww, that just fills my heart with joy."
 
