@@ -22,3 +22,7 @@ This file contains random story prompts that you can write from.
 - Rarity has a sleepover with Pinkie as the only guest.
 - Pinkie and Twilight create a non-verbal language.
 - Pinkie asks Twilight out in a unique way.
+- Twilight tries to use math to ask out a friend.
+- Rainbow Dash gives Rarity a ride on her back for a fun flight.
+- Fluttershy falls down a well.
+- Applejack has a crush on Fluttershy.
