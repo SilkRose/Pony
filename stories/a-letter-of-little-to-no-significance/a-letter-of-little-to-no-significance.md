@@ -1,6 +1,6 @@
 # A Letter of Little to no Significance
 
-Pinkie Pie opens her mailbox on a bright sunny day with a smile. She fishes out her mail and sifts through it on the spot.
+Pinkie Pie opens her mailbox with a smile on a bright sunny day. She fishes out her mail and sifts through it on the spot.
 
 *Junk mail, bill, bill, more junk mail, a hoof-written letter.*
 
