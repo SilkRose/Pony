@@ -38,7 +38,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "I'd love to see some of your art! My favorite color is also pink!"
 
-> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task that ponies might not realize is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
+> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task, though ponies might not realize that is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
 
 "You are so right. It's a lot of work to do all the planning, and you are invited to my next party!"
 
