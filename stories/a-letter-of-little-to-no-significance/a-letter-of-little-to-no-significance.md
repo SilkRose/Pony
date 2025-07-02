@@ -4,7 +4,7 @@ Pinkie Pie opens her mailbox with a smile on a bright sunny day. She fishes out 
 
 *Junk mail, bill, bill, more junk mail, a hoof-written letter.*
 
-"Ooh, a letter!" She says with a smile.
+"Ooh, a letter!" she says with a smile.
 
 Pinkie takes the mail inside and makes her way to her bedroom. She sets all the other mail down on her bed as she pays attention to the letter.
 
