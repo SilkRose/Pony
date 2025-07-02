@@ -83,7 +83,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 > Beautiful without a chance  
 > With you, I'd like to dance
 
-> Your heart stained smile  
+> Your heart-stained smile  
 > I could watch for a while  
 > Love to share our sanity  
 > While we drip off vanity
