@@ -70,7 +70,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Okay!"
 
-> I don't know where I'd be without your influence on my life. I know we've never met, but you impacted countless ponies lives, including mine. So, I wanted to say thank you, for being you.
+> I don't know where I'd be without your influence on my life. I know we've never met, but you've impacted countless ponies lives, including mine. So, I wanted to say thank you, for being you.
 
 "Thank you for writing this letter! You've impacted my life with just a single letter."
 
