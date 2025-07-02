@@ -14,7 +14,7 @@ One side has her name on it with a sender name of 'Silk Rose'.
 
 She flips the envelope over to find text written on it that says, *A Letter of Little to no Significance.*
 
-"I guess well see about that, letter."
+"I guess we'll see about that, letter."
 
 Pinkie opens the letter and unfolds it, before starting to read it.
 
