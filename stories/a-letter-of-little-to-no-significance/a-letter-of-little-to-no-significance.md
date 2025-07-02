@@ -1,10 +1,10 @@
 # A Letter of Little to no Significance
 
-Pinkie Pie opens her mailbox on a bright sunny day with a smile. She fishes out her mail and sifts through it on the spot.
+Pinkie Pie opens her mailbox with a smile on a bright sunny day. She fishes out her mail and sifts through it on the spot.
 
 *Junk mail, bill, bill, more junk mail, a hoof-written letter.*
 
-"Ooh, a letter!" She says with a smile.
+"Ooh, a letter!" she says with a smile.
 
 Pinkie takes the mail inside and makes her way to her bedroom. She sets all the other mail down on her bed as she pays attention to the letter.
 
@@ -14,7 +14,7 @@ One side has her name on it with a sender name of 'Silk Rose'.
 
 She flips the envelope over to find text written on it that says, *A Letter of Little to no Significance.*
 
-"I guess well see about that, letter."
+"I guess we'll see about that, letter."
 
 Pinkie opens the letter and unfolds it, before starting to read it.
 
@@ -34,11 +34,11 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool Silkie."
 
-> When it comes to art, I mostly do pixel art for story covers, but I've also made over a thousands textures for a block based video game. I love to create vibrant and visually stunning art. Believe it or not, my favorite color is pink!
+> When it comes to art, I mostly do pixel art for story covers, but I've also made over a thousand textures for a block based video game. I love to create vibrant and visually stunning art. Believe it or not, my favorite color is pink!
 
 "I'd love to see some of your art! My favorite color is also pink!"
 
-> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task that ponies might not realize is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
+> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task, though ponies might not realize that is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
 
 "You are so right. It's a lot of work to do all the planning, and you are invited to my next party!"
 
@@ -70,7 +70,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Okay!"
 
-> I don't know where I'd be without your influence on my life. I know we've never met, but you impacted countless ponies lives, including mine. So, I wanted to say thank you, for being you.
+> I don't know where I'd be without your influence on my life. I know we've never met, but you've impacted countless ponies' lives, including mine. So, I wanted to say thank you, for being you.
 
 "Thank you for writing this letter! You've impacted my life with just a single letter."
 
@@ -83,7 +83,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 > Beautiful without a chance  
 > With you, I'd like to dance
 
-> Your heart stained smile  
+> Your heart-stained smile  
 > I could watch for a while  
 > Love to share our sanity  
 > While we drip off vanity
