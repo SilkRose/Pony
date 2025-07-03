@@ -26,19 +26,19 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Well Silkie, you have my attention. Let's see if you have my heart."
 
-> I want to get started by telling you a bit about myself first. My name is Silk Rose, short for Silken Rosette. I love to create, I like to do art and I love to code and write. You're a big inspiration for me; I want to make others happy just like you!
+> I want to get started by telling you a bit about myself first. My name is Silk Rose, short for Silken Rosette. I love to create, I like to do art, and I love to code and write. You're a big inspiration for me; I want to make others happy just like you!
 
 "That's so sweet. I'm glad I'm not alone in my mission!"
 
 > I love to write stories; mostly about romance, but also about comedy and horror. I've written a lot, and hopefully it's doing me justice in this letter. When it comes to coding I mostly do automation tasks and command line interface tools. Hopefully that made sense.
 
-"I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool Silkie."
+"I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool, Silkie."
 
 > When it comes to art, I mostly do pixel art for story covers, but I've also made over a thousand textures for a block based video game. I love to create vibrant and visually stunning art. Believe it or not, my favorite color is pink!
 
 "I'd love to see some of your art! My favorite color is also pink!"
 
-> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task, though ponies might not realize that is the case. You have to know what the party is about and who it's for to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
+> As somepony who creates, I feel a connection with you. I understand that planning parties like you do is a rather creative task, though ponies might not realize that is the case. You have to know who the party is for and what it's about to get it right. You put so much care and attention into your parties. I hope to go to one at some point.
 
 "You are so right. It's a lot of work to do all the planning, and you are invited to my next party!"
 
@@ -58,9 +58,9 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Aww, thank you!"
 
-> I know some would dismiss you as too random or chaotic, but that's what makes you so special. With Pinkie Pie, anything is possible and more than likely, also fun.
+> I know some would dismiss you as too random or chaotic, but that's what makes you so special. With Pinkie Pie anything is possible, and, more than likely, also fun.
 
-"I try to just be me and do my best."
+"I just try to be the best at being me."
 
 > I would also like to compliment your beauty. You are so very beautiful, and cute, and adorable, and, and, and. I love you. If I got the chance, I would hug you. I just don't know if I would have the will to let go afterwards.
 
@@ -70,7 +70,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Okay!"
 
-> I don't know where I'd be without your influence on my life. I know we've never met, but you've impacted countless ponies' lives, including mine. So, I wanted to say thank you, for being you.
+> I don't know where I'd be without your influence on my life. I know we've never met, but you've impacted countless ponies' lives, including mine. So, I wanted to say thank you for being you.
 
 "Thank you for writing this letter! You've impacted my life with just a single letter."
 
@@ -113,7 +113,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Okay." Pinkie does as instructed.
 
-> P.S. – Boop!
+> P.P.S. – Boop!
 
 Pinkie starts laughing after removing her hoof from her nose.
 
