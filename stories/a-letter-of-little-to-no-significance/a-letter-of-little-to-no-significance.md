@@ -119,4 +119,4 @@ Pinkie starts laughing after removing her hoof from her nose.
 
 Pinkie looks directly at Silk Rose as they write this story and boops them. "Boop!"
 
-She puts the letter down. "Now, where is my bag of hyper-specific invitations? I think I saw an invitation for Silk Rose in there a while back."
+She puts the letter down. "Now, where is my bag of hyper-specific invitations? I swear I saw an invitation for Silk Rose in there a while back."
