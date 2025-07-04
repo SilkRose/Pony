@@ -6,6 +6,8 @@ A letter written to Pinkie Pie.
 ## Description:
 Pinkie gets a letter from a friend she doesn't know yet.
 
+Thanks to [dashie04](https://www.fimfiction.net/user/334129/dashie04) for making concept cover photos.
+
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
