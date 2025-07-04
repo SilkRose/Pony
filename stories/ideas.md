@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Mirror Pool Malpractice
+
+### Synopsis:
+Pinkie goes to court but everypony from the judge to the jury and even her own lawyer is a clone of herself.
+
+***
+
 ## Brilliant Bakeware
 
 ### Synopsis:
