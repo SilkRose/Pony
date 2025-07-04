@@ -26,3 +26,4 @@ Pinkie gets a letter from a friend she doesn't know yet.
 [A Letter of Little to no Significance](./a-letter-of-little-to-no-significance.md)
 
 ## Cover:
+![cover](./a-letter-of-little-to-no-significance-cover-upscaled.png)
