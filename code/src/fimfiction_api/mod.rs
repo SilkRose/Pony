@@ -56,7 +56,7 @@ pub fn fimfic_api_headers(
 	}
 	headers.insert(
 		AUTHORIZATION,
-		HeaderValue::from_str(&format!("Bearer {}", token))?,
+		HeaderValue::from_str(&format!("Bearer {token}"))?,
 	);
 	headers.insert(
 		CONTENT_TYPE,

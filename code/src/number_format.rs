@@ -49,7 +49,7 @@ pub fn format_number_unit_f64(
 	let mut current = number;
 	for unit in units.iter() {
 		if current < divisor {
-			return Ok(format!("{:.1$}{spaced}{unit}", current, decimal_places));
+			return Ok(format!("{current:.decimal_places$}{spaced}{unit}"));
 		}
 		current /= divisor;
 	}

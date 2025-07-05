@@ -116,7 +116,7 @@ fn setup_branch(dir: &str, repo_path: &str, branch: &str) -> Result<Repository, 
 		Ok(repo) => {
 			let mut remote = repo.find_remote("origin")?;
 			remote.fetch(&[branch], None, None)?;
-			let refname = format!("refs/remotes/origin/{}", branch);
+			let refname = format!("refs/remotes/origin/{branch}");
 			let object = repo.revparse_single(&refname)?;
 			repo.reset(&object, ResetType::Hard, None)?;
 			drop(remote);

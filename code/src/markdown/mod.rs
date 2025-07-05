@@ -20,11 +20,11 @@ type Definitions = HashMap<String, String>;
 fn handle_warning(node: &str, error: &WarningType) -> Option<String> {
 	match error {
 		WarningType::Warn => {
-			println!("WARNING: unsupported syntax skipped: {}", node);
+			println!("WARNING: unsupported syntax skipped: {node}");
 			None
 		}
 		WarningType::Fail => {
-			panic!("ERROR: unsupported syntax found: {}", node);
+			panic!("ERROR: unsupported syntax found: {node}");
 		}
 		WarningType::Quiet => None,
 	}

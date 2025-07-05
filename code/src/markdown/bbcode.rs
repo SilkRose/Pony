@@ -124,7 +124,7 @@ fn handle_image(image: &Image) -> String {
 
 fn handle_image_reference(image: &ImageReference, definitions: &Definitions) -> String {
 	let url = definitions.get(&image.identifier).unwrap();
-	format!("[img]{}[/img]", url)
+	format!("[img]{url}[/img]")
 }
 
 fn handle_link(link: &Link, warn: &WarningType, definitions: &Definitions) -> String {

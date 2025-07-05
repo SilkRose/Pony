@@ -19,7 +19,7 @@ where
 	F: Fn(&str) -> bool,
 {
 	let mut answer = String::new();
-	println!("{}", question);
+	println!("{question}");
 	io::stdout().flush()?;
 	io::stdin().read_line(&mut answer)?;
 	if let Some((filter_fn, filter_err)) = filter {
