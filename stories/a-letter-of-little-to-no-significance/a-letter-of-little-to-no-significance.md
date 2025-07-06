@@ -30,7 +30,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "That's so sweet. I'm glad I'm not alone in my mission!"
 
-> I love to write stories; mostly about romance, but also about comedy and horror. I've written a lot, and hopefully it's doing me justice in this letter. When it comes to coding I mostly do automation tasks and command line interface tools. Hopefully that made sense.
+> I love to write stories; mostly about romance, but also about comedy and horror. I've written a lot, and hopefully it's doing me justice in this letter. When it comes to coding, I mostly do automation tasks and command line interface tools. Hopefully that made sense.
 
 "I love a good romance story, and comedy too! I don't exactly know what code is, but it sounds cool, Silkie."
 
@@ -109,7 +109,7 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 "Silkie, I love you too!"
 
-> P.S. – Put your hoof to you nose.
+> P.S. – Put your hoof to your nose.
 
 "Okay." Pinkie does as instructed.
 
@@ -117,6 +117,6 @@ Pinkie opens the letter and unfolds it, before starting to read it.
 
 Pinkie starts laughing after removing her hoof from her nose.
 
-Pinkie looks directly at Silk Rose as they write this story and boops them. "Boop!"
+Pinkie Pie looks directly at Silk Rose as they write this story and boops them. "Boop!"
 
 She puts the letter down. "Now, where is my bag of hyper-specific invitations? I swear I saw an invitation for Silk Rose in there a while back."
