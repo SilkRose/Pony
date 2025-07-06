@@ -6,6 +6,8 @@ A letter written to Pinkie Pie.
 ## Description:
 Pinkie gets a letter from a friend she doesn't know yet.
 
+Entry into [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06).
+
 Thanks to [dashie04](https://www.fimfiction.net/user/334129/dashie04) for making concept cover photos.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
