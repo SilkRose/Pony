@@ -104,6 +104,9 @@ pub enum FormatType {
 pub fn format_number_unit_metric(
 	number: f64, format: FormatType, decimal_places: usize,
 ) -> Result<String> {
+	if number <= 1000.0 {
+		return Ok(number.to_string());
+	}
 	let metrix_prefixes = ["K", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
 	let short_scale_names = [
 		"thousand",
@@ -121,5 +124,5 @@ pub fn format_number_unit_metric(
 		FormatType::MetricPrefix => (metrix_prefixes, false),
 		FormatType::ShortScaleName => (short_scale_names, true),
 	};
-	format_number_unit_f64(number, 1000.0, &units, decimal_places, spaced)
+	format_number_unit_f64(number / 1000.0, 1000.0, &units, decimal_places, spaced)
 }
