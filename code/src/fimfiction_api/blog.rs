@@ -1,11 +1,11 @@
-use super::user::UserData;
 use super::{ApiDebug, ApiMeta, RelationshipData};
+use crate::fimfiction_api::ApiIncluded;
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct BlogApi<T = u32> {
 	pub data: BlogData<T>,
-	pub included: Vec<UserData<T>>,
+	pub included: Vec<ApiIncluded<T>>,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,

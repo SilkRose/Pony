@@ -1,19 +1,14 @@
-use super::{ApiDebug, ApiLinks, ApiMeta, RelationshipData, story::StoryData, user::UserData};
+use super::{ApiDebug, ApiLinks, ApiMeta, RelationshipData};
+use crate::fimfiction_api::ApiIncluded;
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct ChapterApi<T = u32> {
 	pub data: ChapterData<T>,
-	pub included: Vec<ChapterIncluded<T>>,
+	pub included: Vec<ApiIncluded<T>>,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,
-}
-
-#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub enum ChapterIncluded<T = u32> {
-	Story(StoryData<T>),
-	Author(UserData<T>),
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
@@ -40,7 +35,5 @@ pub struct ChapterAttributes<T = u32> {
 	pub num_views: T,
 	pub date_published: String,
 	pub date_modified: String,
-	pub authors_note: String,
 	pub authors_note_position: String,
-	pub content: String,
 }

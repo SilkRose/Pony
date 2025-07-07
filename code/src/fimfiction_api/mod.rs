@@ -1,3 +1,4 @@
+use crate::fimfiction_api::{chapter::ChapterData, story::StoryData, tag::TagData, user::UserData};
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue, USER_AGENT};
 use serde::{Deserialize, Serialize};
 use std::error::Error;
@@ -8,6 +9,16 @@ pub mod error;
 pub mod story;
 pub mod tag;
 pub mod user;
+
+#[allow(clippy::large_enum_variant)]
+#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
+#[serde(untagged)]
+pub enum ApiIncluded<T = u32> {
+	Author(UserData<T>),
+	Chapter(ChapterData<T>),
+	Story(StoryData<T>),
+	Tag(TagData<T>),
+}
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
 pub struct ApiLinks {
