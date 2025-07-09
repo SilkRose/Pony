@@ -27,6 +27,8 @@ pub struct BlogAttributes<T = u32> {
 	pub content: String,
 	pub num_views: T,
 	pub num_comments: T,
+	pub site_post: bool,
+	pub tags: Vec<String>,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]

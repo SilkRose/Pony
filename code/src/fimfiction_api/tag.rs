@@ -1,8 +1,8 @@
-use super::{ApiDebug, ApiMeta};
+use super::ApiDebug;
 use serde::{Deserialize, Serialize};
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
-pub struct ChapterApi<T = u32> {
+pub struct TagApi<T = u32> {
 	pub data: Vec<TagData<T>>,
 	pub included: Vec<()>,
 	pub uri: String,
@@ -15,7 +15,7 @@ pub struct TagData<T = u32> {
 	pub id: String,
 	pub r#type: String,
 	pub attributes: TagAttributes<T>,
-	pub meta: ApiMeta,
+	pub meta: TagMeta,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
@@ -23,8 +23,6 @@ pub struct TagAttributes<T = u32> {
 	pub name: String,
 	pub r#type: String,
 	pub num_stories: T,
-	pub description: String,
-	pub meta: TagMeta,
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]

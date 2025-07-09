@@ -6,6 +6,7 @@ use std::error::Error;
 pub mod blog;
 pub mod chapter;
 pub mod error;
+pub mod group;
 pub mod story;
 pub mod tag;
 pub mod user;
