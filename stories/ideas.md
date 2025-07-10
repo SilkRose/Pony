@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Adequate Affection
+
+### Synopsis:
+Twilight uses the perfect amount of affection towards her crush, Pinkie Pie.
+
+***
+
 ## Mirror Pool Malpractice
 
 ### Synopsis:
