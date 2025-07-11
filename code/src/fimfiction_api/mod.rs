@@ -4,6 +4,7 @@ use serde::{Deserialize, Serialize};
 use std::error::Error;
 
 pub mod blog;
+pub mod bookshelf;
 pub mod chapter;
 pub mod error;
 pub mod group;
