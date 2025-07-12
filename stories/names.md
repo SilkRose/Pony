@@ -138,3 +138,4 @@ This file contains random story names that don't have enough thought to have the
 - Horse Feedback
 - Punch Bowl Politics
 - Capital M. Mare
+- An Apology for Apathy
