@@ -12,7 +12,7 @@ Entry into [A Thousand Words Contest II](https://www.fimfiction.net/group/216361
 
 Translated into Chinese by [keezwus](https://fimtale.com/u/keezwus), available [here](https://fimtale.com/t/54575).
 
-Now with two readings, [one](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio), and [one](https://www.youtube.com/watch?v=Nouf1_Sbysc) done by [Pony&Wolf Productions](https://www.youtube.com/@PonyWolfProductions).
+Now with three readings, [one](https://www.youtube.com/watch?v=6DTLq1e9NXk) done by [StraightToThePointStudio](https://www.youtube.com/@StraightToThePointStudio), [one](https://www.youtube.com/watch?v=Nouf1_Sbysc) done by [Pony&Wolf Productions](https://www.youtube.com/@PonyWolfProductions), and [one](https://www.youtube.com/watch?v=e7-6E0axbhk) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube").
 
 [Reviewed](https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
 
