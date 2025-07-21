@@ -91,6 +91,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Blue and Blushing] | [YouTube][Blue and Blushing reading] |
 **[Openair]** | [Pink-Mended Sparkles] | [YouTube][Pink-Mended Sparkles reading] |
 | **[Lotus Moon]** | [Letters of Lament] | [YouTube][Letters of Lament reading] |
+| **[Rainbow Infinity Readings]** | [The Pink Tax] | [YouTube][The Pink Tax reading three] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -265,6 +266,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Blue and Blushing reading]: https://www.youtube.com/watch?v=ZG9fQEqbLi8 "YouTube"
 [Pink-Mended Sparkles reading]: https://www.youtube.com/watch?v=lI5cmum7740 "YouTube"
 [Letters of Lament reading]: https://www.youtube.com/watch?v=RiBFaquSNSw "YouTube"
+[The Pink Tax reading three]: https://www.youtube.com/watch?v=e7-6E0axbhk "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
