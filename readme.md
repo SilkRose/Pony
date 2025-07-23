@@ -39,7 +39,7 @@ I love to write stories about ponies. My favorite genre is romance, but I want t
 My favorite games are [Factorio], and [Minecraft]. I've made a few [Factorio Mods], and since late 2019, I have been the lead maintainer of [Love & Tolerance], a MLP:FiM-inspired resource pack for Minecraft.
 
 ### Where my work is:
-My published writing can be found on my [FIMFiction profile][Silk Rose FIMFiction]; my unpublished writing can be found in my [Pony] repository.
+My published writing can be found on my [Fimfiction profile][Silk Rose Fimfiction]; my unpublished writing can be found in my [Pony] repository.
 
 ### Why I do it this way:
 - **Writing in the open:** Everything is open for the world to read.
@@ -50,7 +50,7 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 
 ### With these tools:
 - **[Markdown]**, my file format of choice.
-- **[fimd]**, used to convert Markdown into [FIMFiction BBCode].
+- **[fimd]**, used to convert Markdown into [Fimfiction BBCode].
 - **[Obsidian]**, a highly customizable and extensible Markdown text editor.
 - **[LanguageTool]**, grammar tool of choice, I use the premium version.
 - **[Obsidian LanguageTool]**, a plugin to use LanguageTool within Obsidian.
@@ -59,7 +59,7 @@ My published writing can be found on my [FIMFiction profile][Silk Rose FIMFictio
 
 ## Directory Structure:
 - **Archive:** Long term storage for files that are unlikely to change, and deleted files.
-- **Code:** Code for the API, converting markdown into [FIMFiction BBCode], and maintaining standards.
+- **Code:** Code for the API, converting markdown into [Fimfiction BBCode], and maintaining standards.
 - **Flash Fiction:** Short stories, typically written in one sitting.
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
 - **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
@@ -107,21 +107,21 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 
 | Reviewer | Story | Review |
 | :---: | :---: | :---: |
-| **[Shirlendra]** | [The Heist of My Heart] | [FIMFiction][The Heist of My Heart review] |
-| **[PresentPerfect]** | [Love Licks] | [FIMFiction][Love Licks review] |
-| **[Lucky Seven]** | [There] | [FIMFiction][There review] |
-| **[Visharo]** | [Whispers and Wishes] | [FIMFiction][Whispers and Wishes review] |
-| **[PresentPerfect]** | [The Pink Tax] | [FIMFiction][The Pink Tax review] |
-| **[PresentPerfect]** | [Profound Ponytail] | [FIMFiction][Profound Ponytail review] |
-| **[PresentPerfect]** | [Pony Pillows] | [FIMFiction][Pony Pillows review] |
-| **[Stinium_Ruide]** | [Pink-Mended Sparkles] | [FIMFiction][Pink-Mended Sparkles review] |
+| **[Shirlendra]** | [The Heist of My Heart] | [Fimfiction][The Heist of My Heart review] |
+| **[PresentPerfect]** | [Love Licks] | [Fimfiction][Love Licks review] |
+| **[Lucky Seven]** | [There] | [Fimfiction][There review] |
+| **[Visharo]** | [Whispers and Wishes] | [Fimfiction][Whispers and Wishes review] |
+| **[PresentPerfect]** | [The Pink Tax] | [Fimfiction][The Pink Tax review] |
+| **[PresentPerfect]** | [Profound Ponytail] | [Fimfiction][Profound Ponytail review] |
+| **[PresentPerfect]** | [Pony Pillows] | [Fimfiction][Pony Pillows review] |
+| **[Stinium_Ruide]** | [Pink-Mended Sparkles] | [Fimfiction][Pink-Mended Sparkles review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
 
 | Story | Contest | Results | Placement |
 | :---: | :---: | :---: | :---: |
-| **[Whispers and Wishes]** | [The Rainbow Rocks 10th Anniversary Shipping Contest] | [FIMFiction][The Rainbow Rocks 10th Anniversary Shipping Contest Results] | Judge Prize |
+| **[Whispers and Wishes]** | [The Rainbow Rocks 10th Anniversary Shipping Contest] | [Fimfiction][The Rainbow Rocks 10th Anniversary Shipping Contest Results] | Judge Prize |
 
 ## License:
 All my writing: stories, ideas, names, outlines, and anything related to it in this repository is licensed under the Creative Commons Zero 1.0 Universal License, which can be read [here][license-cc-zero], and its deed can be read [here][deed-cc-zero].
@@ -132,7 +132,7 @@ All pixel-art pony sprites and props created by [Langtanium], and all code withi
 
 All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal License for everything else in the images.
 
-All cover images done by [IrradiatedPirateBooty] and [TikiBat][Tiki Bat FIMFiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
+All cover images done by [IrradiatedPirateBooty] and [TikiBat][Tiki Bat Fimfiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
 
 My Little Pony: Friendship is Magic © Hasbro, Inc.
 
@@ -143,19 +143,19 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, cover feedback, and making the cover for [Unnamed Rarity x Rainbow Romance Story].
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
 - **[Scriblits Talo]** for collaborative writing, pre-reading, and making the cover for [There].
-- **[knighty]** for granting me access to the [FIMFiction API].
+- **[knighty]** for granting me access to the [Fimfiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
 - **[IrradiatedPirateBooty]** for illustrating covers.
-- **TikiBat** ([FIMFiction][Tiki Bat FIMFiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
+- **TikiBat** ([Fimfiction][Tiki Bat Fimfiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
 - **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
 - **[TheAncientPolitzanian]** for collaborative writing.
 - **[SparklingTwilight]** for collaborative writing.
 - **[RunicTreetops]** for collaborative writing.
 - **[ThePeer]** for collaborative writing and pre-reading.
-- **[csos95]** for helping me with the [FIMFiction API].
-- **[Damaged]** for helping me with the [FIMFiction API].
+- **[csos95]** for helping me with the [Fimfiction API].
+- **[Damaged]** for helping me with the [Fimfiction API].
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
@@ -179,12 +179,12 @@ While I may be the main contributor to this repository, I have had help, and thu
 
 [fimd]: https://github.com/SilkRose/Pony/blob/mane/code/src/bin/fimd.rs "GitHub"
 [original fimd]: https://github.com/Meadowsys/fimd "GitHub"
-[FIMFiction BBCode]: https://www.fimfiction.net/articles/bbcode "FIMFiction"
+[Fimfiction BBCode]: https://www.fimfiction.net/articles/bbcode "Fimfiction"
 [EmotiPonies]: https://www.deviantart.com/midori-no-ink/art/EmotiPonies-209617524 "DeviantArt"
 [wiwi]: https://github.com/meadowsys/wiwi "GitHub"
-[FIMFiction API]: https://www.fimfiction.net/developers/api/v2/docs "FIMFiction"
+[Fimfiction API]: https://www.fimfiction.net/developers/api/v2/docs "Fimfiction"
 
-[Silk Rose FIMFiction]: https://www.fimfiction.net/user/237915/Silk+Rose "FIMFiction"
+[Silk Rose Fimfiction]: https://www.fimfiction.net/user/237915/Silk+Rose "Fimfiction"
 
 [Love & Tolerance]: https://love-tolerance.com/ "Love & Tolerance"
 
@@ -210,43 +210,43 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Names File]: ./stories/names.md
 
 [Meadowsys]: https://github.com/Meadowsys "GitHub"
-[6-D Pegasus]: https://www.fimfiction.net/user/293755/6-D+Pegasus "FIMFiction"
-[Forcalor]: https://www.fimfiction.net/user/564657/Forcalor "FIMFiction"
+[6-D Pegasus]: https://www.fimfiction.net/user/293755/6-D+Pegasus "Fimfiction"
+[Forcalor]: https://www.fimfiction.net/user/564657/Forcalor "Fimfiction"
 [Langtanium]: https://github.com/Langtanium "GitHub"
 [irradiatedpiratebooty]: https://irradiatedpiratebooty.tumblr.com/ "Tumblr"
-[Tiki Bat FIMFiction]: https://www.fimfiction.net/user/218083/Tiki+Bat "FIMFiction"
+[Tiki Bat Fimfiction]: https://www.fimfiction.net/user/218083/Tiki+Bat "Fimfiction"
 [Tiki Bat Twitter]: https://twitter.com/TikiBat "Twitter"
-[Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "FIMFiction"
-[Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "FIMFiction"
-[PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "FIMFiction"
-[MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "FIMFiction"
-[Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "FIMFiction"
+[Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "Fimfiction"
+[Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "Fimfiction"
+[PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "Fimfiction"
+[MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "Fimfiction"
+[Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "Fimfiction"
 [Midori-no-ink]: https://www.deviantart.com/midori-no-ink "DeviantArt"
-[Mockingbirb]: https://www.fimfiction.net/user/382692/Mockingbirb "FIMFiction"
-[Scriblits Talo]: https://www.fimfiction.net/user/495925/Scriblits+Talo/stories "FIMFiction"
-[MorganaTheNotCat]: https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories "FIMFiction"
-[Jymbroni]: https://www.fimfiction.net/user/474762/Jymbroni "FIMFiction"
-[knighty]: https://www.fimfiction.net/user/1/knighty "FIMFiction"
-[Visharo]: https://www.fimfiction.net/user/449252/Visharo "FIMFiction"
-[ThePeer]: https://www.fimfiction.net/user/537939/ThePeer "FIMFiction"
-[Rego]: https://www.fimfiction.net/user/180061/Rego "FIMFiction"
-[Shirlendra]: https://www.fimfiction.net/user/312832/Shirlendra "FIMFiction"
-[PresentPerfect]: https://www.fimfiction.net/user/923/PresentPerfect "FIMFiction"
-[Lucky Seven]: https://www.fimfiction.net/user/47070/Lucky+Seven "FIMFiction"
+[Mockingbirb]: https://www.fimfiction.net/user/382692/Mockingbirb "Fimfiction"
+[Scriblits Talo]: https://www.fimfiction.net/user/495925/Scriblits+Talo/stories "Fimfiction"
+[MorganaTheNotCat]: https://www.fimfiction.net/user/546110/MorganaTheNotCat/stories "Fimfiction"
+[Jymbroni]: https://www.fimfiction.net/user/474762/Jymbroni "Fimfiction"
+[knighty]: https://www.fimfiction.net/user/1/knighty "Fimfiction"
+[Visharo]: https://www.fimfiction.net/user/449252/Visharo "Fimfiction"
+[ThePeer]: https://www.fimfiction.net/user/537939/ThePeer "Fimfiction"
+[Rego]: https://www.fimfiction.net/user/180061/Rego "Fimfiction"
+[Shirlendra]: https://www.fimfiction.net/user/312832/Shirlendra "Fimfiction"
+[PresentPerfect]: https://www.fimfiction.net/user/923/PresentPerfect "Fimfiction"
+[Lucky Seven]: https://www.fimfiction.net/user/47070/Lucky+Seven "Fimfiction"
 [csos95]: https://github.com/csos95 "GitHub"
 [Damaged]: https://excessive.space/ "The Kobolds' Lair"
 [Ashy]: https://github.com/ashy1227 "GitHub"
-[TheAncientPolitzanian]: https://www.fimfiction.net/user/338193/TheAncientPolitzanian "FIMFiction"
-[RunicTreetops]: https://www.fimfiction.net/user/489485/RunicTreetops "FIMFiction"
-[Stinium_Ruide]: https://www.fimfiction.net/user/381526/Stinium_Ruide "FIMFiction"
-[SparklingTwilight]: https://www.fimfiction.net/user/423060/SparklingTwilight "FIMFiction"
-[MATP]: https://www.fimfiction.net/user/544735/MATP "FIMFiction"
-[ARandomLonelyGirl]: https://www.fimfiction.net/user/419652/ARandomLonelyGirl "FIMFiction"
-[AtomicGlow]: https://www.fimfiction.net/user/90142/AtomicGlow "FIMFiction"
-[Hoofprintz]: https://www.fimfiction.net/user/503681/Hoofprintz "FIMFiction"
-[Math Spook]: https://www.fimfiction.net/user/612387/Math+Spook "FIMFiction"
+[TheAncientPolitzanian]: https://www.fimfiction.net/user/338193/TheAncientPolitzanian "Fimfiction"
+[RunicTreetops]: https://www.fimfiction.net/user/489485/RunicTreetops "Fimfiction"
+[Stinium_Ruide]: https://www.fimfiction.net/user/381526/Stinium_Ruide "Fimfiction"
+[SparklingTwilight]: https://www.fimfiction.net/user/423060/SparklingTwilight "Fimfiction"
+[MATP]: https://www.fimfiction.net/user/544735/MATP "Fimfiction"
+[ARandomLonelyGirl]: https://www.fimfiction.net/user/419652/ARandomLonelyGirl "Fimfiction"
+[AtomicGlow]: https://www.fimfiction.net/user/90142/AtomicGlow "Fimfiction"
+[Hoofprintz]: https://www.fimfiction.net/user/503681/Hoofprintz "Fimfiction"
+[Math Spook]: https://www.fimfiction.net/user/612387/Math+Spook "Fimfiction"
 
-[The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "FIMFiction"
+[The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "Fimfiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
 [Rainbow Infinity Readings]: https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube"
 [Pony&Wolf Productions]: https://www.youtube.com/@PonyWolfProductions "Youtube"
@@ -268,41 +268,41 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Letters of Lament reading]: https://www.youtube.com/watch?v=RiBFaquSNSw "YouTube"
 [The Pink Tax reading three]: https://www.youtube.com/watch?v=e7-6E0axbhk "YouTube"
 
-[volkov]: https://www.fimfiction.net/user/595939/volkov "FIMFiction"
-[Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "FIMFiction"
+[volkov]: https://www.fimfiction.net/user/595939/volkov "Fimfiction"
+[Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "Fimfiction"
 [keezwus]: https://fimtale.com/u/keezwus "FimTale"
 
 [The Heist of My Heart Ukrainian]: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr "GitHub"
 [Pony Pillows Chinese]: https://fimtale.com/t/57065 "FimTale"
 [The Pink Tax Chinese]: https://fimtale.com/t/54575 "FimTale"
 
-[The Heist of My Heart review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544467/review-the-heist-of-my-heart-silk-rose "FIMFiction"
-[Love Licks review]: https://www.fimfiction.net/blog/1046983/fic-recs-august-10th "FIMFiction"
-[There review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose "FIMFiction"
-[Whispers and Wishes review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose "FIMFiction"
-[The Pink Tax review]: https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd "FIMFiction"
-[Profound Ponytail review]: https://www.fimfiction.net/blog/1050186/fic-recs-september-13th "FIMFiction"
-[Pony Pillows review]: https://www.fimfiction.net/blog/1050887/fic-recs-september-20th "FIMFiction"
-[Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "FIMFiction"
+[The Heist of My Heart review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544467/review-the-heist-of-my-heart-silk-rose "Fimfiction"
+[Love Licks review]: https://www.fimfiction.net/blog/1046983/fic-recs-august-10th "Fimfiction"
+[There review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544535/review-there-by-silk-rose "Fimfiction"
+[Whispers and Wishes review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544653/vis-reviews-whispers-and-wishes-silk-rose "Fimfiction"
+[The Pink Tax review]: https://www.fimfiction.net/blog/1048212/fic-recs-august-23rd "Fimfiction"
+[Profound Ponytail review]: https://www.fimfiction.net/blog/1050186/fic-recs-september-13th "Fimfiction"
+[Pony Pillows review]: https://www.fimfiction.net/blog/1050887/fic-recs-september-20th "Fimfiction"
+[Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "Fimfiction"
 
-[The Rainbow Rocks 10th Anniversary Shipping Contest]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-7-the-rules-and-how-to-enter "FIMFiction"
+[The Rainbow Rocks 10th Anniversary Shipping Contest]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-7-the-rules-and-how-to-enter "Fimfiction"
 
-[The Rainbow Rocks 10th Anniversary Shipping Contest Results]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/546412/the-rainbow-rocks-shipping-contest-results "FIMFiction"
+[The Rainbow Rocks 10th Anniversary Shipping Contest Results]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/546412/the-rainbow-rocks-shipping-contest-results "Fimfiction"
 
-[Pony Pillows]: https://www.fimfiction.net/story/541813/pony-pillows "FIMFiction"
-[Best of Seventy-One]: https://www.fimfiction.net/story/540748/best-of-seventy-one "FIMFiction"
-[The Pink Tax]: https://www.fimfiction.net/story/539422/the-pink-tax "FIMFiction"
-[The Heist of My Heart]: https://www.fimfiction.net/story/538410/the-heist-of-my-heart "FIMFiction"
-[Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "FIMFiction"
-[Love Licks]: https://www.fimfiction.net/story/540399/love-licks "FIMFiction"
-[Profound Ponytail]: https://www.fimfiction.net/story/551751/profound-ponytail "FIMFiction"
-[There]: https://www.fimfiction.net/story/555927/there "FIMFiction"
-[Unnamed Rarity x Rainbow Romance Story]: https://www.fimfiction.net/story/560621/unnamed-rarity-and-rainbow-romance-story "FIMFiction"
-[Timeless Tears]: https://www.fimfiction.net/story/539973/timeless-tears "FIMFiction"
-[Whispers and Wishes]: https://www.fimfiction.net/story/560940/whispers-and-wishes "FIMFiction"
-[Blue and Blushing]: https://www.fimfiction.net/story/557818/blue-and-blushing "FIMFiction"
-[Pink-Mended Sparkles]: https://www.fimfiction.net/story/547972/pink-mended-sparkles "FIMFiction"
-[Letters of Lament]: https://www.fimfiction.net/story/575613/letters-of-lament "FIMFiction"
+[Pony Pillows]: https://www.fimfiction.net/story/541813/pony-pillows "Fimfiction"
+[Best of Seventy-One]: https://www.fimfiction.net/story/540748/best-of-seventy-one "Fimfiction"
+[The Pink Tax]: https://www.fimfiction.net/story/539422/the-pink-tax "Fimfiction"
+[The Heist of My Heart]: https://www.fimfiction.net/story/538410/the-heist-of-my-heart "Fimfiction"
+[Pretty and Pink]: https://www.fimfiction.net/story/432210/pretty-and-pink "Fimfiction"
+[Love Licks]: https://www.fimfiction.net/story/540399/love-licks "Fimfiction"
+[Profound Ponytail]: https://www.fimfiction.net/story/551751/profound-ponytail "Fimfiction"
+[There]: https://www.fimfiction.net/story/555927/there "Fimfiction"
+[Unnamed Rarity x Rainbow Romance Story]: https://www.fimfiction.net/story/560621/unnamed-rarity-and-rainbow-romance-story "Fimfiction"
+[Timeless Tears]: https://www.fimfiction.net/story/539973/timeless-tears "Fimfiction"
+[Whispers and Wishes]: https://www.fimfiction.net/story/560940/whispers-and-wishes "Fimfiction"
+[Blue and Blushing]: https://www.fimfiction.net/story/557818/blue-and-blushing "Fimfiction"
+[Pink-Mended Sparkles]: https://www.fimfiction.net/story/547972/pink-mended-sparkles "Fimfiction"
+[Letters of Lament]: https://www.fimfiction.net/story/575613/letters-of-lament "Fimfiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
