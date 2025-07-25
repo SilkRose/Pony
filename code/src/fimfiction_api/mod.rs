@@ -10,6 +10,7 @@ pub mod error;
 pub mod group;
 pub mod story;
 pub mod tag;
+pub mod thread;
 pub mod user;
 
 #[allow(clippy::large_enum_variant)]
