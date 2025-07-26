@@ -34,6 +34,7 @@ Stack ponies as high as you can.
    - Reaching milestones lets you spent points.
    - Can buy passive or active abilities.
    - Score multiplier for quick stacking or combos.
+- Preview for the next 1 to 3 ponies to stack.
 - 
 
 ## Concept image(s):
