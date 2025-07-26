@@ -24,6 +24,16 @@ Stack ponies as high as you can.
 - Pegasus ponies glide with their wings.
 - Unicorns fall normally.
 - Should this game have any kind of abilities or unlocks?
+- Height chart that lets you view how tall all your runs made it.
+- Achievement for stacking X number of unicorn, pegasus, or earth ponies on top one another.
+- Achievement for stacking a pony on top of the one that came after it.
+- Achievement for total distance on all runs reaching milestones.
+- Achievement for booping the ponies.
+- Potential rogue-like elements:
+   - Score for how well you place ponies.
+   - Reaching milestones lets you spent points.
+   - Can buy passive or active abilities.
+   - Score multiplier for quick stacking or combos.
 - 
 
 ## Concept image(s):
