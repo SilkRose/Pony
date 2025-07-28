@@ -1,4 +1,6 @@
-use crate::fimfiction_api::{chapter::ChapterData, story::StoryData, tag::TagData, user::UserData};
+use crate::fimfiction_api::{
+	chapter::ChapterData, group::GroupData, story::StoryData, tag::TagData, user::UserData,
+};
 use reqwest::header::{AUTHORIZATION, CONTENT_TYPE, HeaderMap, HeaderValue, USER_AGENT};
 use serde::{Deserialize, Serialize};
 use std::error::Error;
@@ -21,6 +23,7 @@ pub enum ApiIncluded<T = u32> {
 	Chapter(ChapterData<T>),
 	Story(StoryData<T>),
 	Tag(TagData<T>),
+	Group(GroupData<T>),
 }
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
