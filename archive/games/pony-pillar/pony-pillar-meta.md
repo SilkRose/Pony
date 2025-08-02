@@ -31,10 +31,18 @@ Stack ponies as high as you can.
 - Achievement for booping the ponies.
 - Potential rogue-like elements:
    - Score for how well you place ponies.
-   - Reaching milestones lets you spent points.
+   - Reaching milestones lets you spend points.
    - Can buy passive or active abilities.
    - Score multiplier for quick stacking or combos.
+   - Upgrades could be items the ponies wear.
+   - 
 - Preview for the next 1 to 3 ponies to stack.
+- Achievement for stacking two ponies so their hooves are touching.
+- Fail state is more than 1 pony touching the ground at once.
+- You can spin ponies in your hand before you drop them.
+- Achievement for spinning the pony a bunch before dropping them.
+- Achievement for reaching a specified force while spinning a pony.
+- Ponies close their eyes while being spun fast.
 - 
 
 ## Concept image(s):
