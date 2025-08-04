@@ -1,4 +1,4 @@
-use super::{ApiDebug, ApiLinks, ApiMeta, RelationshipData};
+use super::{ApiDebug, ApiMeta, RelationshipData};
 use crate::fimfiction_api::ApiIncluded;
 use serde::{Deserialize, Serialize};
 
@@ -6,6 +6,7 @@ use serde::{Deserialize, Serialize};
 pub struct ThreadApi<T = u32> {
 	pub data: Vec<ThreadData<T>>,
 	pub included: Vec<ApiIncluded<T>>,
+	pub links: ThreadLinks,
 	pub uri: String,
 	pub method: String,
 	pub debug: ApiDebug,
@@ -17,7 +18,6 @@ pub struct ThreadData<T = u32> {
 	pub r#type: String,
 	pub attributes: ThreadAttributes<T>,
 	pub relationships: ThreadRelationships,
-	pub links: ApiLinks,
 	pub meta: ApiMeta,
 }
 
@@ -36,4 +36,10 @@ pub struct ThreadRelationships {
 	pub creator: RelationshipData,
 	pub group: RelationshipData,
 	pub last_poster: RelationshipData,
+}
+
+#[derive(Serialize, Deserialize, Clone, Debug, PartialEq, Eq, PartialOrd, Ord)]
+pub struct ThreadLinks {
+	pub first: String,
+	pub last: String,
 }
