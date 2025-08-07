@@ -4,7 +4,7 @@ All my writing: stories, ideas, names, outlines, and anything related to it in t
 
 All covers made by [Steady Gaze], [Scriblits Talo], and [PseudoBob Delightus] are licensed under the Creative Commons Zero 1.0 Universal License.
 
-All pixel-art pony sprites and props created by [Langtanium], and all code within this repository is licensed under the MIT License, which can be read [here][license-mit].
+All pixel-art pony sprites, models, and props created by [Langtanium] and [AtomicGlow], and all code within this repository is licensed under the MIT License, which can be read [here][license-mit].
 
 All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal License for everything else in the images.
 
