@@ -36,7 +36,7 @@ The first book's title is: 'What is Love? A Complete Guide to Romantic Relations
 
 *That's easy, it goes under 'L' for Love!*
 
-The second is: 'How to Ask out your Best Friend'.
+The second is: 'How to Ask Out Your Best Friend'.
 
 *Another piece of cake, 'L' for you Love your best friend.*
 
@@ -50,13 +50,13 @@ The third book is: '101 Baking Recipes to Impress your Crush'.
 
 *Baking, hmm… I know! It will go under 'L' because I Love to bake! Yeah.*
 
-The fourth book is: 'How to Tell if your Earth Pony Friend Likes you Back'.
+The fourth book is: 'How to Tell if Your Earth Pony Friend Likes You Back'.
 
 *That's ones tricky. How would you tell?*
 
 *I know, 'L' because I Like Twilight, a lot.*
 
-The fifth book is: 'How to get Closer Romantically to your Cute Best Friend, Who is a Pink Earth Pony Mare'.
+The fifth book is: 'How to get Closer Romantically to Your Cute Best Friend, Who is a Pink Earth Pony Mare'.
 
 *Wow, these books are oddly specific.*
 
@@ -104,31 +104,31 @@ I decide to look over all the notes before deciding how to organize them.
 
 The first note is yellow, and says:
 
-> I think she's kind, does she think I am?
+> I think she's kind. But _she's_ kind, too. Does she think I am?
 
 I grab a pen and write my answer, yes.
 
 The next note is orange and says:
 
-> I think she's honest, does she think I am?
+> I think she's honest. But _she's_ honest, too. Does she think I am?
 
 I answer yes again.
 
 The next note is white and says:
 
-> I think she's generous, does she think I am?
+> I think she's generous. But _she's_ generous, too. Does she think I am?
 
 I write yes and move to the next note.
 
 The next note is blue and says:
 
-> I think she's loyal, does she think I am?
+> I think she's loyal. But _she's_ loyal, too. Does she think I am?
 
 I scribble yes.
 
 The fifth note is slightly different, its pink and says:
 
-> She makes me smile, but do I make her?
+> She makes me smile, more than anypony else. Do I make her feel the same way?
 
 I write, 'YES!' and move onto the last note.
 
@@ -170,7 +170,7 @@ Twilight looks at me. "What is it?"
 
 "I can ask you questions about romance to test your knowledge."
 
-Twilight nods. "Sounds good, what's the first one?"
+Twilight takes a second to compose herself after hiding a blush. "Sounds good, what's the first one?"
 
 I think for a moment before asking, "What's the difference between friendship and romance?"
 
@@ -192,11 +192,11 @@ Twilight looks back and smiles at me.
 
 I ask my next question, "What should somepony do when she has a crush on a friend?"
 
-Twilight looks at the floor, her tone saddening. "The best answer is to talk to her. Ask if she feels the same way and don't hide your feelings. But, that's easier said than done. Sometimes the answer is that obvious and not buried in a book somewhere."
+Twilight looks at the floor, her tone saddening. "The best answer is to talk to her. Ask if she feels the same way and don't hide your feelings. That's easier said than done. Sometimes the answer *is* that obvious and not buried in a book somewhere."
 
 I forget all about the questions and ask what's on my mind. "How do I get over the fear and doubt inside to ask you out?"
 
-Tears start to form in Twilight's eyes. "You're suppose to just get over them, I guess. Some ponies talk themselves up before they do it. Other ponies might be too shy and ask in a letter. I don't know what to do…"
+Tears start to form in Twilight's eyes. "You're supposed to just get over them, I guess. Some ponies talk themselves up before they do it. Other ponies might be too shy and ask in a letter. I don't know what to do…"
 
 I hug Twilight and ask another question. "Why did you start researching romance?"
 
@@ -240,7 +240,7 @@ As tears start to fall from my own eyes, I hug Twilight even tighter and whisper
 
 Twilight whispers back, "I love you too."
 
-A calm serenity surrounds us as Twilight seemingly realizes the same understanding I just did.
+A calm serenity surrounds us as Twilight seemingly comes to the same understanding I just did.
 
 "I'm sorry I didn't just come and talk to you about my feelings, Twilight."
 
