@@ -238,3 +238,14 @@ As tears start to fall from my own eyes, I hug Twilight even tighter and whisper
 
 "I love you."
 
+Twilight whispers back, "I love you too."
+
+A calm serenity surrounds us as Twilight seemingly realizes the same understanding I just did.
+
+"I'm sorry I didn't just come and talk to you about my feelings, Twilight."
+
+Twilight nuzzles me. "Me too. I was too busy trying to find an answer in a book, when all I needed was my best friend."
+
+I nuzzle back. "I'm glad I came to help you today, it was really fun, and you're really cute."
+
+Twilight blushes as we pull away from the hug. "You too."
