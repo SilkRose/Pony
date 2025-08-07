@@ -128,7 +128,7 @@ All my writing: stories, ideas, names, outlines, and anything related to it in t
 
 All covers made by [Steady Gaze], [Scriblits Talo], and [PseudoBob Delightus] are licensed under the Creative Commons Zero 1.0 Universal License.
 
-All pixel-art pony sprites and props created by [Langtanium], and all code within this repository is licensed under the MIT License, which can be read [here][license-mit].
+All pixel-art pony sprites, models, and props created by [Langtanium] and [AtomicGlow], and all code within this repository is licensed under the MIT License, which can be read [here][license-mit].
 
 All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal License for everything else in the images.
 
@@ -163,7 +163,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Hyper Star]** for proofreading and pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
-- **[AtomicGlow]** for pre-reading.
+- **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
 - **[Hoofprintz]** for pre-reading.
 - **[Visharo]** for pre-reading.
 - **[MoonSong Darkstone]** for writing [The Saddest Rainbow].
