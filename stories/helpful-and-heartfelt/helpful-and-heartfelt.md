@@ -1,6 +1,6 @@
 # Helpful and Heartfelt
 
-I stand in front of Twilight's front door, my hoof a few inches from the door. I take a few seconds to get my bearings and knock.
+I stand in front of Twilight's front door with my hoof a few inches from it. I take a few seconds to get my bearings and knock.
 
 *You can do this, Pinkie. You're just trying to spend time with her.*
 
@@ -16,7 +16,7 @@ I smile. "Yes, I came here to help you!"
 
 Twilight smiles. "Oh, that's very nice of you. Come on in." She leads me inside.
 
-We make it to the main part of the library and the room is a mess. Books are stacked up all over the place. Notes are littering Twilight desk.
+We make it to the main part of the library and the room is a mess. Books are stacked up all over the place. Notes are littering Twilight's desk.
 
 *Wow, she must have done some serious studying recently.*
 
@@ -234,7 +234,7 @@ The books were about me.
 
 The notes are about me too.
 
-As tears start to fall from my own eyes, I hug Twilight even tighter and try to whisper to her.
+As tears start to fall from my own eyes, I hug Twilight even tighter and whisper to her.
 
 "I love you."
 
