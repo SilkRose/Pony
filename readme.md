@@ -160,11 +160,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
 - **[Math Spook]** for proofreading.
+- - **[Hoofprintz]** for pre-reading and proofreading.
+- - **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
 - **[Hyper Star]** for proofreading and pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
-- **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
-- **[Hoofprintz]** for pre-reading.
 - **[Visharo]** for pre-reading.
 - **[MoonSong Darkstone]** for writing [The Saddest Rainbow].
 - **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
