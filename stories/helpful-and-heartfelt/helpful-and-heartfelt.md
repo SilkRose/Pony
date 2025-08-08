@@ -28,7 +28,7 @@ I swear I could see a tinge of blush on Twilight's face, but say nothing.
 
 "Sounds interesting. What are we doing first?"
 
-Twilight sighs. "Let's put all these books back on the shelves. I've read almost all of them all already."
+Twilight sighs. "Let's put all these books back on the shelves. I've already read almost all of them."
 
 With a pep in my step and a good friend by my side, I get to work! I pick up one book at a time, and look at it before deciding where it goes.
 
@@ -62,7 +62,7 @@ The fifth book is: 'How to get Closer Romantically to Your Cute Best Friend, Who
 
 *It should go under… 'L' for Twilight Loves to read!*
 
-I pickup the last book in the pile, it is: 'What to do if Your Crush Comes Over and Offers to Help you in the Middle of you Studying Romance in Order to ask her out'.
+I pick up the last book in the pile, it is: 'What to do if Your Crush Comes Over and Offers to Help you in the Middle of you Studying Romance in Order to ask her out'.
 
 *That's the longest book title I've ever seen.*
 
