@@ -32,3 +32,4 @@ Pinkie tries to help around the library to be closer to Twilight, who she has a 
 [Helpful and Heartfelt](helpful-and-heartfelt.md)
 
 ## Cover:
+![cover](./helpful-and-heartfelt-cover-upscaled.png)
