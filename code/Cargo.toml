@@ -9,7 +9,7 @@ license = "MIT"
 repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
-camino = { version = "1.1.10" }
+camino = { version = "1.1.11" }
 chrono-tz = { version = "0.10.4" }
 git2 = { version = "0.20.2" }
 image = { version = "0.25.6" }
