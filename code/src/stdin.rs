@@ -22,11 +22,10 @@ where
 	println!("{question}");
 	io::stdout().flush()?;
 	io::stdin().read_line(&mut answer)?;
-	if let Some((filter_fn, filter_err)) = filter {
-		if !filter_fn(answer.trim()) {
+	if let Some((filter_fn, filter_err)) = filter
+		&& !filter_fn(answer.trim()) {
 			eprintln!("{filter_err}");
 			return ask(question, Some((filter_fn, filter_err)));
 		}
-	}
 	Ok(answer.trim().to_string())
 }
