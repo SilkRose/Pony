@@ -246,6 +246,6 @@ I nuzzle back. "I'm glad I came to help you today, it was really fun, and you're
 
 Twilight blushes as we pull away from the hug. "You too."
 
-I whisper, "I love you."
+I smile. "I love you."
 
-Twilight whispers back, "I love you too."
+Twilight smiles back. "I love you too."
