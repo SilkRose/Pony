@@ -39,7 +39,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	{
 		println!("Formatting: {file}");
 		let data: Value = serde_json::from_str(&fs::read_to_string(file)?)?;
-		fs::write(file, format_json(&data, JsonFormat::Tab)?.as_bytes())?;
+		fs::write(file, format_json(&data, &JsonFormat::Tab)?.as_bytes())?;
 	}
 	Ok(())
 }

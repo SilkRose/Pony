@@ -57,10 +57,10 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let stats = commit_stats(commits, &files, &dirs, &text)?;
 	let pony = pony_stats(&stats)?;
 	fs::File::create("../dist/api/v1/pony.json")?
-		.write_all(format_json(&pony, JsonFormat::Tab)?.as_bytes())?;
+		.write_all(format_json(&pony, &JsonFormat::Tab)?.as_bytes())?;
 	let characters = character_stats(&text)?;
 	fs::File::create("../dist/api/v1/characters.json")?
-		.write_all(format_json(&characters, JsonFormat::Tab)?.as_bytes())?;
+		.write_all(format_json(&characters, &JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
 }
 
