@@ -11,11 +11,11 @@ pub enum JsonFormat {
 	Space(u8),
 }
 
-pub fn format_json<T: Serialize>(value: &T, format: JsonFormat) -> Result<String> {
+pub fn format_json<T: Serialize>(value: &T, format: &JsonFormat) -> Result<String> {
 	match format {
 		JsonFormat::Minify => Ok(serde_json::to_string(value)?),
 		JsonFormat::Tab => Ok(format_json_indent(value, "\t")?),
-		JsonFormat::Space(s) => Ok(format_json_indent(value, &" ".repeat(s.into()))?),
+		JsonFormat::Space(s) => Ok(format_json_indent(value, &" ".repeat(*s as usize))?),
 	}
 }
 
@@ -46,7 +46,7 @@ pub fn load_json_option<T: DeserializeOwned>(path: &str) -> Result<Option<T>> {
 	}
 }
 
-pub fn save_json<T: Serialize>(path: &str, format: JsonFormat, json: &T) -> Result<()> {
+pub fn save_json<T: Serialize>(path: &str, format: &JsonFormat, json: &T) -> Result<()> {
 	fs::File::create(path)?.write_all(format_json(&json, format)?.as_bytes())?;
 	Ok(())
 }
