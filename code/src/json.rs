@@ -24,6 +24,7 @@ fn format_json_indent<T: Serialize>(value: &T, indent: &str) -> Result<String> {
 	let formatter = PrettyFormatter::with_indent(indent.as_bytes());
 	let mut serializer = Serializer::with_formatter(&mut writer, formatter);
 	value.serialize(&mut serializer)?;
+	writer.push(b'\n');
 	Ok(String::from_utf8(writer)?)
 }
 
