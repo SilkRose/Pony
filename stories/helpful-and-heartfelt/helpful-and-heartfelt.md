@@ -1,6 +1,6 @@
 # Helpful and Heartfelt
 
-I stand in front of Twilight's front door with my hoof a few inches from it. I take a few seconds to get my bearings and knock.
+I stand in front of Twilight's house with my hoof a few inches from the door. I take a few seconds to get my bearings and knock.
 
 *You can do this, Pinkie. You're just trying to spend time with her.*
 
@@ -38,7 +38,7 @@ The first book's title is: 'What is Love? A Complete Guide to Romantic Relations
 
 The second is: 'How to Ask Out Your Best Friend'.
 
-*Another piece of cake, 'L' for you Love your best friend.*
+*Another piece of cake, 'L' since you Love your best friend.*
 
 As I work I look at Twilight putting away her own pile of books and smile.
 
@@ -54,7 +54,7 @@ The fourth book is: 'How to Tell if Your Earth Pony Friend Likes You Back'.
 
 *That's ones tricky. How would you tell?*
 
-*I know, 'L' because I Like Twilight, a lot.*
+*I know, 'L' because I Like Twilight, a Lot.*
 
 The fifth book is: 'How to get Closer Romantically to Your Cute Best Friend, Who is a Pink Earth Pony Mare'.
 
@@ -96,7 +96,7 @@ Twilight thinks for a second, looking around the room. She focuses on her desk a
 
 "Okay, let's do it!"
 
-Twilight trots over to her desk and scans over all her notes. She uses her magic and levitates a stack of sticky notes to me. "Here, organize these notes."
+Twilight trots over to her desk and scans over all her notes. She uses her magic and levitates a stack of sticky notes to me. "Here, help me sort these."
 
 I take the notes. "Yes, Twilight."
 
@@ -134,7 +134,7 @@ I write, 'YES!' and move onto the last note.
 
 The last note is even more different, its longer and purple.
 
-> I hope I'm a good friend, I know she is.
+> I hope I'm a good friend. I know she is.
 >
 > I love her, but does she love me?
 
@@ -154,7 +154,7 @@ Twilight comes over and starts looking at my pile of notes.
 
 I falter. "I uh, I… Hug!"
 
-I quickly hug her as I hear her magic levitating the notes. Repeating after Twilight I start breathing in and out of the same paper bag quietly.
+I quickly hug her as I hear her magic levitating the notes. Repeating after Twilight, I start breathing in and out of the same paper bag quietly.
 
 Twilight seems to notice and hugs me tighter. She whispers to me, "Oh Pinkie, you're such a good friend."
 
@@ -184,9 +184,9 @@ I ask, "How would a pony know if she has a crush on her friend?"
 
 Twilight takes a moment before answering. She finally says, "Well, the way she thinks and feels about her friend would change. It might start small, like wanting to spend more time with her. You might notice her beauty more. You might want to hug her for longer. You might want to kiss her."
 
-Twilight is blushing now as she does a poor job hiding it by looking away.
+Twilight is blushing now, and looks away, doing a poor job hiding it.
 
-I don't say anything and congratulate her. "That's a great answer Twilight!"
+I don't say anything about that as I congratulate her. "That's a great answer, Twilight!"
 
 Twilight looks back and smiles at me.
 
@@ -216,7 +216,7 @@ As Twilight hugs tighter as well, I realize it's me.
 
 *I'm pink.*
 
-*I came over to help Twilight in the middle of her studying to ask me out.*
+*I came over to help Twilight just as she was studying to ask me out.*
 
 The books were about me.
 
