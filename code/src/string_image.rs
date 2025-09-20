@@ -4,7 +4,7 @@ use image::{DynamicImage, GenericImageView, ImageBuffer, Rgba, RgbaImage};
 use std::collections::HashMap;
 use std::path::MAIN_SEPARATOR as slash;
 
-type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
+type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
 #[derive(Debug)]
 pub struct StringImage {

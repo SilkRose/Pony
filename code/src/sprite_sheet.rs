@@ -1,7 +1,7 @@
 use image::{DynamicImage, GenericImage, GenericImageView, ImageBuffer, Rgba, RgbaImage, imageops};
 use std::collections::HashMap;
 
-type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
+type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 type Sprites<T> = HashMap<T, DynamicImage>;
 
 #[derive(Debug)]
@@ -24,7 +24,7 @@ impl SpriteSheet {
 		if sprite_width == 0 || sprite_height == 0 {
 			return Err("Sprite width or height is zero!".into());
 		}
-		if width % columns != 0 || height % rows != 0 {
+		if !width.is_multiple_of(columns) || !height.is_multiple_of(rows) {
 			return Err("Image dimensions not divisible by number of rows or columns!".into());
 		}
 		Ok(SpriteSheet {

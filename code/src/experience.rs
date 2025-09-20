@@ -1,4 +1,4 @@
-type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
+type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
 pub struct LevelSystem<T> {
 	pub current_level: T,

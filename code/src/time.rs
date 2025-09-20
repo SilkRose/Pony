@@ -1,7 +1,7 @@
 use crate::number_format::format_number_u128;
 use std::time::{Duration, SystemTime, UNIX_EPOCH};
 
-type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
+type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
 pub fn sleep(start_time: Duration, interval: Duration) -> Result<()> {
 	let elapsed_time = unix_time()? - start_time;

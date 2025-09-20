@@ -1,4 +1,4 @@
-type Result<T, E = Box<dyn (::std::error::Error)>> = ::std::result::Result<T, E>;
+type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
 pub fn format_number_f64(number: f64, decimal_places: usize) -> Result<String> {
 	let number = format!("{number:.decimal_places$}");
