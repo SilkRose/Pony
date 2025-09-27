@@ -11,6 +11,7 @@ pub mod fs;
 pub mod hash;
 pub mod http;
 pub mod json;
+pub mod log;
 pub mod markdown;
 pub mod number_format;
 pub mod pagination;
