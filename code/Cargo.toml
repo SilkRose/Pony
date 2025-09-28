@@ -11,6 +11,7 @@ repository = "https://github.com/SilkRose/Pony"
 [dependencies]
 blake3 = { version = "1.8.2" }
 camino = { version = "1.2.0" }
+chrono = { version = "0.4.42" }
 chrono-tz = { version = "0.10.4" }
 git2 = { version = "0.20.2" }
 image = { version = "0.25.8" }
@@ -24,7 +25,6 @@ serde = { version = "1.0.225", features = ["derive"] }
 serde_json = { version = "1.0.145", features = ["preserve_order"] }
 sha2 = { version = "0.10.9" }
 tokio = { version = "1.47.1", features = ["full"] }
-wiwi = { version = "0.10.0", features = ["clock-timer"] }
 
 [profile.dev]
 opt-level = 0

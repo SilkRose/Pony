@@ -371,12 +371,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "dotenvy"
-version = "0.15.7"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "1aaf95b3e5c8f23aa320147307562d361db0ae0d51242340f558153b4eb2439b"
-
-[[package]]
 name = "either"
 version = "1.15.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1468,6 +1462,7 @@ version = "0.0.0"
 dependencies = [
  "blake3",
  "camino",
+ "chrono",
  "chrono-tz",
  "git2",
  "image",
@@ -1481,7 +1476,6 @@ dependencies = [
  "serde_json",
  "sha2",
  "tokio",
- "wiwi",
 ]
 
 [[package]]
@@ -2731,30 +2725,6 @@ name = "wit-bindgen"
 version = "0.46.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f17a85883d4e6d00e8a97c586de764dabcc06133f7f1d55dce5cdc070ad7fe59"
-
-[[package]]
-name = "wiwi"
-version = "0.10.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "14daf78241a0160ead688ac75349f41ac1777435d11e2eab13f1493c6c83151f"
-dependencies = [
- "cc",
- "chrono",
- "dotenvy",
- "tokio",
- "wiwiwiwiwi",
-]
-
-[[package]]
-name = "wiwiwiwiwi"
-version = "0.10.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c1379900d4d3e2356bc3e130ef37385868c82364d429371847cce23ce9922f7e"
-dependencies = [
- "proc-macro2",
- "quote",
- "syn",
-]
 
 [[package]]
 name = "writeable"
