@@ -19,12 +19,12 @@ indoc = { version = "2.0.6" }
 markdown = { version = "1.0.0" }
 num_cpus = { version = "1.17.0" }
 rand = { version = "0.9.2" }
-regex = { version = "1.11.2" }
+regex = { version = "1.11.3" }
 reqwest = { version = "0.12.23", features = ["json"] }
-serde = { version = "1.0.225", features = ["derive"] }
+serde = { version = "1.0.228", features = ["derive"] }
 serde_json = { version = "1.0.145", features = ["preserve_order"] }
 sha2 = { version = "0.10.9" }
-tokio = { version = "1.47.1", features = ["full"] }
+tokio = { version = "1.47.1" }
 
 [profile.dev]
 opt-level = 0
