@@ -1,9 +1,10 @@
 use std::fmt;
 use std::fs::OpenOptions;
-use std::io::Write;
+use std::io::{BufRead, BufReader, Write};
 use std::path::MAIN_SEPARATOR;
 use std::time::Duration;
 use wiwi::clock_timer::chrono::Utc;
+use wiwi::prelude::DateTime;
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
@@ -71,18 +72,42 @@ impl Logger {
 
 	fn log(self, message: &str, level: LogLevel) -> Result<()> {
 		let time = Utc::now();
+		let msg = format!("{} - {level}: {message}", time.to_rfc3339());
 		if let Some(console) = self.console
 			&& console as u8 >= level as u8
 		{
-			let msg = format!("{time} - {level}: {message}");
 			println!("{msg}");
 		}
 		if let Some(log_file) = self.file
 			&& log_file.level as u8 >= level as u8
 		{
-			let msg = format!("{time} - {level}: {message}");
-			let mut file = OpenOptions::new().append(true).open(log_file.path)?;
+			let mut file = OpenOptions::new()
+				.read(true)
+				.append(true)
+				.create(true)
+				.open(log_file.path)?;
 			writeln!(file, "{msg}").map_err(|e| format!("Failed to write to file: {e}"))?;
+			let reader = BufReader::new(file);
+			let mut cutoff: Option<usize> = None;
+			if let FileLimit::Lines(lines) = log_file.limit {
+				let count = reader.lines().count();
+				if count > lines {
+					cutoff = Some(count - lines)
+				}
+			} else if let FileLimit::Duration(duration) = log_file.limit {
+				let date_cutoff = time - duration;
+				for (i, line) in reader.lines().enumerate() {
+					let date = DateTime::parse_from_rfc3339(&line?[0..25])?.to_utc();
+					if date > date_cutoff {
+						cutoff = Some(i);
+						break;
+					}
+				}
+			}
+			if let Some(cutoff) = cutoff {
+				// do file stuff here
+				println!("{cutoff}");
+			}
 		}
 		Ok(())
 	}
