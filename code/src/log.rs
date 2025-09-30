@@ -3,6 +3,7 @@ use std::fmt;
 use std::fs::OpenOptions;
 use std::io::{BufRead, BufReader, Write};
 use std::path::MAIN_SEPARATOR;
+use std::sync::{Arc, Mutex};
 use std::time::Duration;
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
@@ -15,9 +16,11 @@ pub struct Logger {
 
 #[derive(Debug, Clone)]
 pub struct LogFile {
-	pub path: String,
+	pub file: Arc<Mutex<String>>,
+	pub file_limit: FileLimit,
+	pub dir: String,
+	pub dir_limit: usize,
 	pub level: LogLevel,
-	pub limit: FileLimit,
 }
 
 #[repr(u8)]
@@ -43,7 +46,7 @@ impl Logger {
 		}
 	}
 
-	pub fn set_file(mut self, path: &str, level: LogLevel, limit: FileLimit) -> Self {
+	/* 	pub fn set_file(mut self, path: &str, level: LogLevel, limit: FileLimit) -> Self {
 		let file = LogFile {
 			path: path.to_string(),
 			level,
@@ -51,7 +54,7 @@ impl Logger {
 		};
 		self.file = Some(file);
 		self
-	}
+	} */
 
 	pub fn debug(self, message: &str) -> Result<()> {
 		self.log(message, LogLevel::Debug)
@@ -77,23 +80,24 @@ impl Logger {
 		{
 			println!("{msg}");
 		}
-		if let Some(log_file) = self.file
-			&& log_file.level as u8 >= level as u8
+		if let Some(log) = self.file
+			&& log.level as u8 >= level as u8
 		{
+			let path = log.file.lock().map_err(|_| "Failed to lock data")?;
 			let mut file = OpenOptions::new()
 				.read(true)
 				.append(true)
 				.create(true)
-				.open(log_file.path)?;
+				.open(path.as_str())?;
 			writeln!(file, "{msg}").map_err(|e| format!("Failed to write to file: {e}"))?;
 			let reader = BufReader::new(file);
 			let mut cutoff: Option<usize> = None;
-			if let FileLimit::Lines(lines) = log_file.limit {
+			if let FileLimit::Lines(lines) = log.file_limit {
 				let count = reader.lines().count();
 				if count > lines {
 					cutoff = Some(count - lines)
 				}
-			} else if let FileLimit::Duration(duration) = log_file.limit {
+			} else if let FileLimit::Duration(duration) = log.file_limit {
 				let date_cutoff = time - duration;
 				for (i, line) in reader.lines().enumerate() {
 					let date = DateTime::parse_from_rfc3339(&line?[0..25])?.to_utc();
@@ -123,9 +127,11 @@ impl Default for Logger {
 impl Default for LogFile {
 	fn default() -> Self {
 		Self {
-			path: format!(".{MAIN_SEPARATOR}console.log"),
+			file: Arc::new(Mutex::new(String::from("console.log"))),
+			dir: format!(".{MAIN_SEPARATOR}logs"),
 			level: LogLevel::Warn,
-			limit: FileLimit::default(),
+			file_limit: FileLimit::default(),
+			dir_limit: 10,
 		}
 	}
 }
