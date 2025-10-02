@@ -50,11 +50,14 @@ impl Logger {
 		}
 	}
 
-	pub fn set_file(mut self, dir: &str, level: LogLevel, limit: FileLimit) -> Result<Self> {
+	pub fn set_file(
+		mut self, dir: &str, level: LogLevel, file_limit: FileLimit, dir_limit: usize,
+	) -> Result<Self> {
 		fs::create_dir_all(dir)?;
 		let file = LogFile {
 			dir: Utf8PathBuf::from(dir),
-			file_limit: limit,
+			file_limit,
+			dir_limit,
 			level,
 			..Default::default()
 		};
@@ -187,7 +190,7 @@ mod tests {
 	fn test_line_limit() -> Result<()> {
 		static LOG: LazyLock<Logger> = LazyLock::new(|| {
 			Logger::new(LogLevel::Debug)
-				.set_file("./test-line", LogLevel::Debug, FileLimit::Lines(5))
+				.set_file("./test-line", LogLevel::Debug, FileLimit::Lines(5), 10)
 				.expect("Should never fail")
 		});
 
@@ -209,6 +212,29 @@ mod tests {
 		for (i, line) in reader.lines().enumerate() {
 			assert!(line?.ends_with(&(i + 6).to_string()));
 		}
+		remove_dir_all(logger.dir.clone())?;
+		Ok(())
+	}
+
+	#[test]
+	fn test_max_files() -> Result<()> {
+		static LOG: LazyLock<Logger> = LazyLock::new(|| {
+			Logger::new(LogLevel::Debug)
+				.set_file("./test-files", LogLevel::Debug, FileLimit::Lines(5), 10)
+				.expect("Should never fail")
+		});
+		for i in 1..=50 {
+			LOG.info(&i.to_string())?;
+		}
+		let logger = LOG
+			.file
+			.as_ref()
+			.unwrap()
+			.lock()
+			.map_err(|_| "Failed to lock data")?;
+
+		let files = find_files_in_dir(logger.dir.as_str(), false)?;
+		assert_eq!(10, files.len());
 		remove_dir_all(logger.dir.clone())?;
 		Ok(())
 	}
