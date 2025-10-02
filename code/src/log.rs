@@ -5,9 +5,12 @@ use std::fs::{File, OpenOptions, remove_file};
 use std::io::{BufRead, BufReader, Write};
 use std::path::MAIN_SEPARATOR;
 use std::sync::{Arc, Mutex};
+use std::time::Duration;
 use std::{fmt, fs};
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
+
+const TIME_FORMAT: &str = "%Y-%m-%d %H:%M:%S";
 
 #[derive(Debug)]
 pub struct Logger {
@@ -19,11 +22,17 @@ pub struct Logger {
 pub struct LogFile {
 	pub file: Option<File>,
 	pub file_lines: usize,
-	pub file_line_limit: usize,
+	pub file_line_limit: FileLimit,
 	pub file_timestamp: Option<DateTime<Utc>>,
 	pub dir: Utf8PathBuf,
 	pub dir_limit: usize,
 	pub level: LogLevel,
+}
+
+#[derive(Debug, Clone)]
+pub enum FileLimit {
+	Lines(usize),
+	Duration(Duration),
 }
 
 #[repr(u8)]
@@ -44,7 +53,7 @@ impl Logger {
 	}
 
 	pub fn set_file(
-		mut self, dir: &str, level: LogLevel, line_limit: usize, dir_limit: usize,
+		mut self, dir: &str, level: LogLevel, line_limit: FileLimit, dir_limit: usize,
 	) -> Result<Self> {
 		let mut timestamp: Option<DateTime<Utc>> = None;
 		let mut file: Option<File> = None;
@@ -63,7 +72,7 @@ impl Logger {
 			let buffer = BufReader::new(path);
 			lines = buffer.lines().count();
 			if let Some(stem) = Utf8PathBuf::from(file_path).file_stem()
-				&& let Ok(time) = DateTime::parse_from_rfc3339(stem)
+				&& let Ok(time) = DateTime::parse_from_str(stem, TIME_FORMAT)
 			{
 				timestamp = Some(time.to_utc())
 			}
@@ -99,7 +108,7 @@ impl Logger {
 
 	fn log(&self, message: &str, level: LogLevel) -> Result<()> {
 		let time = Utc::now();
-		let msg = format!("{} - {level}: {message}", time.to_rfc3339());
+		let msg = format!("{} - {level}: {message}", time.format(TIME_FORMAT));
 		if let Some(console) = self.console
 			&& console as u8 <= level as u8
 		{
@@ -110,11 +119,18 @@ impl Logger {
 			if log.level as u8 > level as u8 {
 				return Ok(());
 			}
-			if log.file_lines == log.file_line_limit {
+			if let FileLimit::Lines(lines) = log.file_line_limit {
+				if lines == log.file_lines {
+					log.file = None;
+				}
+			} else if let FileLimit::Duration(duration) = log.file_line_limit
+				&& let Some(timestamp) = log.file_timestamp
+				&& timestamp + duration < time
+			{
 				log.file = None;
 			}
 			if log.file.is_none() {
-				let path = log.dir.join(format!("{}.log", time.to_rfc3339()));
+				let path = log.dir.join(format!("{}.log", time.format(TIME_FORMAT)));
 				let file = OpenOptions::new().append(true).create(true).open(path)?;
 				log.file = Some(file);
 				log.file_timestamp = Some(time);
@@ -124,7 +140,7 @@ impl Logger {
 					.iter()
 					.filter_map(|file| {
 						if let Some(stem) = Utf8PathBuf::from(file).file_stem()
-							&& let Ok(time) = DateTime::parse_from_rfc3339(stem)
+							&& let Ok(time) = DateTime::parse_from_str(stem, TIME_FORMAT)
 						{
 							return Some(time.to_utc());
 						}
@@ -158,7 +174,7 @@ impl Default for LogFile {
 		Self {
 			file: None,
 			file_lines: 0,
-			file_line_limit: 5_000,
+			file_line_limit: FileLimit::Lines(5_000),
 			file_timestamp: None,
 			dir: Utf8PathBuf::from(format!(".{MAIN_SEPARATOR}logs")),
 			level: LogLevel::Warn,
@@ -192,7 +208,7 @@ mod tests {
 	fn test_line_limit() -> Result<()> {
 		static LOG: LazyLock<Logger> = LazyLock::new(|| {
 			Logger::new(LogLevel::Debug)
-				.set_file("./test-line", LogLevel::Debug, 5, 10)
+				.set_file("./test-line", LogLevel::Debug, FileLimit::Lines(5), 10)
 				.expect("Should never fail")
 		});
 
@@ -222,7 +238,7 @@ mod tests {
 	fn test_max_files() -> Result<()> {
 		static LOG: LazyLock<Logger> = LazyLock::new(|| {
 			Logger::new(LogLevel::Debug)
-				.set_file("./test-files", LogLevel::Debug, 5, 10)
+				.set_file("./test-files", LogLevel::Debug, FileLimit::Lines(5), 10)
 				.expect("Should never fail")
 		});
 		for i in 1..=50 {
