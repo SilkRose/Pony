@@ -1,12 +1,12 @@
 use crate::fs::find_files_in_dir;
 use camino::Utf8PathBuf;
 use chrono::{DateTime, Utc};
-use std::fmt;
 use std::fs::{File, OpenOptions, remove_file};
 use std::io::Write;
 use std::path::MAIN_SEPARATOR;
 use std::sync::{Arc, Mutex};
 use std::time::Duration;
+use std::{fmt, fs};
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
@@ -50,7 +50,8 @@ impl Logger {
 		}
 	}
 
-	pub fn set_file(mut self, dir: &str, level: LogLevel, limit: FileLimit) -> Self {
+	pub fn set_file(mut self, dir: &str, level: LogLevel, limit: FileLimit) -> Result<Self> {
+		fs::create_dir_all(dir)?;
 		let file = LogFile {
 			dir: Utf8PathBuf::from(dir),
 			file_limit: limit,
@@ -59,7 +60,7 @@ impl Logger {
 		};
 		let file = Arc::new(Mutex::new(file));
 		self.file = Some(file);
-		self
+		Ok(self)
 	}
 
 	pub fn debug(&self, message: &str) -> Result<()> {
@@ -82,17 +83,17 @@ impl Logger {
 		let time = Utc::now();
 		let msg = format!("{} - {level}: {message}", time.to_rfc3339());
 		if let Some(console) = self.console
-			&& console as u8 >= level as u8
+			&& console as u8 <= level as u8
 		{
 			println!("{msg}");
 		}
 		if let Some(log) = &self.file {
 			let mut log = log.lock().map_err(|_| "Failed to lock data")?;
-			if level as u8 > log.level as u8 {
+			if log.level as u8 > level as u8 {
 				return Ok(());
 			}
 			if let FileLimit::Lines(lines) = log.file_limit {
-				if lines > log.file_lines {
+				if lines == log.file_lines {
 					log.file = None;
 				}
 			} else if let FileLimit::Duration(duration) = log.file_limit
