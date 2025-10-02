@@ -2,10 +2,9 @@ use crate::fs::find_files_in_dir;
 use camino::Utf8PathBuf;
 use chrono::{DateTime, Utc};
 use std::fs::{File, OpenOptions, remove_file};
-use std::io::Write;
+use std::io::{BufRead, BufReader, Write};
 use std::path::MAIN_SEPARATOR;
 use std::sync::{Arc, Mutex};
-use std::time::Duration;
 use std::{fmt, fs};
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
@@ -19,8 +18,8 @@ pub struct Logger {
 #[derive(Debug)]
 pub struct LogFile {
 	pub file: Option<File>,
-	pub file_limit: FileLimit,
 	pub file_lines: usize,
+	pub file_line_limit: usize,
 	pub file_timestamp: Option<DateTime<Utc>>,
 	pub dir: Utf8PathBuf,
 	pub dir_limit: usize,
@@ -36,12 +35,6 @@ pub enum LogLevel {
 	Error,
 }
 
-#[derive(Debug, Clone)]
-pub enum FileLimit {
-	Lines(usize),
-	Duration(Duration),
-}
-
 impl Logger {
 	pub fn new(level: LogLevel) -> Self {
 		Logger {
@@ -51,18 +44,40 @@ impl Logger {
 	}
 
 	pub fn set_file(
-		mut self, dir: &str, level: LogLevel, file_limit: FileLimit, dir_limit: usize,
+		mut self, dir: &str, level: LogLevel, line_limit: usize, dir_limit: usize,
 	) -> Result<Self> {
+		let mut timestamp: Option<DateTime<Utc>> = None;
+		let mut file: Option<File> = None;
+		let mut lines = 0;
 		fs::create_dir_all(dir)?;
-		let file = LogFile {
+		let mut files = find_files_in_dir(dir, false)?;
+		if !files.is_empty() {
+			files.sort();
+			let file_path = files.last().expect("Will never be none");
+			let path = OpenOptions::new()
+				.append(true)
+				.create(true)
+				.open(file_path)?;
+			file = Some(path);
+			let path = OpenOptions::new().read(true).open(file_path)?;
+			let buffer = BufReader::new(path);
+			lines = buffer.lines().count();
+			if let Some(stem) = Utf8PathBuf::from(file_path).file_stem()
+				&& let Ok(time) = DateTime::parse_from_rfc3339(stem)
+			{
+				timestamp = Some(time.to_utc())
+			}
+		}
+		let log = LogFile {
+			file,
+			file_lines: lines,
+			file_line_limit: line_limit,
+			file_timestamp: timestamp,
 			dir: Utf8PathBuf::from(dir),
-			file_limit,
 			dir_limit,
 			level,
-			..Default::default()
 		};
-		let file = Arc::new(Mutex::new(file));
-		self.file = Some(file);
+		self.file = Some(Arc::new(Mutex::new(log)));
 		Ok(self)
 	}
 
@@ -95,18 +110,11 @@ impl Logger {
 			if log.level as u8 > level as u8 {
 				return Ok(());
 			}
-			if let FileLimit::Lines(lines) = log.file_limit {
-				if lines == log.file_lines {
-					log.file = None;
-				}
-			} else if let FileLimit::Duration(duration) = log.file_limit
-				&& let Some(timestamp) = log.file_timestamp
-				&& timestamp + duration < time
-			{
+			if log.file_lines == log.file_line_limit {
 				log.file = None;
 			}
 			if log.file.is_none() {
-				let path = log.dir.join(format!("{time}.log"));
+				let path = log.dir.join(format!("{}.log", time.to_rfc3339()));
 				let file = OpenOptions::new().append(true).create(true).open(path)?;
 				log.file = Some(file);
 				log.file_timestamp = Some(time);
@@ -150,18 +158,12 @@ impl Default for LogFile {
 		Self {
 			file: None,
 			file_lines: 0,
+			file_line_limit: 5_000,
 			file_timestamp: None,
 			dir: Utf8PathBuf::from(format!(".{MAIN_SEPARATOR}logs")),
 			level: LogLevel::Warn,
-			file_limit: FileLimit::default(),
 			dir_limit: 10,
 		}
-	}
-}
-
-impl Default for FileLimit {
-	fn default() -> Self {
-		Self::Lines(50_000)
 	}
 }
 
@@ -190,7 +192,7 @@ mod tests {
 	fn test_line_limit() -> Result<()> {
 		static LOG: LazyLock<Logger> = LazyLock::new(|| {
 			Logger::new(LogLevel::Debug)
-				.set_file("./test-line", LogLevel::Debug, FileLimit::Lines(5), 10)
+				.set_file("./test-line", LogLevel::Debug, 5, 10)
 				.expect("Should never fail")
 		});
 
@@ -220,7 +222,7 @@ mod tests {
 	fn test_max_files() -> Result<()> {
 		static LOG: LazyLock<Logger> = LazyLock::new(|| {
 			Logger::new(LogLevel::Debug)
-				.set_file("./test-files", LogLevel::Debug, FileLimit::Lines(5), 10)
+				.set_file("./test-files", LogLevel::Debug, 5, 10)
 				.expect("Should never fail")
 		});
 		for i in 1..=50 {
