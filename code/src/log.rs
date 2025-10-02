@@ -62,23 +62,23 @@ impl Logger {
 		self
 	}
 
-	pub fn debug(self, message: &str) -> Result<()> {
+	pub fn debug(&self, message: &str) -> Result<()> {
 		self.log(message, LogLevel::Debug)
 	}
 
-	pub fn info(self, message: &str) -> Result<()> {
+	pub fn info(&self, message: &str) -> Result<()> {
 		self.log(message, LogLevel::Info)
 	}
 
-	pub fn warn(self, message: &str) -> Result<()> {
+	pub fn warn(&self, message: &str) -> Result<()> {
 		self.log(message, LogLevel::Warn)
 	}
 
-	pub fn error(self, message: &str) -> Result<()> {
+	pub fn error(&self, message: &str) -> Result<()> {
 		self.log(message, LogLevel::Error)
 	}
 
-	fn log(self, message: &str, level: LogLevel) -> Result<()> {
+	fn log(&self, message: &str, level: LogLevel) -> Result<()> {
 		let time = Utc::now();
 		let msg = format!("{} - {level}: {message}", time.to_rfc3339());
 		if let Some(console) = self.console
@@ -86,7 +86,7 @@ impl Logger {
 		{
 			println!("{msg}");
 		}
-		if let Some(log) = self.file {
+		if let Some(log) = &self.file {
 			let mut log = log.lock().map_err(|_| "Failed to lock data")?;
 			if level as u8 > log.level as u8 {
 				return Ok(());
@@ -170,5 +170,49 @@ impl fmt::Display for LogLevel {
 			LogLevel::Error => "error",
 		};
 		write!(f, "{text}")
+	}
+}
+
+#[cfg(test)]
+mod tests {
+	use super::*;
+	use std::{
+		fs::remove_dir_all,
+		io::{BufRead, BufReader},
+		sync::LazyLock,
+	};
+
+	type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
+
+	#[test]
+	fn test_line_limit() -> Result<()> {
+		static LOG: LazyLock<Logger> = LazyLock::new(|| {
+			Logger::new(LogLevel::Debug).set_file(
+				"./test-line",
+				LogLevel::Debug,
+				FileLimit::Lines(5),
+			)
+		});
+
+		for i in 1..=10 {
+			LOG.info(&i.to_string())?;
+		}
+		let logger = LOG
+			.file
+			.as_ref()
+			.unwrap()
+			.lock()
+			.map_err(|_| "Failed to lock data")?;
+
+		let file = logger.file.as_ref().unwrap();
+		let reader = BufReader::new(file);
+		let mut i = 5;
+		for line in reader.lines() {
+			assert!(line?.ends_with(&i.to_string()));
+			i += 1;
+		}
+		assert_eq!(i, 11);
+		remove_dir_all(logger.dir.clone())?;
+		Ok(())
 	}
 }
