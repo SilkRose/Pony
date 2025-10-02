@@ -1,7 +1,8 @@
+use crate::fs::find_files_in_dir;
 use camino::Utf8PathBuf;
 use chrono::{DateTime, Utc};
 use std::fmt;
-use std::fs::{File, OpenOptions};
+use std::fs::{File, OpenOptions, remove_file};
 use std::io::Write;
 use std::path::MAIN_SEPARATOR;
 use std::sync::{Arc, Mutex};
@@ -106,6 +107,23 @@ impl Logger {
 				log.file = Some(file);
 				log.file_timestamp = Some(time);
 				log.file_lines = 0;
+				let files = find_files_in_dir(log.dir.as_str(), false)?;
+				let mut logs = files
+					.iter()
+					.filter_map(|file| {
+						if let Some(stem) = Utf8PathBuf::from(file).file_stem()
+							&& let Ok(time) = DateTime::parse_from_rfc3339(stem)
+						{
+							return Some(time.to_utc());
+						}
+						None
+					})
+					.collect::<Vec<_>>();
+				logs.sort();
+				for file in logs.iter().take(logs.len() - log.dir_limit) {
+					let path = log.dir.join(format!("{file}.log"));
+					remove_file(path)?;
+				}
 			}
 			let mut file = log.file.as_ref().expect("file will always be present");
 			writeln!(file, "{msg}").map_err(|e| format!("Failed to write to file: {e}"))?;
