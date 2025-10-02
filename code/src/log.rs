@@ -1,24 +1,27 @@
+use camino::Utf8PathBuf;
 use chrono::{DateTime, Utc};
 use std::fmt;
-use std::fs::OpenOptions;
-use std::io::{BufRead, BufReader, Write};
+use std::fs::{File, OpenOptions};
+use std::io::Write;
 use std::path::MAIN_SEPARATOR;
 use std::sync::{Arc, Mutex};
 use std::time::Duration;
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
-#[derive(Debug, Clone)]
+#[derive(Debug)]
 pub struct Logger {
 	pub console: Option<LogLevel>,
-	pub file: Option<LogFile>,
+	pub file: Option<Arc<Mutex<LogFile>>>,
 }
 
-#[derive(Debug, Clone)]
+#[derive(Debug)]
 pub struct LogFile {
-	pub file: Arc<Mutex<String>>,
+	pub file: Option<File>,
 	pub file_limit: FileLimit,
-	pub dir: String,
+	pub file_lines: usize,
+	pub file_timestamp: Option<DateTime<Utc>>,
+	pub dir: Utf8PathBuf,
 	pub dir_limit: usize,
 	pub level: LogLevel,
 }
@@ -46,15 +49,17 @@ impl Logger {
 		}
 	}
 
-	/* 	pub fn set_file(mut self, path: &str, level: LogLevel, limit: FileLimit) -> Self {
+	pub fn set_file(mut self, dir: &str, level: LogLevel, limit: FileLimit) -> Self {
 		let file = LogFile {
-			path: path.to_string(),
+			dir: Utf8PathBuf::from(dir),
+			file_limit: limit,
 			level,
-			limit,
+			..Default::default()
 		};
+		let file = Arc::new(Mutex::new(file));
 		self.file = Some(file);
 		self
-	} */
+	}
 
 	pub fn debug(self, message: &str) -> Result<()> {
 		self.log(message, LogLevel::Debug)
@@ -80,37 +85,31 @@ impl Logger {
 		{
 			println!("{msg}");
 		}
-		if let Some(log) = self.file
-			&& log.level as u8 >= level as u8
-		{
-			let path = log.file.lock().map_err(|_| "Failed to lock data")?;
-			let mut file = OpenOptions::new()
-				.read(true)
-				.append(true)
-				.create(true)
-				.open(path.as_str())?;
-			writeln!(file, "{msg}").map_err(|e| format!("Failed to write to file: {e}"))?;
-			let reader = BufReader::new(file);
-			let mut cutoff: Option<usize> = None;
+		if let Some(log) = self.file {
+			let mut log = log.lock().map_err(|_| "Failed to lock data")?;
+			if level as u8 > log.level as u8 {
+				return Ok(());
+			}
 			if let FileLimit::Lines(lines) = log.file_limit {
-				let count = reader.lines().count();
-				if count > lines {
-					cutoff = Some(count - lines)
+				if lines > log.file_lines {
+					log.file = None;
 				}
-			} else if let FileLimit::Duration(duration) = log.file_limit {
-				let date_cutoff = time - duration;
-				for (i, line) in reader.lines().enumerate() {
-					let date = DateTime::parse_from_rfc3339(&line?[0..25])?.to_utc();
-					if date > date_cutoff {
-						cutoff = Some(i);
-						break;
-					}
-				}
+			} else if let FileLimit::Duration(duration) = log.file_limit
+				&& let Some(timestamp) = log.file_timestamp
+				&& timestamp + duration < time
+			{
+				log.file = None;
 			}
-			if let Some(cutoff) = cutoff {
-				// do file stuff here
-				println!("{cutoff}");
+			if log.file.is_none() {
+				let path = log.dir.join(format!("{time}.log"));
+				let file = OpenOptions::new().append(true).create(true).open(path)?;
+				log.file = Some(file);
+				log.file_timestamp = Some(time);
+				log.file_lines = 0;
 			}
+			let mut file = log.file.as_ref().expect("file will always be present");
+			writeln!(file, "{msg}").map_err(|e| format!("Failed to write to file: {e}"))?;
+			log.file_lines += 1;
 		}
 		Ok(())
 	}
@@ -119,7 +118,7 @@ impl Logger {
 impl Default for Logger {
 	fn default() -> Self {
 		let mut log = Self::new(LogLevel::Info);
-		log.file = Some(LogFile::default());
+		log.file = Some(Arc::new(Mutex::new(LogFile::default())));
 		log
 	}
 }
@@ -127,8 +126,10 @@ impl Default for Logger {
 impl Default for LogFile {
 	fn default() -> Self {
 		Self {
-			file: Arc::new(Mutex::new(String::from("console.log"))),
-			dir: format!(".{MAIN_SEPARATOR}logs"),
+			file: None,
+			file_lines: 0,
+			file_timestamp: None,
+			dir: Utf8PathBuf::from(format!(".{MAIN_SEPARATOR}logs")),
 			level: LogLevel::Warn,
 			file_limit: FileLimit::default(),
 			dir_limit: 10,
