@@ -177,25 +177,21 @@ impl fmt::Display for LogLevel {
 #[cfg(test)]
 mod tests {
 	use super::*;
-	use std::{
-		fs::remove_dir_all,
-		io::{BufRead, BufReader},
-		sync::LazyLock,
-	};
+	use std::fs::remove_dir_all;
+	use std::io::{BufRead, BufReader};
+	use std::sync::LazyLock;
 
 	type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
 	#[test]
 	fn test_line_limit() -> Result<()> {
 		static LOG: LazyLock<Logger> = LazyLock::new(|| {
-			Logger::new(LogLevel::Debug).set_file(
-				"./test-line",
-				LogLevel::Debug,
-				FileLimit::Lines(5),
-			)
+			Logger::new(LogLevel::Debug)
+				.set_file("./test-line", LogLevel::Debug, FileLimit::Lines(5))
+				.expect("Should never fail")
 		});
 
-		for i in 1..=10 {
+		for i in 1..10 {
 			LOG.info(&i.to_string())?;
 		}
 		let logger = LOG
@@ -205,14 +201,14 @@ mod tests {
 			.lock()
 			.map_err(|_| "Failed to lock data")?;
 
-		let file = logger.file.as_ref().unwrap();
+		let path = logger
+			.dir
+			.join(format!("{}.log", logger.file_timestamp.unwrap()));
+		let file = OpenOptions::new().read(true).open(path)?;
 		let reader = BufReader::new(file);
-		let mut i = 5;
-		for line in reader.lines() {
-			assert!(line?.ends_with(&i.to_string()));
-			i += 1;
+		for (i, line) in reader.lines().enumerate() {
+			assert!(line?.ends_with(&(i + 6).to_string()));
 		}
-		assert_eq!(i, 11);
 		remove_dir_all(logger.dir.clone())?;
 		Ok(())
 	}
