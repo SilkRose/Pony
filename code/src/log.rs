@@ -10,7 +10,7 @@ use std::{fmt, fs};
 
 type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
 
-const TIME_FORMAT: &str = "%Y-%m-%d %H:%M:%S";
+const TIME_FORMAT: &str = "%Y-%m-%dT%H:%M:%S%.9f";
 
 #[derive(Debug)]
 pub struct Logger {
@@ -120,7 +120,7 @@ impl Logger {
 				return Ok(());
 			}
 			if let FileLimit::Lines(lines) = log.file_line_limit {
-				if lines == log.file_lines {
+				if log.file_lines >= lines {
 					log.file = None;
 				}
 			} else if let FileLimit::Duration(duration) = log.file_line_limit
@@ -222,9 +222,10 @@ mod tests {
 			.lock()
 			.map_err(|_| "Failed to lock data")?;
 
-		let path = logger
-			.dir
-			.join(format!("{}.log", logger.file_timestamp.unwrap()));
+		let path = logger.dir.join(format!(
+			"{}.log",
+			logger.file_timestamp.unwrap().format(TIME_FORMAT)
+		));
 		let file = OpenOptions::new().read(true).open(path)?;
 		let reader = BufReader::new(file);
 		for (i, line) in reader.lines().enumerate() {
