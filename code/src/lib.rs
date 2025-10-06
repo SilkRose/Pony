@@ -5,6 +5,7 @@ pub mod averages;
 pub mod bytes;
 pub mod color;
 pub mod command;
+pub mod env;
 pub mod experience;
 pub mod fimfiction_api;
 pub mod fs;
