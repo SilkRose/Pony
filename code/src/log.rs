@@ -257,4 +257,52 @@ mod tests {
 		remove_dir_all(logger.dir.clone())?;
 		Ok(())
 	}
+
+	#[test]
+	fn test_duration_limit() -> Result<()> {
+		static LOG: LazyLock<Logger> = LazyLock::new(|| {
+			Logger::new(LogLevel::Debug)
+				.set_file(
+					"./test-time",
+					LogLevel::Debug,
+					FileLimit::Duration(Duration::from_millis(100)),
+					10,
+				)
+				.expect("Should never fail")
+		});
+
+		for _ in 1..=3 {
+			for i in 1..10 {
+				LOG.info(&i.to_string())?;
+			}
+			std::thread::sleep(Duration::from_millis(200));
+		}
+
+		let logger = LOG
+			.file
+			.as_ref()
+			.unwrap()
+			.lock()
+			.map_err(|_| "Failed to lock data")?;
+
+		for file in find_files_in_dir(logger.dir.as_str(), false)? {
+			if let Some(stem) = Utf8PathBuf::from(file.clone()).file_stem()
+				&& let Ok(time) = DateTime::parse_from_str(stem, TIME_FORMAT)
+				&& let FileLimit::Duration(duration) = logger.file_line_limit
+			{
+				let time = time.to_utc();
+				let max_time = time + duration;
+				let file = OpenOptions::new().read(true).open(file)?;
+				let reader = BufReader::new(file);
+				for line in reader.lines() {
+					let line_time =
+						DateTime::parse_from_str(line?.split_once(" - ").unwrap().0, TIME_FORMAT)?;
+					assert!(line_time >= time);
+					assert!(line_time <= max_time);
+				}
+			}
+		}
+		remove_dir_all(logger.dir.clone())?;
+		Ok(())
+	}
 }
