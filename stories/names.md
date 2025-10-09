@@ -141,3 +141,4 @@ This file contains random story names that don't have enough thought to have the
 - An Apology for Apathy
 - Soft and Sincere
 - Liaison of Laziness
+- Robbing Rarity to Pay Pinkie
