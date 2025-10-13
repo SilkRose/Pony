@@ -142,3 +142,5 @@ This file contains random story names that don't have enough thought to have the
 - Soft and Sincere
 - Liaison of Laziness
 - Robbing Rarity to Pay Pinkie
+- Cuddle Console
+- Uniconsole
