@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Cuddle Consultant
+
+### Synopsis:
+Twilight asks Rarity how to cuddle Pinkie more effectively.
+
+***
+
 ## Adequate Affection
 
 ### Synopsis:
