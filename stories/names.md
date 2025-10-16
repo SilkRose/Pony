@@ -144,3 +144,4 @@ This file contains random story names that don't have enough thought to have the
 - Robbing Rarity to Pay Pinkie
 - Cuddle Console
 - Uniconsole
+- Kissing Equation
