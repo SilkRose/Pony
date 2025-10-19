@@ -10,7 +10,7 @@ I had already forgot whatever minor inconvenience had me dramatically fainting o
 
 A few days had passed, and I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened. What was it? Oh, I don't remember… but it was obviously important. Far more importantly however, is that Pinkie Pie caught me!
 
-I smiled in her hooves as I take in the moment. She smiles at me with a curiosity in her eyes. I want to reach out and touch her, but now is not the time. Now is the time to enjoy the moment.
+I smiled in her hooves as I take in the moment. She smiles back at me with a curiosity in her eyes. I want to reach out and touch her, but now is not the time. Now is the time for us.
 
 ***
 
@@ -19,6 +19,12 @@ Barely a few hours later and she was back by my side. I had wanted to test if it
 This time I don't let her slip away. I wrap my hooves around her and pull her into a hug. She hugs back as I whisper to her, "I love you."
 
 "I love you, too!"
+
+***
+
+I do realize that I almost certainly have a crush on Pinkie Pie. While I do think she has a crush on me, I need a confirmation. And I need it now. You know what is *actually* the worst possible thing? Yes, that's right dear reader, the fact that Pinkie isn't currently hold me.
+
+I know exactly how to fix this, though. Mere moments later I am in her hooves and we are smiling at each other. I blush as I wrap my hooves around her once again. She blushes and I get my answer when she kisses back.
 
 ***
 
