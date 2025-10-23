@@ -145,3 +145,4 @@ This file contains random story names that don't have enough thought to have the
 - Cuddle Console
 - Uniconsole
 - Kissing Equation
+- Hoofprints of a Party
