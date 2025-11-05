@@ -4,6 +4,16 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Six Friends, Five Graves
+
+### Short Description:
+Four Deaths, Three Balloons
+
+### Chapter title:
+Two Lovers, One Lie
+
+***
+
 ## Cuddle Consultant
 
 ### Synopsis:
