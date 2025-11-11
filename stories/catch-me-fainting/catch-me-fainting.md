@@ -1,5 +1,15 @@
 # Catch me Fainting
 
+Pinkie caught me mid-dramatic faint, and held me tight as a bubbly *yay* escaped her.
+
+I recover from the encounter and look at her for answers. She doesn't say anything and sets me down gently onto my fainting couch.
+
+She simply smiles at me and goes about her way, like nothing had ever happened.
+
+
+
+***
+
 She caught me like it was just another thing she'd do. Like she was in love with me but I didn't know it yet. After a brief pause she gently laid me down onto the original target I had for my dramatic faint and she looked at me with a warm smile and wonder in her eyes.
 
 I was going to say something dramatic, but I was so shocked by everything that had happened that all I could do was stare in her eyes. After a few moments of staring in each other's eyes she trotted away like nothing had happened to do what she was doing before she caught me. A tinge of a blush snuck up on me, and I didn't know what to think.
