@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Twilight's Forest
+
+### Synopsis:
+Twilight plants a tree every time one of her friends die. The whole story is spent walking through the forest where at the end the scale and revelation is revealed.
+
+***
+
 ## Six Friends, Five Graves
 
 ### Short Description:
