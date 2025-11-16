@@ -8,6 +8,8 @@ All pixel-art pony sprites, models, and props created by [Langtanium] and [Atomi
 
 All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal License for everything else in the images.
 
+All cover images done by [Lossart] are licensed under the Creative Commons Attribution, Non-commercial, Share alike, 4.0 International License, which can be read [here][license-cc-by-nc-sa], and its deed can be read [here][deed-cc-by-nc-sa].
+
 All cover images done by [IrradiatedPirateBooty] and [TikiBat][Tiki Bat FIMFiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
 
 My Little Pony: Friendship is Magic © Hasbro, Inc.
@@ -15,8 +17,10 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 [license-cc-zero]: ./archive/license/creative-commons-zero.md
 [license-mit]: ./archive/license/mit.md
 [license-cc-by-nc-nd]: ./archive/license/creative-commons-by-nc-nd.md
+[license-cc-by-nc-sa]: ./archive/license/creative-commons-by-nc-sa.md
 
 [deed-cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/ "Creative Commons"
+[deed-cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons"
 [deed-cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons"
 
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "Fimfiction"
@@ -26,3 +30,4 @@ My Little Pony: Friendship is Magic © Hasbro, Inc.
 [PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "Fimfiction"
 [Scriblits Talo]: https://www.fimfiction.net/user/495925/Scriblits+Talo/stories "Fimfiction"
 [AtomicGlow]: https://www.fimfiction.net/user/90142/AtomicGlow "Fimfiction"
+[Lossart]: https://www.tumblr.com/blog/markiza297 "Tumblr"

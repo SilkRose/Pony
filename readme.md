@@ -132,6 +132,8 @@ All pixel-art pony sprites, models, and props created by [Langtanium] and [Atomi
 
 All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source files – are dual licensed under the MIT License for the ponies and Creative Commons Zero 1.0 Universal License for everything else in the images.
 
+All cover images done by [Lossart] are licensed under the Creative Commons Attribution, Non-commercial, Share alike, 4.0 International License, which can be read [here][license-cc-by-nc-sa], and its deed can be read [here][deed-cc-by-nc-sa].
+
 All cover images done by [IrradiatedPirateBooty] and [TikiBat][Tiki Bat Fimfiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
 
 My Little Pony: Friendship is Magic © Hasbro, Inc.
@@ -156,6 +158,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[ThePeer]** for collaborative writing and pre-reading.
 - **[csos95]** for helping me with the [Fimfiction API].
 - **[Damaged]** for helping me with the [Fimfiction API].
+- **[Lossart]** for illustrating covers.
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
@@ -202,8 +205,10 @@ While I may be the main contributor to this repository, I have had help, and thu
 [license-cc-zero]: ./archive/license/creative-commons-zero.md
 [license-mit]: ./archive/license/mit.md
 [license-cc-by-nc-nd]: ./archive/license/creative-commons-by-nc-nd.md
+[license-cc-by-nc-sa]: ./archive/license/creative-commons-by-nc-sa.md
 
 [deed-cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/ "Creative Commons"
+[deed-cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "Creative Commons"
 [deed-cc-zero]: https://creativecommons.org/publicdomain/zero/1.0/ "Creative Commons"
 
 [Ideas File]: ./stories/ideas.md
@@ -245,6 +250,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [AtomicGlow]: https://www.fimfiction.net/user/90142/AtomicGlow "Fimfiction"
 [Hoofprintz]: https://www.fimfiction.net/user/503681/Hoofprintz "Fimfiction"
 [Math Spook]: https://www.fimfiction.net/user/612387/Math+Spook "Fimfiction"
+[Lossart]: https://www.tumblr.com/blog/markiza297 "Tumblr"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "Fimfiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
