@@ -146,3 +146,7 @@ This file contains random story names that don't have enough thought to have the
 - Uniconsole
 - Kissing Equation
 - Hoofprints of a Party
+- Bakery Brawl
+- The Sugarcube Corner Showdown
+- Love on Four Hooves
+- The Pinkie Pie Particle
