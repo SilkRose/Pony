@@ -150,3 +150,5 @@ This file contains random story names that don't have enough thought to have the
 - The Sugarcube Corner Showdown
 - Love on Four Hooves
 - The Pinkie Pie Particle
+- Sleepover Set-up
+- Slumber Party Set-up
