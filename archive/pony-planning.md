@@ -2,6 +2,23 @@
 
 Various plans for this repository.
 
+## Migration Plan:
+- Stories -> 
+- Covers -> Pony Assets
+- Flash Fiction -> 
+- Ponies -> L&T Pony Sprites
+- 3D Plushies -> 
+- Code -> 
+- Blogs -> Personal Blog
+- Emotes -> 
+- Ext Covers -> Pony Assets
+- Games -> 
+- Icons -> Pony Assets
+- Image Fonts -> Pony Assets
+- MD Templates -> None
+- Memes -> None
+- Promotions -> None
+
 ## Planned Changes: (near)
 - Change commit email from `silkrose@love-tolerance.com` to `git@silkrose.dev`.
 - Add signing for all commits.
