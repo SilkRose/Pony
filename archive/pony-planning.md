@@ -5,19 +5,19 @@ Various plans for this repository.
 ## Migration Plan:
 - Stories -> Pony
 - Covers -> Pony Assets
-- Flash Fiction -> None
-- Ponies -> L&T Pony Sprites
-- 3D Plushies -> L&T 3D Plushies
+- Flash Fiction -> Pony/Snippets
+- Ponies -> Pony Sprites
+- 3D Plushies -> 3D Plushies
 - Code -> Libre Pony?
 - Blogs -> Personal Blog
-- Emotes -> None
+- Emotes -> Pony Assets
 - Ext Covers -> Pony Assets
-- Games -> None
+- Games -> Individual Repositories
 - Icons -> Pony Assets
 - Image Fonts -> Pony Assets
-- MD Templates -> None
-- Memes -> None
-- Promotions -> None
+- MD Templates -> Pony
+- Memes -> Pony Assets
+- Promotions -> Pony Assets
 
 ## Planned Changes: (near)
 - Change commit email from `silkrose@love-tolerance.com` to `git@silkrose.dev`.
