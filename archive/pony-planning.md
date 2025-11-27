@@ -3,16 +3,16 @@
 Various plans for this repository.
 
 ## Migration Plan:
-- Stories -> 
+- Stories -> Pony
 - Covers -> Pony Assets
-- Flash Fiction -> 
+- Flash Fiction -> None
 - Ponies -> L&T Pony Sprites
-- 3D Plushies -> 
-- Code -> 
+- 3D Plushies -> L&T 3D Plushies
+- Code -> Libre Pony?
 - Blogs -> Personal Blog
-- Emotes -> 
+- Emotes -> None
 - Ext Covers -> Pony Assets
-- Games -> 
+- Games -> None
 - Icons -> Pony Assets
 - Image Fonts -> Pony Assets
 - MD Templates -> None
