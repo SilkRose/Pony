@@ -1,34 +1,70 @@
 # Catch me Fainting
 
-Pinkie caught me mid-dramatic faint, and held me tight as a bubbly *yay* escaped her.
+Pinkie Pie caught me like it was just another thing she'd do. Like she was saving me from something that neither of us knew of at the time.
 
-I recover from the encounter and look at her for answers. She doesn't say anything and sets me down gently onto my fainting couch.
+After a brief pause she gently laid me down onto my fainting couch and looked at me with a warm smile and curiosity in her eyes.
 
-She simply smiles at me and goes about her way, like nothing had ever happened.
+I was going to say something dramatic, but I was so shocked by everything that had happened that all I could do was stare as she trotted away like nothing happened.
 
-
-
-***
-
-She caught me like it was just another thing she'd do. Like she was in love with me but I didn't know it yet. After a brief pause she gently laid me down onto the original target I had for my dramatic faint and she looked at me with a warm smile and wonder in her eyes.
-
-I was going to say something dramatic, but I was so shocked by everything that had happened that all I could do was stare in her eyes. After a few moments of staring in each other's eyes she trotted away like nothing had happened to do what she was doing before she caught me. A tinge of a blush snuck up on me, and I didn't know what to think.
-
-I don't even remember whatever minor inconvenience had me dramatically fainting onto my couch in the first place. This was far more interesting. This was far more fun.
+I don't even remember whatever minor inconvenience had me dramatically fainting onto my couch in the first place. I decided to let it go as Pinkie being Pinkie and move on.
 
 ***
 
-After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more importantly however, is that Pinkie Pie caught me!
+After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more importantly however, is that Pinkie Pie caught me again!
 
-As she held me, she smiled with curiosity in her eyes. I smiled as I took in the moment. I wanted to reach out and touch her, but I was too dazed and nervous to do anything. So I just sat there and stared.
+As she held me, she smiled with more of that curiosity in her eyes I had seen from the first time. I smiled as I took in the moment. I wanted to reach out and touch her, but I was too dazed and nervous to do anything. So I just sat there and stared.
 
 ***
 
-Barely a few hours later, she was back by my side. I wanted to test if it would work again, so I waited for an opportunity and I might have… "exaggerated" my reaction, some may say. That's not important now, what is important is that Pinkie ended up holding me again.
+Barely a few hours later, she was back by my side. I wanted to test if it would work again, so I waited for an opportunity and I might have… *exaggerated* my reaction, some may say. That's not important now, what is important is that Pinkie ended up holding me again.
 
-This time I didn't let her slip away. I wrapped my hooves around her and pulled myself into a hug. She hugged me back and I whispered, "I love you."
+This time I didn't let her slip away. I wrapped my hooves around her and pulled her into a hug.
 
-"I love you, too!"
+She hugged me back.
+
+***
+
+Pinkie must have a reason for catching me whenever I dramatically faint. Her Pinkie Sense must be the way she is detecting it. What I need to figure out is why her Pinkie Sense is concerned with me of all ponies?
+
+I do rather enjoy her company but surely that can't be the reason. It has to be something with her, right?
+
+I decided to run a little experiment. I start to fall forward onto the floor.
+
+I landed face first. "Ow."
+
+***
+
+I must confront Pinkie Pie about this. I need to know what is going on. Oh, Pinkie isn't here? Good thing I know how to make her appear out of nowhere.
+
+I smile up at her as my plan works perfectly. "Hello, Pinkie."
+
+"Hi, Rarity," she says with a smile of her own.
+
+"While I do enjoy your gentle embrace, I must ask why you are catching me when I faint?"
+
+Pinkie cages up, her eyes looking at everything but me now. "Well, uh, it's a Pinkie Sense."
+
+"I figured that, but why is it happening? Is there something special about me?"
+
+A small blush shows itself on her face. "I don't know. I gotta go now, bye Rarity!"
+
+With that she was gone.
+
+***
+
+I dramatically fainted a few minutes later, testing if she would come back so quickly after whatever that was.
+
+True to her nature, Pinkie did catch me. Before she could speak I apologize.
+
+"I'm sorry Pinkie."
+
+Pinkie sighs. "I should be the one apologizing."
+
+I hug her tight. "I am the one forcing you to catch me though."
+
+Pinkie hugs back. "True, but I am the one who doesn't know why she's catching you or what these new feelings are."
+
+"New feelings?"
 
 ***
 
