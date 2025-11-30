@@ -68,9 +68,50 @@ Pinkie hugs back. "True, but I am the one who doesn't know why she's catching yo
 
 ***
 
-I do realize that I almost certainly have a crush on Pinkie Pie. While I do think she has a crush on me, I need a confirmation. And I need it now. You know what is *actually* the worst possible thing? Yes, that's right dear reader, the fact that Pinkie isn't currently holding me.
+I gave Pinkie some time and space to come to her own conclusion regarding her feelings towards me. Luckily for me, this also gave me the time I needed to reflect on our interactions as of late.
 
-I know exactly how to fix this, though. Mere moments later I am in her hooves and we are smiling at each other. I blush as I wrap my hooves around her once again. She blushes and I get my answer when she kisses back.
+To put it simply; I have romantic feelings for Pinkie Pie.
+
+To put it ever more simply; I fainted.
+
+I just had to see her again and feel her gently hold me with care and grace.
+
+I smiled up at her as she smiles back.
+
+Pinkie says, "Just the pony I wanted to see… and hug, and hold."
+
+I blush. "I wanted to see you too, but you probably already knew that from the fainting…"
+
+Pinkie blushes. "I did a lot of thinking on those feelings I ~~was~~ am having…"
+
+She let go of me and we both sit facing each other.
+
+"I think I have a crush on you, Rarity."
+
+"I actually did some thinking too, and I also think I have a crush on you, too."
+
+As both of our blushes expand on our faces we smile at each other and hug.
+
+After the hug, I go ahead and ask, "Pinkie, would you go out with me?"
+
+"Yes!"
 
 ***
 
+For the both of us, that day was great. We both let out our feelings and gained an ever closer bond. But this day, we were both looking forward too a lot.
+
+We hadn't kissed yet, and that was something I *really* wanted to fix.
+
+We both knew we were going to kiss after one of the times I fainted, it's just neither of us went for it yet. Not this time though.
+
+Pinkie wanted to have a fun sleepover and I wanted to start it off with a spark. So, I do my thing and faint.
+
+She catches me as planned and we stare into each other's eyes. I smile at her as I notice the blush on her face that must have been there while she was waiting on me.
+
+I wrap my hooves around her we slowly pull each other closer.
+
+Our lips meet as sparks fly. We hold the kiss before breaking it and smiling.
+
+"I love you, Pinkie!"
+
+"I love you too, Rarity!"
