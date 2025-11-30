@@ -62,7 +62,7 @@ Pinkie sighs. "I should be the one apologizing."
 
 I hug her tight. "I am the one forcing you to catch me though."
 
-Pinkie hugs back. "True, but I am the one who doesn't know why she's catching you or what these new feelings are."
+Pinkie hugs back. "True, but I am the one who doesn't know why she's catching you or what these new feelings mean…"
 
 "New feelings?"
 
