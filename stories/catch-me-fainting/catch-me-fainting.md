@@ -1,6 +1,6 @@
 # Catch me Fainting
 
-Pinkie Pie caught me like it was just another thing she'd do. Like she was saving me from something that neither of us knew of at the time.
+Pinkie Pie caught me like it was just another thing she'd do. Like she was saving me from something that neither of us knew of.
 
 After a brief pause she gently laid me down onto my fainting couch and looked at me with a warm smile and curiosity in her eyes.
 
@@ -14,6 +14,8 @@ After a few days, I had almost forgotten about our little rendezvous. But, lucki
 
 As she held me, she smiled with more of that curiosity in her eyes I had seen from the first time. I smiled as I took in the moment. I wanted to reach out and touch her, but I was too dazed and nervous to do anything. So I just sat there and stared.
 
+Pinkie does have really beautiful eyes.
+
 ***
 
 Barely a few hours later, she was back by my side. I wanted to test if it would work again, so I waited for an opportunity and I might have… *exaggerated* my reaction, some may say. That's not important now, what is important is that Pinkie ended up holding me again.
@@ -21,6 +23,8 @@ Barely a few hours later, she was back by my side. I wanted to test if it would 
 This time I didn't let her slip away. I wrapped my hooves around her and pulled her into a hug.
 
 She hugged me back.
+
+I wanted that hug to last longer than it did.
 
 ***
 
@@ -31,6 +35,8 @@ I do rather enjoy her company but surely that can't be the reason. It has to be 
 I decided to run a little experiment. I start to fall forward onto the floor.
 
 I landed face first. "Ow."
+
+Maybe next time put a pillow down…
 
 ***
 
@@ -49,6 +55,8 @@ Pinkie cages up, her eyes looking at everything but me now. "Well, uh, it's a Pi
 A small blush shows itself on her face. "I don't know. I gotta go now, bye Rarity!"
 
 With that she was gone.
+
+She's so mysterious… and pretty.
 
 ***
 
@@ -115,3 +123,13 @@ Our lips meet as sparks fly. We hold the kiss before breaking it and smiling.
 "I love you, Pinkie!"
 
 "I love you too, Rarity!"
+
+***
+
+Rarity stood in the center of her friends minus Pinkie.
+
+"Pinkie and I have gather you here for a very special announcement."
+
+"Where is Pinkie?" Twilight asked.
+
+"One second, darling," I say before fainting.
