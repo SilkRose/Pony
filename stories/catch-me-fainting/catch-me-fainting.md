@@ -12,7 +12,7 @@ I don't even remember whatever minor inconvenience had me dramatically fainting 
 
 After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more important, however, was that Pinkie Pie caught me again!
 
-As she held me, she smiled with more of that curiosity in her eyes I had seen the first time. I smiled, too, as I took in the moment. I wanted to reach out and touch her, but I was too dazed and nervous to do anything. So I just sat there and stared.
+As she held me, she smiled with that same curiosity in her eyes. I smiled, too, as I took in the moment. I wanted to reach out and touch her, but I was too dazed and nervous to do anything. So I just sat there and stared.
 
 Pinkie does have such beautiful eyes.
 
@@ -46,7 +46,7 @@ I smiled up at her as my plan worked perfectly. "Hello, Pinkie."
 
 "Hi, Rarity," she said with a smile of her own.
 
-"While I do enjoy your gentle embrace, I must ask why you are catching me when I faint?"
+"While I do enjoy your gentle embrace, I must ask: why you are catching me when I faint?"
 
 Pinkie caged up, her eyes looking at everything but me now. "Well, uh, it's a Pinkie Sense."
 
@@ -64,11 +64,11 @@ I dramatically fainted a few minutes later, testing if she would come back so qu
 
 True to her nature, Pinkie did catch me. Before she could speak I apologized.
 
-"I'm sorry Pinkie."
+"I'm sorry, Pinkie."
 
 Pinkie sighed. "I should be the one apologizing."
 
-I hugged her tight. "I am the one forcing you to catch me, though."
+I hugged her tight. "I'm the one forcing you to catch me, though."
 
 Pinkie hugged back. "But I'm the one who doesn't know why she's catching you, or what these new feelings mean…"
 
@@ -90,7 +90,7 @@ Pinkie said, "Just the pony I wanted to see… and hug, and hold."
 
 I blushed. "I wanted to see you too, but you probably already knew that from the fainting…"
 
-Pinkie blushed. "I did a lot of thinking on those feelings I ~~was~~ am having…"
+Pinkie blushed. "I did a lot of thinking on those feelings I've been having…"
 
 She let go of me and we both sat facing each other.
 
@@ -110,7 +110,7 @@ For the both of us, that day was great. We both let out our feelings and gained 
 
 We hadn't kissed yet, and that was something I *really* wanted to fix.
 
-We both knew we were going to kiss after one of the times I fainted. It was just neither of us had gone for it yet. Not this time though.
+We both knew we were going to kiss after one of the times I fainted. It was just neither of us had gone for it yet. That was soon going to change.
 
 Pinkie wanted to have a fun sleepover and I wanted to start it off with a spark. So, I did my thing and fainted.
 
