@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Unicorn Snowball Fight
+
+### Short Description:
+Everypony knows about the traditional unicorn snowball fight! If you don't, then you're about to learn.
+
+***
+
 ## Literary Shortcuts
 
 ### Synopsis:
