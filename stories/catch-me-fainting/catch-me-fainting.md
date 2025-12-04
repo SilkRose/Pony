@@ -10,7 +10,7 @@ I don't even remember whatever minor inconvenience had me dramatically fainting 
 
 ***
 
-After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more important, however, was that Pinkie Pie caught me again!
+After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more important, however, was that Pinkie caught me again!
 
 As she held me, she smiled with that same curiosity in her eyes. I smiled, too, as I took in the moment. I wanted to reach out and touch her, but I was too dazed and overwhelmed to do anything. So I just sat there and stared.
 
@@ -56,11 +56,11 @@ A small blush showed itself on her face. "Umm, I don't know. I gotta go now, bye
 
 With that she was gone.
 
-She's so mysterious… and pretty.
+She was so mysterious… and pretty.
 
 ***
 
-I dramatically fainted a few minutes later, to test if she would come back so quickly after whatever that was.
+I dramatically fainted a few minutes later, testing if she would come back so quickly after whatever that was.
 
 True to her nature, Pinkie did catch me. Before she could speak I apologized.
 
@@ -84,8 +84,6 @@ To put it ever more simply: I fainted.
 
 I just had to see her again and feel her gently hold me with care and grace.
 
-…
-
 I smiled up at her as she smiled back.
 
 Pinkie said, "Just the pony I wanted to see… and hug, and hold."
@@ -108,11 +106,11 @@ After the hug, I went ahead and asked, "Pinkie, will you go out with me?"
 
 ***
 
-For the both of us, that day was great. We both let out our feelings and gained an ever closer bond. But today, we were both looking forward to a lot.
+For the both of us, that day was great. We both let out our feelings and gained an ever closer bond. But this day, we were both looking forward to a lot.
 
 We hadn't kissed yet, and that was something I *really* wanted to fix.
 
-We both knew that we were going to kiss after one of the times I fainted. It was just that neither of us had gone for it yet — that was soon to change.
+We both knew we were going to kiss after one of the times I fainted. It was just neither of us had gone for it yet. That was soon to change.
 
 Pinkie wanted to have a fun sleepover and I wanted to start it off with a spark. So, I did my thing and fainted.
 
