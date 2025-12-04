@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Literary Shortcuts
+
+### Synopsis:
+A 100,000 word story told in only 1,000. Could be a comedy. "We're just going to skip that part, sounds hard to write..."
+
+***
+
 ## Twilight's Forest
 
 ### Synopsis:
