@@ -115,13 +115,6 @@ Pinkie Pie gets the author/narrator to help her ask out Rarity.
 
 ***
 
-## Afterlife Affection
-
-### Synopsis:
-Sunset goes to Equestria to see Pinkie after the one she's dating in her world dies.
-
-***
-
 ## Hot Spare
 
 ### Synopsis:
