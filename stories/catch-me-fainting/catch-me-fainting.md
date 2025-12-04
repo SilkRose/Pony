@@ -2,29 +2,29 @@
 
 Pinkie Pie caught me like it was just another thing she'd do. Like she was saving me from something that neither of us knew of.
 
-After a brief pause she gently laid me down onto my fainting couch and looked at me with a warm smile and curiosity in her eyes.
+After a moment's hesitation she gently laid me down onto my fainting couch and watched me with a warm smile and curiosity in her eyes.
 
-I was going to say something dramatic, but I was so shocked by everything that had happened that all I could do was stare as she trotted away like nothing happened.
+Normally I would have said something dramatic, but I was so shocked by everything that had happened that all I could do was stare as she trotted away like nothing happened.
 
 I don't even remember whatever minor inconvenience had me dramatically fainting onto my couch in the first place. I decided to let it go as Pinkie being Pinkie and move on.
 
 ***
 
-After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more important, however, was that Pinkie Pie caught me again!
+After a few days, I had almost forgotten about our little rendezvous. But, luckily for me the worst possible thing had just happened! What was it? Oh, I don't remember… but it was obviously important! Far more important, however, was that Pinkie caught me again!
 
-As she held me, she smiled with that same curiosity in her eyes. I smiled, too, as I took in the moment. I wanted to reach out and touch her, but I was too dazed and nervous to do anything. So I just sat there and stared.
+As she held me, she smiled with that same curiosity in her eyes. I smiled, too, as I took in the moment. I wanted to reach out and touch her, but I was too dazed and overwhelmed to do anything. So I just sat there and stared.
 
 Pinkie does have such beautiful eyes.
 
 ***
 
-Barely a few hours later, she was back by my side. I wanted to test if it would work again, so I waited for an opportunity and I might have… *exaggerated* my reaction, some may say. That wasn't important now; what was important was that Pinkie ended up holding me again.
+Barely a few hours later, she was back by my side. I wanted to test if it would work again, so I waited for an opportunity and I may have… *exaggerated* my reaction, some might say. That wasn't important now; what was important was that Pinkie ended up holding me again.
 
-This time I didn't let her slip away. I wrapped my hooves around her and pulled her into a hug.
+This time I didn't let her slip away. I wrapped my hooves around her and pulled her into a tight hug.
 
 She hugged me back.
 
-I wanted that hug to last longer than it did.
+I wanted that hug to last much longer than it did.
 
 ***
 
@@ -52,7 +52,7 @@ Pinkie caged up, her eyes looking at everything but me now. "Well, uh, it's a Pi
 
 "I figured that, but why is it happening? Is there something special about me?"
 
-A small blush showed itself on her face. "I don't know. I gotta go now, bye Rarity!"
+A small blush showed itself on her face. "Umm, I don't know. I gotta go now, bye Rarity!"
 
 With that she was gone.
 
@@ -76,7 +76,7 @@ Pinkie hugged back. "But I'm the one who doesn't know why she's catching you, or
 
 ***
 
-I gave Pinkie some time and space to come to her own conclusion regarding her feelings towards me. Luckily for me, this also gave me the time I needed to reflect on our interactions as of late.
+I gave Pinkie some time and space to come to her own conclusions regarding her feelings towards me. Luckily for me, this also gave me the time I needed to reflect on our interactions as of late.
 
 To put it simply: I had romantic feelings for Pinkie Pie.
 
@@ -96,11 +96,11 @@ She let go of me and we both sat facing each other.
 
 "I think I have a crush on you, Rarity."
 
-"I've also done some thinking, and I think I have a crush on you, too."
+"I've also done some thinking, and I think I have a crush on you, too, Pinkie."
 
 As both of our blushes expanded on our faces, we smiled at each other and hugged.
 
-After the hug, I went ahead and asked, "Pinkie, would you go out with me?"
+After the hug, I went ahead and asked, "Pinkie, will you go out with me?"
 
 "Yes!"
 
@@ -110,13 +110,13 @@ For the both of us, that day was great. We both let out our feelings and gained 
 
 We hadn't kissed yet, and that was something I *really* wanted to fix.
 
-We both knew we were going to kiss after one of the times I fainted. It was just neither of us had gone for it yet. That was soon going to change.
+We both knew we were going to kiss after one of the times I fainted. It was just neither of us had gone for it yet. That was soon to change.
 
 Pinkie wanted to have a fun sleepover and I wanted to start it off with a spark. So, I did my thing and fainted.
 
 She caught me as planned, and we stared into each other's eyes. I smiled at her as I noticed the blush already on her face that must have been there while she was waiting on me.
 
-I wrapped my hooves around her. We slowly pulled each other closer.
+I wrapped my hooves around her, and we slowly pulled each other closer.
 
 Sparks flew as our lips met. We held the kiss before breaking it and smiling.
 
