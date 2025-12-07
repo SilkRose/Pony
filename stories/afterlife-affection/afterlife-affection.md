@@ -88,11 +88,11 @@ Sunset places her hoof against Pinkie's bedroom door and freezes up.
 
 *Come on Sunset, you got this.*
 
-She slows her breath preparing to knock.
+She slows her breath preparing to do this.
 
 Seconds later as she is about to knock, she hears a dull thud coming from inside Pinkie's bedroom.
 
-Sunset pushes open the door and heads inside. "Pinkie? Are you okay?"
+Sunset pushes open the door and enters the room. "Pinkie? Are you okay?"
 
 Pinkie slowly gets up from the floor beside her bed as Sunset makes her way over to her. "Ow. Just a little hurt."
 
@@ -114,6 +114,6 @@ Pinkie steps closer to Sunset. "Sunset?"
 
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
-Tears begin falling onto Sunset's back as she hugs back.
+Tears began to drip onto Sunset's coat as she hugs back.
 
 "I missed you so much…"
