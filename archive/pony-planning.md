@@ -26,6 +26,7 @@ Various plans for this repository.
 - Move all images and binary files to a separate repository or host.
 - Standardize commit messages. (Code commits mostly.)
 - Require a description for almost all commits.
+- Add story checklists.
 - 
 
 ## Planned Changes: (far)
