@@ -6,7 +6,7 @@ She closes her eyes and walks into the portal.
 
 She lands on the other side as her unicorn self. She's drenched in a black cape and hood. Looking around she finds the room empty.
 
-She quietly makes her way through the halls of Twilight's castle, find her way outside.
+She quietly makes her way through the halls of Twilight's castle, finding her way outside.
 
 Taking in the cool night air, she sits down as the reality of what she's doing hits her.
 
@@ -34,13 +34,13 @@ She makes it to Sugarcube Corner, then enters silently through the front door.
 
 *I loved when Pinkie brought me here to show off how cool the pony version of her house was.*
 
-Sunset lets out a muffled laugh as she remembers her Pinkie try to eat the bakery itself.
+Sunset lets out a muffled laugh as she remembers her Pinkie trying to eat the bakery itself.
 
 A chill runs down her spine at the realization that she's here alone.
 
 She quickly goes upstairs and stands in front of Pinkie's bedroom door.
 
-With each knock on the door, a year falls from sunset's eyes.
+With each knock on the door, a tear falls from sunset's eyes.
 
 As no answer comes, she begins to lose faith.
 
