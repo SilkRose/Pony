@@ -82,3 +82,38 @@ Sunset leans in. "Yes?"
 
 The two begin to hug as Sunset cries too.
 
+***
+
+Sunset places her hoof against Pinkie's bedroom door and freezes up.
+
+*Come on Sunset, you got this.*
+
+She slows her breath preparing to knock.
+
+Seconds later as she is about to knock, she hears a dull thud coming from inside Pinkie's bedroom.
+
+Sunset pushes open the door and heads inside. "Pinkie? Are you okay?"
+
+Pinkie slowly gets up from the floor beside her bed as Sunset makes her way over to her. "Ow. Just a little hurt."
+
+"Did you fall out of bed?"
+
+Pinkie shakes her head. "I got a Pinkie Sense and it made me fall out of bed."
+
+"What was it for?" Sunset asks, concerned.
+
+"You…"
+
+Both ponies went quiet as they stare at each other.
+
+Sunset paws as the ground, unsure of what to say.
+
+Pinkie steps closer to Sunset. "Sunset?"
+
+"Yes?"
+
+Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
+
+Tears begin falling onto Sunset's back as she hugs back.
+
+"I missed you so much…"
