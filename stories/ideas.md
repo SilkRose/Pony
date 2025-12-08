@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Cuteness Crises
+
+### Short Description:
+Sunset comes to terms with the fact that she is cute.
+
+***
+
 ## Unicorn Snowball Fight
 
 ### Short Description:
