@@ -40,50 +40,6 @@ A chill runs down her spine at the realization that she's here alone.
 
 She quickly goes upstairs and stands in front of Pinkie's bedroom door.
 
-With each knock on the door, a tear falls from sunset's eyes.
-
-As no answer comes, she begins to lose faith.
-
-*What if she isn't here?*
-
-*What if she slept over at a friends?*
-
-*What if she is upset that I came?*
-
-Before Sunset could spiral any longer, the door opens.
-
-Sunset locks eyes with the mare in front on her: Pinkie Pie.
-
-*It's her… It's really her.*
-
-"Pinkie," Sunset says in a wispy voice.
-
-"sunset," Pinkie replies in a surprised tone.
-
-Sunset falters. "I… I wan… I'm sorry…" She lowers her head in defeat.
-
-Pinkie shushes her. "Come on in."
-
-She did as told and the pair went over and sat on Pinkie's bed, facing each other.
-
-For a while the both just stare at each other, neither daring to speak.
-
-Eventually, Sunset builds up her willpower and says, "Pinkie, I'm sorry I came, but I just needed to see her, you one last time."
-
-Pinkie nods.
-
-"I just wanted a chance to say goodbye…"
-
-Pinkie nods again as tear start to fall from her eyes. "Sunset…"
-
-Sunset leans in. "Yes?"
-
-"I'm so sorry," Pinkie says before the dam breaks and she full on cries.
-
-The two begin to hug as Sunset cries too.
-
-***
-
 Sunset places her hoof against Pinkie's bedroom door and freezes up.
 
 *Come on Sunset, you got this.*
