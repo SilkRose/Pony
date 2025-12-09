@@ -1,10 +1,20 @@
 # Afterlife Affection
 
-Sunset stands in front of the portal to Equestria. She knows that what she wanted was wrong, but she had to see Pinkie one last time.
+Sunset stands in front of the portal to Equestria. She knows that what she wanted was wrong, but she has to see Pinkie one last time. She closes her eyes and walks into the portal.
 
-She closes her eyes and walks into the portal.
+She lands on the other side as her unicorn self. She's drenched in a black cape with a hood. Looking around she finds the room empty except for shelves lining the walls.
 
-She lands on the other side as her unicorn self. She's drenched in a black cape and hood. Looking around she finds the room empty.
+As she makes her way out of the room she bumps into a shelf and a flower pot almost lands on her head. Luckily she catches it in her magic before it can cause any pain.
+
+Several tears escape her eyes as she puts the flower pot back in its place. She remembers that Pinkie used to protect her from things like this. Ever since they first visited Equestria together, her Pinkie had gained this Pinkie Sense the pony version had.
+
+Sunset almost breaks down and cries.
+
+*She used to get a Pinkie Sense whenever I came around.*
+
+*She called it her Sunny Sense, and it made me feel so special.*
+
+Before she succumbs to the sorrow welling insider her, she shakes her head and leaves the room.
 
 She quietly makes her way through the halls of Twilight's castle, finding her way outside.
 
@@ -54,15 +64,15 @@ Pinkie slowly gets up from the floor beside her bed as Sunset makes her way over
 
 "Did you fall out of bed?"
 
-Pinkie shakes her head. "I got a Pinkie Sense and it made me fall out of bed."
+Pinkie shakes her head. "I got a Pinkie Sense. I wasn't expecting one and I fell out of bed."
 
-"What was it for?" Sunset asks, concerned.
+"What was it for?" Sunset asks in concern.
 
 "You…"
 
 Both ponies went quiet as they stare at each other.
 
-Sunset paws as the ground, unsure of what to say.
+Sunset paws as the ground. "You get them too when I come around?"
 
 Pinkie steps closer to Sunset. "Sunset?"
 
