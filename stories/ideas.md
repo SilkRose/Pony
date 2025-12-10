@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Counterpen Pals
+
+### Synopsis:
+A pen pal service but you just talk to your other world counterpart.
+
+***
+
 ## Cuteness Crises
 
 ### Short Description:
