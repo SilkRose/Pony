@@ -10,13 +10,11 @@ Several tears escape her eyes as she puts the flower pot back in its place. She 
 
 Sunset almost breaks down and cries.
 
-*She used to get a Pinkie Sense whenever I came around.*
+*She used to get a Pinkie Sense whenever I came around. She called it her Sunny Sense, and it made me feel so special.*
 
-*She called it her Sunny Sense, and it made me feel so special.*
+A smile almost eclipses her mouth at the memory, but her dread keeps it at bay.
 
-Before she succumbs to the sorrow welling insider her, she shakes her head and leaves the room.
-
-She quietly makes her way through the halls of Twilight's castle, finding her way outside.
+Before she succumbs to the sorrow swelling insider her, she shakes her head and leaves the room. She quietly makes her way through the halls of Twilight's castle, finding her way outside.
 
 Taking in the cool night air, she sits down as the reality of what she's doing hits her.
 
@@ -30,9 +28,7 @@ As a few solemn tears escapes her eyes, she resolves herself.
 
 *I just need to see her… to say goodbye.*
 
-Sunset gets up and begins to trot slowly into the slumbering town.
-
-With each step Sunset fights back the urge to turn around and run home.
+Wiping away the tears, she gets up and begins to trot slowly into the slumbering town. With each step Sunset fights back the urge to turn around and run home.
 
 *I know I shouldn't be here, even if this world is my original home.*
 
@@ -40,23 +36,57 @@ She felt wrong, but pushes through it by reminder herself why she was doing it i
 
 *I just need some closure. I just want to talk, to hug, and to say goodbye.*
 
-She makes it to Sugarcube Corner, then enters silently through the front door.
+As the houses pass by her, more thoughts enter her mind that she can't shake off.
+
+*This isn't going to help.*
+
+*She's not your Pinkie.*
+
+*Seeing her is just going to make you feel worse.*
+
+*You're just going to get attached to this version of her.*
+
+*She won't have the feelings of the one you lost.*
+
+Taking off at a full gallop, Sunset runs from her problems, trying to make it there as fast as possible.
+
+Running the whole rest of the way, she sits just outside the door of Sugarcube Corner. She regains her energy as different thoughts come to her.
+
+*It's going to feel so good to hug her again…*
+
+*She has to understand, right?*
+
+*I hope she doesn't hate me for this…*
+
+*I loved her so much.*
+
+*Even if for a split second, I'll have her back.*
+
+She stops the tears that had started along with the thoughts.
+
+Getting up, she then enters silently into the establishment.
 
 *I loved when Pinkie brought me here to show off how cool the pony version of her house was.*
 
-Sunset lets out a muffled laugh as she remembers her Pinkie trying to eat the bakery itself.
+Sunset lets out a muffled laugh as she remembers her Pinkie trying to eat the bakery itself the first time they came here. She couldn't lie though, it does look like it'd taste good.
 
-A chill runs down her spine at the realization that she's here alone.
+*We used to visit this place so often before Pinkie…*
 
-She quickly goes upstairs and stands in front of Pinkie's bedroom door.
+Shaking her head, she drives the thought away.
 
-Sunset places her hoof against Pinkie's bedroom door and freezes up.
+*This is the first time I've been here alone.*
+
+She glances around the front of the store, taking in how different it looks in the dark.
+
+*Pinkie would've loved to come here at night… if only to have a slumber party with herself.*
+
+Leaving her thoughts and memories behind, Sunset goes upstairs and stands in front of Pinkie's bedroom door. She places her hoof against the wood and freezes up.
 
 *Come on Sunset, you got this.*
 
 She slows her breath preparing to do this.
 
-Seconds later as she is about to knock, she hears a dull thud coming from inside Pinkie's bedroom.
+Seconds later as she is about to knock, she hears a dull thud coming from inside Pinkie's room.
 
 Sunset pushes open the door and enters the room. "Pinkie? Are you okay?"
 
@@ -80,6 +110,6 @@ Pinkie steps closer to Sunset. "Sunset?"
 
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
-Tears began to drip onto Sunset's coat as she hugs back.
+Tears began to drip onto Sunset's coat as she hugs back. The fur on Sunset's back stands on end as she gets a sensation of being hugged from behind.
 
 "I missed you so much…"
