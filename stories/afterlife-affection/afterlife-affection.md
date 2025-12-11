@@ -14,7 +14,7 @@ Sunset almost breaks down and cries.
 
 A smile almost eclipses her mouth at the memory, but her dread keeps it at bay.
 
-Before she succumbs to the sorrow swelling insider her, she shakes her head and leaves the room. She quietly makes her way through the halls of Twilight's castle, finding her way outside.
+Before succumbing to the sorrow swelling insider her, she shakes her head and leaves the room. She quietly makes her way through the halls of Twilight's castle, finding her way outside.
 
 Taking in the cool night air, she sits down as the reality of what she's doing hits her.
 
@@ -48,7 +48,7 @@ As the houses pass by her, more thoughts enter her mind that she can't shake off
 
 *She won't have the feelings of the one you lost.*
 
-Taking off at a full gallop, Sunset runs from her problems, trying to make it there as fast as possible.
+Taking off at a full gallop, Sunset literally runs from her problems, trying to make it there as fast as possible.
 
 Running the whole rest of the way, she sits just outside the door of Sugarcube Corner. She regains her energy as different thoughts come to her.
 
@@ -64,7 +64,7 @@ Running the whole rest of the way, she sits just outside the door of Sugarcube C
 
 She stops the tears that had started along with the thoughts.
 
-Getting up, she then enters silently into the establishment.
+Getting up, she then enters silently into the establishment, leaving her cloak outside on the ground.
 
 *I loved when Pinkie brought me here to show off how cool the pony version of her house was.*
 
@@ -110,6 +110,6 @@ Pinkie steps closer to Sunset. "Sunset?"
 
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
-Tears began to drip onto Sunset's coat as she hugs back. The fur on Sunset's back stands on end as she gets a sensation of being hugged from behind.
+Tears began to drip onto Sunset's coat as she hugs back.
 
 "I missed you so much…"
