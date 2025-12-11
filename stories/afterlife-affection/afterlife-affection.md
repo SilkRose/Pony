@@ -48,9 +48,9 @@ As the houses pass by her, more thoughts enter her mind that she can't shake off
 
 *She won't have the feelings of the one you lost.*
 
-Taking off at a full gallop, Sunset literally runs from her problems, trying to make it there as fast as possible.
+Taking off at a full gallop, Sunset literally runs from her problems, trying to make it there as fast as possible. Tears overtake her vision as her hood flies back in the wind. This barely affects her since she knows the way by heart at this point.
 
-Running the whole rest of the way, she sits just outside the door of Sugarcube Corner. She regains her energy as different thoughts come to her.
+Sunset doesn't stop her gallop until she reaches Sugarcube Corner, at which point she slides to a halt and lands in a pile of herself. It is all too much and she lets it all out as the thoughts catch up to her.
 
 *It's going to feel so good to hug her again…*
 
@@ -62,9 +62,11 @@ Running the whole rest of the way, she sits just outside the door of Sugarcube C
 
 *Even if for a split second, I'll have her back.*
 
-She stops the tears that had started along with the thoughts.
+Whispering to herself, she tries to spark some courage. "Come on Sunset, just go talk to her… just… go talk… to her…"
 
-Getting up, she then enters silently into the establishment, leaving her cloak outside on the ground.
+It doesn't help.
+
+She leaves her cloak on the ground as she gets up before entering the establishment proper.
 
 *I loved when Pinkie brought me here to show off how cool the pony version of her house was.*
 
