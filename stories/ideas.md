@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Planned Obsolescence
+
+### Synopsis:
+Celestia has one goal in life: to do so little that eventually somepony takes her place so she can retire.
+
+***
+
 ## Counterpen Pals
 
 ### Synopsis:
