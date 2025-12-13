@@ -2,7 +2,11 @@
 
 Sunset stands in front of the portal to Equestria. She knows that what she wanted was wrong, but she has to see Pinkie one last time. She closes her eyes and walks into the portal.
 
+*I love you so much, Pinkie Pie.*
+
 She lands on the other side as her unicorn self. She's drenched in a black cape with a hood. Looking around she finds the room empty except for shelves lining the walls.
+
+*Good thing Twilight doesn't keep this mirror in her bedroom.*
 
 As she makes her way out of the room she bumps into a shelf and a flower pot almost lands on her head. Luckily she catches it in her magic before it can cause any pain.
 
@@ -13,6 +17,8 @@ Sunset almost breaks down and cries.
 *She used to get a Pinkie Sense whenever I came around. She called it her Sunny Sense, and it made me feel so special.*
 
 A smile almost eclipses her mouth at the memory, but her dread keeps it at bay.
+
+*I miss her so much…*
 
 Before succumbing to the sorrow swelling insider her, she shakes her head and leaves the room. She quietly makes her way through the halls of Twilight's castle, finding her way outside.
 
@@ -32,6 +38,8 @@ Wiping away the tears, she gets up and begins to trot slowly into the slumbering
 
 *I know I shouldn't be here, even if this world is my original home.*
 
+*Anypony can judge me for this, I just need to see her again.*
+
 She felt wrong, but pushes through it by reminder herself why she was doing it in the first place.
 
 *I just need some closure. I just want to talk, to hug, and to say goodbye.*
@@ -50,6 +58,16 @@ As the houses pass by her, more thoughts enter her mind that she can't shake off
 
 Taking off at a full gallop, Sunset literally runs from her problems, trying to make it there as fast as possible. Tears overtake her vision as her hood flies back in the wind. This barely affects her since she knows the way by heart at this point.
 
+*I loved her so much.*
+
+*She should still be here.*
+
+*Pinkie was my everything.*
+
+*And now she's…*
+
+*Now she's gone…*
+
 Sunset doesn't stop her gallop until she reaches Sugarcube Corner, at which point she slides to a halt and lands in a pile of herself. It is all too much and she lets it all out as the thoughts catch up to her.
 
 *It's going to feel so good to hug her again…*
@@ -66,6 +84,10 @@ Whispering to herself, she tries to spark some courage. "Come on Sunset, just go
 
 It doesn't help.
 
+Staying on the ground, she waits until the feelings subside. She resolves herself once more.
+
+*You've made it this far Sunset, no sense in turning back now…*
+
 She leaves her cloak on the ground as she gets up before entering the establishment proper.
 
 *I loved when Pinkie brought me here to show off how cool the pony version of her house was.*
@@ -77,6 +99,8 @@ Sunset lets out a muffled laugh as she remembers her Pinkie trying to eat the ba
 Shaking her head, she drives the thought away.
 
 *This is the first time I've been here alone.*
+
+A few more tears fall from her eyes, but she makes no effort to wipe them away.
 
 She glances around the front of the store, taking in how different it looks in the dark.
 
@@ -108,7 +132,7 @@ Sunset paws as the ground. "You get them too when I come around?"
 
 Pinkie steps closer to Sunset. "Sunset?"
 
-"Yes?"
+Sunset leans in. "Yes?"
 
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
