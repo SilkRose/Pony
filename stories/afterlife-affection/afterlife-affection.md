@@ -134,6 +134,14 @@ Pinkie steps closer to Sunset. "Sunset?"
 
 Sunset leans in. "Yes?"
 
+"Only one of us ever had a Sunset Sense."
+
+"What?"
+
+"Do you remember that we used to switch sometimes?"
+
+"Pinkie? What are you saying?"
+
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
 Tears begin to drip onto Sunset's coat as she hugs back.
