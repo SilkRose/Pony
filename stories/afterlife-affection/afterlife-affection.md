@@ -130,17 +130,9 @@ Both ponies go quiet as they stare at each other.
 
 Sunset paws at the ground. "You get them too when I come around?"
 
-Pinkie steps closer to Sunset. "Sunset?"
+Pinkie shakes her head. "No, she never got them."
 
-Sunset leans in. "Yes?"
-
-"Only one of us ever had a Sunset Sense."
-
-"What?"
-
-"Do you remember that we used to switch sometimes?"
-
-"Pinkie? What are you saying?"
+"Pinkie, what are you saying?"
 
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
