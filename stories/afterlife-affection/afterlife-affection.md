@@ -130,12 +130,18 @@ Both ponies go quiet as they stare at each other.
 
 Sunset paws at the ground. "You get them too when I come around?"
 
-Pinkie shakes her head. "No, she never got them."
+Pinkie nods. "Ever since you two first visited me."
 
-"Pinkie, what are you saying?"
+Sunset looks down at the floor, unsure of what to say next.
+
+Pinkie steps closer to Sunset. "Sunset?"
+
+Sunset leans in. "Yes?"
 
 Pinkie shambles into Sunset, wrapping her hooves around her and squeezing tight. "I…"
 
 Tears begin to drip onto Sunset's coat as she hugs back.
 
-"I missed you so much…"
+"I miss her so much…"
+
+"Me too…"
