@@ -134,7 +134,7 @@ Pinkie nods. "Ever since you two first visited me."
 
 Sunset looks down at the floor, unsure of what to say next.
 
-Pinkie steps closer to Sunset. "Sunset?"
+Pinkie steps closer. "Sunset?"
 
 Sunset leans in. "Yes?"
 
