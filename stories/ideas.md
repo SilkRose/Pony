@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Sunset Sandwich
+
+### Synopsis:
+Pinkie brings Sunset to the pony Pinkie and they ask if they both can date her.
+
+***
+
 ## Planned Obsolescence
 
 ### Synopsis:
