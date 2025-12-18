@@ -32,3 +32,113 @@ Sunset laughed. "I could tell."
 
 Starlight trotted out of the room with Sunset following behind. "Let's get on to the more interesting rooms."
 
+They made it to the next door down the hallway where Starlight used her magic to open it.
+
+"Here is a broom closet."
+
+Sunset tried to act excited. "Oh, wow."
+
+Starlight sighs. "So, there are two things you need to know for this tour: one, there are a lot of broom closets, like a lot. And two, I don't know every single room, this place is massive and even Twilight still gets lost in it from time to time."
+
+Sunset nodded. "Okay."
+
+Starlight lead them to the next door, this one a bit more exciting. "This room is a guess bedroom. Twilight said you can use it anytime you need."
+
+Sunset goes into the room and looks around. "Tell Twilight I said thank you."
+
+Starlight comes into the room and notices a blank mirror on the wall. One unlike hers which had many pictures of friends. Starlight uses her magic to pullout a camera. "You want a picture for your mirror?"
+
+Sunset looked at the mirror and then Starlight. "Sure."
+
+The two got together and smiled at the camera. "Cheese!"
+
+The photo printed before Starlight put it on the mirror.
+
+"What's the next room?" Sunset asked.
+
+Starlight lead them down the hall to the next room. "Would you believe it, another broom closet."
+
+Sunset opened the door with her magic, and sure enough, it was a broom closet, but this one had a smaller door in the back of it.
+
+"What's that door lead to?" Sunset asked.
+
+Starlight said with a deadpan tone as she opened the littler door, "Another broom closet."
+
+Sunset chuckled. "Wow, at least you girls will never run out of brooms."
+
+"Yep."
+
+They closed the doors and trot to the next one.
+
+Starlight said, "This one is the little filly's room."
+
+Sunset asked, "Where is the big filly's room at?"
+
+Starlight pointed across the hall. "There, just don't ask me where the medium filly's room is."
+
+Both mares shared a chuckle.
+
+Starlight pointed back across the hall. "That ones actually the laundry room. We don't use it much."
+
+"Makes sense."
+
+They made their way to the next door.
+
+Starlight lead them into the room. "This one is my bedroom."
+
+Sunset took in everything before her eyes landed on Starlight's mirror. "you've made some friends. You want to add another one to the mirror?"
+
+Starlight smiled.
+
+The two took another picture and this one made its way onto Starlight's mirror. Afterward the two made their way back into the hall and onto the next door.
+
+"This next room is Spike's manifestation room. It's just a mirror he stands in front of while he flexes and compliments himself."
+
+Starlight opened it with her magic and inside was a lone mirror and a stool.
+
+Sunset asked, "Did this used to be a broom closet?"
+
+Starlight nodded before leading them to the next door.
+
+Sunset opened the next door with her magic, but there was nothing behind the door, just a wall.
+
+"What is this room?"
+
+Starlight shrugged. "It's just a wall, we don't know why its here. This whole castle grew out of the ground from a box."
+
+"What's next?"
+
+"It's a bit more exciting." Starlight lead them to Twilight's bedroom.
+
+The two enter and Sunset said. "This is so organized and is screaming Twilight. It's her bedroom, right?"
+
+"Yes, it is. You want to take a picture for her mirror too? It's actually her camera, I was bringing it to return it."
+
+Sunset nods before they take the picture.
+
+Starlight puts the picture on the mirror and the camera away in a drawer.
+
+They trot to the next door, the last one in this hallway.
+
+"This one I don't remember what it is."
+
+Sunset opened the door before a explosion of confetti and streamers shoot out.
+
+Starlight spoke up. "Ah, must have been where Pinkie hid a surprise party canon. This one in yet another broom closet."
+
+"You weren't kidding about the broom closets."
+
+They moved on to the next one, turned down the next corridor.
+
+"This room is the castle's bowling alley."
+
+"Twilight has a bowling alley in her castle?"
+
+"Yes." Starlight opens the door and sure enough, an entire bowling alley awaits behind it.
+
+"Wow, maybe we should go bowling sometime."
+
+"That sounds fun, maybe after we finish the tour."
+
+"Deal."
+
