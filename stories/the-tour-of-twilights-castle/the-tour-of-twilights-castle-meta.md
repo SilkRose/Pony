@@ -37,6 +37,6 @@ Starlight gives Sunset a tour of Twilight's castle. Surely nothing could go wron
 * 
 
 ## Story:
-[The Tour of Twilight's Castle](./the-tour-of-twilight's-castle.md)
+[The Tour of Twilight's Castle](the-tour-of-twilights-castle.md)
 
 ## Cover:
