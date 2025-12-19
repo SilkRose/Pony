@@ -8,6 +8,8 @@ Starlight gives Sunset a tour of Twilight's castle. Surely nothing could go wron
 
 Turns out, most of the rooms aren't even accounted for. Still, why are there so many broom closets?
 
+Thanks to  [Shay492](https://www.fimfiction.net/user/840747/Shay492) for helping with ideas and pre-reading.
+
 Thanks to  [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for helping with ideas.
 
 ## Short Description:
@@ -34,6 +36,7 @@ Starlight gives Sunset a tour of Twilight's castle. Surely nothing could go wron
 * The kitchen.
 * Black hole room?
 * Dinning room.
+* Scooby Doo hallway where doors lead to impossible doors in the same hallway.
 * 
 
 ## Story:
