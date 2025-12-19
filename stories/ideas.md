@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Trolleys and Tribulations
+
+### Synopsis:
+The trolley problem, but in Equestria.
+
+***
+
 ## Sunset Sandwich
 
 ### Synopsis:
