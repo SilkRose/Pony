@@ -108,9 +108,9 @@ Starlight shrugged. "It's just a wall, we don't know why its here. This whole ca
 
 "What's next?"
 
-"It's a bit more exciting." Starlight lead them to Twilight's bedroom.
+"It's a bit more exciting." Starlight lead them to the next bedroom.
 
-The two enter and Sunset said. "This is so organized and is screaming Twilight. It's her bedroom, right?"
+The two enter and Sunset said. "This is so organized, it's screaming Twilight. It's her bedroom, right?"
 
 "Yes, it is. You want to take a picture for her mirror too? It's actually her camera, I was bringing it to return it."
 
@@ -124,7 +124,7 @@ They trot to the next door, the last one in this hallway.
 
 Sunset opened the door before a explosion of confetti and streamers shoot out.
 
-Starlight spoke up. "Ah, must have been where Pinkie hid a surprise party canon. This one in yet another broom closet."
+Starlight spoke up. "Ah, must have been where Pinkie hid a surprise party canon. This one is yet another broom closet."
 
 "You weren't kidding about the broom closets."
 
@@ -141,4 +141,30 @@ They moved on to the next one, turned down the next corridor.
 "That sounds fun, maybe after we finish the tour."
 
 "Deal."
+
+They went to the next door down where Starlight opens it.
+
+"This is the kitchen."
+
+"Who designed this castle? It doesn't make sense where anything is."
+
+Starlight shrugged. "This next section is kinda weird."
+
+Sunset tilts her head. "What do you mean by that?"
+
+Starlight opened the door and walked in, down the hall she appeared coming out of a farther away door.
+
+"How'd you get there?"
+
+Starlight walked into another room and appears out a different door halfway between where she was and Sunset.
+
+Sunset trotted to a new door and walked through it appearing at the end of the hallway.
+
+Both mares keep going through doors winding up at wildly different places down this single hallway. Finally after much shenanigans they meet at the end of the hallway.
+
+Starlight speaks up, "See, what did I say, weird."
+
+Sunset chuckled and nods. "I see."
+
+They rounded a corner, making it to their third hallway.
 
