@@ -37,6 +37,15 @@ Starlight gives Sunset a tour of Twilight's castle. Surely nothing could go wron
 * Black hole room?
 * Dinning room.
 * Scooby Doo hallway where doors lead to impossible doors in the same hallway.
+* Dinosaurs?
+* A jet plane?
+* The ocean?
+* A wall of chocolate?
+* A supermarket?
+* A phone booth?
+* A room where Celestia and Luna can keep the sun and moon when they're not in the sky?
+* The room where missing socks go?
+* A nuclear reactor?
 * 
 
 ## Story:
