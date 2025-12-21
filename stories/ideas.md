@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Feedback Unwelcome
+
+### Synopsis:
+Twilight Sparkle has written the best story ever, and she will hear nothing bad about it. (Disable ratings/comments on the story too.)
+
+***
+
 ## Trolleys and Tribulations
 
 ### Synopsis:
