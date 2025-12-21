@@ -8,21 +8,21 @@ Starlight paced around the room as she waited for Sunset to appear from the mirr
 
 *I totally know every room in this castle.*
 
-Sunset emerged from the portal and Starlight trotted to great her.
+Sunset emerged from the portal, and Starlight trotted to greet her.
 
 "Hi, Sunset!"
 
 Sunset looked up at her and smiled. "Hi, Starlight."
 
-"ready for your tour?"
+"Ready for your tour?"
 
 "Yes, I'm excited to finally learn this place. It's so annoying getting lost in here at night when everypony is asleep."
 
 Starlight's face dropped. "You come here at night?"
 
-Sunset turns to ice. "Uh, no."
+Sunset turned to ice. "Uh, no."
 
-Starlight lights back up. "Okay, good. I guess we can begin the tour!"
+Starlight lit back up. "Okay, good. I guess we can begin the tour!"
 
 Sunset nodded.
 
@@ -32,23 +32,23 @@ Sunset laughed. "I could tell."
 
 Starlight trotted out of the room with Sunset following behind. "Let's get on to the more interesting rooms."
 
-They made it to the next door down the hallway where Starlight used her magic to open it.
+They made it to the next door down the hallway. Starlight used her magic to open it.
 
 "Here is a broom closet."
 
 Sunset tried to act excited. "Oh, wow."
 
-Starlight sighs. "So, there are two things you need to know for this tour: one, there are a lot of broom closets, like a lot. And two, I don't know every single room, this place is massive and even Twilight still gets lost in it from time to time."
+Starlight sighed. "So, there are two things you need to know for this tour: one, there are a lot of broom closets, like a lot. And two, I don't know every single room. This place is massive and even Twilight still gets lost in it from time to time."
 
 Sunset nodded. "Okay."
 
-Starlight lead them to the next door, this one a bit more exciting. "This room is a guess bedroom. Twilight said you can use it anytime you need."
+Starlight lead them to the next door, this one a bit more exciting. "This room is a guest bedroom. Twilight said you can use it anytime you need."
 
-Sunset goes into the room and looks around. "Tell Twilight I said thank you."
+Sunset went into the room and looked around. "Tell Twilight I said thank you."
 
-Starlight comes into the room and notices a blank mirror on the wall. One unlike hers which had many pictures of friends. Starlight uses her magic to pullout a camera. "You want a picture for your mirror?"
+Starlight came into the room and noticed a blank mirror on the wall. One unlike hers which had many pictures of friends. Starlight used her magic to pull out a camera. "You want a picture for your mirror?"
 
-Sunset looked at the mirror and then Starlight. "Sure."
+Sunset looked at the mirror and then at Starlight. "Sure."
 
 The two got together and smiled at the camera. "Cheese!"
 
@@ -68,7 +68,7 @@ Sunset chuckled. "Wow, at least you girls will never run out of brooms."
 
 "Yep."
 
-They closed the doors and trot to the next one.
+They closed the doors and trotted to the next one.
 
 Starlight said, "This one is the little filly's room."
 
@@ -78,7 +78,7 @@ Starlight pointed across the hall. "There, just don't ask me where the medium fi
 
 Both mares shared a chuckle.
 
-Starlight pointed back across the hall. "That ones actually the laundry room. We don't use it much."
+Starlight pointed back across the hall. "That one's actually the laundry room. We don't use it much."
 
 "Makes sense."
 
@@ -86,11 +86,11 @@ They made their way to the next door.
 
 Starlight lead them into the room. "This one is my bedroom."
 
-Sunset took in everything before her eyes landed on Starlight's mirror. "you've made some friends. You want to add another one to the mirror?"
+Sunset took in everything before her eyes landed on Starlight's mirror. "You've made some friends. You want to add another one to the mirror?"
 
 Starlight smiled.
 
-The two took another picture and this one made its way onto Starlight's mirror. Afterward the two made their way back into the hall and onto the next door.
+The two took another picture, and this one made its way onto Starlight's mirror. Afterward the two made their way back into the hall and onto the next door.
 
 "This next room is Spike's manifestation room. It's just a mirror he stands in front of while he flexes and compliments himself."
 
@@ -104,7 +104,7 @@ Sunset opened the next door with her magic, but there was nothing behind the doo
 
 "What is this room?"
 
-Starlight shrugged. "It's just a wall, we don't know why its here. This whole castle grew out of the ground from a box."
+Starlight shrugged. "It's just a wall. We don't know why its here. This whole castle grew out of the ground from a box, after all."
 
 "What's next?"
 
@@ -120,11 +120,11 @@ Starlight puts the picture on the mirror and the camera away in a drawer.
 
 They trot to the next door, the last one in this hallway.
 
-"This one I don't remember what it is."
+"This one, I don't remember what it is."
 
-Sunset opened the door before a explosion of confetti and streamers shoot out.
+Sunset opened the door, and a explosion of confetti and streamers shot out.
 
-Starlight spoke up. "Ah, must have been where Pinkie hid a surprise party canon. This one is yet another broom closet."
+Starlight spoke up. "Ah, must have been where Pinkie hid a surprise party cannon. This one is yet another broom closet."
 
 "You weren't kidding about the broom closets."
 
@@ -134,15 +134,15 @@ They moved on to the next one, turned down the next corridor.
 
 "Twilight has a bowling alley in her castle?"
 
-"Yes." Starlight opens the door and sure enough, an entire bowling alley awaits behind it.
+"Yes." Starlight opened the door and sure enough, an entire bowling alley awaited behind it.
 
 "Wow, maybe we should go bowling sometime."
 
-"That sounds fun, maybe after we finish the tour."
+"That sounds fun. Maybe after we finish the tour."
 
 "Deal."
 
-They went to the next door down where Starlight opens it.
+They went to the next door down. Starlight opened it.
 
 "This is the kitchen."
 
@@ -150,27 +150,27 @@ They went to the next door down where Starlight opens it.
 
 Starlight shrugged. "This next section is kinda weird."
 
-Sunset tilts her head. "What do you mean by that?"
+Sunset tilted her head. "What do you mean by that?"
 
-Starlight opened the door and walked in, down the hall she appeared coming out of a farther away door.
+Starlight opened the door and walked in. Down the hall, coming out of a farther away door, she reappeared.
 
 "How'd you get there?"
 
-Starlight walked into another room and appears out a different door halfway between where she was and Sunset.
+Starlight walked into another room and appeared out of a different door halfway between where she was and Sunset.
 
-Sunset trotted to a new door and walked through it appearing at the end of the hallway.
+Sunset trotted to a new door and walked through it, appearing at the end of the hallway.
 
-Both mares keep going through doors winding up at wildly different places down this single hallway. Finally after much shenanigans they meet at the end of the hallway.
+Both mares kept going through doors, winding up at wildly different places down this single hallway. Finally, after much shenanigans, they met at the end of the hallway.
 
-Starlight speaks up, "See, what did I say, weird."
+Starlight spoke up. "See, what did I say, weird."
 
-Sunset chuckled and nods. "I see."
+Sunset chuckled and nodded. "I see."
 
 They rounded a corner, making it to their third hallway.
 
-Starlight opened the first door. "This is the dinning room."
+Starlight opened the first door. "This is the dining room."
 
-Sunset peaked inside. "Why are there so many pancakes still on the table?"
+Sunset peeked inside. "Why are there so many pancakes still on the table?"
 
 "We eat a lot of pancakes… and I forgot to clean up from breakfast before the tour."
 
@@ -184,23 +184,23 @@ Starlight moved on to the next door in a hurry. "This one is… I don't remember
 
 Sunset opened the door to find a casual black hole inside.
 
-Starlight stood still as she slowly got pulled towards the black hole. "Oh yea, the back hole. I was wondering when we were going to see it."
+Starlight stood still as she slowly got pulled towards the black hole. "Oh yeah, the black hole. I was wondering when we were going to see it."
 
 Sunset stepped back as she was also being sucked in. "Twilight has a black hole in her house? And you somehow forgot where it was?"
 
 Starlight simply shrugged and closed the door. "Onto the next room."
 
-Sunset sighed and follows along.
+Sunset sighed and followed along.
 
-Starlight opened the door and surprise, surprise, its another broom closet. Both ponies didn't even acknowledge it and just went onto the next door.
+Starlight opened the door and surprise, surprise, it was another broom closet. Neither pony even acknowledged it. They just went on to the next door.
 
 They opened the next door to find an empty room with large parts of the crystalline structure eaten away.
 
-Starlight said, "This is Spike's secret eating room, Twilight doesn't know about it, yet."
+Starlight said, "This is Spike's secret snacking room. Twilight doesn't know about it, yet."
 
 "He comes here to eat the walls?"
 
-"I guess so, he says they taste delicious."
+"I guess so. He says they taste delicious."
 
 "Well, okay. But, what is Twilight going to do when she finds it?"
 
@@ -210,11 +210,11 @@ Sunset giggled. "Absolutely."
 
 They made their way to the next room, the Cutie Map room.
 
-As they entered, Starlight said, "I used to get this room and the dinning room confused all the time when I first started living here."
+As they entered, Starlight said, "I used to get this room and the dining room confused all the time when I first started living here."
 
 "They do look very similar."
 
-"I can't tell you how many times an emergency would come up and I'd be running into the dinning room to find nopony there."
+"I can't tell you how many times an emergency would come up and I'd be running into the dining room to find nopony there."
 
 Sunset looked at the chairs. "It's nice that Spike has a chair, but why don't you have one?"
 
@@ -228,7 +228,7 @@ Sunset smiled and nodded. "Yes."
 
 Starlight used her magic and opened the door.
 
-Sunset looked inside to find and empty room with the text, "The End." written in big letters on the wall.
+Sunset looked inside to find an empty room with the text, "The End." written in big letters on the wall.
 
 "The end," Sunset asked?
 
