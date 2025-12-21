@@ -168,3 +168,68 @@ Sunset chuckled and nods. "I see."
 
 They rounded a corner, making it to their third hallway.
 
+Starlight opened the first door. "This is the dinning room."
+
+Sunset peaked inside. "Why are there so many pancakes still on the table?"
+
+"We eat a lot of pancakes… and I forgot to clean up from breakfast before the tour."
+
+"Right."
+
+"You want some pancakes? Or not…"
+
+Sunset laughed. "No, I'm good."
+
+Starlight moved on to the next door in a hurry. "This one is… I don't remember."
+
+Sunset opened the door to find a casual black hole inside.
+
+Starlight stood still as she slowly got pulled towards the black hole. "Oh yea, the back hole. I was wondering when we were going to see it."
+
+Sunset stepped back as she was also being sucked in. "Twilight has a black hole in her house? And you somehow forgot where it was?"
+
+Starlight simply shrugged and closed the door. "Onto the next room."
+
+Sunset sighed and follows along.
+
+Starlight opened the door and surprise, surprise, its another broom closet. Both ponies didn't even acknowledge it and just went onto the next door.
+
+They opened the next door to find an empty room with large parts of the crystalline structure eaten away.
+
+Starlight said, "This is Spike's secret eating room, Twilight doesn't know about it, yet."
+
+"He comes here to eat the walls?"
+
+"I guess so, he says they taste delicious."
+
+"Well, okay. But, what is Twilight going to do when she finds it?"
+
+Starlight snickered. "Freak out."
+
+Sunset giggled. "Absolutely."
+
+They made their way to the next room, the Cutie Map room.
+
+As they entered, Starlight said, "I used to get this room and the dinning room confused all the time when I first started living here."
+
+"They do look very similar."
+
+"I can't tell you how many times an emergency would come up and I'd be running into the dinning room to find nopony there."
+
+Sunset looked at the chairs. "It's nice that Spike has a chair, but why don't you have one?"
+
+Starlight shrugged. "I wasn't living with Twilight, so I guess the castle had no way of knowing about me at the time."
+
+Sunset nodded and the two headed back out to the hallway, closing the door behind them.
+
+Starlight took them to the last door of the hallway. "Are you ready for the most exciting room yet?"
+
+Sunset smiled and nodded. "Yes."
+
+Starlight used her magic and opened the door.
+
+Sunset looked inside to find and empty room with the text, "The End." written in big letters on the wall.
+
+"The end," Sunset asked?
+
+"The end!"
