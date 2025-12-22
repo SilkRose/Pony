@@ -18,7 +18,13 @@ Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pr
 
 Thanks to [Jymbroni](https://www.fimfiction.net/user/474762/Jymbroni) for pre-reading.
 
-Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227), [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus), [Rego](https://www.fimfiction.net/user/180061/Rego), and [Corah Il Cappo](https://www.fimfiction.net/user/40371/Corah+Il+Cappo) for providing feedback.
+Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for providing feedback.
+
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for providing feedback.
+
+Thanks to [Rego](https://www.fimfiction.net/user/180061/Rego) for providing feedback.
+
+Thanks to [Corah Il Cappo](https://www.fimfiction.net/user/40371/Corah+Il+Cappo) for providing feedback.
 
 ## Short Description:
 Sunset knew it was wrong; she just had to see her love one more time.
