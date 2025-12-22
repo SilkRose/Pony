@@ -26,7 +26,7 @@ Taking in the cool night air, she sits down as the reality of what she's doing h
 
 *I'm going to see an alternate reality pony version of my dead girlfriend.*
 
-As a few tears escape her eyes, she resolves herself.
+As a few tears escape her eyes, she finds her resolve.
 
 *I need to see her again, even if it isn't truly* her.
 
@@ -84,7 +84,7 @@ Whispering to herself, she tries to spark some courage. "Come on Sunset, just go
 
 It doesn't help.
 
-Staying on the ground, she waits until the feelings subside. She resolves herself once more.
+Staying on the ground, she waits until the feelings subside, and steels herself again.
 
 *You've made it this far Sunset, no sense in turning back now…*
 
@@ -94,7 +94,7 @@ She leaves her cloak on the ground as she gets up before entering the establishm
 
 Sunset lets out a muffled laugh as she remembers her Pinkie trying to eat the bakery itself the first time they came here. She couldn't lie though, it does look like it'd taste good.
 
-*We used to visit this place so often before Pinkie…*
+*We used to visit this place so often before she…*
 
 Shaking her head, she drives the thought away.
 
