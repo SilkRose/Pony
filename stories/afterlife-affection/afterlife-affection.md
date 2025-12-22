@@ -94,7 +94,7 @@ She leaves her cloak on the ground as she gets up before entering the establishm
 
 Sunset lets out a muffled laugh as she remembers her Pinkie trying to eat the bakery itself the first time they came here. She couldn't lie though, it does look like it'd taste good.
 
-*We used to visit this place so often before Pinkie…*
+*We used to visit this place so often before she…*
 
 Shaking her head, she drives the thought away.
 
