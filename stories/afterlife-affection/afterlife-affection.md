@@ -26,7 +26,7 @@ Taking in the cool night air, she sits down as the reality of what she's doing h
 
 *I'm going to see an alternate reality pony version of my dead girlfriend.*
 
-As a few tears escape her eyes, she resolves herself.
+As a few tears escape her eyes, she finds her resolve.
 
 *I need to see her again, even if it isn't truly* her.
 
@@ -84,7 +84,7 @@ Whispering to herself, she tries to spark some courage. "Come on Sunset, just go
 
 It doesn't help.
 
-Staying on the ground, she waits until the feelings subside. She resolves herself once more.
+Staying on the ground, she waits until the feelings subside, and steels herself again.
 
 *You've made it this far Sunset, no sense in turning back now…*
 
