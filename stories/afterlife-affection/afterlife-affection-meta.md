@@ -10,6 +10,8 @@ Cover done by [Lossart](https://www.tumblr.com/blog/markiza297).
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
 
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
