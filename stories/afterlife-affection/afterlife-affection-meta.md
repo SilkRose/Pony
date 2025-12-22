@@ -14,11 +14,11 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
 
+Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading.
+
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
 Thanks to [Jymbroni](https://www.fimfiction.net/user/474762/Jymbroni) for pre-reading.
-
-Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for providing feedback.
 
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for providing feedback.
 
