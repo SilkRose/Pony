@@ -155,3 +155,4 @@ This file contains random story names that don't have enough thought to have the
 - TwiPie Any% Glitchless Speedrun (World Record)
 - Mid-Air Affair
 - The You Problem
+- Where the Pretty Ponies Play
