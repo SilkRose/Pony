@@ -6,6 +6,8 @@ Sunset goes to Equestria to see Pinkie after the one she's dating in her world d
 ## Description:
 Sunset knew it was wrong; she just had to see her love one more time.
 
+Written for [Lunaria](https://www.fimfiction.net/user/68640/Lunaria) for [Jinglemas](https://www.fimfiction.net/group/213263/jinglemas) 2025.
+
 Cover done by [Lossart](https://www.tumblr.com/blog/markiza297).
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
