@@ -40,3 +40,4 @@ Sunset knew it was wrong; she just had to see her love one more time.
 [Afterlife Affection](./afterlife-affection.md)
 
 ## Cover:
+![cover](./covers/afterlife-affection-cover-option-1-selected.png)
