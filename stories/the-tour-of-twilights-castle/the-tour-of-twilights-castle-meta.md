@@ -8,6 +8,8 @@ Starlight gives Sunset a tour of Twilight's castle. Surely nothing could go wron
 
 Turns out, most of the rooms aren't even accounted for. Still, why are there so many broom closets?
 
+Written for [Lunaria](https://www.fimfiction.net/user/68640/Lunaria) for [Jinglemas](https://www.fimfiction.net/group/213263/jinglemas) 2025.
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
 Thanks to  [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading and helping with ideas.
