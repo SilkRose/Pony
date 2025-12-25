@@ -12,6 +12,8 @@ Written for [Lunaria](https://www.fimfiction.net/user/68640/Lunaria) for [Jingle
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to  [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading and helping with ideas.
 
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading.
