@@ -2,11 +2,11 @@
 
 Starlight paced around the room as she waited for Sunset to appear from the mirror portal stored within said room. Nervous thoughts swirled around her brain.
 
-*You can do this Starlight.*
+*You can do this, Starlight.*
 
-*She's your friend, remember.*
+*Remember, she's your friend.*
 
-*I totally know every room in this castle.*
+*And you totally know every room in this castle.*
 
 Sunset emerged from the portal, and Starlight trotted to greet her.
 
@@ -38,7 +38,7 @@ They made it to the next door down the hallway. Starlight used her magic to open
 
 Sunset tried to act excited. "Oh, wow."
 
-Starlight sighed. "So, there are two things you need to know for this tour: one, there are a lot of broom closets, like a lot. And two, I don't know every single room. This place is massive and even Twilight still gets lost in it from time to time."
+Starlight sighed. "So, there are two things you need to know for this tour: one, there are a lot of broom closets. Like a lot. And two, I don't know every single room. This place is massive and even Twilight still gets lost in it from time to time."
 
 Sunset nodded. "Okay."
 
@@ -162,7 +162,7 @@ Sunset trotted to a new door and walked through it, appearing at the end of the 
 
 Both mares kept going through doors, winding up at wildly different places down this single hallway. Finally, after much shenanigans, they met at the end of the hallway.
 
-Starlight spoke up. "See, what did I say, weird."
+Starlight spoke up. "See, what did I say? Weird."
 
 Sunset chuckled and nodded. "I see."
 
