@@ -156,3 +156,10 @@ This file contains random story names that don't have enough thought to have the
 - Mid-Air Affair
 - The You Problem
 - Where the Pretty Ponies Play
+- Magic Metal
+- Metal Magic
+- Scrap Story
+- Junk Journey
+- Journey of Junk
+- Rust & Recycling
+- The Scrap Book
