@@ -66,7 +66,7 @@ Applejack squeezed her hand. "Fluttershy, I could never hate you. You're one of 
 
 "You…"
 
-Applejack laid in silence staring at Fluttershy. Why was she able to her crush she loved her while asleep but had so much trouble while she was awake?
+Applejack laid in silence staring at Fluttershy. Why was she able to tell her crush she loved her while asleep but had so much trouble while she was awake?
 
 "Fluttershy?"
 
@@ -80,7 +80,7 @@ Applejack chuckled. "Somehow, you're even more cuter when you're asleep."
 
 "Say… yes."
 
-Applejack pulled her sleeping mat closet to Fluttershy and laid on her side, still facing Fluttershy. She held her hand to her chest, holding it in both hands.
+Applejack pulled her sleeping mat closer to Fluttershy and laid on her side, still facing Fluttershy. She held her hand to her chest, holding it in both hands.
 
 "Well, Fluttershy, as long as I'm helping your nightmare go away, I'll be here for you."
 
