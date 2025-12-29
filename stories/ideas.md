@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Maybe Pie
+
+### Synopsis:
+They made an error on Marble's birth certificate and her name has been Maybe for her entire life and she just now finds out.
+
+***
+
 ## Feedback Unwelcome
 
 ### Synopsis:
