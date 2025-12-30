@@ -70,7 +70,7 @@ Applejack squeezed her hand. "Fluttershy, I could never hate you. You're one of 
 
 "Apple…"
 
-"I know I need to tell you this when your not sleeping, but I really like you. I have a crush on you."
+"I know I need to tell you this when you're not sleeping, but I really like you. I have a crush on you."
 
 Fluttershy tightened her grip on Applejack's hand. "Love… Apple…"
 
