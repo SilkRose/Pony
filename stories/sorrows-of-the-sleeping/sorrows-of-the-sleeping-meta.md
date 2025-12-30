@@ -10,6 +10,8 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for pr
 
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
 
+Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
+
 ## Short Description:
 Fluttershy and Applejack try to calm each other's sorrows while dealing with their own feelings.
 
