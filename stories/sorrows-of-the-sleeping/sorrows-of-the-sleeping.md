@@ -1,12 +1,12 @@
 # Sorrows of the Sleeping
 
-Fluttershy squirmed in her makeshift bed on the floor of Pinkie's bedroom. A nightmare playing out inside her head.
+Fluttershy squirmed in her makeshift bed on the floor of Pinkie's bedroom. A nightmare played out inside her head.
 
 She muttered in her sleep, "No… Appleja… I didn't."
 
 Twitching again, her arm shot out from under the blanket, landing on top of Applejack's arm.
 
-Applejack woke up from the sudden touch, and turned to look at Fluttershy.
+Applejack woke up from the sudden touch and turned to look at Fluttershy.
 
 "Fluttershy, you awake?" Applejack asked all gentle like.
 
@@ -18,7 +18,7 @@ She only received more muttering.
 
 "I didn't… Sorry…"
 
-She was about to try and wake her up when Fluttershy moved her arm again, this time it landed with Fluttershy's hand on top of Applejack's own.
+She was about to try and wake her up when Fluttershy moved her arm again. This time it landed with Fluttershy's hand on top of Applejack's own.
 
 Applejack blushed at the realization, but before she could pull her hand away, Fluttershy grabbed it in her sleep and squeezed tight.
 
@@ -30,9 +30,9 @@ She gently shook her friend. "Fluttershy, wake up."
 
 Her blush had intensified at this point, but she didn't care. Her friend needed her and not even a little embarrassment would stop her from helping.
 
-"Fluttershy, wake up!" She tried to whisper loudly.
+"Fluttershy, wake up!" she tried to whisper loudly.
 
-It didn't work and Fluttershy only squirmed more.
+It didn't work. Fluttershy only squirmed more.
 
 "Apples… Cute…"
 
@@ -66,11 +66,7 @@ Applejack squeezed her hand. "Fluttershy, I could never hate you. You're one of 
 
 "I… love…"
 
-"You…"
-
-Applejack sighed and laid in silence staring at Fluttershy. Why was she able to tell her crush she loved her while asleep but had so much trouble while she was awake?
-
-"Fluttershy?"
+"And I love you." Applejack sighed and laid in silence staring at Fluttershy. Why could she tell her crush she loved her while asleep but have so much trouble while she was awake? "Fluttershy?"
 
 "Apple…"
 
@@ -78,7 +74,7 @@ Applejack sighed and laid in silence staring at Fluttershy. Why was she able to 
 
 Fluttershy tightened her grip on Applejack's hand. "Love… Apple…"
 
-Applejack chuckled. "Somehow, you're even more cuter when you're asleep."
+Applejack chuckled. "Somehow, you're even more cute when you're asleep."
 
 "Say… yes."
 
@@ -96,11 +92,11 @@ She humored the sleeping beauty. "Yes?"
 
 "Pretty…"
 
-She smiled. "no, you."
+She smiled. "No, you."
 
 Applejack laid her head down on her pillow and rolled it slightly so she was barely touching the top of her head to the side of Fluttershy's.
 
-She continued to hold Fluttershy's hand as she yawned. "Well, as long as your doing fine, I'm going to try and get some sleep. Sound good?"
+She continued to hold Fluttershy's hand as she yawned. "Well, as long as you're doing fine, I'm going to try and get some sleep. Sound good?"
 
 "Good…"
 
@@ -110,13 +106,13 @@ She continued to hold Fluttershy's hand as she yawned. "Well, as long as your do
 
 ***
 
-Applejack rolled over onto her back in her sleep, pulling Fluttershy's hand and arm with her. This woke up Fluttershy who was caught off guard.
+Applejack rolled over onto her back in her sleep, pulling Fluttershy's hand and arm with her. This woke up Fluttershy, who was caught off guard.
 
 "Uh, hello?" Fluttershy whispered.
 
 She looked over and noticed how close Applejack was and that she was holding her hand.
 
-"Applejack?" She asked meekly as a blush started to form on her face.
+"Applejack?" she asked meekly as a blush started to form on her face.
 
 Applejack twitched in her sleep, squeezing Fluttershy's hand. "Flutter…"
 
@@ -128,9 +124,9 @@ Fluttershy pulled her hand back some, bringing Applejack's with it. "Wake up, pl
 
 She did not wake up. "And… kind…"
 
-"Applejack, could i have my hand back, please?"
+"Applejack, could I have my hand back, please?"
 
-She twitched again, pulling their hands closer to her. "Don't… let go…"
+She twitched again, pulling Fluttershy's hands closer to her. "Don't… let go…"
 
 Fluttershy's blush had overtaken her face by this point. "Why not?"
 
@@ -164,13 +160,13 @@ Fluttershy smiled back. "I wish it were that easy, Applejack…"
 
 Fluttershy had almost fallen asleep like this, but Applejack needed her.
 
-She pulled Fluttershy's hand to her chest, holding it tight as tears escape her eyes.
+She pulled Fluttershy's hand to her chest, holding it tight as tears escaped her eyes.
 
-Fluttershy is jolted back to the situation and tried to stay calm. "Applejack, what's wrong?"
+Fluttershy was jolted back to the situation and tried to stay calm. "Applejack, what's wrong?"
 
 "Don't…"
 
-"don't what, Applejack?"
+"Don't what, Applejack?"
 
 "Leave… me…"
 
@@ -182,7 +178,7 @@ Fluttershy pulled Applejack's hand to her own chest and held it tight in both ha
 
 "You…"
 
-"you're my best friend, I'd never leave you. I love you more than you know. I just wish I wasn't too shy to say anything…"
+"You're my best friend, I'd never leave you. I love you more than you know. I just wish I wasn't too shy to say anything…"
 
 "Flutter…"
 
@@ -216,7 +212,7 @@ Both of them smiled.
 
 Fluttershy mused, "Maybe I should try and wake you up again…"
 
-She tried to shake Applejack gently, but it didn't seem to have any affect.
+She tried to shake Applejack gently, but it didn't seem to have any effect.
 
 "Applejack, wake up."
 
