@@ -22,9 +22,11 @@ She was about to try and wake her up when Fluttershy moved her arm again, this t
 
 Applejack blushed at the realization, but before she could pull her hand away, Fluttershy grabbed it in her sleep and squeezed tight.
 
-She resolved to wake her up, she was clearly having a nightmare and wanted her friend.
+Fluttershy winced. "You're… safety…"
 
-Applejack gently shook her friend. "Fluttershy, wake up."
+Applejack resolved to wake her up, she was clearly having a nightmare and wanted her friend.
+
+She gently shook her friend. "Fluttershy, wake up."
 
 Her blush had intensified at this point, but she didn't care. Her friend needed her and not even a little embarrassment would stop her from helping.
 
@@ -66,7 +68,7 @@ Applejack squeezed her hand. "Fluttershy, I could never hate you. You're one of 
 
 "You…"
 
-Applejack laid in silence staring at Fluttershy. Why was she able to tell her crush she loved her while asleep but had so much trouble while she was awake?
+Applejack sighed and laid in silence staring at Fluttershy. Why was she able to tell her crush she loved her while asleep but had so much trouble while she was awake?
 
 "Fluttershy?"
 
