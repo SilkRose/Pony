@@ -16,6 +16,8 @@ Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-read
 
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
+Thanks to [heaviside__](https://www.fimfiction.net/user/860080/heaviside__) for pre-reading.
+
 ## Short Description:
 Fluttershy and Applejack try to calm each other's sorrows while dealing with their own feelings.
 
