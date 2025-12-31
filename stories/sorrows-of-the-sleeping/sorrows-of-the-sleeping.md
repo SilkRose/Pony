@@ -108,7 +108,7 @@ Applejack rolled over onto her back in her sleep, pulling Fluttershy's hand and 
 
 "Uh, hello?" Fluttershy whispered.
 
-She looked over and noticed how close Applejack was and that she was holding her hand.
+She looked over and noticed that Applejack was holding her hand in one of her own.
 
 "Applejack?" she asked meekly as a blush started to form on her face.
 
