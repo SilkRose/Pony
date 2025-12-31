@@ -24,9 +24,7 @@ Applejack blushed at the realization, but before she could pull her hand away, F
 
 Fluttershy winced. "You're… safety…"
 
-Applejack resolved to wake her up, she was clearly having a nightmare and wanted her friend.
-
-She gently shook her friend. "Fluttershy, wake up."
+She was clearly having a nightmare and wanted someone with her. Applejack resolved to wake her up, and shook her gently. "Hey, wake up."
 
 Her blush had intensified at this point, but she didn't care. Her friend needed her and not even a little embarrassment would stop her from helping.
 
@@ -66,7 +64,7 @@ Applejack squeezed her hand. "Fluttershy, I could never hate you. You're one of 
 
 "I… love…"
 
-"And I love you." Applejack sighed and laid in silence staring at Fluttershy. Why could she tell her crush she loved her while asleep but have so much trouble while she was awake? "Fluttershy?"
+"And I love you." Applejack sighed and laid in silence staring at Fluttershy. Why could she admit this so easily when her crush was asleep, but not while she was awake? "Fluttershy?"
 
 "Apple…"
 
@@ -110,7 +108,7 @@ Applejack rolled over onto her back in her sleep, pulling Fluttershy's hand and 
 
 "Uh, hello?" Fluttershy whispered.
 
-She looked over and noticed how close Applejack was and that she was holding her hand.
+She looked over and noticed that Applejack was holding her hand in one of her own.
 
 "Applejack?" she asked meekly as a blush started to form on her face.
 
@@ -126,7 +124,7 @@ She did not wake up. "And… kind…"
 
 "Applejack, could I have my hand back, please?"
 
-She twitched again, pulling Fluttershy's hands closer to her. "Don't… let go…"
+She twitched again, pulling Fluttershy's hand closer to her. "Don't… let go…"
 
 Fluttershy's blush had overtaken her face by this point. "Why not?"
 
@@ -158,9 +156,7 @@ Applejack smiled as she squeezed Fluttershy's hand.
 
 Fluttershy smiled back. "I wish it were that easy, Applejack…"
 
-Fluttershy had almost fallen asleep like this, but Applejack needed her.
-
-She pulled Fluttershy's hand to her chest, holding it tight as tears escaped her eyes.
+Fluttershy had almost fallen asleep like this, but Applejack pulled Fluttershy's hand to her chest, holding it tight as tears escaped her eyes. She needed her.
 
 Fluttershy was jolted back to the situation and tried to stay calm. "Applejack, what's wrong?"
 
