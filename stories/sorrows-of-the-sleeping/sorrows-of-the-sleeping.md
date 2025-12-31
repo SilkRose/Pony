@@ -126,7 +126,7 @@ She did not wake up. "And… kind…"
 
 "Applejack, could I have my hand back, please?"
 
-She twitched again, pulling Fluttershy's hands closer to her. "Don't… let go…"
+She twitched again, pulling Fluttershy's hand closer to her. "Don't… let go…"
 
 Fluttershy's blush had overtaken her face by this point. "Why not?"
 
