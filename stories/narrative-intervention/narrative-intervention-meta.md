@@ -10,11 +10,11 @@ Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki
 
 Entry into [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06).
 
-Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading and appearing in the story.
-
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading and appearing in the story.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
+
+Thanks to [heaviside__](https://www.fimfiction.net/user/860080/heaviside__) for pre-reading and helping with ideas.
 
 Thanks to [MATP](https://www.fimfiction.net/user/544735/MATP) for pre-reading and appearing in the story.
 
@@ -23,6 +23,8 @@ Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLone
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
 Thanks to [AtomicGlow](https://www.fimfiction.net/user/90142/AtomicGlow) for pre-reading.
+
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for appearing in the story.
 
 Thanks to [knighty](https://www.fimfiction.net/user/1/knighty) for appearing in the story.
 
