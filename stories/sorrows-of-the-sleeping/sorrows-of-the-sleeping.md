@@ -220,7 +220,7 @@ Applejack provided an answer. "Kiss… me…"
 
 Fluttershy froze as her face turned red. She laid there waiting for her heartbeat to return to normal.
 
-"I'm… not ready for that yet, sorry. It has been really nice holding your had though."
+"I'm… not ready for that yet, sorry. It has been really nice holding your hand though."
 
 "You… too."
 
