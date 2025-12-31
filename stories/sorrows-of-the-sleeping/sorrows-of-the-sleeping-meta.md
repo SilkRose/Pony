@@ -28,3 +28,4 @@ Fluttershy and Applejack try to calm each other's sorrows while dealing with the
 [Sorrows of the Sleeping](./sorrows-of-the-sleeping.md)
 
 ## Cover:
+![cover](./sorrows-of-the-sleeping-cover-upscaled.png)
