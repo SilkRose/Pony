@@ -40,7 +40,7 @@ She whispered to her, "It's going to be alright, Fluttershy."
 
 Another mumbled reply. "Love you."
 
-Applejack shushed her. "It's okay, nothing bad can happen."
+Applejack shushed her. "It's okay, nothing bad can happen to you."
 
 "I… love…"
 
