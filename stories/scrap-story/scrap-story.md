@@ -58,3 +58,31 @@ She got to the edge of town proper and started her route in full. Going to the n
 
 Making it past six houses without any cans out, and seven houses with cans but no metal, she finds a house with a score. Stopping at that house, she looked and saw a stack of metal buckets. Picking them up in her magic, she examined them. They all had rust and most of them had holes in the bottom. She levitated them back and placed them in the corner of her wagon before moving on.
 
+Two houses down there are a couple of metal folding chairs leaning up against some trash cans. She stopped and levitated them into her wagon, placing them flat in the front long ways on the floor, moving the buckets to sit between the chair legs in the free spot. She continued on and made it to the end of that row of houses without finding anything else.
+
+Crossing the street, she stopped at the first house in the row. It had an old metal toolbox sitting on top of the trash can. She opened the lid and looked inside, there were a few screw drivers, wrenches, and pliers inside. She closed the toolbox and placed it in the second wagon for good finds.
+
+Continuing on her way, she passed eight more houses before she sees anything of interest. She stopped to investigate the object next to the trash. Levitating it in her magic, she realized it was plastic junk and placed it back down before trotting away.
+
+Two houses from that, she found a golf club bag with many of the clubs still in the bag. She inspected the bag, finding it to be in bad shape. The clubs however were metal and could be scrapped. She placed the bag and clubs in her wagon, laying them down on top of the metal chairs.
+
+She made it all the way to the last house without finding anything else. But, at said house, a pony stops hers.
+
+He's a while stallion earth pony, and he asked, "Hello, miss. Do you take scrap metal?"
+
+Oxide nodded. "Yes, what do you have?"
+
+The stallion answered, "I've got a couple of desk fans that quit working. Been meaning to throw them out, but you happened along at just the right time."
+
+Oxide smiled at him. "I'd be more than happy to take them off your hooves."
+
+"I'll go get them for you, be right back." He dissipated into the back of his house.
+
+After a short while, the stallion reappeared with three desk fans held to his chest with a hoof. Oxide took them in her magic and placed them next to the gold clubs in the wagon.
+
+"Thank you for the metal!"
+
+"Thank you for taking them."
+
+With that the stallion went back into his house and Oxide trotted along her way. She made it to the next row of houses and kept looking for metal.
+
