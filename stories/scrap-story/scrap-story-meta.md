@@ -20,19 +20,21 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
 - Not a full on comedy, but a slice of life with comedic elements.
 - The mane char is a unicorn named Oxide.
 - Scrap metal items:
-  - Wood burning stove
+  - Wood burning stove (Applejack)
   - Metal buckets
   - Folding chairs
-  - Sewing machine
-  - Cast iron sink
+  - Sewing machine (Rarity)
+  - Cast iron sink (Pinkie)
   - Bed rails
   - Lamps
   - Hot water tank
   - Cast iron bench
   - Desk fan
+  - Bird cages (Fluttershy?)
+  - Second/third place trophies (Rainbow?)
   - 
 - Good finds:
-  - Twilight's test equipment
+  - Twilight's test equipment (Twilight)
   - Random two-by-fours
   - Old toolbox with tools
   - Copper pipes
@@ -40,6 +42,8 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
   - Wire
   - 
 - About 150 to 250 houses in Ponyville.
+- Ponyville as a circular town with 12 sections of house rows each 20 long?
+- Every 3 sections have a mane 6 member?
 - 
 
 ## Story:
