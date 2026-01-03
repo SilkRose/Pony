@@ -52,7 +52,7 @@ Oxide hooked herself back to the wagons and returned her wheel chocks back into 
 
 Her wagons had been a point of pride, she made them herself out of scrap lumber and metal years ago, and just kept repairing them whenever they broke. She was a mechanical engineer by trade, and just did scrap as extra income on the side. There wasn't too many mechanical elements to a little town like Ponyville. Plus the scrapping gave her a chance to interact with the town on a more person level.
 
-Her cutie mark was a pulley and a gear connected by a belt. She got it when she designed a rudimentary transmission for a wooden cart she built with her father. Ever since she got it, she hasn't stopped making things. She had the most experience with wagons, since she used them so much for scrap meta, but she also made her own jacks and jack stands, wheels, and was even dabbling in making proper brakes for her wagons to make them safer.
+Her cutie mark was a pulley and a gear connected by a belt. She got it when she designed a rudimentary transmission for a wooden cart she built with her father. Ever since she got it, she hasn't stopped making things. She had the most experience with wagons, since she used them so much for scrap metal, but she also made her own jacks and jack stands, wheels, and was even dabbling in making proper brakes for her wagons to make them safer.
 
 She got to the edge of town proper and started her route in full. Going to the nearest alleyway behind a row of houses, she started down it, looking for trash cans. Usually she didn't look in the trash cans themselves, because ponies would put metal and other larger objects beside the cans.
 
