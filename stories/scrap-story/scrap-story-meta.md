@@ -19,6 +19,27 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
 - Third third is about how metal is processed at the junkyard.
 - Not a full on comedy, but a slice of life with comedic elements.
 - The mane char is a unicorn named Oxide.
+- Scrap metal items:
+  - Wood burning stove
+  - Metal buckets
+  - Folding chairs
+  - Sewing machine
+  - Cast iron sink
+  - Bed rails
+  - Lamps
+  - Hot water tank
+  - Cast iron bench
+  - Desk fan
+  - 
+- Good finds:
+  - Twilight's test equipment
+  - Random two-by-fours
+  - Old toolbox with tools
+  - Copper pipes
+  - Aluminum pots and pans
+  - Wire
+  - 
+- About 150 to 250 houses in Ponyville.
 - 
 
 ## Story:
