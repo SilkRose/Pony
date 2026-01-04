@@ -32,6 +32,15 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
   - Desk fan
   - Bird cages (Fluttershy?)
   - Second/third place trophies (Rainbow?)
+  - Cast iron tub
+  - Weight bench
+  - Weights
+  - Umbrellas
+  - Table and chairs
+  - Chains
+  - Horseshoes
+  - Metal stakes
+  - Lawn mower (push reel style)
   - 
 - Good finds:
   - Twilight's test equipment (Twilight)
@@ -40,6 +49,8 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
   - Copper pipes
   - Aluminum pots and pans
   - Wire
+  - A smaller wagon
+  - Antique coins
   - 
 - About 150 to 250 houses in Ponyville.
 - Ponyville as a circular town with 12 sections of house rows each 20 long?
