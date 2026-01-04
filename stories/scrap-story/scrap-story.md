@@ -86,3 +86,33 @@ After a short while, the stallion reappeared with three desk fans held to his ch
 
 With that the stallion went back into his house and Oxide trotted along her way. She made it to the next row of houses and kept looking for metal.
 
+There was nine houses with trash cans out in this row, but none of them had any metal. A few of them had random junk, but none of it metal. She quickly made her way to the next row of houses.
+
+The first house had its cans out and a couple of bed rails sitting in front of them. She levitated them into her wagon running along the right wall before moving on down the allay. She didn't find anything until the last house in the row. This one also had bed rails out, but twice as many this time. She placed them with the others in her wagon before heading off towards Carousel Boutique.
+
+She made it to the boutique just in time to see Rarity taking out the trash. Oxide smiled at her. "Hi Rarity, how's it going?" She stopped next to Rarity.
+
+"It's going good. How are you doing, darling?" Rarity asked with a smile of her own.
+
+"It's going good, just doing the rounds. Got a decent amount so far, but I'm not full yet." Oxide gestured to her half-loaded wagon.
+
+"Oh, I actually think I might have something for you. I've got one of my old sewing machines inside, I've been meaning to throw it out, but you happened along at the perfect time."
+
+Oxide chocked her wagon and unhooked herself before following Rarity inside the boutique.
+
+Rarity lead her right to the old machine. "Here it is, darling. I hope it helps you out."
+
+Oxide lifted it in her magic. "These old sewing machines are heavier than you might think."
+
+Rarity chucked. "Oh, I know darling. When I was a little filly, my dad wanted to take my favorite sewing machine and use it as a boat anchor when it broke. I was having none of it, however. I simply suggested we should use him as the boat anchor instead."
+
+Oxide laughed. "Glad you stood up for yourself."
+
+Rarity smiled. "Me too."
+
+Oxide followed Rarity back outside and placed the sewing machine into the front of her wagon, on top the chairs, leaning against the gold clubs. "Thanks again, Rarity. I'll see you around."
+
+"Thank you, darling!"
+
+With that, Oxide hooked herself back to the wagon and headed for the next row of houses.
+
