@@ -52,8 +52,6 @@ My published writing can be found on my [Fimfiction profile][Silk Rose Fimfictio
 - **[Markdown]**, my file format of choice.
 - **[fimd]**, used to convert Markdown into [Fimfiction BBCode].
 - **[Obsidian]**, a highly customizable and extensible Markdown text editor.
-- **[LanguageTool]**, grammar tool of choice, I use the premium version.
-- **[Obsidian LanguageTool]**, a plugin to use LanguageTool within Obsidian.
 - **[GIMP]**, an image editor, used to make covers.
 - **[MLP Vector Club]**, used to get accurate pony colors.
 
