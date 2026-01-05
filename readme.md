@@ -142,7 +142,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Meadowsys]** for general coding help, cover feedback, pre-reading, and for creating [wiwi] and V1 of [fimd][original fimd].
 - **[PseudoBob Delightus]** for proofreading, pre-reading, collaborative writing, cover feedback, and making the cover for [Unnamed Rarity x Rainbow Romance Story].
 - **[6-D Pegasus]** for proofreading, pre-reading, and collaborative writing.
-- **[Scriblits Talo]** for collaborative writing, pre-reading, and making the cover for [There].
+- **[Scriblits Talo]** for collaborative writing, pre-reading, and making covers.
 - **[knighty]** for granting me access to the [Fimfiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
@@ -150,6 +150,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **TikiBat** ([Fimfiction][Tiki Bat Fimfiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
 - **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
+- **[Math Spook]** for proofreading, helping with ideas, and story feedback.
 - **[TheAncientPolitzanian]** for collaborative writing.
 - **[SparklingTwilight]** for collaborative writing.
 - **[RunicTreetops]** for collaborative writing.
@@ -157,13 +158,15 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[csos95]** for helping me with the [Fimfiction API].
 - **[Damaged]** for helping me with the [Fimfiction API].
 - **[Lossart]** for illustrating covers.
+- **[dashie04]** for making concept cover photos.
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
-- **[Math Spook]** for proofreading.
 - **[Hoofprintz]** for pre-reading and proofreading.
 - **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
+- **[heaviside__]** for pre-reading and helping with ideas.
 - **[Hyper Star]** for proofreading and pre-reading.
+- **[Shay492]** for pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
 - **[Visharo]** for pre-reading.
@@ -173,6 +176,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Mockingbirb]** for proofreading.
 - **[MorganaTheNotCat]** for pre-reading.
 - **[Jymbroni]** for pre-reading.
+- **[Corah Il Cappo]** for providing feedback.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
 <!-- Links go below this point. -->
@@ -249,6 +253,10 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Hoofprintz]: https://www.fimfiction.net/user/503681/Hoofprintz "Fimfiction"
 [Math Spook]: https://www.fimfiction.net/user/612387/Math+Spook "Fimfiction"
 [Lossart]: https://www.tumblr.com/blog/markiza297 "Tumblr"
+[dashie04]: https://www.fimfiction.net/user/334129/dashie04 "Fimfiction"
+[Shay492]: https://www.fimfiction.net/user/840747/Shay492   "Fimfiction"
+[Corah Il Cappo]: https://www.fimfiction.net/user/40371/Corah+Il+Cappo "Fimfiction"
+[heaviside__]: https://www.fimfiction.net/user/860080/heaviside__ "Fimfiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "Fimfiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
