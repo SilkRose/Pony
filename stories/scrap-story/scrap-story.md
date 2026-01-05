@@ -144,3 +144,35 @@ She didn't find anything else on the row and continued on to the Golden Oaks Lib
 
 She continued around to the front where she ran into Twilight Sparkle, the host of the library.
 
+"Oh, Hi Twilight."
+
+Twilight asked, "Hello Oxide, out doing your scrap route?"
+
+Oxide snickered. "Yes. I was just checking that you didn't throw away any books."
+
+Twilight smirked. "I would never, but actually, that does remind me. I do have something I was meaning to throw out, would you want to come see if its something you want?"
+
+Oxide nodded before she unhooked and parked her wagons. "Lead the way."
+
+She followed Twilight into her house and down into the basement. At the bottom of the steps were a pair of green metal boxes with lights and wires all over them. One was shorter and had hoof locks and a weird helmet covered in lights sitting on top of it, while the other was taller and had a ream of paper coming out of it.
+
+Twilight gestured at the pair. "These are test equipment I tried to use to study my friend when I didn't believe what she was telling me. They didn't help me and only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
+
+"Thanks Twilight, I'll take them. I won't let them go to waste. I'll ether figure out a use for them, or strip them for parts."
+
+"Thank you."
+
+Twilight picks up the larger of the two pieces with her magic, while Oxide picks up the smaller one and the helmet in her own magic. They carry them together since they are connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guides them and they set them down in the good things wagon on their backs in the front right corner.
+
+Oxide turned to say thank you again to Twilight but was met with a hug, and hugged back.
+
+"Thank you for taking them, I'll be glad to not be reminded of that time so often from now on."
+
+"I'm glad I could help. Thank you, Twilight."
+
+After the hug, Twilight spoke up, "Oh, and if you see Pinkie Pie, tell her I love her."
+
+Oxide nodded. "Will do!"
+
+Twilight nodded in return and went back inside her house. Oxide hooked herself back to the wagons and started back on her route.
+
