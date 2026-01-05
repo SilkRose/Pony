@@ -116,3 +116,31 @@ Oxide followed Rarity back outside and placed the sewing machine into the front 
 
 With that, Oxide hooked herself back to the wagon and headed for the next row of houses.
 
+She trotted past every house in this row, only seeing four cans outside of the houses. She crossed the street to the new row and immediately found something at the second house. It was a coil of wire. She levitated it into her good stuff wagon and went on her way.
+
+At the third house after that she stopped at a pile to inspect it. Most of it was just trash and unusable plastic, but there were a few bits of metal: a couple of old umbrellas, a single chain, and two metal stakes. She levitated them all into her scrap wagon, placing them on top of the gold club bag.
+
+She continued on, making it to the next row of houses before finding anything of interest. A pegasus mare waved her down.
+
+The mare looked strong. She had a beige coat with a while mane and blue eyes. "Hello there. Do you happen to take horseshoes by any chance?"
+
+Oxide nodded. "I do."
+
+"Oh, where are my manners, the names Horseshoe Hurl. I'm a horseshoe throwing athlete, if the name didn't give it away. I got a whole bunch of horseshoes laying around from all the competitions I've competed it, and I just need to get rid of some, don't got the space for them no more."
+
+Oxide smiled. "My name's Oxide. I'd be more than glad to take them off your hooves, I'll make sure they get put to use or recycled."
+
+"thank you, I'll go get them for you." Horseshoe dissapeared into her house for a few moments and returned with a box of old horseshoes. Oxide levitated them from her and placed them in the back of her scrap wagon, behind the wood stove.
+
+Horseshoe said, "I got one more box for you, one sec," before going back inside. She came out again moments later and Oxide placed this box behind the first.
+
+"Thank you again."
+
+"You're welcome!"
+
+The mare went back into her home and Oxide continued on her way. This row had nothing else for her, so she made her way to the last row of houses in this section. The fourth house had something by the cans, a cardboard box filled with pots and pans, all of them made from aluminum. She levitated this box and placed it in her good stuff wagon, right next to the coil of wire.
+
+She didn't find anything else on the row and continued on to the Golden Oaks Library. Normally a library doesn't have much scrap, but sometimes a book would get thrown out, and Oxide loved to read. She make it to the tree and found the trash cans out back. She inspected inside the cans for books, but found no such thing.
+
+She continued around to the front where she ran into Twilight Sparkle, the host of the library.
+
