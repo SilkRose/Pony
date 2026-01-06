@@ -165,3 +165,10 @@ This file contains random story names that don't have enough thought to have the
 - She Calls me Darling
 - She Calls Me Darling Too
 - Darling All Day
+- Scrap Bot
+- Sweet Scrap
+- Reliquary of a Robot
+- The Price of a Pony
+- Sweetie Surrender
+- Render unto Scrap
+- Surrender unto Scrap
