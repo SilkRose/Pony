@@ -176,3 +176,63 @@ Oxide nodded. "Will do!"
 
 Twilight nodded in return and went back inside her house. Oxide hooked herself back to the wagons and started back on her route.
 
+She made it to her next row of houses and trotted down the alley. In this first row twelve of the houses had trash cans out, but none of them had any metal. She continued on to the next row, where a pony stopped her at the second house. He was a blue unicorn with a green mane, light blue eyes and a thermometer as a cutie mark.
+
+He waved her down. "Hello, miss. Do you take scrap meta?"
+
+Oxide nodded after coming to a stop. "I sure do."
+
+"Great, how often do you come around here?"
+
+"I live just outside town, but I do this route every week."
+
+"Great. Can you stop back here next week? I'll have some metal sitting out."
+
+"Sure can, thank you."
+
+"You're welcome, see you then."
+
+With that the stallion left and Oxide continued down the alley. She made it almost to the end before finding a big pile beside a trash can at the second to last house. She stopped and unhooked herself to go through the pile.
+
+The first thing she saw was some metal dog cages folded up leaning against the trash cans. She levitated those into the good stuff wagon, planning to donate them to Dr. Fauna. The second thing she saw was a box of old broken foal toys. Rummaging through them, she didn't find anything worth keeping. Next she saw a couple of sleds stacked on top one another. She left those for somepony else. The last thing she saw was a cardboard box with a random assortment of metal. It had bearings, nails, plates, chains, and more. She levitated the box carefully, as the bottom was barely holding on and could break and spill the box at any moment. She put the box in the back left corner of the scrap wagon.
+
+She hooked herself back to the wagon and continued on to the next row of houses. The next row had nothing of interest out, so she made her way to the next row on. She immediately noticed something big in the trash at the third house. She pulled up and saw it was a weight bench with a few weights. She unhooked herself and chocked the wheels to load this find up.
+
+She picked up the weight bench in her magic and placed it on top of the wood stove, with the smoke pipe on the stove placed to the right of the seat on the bench. She opened the box on the wagon and pulled out a strap. She ran it around the weight bench, tying it down to the wagon. She ratcheted it down tight and moved on to the weights.
+
+She placed the weights on the floor of the wagon behind the wood stove. She pushed on the weight bench to make sure it was secure then hooked herself back to the wagon and un-chocked the wheels. Nothing else was found in this row, so she moved onto the last row of houses for this alley.
+
+She spotted something sitting on the trash can at the fifth house and stopped to look at it. It was a small wooden box designed for holding cigars. She opened it with her magic and found a bunch of antique coins. they were from all over Equestria and from various time periods. She didn't know what they might be worth, but she knew she was going to find out. She placed them in the wooden box she keep her straps and spare parts in. Small stuff like that are better in there than moving around in the second wagon.
+
+There was nothing else in this row, so she moved on and made her way to Sugarcube Corner. Stopping outside the back of the establishment, she found an old cast iron skillet in the trash. She placed it in her scrap wagon before moving around the side and parking her wagons. She unhooked and went to the front.
+
+Making her way in the restaurant, she stopped at the front counter. There she saw Pinkie was working.
+
+Pinkie greeted her. "Hi Oxide, come here to eat something delicious and sweet?"
+
+Oxide nodded. "I was doing my scrap route and Twilight gave me some metal and wanted me to tell you she loves you."
+
+Pinkie smiled. "I love her too! Hey, did you say scrap metal? I think we threw away a skillet today."
+
+"Yes, and I actually already got that from your trash. Thanks for telling me, though."
+
+"Oh, we might have more for you. Let me go ask the cakes!" Pinkie left her post and went into the back for a few minutes before coming back to the counter. "Yes, we do have more for you. The Cakes have a cast iron sink if you want it."
+
+Oxide nodded. "Sure, I'd be glad to take it off your hooves."
+
+"It's just inside the back door, near the trash cans. I'll meet you out back?"
+
+"I'll see you there."
+
+With that both mares went their separate ways to the same pot. Pinkie went through the kitchen, while Oxide went back outside and got her wagon on the way.
+
+Pinkie was waiting with the door open when Oxide stopped and unhooked herself. Pinkie gestured at the sink and Oxide came closer to look at it. It was indeed cast iron as they said, and it had no legs. That would make it easier to load.
+
+Oxide used her magic and lifted the sink, bringing it outside and placing it in her wagon. It settled in at the back right corner of her scrap wagon. It had some weight too it, so Oxide was glad she was nearing the end of her route.
+
+Pinkie thanked her with a hug. "Thank you for taking it, and giving me the message."
+
+Oxide hugged back. "Thanks for giving it to me. It's going to help a bunch with this load."
+
+After the hug was over, they both waved goodbye and Oxide hooked herself to her wagons and went for her last rows of houses.
+
