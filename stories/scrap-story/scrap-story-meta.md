@@ -32,7 +32,7 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
   - Desk fan
   - Bird cages (Fluttershy?)
   - Second/third place trophies (Rainbow?)
-  - Cast iron tub
+  - Cast iron tub (cut in half)
   - Weight bench
   - Weights
   - Umbrellas
@@ -41,6 +41,8 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for he
   - Horseshoes
   - Metal stakes
   - Lawn mower (push reel style)
+  - Dog cages (folded up)
+  - Furnace
   - 
 - Good finds:
   - Twilight's test equipment (Twilight)
