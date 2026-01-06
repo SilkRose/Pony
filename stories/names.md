@@ -162,3 +162,6 @@ This file contains random story names that don't have enough thought to have the
 - Journey of Junk
 - Rust & Recycling
 - The Scrap Book
+- She Calls me Darling
+- She Calls Me Darling Too
+- Darling All Day
