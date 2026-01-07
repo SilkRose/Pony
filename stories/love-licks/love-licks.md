@@ -46,7 +46,7 @@ I turn to Pinkie.
 
 *Charades, yes, we will act out the word until the other one gets it, then assign it a lick onto the other pony.*
 
-I put my hoof on Pinkie's back and lead her to the door, stepping out the door, she gives me a confused look. I look at her with a smile and node. I knock on the door then point to her, after a few seconds she gets it, nodding back. I close the door and wait for her to knock.
+I put my hoof on Pinkie's back and lead her to the door, stepping out the door, she gives me a confused look. I look at her with a smile and nod. I knock on the door then point to her, after a few seconds she gets it, nodding back. I close the door and wait for her to knock.
 
 Knock, knock, knock.
 
@@ -202,7 +202,7 @@ Pinkie boops me three times, then twice, then once, then starts zooming around t
 
 I write it down and Pinkie licks, 'Yes.'
 
-*I can use go in clue for the next word, probably.*
+*I can use go in the clue for the next word, probably.*
 
 *Aha.*
 
