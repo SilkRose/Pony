@@ -12,6 +12,8 @@ Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for 
 
 Now with a [reading](https://www.youtube.com/watch?v=hP5idtWADfk) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
+Now with a [reading/review](https://www.youtube.com/watch?v=J7ciA6YoAY8) by [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz).
+
 [Reviewed](https://www.fimfiction.net/blog/1046983/fic-recs-august-10th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
 
 ## Short Description:
