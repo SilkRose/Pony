@@ -90,6 +90,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 **[Openair]** | [Pink-Mended Sparkles] | [YouTube][Pink-Mended Sparkles reading] |
 | **[Lotus Moon]** | [Letters of Lament] | [YouTube][Letters of Lament reading] |
 | **[Rainbow Infinity Readings]** | [The Pink Tax] | [YouTube][The Pink Tax reading three] |
+| **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -113,6 +114,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[PresentPerfect]** | [Profound Ponytail] | [Fimfiction][Profound Ponytail review] |
 | **[PresentPerfect]** | [Pony Pillows] | [Fimfiction][Pony Pillows review] |
 | **[Stinium_Ruide]** | [Pink-Mended Sparkles] | [Fimfiction][Pink-Mended Sparkles review] |
+| **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
@@ -296,6 +298,8 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Profound Ponytail review]: https://www.fimfiction.net/blog/1050186/fic-recs-september-13th "Fimfiction"
 [Pony Pillows review]: https://www.fimfiction.net/blog/1050887/fic-recs-september-20th "Fimfiction"
 [Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "Fimfiction"
+
+[Love Licks reading & review]: https://www.youtube.com/watch?v=J7ciA6YoAY8 "YouTube"
 
 [The Rainbow Rocks 10th Anniversary Shipping Contest]: https://www.fimfiction.net/group/216924/the-eqg-anniversary-contests-spring-fling/thread/539825/the-rainbow-rocks-10th-anniversary-shipping-contest-may-26-august-7-the-rules-and-how-to-enter "Fimfiction"
 
