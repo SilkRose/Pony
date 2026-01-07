@@ -236,3 +236,49 @@ Oxide hugged back. "Thanks for giving it to me. It's going to help a bunch with 
 
 After the hug was over, they both waved goodbye and Oxide hooked herself to her wagons and went for her last rows of houses.
 
+The first section had a lot of trash cans out, but only one object of interest, and old rusty push mower at the seventh house. She stopped and levitated it into her wagon, placing it sideways leaning against the left wall.
+
+She continued on to the next row of houses, crossing the alleyway. There she found more stuff sitting by the cans. The second house had a trio of copper pipes leaning against the trash. She put them in the good stuff wagon and heads for the eleventh house.There she found a big metal furnace.
+
+She stopped and unhooked herself, this was going to need some rearranging to fit. She took the strap off holding the weight bench down, and moved the bench to the ground. She pushed the wood stove as far to the left side of the wagon as she could, until it was pressing against the push mower.
+
+She moved any of the little scraps to the left side either in front of or behind the stove, making as much room for the furnace as she could. Once clear, she levitated the furnace and placed it down in the newly cleared area on the right side of the wagon. The furnace ran the entire length of the wagon, placed on its side.
+
+She moved the weight bench back on top, positioning it the same as before, then strapped the whole load down in the middle. After checking the load one more time, she hooked herself back up and started on her route again.
+
+Her wagon was starting to fill up, she had a bit more trouble pulling it along. She was glad for all the metal, but also glad she was almost done. She made it to the next section without finding anything else.
+
+The second to last section had nothing of interest, so she moved on to the last section of her route. She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house she found more horseshoes laying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second to last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
+
+Now finally done with her route, she made her way back out of town. As she passed by the apple trees of Sweet Apple Acre's, she spotted Rainbow Dash waking up in one of the trees. She stopped to greet her.
+
+"Hello, Rainbow Dash."
+
+"Oh, hey Oxide. You out scrapping?"
+
+Oxide nodded. "Yep."
+
+Rainbow looked at her wagons. "Looks like you got a full load."
+
+"Pretty much. I just finished my route. I was on my way to see Fluttershy when I saw you."
+
+"Oh, I think I have some scrap for you. Can you wait here while I go get it?"
+
+"Sure."
+
+With that Rainbow flew off at speed. Oxide waited a few minutes and Rainbow had returned with the metal. She set it on the ground next to Oxide, it was a couple of metal second and third place trophies.
+
+Oxide asked, "You sure you want to get rid of these?"
+
+Rainbow nodded. "Yes. I don't need to be reminded of how not great I was. I just need the first places ones to show off how awesome I am."
+
+"If you say so."
+
+Oxide placed the trophies in her good stuff wagon using her telekinesis.
+
+"Thanks for them, I'll see you around."
+
+"No problem, see ya later."
+
+Rainbow flew away after that and Oxide continued towards Fluttershy's cottage. After making it there, Oxide unhooked and chocked her wagon before crossing the little bridge in front of Fluttershy's cottage. She knocked on the door and waited for the mare to answer.
+
