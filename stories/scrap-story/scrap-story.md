@@ -282,3 +282,77 @@ Oxide placed the trophies in her good stuff wagon using her telekinesis.
 
 Rainbow flew away after that and Oxide continued towards Fluttershy's cottage. After making it there, Oxide unhooked and chocked her wagon before crossing the little bridge in front of Fluttershy's cottage. She knocked on the door and waited for the mare to answer.
 
+Moments later, Fluttershy answered the door. "Hello, Oxide."
+
+"Hey, Fluttershy."
+
+"Come on inside. Would you like some tea?"
+
+"Sure."
+
+Oxide followed Fluttershy inside, where they went to the kitchen. Fluttershy started making tea, while Oxide sat down at the table.
+
+Fluttershy asked, "How'd scrapping go? find anything good?"
+
+Oxide thought for a moment before she said, "Pretty much got a full load. It was a good week. Got a wood stove, horseshoes, coins, a sink, some weird testing equipment, a furnace, and a lot more. I won't even have to unload this week when I take the metal in to the junkyard."
+
+"Oh, that's good."
+
+"It sure is."
+
+"I replaced some of my bird cages this week. If you want you can have the old ones, they're metal."
+
+"Sure, thank you."
+
+"I'll get them for you when you leave."
+
+"Sounds good."
+
+"The tea is done," Fluttershy said before pouring them both a cup.
+
+Fluttershy sat down at the table and they both enjoyed their tea.
+
+Oxide broke the silence. "I'm gonna take in the regular metal tomorrow, then the next day I'll take in all the specialty metal. It's been building up for a while, I think I have finally have enough for a load."
+
+"Oh, good luck with that."
+
+"Thank you."
+
+Oxide enjoyed the peaceful break after completing her scrap route. Fluttershy had become one of her closest friends, and she always stopped her on her way home from scrapping. She couldn't stay too long, however, as her scrapping day was also the day Fluttershy had tea with Discord.
+
+Oxide hadn't formerly met Discord yet, but she'd seem him around. She thought about staying to have tea with them, but in reality, she wanted to get home after all that trotting.
+
+Both mares finished their tea and Fluttershy took the dishes away.
+
+Fluttershy said, "I'll go get those cages."
+
+Fluttershy left and Oxide got up and waited for her at the front door.
+
+A minute later, Fluttershy returned with the metal cages. Oxide took them in her magic and said, "Goodbye, Fluttershy. Thank you for the metal."
+
+"Goodbye, you're welcome!"
+
+Oxide left the house and carries the cages to her wagons. She placed them in her scrap wagon, and was about to hook herself back to the wagon when Discord appeared.
+
+"Hello, I don't believe we've met. My name is discord."
+
+"Hello, I'm Oxide. I'm friends with Fluttershy. I just got done doing my scrap route for metal."
+
+"Oh, metal you say. I do love a good bit of lead flakes, they taste so delicious."
+
+"I don't really eat metal… and I don't think you should either."
+
+"I'm the lord of chaos, I can eat metal if I want to. Besides, it was just a joke. You do like jokes right?"
+
+"Sometimes they can be funny."
+
+Discord snapped his fingers. "Well there, I've turned all your aluminum into aluminium."
+
+Oxide looked confused. "You do know those are the same thing?"
+
+"You're no fun," Discord said before disappearing.
+
+Oxide just shrugged and hooked herself back to her wagons. She made her way home without any more interruptions or distractions. She parked her wagons beside her house, chocking the wheels, and then headed inside her home.
+
+***
+
