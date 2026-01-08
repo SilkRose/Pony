@@ -356,3 +356,69 @@ Oxide just shrugged and hooked herself back to her wagons. She made her way home
 
 ***
 
+Oxide pulled the wagon up the ramp that lead to the inlet scale of the junkyard she took her scrap to. She only had one wagon behind her this time, the second was left at home, as one was enough for the amount of metal she had.
+
+Normally she would have had to unload and reload her metal at home before coming to the junkyard, but this time she found enough metal in a single night to take in the next day. She did have a few small pieces to add at home, but nothing big.
+
+She trotted onto the scale and looked at the weigh master. He was a gray stallion named Weight Watcher. He was always nice to Oxide, and even gave her candies when the holidays came around. He nodded at her, the signal that he had her weight recorded and she could head back into the yard.
+
+Oxide pulled her wagon off the scale and down the ramp on the other side. She continued to the unloading spot as she passed a massive wall on her left and a giant pile of scrap on her right. The wall was fifth-teen ponies tall, and the scrap pile was twenty.
+
+She continued back into the yard and found the unloading spot. It was a divot in the ever expanding pile of scrap. There were already two ponies there unloading. Oxide went in between them and backed her wagon up to the pile. The pony on her left was an earth pony, and they were standing in their wagon unloading by pushing the scrap out of the back with the tailgate down. The pony on her right was a pegasus, who was grabbing their scrap and flying out of their wagon to drop it on the pile.
+
+Oxide settled in and put her own tailgate down. She levitated each piece out one at a time, placing it at the bottom of the pile. As she unloaded, she paused occasionally to look around. There was so much stuff in the pile it was almost overwhelming. It had everything she had been bringing with her today, and a lot more.
+
+From metal railings, to full on catwalks, massive appliances, to tiny cogs and nails. This place had just about everything. Some of it even looked in good condition. She tried to not look too much, otherwise she might want to take some of it home. That's against the rules, and she didn't fancy the idea of getting banned.
+
+The earth pony beside her finished unloading and left with their wagon. Oxide watched and a team of unicorns trotted into the empty spot and used their horns to push the metal they had left into the pile, clearing space for the next pony to unload.
+
+Eventually the cleared the spot on her other side as well. She finished unloading soon after and put her tailgate up before hooking back to her wagon and heading for the outbound scale. She made it the front and waited in line behind the same pegasus that was beside her.
+
+The pegasus went up to the weigh master and go their ticket and payment before taking their wagon off the scales at the other end. It was Oxide's turn to see how much she made.
+
+She made it on to the scales and stopped in front of Weight. "Hello, how's your day going?"
+
+Weight ripped off her receipt and levitated it to Oxide before starting to count out her bits. "Going good, how about you?"
+
+"Same, I did good scrapping yesterday."
+
+Weight gave her a sack of bits. "Here you go, have a good day!"
+
+She took it started off the scale. "You too!"
+
+After she made it to the bottom of the ramp, she looked at her receipt to see how much she made.
+
+> Ponyville Recycling Co.
+> 7669 Reuse Way
+> Ponyville, PV 27669
+> 
+> 657-346-6263
+> 
+> Receipt: 308054  Date: 05/03/1005
+> Customer: 100219  Time: 11:36:21 AM
+> 
+> IRON OXIDE
+> 7878 Apple Lane
+> Ponyville, PV 27669
+> 
+> ID Number: EQ536471
+> 
+> Ticket: 315208     Weigh In: 05/03/1005 11:36:21 AM
+> Operator: Admin  Weight Out: 05/03/1005 11:49:42 AM
+> 
+> Gross
+> 	2,132
+> Tare
+> 	980
+> Net
+> 	1,152
+> Price
+> 	210.0000/NT
+> Total
+> 	120.96
+> Paid
+> 	121
+> 
+> No. of Tickets: 1
+> Payment Method: Bits
+
