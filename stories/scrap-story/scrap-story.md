@@ -110,7 +110,7 @@ Oxide laughed. "Glad you stood up for yourself."
 
 Rarity smiled. "Me too."
 
-Oxide followed Rarity back outside and placed the sewing machine into the front of her wagon, on top the chairs, leaning against the gold clubs. "Thanks again, Rarity. I'll see you around."
+Oxide followed Rarity back outside and placed the sewing machine into the front of her wagon, on top the chairs, leaning against the golf clubs. "Thanks again, Rarity. I'll see you around."
 
 "Thank you, darling!"
 
@@ -130,7 +130,7 @@ Oxide nodded. "I do."
 
 Oxide smiled. "My name's Oxide. I'd be more than glad to take them off your hooves, I'll make sure they get put to use or recycled."
 
-"thank you, I'll go get them for you." Horseshoe dissapeared into her house for a few moments and returned with a box of old horseshoes. Oxide levitated them from her and placed them in the back of her scrap wagon, behind the wood stove.
+"Thank you, I'll go get them for you." Horseshoe disappeared into her house for a few moments and returned with a box of old horseshoes. Oxide levitated them from her and placed them in the back of her scrap wagon, behind the wood stove.
 
 Horseshoe said, "I got one more box for you, one sec," before going back inside. She came out again moments later and Oxide placed this box behind the first.
 
@@ -140,7 +140,7 @@ Horseshoe said, "I got one more box for you, one sec," before going back inside.
 
 The mare went back into her home and Oxide continued on her way. This row had nothing else for her, so she made her way to the last row of houses in this section. The fourth house had something by the cans, a cardboard box filled with pots and pans, all of them made from aluminum. She levitated this box and placed it in her good stuff wagon, right next to the coil of wire.
 
-She didn't find anything else on the row and continued on to the Golden Oaks Library. Normally a library doesn't have much scrap, but sometimes a book would get thrown out, and Oxide loved to read. She make it to the tree and found the trash cans out back. She inspected inside the cans for books, but found no such thing.
+She didn't find anything else on the row and continued on to the Golden Oaks Library. Normally a library doesn't have much scrap, but sometimes a book would get thrown out, and Oxide loved to read. She made it to the tree and found the trash cans out back. She inspected inside the cans for books, but found no such thing.
 
 She continued around to the front where she ran into Twilight Sparkle, the host of the library.
 
@@ -178,7 +178,7 @@ Twilight nodded in return and went back inside her house. Oxide hooked herself b
 
 She made it to her next row of houses and trotted down the alley. In this first row twelve of the houses had trash cans out, but none of them had any metal. She continued on to the next row, where a pony stopped her at the second house. He was a blue unicorn with a green mane, light blue eyes and a thermometer as a cutie mark.
 
-He waved her down. "Hello, miss. Do you take scrap meta?"
+He waved her down. "Hello, miss. Do you take scrap metal?"
 
 Oxide nodded after coming to a stop. "I sure do."
 
@@ -216,7 +216,7 @@ Pinkie smiled. "I love her too! Hey, did you say scrap metal? I think we threw a
 
 "Yes, and I actually already got that from your trash. Thanks for telling me, though."
 
-"Oh, we might have more for you. Let me go ask the cakes!" Pinkie left her post and went into the back for a few minutes before coming back to the counter. "Yes, we do have more for you. The Cakes have a cast iron sink if you want it."
+"Oh, we might have more for you. Let me go ask the Cakes!" Pinkie left her post and went into the back for a few minutes before coming back to the counter. "Yes, we do have more for you. The Cakes have a cast iron sink if you want it."
 
 Oxide nodded. "Sure, I'd be glad to take it off your hooves."
 
@@ -266,7 +266,7 @@ Rainbow looked at her wagons. "Looks like you got a full load."
 
 "Sure."
 
-With that Rainbow flew off at speed. Oxide waited a few minutes and Rainbow had returned with the metal. She set it on the ground next to Oxide, it was a couple of metal second and third place trophies.
+With that, Rainbow flew off at speed. Oxide waited a few minutes and Rainbow had returned with the metal. She set it on the ground next to Oxide, it was a couple of metal second and third place trophies.
 
 Oxide asked, "You sure you want to get rid of these?"
 
@@ -292,7 +292,7 @@ Moments later, Fluttershy answered the door. "Hello, Oxide."
 
 Oxide followed Fluttershy inside, where they went to the kitchen. Fluttershy started making tea, while Oxide sat down at the table.
 
-Fluttershy asked, "How'd scrapping go? find anything good?"
+Fluttershy asked, "How'd scrapping go? Find anything good?"
 
 Oxide thought for a moment before she said, "Pretty much got a full load. It was a good week. Got a wood stove, horseshoes, coins, a sink, some weird testing equipment, a furnace, and a lot more. I won't even have to unload this week when I take the metal in to the junkyard."
 
@@ -334,7 +334,7 @@ A minute later, Fluttershy returned with the metal cages. Oxide took them in her
 
 Oxide left the house and carries the cages to her wagons. She placed them in her scrap wagon, and was about to hook herself back to the wagon when Discord appeared.
 
-"Hello, I don't believe we've met. My name is discord."
+"Hello, I don't believe we've met. My name is Discord."
 
 "Hello, I'm Oxide. I'm friends with Fluttershy. I just got done doing my scrap route for metal."
 
@@ -342,7 +342,7 @@ Oxide left the house and carries the cages to her wagons. She placed them in her
 
 "I don't really eat metal… and I don't think you should either."
 
-"I'm the lord of chaos, I can eat metal if I want to. Besides, it was just a joke. You do like jokes right?"
+"I'm the Lord of Chaos, I can eat metal if I want to. Besides, it was just a joke. You do like jokes, right?"
 
 "Sometimes they can be funny."
 
