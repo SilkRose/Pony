@@ -389,36 +389,22 @@ She took it started off the scale. "You too!"
 After she made it to the bottom of the ramp, she looked at her receipt to see how much she made.
 
 > Ponyville Recycling Co.
-> 7669 Reuse Way
-> Ponyville, PV 27669
-> 
-> 657-346-6263
-> 
-> Receipt: 308054  Date: 05/03/1005
-> Customer: 100219  Time: 11:36:21 AM
-> 
-> IRON OXIDE
-> 7878 Apple Lane
-> Ponyville, PV 27669
-> 
-> ID Number: EQ536471
-> 
-> Ticket: 315208     Weigh In: 05/03/1005 11:36:21 AM
-> Operator: Admin  Weight Out: 05/03/1005 11:49:42 AM
-> 
-> Gross
-> 	2,132
-> Tare
-> 	980
-> Net
-> 	1,152
-> Price
-> 	210.0000/NT
-> Total
-> 	120.96
-> Paid
-> 	121
-> 
-> No. of Tickets: 1
-> Payment Method: Bits
+> 7878 Reuse Way
+> Ponyville, 27669
+>
+> Receipt: 6263
+> Customer: 657
+> Operator: Admin
+> Date: 05/03/1005
+> Time: 10:22:45 AM
+>
+> Weight In: 05/03/1005 10:00:27 AM
+> Weight Out: 05/03/1005 10:22:03 AM
+>
+> Gross: 2,132
+> Tare: 980
+> Net: 1,152
+> Price: 210.0000/NT
+> Total: 120.96
+> Paid: 121
 
