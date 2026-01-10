@@ -398,8 +398,8 @@ After she made it to the bottom of the ramp, she looked at her receipt to see ho
 > Date: 05/03/1005
 > Time: 10:22:45 AM
 >
-> Weight In: 05/03/1005 10:00:27 AM
-> Weight Out: 05/03/1005 10:22:03 AM
+> Weigh In: 05/03/1005 10:00:27 AM
+> Weigh Out: 05/03/1005 10:22:03 AM
 >
 > Gross: 2,132
 > Tare: 980
