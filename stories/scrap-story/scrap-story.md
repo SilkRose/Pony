@@ -408,3 +408,49 @@ After she made it to the bottom of the ramp, she looked at her receipt to see ho
 > Total: 120.96
 > Paid: 121
 
+The first time she saw one of these receipts it took her a moment to understand it. It's pretty simple once you know it though. Gross is your total weight of you, your wagon, and your metal. Tare is the weight of just you and your wagon. Net is the weight of just your metal. Price is the amount of bits for a full ton of two-thousand pounds. Total is how much you made. Price is how much they paid you. They round to the ceiling of what you made.
+
+One hundred and twenty one bits is pretty good for a single night in a small town like Ponyville. Oxide smiled as she put her receipt away with the bits in the wooden box on the front of her wagon. She left the junkyard and went home to get ready for tomorrow.
+
+***
+
+It was the next day and she was pulling her wagon into a different junkyard this time. She was taking in her specialty metal and had to take it to a different junkyard. The one she went to before only buys regular metal and not separated metal.
+
+She got into the line for sorted metal and waited for her turn. After she got home yesterday she cleaned and sorted all her specialty metal. She had all kinds of metal: aluminium, copper, brass, wire, cast aluminium, and stainless steel.
+
+When it came to specialty metal, you had to clean it and sort it. they weighed each type individually and if it wasn't clean you get paid less. Oxide always did her best to clean the metal. She would let the metal build up until it filled a whole wagon.
+
+This junkyard wasn't in Ponyville, so she wanted to make it worth the trip when she did come. She trotted forward as the pony in front of her backed their wagon into the first bay that was at the front of the building. Oxide almost always got sent to the second bay, on the side of the building, since she had a longer wagon than most.
+
+A pony trotted up to her, he had a black coat with a grey mane. "Hello miss, what type of metal you got?"
+
+"A bit of everything, pretty much."
+
+"Okay, after this guy pulls out of the side bay, back your wagon in there."
+
+Oxide nodded. "Okay."
+
+A minute later and the pony in bay two left. Oxide backed her wagon and and parked it, then unhooked herself. She waited by the back of her wagon and lowered her tailgate. A moment later a pony trotted up to her.
+
+She was a pink unicorn with a light blue mane. "Hello, what do you wanna do first?"
+
+"Let's do aluminium first." Oxide used her magic and set all the aluminium on the ground. It was mostly random small bits, like plates, rods, pots, pans, and rivets.
+
+The scale operator took the metal in her own magic and trotted it into the building, where she sat it on the scale. After she weighed it, she levitated it into a specific bin behind her in the building.
+
+They did this same procedure for every other type of metal Oxide brought. After they finished, the scale operator gave Oxide a receipt with all the weights and prices on it. She took it and hooked herself back to her wagon.
+
+She pulled her wagon out front and parked it in an empty spot before trotting back to the building. She entered a small room to the left of the first unloading bay. Inside was a cashier, who asked for her ticket.
+
+Oxide gave it to her and she looked it over. She said, "I'm going to talk with my manager to see if we can get you better prices since you brought in so much. Give me one minute."
+
+She waited in the room and looked around. She saw a box of free candy for customers and took one and popped it in her mouth. It was good.
+
+The cashier returned with a smile. "I was able to get you some better prices. Your payout went from eleven-hundred bits to eighteen-hundred."
+
+Oxide nodded with a smile.
+
+The cashier typed the number into a machine, and a moment later bits started spitting out into a box. The bits kept coming for a long time. It was a lot of bits.
+
+It ended up filling two and a half boxes. The cashier gave Oxide back her receipt and the boxes of bits. Oxide user her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
+
