@@ -454,3 +454,34 @@ The cashier typed the number into a machine, and a moment later bits started spi
 
 It ended up filling two and a half boxes. The cashier gave Oxide back her receipt and the boxes of bits. Oxide user her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
 
+> Manehatten Metal Inc.
+> 346 Copper Ct.
+> Manehatten, 32749
+>
+> DATE: 05/04/1005
+> CONTROL: 746543
+> RECEIVER: 358867
+>
+> COMMODITY
+>	GROSS TARE NET PRICE/ UM AMOUNT
+>
+> ALUMINIUM
+>	400 0 400 0.75/LB 300.00
+> COPPER
+>	180 5 175 2.57/LB 450.00
+> BRASS
+>	200 10 190 1.32/LB 250.00
+> WIRE
+>	350 50 300 0.67/LB 200.00
+> CAST ALUMINIUM
+>	500 40 460 0.76/LB 350.00
+> STAINLESS STEEL
+>	310 20 290 0.93/LB 271.00
+>
+> TOTAL 1,821.00
+
+While eighteen hundred was a lot of bits, she didn't come her that often. It usually took her six months to a year to get enough specialty metal to take it. She felt proud of it though. It was a lot of work to collect, sort, clean, and take it all in to the junkyard.
+
+She trotted home with a smile, stopping to tell Fluttershy the good news. She had her tea again before going home excited to start the cycle all over again next week. She loved scrap metal. She loved recycling. She loved money.
+
+But, most importantly, she loved her friends.
