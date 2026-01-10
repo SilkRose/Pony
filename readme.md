@@ -161,6 +161,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Damaged]** for helping me with the [Fimfiction API].
 - **[Lossart]** for illustrating covers.
 - **[dashie04]** for making concept cover photos.
+- **[Shay492]** for proofreading and pre-reading.
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
@@ -168,7 +169,6 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
 - **[heaviside__]** for pre-reading and helping with ideas.
 - **[Hyper Star]** for proofreading and pre-reading.
-- **[Shay492]** for pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
 - **[Visharo]** for pre-reading.
