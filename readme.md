@@ -115,6 +115,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[PresentPerfect]** | [Pony Pillows] | [Fimfiction][Pony Pillows review] |
 | **[Stinium_Ruide]** | [Pink-Mended Sparkles] | [Fimfiction][Pink-Mended Sparkles review] |
 | **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
+| **[Hipponous]** | [Pink Reflections] | [Fimfiction][Pink Reflections review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
@@ -162,6 +163,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Lossart]** for illustrating covers.
 - **[dashie04]** for making concept cover photos.
 - **[Shay492]** for proofreading and pre-reading.
+- **[Hipponous]** for proofreading.
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
@@ -259,6 +261,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Shay492]: https://www.fimfiction.net/user/840747/Shay492   "Fimfiction"
 [Corah Il Cappo]: https://www.fimfiction.net/user/40371/Corah+Il+Cappo "Fimfiction"
 [heaviside__]: https://www.fimfiction.net/user/860080/heaviside__ "Fimfiction"
+[Hipponous]: https://www.fimfiction.net/user/875988/Hipponous "Fimfiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "Fimfiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
@@ -298,6 +301,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Profound Ponytail review]: https://www.fimfiction.net/blog/1050186/fic-recs-september-13th "Fimfiction"
 [Pony Pillows review]: https://www.fimfiction.net/blog/1050887/fic-recs-september-20th "Fimfiction"
 [Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "Fimfiction"
+[Pink Reflections review]: https://www.fimfiction.net/blog/1135572/a-review-of-silk-roses-pink-reflections-written-at-his-behest "Fimfiction"
 
 [Love Licks reading & review]: https://www.youtube.com/watch?v=J7ciA6YoAY8 "YouTube"
 
