@@ -323,6 +323,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Blue and Blushing]: https://www.fimfiction.net/story/557818/blue-and-blushing "Fimfiction"
 [Pink-Mended Sparkles]: https://www.fimfiction.net/story/547972/pink-mended-sparkles "Fimfiction"
 [Letters of Lament]: https://www.fimfiction.net/story/575613/letters-of-lament "Fimfiction"
+[Pink Reflections]: https://www.fimfiction.net/story/579531/pink-reflections "Fimfiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
