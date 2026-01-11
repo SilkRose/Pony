@@ -6,9 +6,9 @@ A story about scrap metal in Equestria.
 ## Description:
 
 
-Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for proofreading.
+Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading and helping with ideas.
 
-Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for helping with ideas.
+Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for proofreading.
 
 ## Short Description:
 
