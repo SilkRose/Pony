@@ -1,6 +1,6 @@
 # Scrap Story
 
-Oxide levitated down the tongue of her wagon and clasped it to her harness as she got ready for the day's scrap route. Fiddling with the straps around her barrel, she secured everything as she double checked her check list in her head.
+Iron Oxide levitated down the tongue of her wagon and clasped it to her harness as she got ready for the day's scrap route. Fiddling with the straps around her barrel, she secured everything as she double checked her check list in her head.
 
 *Straps: check.*
 
@@ -12,13 +12,13 @@ Oxide levitated down the tongue of her wagon and clasped it to her harness as sh
 
 *Trailer tongue secured: check.*
 
-The rust-colored unicorn took off at a slow trot. Two hoofmade wagons followed behind her: one for holding scrap metal, and the other for holding specialty metal and good finds. Unlike the typical wagons you see around Ponyville, these wagons were wider and longer. The bed of the wagon sat lower to the ground for stability, while the walls were higher for holding more metal. Each one had a tailgate for easily loading up heavier objects when needed. The second wagon was tethered to the first, and the first had a box for spare parts and tools nailed to the front, just above the tongue.
+The rust-colored unicorn took off at a slow trot. Two hoofmade wagons followed behind her: one for holding scrap metal, and the other for holding specialty metal and good finds. Unlike the typical wagons you saw around Ponyville, these wagons were wider and longer. The bed of the wagon sat lower to the ground for stability, while the walls were higher for holding more metal. Each one had a tailgate for easily loading up heavier objects when needed. The second wagon was tethered to the first, and the first had a box for spare parts and tools nailed to the front, just above the tongue.
 
 Her journey started on the outskirts of Ponyville, where she would go to Sweet Apple Acres first. The Apple family had been great friends to her. They had given her a lot of metal over the years, and she helped them whenever they needed it, not that they asked much. She remembered last week they told her to come back next week and they'd have something heavy for her. While they didn't say what it was, she wasn't one to turn down free metal.
 
 She made it to the first turn on her route, the dirt path that Sweet Apple Acres was on. She passed by countless apple trees as the wind blew her messy dark brown mane around. Her light blue eyes scanned the trees as she passed. No Rainbow Dash in sight.
 
-Making it to the entrance, she trotted down the path that lead to the family's barn. She stopped at the door to the barn and used her magic to chock the wheels on her wagon. The ground she was parked on was sloped. With her unhooking herself from the wagons, she needed something to keep them from rolling away.
+Making it to the entrance, she trotted down the path that led to the family's barn. She stopped at the door to the barn and used her magic to chock the wheels on her wagon. The ground she was parked on was sloped. With her unhooking herself from the wagons, she needed something to keep them from rolling away.
 
 She hollered for one of them. "Applejack, Big Mac!"
 
@@ -26,7 +26,7 @@ A few minutes later and Applejack stepped out of their family house and made her
 
 "Yes, ma'am." Oxide nodded.
 
-Applejack opened the barn door to reveal an old massive black wood burning stove. The front door was hanging on with only one hinge, and the smoke stack on top was all bent up. There were still ashes in the bottom and even a half burnt log. It sat there in a daring way, waiting for somepony to lift it and experience the ensuring back pain.
+Applejack opened the barn door to reveal an old massive black wood-burning stove. The front door was hanging on with only one hinge, and the smoke stack on top was all bent up. There were still ashes in the bottom and even a half burnt log. It sat there in a daring way, waiting for somepony to lift it and experience the ensuring back pain.
 
 "Here she is. Big Mac nearly broke his back getting this thing out of the basement. He's inside resting up. I'm sure we can get it in your wagon here if we work together."
 
@@ -50,9 +50,9 @@ Applejack nodded back. "We'll see you around. Bye, Sugarcube."
 
 Oxide hooked herself back to the wagons and returned her wheel chocks back into the storage box on the front. She waved goodbye to Applejack and started to trot back to the road. Making it to the entrance, she turned the opposite way from how she entered. The wagon had more weight now, but she barely noticed, as she was used to pulling much more weight than this.
 
-Her wagons were a point of pride. She had made them herself out of scrap lumber and metal years ago, and she just kept repairing them whenever they broke. She was a self-taught mechanical engineer by trade and just did scrap as extra income on the side. There weren't too many mechanical elements to a little town like Ponyville. Plus the scrapping gave her a chance to interact with the town on a more person level.
+Her wagons were a point of pride. She had made them herself out of scrap lumber and metal years ago, and she just kept repairing them whenever they broke. She was a self-taught mechanical engineer by trade and just did scrap as extra income on the side. There weren't too many mechanical elements to a little town like Ponyville. Plus the scrapping gave her a chance to interact with the town on a more personal level.
 
-Her cutie mark was a pulley and a gear connected by a belt. She got it when she designed a rudimentary transmission for a wooden cart she built with her father. Ever since she got it, she hadn't stopped making things. She had the most experience with wagons, since she used them so much for scrap metal, but she also made her own jacks and jack stands, wheels, and was even dabbling in making proper brakes for her wagons to make them safer.
+Her cutie mark was a pulley and a gear connected by a belt. She got it when she designed a rudimentary transmission for a wooden cart she built with her father. Ever since she had gotten it, she hadn't stopped making things. She had the most experience with wagons, since she used them so much for scrap metal, but she also made her own jacks and jack stands, wheels, and was even dabbling in making proper brakes for her wagons to make them safer.
 
 She got to the edge of town proper and started her route in full. Going to the nearest alleyway behind a row of houses, she started down it, looking for trash cans. Usually she didn't look in the trash cans themselves, because ponies would put metal and other larger objects beside the cans.
 
@@ -86,9 +86,9 @@ After a short while, the stallion reappeared with three desk fans held to his ch
 
 With that the stallion went back into his house and Oxide trotted along her way. She made it to the next row of houses and kept looking for metal.
 
-There was nine houses with trash cans out in this row, but none of them had any metal. A few of them had random junk, but none of it metal. She quickly made her way to the next row of houses.
+There were nine houses with trash cans out in this row, but none of them had any metal. A few of them had random junk, but none of it metal. She quickly made her way to the next row of houses.
 
-The first house had its cans out and a couple of bed rails sitting in front of them. She levitated them into her wagon running along the right wall before moving on down the allay. She didn't find anything until the last house in the row. This one also had bed rails out, but twice as many this time. She placed them with the others in her wagon before heading off towards Carousel Boutique.
+The first house had its cans out and a couple of bed rails sitting in front of them. She levitated them into her wagon running along the right wall before moving on down the alley. She didn't find anything until the last house in the row. This one also had bed rails out, but twice as many this time. She placed them with the others in her wagon before heading off towards Carousel Boutique.
 
 She made it to the boutique just in time to see Rarity taking out the trash. Oxide smiled at her. "Hi Rarity, how's it going?" She stopped next to Rarity.
 
@@ -122,11 +122,11 @@ At the third house after that she stopped at a pile to inspect it. Most of it wa
 
 She continued on, making it to the next row of houses before finding anything of interest. A pegasus mare waved her down.
 
-The mare looked strong. She had a beige coat with a while mane and blue eyes. "Hello there. Do you happen to take horseshoes by any chance?"
+The mare looked strong. She had a beige coat with a white mane and blue eyes. "Hello there. Do you happen to take horseshoes by any chance?"
 
 Oxide nodded. "I do."
 
-"Oh, where are my manners, the names Horseshoe Hurl. I'm a horseshoe throwing athlete, if the name didn't give it away. I got a whole bunch of horseshoes laying around from all the competitions I've competed it, and I just need to get rid of some, don't got the space for them no more."
+"Oh, where are my manners, the name's Horseshoe Hurl. I'm a horseshoe throwing athlete, if the name didn't give it away. I got a whole bunch of horseshoes laying around from all the competitions I've competed in, and I just need to get rid of some, don't got the space for them no more."
 
 Oxide smiled. "My name's Oxide. I'd be more than glad to take them off your hooves, I'll make sure they get put to use or recycled."
 
@@ -140,11 +140,11 @@ Horseshoe said, "I got one more box for you, one sec," before going back inside.
 
 The mare went back into her home and Oxide continued on her way. This row had nothing else for her, so she made her way to the last row of houses in this section. The fourth house had something by the cans, a cardboard box filled with pots and pans, all of them made from aluminum. She levitated this box and placed it in her good stuff wagon, right next to the coil of wire.
 
-She didn't find anything else on the row and continued on to the Golden Oaks Library. Normally a library doesn't have much scrap, but sometimes a book would get thrown out, and Oxide loved to read. She made it to the tree and found the trash cans out back. She inspected inside the cans for books, but found no such thing.
+She didn't find anything else on the row and continued on to the Golden Oaks Library. Normally a library didn't have much scrap, but sometimes a book would get thrown out, and Oxide loved to read. She made it to the tree and found the trash cans out back. She inspected inside the cans for books, but found no such thing.
 
 She continued around to the front where she ran into Twilight Sparkle, the host of the library.
 
-"Oh, Hi Twilight."
+"Oh, hi Twilight."
 
 Twilight asked, "Hello Oxide, out doing your scrap route?"
 
@@ -156,13 +156,13 @@ Oxide nodded before she unhooked and parked her wagons. "Lead the way."
 
 She followed Twilight into her house and down into the basement. At the bottom of the steps were a pair of green metal boxes with lights and wires all over them. One was shorter and had hoof locks and a weird helmet covered in lights sitting on top of it, while the other was taller and had a ream of paper coming out of it.
 
-Twilight gestured at the pair. "These are test equipment I tried to use to study my friend when I didn't believe what she was telling me. They didn't help me and only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
+Twilight gestured at the pair. "This is test equipment I tried to use to study my friend when I didn't believe what she was telling me. They didn't help me and only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
 
 "Thanks Twilight, I'll take them. I won't let them go to waste. I'll ether figure out a use for them, or strip them for parts."
 
 "Thank you."
 
-Twilight picks up the larger of the two pieces with her magic, while Oxide picks up the smaller one and the helmet in her own magic. They carry them together since they are connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guides them and they set them down in the good things wagon on their backs in the front right corner.
+Twilight picked up the larger of the two pieces with her magic, while Oxide picked up the smaller one and the helmet in her own magic. They carried them together since the pieces were connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guided them, and they set them down in the good things wagon on their backs in the front right corner.
 
 Oxide turned to say thank you again to Twilight but was met with a hug, and hugged back.
 
@@ -192,7 +192,7 @@ Oxide nodded after coming to a stop. "I sure do."
 
 "You're welcome, see you then."
 
-With that the stallion left and Oxide continued down the alley. She made it almost to the end before finding a big pile beside a trash can at the second to last house. She stopped and unhooked herself to go through the pile.
+With that the stallion left, and Oxide continued down the alley. She made it almost to the end before finding a big pile beside a trash can at the second to last house. She stopped and unhooked herself to go through the pile.
 
 The first thing she saw was some metal dog cages folded up leaning against the trash cans. She levitated those into the good stuff wagon, planning to donate them to Dr. Fauna. The second thing she saw was a box of old broken foal toys. Rummaging through them, she didn't find anything worth keeping. Next she saw a couple of sleds stacked on top one another. She left those for somepony else. The last thing she saw was a cardboard box with a random assortment of metal. It had bearings, nails, plates, chains, and more. She levitated the box carefully, as the bottom was barely holding on and could break and spill the box at any moment. She put the box in the back left corner of the scrap wagon.
 
@@ -202,7 +202,7 @@ She picked up the weight bench in her magic and placed it on top of the wood sto
 
 She placed the weights on the floor of the wagon behind the wood stove. She pushed on the weight bench to make sure it was secure then hooked herself back to the wagon and un-chocked the wheels. Nothing else was found in this row, so she moved onto the last row of houses for this alley.
 
-She spotted something sitting on the trash can at the fifth house and stopped to look at it. It was a small wooden box designed for holding cigars. She opened it with her magic and found a bunch of antique coins. they were from all over Equestria and from various time periods. She didn't know what they might be worth, but she knew she was going to find out. She placed them in the wooden box she keep her straps and spare parts in. Small stuff like that are better in there than moving around in the second wagon.
+She spotted something sitting on the trash can at the fifth house and stopped to look at it. It was a small wooden box designed for holding cigars. She opened it with her magic and found a bunch of antique coins. They were from all over Equestria and from various time periods. She didn't know what they might be worth, but she knew she was going to find out. She placed them in the wooden box she kept her straps and spare parts in. Small stuff like that was better in there than moving around in the second wagon.
 
 There was nothing else in this row, so she moved on and made her way to Sugarcube Corner. Stopping outside the back of the establishment, she found an old cast iron skillet in the trash. She placed it in her scrap wagon before moving around the side and parking her wagons. She unhooked and went to the front.
 
@@ -224,31 +224,31 @@ Oxide nodded. "Sure, I'd be glad to take it off your hooves."
 
 "I'll see you there."
 
-With that both mares went their separate ways to the same pot. Pinkie went through the kitchen, while Oxide went back outside and got her wagon on the way.
+With that both mares went their separate ways to the same spot. Pinkie went through the kitchen, while Oxide went back outside and got her wagon on the way.
 
 Pinkie was waiting with the door open when Oxide stopped and unhooked herself. Pinkie gestured at the sink and Oxide came closer to look at it. It was indeed cast iron as they said, and it had no legs. That would make it easier to load.
 
-Oxide used her magic and lifted the sink, bringing it outside and placing it in her wagon. It settled in at the back right corner of her scrap wagon. It had some weight too it, so Oxide was glad she was nearing the end of her route.
+Oxide used her magic and lifted the sink, bringing it outside and placing it in her wagon. It settled in at the back right corner of her scrap wagon. It had some weight to it, so Oxide was glad she was nearing the end of her route.
 
-Pinkie thanked her with a hug. "Thank you for taking it, and giving me the message."
+Pinkie thanked her with a hug. "Thank you for taking it, and for giving me the message."
 
 Oxide hugged back. "Thanks for giving it to me. It's going to help a bunch with this load."
 
 After the hug was over, they both waved goodbye and Oxide hooked herself to her wagons and went for her last rows of houses.
 
-The first section had a lot of trash cans out, but only one object of interest, and old rusty push mower at the seventh house. She stopped and levitated it into her wagon, placing it sideways leaning against the left wall.
+The first section had a lot of trash cans out, but only one object of interest, an old rusty push mower at the seventh house. She stopped and levitated it into her wagon, placing it sideways leaning against the left wall.
 
-She continued on to the next row of houses, crossing the alleyway. There she found more stuff sitting by the cans. The second house had a trio of copper pipes leaning against the trash. She put them in the good stuff wagon and heads for the eleventh house.There she found a big metal furnace.
+She continued on to the next row of houses, crossing the alleyway. There she found more stuff sitting by the cans. The second house had a trio of copper pipes leaning against the trash. She put them in the good stuff wagon and headed for the eleventh house. There she found a big metal furnace.
 
-She stopped and unhooked herself, this was going to need some rearranging to fit. She took the strap off holding the weight bench down, and moved the bench to the ground. She pushed the wood stove as far to the left side of the wagon as she could, until it was pressing against the push mower.
+She stopped and unhooked herself. This was going to need some rearranging to fit. She took the strap off holding the weight bench down, and moved the bench to the ground. She pushed the wood stove as far to the left side of the wagon as she could, until it was pressing against the push mower.
 
-She moved any of the little scraps to the left side either in front of or behind the stove, making as much room for the furnace as she could. Once clear, she levitated the furnace and placed it down in the newly cleared area on the right side of the wagon. The furnace ran the entire length of the wagon, placed on its side.
+She moved all of the little scraps to the left side either in front of or behind the stove, making as much room for the furnace as she could. Once clear, she levitated the furnace and placed it down in the newly cleared area on the right side of the wagon. The furnace, placed on its side, ran the entire length of the wagon.
 
 She moved the weight bench back on top, positioning it the same as before, then strapped the whole load down in the middle. After checking the load one more time, she hooked herself back up and started on her route again.
 
-Her wagon was starting to fill up, she had a bit more trouble pulling it along. She was glad for all the metal, but also glad she was almost done. She made it to the next section without finding anything else.
+Her wagon was starting to fill up, and she had a bit more trouble pulling it along. She was glad for all the metal, but also glad she was almost done. She made it to the next section without finding anything else.
 
-The second to last section had nothing of interest, so she moved on to the last section of her route. She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house she found more horseshoes laying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second to last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
+The second-to-last section had nothing of interest, so she moved on to the last section of her route. She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house she found more horseshoes laying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second-to-last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
 
 Now finally done with her route, she made her way back out of town. As she passed by the apple trees of Sweet Apple Acre's, she spotted Rainbow Dash waking up in one of the trees. She stopped to greet her.
 
@@ -312,7 +312,7 @@ Oxide thought for a moment before she said, "Pretty much got a full load. It was
 
 Fluttershy sat down at the table and they both enjoyed their tea.
 
-Oxide broke the silence. "I'm gonna take in the regular metal tomorrow, then the next day I'll take in all the specialty metal. It's been building up for a while, I think I have finally have enough for a load."
+Oxide broke the silence. "I'm gonna take in the regular metal tomorrow, then the next day I'll take in all the specialty metal. It's been building up for a while, I think I finally have enough for a load."
 
 "Oh, good luck with that."
 
@@ -320,7 +320,7 @@ Oxide broke the silence. "I'm gonna take in the regular metal tomorrow, then the
 
 Oxide enjoyed the peaceful break after completing her scrap route. Fluttershy had become one of her closest friends, and she always stopped her on her way home from scrapping. She couldn't stay too long, however, as her scrapping day was also the day Fluttershy had tea with Discord.
 
-Oxide hadn't formerly met Discord yet, but she'd seem him around. She thought about staying to have tea with them, but in reality, she wanted to get home after all that trotting.
+Oxide hadn't formally met Discord yet, but she'd seen him around. She thought about staying to have tea with them, but in reality, she wanted to get home after all that trotting.
 
 Both mares finished their tea and Fluttershy took the dishes away.
 
@@ -332,7 +332,7 @@ A minute later, Fluttershy returned with the metal cages. Oxide took them in her
 
 "Goodbye, you're welcome!"
 
-Oxide left the house and carries the cages to her wagons. She placed them in her scrap wagon, and was about to hook herself back to the wagon when Discord appeared.
+Oxide left the house and carried the cages to her wagons. She placed them in her scrap wagon and was about to hook herself back to the wagon when Discord appeared.
 
 "Hello, I don't believe we've met. My name is Discord."
 
@@ -356,25 +356,25 @@ Oxide just shrugged and hooked herself back to her wagons. She made her way home
 
 ***
 
-Oxide pulled the wagon up the ramp that lead to the inlet scale of the junkyard she took her scrap to. She only had one wagon behind her this time, the second was left at home, as one was enough for the amount of metal she had.
+Oxide pulled the wagon up the ramp that led to the inlet scale of the junkyard she took her scrap to. She only had one wagon behind her this time. The second had been left at home, as one was enough for the amount of metal she had.
 
-Normally she would have had to unload and reload her metal at home before coming to the junkyard, but this time she found enough metal in a single night to take in the next day. She did have a few small pieces to add at home, but nothing big.
+Normally she would have had to unload and reload her metal at home before coming to the junkyard, but this time she had found enough metal in a single night to take in the next day. She did have a few small pieces to add at home, but nothing big.
 
 She trotted onto the scale and looked at the weigh master. He was a gray stallion named Weight Watcher. He was always nice to Oxide, and even gave her candies when the holidays came around. He nodded at her, the signal that he had her weight recorded and she could head back into the yard.
 
-Oxide pulled her wagon off the scale and down the ramp on the other side. She continued to the unloading spot as she passed a massive wall on her left and a giant pile of scrap on her right. The wall was fifth-teen ponies tall, and the scrap pile was twenty.
+Oxide pulled her wagon off the scale and down the ramp on the other side. She continued to the unloading spot as she passed a massive wall on her left and a giant pile of scrap on her right. The wall was fifteen ponies tall, and the scrap pile was twenty.
 
-She continued back into the yard and found the unloading spot. It was a divot in the ever expanding pile of scrap. There were already two ponies there unloading. Oxide went in between them and backed her wagon up to the pile. The pony on her left was an earth pony, and they were standing in their wagon unloading by pushing the scrap out of the back with the tailgate down. The pony on her right was a pegasus, who was grabbing their scrap and flying out of their wagon to drop it on the pile.
+She continued back into the yard and found the unloading spot. It was a divot in the ever expanding pile of scrap. There were already two ponies there unloading. Oxide went in between them and backed her wagon up to the pile. The pony on her left was an earth pony, and they were standing in their wagon unloading by pushing the scrap out of the back with the tailgate down. The pony on her right was a pegasus. She was grabbing their scrap and flying out of their wagon to drop it on the pile.
 
 Oxide settled in and put her own tailgate down. She levitated each piece out one at a time, placing it at the bottom of the pile. As she unloaded, she paused occasionally to look around. There was so much stuff in the pile it was almost overwhelming. It had everything she had been bringing with her today, and a lot more.
 
-From metal railings, to full on catwalks, massive appliances, to tiny cogs and nails. This place had just about everything. Some of it even looked in good condition. She tried to not look too much, otherwise she might want to take some of it home. That's against the rules, and she didn't fancy the idea of getting banned.
+From metal railings, to full on catwalks, massive appliances, to tiny cogs and nails. This place had just about everything. Some of it even looked in good condition. She tried to not look too much or else she might have wanted to take some of it home. That was against the rules, and she didn't fancy the idea of getting banned.
 
 The earth pony beside her finished unloading and left with their wagon. Oxide watched and a team of unicorns trotted into the empty spot and used their horns to push the metal they had left into the pile, clearing space for the next pony to unload.
 
-Eventually the cleared the spot on her other side as well. She finished unloading soon after and put her tailgate up before hooking back to her wagon and heading for the outbound scale. She made it the front and waited in line behind the same pegasus that was beside her.
+Eventually they cleared the spot on her other side as well. She finished unloading soon after and put her tailgate up before hooking back to her wagon and heading for the outbound scale. She made it the front and waited in line behind the same pegasus that was beside her.
 
-The pegasus went up to the weigh master and go their ticket and payment before taking their wagon off the scales at the other end. It was Oxide's turn to see how much she made.
+The pegasus went up to the weigh master and got their ticket and payment before taking their wagon off the scales at the other end. Then it was Oxide's turn to see how much she made.
 
 She made it on to the scales and stopped in front of Weight. "Hello, how's your day going?"
 
@@ -408,21 +408,19 @@ After she made it to the bottom of the ramp, she looked at her receipt to see ho
 > Total: 120.96
 > Paid: 121
 
-The first time she saw one of these receipts it took her a moment to understand it. It's pretty simple once you know it though. Gross is your total weight of you, your wagon, and your metal. Tare is the weight of just you and your wagon. Net is the weight of just your metal. Price is the amount of bits for a full ton of two-thousand pounds. Total is how much you made. Price is how much they paid you. They round to the ceiling of what you made.
+The first time she had seen one of these receipts, it had taken her a moment to understand it. It was pretty simple once she learned it, though. Gross was the total weight of you, your wagon, and your metal. Tare was the weight of just you and your wagon. Net was the weight of just your metal. Price was the amount of bits for a full ton of two-thousand pounds, and total was how much you earned. They rounded up when they paid you.
 
-One hundred and twenty one bits is pretty good for a single night in a small town like Ponyville. Oxide smiled as she put her receipt away with the bits in the wooden box on the front of her wagon. She left the junkyard and went home to get ready for tomorrow.
+One hundred and twenty one bits was pretty good for a single night in a small town like Ponyville. Oxide smiled as she put her receipt away with the bits in the wooden box on the front of her wagon. She left the junkyard and went home to get ready for tomorrow.
 
 ***
 
-It was the next day and she was pulling her wagon into a different junkyard this time. She was taking in her specialty metal and had to take it to a different junkyard. The one she went to before only buys regular metal and not separated metal.
+It was the next day and she was pulling her wagon into a different junkyard this time. She was taking in her specialty metal. The junkyard she had been to yesterday only bought regular metal in bulk, not separated metal.
 
-She got into the line for sorted metal and waited for her turn. After she got home yesterday she cleaned and sorted all her specialty metal. She had all kinds of metal: aluminium, copper, brass, wire, cast aluminium, and stainless steel.
+She got into the line for sorted metal and waited for her turn. After she got home yesterday she cleaned and sorted all her specialty metal. She had all kinds of metal: aluminium, copper, brass, wire, cast aluminium, and stainless steel. Specialty metal needed to be cleaned and sorted. They weighed each type individually, and if it wasn't clean, they paid less. Oxide always did her best to clean the metal.
 
-When it came to specialty metal, you had to clean it and sort it. they weighed each type individually and if it wasn't clean you get paid less. Oxide always did her best to clean the metal. She would let the metal build up until it filled a whole wagon.
+This junkyard wasn't in Ponyville, so she wanted to make it worth the trip when she did come. She would let the metal build up until it filled a whole wagon. She trotted forward as the pony in front of her backed their wagon into the first bay that was at the front of the building. Oxide almost always got sent to the second bay, on the side of the building, since she had a longer wagon than most.
 
-This junkyard wasn't in Ponyville, so she wanted to make it worth the trip when she did come. She trotted forward as the pony in front of her backed their wagon into the first bay that was at the front of the building. Oxide almost always got sent to the second bay, on the side of the building, since she had a longer wagon than most.
-
-A pony trotted up to her, he had a black coat with a grey mane. "Hello miss, what type of metal you got?"
+A pony trotted up to her. He had a black coat with a grey mane. "Hello miss, what type of metal you got?"
 
 "A bit of everything, pretty much."
 
@@ -446,41 +444,41 @@ Oxide gave it to her and she looked it over. She said, "I'm going to talk with m
 
 She waited in the room and looked around. She saw a box of free candy for customers and took one and popped it in her mouth. It was good.
 
-The cashier returned with a smile. "I was able to get you some better prices. Your payout went from eleven-hundred bits to eighteen-hundred."
+The cashier returned with a smile. "I was able to get you some better prices. Your payout went from eleven hundred bits to eighteen hundred."
 
 Oxide nodded with a smile.
 
 The cashier typed the number into a machine, and a moment later bits started spitting out into a box. The bits kept coming for a long time. It was a lot of bits.
 
-It ended up filling two and a half boxes. The cashier gave Oxide back her receipt and the boxes of bits. Oxide user her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
+It ended up filling two and a half boxes. The cashier gave Oxide back her receipt and the boxes of bits. Oxide used her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
 
 > Manehatten Metal Inc.
 > 346 Copper Ct.
 > Manehatten, 32749
->
-> DATE: 05/04/1005
-> CONTROL: 746543
-> RECEIVER: 358867
->
+> 
+> DATE: 05/04/1005
+> CONTROL: 746543
+> RECEIVER: 358867
+> 
 > COMMODITY
->	GROSS TARE NET PRICE/ UM AMOUNT
->
+>     GROSS TARE  NET PRICE/UM AMOUNT
+> 
 > ALUMINIUM
->	400 0 400 0.75/LB 300.00
+>       400     0  400   0.75/LB   300.00
 > COPPER
->	180 5 175 2.57/LB 450.00
+>       180     5  175   2.57/LB   450.00
 > BRASS
->	200 10 190 1.32/LB 250.00
+>       200    10  190   1.32/LB   250.00
 > WIRE
->	350 50 300 0.67/LB 200.00
+>       350    50  300   0.67/LB   200.00
 > CAST ALUMINIUM
->	500 40 460 0.76/LB 350.00
+>       500    40  460   0.76/LB   350.00
 > STAINLESS STEEL
->	310 20 290 0.93/LB 271.00
->
-> TOTAL 1,821.00
+>       310    20  290   0.93/LB   271.00
+> 
+> TOTAL 1,821.00
 
-While eighteen hundred was a lot of bits, she didn't come her that often. It usually took her six months to a year to get enough specialty metal to take it. She felt proud of it though. It was a lot of work to collect, sort, clean, and take it all in to the junkyard.
+While eighteen hundred was a lot of bits, she didn't come here that often. It usually took her six months to a year to get enough specialty metal to take it. She felt proud of it though. It was a lot of work to collect, sort, clean, and take it all in to the junkyard.
 
 She trotted home with a smile, stopping to tell Fluttershy the good news. She had her tea again before going home excited to start the cycle all over again next week. She loved scrap metal. She loved recycling. She loved money.
 
