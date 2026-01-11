@@ -396,24 +396,24 @@ She took it started off the scale. "You too!"
 
 After she made it to the bottom of the ramp, she looked at her receipt to see how much she made.
 
-> Ponyville Recycling Co.
-> 7878 Reuse Way
+> Ponyville Recycling Co.  
+> 7878 Reuse Way  
 > Ponyville, 27669
 >
-> Receipt: 6263
-> Customer: 657
-> Operator: Admin
-> Date: 05/03/1005
+> Receipt: 6263  
+> Customer: 657  
+> Operator: Admin  
+> Date: 05/03/1005  
 > Time: 10:22:45 AM
 >
-> Weigh In: 05/03/1005 10:00:27 AM
+> Weigh In: 05/03/1005 10:00:27 AM  
 > Weigh Out: 05/03/1005 10:22:03 AM
 >
-> Gross: 2,132
-> Tare: 980
-> Net: 1,152
-> Price: 210.0000/NT
-> Total: 120.96
+> Gross: 2,132  
+> Tare: 980  
+> Net: 1,152  
+> Price: 210.0000/NT  
+> Total: 120.96  
 > Paid: 121
 
 The first time she had seen one of these receipts, it had taken her a moment to understand it. It was pretty simple once she learned it, though. Gross was the total weight of you, your wagon, and your metal. Tare was the weight of just you and your wagon. Net was the weight of just your metal. Price was the amount of bits for a full ton of two-thousand pounds, and total was how much you earned. They rounded up when they paid you.
@@ -460,28 +460,28 @@ The cashier typed the number into a machine, and a moment later bits started spi
 
 It ended up filling two and a half boxes. The cashier gave Oxide back her receipt and the boxes of bits. Oxide used her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
 
-> Manehatten Metal Inc.
-> 346 Copper Ct.
+> Manehatten Metal Inc.  
+> 346 Copper Ct.  
 > Manehatten, 32749
 > 
-> DATE: 05/04/1005
-> CONTROL: 746543
+> DATE: 05/04/1005  
+> CONTROL: 746543  
 > RECEIVER: 358867
 > 
-> COMMODITY
+> COMMODITY  
 >     GROSS TARE  NET PRICE/UM AMOUNT
 > 
-> ALUMINIUM
->       400     0  400   0.75/LB   300.00
-> COPPER
->       180     5  175   2.57/LB   450.00
-> BRASS
->       200    10  190   1.32/LB   250.00
-> WIRE
->       350    50  300   0.67/LB   200.00
-> CAST ALUMINIUM
->       500    40  460   0.76/LB   350.00
-> STAINLESS STEEL
+> ALUMINIUM  
+>       400     0  400   0.75/LB   300.00  
+> COPPER  
+>       180     5  175   2.57/LB   450.00  
+> BRASS  
+>       200    10  190   1.32/LB   250.00  
+> WIRE  
+>       350    50  300   0.67/LB   200.00  
+> CAST ALUMINIUM  
+>       500    40  460   0.76/LB   350.00  
+> STAINLESS STEEL  
 >       310    20  290   0.93/LB   271.00
 > 
 > TOTAL 1,821.00
