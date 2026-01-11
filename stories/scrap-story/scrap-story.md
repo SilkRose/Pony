@@ -28,7 +28,15 @@ A few minutes later and Applejack stepped out of their family house and made her
 
 Applejack opened the barn door to reveal an old massive black wood-burning stove. The front door was hanging on with only one hinge, and the smoke stack on top was all bent up. There were still ashes in the bottom and even a half burnt log. It sat there in a daring way, waiting for somepony to lift it and experience the ensuring back pain.
 
-"Here she is. Big Mac nearly broke his back getting this thing out of the basement. He's inside resting up. I'm sure we can get it in your wagon here if we work together."
+"Here she is. Big Mac nearly broke his back getting this thing out of the basement. He's inside resting up."
+
+"I think I can fix this up and resell it."
+
+Applejack shook her head. "It has a hairline crack. There's nothing to do with it now except scrap it."
+
+"In that case, it goes in my first wagon here."
+
+"I'm sure we can get it in if we work together."
 
 Oxide snickered. "Reminds me of a saying my dad used to tell me: Lift with your horn, not with your legs."
 
