@@ -8,6 +8,8 @@ A story about scrap metal in Equestria.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading and helping with ideas.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for proofreading.
 
 ## Short Description:
