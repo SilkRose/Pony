@@ -26,7 +26,7 @@ A few minutes later and Applejack stepped out of their family house and made her
 
 "Yes, ma'am." Oxide nodded.
 
-Applejack opened the barn door to reveal an old massive black wood-burning stove. The front door was hanging on with only one hinge, and the smoke stack on top was all bent up. There were still ashes in the bottom and even a half burnt log. It sat there in a daring way, waiting for somepony to lift it and experience the ensuring back pain.
+Applejack opened the barn door to reveal an old, massive wood-burning stove, made of black cast iron. The front door was hanging on with only one hinge, and the smoke stack on top was all bent up. There were still ashes in the bottom and even a half burnt log. It sat there in a daring way, waiting for somepony to lift it and experience the ensuing back pain.
 
 "Here she is. Big Mac nearly broke his back getting this thing out of the basement. He's inside resting up."
 
@@ -42,7 +42,7 @@ Oxide snickered. "Reminds me of a saying my dad used to tell me: Lift with your 
 
 Applejack chuckled. "Yea, we probably should have used a dolly. You wanna get one side and I'll get the other?"
 
-"I think I can get it with my magic," Oxide said as she lit up her horn, a glow appearing around the stove. With a little bit of straining, she lifted it up and carefully placed it in the center of her first wagon, the one she was pulling directly.
+"I think I can get it with my magic," Oxide said as she lit up her horn and a glow appeared around the stove. With a little bit of straining, she lifted it up and carefully placed it in the center of her first wagon, the one she was pulling directly.
 
 Applejack closed her mouth and wiped away the shocked expression from her face. "Wow, you got some strong magic on you there girl."
 
@@ -164,15 +164,15 @@ Oxide nodded before she unhooked and parked her wagons. "Lead the way."
 
 She followed Twilight into her house and down into the basement. At the bottom of the steps were a pair of green metal boxes with lights and wires all over them. One was shorter and had hoof locks and a weird helmet covered in lights sitting on top of it, while the other was taller and had a ream of paper coming out of it.
 
-Twilight gestured at the pair. "This is test equipment I tried to use to study my friend when I didn't believe what she was telling me. They didn't help me and only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
+Twilight gestured at the pair. "This is test equipment I used to study my friend when I didn't believe what she was telling me. It didn't help, and now it only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
 
 "Thanks Twilight, I'll take them. I won't let them go to waste. I'll ether figure out a use for them, or strip them for parts."
 
 "Thank you."
 
-Twilight picked up the larger of the two pieces with her magic, while Oxide picked up the smaller one and the helmet in her own magic. They carried them together since the pieces were connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guided them, and they set them down in the good things wagon on their backs in the front right corner.
+Twilight picked up the larger of the two pieces with her magic, while Oxide picked up the smaller one and the helmet in her own magic. They carried them together since the pieces were connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guided them, and they set the pieces down on their backs in the front right corner of the good things wagon.
 
-Oxide turned to say thank you again to Twilight but was met with a hug, and hugged back.
+Oxide turned to thank Twilight again but was met with a hug, and she hugged back.
 
 "Thank you for taking them, I'll be glad to not be reminded of that time so often from now on."
 
@@ -244,11 +244,11 @@ Oxide hugged back. "Thanks for giving it to me. It's going to help a bunch with 
 
 After the hug was over, they both waved goodbye and Oxide hooked herself to her wagons and went for her last rows of houses.
 
-The first section had a lot of trash cans out, but only one object of interest, an old rusty push mower at the seventh house. She stopped and levitated it into her wagon, placing it sideways leaning against the left wall.
+The first section had a lot of trash cans out, but only one object of interest: an old rusty push mower at the seventh house. She stopped and levitated it into her wagon, placing it sideways leaning against the left wall.
 
 She continued on to the next row of houses, crossing the alleyway. There she found more stuff sitting by the cans. The second house had a trio of copper pipes leaning against the trash. She put them in the good stuff wagon and headed for the eleventh house. There she found a big metal furnace.
 
-She stopped and unhooked herself. This was going to need some rearranging to fit. She took the strap off holding the weight bench down, and moved the bench to the ground. She pushed the wood stove as far to the left side of the wagon as she could, until it was pressing against the push mower.
+She stopped and unhooked herself. This was going to need some rearranging to fit. She took off the strap holding the weight bench down, and moved the bench to the ground. She pushed the wood stove as far to the left side of the wagon as she could, until it was pressing against the push mower.
 
 She moved all of the little scraps to the left side either in front of or behind the stove, making as much room for the furnace as she could. Once clear, she levitated the furnace and placed it down in the newly cleared area on the right side of the wagon. The furnace, placed on its side, ran the entire length of the wagon.
 
@@ -376,9 +376,9 @@ She continued back into the yard and found the unloading spot. It was a divot in
 
 Oxide settled in and put her own tailgate down. She levitated each piece out one at a time, placing it at the bottom of the pile. As she unloaded, she paused occasionally to look around. There was so much stuff in the pile it was almost overwhelming. It had everything she had been bringing with her today, and a lot more.
 
-From metal railings, to full on catwalks, massive appliances, to tiny cogs and nails. This place had just about everything. Some of it even looked in good condition. She tried to not look too much or else she might have wanted to take some of it home. That was against the rules, and she didn't fancy the idea of getting banned.
+From metal railings, to full on catwalks; massive appliances, to tiny cogs and nails. This place had just about everything. Some of it even looked in good condition. She tried to not look too much or else she might have wanted to take some of it home. That was against the rules, and she didn't fancy the idea of getting banned.
 
-The earth pony beside her finished unloading and left with their wagon. Oxide watched and a team of unicorns trotted into the empty spot and used their horns to push the metal they had left into the pile, clearing space for the next pony to unload.
+The earth pony beside her finished unloading and left with their wagon. Oxide watched as a team of unicorns trotted into the empty spot and used their horns to push the metal they had left into the pile, clearing space for the next pony to unload.
 
 Eventually they cleared the spot on her other side as well. She finished unloading soon after and put her tailgate up before hooking back to her wagon and heading for the outbound scale. She made it the front and waited in line behind the same pegasus that was beside her.
 
