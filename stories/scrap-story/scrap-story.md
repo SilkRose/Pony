@@ -1,6 +1,6 @@
 # Scrap Story
 
-Iron Oxide levitated down the tongue of her wagon and clasped it to her harness as she got ready for the day's scrap route. Fiddling with the straps around her barrel, she secured everything as she double checked her check list in her head.
+Iron Oxide levitated down the tongue of her wagon and clasped it to her harness as she got ready for the day's scrap route. Fiddling with the straps around her barrel, she secured everything as she double checked the check list in her head.
 
 *Straps: check.*
 
