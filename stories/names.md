@@ -174,3 +174,4 @@ This file contains random story names that don't have enough thought to have the
 - Surrender unto Scrap
 - Exposure to the Elements
 - Gilding the Filly
+- New Sentences
