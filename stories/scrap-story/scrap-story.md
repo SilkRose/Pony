@@ -48,7 +48,7 @@ Applejack closed her mouth and wiped away the shocked expression from her face. 
 
 Oxide blushed a touch. "Thanks, I get it from my dad."
 
-"Thanks for taking it. I don't know if Big Mac could have made it much farther with an intact back."
+"Thanks for taking it. I don't know if Big Mac could have moved it much farther and still crawl back in one piece."
 
 Oxide nodded with a smile. "Thanks for giving it to me."
 
@@ -112,7 +112,7 @@ Rarity lead her right to the old machine. "Here it is, darling. I hope it helps 
 
 Oxide lifted it in her magic. "These old sewing machines are heavier than you might think."
 
-Rarity chucked. "Oh, I know darling. When I was a little filly, my dad wanted to take my favorite sewing machine and use it as a boat anchor when it broke. I was having none of it, however. I simply suggested we should use him as the boat anchor instead."
+Rarity chucked. "Oh, I know darling. When I was a little filly, and my favorite sewing machine broke, my father wanted to tie a rope to it and use it as an anchor! I was having none of it, of course. I simply suggested we use him as the anchor instead."
 
 Oxide laughed. "Glad you stood up for yourself."
 
@@ -174,7 +174,7 @@ Twilight picked up the larger of the two pieces with her magic, while Oxide pick
 
 Oxide turned to thank Twilight again but was met with a hug, and she hugged back.
 
-"Thank you for taking them, I'll be glad to not be reminded of that time so often from now on."
+"Thank you for taking them! Now I can just forget that whole thing ever happened."
 
 "I'm glad I could help. Thank you, Twilight."
 
