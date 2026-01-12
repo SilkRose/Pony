@@ -162,7 +162,7 @@ Twilight smirked. "I would never, but actually, that does remind me. I do have s
 
 Oxide nodded before she unhooked and parked her wagons. "Lead the way."
 
-She followed Twilight into her house and down into the basement. At the bottom of the steps were a pair of green metal boxes with lights and wires all over them. One was shorter and had hoof locks and a weird helmet covered in lights sitting on top of it, while the other was taller and had a ream of paper coming out of it.
+After chocking her wagon, she followed Twilight into her house and down into the basement. At the bottom of the steps were a pair of green metal boxes with lights and wires all over them. One was shorter and had hoof locks and a weird helmet covered in lights sitting on top of it, while the other was taller and had a ream of paper coming out of it.
 
 Twilight gestured at the pair. "This is test equipment I used to study my friend when I didn't believe what she was telling me. It didn't help, and now it only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
 
@@ -336,7 +336,7 @@ Fluttershy said, "I'll go get those cages."
 
 Fluttershy left and Oxide got up and waited for her at the front door.
 
-A minute later, Fluttershy returned with the metal cages. Oxide took them in her magic and said, "Goodbye, Fluttershy. Thank you for the metal."
+A minute later, Fluttershy returned with the metal cages. Oxide took them in her magic and said, "Goodbye, Fluttershy. Thank you for the metal. And the tea!"
 
 "Goodbye, you're welcome!"
 
