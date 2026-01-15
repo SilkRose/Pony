@@ -164,7 +164,7 @@ Oxide nodded before she unhooked and parked her wagons. "Lead the way."
 
 After chocking her wagon, she followed Twilight into her house and down into the basement. At the bottom of the steps were a pair of green metal boxes with lights and wires all over them. One was shorter and had hoof locks and a weird helmet covered in lights sitting on top of it, while the other was taller and had a ream of paper coming out of it.
 
-Twilight gestured at the pair. "This is test equipment I used to study my friend when I didn't believe what she was telling me. It didn't help, and now it only remind me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
+Twilight gestured at the pair. "This is test equipment I used to study my friend when I didn't believe what she was telling me. It didn't help, and now it only reminds me of when I was a bad friend. I don't know what you could use them for, but I want them out of here."
 
 "Thanks Twilight, I'll take them. I won't let them go to waste. I'll ether figure out a use for them, or strip them for parts."
 
