@@ -444,7 +444,7 @@ She was a pink unicorn with a light blue mane. "Hello, what do you wanna do firs
 
 The scale operator took the metal in her own magic and trotted it into the building, where she sat it on the scale. After she weighed it, she levitated it into a specific bin behind her in the building.
 
-They did this same procedure for every other type of metal Oxide brought. After they finished, the scale operator gave Oxide a receipt with all the weights and prices on it. She took it and hooked herself back to her wagon.
+They did this same procedure for every other type of metal Oxide brought. After they finished, the scale operator gave Oxide a ticket with all the weights and prices on it. She took it and hooked herself back to her wagon.
 
 She pulled her wagon out front and parked it in an empty spot before trotting back to the building. She entered a small room to the left of the first unloading bay. Inside was a cashier, who asked for her ticket.
 
@@ -458,7 +458,7 @@ Oxide nodded with a smile.
 
 The cashier typed the number into a machine, and a moment later bits started spitting out into a box. The bits kept coming for a long time. It was a lot of bits.
 
-It ended up filling two and a half boxes. The cashier gave Oxide back her receipt and the boxes of bits. Oxide used her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
+It ended up filling two and a half boxes. The cashier gave Oxide her receipt and the boxes of bits. Oxide used her magic and carried them out to her wagon. She put the boxes in the wagon and looked at the receipt as she hooked herself to the wagon.
 
 > Manehatten Metal Inc.  
 > 346 Copper Ct.  
