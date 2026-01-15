@@ -126,7 +126,7 @@ With that, Oxide hooked herself back to the wagon and headed for the next row of
 
 She trotted past every house in this row, only seeing four cans outside of the houses. She crossed the street to the new row and immediately found something at the second house. It was a coil of wire. She levitated it into her good stuff wagon and went on her way.
 
-At the third house after that she stopped at a pile to inspect it. Most of it was just trash and unusable plastic, but there were a few bits of metal: a couple of old umbrellas, a single chain, and two metal stakes. She levitated them all into her scrap wagon, placing them on top of the gold club bag.
+At the third house after that she stopped at a pile to inspect it. Most of it was just trash and unusable plastic, but there were a few bits of metal: a couple of old umbrellas, a short length of chain, and two metal stakes. She levitated them all into her scrap wagon, placing them on top of the gold club bag.
 
 She continued on, making it to the next row of houses before finding anything of interest. A pegasus mare waved her down.
 
