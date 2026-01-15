@@ -380,7 +380,7 @@ From metal railings, to full on catwalks; massive appliances, to tiny cogs and n
 
 The earth pony beside her finished unloading and left with their wagon. Oxide watched as a team of unicorns trotted into the empty spot and used their horns to push the metal they had left into the pile, clearing space for the next pony to unload.
 
-Eventually they cleared the spot on her other side as well. She finished unloading soon after and put her tailgate up before hooking back to her wagon and heading for the outbound scale. She made it the front and waited in line behind the same pegasus that was beside her.
+Eventually they cleared the spot on her other side as well. She finished unloading soon after, and put her tailgate up before hooking back to her wagon and heading for the outbound scale. She made it the front and waited in line behind the same pegasus that was beside her.
 
 The pegasus went up to the weigh master and got their ticket and payment before taking their wagon off the scales at the other end. Then it was Oxide's turn to see how much she made.
 
@@ -416,7 +416,7 @@ After she made it to the bottom of the ramp, she looked at her receipt to see ho
 > Total: 120.96  
 > Paid: 121
 
-The first time she had seen one of these receipts, it had taken her a moment to understand it. It was pretty simple once she learned it, though. Gross was the total weight of you, your wagon, and your metal. Tare was the weight of just you and your wagon. Net was the weight of just your metal. Price was the amount of bits for a full ton of two-thousand pounds, and total was how much you earned. They rounded up when they paid you.
+The first time she had seen one of these receipts, it had taken her a moment to understand it. It was pretty simple once she learned it, though. Gross was the total weight of you, your wagon, and your metal. Tare was the weight of just you and your wagon. Net was the weight of just your metal. Price was the amount of bits for a full ton of two thousand pounds, and total was how much you earned. They rounded up when they paid you.
 
 One hundred and twenty one bits was pretty good for a single night in a small town like Ponyville. Oxide smiled as she put her receipt away with the bits in the wooden box on the front of her wagon. She left the junkyard and went home to get ready for tomorrow.
 
