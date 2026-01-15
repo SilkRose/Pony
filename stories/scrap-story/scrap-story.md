@@ -170,7 +170,7 @@ Twilight gestured at the pair. "This is test equipment I used to study my friend
 
 "Thank you."
 
-Twilight picked up the larger of the two pieces with her magic, while Oxide picked up the smaller one and the helmet in her own magic. They carried them together since the pieces were connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guided them, and they set the pieces down on their backs in the front right corner of the good things wagon.
+Twilight picked up the larger of the two pieces with her magic, while Oxide picked up the smaller one and the helmet in her own magic. She was used to ponies mentioning how strong her magic was, but Twilight was levitating her half like it was a sack of feathers. They carried them together since the pieces were connected to each other. They brought them upstairs and out the front door and to the wagons. Oxide guided them, and they set the pieces down on their backs in the front right corner of the good things wagon.
 
 Oxide turned to thank Twilight again but was met with a hug, and she hugged back.
 
@@ -440,7 +440,11 @@ A minute later and the pony in bay two left. Oxide backed her wagon and and park
 
 She was a pink unicorn with a light blue mane. "Hello, what do you wanna do first?"
 
-"Let's do aluminium first." Oxide used her magic and set all the aluminium on the ground. It was mostly random small bits, like plates, rods, pots, pans, and rivets.
+"Let's do aluminium first."
+
+"Sure. Uh, you mean 'aluminum'?"
+
+"Right." Oxide used her magic and set all the aluminium on the ground. It was mostly random small bits, like plates, rods, pots, pans, and rivets.
 
 The scale operator took the metal in her own magic and trotted it into the building, where she sat it on the scale. After she weighed it, she levitated it into a specific bin behind her in the building.
 
