@@ -12,19 +12,17 @@ Iron Oxide levitated down the tongue of her wagon and clasped it to her harness 
 
 *Secure the trailer tongue: check.*
 
-[I SHALL WRITE MY COMMENTS IN THIS WAY SO AS TO PRESERVE RELATIVE TEXTUAL LOCALITY AND THEREFORE ATTRIBUTABILITY THEREOF. HERE, I HAVE REWORDED THE ITEMS ON THE CHECKLIST BECAUSE IT WOULD BE HIGHLY UNUSUAL FOR SOMEONE TO STRUCTURE THEIR CHECKLIST AS A SERIES OF PERFECTIVES INSTEAD OF IMPERATIVES. A VIABLE ALTERNATIVE TO IMPERATIVES IS A PATTERN OF THE FORM "HARNESS: SECURED." THIS WOULD PERHAPS BE CLOSER TO YOUR ORIGINAL WORDING.]
-
-The rust-colored unicorn took off at a slow trot. Two hoofmade wagons followed behind her: one for holding scrap metal, and the other for holding [IT WOULD BE LEGAL TO OMIT THE REPEATING VERB AFTER ITS FIRST OCCURRENCE SO LONG AS INTELLIGBILITY IS NOT IMPAIRED. THIS IS CALLED ELLIPSIS. DO IT IF YOU THINK IT AESTHETICALLY SUPERIOR.] specialty metal and good finds. Unlike the typical wagons you saw around Ponyville, these were wider and longer. The bed of such a wagon sat lower to the ground for stability, while the walls were higher for holding more metal. Each one had a tailgate for easily loading up heavier objects when needed. The second wagon was tethered to the first, and the first one had a box for spare parts and tools nailed to the front, just above the tongue.
+The rust-colored unicorn took off at a slow trot. Two hoofmade wagons followed behind her: one for holding scrap metal, and the other for holding specialty metal and good finds. Unlike the typical wagons you saw around Ponyville, these were wider and longer. The bed of such a wagon sat lower to the ground for stability, while the walls were higher for holding more metal. Each one had a tailgate for easily loading up heavier objects when needed. The second wagon was tethered to the first, and the first one had a box for spare parts and tools nailed to the front, just above the tongue.
 
 Her journey started on the outskirts of Ponyville, where she would go to Sweet Apple Acres first. The Apple family were always great friends to her. They had given her a lot of metal over the years, and she helped them whenever they needed it, not that they asked much. Last week, they had told her to come back next week as they'd have something heavy for her. While they didn't say what it was, she wasn't one to turn down free metal.
 
 She made it to the first turn on her route, the dirt path that Sweet Apple Acres was on. She passed by countless apple trees as the wind blew her messy dark brown mane around. Her light blue eyes scanned the trees as she passed. No Rainbow Dash in sight.
 
-Making it to the entrance, she trotted down the path that led to the family's barn. She stopped at the door and used her magic to chock the wheels on her wagon. The ground she was parked on was sloped. With her unhooking herself from the wagons, she needed something to keep them from rolling away. [IN LIGHT OF THE GROUND BEING SLOPED, THIS SENTENCE COULD BE REMOVED. IT MAY ALSO BE RETAINED WITH LITTLE TO NO HARM, WHICH IS THE REASON FOR MY RETAINING IT. FINAL CHOICE IS YOURS.]
+Making it to the entrance, she trotted down the path that led to the family's barn. She stopped at the door and used her magic to chock the wheels on her wagon. The ground she was parked on was sloped. With her unhooking herself from the wagons, she needed something to keep them from rolling away.
 
 She hollered for one of them. "Applejack! Big Mac!"
 
-A few minutes later, Applejack stepped out of their family house and made her way over to the barn. "Hello there, Oxide. I take it, you're here for the metal we've promised?" [IT WOULD BE PERMISSIBLE, IF LESS STRICTLY OBEDIENT TO THE RULES OF PUNCTUATION, TO OMIT THE COMMA AFTER THE INTRODUCTORY CLAUSE, AS YOU HAVE DONE; ITS INCLUSION IS MY PERSONAL PREFERENCE. REVERT IF YOU SO CHOOSE.]
+A few minutes later, Applejack stepped out of their family house and made her way over to the barn. "Hello there, Oxide. I take it, you're here for the metal we've promised?"
 
 "Yes, ma'am," Oxide nodded.
 
@@ -40,17 +38,17 @@ Applejack shook her head. "It has a hairline crack. There's nothing to do with i
 
 "I'm sure we can get it in if we work together."
 
-Oxide snickered. "Reminds me of a saying my dad used to tell me: Lift with your horn, not with your legs." [IT IS LEGAL AND PERHAPS ADVISABLE TO SEPARATE TAGS FROM TRAILING DIRECT SPEECH WITH A COMMA INSTEAD OF A FULL STOP. IT IS LEGAL TO USE THE FULL STOP AS WELL, THOUGH. YOU CONSISTENTLY USE THE FULL STOP; I SHALL REFRAIN FROM INFRINGING ON YOUR STYLE ASIDE FROM WRITING THIS BLANKET COMMENT.]
+Oxide snickered. "Reminds me of a saying my dad used to tell me: Lift with your horn, not with your legs."
 
-Applejack chuckled. "Yeah, we probably should have used a dolly. You wanna get one side and I'll get the other?" [NOW, STRICTLY SPEAKING, THIS IS A RUN-ON SENTENCE. HOWEVER, IT IS IN DIRECT SPEECH, SO I DEEMED IT ADMISSIBLE. EXERCISE YOUR JUDGEMENT.]
+Applejack chuckled. "Yeah, we probably should have used a dolly. You wanna get one side and I'll get the other?"
 
-"I think I can get it with my magic," Oxide said as she lit up her horn, and a glow appeared around the stove. With a little bit of straining, she lifted it up and carefully placed it in the center of her first wagon, the one she was pulling directly. [THE CLARIFICATION OF THE FIRST WAGON BEING DIRECTLY PULLED BY OXIDE IS, IN MY OPINION, ENTIRELY UNNECESSARY, AS IT IS BOTH A FACT ALREADY ESTABLISHED EARLIER AND A NATURAL ASSUMPTION OTHERWISE.]
+"I think I can get it with my magic," Oxide said as she lit up her horn, and a glow appeared around the stove. With a little bit of straining, she lifted it up and carefully placed it in the center of her first wagon.
 
 Applejack closed her mouth and wiped away the shocked expression from her face. "Wow, you got some strong magic on you there, girl."
 
 Oxide blushed a touch. "Thanks, I get it from my dad."
 
-"Thanks for taking it. I don't know if Big Mac could have moved it much farther and still crawled back in one piece." [TENSE COLLISION. "STILL CRAWLED" IS AN ELISION OF "COULD HAVE STILL CRAWLED", WHICH EVIDENTLY DOES NOT WORK WHEN "CRAWL" IS A BARE INFINITIVE.]
+"Thanks for taking it. I don't know if Big Mac could have moved it much farther and still crawled back in one piece."
 
 Oxide nodded with a smile. "Thanks for giving it to me."
 
@@ -64,7 +62,7 @@ Her wagons were a point of pride. She had made them herself out of scrap lumber 
 
 Her cutie mark was a pulley and a gear connected by a belt. She got it when she designed a rudimentary transmission for a wooden cart she built with her father. Ever since she had gotten it, she hadn't stopped making things. She had the most experience with wagons, since she used them so much for scrap metal, but she also made her own jacks and jack stands, wheels, and was even dabbling in making proper brakes for her wagons to make them safer.
 
-She got to the edge of the town proper and started her route in full. [OMITTING THE DEFINITE ARTICLE WOULD ALSO BE LEGAL.] Going to the nearest alleyway behind a row of houses, she started down it, looking for trash cans. Usually, she didn't look in the trash cans themselves, because ponies would put metal and other larger objects beside the cans.
+She got to the edge of the town proper and started her route in full. Going to the nearest alleyway behind a row of houses, she started down it, looking for trash cans. Usually, she didn't look in the trash cans themselves, because ponies would put metal and other larger objects beside the cans.
 
 Making it past six houses without any cans out and seven houses with cans but no metal, she found a house with a score. Stopping at that house, she saw a stack of metal buckets. Picking them up in her magic, she examined them. They all had rust, and most of them also had holes in the bottom. She levitated them backward and placed them in the corner of her wagon before moving on.
 
@@ -74,11 +72,11 @@ Crossing the street, she stopped at the first house in the row. It had an old me
 
 Continuing on her way, she passed eight more houses before she saw anything more of interest. She stopped to investigate an object next to the trash. Levitating it in her magic, she realized it was plastic junk and placed it back down before trotting away.
 
-Two houses from that, she found a golf club bag with many of the clubs still inside. She inspected the bag, finding it to be in bad shape. The clubs, however, were metal and could be scrapped. She placed the bag and clubs in her wagon, laying them down on top of the metal chairs. ["AND CLUBS" COULD WELL BE OMITTED, AS THEIR PRESENCE IN THE BAG WOULD BE AMPLY IMPLIED.]
+Two houses from that, she found a golf club bag with many of the clubs still inside. She inspected the bag, finding it to be in bad shape. The clubs, however, were metal and could be scrapped. She placed them in her wagon, laying them down on top of the metal chairs.
 
 She made it all the way to the last house without finding anything else. But at that house, a pony stopped her.
 
-He was a white earth pony stallion and he asked, "Hello, miss. Do you take scrap metal?" [LEGAL TO RETAIN THE COMMA; HERE, THE CLAUSES ARE SHORT, CLOSELY RELATED, AND CONNECTED BY A COORDINATING CONJUNCTION, SO IT IS LIKELY LEGAL TO OMIT IT AS WELL, WHICH I HAVE DONE.]
+He was a white earth pony stallion and he asked, "Hello, miss. Do you take scrap metal?"
 
 Oxide nodded. "Yes, what do you have?"
 
@@ -98,13 +96,13 @@ With that, the stallion went back into his house, and Oxide trotted along her wa
 
 There were nine houses with trash cans out in this row, and a few had random junk out, but none of it was metal. She quickly made her way to the next row.
 
-The first house had its cans out and a couple of bed rails sitting in front of them. She levitated them into her wagon running along the right wall before moving on down the alley. [THE PARTICIPLE "RUNNING" LOOKS A MITE SUSPECT TO ME HERE. PLEASE CLARIFY INTENT.] She didn't find anything until the last house in the row. This one also had bed rails out, but twice as many this time. She placed them with the others in her wagon before heading off towards Carousel Boutique.
+The first house had its cans out and a couple of bed rails sitting in front of them. She levitated them into her wagon laying against the right wall before moving on down the alley. She didn't find anything until the last house in the row. This one also had bed rails out, but twice as many this time. She placed them with the others in her wagon before heading off towards Carousel Boutique.
 
-She made it to the boutique just in time to see Rarity taking out the trash. Oxide smiled at her. "Hi Rarity, how's it going?" She stopped next to Rarity. [THIS PARAGRAPH IS PARTICULARLY AFFLICTED WITH WORD REPETITIONS. `"Hi Rarity, how's it going?" She stopped next to Rarity.` REALLY DOESN'T READ ALL THAT GREAT, TO BE HONEST. I ADVISE GIVING THIS A ONCE OVER. SHOULD YOU SO DESIRE, I CAN SUPPLY MY OWN VERSION.]
+She made it to the boutique just in time to see Rarity taking out the trash. Oxide smiled at her. "Hi Rarity, how's it going?" She stopped next to her.
 
 "It's going good. How are you doing, darling?" Rarity asked with a smile of her own.
 
-"It's going good, just doing the rounds. Got a decent amount so far, but I'm not full yet." Oxide gestured to her half-loaded wagon. [I HAVE TO SOMEWHAT QUESTION OXIDE RESPONDING TO RARITY WITH THE EXACT SAME PHRASE SHE USED.]
+"I'm alright, just doing the rounds. Got a decent amount so far, but I'm not full yet." Oxide gestured to her half-loaded wagon.
 
 "Oh, I actually think I might have something for you. I've got one of my old sewing machines inside; I've been meaning to throw it out, but you happened along at the perfect time."
 
@@ -120,7 +118,7 @@ Oxide laughed. "Glad you stood up for yourself."
 
 Rarity smiled. "Me too."
 
-Oxide followed Rarity back outside and placed the sewing machine into the front of her wagon, on top the chairs, leaning against the golf clubs. [AT THE FRONT OF HER WAGON, PERHAPS?] "Thanks again, Rarity. I'll see you around."
+Oxide followed Rarity back outside and placed the sewing machine into the front of her wagon, on top the chairs, leaning against the golf clubs. "Thanks again, Rarity. I'll see you around."
 
 "Thank you, darling!"
 
@@ -128,7 +126,7 @@ With that, Oxide hooked herself back to the wagon and headed for the next row of
 
 She trotted past every house in this row, only seeing four cans outside of the houses. She crossed the street to the new row and immediately found something at the second house. It was a coil of wire. She levitated it into her good stuff wagon and went on her way.
 
-At the third house after that, she stopped at a pile to inspect it. Most of it was just trash and unusable plastic, but there were a few bits of metal: a couple of old umbrellas, a short length of chain, and two metal stakes. She levitated them all into her scrap wagon, placing them on top of the golf club bag. [FORGIVE THE SLIGHTLY NONTOPICAL COMMENT, BUT I FIND THIS TYPO EXTREMELY FUNNY. WITH THE GOLF CLUBS SUDDENLY BECOMING GOLD CLUBS, OXIDE WAS WELL ON HER TRACK TO BECOMING REASONABLY WEALTHY BEFORE I CAME ALONG.]
+At the third house after that, she stopped at a pile to inspect it. Most of it was just trash and unusable plastic, but there were a few bits of metal: a couple of old umbrellas, a short length of chain, and two metal stakes. She levitated them all into her scrap wagon, placing them on top of the golf club bag.
 
 She continued on, making it to the next row of houses before finding anything of interest. A pegasus mare waved her down.
 
@@ -176,7 +174,7 @@ Twilight picked up the larger of the two pieces with her magic, while Oxide pick
 
 Oxide turned to thank Twilight again but was met with a hug, and she hugged back.
 
-"Thank you for taking them! Now I can just forget that whole thing ever happened." [UNSURE IF IN CHARACTER FOR TWILIGHT. CONSULT PEOPLE OF SUPERIOR CHARACTER SENSE.]
+"Thank you for taking them! Now I can just forget that whole thing ever happened."
 
 "I'm glad I could help. Thank you, Twilight."
 
@@ -214,7 +212,7 @@ She placed the weights on the floor of the wagon behind the wood stove. She push
 
 She spotted something sitting on the trash can at the fifth house and stopped to look at it. It was a small wooden box designed for holding cigars. She opened it with her magic and found a bunch of antique coins. They were from all over Equestria and from various time periods. She didn't know what they might be worth, but she knew she was going to find out. She placed them in the wooden box she kept her straps and spare parts in. Small stuff like that was better kept in there than moving around in the second wagon.
 
-There was nothing else in this row, so she moved on and made her way to Sugarcube Corner. Stopping outside the back of the establishment, she found an old cast-iron skillet in the trash. ["CAST IRON SKILLET" IMPLIES THAT AN IRON SKILLET WAS MADE BY CASTING; "CAST-IRON" SPECIFIES A SKILLET MADE OF CAST IRON.] She placed it in her scrap wagon before moving around the side and parking her wagons. She unhooked and went to the front.
+There was nothing else in this row, so she moved on and made her way to Sugarcube Corner. Stopping outside the back of the establishment, she found an old cast-iron skillet in the trash. She placed it in her scrap wagon before moving around the side and parking her wagons. She unhooked and went to the front.
 
 Making her way in the restaurant, she stopped at the front counter. There she saw Pinkie was on duty.
 
@@ -258,7 +256,7 @@ She moved the weight bench back on top, positioning it the same as before, then 
 
 Her wagon was starting to fill up, and she had a bit more trouble pulling it along. She was glad for all the metal, but also glad she was almost done. She made it to the next section without finding anything else.
 
-The second-to-last section had nothing of interest, so she moved on to the last section of her route. [ELSEWHERE, YOU HAVE "SECOND TO LAST" WITHOUT HYPHENATION. HOMOGENISE THE SPELLING IN EITHER FASHION.] She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house, she found more horseshoes lying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second-to-last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
+The second to last section had nothing of interest, so she moved on to the last section of her route. She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house, she found more horseshoes lying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second-to-last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
 
 Now finally done with her route, she made her way back out of town. As she passed by the apple trees of Sweet Apple Acres, she spotted Rainbow Dash waking up in one of the trees. She stopped to greet her.
 
@@ -328,7 +326,7 @@ Oxide broke the silence. "I'm gonna take in the regular metal tomorrow, then the
 
 "Thank you."
 
-Oxide enjoyed the peaceful break after completing her scrap route. Fluttershy had become one of her closest friends, and she always stopped her on her way home from scrapping. [I AM UNSURE WHETHER FLUTTERSHY IS ACTIVELY STOPPING OXIDE; THIS SENTENCE MAY MERIT A CLOSER LOOK.] She couldn't stay too long, however, as her scrapping day was also the day Fluttershy had tea with Discord.
+Oxide enjoyed the peaceful break after completing her scrap route. Fluttershy had become one of her closest friends, and she always stopped here on her way home from scrapping. She couldn't stay too long, however, as her scrapping day was also the day Fluttershy had tea with Discord.
 
 Oxide hadn't formally met Discord yet, but she'd seen him around. She thought about staying to have tea with them, but in reality, she wanted to get home after all that trotting.
 
@@ -374,7 +372,7 @@ She trotted onto the scale and looked at the weigh master. He was a gray stallio
 
 Oxide pulled her wagon off the scale and down the ramp on the other side. She continued to the unloading spot as she passed a massive wall on her left and a giant pile of scrap on her right. The wall was fifteen ponies tall, and the scrap pile was twenty.
 
-She continued back into the yard and found the unloading spot. It was a divot in the ever-expanding pile of scrap. There were already two ponies there, unloading. Oxide went in between them and backed her wagon up to the pile. The pony on her left was an earth pony, and they were standing in their wagon unloading by pushing the scrap out of the back with the tailgate down. The pony on her right was a pegasus. She was grabbing her scrap and flying out of her wagon to drop it on the pile. [IT IS BEST TO KEEP PRONOUNS CONSISTENT]
+She continued back into the yard and found the unloading spot. It was a divot in the ever-expanding pile of scrap. There were already two ponies there, unloading. Oxide went in between them and backed her wagon up to the pile. The pony on her left was an earth pony, and they were standing in their wagon unloading by pushing the scrap out of the back with the tailgate down. The pony on her right was a pegasus. She was grabbing her scrap and flying out of her wagon to drop it on the pile.
 
 Oxide settled in and put her own tailgate down. She levitated each piece out one at a time, placing it at the bottom of the pile. As she unloaded, she paused occasionally to look around. There was so much stuff in the pile that it was almost overwhelming. It had everything she had been bringing with her today, and a lot more.
 
@@ -384,7 +382,7 @@ The earth pony beside her finished unloading and left with their wagon. Oxide wa
 
 Eventually, they cleared the spot on her other side as well. She finished unloading soon after and raised her tailgate before hooking back to her wagon and heading for the outbound scale. She made it to the front and waited in line behind the same pegasus that was beside her.
 
-The pegasus went up to the weigh master and got her ticket and payment before taking her wagon off the scales at the other end. [IT WOULD PROBABLY BE EASIER TO CHANGE THE SINGLE PREVIOUS OCCURENCE OF THE FEMININE SINGULAR THIRD PERSON PRONOUN IN RELATION TO THE PEGASUS, BUT IT IS TOO LATE BY NOW] Then, it was Oxide's turn to see how much she made.
+The pegasus went up to the weigh master and got her ticket and payment before taking her wagon off the scales at the other end. Then, it was Oxide's turn to see how much she made.
 
 She made it on to the scales and stopped in front of Weight. "Hello, how's your day going?"
 
@@ -494,6 +492,6 @@ It ended up filling two and a half boxes. The cashier gave Oxide her receipt and
 
 While eighteen hundred was a lot of bits, she didn't come here that often. It usually took her six months to a year to get enough specialty metal. She felt proud of it, though. It was a lot of work to collect, sort, clean, and take it all in to the junkyard.
 
-She trotted home with a smile, stopping to tell Fluttershy the good news. [WOULD IT ACTUALLY BE FEASIBLE TO MAKE THE JOURNEY BY HOOF, AS OPPOSED TO TAKING A TRAIN? THE WAGONS MAY PRESENT A DIFFICULTY, BUT I AM FAIRLY SURE IT IS POSSIBLE TO CONVEY A PERSONAL VEHICLE BY TRAIN, AND MANEHATTAN IS A VERY CONSIDERABLE DISTANCE AWAY FROM PONYVILLE, IF LENGTHS OF CANONICAL APPEARANCES OF TRAIN TRANSIT AND THE CANONICAL MAP OF EQUESTRIA ARE TO BE TAKEN INTO ACCOUNT. AS SUCH, OXIDE WOULD HAVE TO SPEND A VERY LONG TIME TROTTING TO MANEHATTAN AND BACK.] She had her tea again before going home excited to start the cycle all over again next week. She loved scrap metal. She loved recycling. She loved money.
+She trotted home with a smile, stopping to tell Fluttershy the good news. She had her tea again before going home excited to start the cycle all over again next week. She loved scrap metal. She loved recycling. She loved money.
 
 But, most importantly, she loved her friends.
