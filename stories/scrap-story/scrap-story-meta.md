@@ -8,6 +8,8 @@ Iron Oxide makes a trip around her home of Ponyville on her usual scrap route. A
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading, helping with ideas, and formatting the receipts.
 
+Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
+
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for proofreading and writing the long description.
