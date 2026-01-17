@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Moving Up
+
+### Synopsis:
+You just started working for a moving company in Equestria. Your ultimate goal: become the CEO at all costs.
+
+***
+
 ## Maybe Pie
 
 ### Synopsis:
