@@ -6,6 +6,8 @@ A story about scrap metal in Equestria.
 ## Description:
 Iron Oxide makes a trip around her home of Ponyville on her usual scrap route. Along the way, she finds all sorts of stuff and meets plenty of friends.
 
+Story commission for [Admiral Biscuit](https://www.fimfiction.net/user/72053/Admiral+Biscuit).
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading, helping with ideas, and formatting the receipts.
 
 Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
