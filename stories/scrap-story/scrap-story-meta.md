@@ -14,6 +14,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for proofreading and writing the long description.
 
+Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
+
 ## Short Description:
 A story about scrap metal, from where it comes to where it goes.
 
