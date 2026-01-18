@@ -8,6 +8,8 @@ Iron Oxide makes a trip around her home of Ponyville on her usual scrap route. A
 
 Story commission for [Admiral Biscuit](https://www.fimfiction.net/user/72053/Admiral+Biscuit).
 
+Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading, helping with ideas, and formatting the receipts.
 
 Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
@@ -73,3 +75,4 @@ A story about scrap metal, from where it comes to where it goes.
 [Scrap Story](./scrap-story.md)
 
 ## Cover:
+![cover](./scrap-story-cover.png)
