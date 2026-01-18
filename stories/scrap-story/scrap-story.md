@@ -256,7 +256,7 @@ She moved the weight bench back on top, positioning it the same as before, then 
 
 Her wagon was starting to fill up, and she had a bit more trouble pulling it along. She was glad for all the metal, but also glad she was almost done. She made it to the next section without finding anything else.
 
-The second to last section had nothing of interest, so she moved on to the last section of her route. She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house, she found more horseshoes lying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second-to-last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
+The second to last section had nothing of interest, so she moved on to the last section of her route. She found a couple of umbrellas at the third house and put them in her scrap wagon. At the fifth house, she found more horseshoes lying beside the trash cans. She put them in her scrap wagon and moved on. The last thing she found on her route was at the second to last house. It was a bunch of random length two-by-four pieces of lumber. She could also use more wood, so she levitated them into her good stuff wagon.
 
 Now finally done with her route, she made her way back out of town. As she passed by the apple trees of Sweet Apple Acres, she spotted Rainbow Dash waking up in one of the trees. She stopped to greet her.
 
