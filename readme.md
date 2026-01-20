@@ -91,6 +91,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Letters of Lament] | [YouTube][Letters of Lament reading] |
 | **[Rainbow Infinity Readings]** | [The Pink Tax] | [YouTube][The Pink Tax reading three] |
 | **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
+| **[Lotus Moon]** | [Catch me Fainting] | [YouTube][Catch me Fainting reading] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -284,6 +285,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pink-Mended Sparkles reading]: https://www.youtube.com/watch?v=lI5cmum7740 "YouTube"
 [Letters of Lament reading]: https://www.youtube.com/watch?v=RiBFaquSNSw "YouTube"
 [The Pink Tax reading three]: https://www.youtube.com/watch?v=e7-6E0axbhk "YouTube"
+[Catch me Fainting reading]: https://www.youtube.com/watch?v=WsXBgG9SnAQ "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "Fimfiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "Fimfiction"
@@ -324,6 +326,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pink-Mended Sparkles]: https://www.fimfiction.net/story/547972/pink-mended-sparkles "Fimfiction"
 [Letters of Lament]: https://www.fimfiction.net/story/575613/letters-of-lament "Fimfiction"
 [Pink Reflections]: https://www.fimfiction.net/story/579531/pink-reflections "Fimfiction"
+[Catch me Fainting]: https://www.fimfiction.net/story/585538/catch-me-fainting "Fimfiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
