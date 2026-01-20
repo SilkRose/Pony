@@ -16,6 +16,8 @@ Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofrea
 
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
+Now with a [reading](https://www.youtube.com/watch?v=WsXBgG9SnAQ) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
+
 ## Short Description:
 Pinkie keeps catching Rarity when she faints. Luckily, Rarity is more than fine with it.
 
