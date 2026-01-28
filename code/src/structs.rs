@@ -1,3 +1,6 @@
+use serde::de::Error;
+use serde::{Deserialize, Deserializer};
+
 #[macro_export]
 macro_rules! option_sort {
 	($T:ty, $opt:ident, $id:ident) => {
@@ -25,4 +28,22 @@ macro_rules! option_sort {
 
 		impl Eq for $T {}
 	};
+}
+
+pub fn option_number<'de, D>(deserializer: D) -> Result<Option<i32>, D::Error>
+where
+	D: Deserializer<'de>,
+{
+	let s: Option<&str> = Option::deserialize(deserializer)?;
+	s.filter(|s| !s.is_empty())
+		.map(|s| s.parse::<i32>().map_err(D::Error::custom))
+		.transpose()
+}
+
+pub fn option_string<'de, D>(deserializer: D) -> Result<Option<String>, D::Error>
+where
+	D: Deserializer<'de>,
+{
+	let s: Option<&str> = Option::deserialize(deserializer)?;
+	Ok(s.filter(|s| !s.is_empty()).map(str::to_owned))
 }
