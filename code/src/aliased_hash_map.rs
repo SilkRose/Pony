@@ -72,4 +72,25 @@ impl<K, V, S: Clone> AliasedHashMap<K, V, S> {
 	pub fn alias_capacity(&self) -> usize {
 		self.aliases.capacity()
 	}
+
+	pub fn len(&self) -> usize {
+		self.data.len()
+	}
+
+	pub fn is_empty(&self) -> bool {
+		self.data.is_empty()
+	}
+
+	pub fn clear(&mut self) {
+		self.data.clear();
+		self.aliases.clear();
+	}
+
+	pub fn data_hasher(&self) -> &S {
+		self.data.hasher()
+	}
+
+	pub fn alias_hasher(&self) -> &S {
+		self.aliases.hasher()
+	}
 }
