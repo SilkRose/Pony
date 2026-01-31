@@ -1,6 +1,7 @@
 //#![deny(missing_docs)]
 //#![doc = include_str!("../readme.md")]
 
+pub mod aliased_hash_map;
 pub mod averages;
 pub mod bytes;
 pub mod color;
