@@ -1,5 +1,6 @@
+use std::borrow::Borrow;
 use std::collections::hash_map::{
-	Drain, ExtractIf, IntoKeys, IntoValues, Iter, IterMut, Keys, Values, ValuesMut,
+	Drain, Entry, ExtractIf, IntoKeys, IntoValues, Iter, IterMut, Keys, Values, ValuesMut,
 };
 use std::collections::{HashMap, HashSet, TryReserveError};
 use std::hash::{BuildHasher, Hash, RandomState};
@@ -144,6 +145,58 @@ impl<K: Eq + Hash, V: Eq + Hash, S: BuildHasher> SmartMap<K, V, S> {
 		self.set.shrink_to(min_capacity);
 	}
 
+	pub fn entry(&mut self, key: K) -> Entry<'_, K, Arc<V>> {
+		self.map.entry(key)
+	}
+
+	pub fn get<Q: Hash + Eq + ?Sized>(&self, k: &Q) -> Option<&Arc<V>>
+	where
+		K: Borrow<Q>,
+	{
+		self.map.get(k)
+	}
+
+	pub fn get_key_value<Q: Hash + Eq + ?Sized>(&self, k: &Q) -> Option<(&K, &Arc<V>)>
+	where
+		K: Borrow<Q>,
+	{
+		self.map.get_key_value(k)
+	}
+
+	pub fn get_disjoint_mut<Q: Hash + Eq + ?Sized, const N: usize>(
+		&mut self, ks: [&Q; N],
+	) -> [Option<&'_ mut Arc<V>>; N]
+	where
+		K: Borrow<Q>,
+	{
+		self.map.get_disjoint_mut(ks)
+	}
+
+	/// # Safety
+	/// See https://doc.rust-lang.org/src/std/collections/hash/map.rs.html#1065
+	pub unsafe fn get_disjoint_unchecked_mut<Q: Hash + Eq + ?Sized, const N: usize>(
+		&mut self, ks: [&Q; N],
+	) -> [Option<&'_ mut Arc<V>>; N]
+	where
+		K: Borrow<Q>,
+	{
+		unsafe { self.map.get_disjoint_unchecked_mut(ks) }
+	}
+
+	pub fn contains_key<Q: Hash + Eq + ?Sized>(&self, k: &Q) -> bool
+	where
+		K: Borrow<Q>,
+	{
+		self.map.contains_key(k)
+	}
+
+	pub fn get_mut<Q: Hash + Eq + ?Sized>(&mut self, k: &Q) -> Option<&mut Arc<V>>
+	where
+		K: Borrow<Q>,
+	{
+		self.map.get_mut(k)
+	}
+
 	pub fn insert(&mut self, k: K, v: V) -> Option<Arc<V>> {
 		let value = Arc::new(v);
 		self.set.insert(value.clone());
@@ -154,5 +207,14 @@ impl<K: Eq + Hash, V: Eq + Hash, S: BuildHasher> SmartMap<K, V, S> {
 		let value = Arc::new(v);
 		let found = !self.set.insert(value.clone());
 		(found, self.map.insert(k, value))
+	}
+
+	pub fn remove<Q: Hash + Eq + ?Sized>(&mut self, k: &Q) -> Option<Arc<V>>
+	where
+		K: Borrow<Q>,
+	{
+		self.map.remove(k).inspect(|value| {
+			self.set.remove(value);
+		})
 	}
 }
