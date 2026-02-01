@@ -4,8 +4,10 @@ use std::collections::hash_map::{
 };
 use std::collections::{HashMap, HashSet, TryReserveError};
 use std::hash::{BuildHasher, Hash, RandomState};
+use std::ops::Index;
 use std::sync::Arc;
 
+#[derive(Debug, Clone)]
 pub struct SmartMap<K, V, S = RandomState> {
 	pub set: HashSet<Arc<V>, S>,
 	pub map: HashMap<K, Arc<V>, S>,
@@ -214,7 +216,58 @@ impl<K: Eq + Hash, V: Eq + Hash, S: BuildHasher> SmartMap<K, V, S> {
 		K: Borrow<Q>,
 	{
 		self.map.remove(k).inspect(|value| {
-			self.set.remove(value);
+			if Arc::strong_count(value) == 2 {
+				self.set.remove(value);
+			}
 		})
+	}
+
+	pub fn remove_entry<Q: Hash + Eq + ?Sized>(&mut self, k: &Q) -> Option<(K, Arc<V>)>
+	where
+		K: Borrow<Q>,
+	{
+		self.map.remove_entry(k).inspect(|(_, value)| {
+			if Arc::strong_count(value) == 2 {
+				self.set.remove(value);
+			}
+		})
+	}
+}
+
+impl<K, V, S> PartialEq for SmartMap<K, V, S>
+where
+	K: Eq + Hash,
+	V: Eq + Hash,
+	S: BuildHasher,
+{
+	fn eq(&self, other: &SmartMap<K, V, S>) -> bool {
+		if self.set.len() != other.set.len() || self.map.len() != other.map.len() {
+			return false;
+		}
+		self.set.iter().all(|key| other.set.contains(key))
+			&& self
+				.map
+				.iter()
+				.all(|(key, value)| other.map.get(key).is_some_and(|v| *value == *v))
+	}
+}
+
+impl<K, V, S> Eq for SmartMap<K, V, S>
+where
+	K: Eq + Hash,
+	V: Eq + Hash,
+	S: BuildHasher,
+{
+}
+
+impl<K, Q: ?Sized, V, S> Index<&Q> for SmartMap<K, V, S>
+where
+	K: Eq + Hash + Borrow<Q>,
+	Q: Eq + Hash,
+	S: BuildHasher,
+{
+	type Output = Arc<V>;
+	fn index(&self, key: &Q) -> &Arc<V> {
+		self.map.get(key).expect("no entry found for key")
 	}
 }
