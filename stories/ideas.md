@@ -209,13 +209,6 @@ Pinkie starts a pretend news channel with a cardboard camera operated by Spike a
 
 ***
 
-## Deternal
-
-### Synopsis:
-Twilight casts a spell linking her heart to her friends so when the last one dies, she does too.
-
-***
-
 ## Bogus Bits
 
 ### Synopsis:
