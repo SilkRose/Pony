@@ -16,6 +16,25 @@ Twilight knew she might regret her decision later, but at least she wouldn't die
 - Twilight gets desperate and decides to put all magic inside of crystals.
 - It doesn't work and Twilight dies with her last friend.
 - Pinkie is her last friend alive, who she has been dating since after she cast the spell?
+- Model the deaths on the five stages of grief:
+  1. Rainbow Dash dies young from a flying accident. (denial)
+     - Rainbow believes she could never die from a flying accident.
+     - Affects Applejack heavily, as they we're in a relationship.
+     - The pony who caused it was never punished.
+  2. Rarity (bargaining)
+     - Gets ill but all her money can't solve the problem.
+     - She tries to bargain with Twilight but she can't help her.
+  3. Applejack (anger)
+     - Resents the person who caused Rainbow's death.
+     - Outlives them out of spite and stubbornness.
+  4. Fluttershy (depression)
+     - She gets depressed from taking care of animals.
+     - The animals have much shorter lifespans, it pains her to take care of them when they die.
+     - She feels useless and becomes depressed.
+  5. Pinkie Pie and Twilight die together. (acceptance)
+     - Pinkie accepts that she is going to die.
+     - Twilight accepts she is going to die.
+     - Pinkie knows Twilight is going to die.
 - 
 
 ## Story:
