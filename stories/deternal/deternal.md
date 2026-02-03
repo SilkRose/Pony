@@ -6,7 +6,9 @@ For a moment, she just stood there, feeling the rhythmic beating of each heart. 
 
 "Lifespans limited by time, link my friends onto mine. A curse of weakness singed on my heart, for upon each death I will hurt."
 
-She felt a weakness in her legs as the realization of what she'd just done hits her. She falls to the floor as tears fall from her eyes. She was never going to outlive her friends, she just had to convince herself it was the right decision.
+She felt a weakness in her legs as the spell washes over her, a heaviness weighed over her heart. She fell to the ground as the invisible tethers tying her friends hearts to her own made themselves known.
+
+Tears streamed from her eyes after the realization of what she'd just done hits her. She was never going to outlive her friends, she just had to convince herself it was the right decision.
 
 As she lies there crying in a pile of herself, one of her friends takes notice. Pinkie Pie sees her friend in despair and goes over to comfort her. She wraps her hooves around her. "Twilight, are you okay?"
 
