@@ -117,6 +117,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[Stinium_Ruide]** | [Pink-Mended Sparkles] | [Fimfiction][Pink-Mended Sparkles review] |
 | **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
 | **[Hipponous]** | [Pink Reflections] | [Fimfiction][Pink Reflections review] |
+| **[PresentPerfect]** | [Blue and Blushing] | [Fimfiction][Blue and Blushing review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
@@ -304,6 +305,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pony Pillows review]: https://www.fimfiction.net/blog/1050887/fic-recs-september-20th "Fimfiction"
 [Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "Fimfiction"
 [Pink Reflections review]: https://www.fimfiction.net/blog/1135572/a-review-of-silk-roses-pink-reflections-written-at-his-behest "Fimfiction"
+[Blue and Blushing review]: https://www.fimfiction.net/blog/1136432/fic-recs-february-4th "Fimfiction"
 
 [Love Licks reading & review]: https://www.youtube.com/watch?v=J7ciA6YoAY8 "YouTube"
 
