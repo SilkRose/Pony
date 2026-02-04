@@ -12,6 +12,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Now with a [reading](https://www.youtube.com/watch?v=ZG9fQEqbLi8) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
+[Reviewed](https://www.fimfiction.net/blog/1136432/fic-recs-february-4th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Short Description:
 When Rarity is distraught, Rainbow restores her beauty through action and verse.
 
