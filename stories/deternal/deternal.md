@@ -68,39 +68,39 @@ Pinkie nuzzled Twilight again. "Deal."
 
 ***
 
-Twilight trotted down the stairs of her throne and met Pinkie at the bottom. She had shone up and requested a private meeting with Twilight.
+Twilight and her friends were all gathered to watch the big Wonderbolts show where their friend Rainbow Dash was now the captain of the team.
 
-"Hello, Pinkie, what brings you here?"
+Twilight and Pinkie were particularly excited as this was semi-unofficial first date. They sat next to each other and even held hooves as they watched their friend fly.
 
-Pinkie seemed nervous as she looked up at Twilight. "Well, I kinda wanted to ask you something super duper important."
+Rainbow flew above them as the show started. She was extremely happy and proud to be the captain now. She spent years working her way up the ranks and instilling loyalty and friendship among the other cadets.
 
-"Oh, well I'm all ears for you."
+Rainbow joined the rest of the Wonderbolts and leads them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that serious. She would just shrug and tell them that's she's survived all kinds of worse accidents.
 
-"I would hope that you're all you for me, but ears are fine."
+Pinkie's eyes followed Rainbow as she felt Twilight rest her chin n the top of her head. She blushed and held Twilight hoof a bit tighter.
 
-Twilight giggled. "Pinkie, I am all me for you, especially for you."
+Rarity saw this and leans over to Fluttershy, and whispered, "Those two are having a good time."
 
-Pinkie blushed. "Well, I've been doing a lot of thinking since that last sleepover we had… You know the one where we held each other and you were crying…"
+Fluttershy responded, "I just hope Rainbow takes it easy, she's doing so many dangerous stunts…"
 
-"I remember. What about it?"
+Applejack placed her hoof on Fluttershy's back. "I made her Pinkie Promise not to do any of the really dangerous ones. So, hopefully she'll be fine, sugarcube." She said, more to convince herself than Fluttershy.
 
-"I've been feeling different since then, and its about you."
+Applejack and Rainbow had been dating for a while now. As the two got closer, Applejack only got more worried that an accident would happen. Luckily for everypony, Rainbow had made it this far without anything major happening.
 
-"What kind of different?" Twilight asked, knowing full well the kind of different she meant. Especially since felt the same for the mare.
+As the Wonderbolts pull off their first formation stunt successfully, Applejack notices one of the ponies flying next to her keeps flying too close to Rainbow. She locks in and keeps her eyes glued to this pony as the next stunt begins.
 
-"I, uh, wanted to ask you—"
+The formation led by Rainbow takes a nose dive, heading towards the ground. They build up speed before making it to the top of the stadium where they do a sharp pivot and head back up.
 
-Twilight's world exploded. Her heart felt like it was being stabbed by a thousand tiny daggers. The pain radiated to her whole body as she fell to the ground, unable to do anything but writhe in agony.
+Except two ponies don't make the pivot. The pony Applejack was watching crashed into Rainbow as they were turning and both ponies began to fall towards the ground at high speed.
 
-Pinkie jumped to her side. "Twilight? What's happening!? Twilight? Somepony, help! Twilight needs help!"
+Applejack tensed up as she watched her marefriend falling to the ground. Around her she could hear calls for help, but nopony could do anything.
 
-Nopony hears her, unfortunately.
+The pony that caused the accident recovered and tried to fly to catch Rainbow in time, but it was too late.
 
-Twilight comes back to life. "Rainbow… Dash…"
+Rainbow hits the ground with a loud thud as everything goes quiet.
 
-Pinkie kneels down and holds Twilight. "Rainbow Dash what?"
+Twilight's world exploded. Her heart felt like it had been crushed against a wall at the speed of sound. The pain radiated to her whole body as she fell onto Pinkie, unable to do anything but writhe in agony.
 
-"Rainbow… Dash… died…"
+Rainbow Dash had died, and so did Twilight Sparkle.
 
 ***
 
