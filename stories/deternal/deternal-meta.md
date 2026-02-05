@@ -35,6 +35,9 @@ Twilight knew she might regret her decision later, but at least she wouldn't die
      - Pinkie accepts that she is going to die.
      - Twilight accepts she is going to die.
      - Pinkie knows Twilight is going to die.
+- Pinkie notices Twilight acting more like her friend after they die. Like loyalty for Dash?
+- Pinkie overheard the spell and told her on her deathbed that she missed the last line?
+- Pinkie says she'll never leave her because she'll be in Twilight's heart?
 - 
 
 ## Story:
