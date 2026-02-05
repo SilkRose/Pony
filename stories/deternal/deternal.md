@@ -104,3 +104,75 @@ Rainbow Dash had died, and so did Twilight Sparkle.
 
 ***
 
+Twilight woke up in a hospital bed. She opened her eyes to a dark hospital room with her remaining friends asleep all around her. She looked down to see Pinkie asleep half on her bed beside her, and half on a chair next to the bed.
+
+Twilight could feel a wetness around Pinkie's head, likely from tears. She started to cry herself as she remembered what happened and who is missing.
+
+Pinkie again woke up and hugged Twilight. "Twilight!"
+
+Twilight sluggishly hugged back. "Pinkie…"
+
+Pinkie's voice dropped, "What happened to you?"
+
+"Where's Rainbow Dash?"
+
+Pinkie deflated even more. "She's gone…"
+
+More tears flowed from Twilight's eyes. "I should have been able to save her…"
+
+"Nopony could have reacted in that little amount of time."
+
+"But…"
+
+Pinkie shushed her again. "There was nothing anypony could do. We all miss her so much, but you can't beat yourself up over it."
+
+"Okay."
+
+"Now, what happened to you when she crashed? Why did you almost die?"
+
+Twilight lied. "I don't know, it might have been a heart attack. Did the doctors say anything?"
+
+Pinkie shook her head. "They didn't know either. They think you had stroke, but you recovered super quick."
+
+Twilight pulled Pinkie into a closer, tighter hug. "Well, hopefully it never happens again."
+
+Pinkie hugged back. "Hopefully."
+
+They enjoyed the silence as they hugged, afterwards they stared into each other's eyes. With terrible timing, the two shared their first kiss, both mares still crying.
+
+Their kiss lasted long enough to make them blush, but not long enough to be seen by the next friend to wake up.
+
+"Twilight?" Applejack jumped up and hugged Twilight on the other side of the bed from Pinkie.
+
+"Hello, Applejack."
+
+"Are you okay?"
+
+"I think I'm alright… I'm so sorry about Rainbow, I wish I could have done something… anything…"
+
+Applejack choked up. "I should have said something, I seen that pony getting too close to her and I didn't say anything…"
+
+"It's not your fault either, Applejack."
+
+"I know, but I can't help but think…"
+
+Twilight frowned. "I know what you mean."
+
+Applejack started to cry. "She always said I was making a big deal over her safety, but I just loved her too much for the thought of anything like this happening to her…"
+
+Rarity came up and hugged Applejack from her side. "It's okay to grieve darling."
+
+"I miss her so much…"
+
+"We all do, but we're also here for you. We all loved her, and we all love you."
+
+"I love you girls too."
+
+Fluttershy hugged Pinkie, leaving everypony holding each other. "Twilight! Are you okay?"
+
+Twilight nodded. "I think I'll be fine." More tears started to fall from her eyes. "I just love you girls so much. And I miss Rainbow so much already."
+
+Everypony hugged each other and cried together, releasing their pain over the loss of their best friend.
+
+***
+
