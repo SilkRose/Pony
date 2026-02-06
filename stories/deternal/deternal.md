@@ -74,11 +74,11 @@ Twilight and Pinkie were particularly excited as this was semi-unofficial first 
 
 Rainbow flew above them as the show started. She was extremely happy and proud to be the captain now. She spent years working her way up the ranks and instilling loyalty and friendship among the other cadets.
 
-Rainbow joined the rest of the Wonderbolts and leads them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that serious. She would just shrug and tell them that's she's survived all kinds of worse accidents.
+Rainbow joined the rest of the Wonderbolts and led them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that serious. She would just shrug and tell them that's she's survived all kinds of worse accidents.
 
-Pinkie's eyes followed Rainbow as she felt Twilight rest her chin n the top of her head. She blushed and held Twilight hoof a bit tighter.
+Pinkie's eyes followed Rainbow as she felt Twilight rest her chin on the top of her head. She blushed and held Twilight hoof a bit tighter.
 
-Rarity saw this and leans over to Fluttershy, and whispered, "Those two are having a good time."
+Rarity saw this and leaned over to Fluttershy, and whispered, "Those two are having a good time."
 
 Fluttershy responded, "I just hope Rainbow takes it easy, she's doing so many dangerous stunts…"
 
@@ -86,7 +86,7 @@ Applejack placed her hoof on Fluttershy's back. "I made her Pinkie Promise not t
 
 Applejack and Rainbow had been dating for a while now. As the two got closer, Applejack only got more worried that an accident would happen. Luckily for everypony, Rainbow had made it this far without anything major happening.
 
-As the Wonderbolts pull off their first formation stunt successfully, Applejack notices one of the ponies flying next to her keeps flying too close to Rainbow. She locks in and keeps her eyes glued to this pony as the next stunt begins.
+As the Wonderbolts pull off their first formation stunt successfully, Applejack noticed one of the ponies flying next to her keeps flying too close to Rainbow. She locks in and keeps her eyes glued to this pony as the next stunt begins.
 
 The formation led by Rainbow takes a nose dive, heading towards the ground. They build up speed before making it to the top of the stadium where they do a sharp pivot and head back up.
 
