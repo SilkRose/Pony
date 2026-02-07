@@ -220,3 +220,37 @@ Twilight choked out, "I love you too, Rarity."
 
 ***
 
+Rarity looked up at all her friends as she lays in her bed at home. All of her friends had come to check on her and comfort her. "Thank you all for coming, it's so great to see you all."
+
+Twilight replied, "It's great to see you too, Rarity."
+
+Rarity looked at her friends again, doing a double take. "Does anypony know where Rainbow Dash is? I haven't seen her in ages."
+
+Everypony winced before Applejack spoke, "She's busy right now. She said to tell you she loves you and she come by another time."
+
+Rarity smiled briefly. "I do love her too. That mare is always doing something."
+
+Twilight put a wing around Applejack, reassuring her. "We wanted to ask if you needed anything while we're here, Rarity."
+
+Rarity thought for a moment, before she said, "Oh, Twilight, could you help me with some pain I've been having. Sometimes it hurts so bad I can't even get out of bed."
+
+Rarity began to move the covers off her. She pointed at her stomach, presumably where it hurt. "Hey, where did that scare come from?"
+
+Twilight answered, "It was from a sugary you had a while back. You probably don't remember because you were put to sleep while it happened."
+
+Rarity tried to nod in understanding. "Oh, okay. Well, in any case, would you be able to help with the pain darling? If I could stop the pain, I could make you a beautiful dress for the gala!"
+
+Twilight frowned. "I don't need a new dress, you've done enough for me over the years. I'm sorry to say, but I can't do anything for the pain, the doctors have given you all the medicine they can."
+
+Rarity turns head head down. "Oh, alright, darling."
+
+Pinkie steps to Rarity and hugs her. "It'll be alright Rarity. We're here for you. We love you and we'll do everything we can to make you feel better."
+
+Rarity smiled and hugged back, then signaled with a hoof for everypony else to join the hug.
+
+Everypony joined the hug and they said together, "We love you so much, Rarity."
+
+Rarity started to cry. "I love you girls too!"
+
+***
+
