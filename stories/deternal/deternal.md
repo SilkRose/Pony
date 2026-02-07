@@ -114,9 +114,13 @@ Twilight sluggishly hugged back. "Pinkie…"
 
 Pinkie's voice dropped, "What happened to you?"
 
-"Where's Rainbow Dash?"
+"Where's Rainbow Dash? Is she okay?"
 
 Pinkie deflated even more. "She's gone…"
+
+"No! she can't be…"
+
+Pinkie starts to cry to. "I can't believe it either, but she's gone…"
 
 More tears flowed from Twilight's eyes. "I should have been able to save her…"
 
@@ -130,9 +134,9 @@ Pinkie shushed her again. "There was nothing anypony could do. We all miss her s
 
 "Now, what happened to you when she crashed? Why did you almost die?"
 
-Twilight lied. "I don't know, it might have been a heart attack. Did the doctors say anything?"
+Twilight lied. "I don't know, it felt like I died… Did the doctors say anything?"
 
-Pinkie shook her head. "They didn't know either. They think you had stroke, but you recovered super quick."
+Pinkie shook her head. "They didn't know either. They said the same thing. Like you died and came back to life."
 
 Twilight pulled Pinkie into a closer, tighter hug. "Well, hopefully it never happens again."
 
@@ -154,7 +158,7 @@ Applejack choked up. "I should have said something, I seen that pony getting too
 
 "It's not your fault either, Applejack."
 
-"I know, but I can't help but think…"
+"I know, but I can't help but think… I keep thinking I'm gonna open my eyes and she's gonna trot through that door… I know she's gone, but it just don't feel real."
 
 Twilight frowned. "I know what you mean."
 
