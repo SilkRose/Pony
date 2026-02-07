@@ -254,3 +254,71 @@ Rarity started to cry. "I love you girls too!"
 
 ***
 
+Twilight rushed through the front door of Carousel Boutique, Pinkie right behind her. Before they could make it to the stairs, Sweetie Belle stopped them.
+
+"Twilight!" Sweetie cried.
+
+Twilight stopped, while Pinkie continued on to see Rarity.
+
+"Hey, Sweetie. What's going on, is Rarity okay?"
+
+Sweetie Belle shook her head. "No, she needs help! Can you do anything to save her? I… I can't loose my sister…"
+
+Twilight slumped. "No, I can't do anything. I've tried search for a spell, book, or anything to help, but nothing I find can help her…"
+
+Sweetie Belle started to cry. "Come on Twilight, there has to be something! You can't turn her into an alicorn like yourself?"
+
+"I can't, I don't even understand how I turned into an alicorn… I'm sorry, Sweetie."
+
+Sweetie Belle lowered her head in defeat as more tears fell from her. "We better go see her one last time. I don't think she'll be with us much longer."
+
+Twilight followed Sweetie upstairs and the two found the rest of their friends huddled around Rarity in her bed.
+
+They joined them and Twilight greets Rarity. "Hello, Rarity."
+
+Rarity looked up at Twilight. "So good to see you, darling."
+
+Twilight faltered. "I'm so sorry, Rarity. I've been trying so hard to find some way to heal or fix you, but nothing I find will help. I failed you and now your…" Tears were already streaming down her face as she couldn't finish her sentence.
+
+"Oh, don't worry about it. As long as I have my friends, I'll be happy until the end."
+
+Everypony else that wasn't crying started to cry. They all shared a group hug, doing their best not to hurt Rarity. They all said in unison, "We love you, Rarity."
+
+"I love you girls so much."
+
+After the hug, Sweetie Belle cried out, "I'm going to miss you so much…"
+
+Rarity pulled Sweetie Belle into a hug. "Don't worry about me. Even after I'm gone, I'll always be in here." She pointed at Sweetie's heart.
+
+this only made Sweetie cry more. Rarity patted her on the back.
+
+Rarity seemed confused. "Is it just me or is the room spinning." She closed her eyes as her hooves started to slow down.
+
+Pinkie placed a hoof on one of Rarity's while Fluttershy followed her lead on the other.
+
+Fluttershy said, "Take it easy, Rarity."
+
+Rarity tried to speak. "I… I will."
+
+As Twilight watched, she realized she had forgot something: the spell she cast all those years ago. She starts to panic, trying to figure out what to do. She can't just die again in front of her friends like last time. That would just traumatize them more.
+
+I need to leave, she thought.
+
+Twilight couldn't stop her tears. She leaned down and hugged Rarity gently, one last time. "I… I 'm so sorry, Rarity. I have to go… I can't watch."
+
+Rarity just looked at her with a knowing smile.
+
+With that, Twilight teleported away, the only remnants left behind is the few tears that managed to fall of her face before she teleported, that were now hitting the floor.
+
+***
+
+Twilight appeared in Pinkie's bedroom at Sugarcube Corner. She laid down in Pinkie bed and prepared to die.
+
+It felt different this time, her heartbeat slowed and she felt lethargic. She closed her eyes and keep feeling more and more tired with each passing moment.
+
+Unlike the previous time, this time she didn't just pass out. She felt the entire thing as she slowly died with Rarity. Her life passed in front of her eyes as the last thing she saw.
+
+Rarity died, and so did Twilight Sparkle.
+
+***
+
