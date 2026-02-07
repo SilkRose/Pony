@@ -180,3 +180,43 @@ Everypony hugged each other and cried together, releasing their pain over the lo
 
 ***
 
+Twilight led Pinkie into Rarity's hospital room. Each of them took a side of her bed to stand on.
+
+Rarity had lost almost all of her mane. Now all that remains is a few strands of purple, and some gray from the silver line that featured in her mane. She looked dejected until she noticed the pair entering, then she brightened up and tried to smile for them.
+
+"Hello, Rarity. You doing any better?"
+
+"I wish, darling. So far, its just been bad news."
+
+Pinkie spoke up, "I'm sure you'll get better. They just need to figure out how."
+
+Twilight replied, "We can only hope they find a way to make it better."
+
+Rarity struggled to lean out of her bed, wrapping Twilight in a hug. "I have missed you girls so much. It's nice to have visitors."
+
+Twilight hugs back, a few tears escaping her eyes. "It's nice to see you, I just wish there was something I could do to help. I hate to see you in pain like this."
+
+After the hug Rarity laid back down, before getting a customary hug from Pinkie. "Are you sure there isn't anything you could do, Twilight?"
+
+Twilight shook her head, more tears starting to escape. "No, if I could I would have already done it."
+
+Rarity looked at Twilight with a waning smile. "Nothing at all? If you could do anything, I could pay you very beautifully, darling."
+
+Twilight looked down. "I really wish I could help, Rarity. But, I don't know any spells that could magically fix you. I spent days trying to find anything in secret guarded libraries around Equestria that could help. Nothing I found could help, I even asked Celestia and Luna for help."
+
+Rarity started to cry at the answer. "Thank you for trying, it means so much to me."
+
+The three ponies shared a group hug.
+
+Rarity spoke up after the hug, wiping away her tears, "Sorry if I was too pushy, Twilight. I'm just scared. I don't know what's going to happen, and I can't stand the pain sometimes."
+
+Twilight and Pinkie both started to cry fully.
+
+Pinkie hugged Rarity again. "I love you so much Rarity. I believe in your ability to get through this."
+
+Rarity hugged back. "I love you girls too!"
+
+Twilight choked out, "I love you too, Rarity."
+
+***
+
