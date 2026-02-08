@@ -200,9 +200,9 @@ After the hug Rarity laid back down, before getting a customary hug from Pinkie.
 
 Twilight shook her head, more tears starting to escape. "No, if I could I would have already done it."
 
-Rarity looked at Twilight with a waning smile. "Nothing at all? If you could do anything, I could pay you very beautifully, darling."
+Rarity looked at Twilight with a waning smile. "Nothing at all? I don't know how I could ever repay you, but I promise I would find a way. There must be something I could do for you."
 
-Twilight looked down. "I really wish I could help, Rarity. But, I don't know any spells that could magically fix you. I spent days trying to find anything in secret guarded libraries around Equestria that could help. Nothing I found could help, I even asked Celestia and Luna for help."
+Twilight looked down. "I really wish I could help, Rarity. But, I don't know any spells that could magically fix you. I spent days trying to find anything in the libraries around Equestria that could help. Those were all stuff the doctors already knew about, so I checked restricted sections and secret book collections. Nothing I found could help, I even asked Celestia and Luna for help."
 
 Rarity started to cry at the answer. "Thank you for trying, it means so much to me."
 
@@ -229,6 +229,8 @@ Rarity looked at her friends again, doing a double take. "Does anypony know wher
 Everypony winced before Applejack spoke, "She's busy right now. She said to tell you she loves you and she come by another time."
 
 Rarity smiled briefly. "I do love her too. That mare is always doing something."
+
+Applejack whispered to Twilight, "We just gave her some pain meds, they're messing with her memory I think."
 
 Twilight put a wing around Applejack, reassuring her. "We wanted to ask if you needed anything while we're here, Rarity."
 
