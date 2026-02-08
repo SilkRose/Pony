@@ -91,7 +91,8 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Letters of Lament] | [YouTube][Letters of Lament reading] |
 | **[Rainbow Infinity Readings]** | [The Pink Tax] | [YouTube][The Pink Tax reading three] |
 | **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
-| **[Lotus Moon]** | [Catch me Fainting] | [YouTube][Catch me Fainting reading] |
+| **[Lotus Moon]** | [Catch me Fainting] | [YouTube][Catch me Fainting reading one] |
+| **[Rainbow Infinity Readings]** | [Catch me Fainting] | [YouTube][Catch me Fainting reading two] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -286,7 +287,8 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pink-Mended Sparkles reading]: https://www.youtube.com/watch?v=lI5cmum7740 "YouTube"
 [Letters of Lament reading]: https://www.youtube.com/watch?v=RiBFaquSNSw "YouTube"
 [The Pink Tax reading three]: https://www.youtube.com/watch?v=e7-6E0axbhk "YouTube"
-[Catch me Fainting reading]: https://www.youtube.com/watch?v=WsXBgG9SnAQ "YouTube"
+[Catch me Fainting reading one]: https://www.youtube.com/watch?v=WsXBgG9SnAQ "YouTube"
+[Catch me Fainting reading two]: https://www.youtube.com/watch?v=nyMv2_2QzdU "YouTube"
 
 [volkov]: https://www.fimfiction.net/user/595939/volkov "Fimfiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "Fimfiction"
