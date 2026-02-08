@@ -262,7 +262,7 @@ Twilight stopped, while Pinkie continued on to see Rarity.
 
 "Hey, Sweetie. What's going on, is Rarity okay?"
 
-Sweetie Belle shook her head. "No, she needs help! Can you do anything to save her? I… I can't loose my sister…"
+Sweetie Belle shook her head. "No, she needs help! Can you do anything to save her? I… I can't lose my sister…"
 
 Twilight slumped. "No, I can't do anything. I've tried search for a spell, book, or anything to help, but nothing I find can help her…"
 
@@ -270,7 +270,9 @@ Sweetie Belle started to cry. "Come on Twilight, there has to be something! You 
 
 "I can't, I don't even understand how I turned into an alicorn… I'm sorry, Sweetie."
 
-Sweetie Belle lowered her head in defeat as more tears fell from her. "We better go see her one last time. I don't think she'll be with us much longer."
+Sweetie Belle lowered her head in defeat as more tears fell from her.
+
+Applejack poked her head into the room. "You two should get up here. She don't got much time left…"
 
 Twilight followed Sweetie upstairs and the two found the rest of their friends huddled around Rarity in her bed.
 
@@ -290,7 +292,7 @@ After the hug, Sweetie Belle cried out, "I'm going to miss you so much…"
 
 Rarity pulled Sweetie Belle into a hug. "Don't worry about me. Even after I'm gone, I'll always be in here." She pointed at Sweetie's heart.
 
-this only made Sweetie cry more. Rarity patted her on the back.
+This only made Sweetie cry more. Rarity patted her on the back.
 
 Rarity seemed confused. "Is it just me or is the room spinning." She closed her eyes as her hooves started to slow down.
 
