@@ -382,7 +382,7 @@ Pinkie frowned. "That doesn't seem like much of a victory."
 
 Applejack frowned too. "It's not, but it's something that makes me feel better for what she did to Rainbow."
 
-Twilight replied, "that's awful…"
+Twilight replied, "That's awful…"
 
 "I know it is, but I don't care. I lived for far too long without my wife. I just had to outlive that bitch though."
 
