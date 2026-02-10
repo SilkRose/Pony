@@ -316,13 +316,143 @@ With that, Twilight teleported away, the only remnants left behind is the few te
 
 ***
 
-Twilight appeared in Pinkie's bedroom at Sugarcube Corner. She laid down in Pinkie bed and prepared to die.
+Twilight appeared in Pinkie's bedroom at Sugarcube Corner. She laid down in Pinkie's bed and prepared to die.
 
 It felt different this time, her heartbeat slowed and she felt lethargic. She closed her eyes and keep feeling more and more tired with each passing moment.
 
 Unlike the previous time, this time she didn't just pass out. She felt the entire thing as she slowly died with Rarity. Her life passed in front of her eyes as the last thing she saw.
 
 Rarity died, and so did Twilight Sparkle.
+
+***
+
+Twilight followed Pinkie into Applejack's home on Sweet Apple Acres. The two met Applejack in her living room and sit down on her couch. Applejack looks up at them as a single tear escapes her eye.
+
+Applejack spoke up, "Hello, Twilight, Pinkie."
+
+Pinkie returned the greeting. "Hey, Applejack."
+
+Twilight did as well. "Hi, Applejack. What did you want to talk to use about?"
+
+Applejack grimaced. "I got news to tell ya, and none of it's good."
+
+Both mares on her couch looked at her with concern.
+
+She continued. "Just a few days ago I got a visit from the Wonderbolts, it was about Rainbow…"
+
+Applejack did her best to hold back her tears as the worry on her friends' faces increased.
+
+"I guess the pony who cleaned out her desk after she died didn't do a very good job. They found something in it and thought it best to bring it to me."
+
+Pinkie asked, "What was it?"
+
+Applejack let the tears go as she hoofed a small box to Twilight. She took it in her magic and opened it, revealing a expensive wedding ring.
+
+Applejack choked out, "She was planning on asking me to marry her after that show…"
+
+Both mares gasped before getting up and hugging Applejack.
+
+Twilight said, "I'm so sorry Applejack. I can't imagine how your feeling after all these years."
+
+Pinkie commented, "She loved you so much."
+
+Applejack started to shake. "I just can't stop thinking about all the years that were robbed from us."
+
+Pinkie tried to help. "It's okay to grieve. Just let it all out."
+
+Applejack continued, voice getting louder, "I just get so mad every time I think about that bitch. She took away the best thing in my life, then stole her fucking job."
+
+Pinkie and Twilight stopped the hug and let Applejack sit back down. Neither of them knew quite what to say to calm her down.
+
+"I spent all these years getting mad every time I thought about her. I damn near wasted my life in anger. But, none of that matters now."
+
+Pinkie asked, "Why?"
+
+Applejack grinned. "Because I won."
+
+Twilight looked at her and tilted her head. "What do you mean, won?"
+
+"The pony who delivered the ring to me from the Wonderbolts, they shared a little news with me about the former captain, the one who killed my wife."
+
+Pinkie asked, "What'd they say?"
+
+"She's dead!"
+
+Pinkie frowned. "That doesn't seem like much of a victory."
+
+Applejack frowned too. "It's not, but it's something that makes me feel better for what she did to Rainbow."
+
+Twilight replied, "that's awful…"
+
+"I know it is, but I don't care. I lived for far too long without my wife. I just had to outlive that bitch though."
+
+"Why would you have to?"
+
+"I had to keep track. She took my future wife from me, no way I was going to let that slid without beating her at something."
+
+Nopony responded, Applejack continued, "Rainbow was real competitive, you know. So, after she died I started to get more competitive to. When I heard she replaced my Dashie as the captain of the Wonderbolts, something broke in me."
+
+Both mares asked, "What?"
+
+"My dam. After that day I couldn't convince myself to not get so mad when I thought of her. Ever since that day I didn't care about hiding my seething rage for that killer."
+
+Pinkie asked, "But, why did you decide to outlive her?"
+
+"It was a long shot, and it felt like the only thing I could beat her at without *accidentally* doing something that I'd regret. I knew it was a competition I could win, even if she didn't know we were playing."
+
+Twilight asked in a cold voice, "So, how does it feel to win?"
+
+Applejack frowned and looked at the floor. "To tell you the truth, it feels awful. I thought I'd feel closer to Rainbow by being more competitive, but I've just lived my life out of petty revenge. I outlived the pony who killed my wife because I'm too stubborn to let go and move on."
+
+Both mares hugged Applejack again and apologized to her. "I'm sorry."
+
+"It's neither of your faults. I did this too myself. Let myself do this to myself."
+
+Pinkie asked, "What are you going to do now?"
+
+Applejack sighed. "I think I'm gonna die…"
+
+Both mares holding her gasped.
+
+"I'm serious. I've lived too long full of anger and regret. I just feel empty now. I don't go no reason to go on. I can feel it coming, anyway."
+
+Twilight asked, "What do you mean?"
+
+"I'm old, Twilight. She was five years younger than me and Rainbow, and she lived a long life. I lived an even longer one, and it's just time."
+
+Pinkie asked, "Are you sure your going to die soon? Maybe we can help you find something else to give you purpose?"
+
+"No, it's too late for me, Pinkie. That's why I asked y'all here. I wanted to say goodbye in case it happens soon."
+
+"Goodbye, Applejack," Pinkie said with tears in her eyes.
+
+"Goodbye, Applejack," Twilight said, hugging her tighter.
+
+"I love you girls so much."
+
+They replied together, "We love you too!"
+
+***
+
+Twilight and Pinkie laid in the bed together, huddled up together.
+
+Pinkie looks up at Twilight. "Do you think Applejack is going to die soon?"
+
+Twilight replied, "I don't know. Her body isn't in the best shape from all the work over the years on the farm."
+
+Pinkie teared up. "I'm going to miss her if she does…"
+
+"Me too."
+
+Pinkie cried fully now. "I miss Rainbow and Rarity so much still."
+
+Twilight started to cry too. "I miss them too…"
+
+As they laid there crying together, Twilight felt it begin. Applejack was dying in her sleep, and Twilight was dying with her.
+
+Twilight didn't know what to do, so she just held onto Pinkie tight and cried until the end.
+
+Applejack had died, and so did Twilight Sparkle.
 
 ***
 
