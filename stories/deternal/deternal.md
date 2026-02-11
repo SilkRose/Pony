@@ -462,7 +462,7 @@ Fluttershy thanks her friends. "Thank you girls for all the help. There's just s
 
 Pinkie smiled. "Anytime Fluttershy!"
 
-Twilight said, "you're welcome."
+Twilight said, "You're welcome."
 
 Fluttershy frowned. "I'm sorry I've been asking for so much help lately. I've been having a lot for trouble taking care of all the animals. I used to be able to handle it fine, but it's so hard nowadays."
 
@@ -512,9 +512,7 @@ Twilight concurred, "Me too."
 
 Fluttershy smiled. "Thank you girls."
 
-Twilight said, "I really miss them too. Especially Rainbow, she died way to young."
-
-Fluttershy and Pinkie nodded.
+They all shared one more group hug.
 
 ***
 
@@ -540,7 +538,7 @@ Fluttershy had died, and so did Twilight Sparkle.
 
 ***
 
-Twilight woke up in a hospital bed for the second time after a friends death. Pinkie was once again asleep next to her. This time, she was fully on the bed, laying next to Twilight.
+Twilight woke up in a hospital bed for the second time after a friend's death. Pinkie was once again asleep next to her. This time, she was fully on the bed, laying next to Twilight.
 
 Twilight puts a hoof over Pinkie, trying to wake her.
 
