@@ -39,6 +39,7 @@ Various plans for this repository.
 - Create a site for reading instead of on GitHub.
 - Add read me construction from data files. (Contributors, readings, reviews, etc.)
 - Add data for covers, like what assets were used, and what license applies.
+- Checklist for stories on the site for story and proofreading. (per line?)
 - 
 
 ## Potential Changes:
