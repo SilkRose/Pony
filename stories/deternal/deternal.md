@@ -456,3 +456,111 @@ Applejack had died, and so did Twilight Sparkle.
 
 ***
 
+Fluttershy led Twilight and Pinkie into her cottage. The trio had just finished taking care of the animals at Sweet Feather Sanctuary for the day. They sit down and breath a sigh of relief.
+
+Fluttershy thanks her friends. "Thank you girls for all the help. There's just so much to do I can't handle it all myself."
+
+Pinkie smiled. "Anytime Fluttershy!"
+
+Twilight said, "you're welcome."
+
+Fluttershy frowned. "I'm sorry I've been asking for so much help lately. I've been having a lot for trouble taking care of all the animals. I used to be able to handle it fine, but it's so hard nowadays."
+
+Pinkie understood. "I get what you mean, throwing parties is a lot harder now too at our age, but Twilight is such a big help."
+
+Twilight didn't know what to say, but the situation made her very self-aware of how young she still look while her friends are ageing and grey.
+
+Fluttershy sighed. "Can I tell you girls something?"
+
+Both her friends nodded.
+
+"I've been really sad for the last few years. I try and take care of the animals at the sanctuary, but it just gets harder and harder everyday."
+
+Pinkie nodded.
+
+Fluttershy continued, "I'm sad because there are too many animals for me to help."
+
+Tears fall from her eyes. "I'm sad because I can't help in the ways I used to be able to."
+
+Pinkie tried to comfort her with a hug.
+
+Fluttershy hugged back. "I'm sad because when an animal is dying, I just have to watch as they struggle, asking for help through the pain."
+
+Twilight joined the hug as Pinkie started to cry too.
+
+Fluttershy broke down, full on crying now. "I'm sad because I should have died first. I miss Rainbow, and Rarity, and Applejack so much."
+
+All three mares stayed in the hug, crying together.
+
+"I'm sad because I don't know what to do anymore. I don't know how to go on living in misery."
+
+After that, the group stayed silent as the cried out all there frustration and sadness.
+
+After the hug was over, Twilight apologized, "I'm sorry Fluttershy. I didn't know you were going through all that."
+
+Pinkie added, "We love you so much Fluttershy, we'll do anything we can to help you."
+
+Fluttershy tried to smile, but couldn't. "Thank you girls, I love you too."
+
+Twilight stated. "I can send some ponies from Canterlot to come help you run the sanctuary."
+
+Fluttershy nodded. "That would be nice."
+
+Pinkie said, "I'm glad I got to be your friend for this long Fluttershy."
+
+Twilight concurred, "Me too."
+
+Fluttershy smiled. "Thank you girls."
+
+Twilight said, "I really miss them too. Especially Rainbow, she died way to young."
+
+Fluttershy and Pinkie nodded.
+
+***
+
+Twilight signed the scroll in front of her. It was to delegate three animal caretakers to relocate and assist Fluttershy in running and taking care of animals at Sweet Feather Sanctuary.
+
+She levitated the scroll and gave it to her advisor, who took it and left the room.
+
+As the door shut, Twilight start to feel pain radiating from her heart.
+
+It was happening again.
+
+Pinkie entered the room and waved to Twilight.
+
+Twilight fell to the floor and slowly started to die.
+
+Pinkie rushed over. "Twilight, what's wrong? Are you hurt?"
+
+Twilight could not respond, only feeling pain.
+
+"Somepony, help!" Pinkie yelled.
+
+Fluttershy had died, and so did Twilight Sparkle.
+
+***
+
+Twilight woke up in a hospital bed for the second time after a friends death. Pinkie was once again asleep next to her. This time, she was fully on the bed, laying next to Twilight.
+
+Twilight puts a hoof over Pinkie, trying to wake her.
+
+A few seconds later, a groggy Pinkie awoke before staring at Twilight.
+
+"Twilight!"
+
+Twilight started to cry. "Is Fluttershy gone?"
+
+Pinkie nodded as she started to cry as well. "Yea, she died while trying to help an animal in the sanctuary."
+
+Twilight hugged Pinkie, not know what else to do.
+
+Pinkie hugged back. "I miss her so much already."
+
+"Me too."
+
+"I thought I had lost you too."
+
+"I'm sorry, Pinkie."
+
+***
+
