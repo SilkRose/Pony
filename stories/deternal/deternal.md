@@ -562,3 +562,54 @@ Pinkie hugged back. "I miss her so much already."
 
 ***
 
+Twilight sat with Pinkie on their bed. They were holding hooves and looking into each other's eyes.
+
+Pinkie spoke up, "Twilight, I love you."
+
+Twilight blushed. "I love you, too."
+
+Pinkie frowned for a second before looking up at Twilight and kissing her.
+
+Twilight kissed back. Afterward, she said, "You doing okay?"
+
+Pinkie shook her head. "I can feel it coming."
+
+Twilight tilted her head. "Fell what coming?"
+
+Pinkie frowned again. "The end."
+
+Twilight frowned too. "Are you sure?"
+
+Pinkie nodded.
+
+The pair hugged, holding each other tight.
+
+Twilight lamented, "Pinkie, you've been my best friend I could ever ask for. And an amazing wife for many decades."
+
+Pinkie smiled. "You too, Twilight. I wouldn't change a single thing about our friendship or relationship. I love you more than anypony ever ever ever ever."
+
+Twilight giggled. "I love you *four* ever."
+
+Pinkie booped Twilight. "I love you *five* ever!"
+
+They shared another intimate kiss.
+
+Pinkie asked, "You're going with me, aren't you?"
+
+Twilight sighed. "Yes, I'm sorry I never told you, or the girls."
+
+Pinkie held Twilight's hoof to her chest. "I understand, outliving all our friends has been very hard on me. I couldn't imagine loosing you too…"
+
+Twilight nodded. "It's been hard living without our friends, but having you to help me through it has helped me in ways I can't describe."
+
+Pinkie grabbed Twilight in one last hug, holding her as tight as she could. Tears streamed from her eyes as she said, "I love you Twilight."
+
+Twilight hugged back, sharing her own tears. "I love you too, Pinkie."
+
+Pinkie could feel it happening. Her heart was slowing down and her vision was going blurry.
+
+Twilight said, "Goodbye, Pinkie!"
+
+Pinkie said, "Goodbye, Twilight!"
+
+Twilight Sparkle died, and so did Pinkie Pie.
