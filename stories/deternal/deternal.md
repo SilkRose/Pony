@@ -574,7 +574,7 @@ Twilight kissed back. Afterward, she said, "You doing okay?"
 
 Pinkie shook her head. "I can feel it coming."
 
-Twilight tilted her head. "Fell what coming?"
+Twilight tilted her head. "Feel what coming?"
 
 Pinkie frowned again. "The end."
 
@@ -598,7 +598,7 @@ Pinkie asked, "You're going with me, aren't you?"
 
 Twilight sighed. "Yes, I'm sorry I never told you, or the girls."
 
-Pinkie held Twilight's hoof to her chest. "I understand, outliving all our friends has been very hard on me. I couldn't imagine loosing you too…"
+Pinkie held Twilight's hoof to her chest. "I understand, outliving all our friends has been very hard on me. I couldn't imagine losing you too…"
 
 Twilight nodded. "It's been hard living without our friends, but having you to help me through it has helped me in ways I can't describe."
 
