@@ -16,6 +16,7 @@ Twilight and Pinkie get transported into an RPG game in development. The two mus
 - Twilight and Pinkie grow closer and even start dating during the story.
 - Have multiple devs so the development of the dungeon has more depth.
 - Show commit info for the latest build at the end of the chapter.
+  - Dev diaries instead of commit info? Would give the dev side more of a story.
 - Maybe list multiple commits per chapter.
 - Chapters will have a tittle and a build version.
   Example: `Underground & Overwhelmed | a-0.0.1-save-test-1`
@@ -26,6 +27,9 @@ Twilight and Pinkie get transported into an RPG game in development. The two mus
 - Ending idea: Twilight and Pinkie defeat the final boss and it drops a shooting star that grants a wish?
 - Maybe they defeat a early version of the boss and the item dropped isn't implemented.
 - Maybe the build version/commit hints at whats in the next chapter?
+- Developers could be EqG characters, like Sci-Twi and/or Sunset.
+- Should the game be a normal RPG or a more unique idea?
+- The game could be for a class project.
 - 
 
 ## Chapters:
