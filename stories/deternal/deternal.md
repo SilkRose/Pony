@@ -68,7 +68,7 @@ Pinkie nuzzled Twilight again. "Deal."
 
 ***
 
-Twilight and her friends were all gathered to watch the big Wonderbolts show, where their friend Rainbow Dash - now the captain of the team - was performing. 
+Twilight and her friends were all gathered to watch the big Wonderbolts show, where their friend Rainbow Dash - now the captain of the team - was performing.
 
 Twilight and Pinkie were particularly excited as this was their semi-unofficial first date. They sat next to each other and even held hooves as they watched their friend fly.
 
@@ -182,7 +182,7 @@ Everypony hugged each other and cried together, releasing their pain over the lo
 
 Twilight led Pinkie into Rarity's hospital room, and they stood on either side of her bed.
 
-Rarity had lost almost all of her mane. Now only s a few strands of purple and some gray from the silver streak in her mane remained. She looked dejected until she noticed the pair entering. Then she brightened up and tried to smile for them.
+Rarity had lost almost all of her mane. Now only a few strands of purple and some gray from the silver streak in her mane remained. She looked dejected until she noticed the pair entering. Then she brightened up and tried to smile for them.
 
 "Hello, Rarity. You doing any better?"
 
@@ -202,7 +202,7 @@ Twilight shook her head, more tears starting to escape. "No; if I could, I would
 
 Rarity looked at Twilight with a fading smile. "Nothing at all? I don't know how I could ever repay you, but I promise I'll find a way. There must be something I could do for you."
 
-Twilight looked down. "I really wish I could help, Rarity. But I don't know any spells that could magically fix you. I spent days trying to find anything in the libraries across Equestria that could help. All of that was stuff the doctors already knew about, so I checked restricted sections and rare book collections. Nothing I found could help. I even asked Celestia and Luna." 
+Twilight looked down. "I really wish I could help, Rarity. But I don't know any spells that could magically fix you. I spent days trying to find anything in the libraries across Equestria that could help. All of that was stuff the doctors already knew about, so I checked restricted sections and rare book collections. Nothing I found could help. I even asked Celestia and Luna."
 
 Rarity started to cry at the answer. "Thank you for trying. That means so much to me."
 
@@ -238,7 +238,7 @@ Rarity thought for a moment, then said, "Oh, Twilight, could you help me with so
 
 Rarity began push the covers aside. She pointed at her stomach. "Hey, where did that scar come from?"
 
-Twilight answered, "It is from a surgery you had a while back. You probably don't remember because you were put to sleep while it happened."
+Twilight answered, "It's from a surgery you had a while back. You probably don't remember because you were put to sleep while it happened."
 
 Rarity tried to nod in understanding. "Oh, okay. Well, in any case, could you help with the pain, darling? If I could just ease the pain, I could make you a beautiful dress for the gala!"
 
@@ -578,7 +578,7 @@ Pinkie nodded.
 
 The pair hugged, holding each other tight.
 
-Twilight lamented, "Pinkie, you've been my best friend I could have asked for. And an amazing wife for many decades."
+Twilight lamented, "Pinkie, you've been the best friend I could have asked for. And an amazing wife for many decades."
 
 Pinkie smiled. "You too, Twilight. I wouldn't change a single thing about our friendship or relationship. I love you more than anypony ever ever ever ever."
 
