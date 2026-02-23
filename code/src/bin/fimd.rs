@@ -23,6 +23,10 @@ fn main() -> Result<(), Box<dyn Error>> {
 			let output = input.replace("../", "./publish/").replace(".md", ".txt");
 			fs::create_dir_all(Utf8Path::new(&output).parent().unwrap()).unwrap();
 			fs::write(output, bbcode).unwrap();
+			let html = pony::markdown::html::parse(&md, &WarningType::Quiet);
+			let output = input.replace("../", "./publish/").replace(".md", ".html");
+			fs::create_dir_all(Utf8Path::new(&output).parent().unwrap()).unwrap();
+			fs::write(output, html).unwrap();
 			println!("Converted: {input}");
 		});
 	fix_blog_2025_06_02a()?;
