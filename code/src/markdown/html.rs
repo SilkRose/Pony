@@ -5,7 +5,7 @@ use markdown::mdast::{
 };
 use markdown::{ParseOptions, to_mdast};
 
-/// Parse function for turning markdown into FIMFiction BBCode.
+/// Parse function for turning markdown into HTML.
 pub fn parse(md: &str, warn: &WarningType) -> String {
 	let node = to_mdast(md, &ParseOptions::gfm()).unwrap();
 	handle_node(&node, warn)
@@ -27,7 +27,7 @@ fn handle_node(node: &Node, warn: &WarningType) -> String {
 		.iter()
 		.filter_map(|n| md_to_html(n, warn, &definitions))
 		.collect::<Vec<_>>()
-		.join("\n\n")
+		.join("<br><br>")
 }
 
 fn md_to_html(node: &Node, warn: &WarningType, definitions: &Definitions) -> Option<String> {
@@ -84,20 +84,20 @@ fn handle_root(root: &Root, warn: &WarningType, definitions: &Definitions) -> St
 }
 
 fn handle_quote(blockquote: &Blockquote, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes(&blockquote.children, warn, definitions, "\n\n");
-	format!("<blockquote>\n{text}\n</blockquote>")
+	let text = handle_child_nodes(&blockquote.children, warn, definitions, "");
+	format!("<blockquote>{text}</blockquote>")
 }
 
 fn handle_list(list: &List, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes(&list.children, warn, definitions, "\n");
+	let text = handle_child_nodes(&list.children, warn, definitions, "");
 	match list.ordered {
-		true => format!("<ol>\n{text}\n</ol>"),
-		false => format!("<ul>\n{text}\n</ul>"),
+		true => format!("<ol>{text}</ol>"),
+		false => format!("<ul>{text}</ul>"),
 	}
 }
 
 fn handle_break() -> String {
-	"<br />".into()
+	"<br>".into()
 }
 
 fn handle_inline_code(code: &InlineCode) -> String {
@@ -115,17 +115,17 @@ fn handle_emphasis(emphasis: &Emphasis, warn: &WarningType, definitions: &Defini
 }
 
 fn handle_image(image: &Image) -> String {
-	format!("<img src=\"{}\" alt=\"{}\" ></img>", image.url, image.alt)
+	format!(r#"<img src="{}" alt="{}"></img>"#, image.url, image.alt)
 }
 
 fn handle_image_reference(image: &ImageReference, definitions: &Definitions) -> String {
 	let url = definitions.get(&image.identifier).unwrap();
-	format!("<img src=\"{url}\" alt=\"{}\" ></img>", image.alt)
+	format!(r#"<img src="{url}" alt="{}"></img>"#, image.alt)
 }
 
 fn handle_link(link: &Link, warn: &WarningType, definitions: &Definitions) -> String {
 	let text = handle_child_nodes(&link.children, warn, definitions, "");
-	format!("<a href=\"{}\">{text}</a>", link.url)
+	format!(r#"<a href="{}">{text}</a>"#, link.url)
 }
 
 fn handle_link_reference(
@@ -133,7 +133,7 @@ fn handle_link_reference(
 ) -> String {
 	let text = handle_child_nodes(&link.children, warn, definitions, "");
 	let url = definitions.get(&link.identifier).unwrap();
-	format!("<a href=\"{url}\">{text}</a>")
+	format!(r#"<a href="{url}">{text}</a>"#)
 }
 
 fn handle_strong(strong: &Strong, warn: &WarningType, definitions: &Definitions) -> String {
@@ -147,7 +147,7 @@ fn handle_heading(heading: &Heading, warn: &WarningType, definitions: &Definitio
 }
 
 fn handle_thematic_break() -> String {
-	"<hr />".into()
+	"<hr>".into()
 }
 
 fn handle_list_item(list_item: &ListItem, warn: &WarningType, definitions: &Definitions) -> String {
