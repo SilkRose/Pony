@@ -1,4 +1,4 @@
-use rand::Rng;
+use rand::RngExt;
 
 pub fn generate_passphrase() -> String {
 	let characters = [
