@@ -16,3 +16,10 @@ There's almost definitely some symbolism in this one that I'm not picking up. I 
 ### [Second Chance](https://www.fimfiction.net/story/585864/second-chance)
 Slow and methodical, this story tells itself with precision and grace. Full of character in every paragraph, this story gripped me from the start. The characters were on point and great. I felt a connection to Twilight while reading this with a headache, not of the story's fault. The pairing is one I don't think I've read, but was done was very believable. I'm glad Twilight got out and is going to hopefully live the life she deserves. Thank you [Revel Montaro](https://www.fimfiction.net/user/353633/Revel+Montaro) for writing this realistic story.
 
+### [Where the sun shines now no warmer than the moon](https://www.fimfiction.net/story/585710/where-the-sun-shines-now-no-warmer-than-the-moon)
+A dramatic tail of romance and unrequited love. This story went by too quick, but was already at the word limit. I loved the melodrama in this; hopefully that's the right word. I haven't read much Starlight x Sunburst, but I do love Starlight x Trixie. The characters felt like themselves. I did notice a few grammar/spelling mistakes, but nothing that took me out of the story. I thought the ending was sweet and cute. I really liked this one all around. Thank you [TheInfamousFly](https://www.fimfiction.net/user/549826/TheInfamousFly) for writing this dramatic story.
+
+### [A Million Eyes](https://www.fimfiction.net/story/586510/a-million-eyes)
+A shorter story with a more taboo pairing. I'm glad it's clarified in the description that Twilight is an adult. I wouldn't say I'm a fan of the pairing, but I would be feeling exactly the same as Celestia in this situation. I think this could have been longer with more of the two interacting. It is written well, and Celestia seems in character with the exception that I don't think she would ever date Twilight. Now, where did Twilight get off to? Thank you [Evil Dumbass](https://www.fimfiction.net/user/804464/Evil+Dumbass) for writing this
+sightful story.
+
