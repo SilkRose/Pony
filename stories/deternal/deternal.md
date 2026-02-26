@@ -586,7 +586,7 @@ They shared another intimate kiss.
 
 Pinkie asked, "You're going with me, aren't you?"
 
-Twilight sighed. "Yes, I'm sorry I never told you, or the girls."
+Twilight sighed. "Yes. I'm sorry I never told you, or the girls."
 
 Pinkie held Twilight's hoof to her chest. "I understand. Outliving all our friends has been very hard on me. I can't imagine losing you too…"
 
