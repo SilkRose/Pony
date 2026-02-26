@@ -4,7 +4,7 @@ Twilight Sparkle stood in front of her bed as her lifelong friends slept around 
 
 For a moment, she just stood there, feeling the rhythmic beating of each heart. Time escaped her as she focused. The influence of her magic tuned all six hearts into beating synchronously. She took a deep breath and began to recite the incantations of the spell.
 
-"Lifespans limited by time, link my friends onto mine. A curse of weakness singed on my heart, for upon each death I will hurt."
+"Lifespans limited by time, link my friends onto mine. A curse of weakness upon my heart, for the end of theirs will tear mine apart."
 
 She felt a weakness in her legs as the spell washed over her. A heaviness weighed over her heart. She fell to the ground as the invisible tethers tying her friends' hearts to her own made themselves known.
 
@@ -74,7 +74,7 @@ Twilight and Pinkie were particularly excited as this was their semi-unofficial 
 
 Rainbow flew above them as the show started. She was extremely happy and proud to be the captain now. She had spent years working her way up the ranks and fostering loyalty and friendship among the other cadets.
 
-Rainbow joined the rest of the Wonderbolts and led them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that seriously. She would just shrug and tell them that she had survived all kinds of worse accidents.
+Rainbow joined the rest of the Wonderbolts and led them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that seriously. When she crashed she would just shrug and tell them that she'd survived worse.
 
 Pinkie's eyes followed Rainbow as she felt Twilight rest her chin on the top of her head. She blushed and held Twilight's hoof a bit tighter.
 
@@ -104,7 +104,7 @@ Rainbow Dash had died, and so had Twilight Sparkle.
 
 ***
 
-Twilight woke up in a hospital bed. She opened her eyes to a dark room with her remaining friends asleep all around her. She looked down to see Pinkie asleep, half on her bed beside her and half on a chair next to the bed.
+Twilight woke up in a hospital bed. She opened her eyes to a dark room with her remaining friends asleep all around her. She looked down to see Pinkie asleep with her rump on a metal chair and her chin resting on one of Twilight's hooves, over the blanket.
 
 Twilight could feel dampness around Pinkie's head, likely from tears. She started to cry herself as she remembered what happened and who was missing.
 
@@ -132,7 +132,7 @@ Pinkie shushed her again. "There was nothing anypony could do. We all miss her s
 
 "Okay."
 
-"Now, what happened to you when she crashed? Why did you almost die?"
+"Now, what happened to you when she crashed? We thought we might lose you, too."
 
 Twilight lied. "I don't know, it felt like I died… Did the doctors say anything?"
 
