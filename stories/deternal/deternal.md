@@ -2,7 +2,7 @@
 
 Twilight Sparkle stood in front of her bed as her lifelong friends slept around her. Her horn lit up as her magic reached out, engulfing each of her friends' hearts in her magic. Lastly, she wrapped her own heart in the same aura.
 
-For a moment, she just stood there, feeling the rhythmic beating of each heart. Time escaped her as she focused. The influence of her magic tuned all six hearts into beating synchronously. She took a deep breath and began to recite the incantations of the spell.
+For a moment she just stood there, feeling the rhythmic beating of each heart. Time escaped her as she focused. The influence of her magic tuned all six hearts into beating synchronously. She took a deep breath and began to recite the incantations of the spell.
 
 "Lifespans limited by time, link my friends onto mine. A curse of weakness upon my heart, for the end of theirs will tear mine apart."
 
@@ -36,7 +36,7 @@ Twilight was almost a head taller than her friends at this point. She saw her ow
 
 Pinkie asked, "What's got you all sad? I know I'll never leave you… Did something happen to make you think I would?"
 
-Twilight faltered. She didn't know what to say. It was too late for her friends to convince her not to cast the spell, and telling her friends would just make it worse, she thought.
+Twilight faltered. She didn't know what to say. It was too late for her friends to convince her not to cast the spell, and telling them about it would just make it worse, she thought.
 
 "I just got scared from a nightmare."
 
@@ -182,7 +182,7 @@ Everypony hugged each other and cried together, releasing their pain over the lo
 
 Twilight led Pinkie into Rarity's hospital room, and they stood on either side of her bed.
 
-Rarity had lost almost all of her mane. Now only a few strands of purple and some gray from the silver streak in her mane remained. She looked dejected until she noticed the pair entering. Then she brightened up and tried to smile for them.
+Rarity had lost almost all of her mane. Now only a few strands of purple, and some gray from the silver streak in her mane, remained. She looked dejected until she noticed the pair entering. Then she brightened up and tried to smile for them.
 
 "Hello, Rarity. You doing any better?"
 
