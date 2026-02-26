@@ -492,11 +492,11 @@ After the hug was over, Twilight apologized. "I'm sorry, Fluttershy. I didn't kn
 
 Pinkie added, "We love you so much, Fluttershy. We'll do anything we can to help you."
 
-Fluttershy nodded, but she didn't smile. "Thank you, girls. I love you too."
+Fluttershy nodded, but she didn't smile. "Thank you, girls. I love you too. But-"
 
 Twilight offered, "I can send some ponies from Canterlot to come help you run the sanctuary."
 
-Fluttershy nodded. "That would be nice. But I don't think there's anything that will really help."
+Fluttershy nodded, and after a moment said, "That would be nice."
 
 Pinkie said, "I'm glad I got to be your friend for this long, Fluttershy."
 
