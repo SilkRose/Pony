@@ -23,3 +23,6 @@ A dramatic tail of romance and unrequited love. This story went by too quick, bu
 A shorter story with a more taboo pairing. I'm glad it's clarified in the description that Twilight is an adult. I wouldn't say I'm a fan of the pairing, but I would be feeling exactly the same as Celestia in this situation. I think this could have been longer with more of the two interacting. It is written well, and Celestia seems in character with the exception that I don't think she would ever date Twilight. Now, where did Twilight get off to? Thank you [Evil Dumbass](https://www.fimfiction.net/user/804464/Evil+Dumbass) for writing this
 sightful story.
 
+### [999 Told Twice Over](https://www.fimfiction.net/story/585162/999-told-twice-over)
+This story is full of complex emotions, and it's told beautifully. Moondancer's simultaneous love and hate for Twilight is interesting. Twilight's infatuation with Celestia caught me off guard, but probably shouldn't have. I like Twilight x Moondancer, although I haven't read much. It's sad that neither pony got what she wanted, but not unexpected. Twilight having autism is something I rarely see in stories, but it makes sense. I loved the detail put into this story as a whole. Thank you [Ice Star](https://www.fimfiction.net/user/220358/Ice+Star) for writing this emotional story.
+
