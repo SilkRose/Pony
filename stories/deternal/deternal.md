@@ -476,7 +476,7 @@ Both her friends nodded.
 
 Pinkie tried to comfort her with a hug.
 
-Fluttershy hugged back. "I'm sad because when an animal is dying, I just have to watch as they struggle, asking for help through the pain."
+Fluttershy hugged back. "I'm sad because, when an animal is dying, I just have to watch them struggle, crying for help through the pain."
 
 Twilight joined the hug as Pinkie started to cry, too.
 
