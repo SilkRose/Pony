@@ -472,11 +472,7 @@ Fluttershy sighed. "Can I tell you girls something?"
 
 Both her friends nodded.
 
-"I've been really sad for the last few years. I try and take care of the animals at the sanctuary, but it just gets harder and harder every day."
-
-Pinkie nodded.
-
-Fluttershy continued, "I'm sad because there are too many animals for me to help." Tears fell from her eyes. "I'm sad because I can't help in the ways I used to be able to."
+"I'm sad because there are too many animals for me to help." Tears fell from her eyes. "I'm sad because I can't help in the ways I used to be able to."
 
 Pinkie tried to comfort her with a hug.
 
