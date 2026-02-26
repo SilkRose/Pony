@@ -480,11 +480,11 @@ Fluttershy hugged back. "I'm sad because, when an animal is dying, I just have t
 
 Twilight joined the hug as Pinkie started to cry, too.
 
-Fluttershy broke down, full-on crying now. "I'm sad because I should have died first. I miss Rainbow, and Rarity, and Applejack so much."
+Fluttershy broke down, full-on crying now. "I'm sad because I miss Rainbow, and Rarity, and Applejack so much."
 
 All three mares stayed in the hug, crying together.
 
-"I'm sad because I don't know what to do anymore. I don't know how to go on living in misery."
+"I'm sad because I don't know what to do anymore. I don't know how to go on living in misery. I should have died first."
 
 For a while, they cried out their frustration and sadness in silence.
 
