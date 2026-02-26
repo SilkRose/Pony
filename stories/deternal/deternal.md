@@ -2,9 +2,9 @@
 
 Twilight Sparkle stood in front of her bed as her lifelong friends slept around her. Her horn lit up as her magic reached out, engulfing each of her friends' hearts in her magic. Lastly, she wrapped her own heart in the same aura.
 
-For a moment, she just stood there, feeling the rhythmic beating of each heart. Time escaped her as she focused. The influence of her magic tuned all six hearts into beating synchronously. She took a deep breath and began to recite the incantations of the spell.
+For a moment she just stood there, feeling the rhythmic beating of each heart. Time escaped her as she focused. The influence of her magic tuned all six hearts into beating synchronously. She took a deep breath and began to recite the incantations of the spell.
 
-"Lifespans limited by time, link my friends onto mine. A curse of weakness singed on my heart, for upon each death I will hurt."
+"Lifespans limited by time, link my friends onto mine. A curse of weakness upon my heart, for the end of theirs will tear mine apart."
 
 She felt a weakness in her legs as the spell washed over her. A heaviness weighed over her heart. She fell to the ground as the invisible tethers tying her friends' hearts to her own made themselves known.
 
@@ -36,7 +36,7 @@ Twilight was almost a head taller than her friends at this point. She saw her ow
 
 Pinkie asked, "What's got you all sad? I know I'll never leave you… Did something happen to make you think I would?"
 
-Twilight faltered. She didn't know what to say. It was too late for her friends to convince her not to cast the spell, and telling her friends would just make it worse, she thought.
+Twilight faltered. She didn't know what to say. It was too late for her friends to convince her not to cast the spell, and telling them about it would just make it worse, she thought.
 
 "I just got scared from a nightmare."
 
@@ -74,7 +74,7 @@ Twilight and Pinkie were particularly excited as this was their semi-unofficial 
 
 Rainbow flew above them as the show started. She was extremely happy and proud to be the captain now. She had spent years working her way up the ranks and fostering loyalty and friendship among the other cadets.
 
-Rainbow joined the rest of the Wonderbolts and led them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that seriously. She would just shrug and tell them that she had survived all kinds of worse accidents.
+Rainbow joined the rest of the Wonderbolts and led them in an amazing chorus of daring stunts and fast flying. She never did take any of her friends' warnings about safety all that seriously. When she crashed she would just shrug and tell them that she'd survived worse.
 
 Pinkie's eyes followed Rainbow as she felt Twilight rest her chin on the top of her head. She blushed and held Twilight's hoof a bit tighter.
 
@@ -104,7 +104,7 @@ Rainbow Dash had died, and so had Twilight Sparkle.
 
 ***
 
-Twilight woke up in a hospital bed. She opened her eyes to a dark room with her remaining friends asleep all around her. She looked down to see Pinkie asleep, half on her bed beside her and half on a chair next to the bed.
+Twilight woke up in a hospital bed. She opened her eyes to a dark room with her remaining friends asleep all around her. She looked down to see Pinkie asleep with her rump on a metal chair and her chin resting on one of Twilight's hooves, over the blanket.
 
 Twilight could feel dampness around Pinkie's head, likely from tears. She started to cry herself as she remembered what happened and who was missing.
 
@@ -132,7 +132,7 @@ Pinkie shushed her again. "There was nothing anypony could do. We all miss her s
 
 "Okay."
 
-"Now, what happened to you when she crashed? Why did you almost die?"
+"Now, what happened to you when she crashed? We thought we might lose you, too."
 
 Twilight lied. "I don't know, it felt like I died… Did the doctors say anything?"
 
@@ -182,7 +182,7 @@ Everypony hugged each other and cried together, releasing their pain over the lo
 
 Twilight led Pinkie into Rarity's hospital room, and they stood on either side of her bed.
 
-Rarity had lost almost all of her mane. Now only a few strands of purple and some gray from the silver streak in her mane remained. She looked dejected until she noticed the pair entering. Then she brightened up and tried to smile for them.
+Rarity had lost almost all of her mane. Now only a few strands of purple, and some gray from the silver streak in her mane, remained. She looked dejected until she noticed the pair entering. Then she brightened up and tried to smile for them.
 
 "Hello, Rarity. You doing any better?"
 
@@ -472,23 +472,19 @@ Fluttershy sighed. "Can I tell you girls something?"
 
 Both her friends nodded.
 
-"I've been really sad for the last few years. I try and take care of the animals at the sanctuary, but it just gets harder and harder every day."
-
-Pinkie nodded.
-
-Fluttershy continued, "I'm sad because there are too many animals for me to help." Tears fell from her eyes. "I'm sad because I can't help in the ways I used to be able to."
+"I'm sad because there are too many animals for me to help." Tears fell from her eyes. "I'm sad because I can't help in the ways I used to be able to."
 
 Pinkie tried to comfort her with a hug.
 
-Fluttershy hugged back. "I'm sad because when an animal is dying, I just have to watch as they struggle, asking for help through the pain."
+Fluttershy hugged back. "I'm sad because, when an animal is dying, I just have to watch them struggle, crying for help through the pain."
 
 Twilight joined the hug as Pinkie started to cry, too.
 
-Fluttershy broke down, full-on crying now. "I'm sad because I should have died first. I miss Rainbow, and Rarity, and Applejack so much."
+Fluttershy broke down, full-on crying now. "I'm sad because I miss Rainbow, and Rarity, and Applejack so much."
 
 All three mares stayed in the hug, crying together.
 
-"I'm sad because I don't know what to do anymore. I don't know how to go on living in misery."
+"I'm sad because I don't know what to do anymore. I don't know how to go on living in misery. I should have died first."
 
 For a while, they cried out their frustration and sadness in silence.
 
@@ -496,11 +492,11 @@ After the hug was over, Twilight apologized. "I'm sorry, Fluttershy. I didn't kn
 
 Pinkie added, "We love you so much, Fluttershy. We'll do anything we can to help you."
 
-Fluttershy nodded, but she didn't smile. "Thank you, girls. I love you too."
+Fluttershy nodded, but she didn't smile. "Thank you, girls. I love you too. But-"
 
 Twilight offered, "I can send some ponies from Canterlot to come help you run the sanctuary."
 
-Fluttershy nodded. "That would be nice. But I don't think there's anything that will really help."
+Fluttershy nodded, and after a moment said, "That would be nice."
 
 Pinkie said, "I'm glad I got to be your friend for this long, Fluttershy."
 
@@ -590,7 +586,7 @@ They shared another intimate kiss.
 
 Pinkie asked, "You're going with me, aren't you?"
 
-Twilight sighed. "Yes, I'm sorry I never told you, or the girls."
+Twilight sighed. "Yes. I'm sorry I never told you, or the girls."
 
 Pinkie held Twilight's hoof to her chest. "I understand. Outliving all our friends has been very hard on me. I can't imagine losing you too…"
 
