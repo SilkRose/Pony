@@ -26,3 +26,6 @@ sightful story.
 ### [999 Told Twice Over](https://www.fimfiction.net/story/585162/999-told-twice-over)
 This story is full of complex emotions, and it's told beautifully. Moondancer's simultaneous love and hate for Twilight is interesting. Twilight's infatuation with Celestia caught me off guard, but probably shouldn't have. I like Twilight x Moondancer, although I haven't read much. It's sad that neither pony got what she wanted, but not unexpected. Twilight having autism is something I rarely see in stories, but it makes sense. I loved the detail put into this story as a whole. Thank you [Ice Star](https://www.fimfiction.net/user/220358/Ice+Star) for writing this emotional story.
 
+### [Disclosure](https://www.fimfiction.net/story/581509/disclosure)
+This story is a moment in time between two ponies. The emotions are raw, and they feel real. Starlight's distress could be felt as she revealed what happened to her. I'm glad she's with somepony as lovely as Cadance now. They make a cute couple that I should definitely read more of. I'm glad Starlight was able to tell her, I can't imagine what going through that would be like. The ending was cute. This story is short, but full of emotion. Thank you [AC97](https://www.fimfiction.net/user/274200/AC97) for writing this raw story.
+
