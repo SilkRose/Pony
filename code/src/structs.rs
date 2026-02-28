@@ -48,3 +48,18 @@ where
 	let s: Option<String> = Option::deserialize(deserializer)?;
 	Ok(s.filter(|s| !s.is_empty()))
 }
+
+pub fn option_bool<'de, D>(deserializer: D) -> Result<bool, D::Error>
+where
+	D: Deserializer<'de>,
+{
+	let s: Option<String> = Option::deserialize(deserializer)?;
+	Ok(match s {
+		Some(value) => match value.to_ascii_lowercase().as_str() {
+			"false" | "0" | "no" | "n" | "f" => false,
+			"true" | "1" | "yes" | "y" | "t" => true,
+			_ => return Err(D::Error::custom("invalid boolean value")),
+		},
+		None => false,
+	})
+}
