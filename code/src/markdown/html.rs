@@ -1,7 +1,7 @@
 use super::{Definitions, WarningType, handle_warning};
 use markdown::mdast::{
-	Blockquote, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode, Link,
-	LinkReference, List, ListItem, Node, Paragraph, Root, Strong,
+	Blockquote, Code, Definition, Delete, Emphasis, Heading, Image, ImageReference, InlineCode,
+	Link, LinkReference, List, ListItem, Node, Paragraph, Root, Strong,
 };
 use markdown::{ParseOptions, to_mdast};
 
@@ -54,8 +54,8 @@ fn md_to_html(node: &Node, warn: &WarningType, definitions: &Definitions) -> Opt
 		Node::Link(link) => Some(handle_link(link, warn, definitions)),
 		Node::LinkReference(link) => Some(handle_link_reference(link, warn, definitions)),
 		Node::Strong(strong) => Some(handle_strong(strong, warn, definitions)),
-		Node::Text(text) => Some(text.value.clone()),
-		Node::Code(_) => handle_warning("Code", warn),
+		Node::Text(text) => Some(text.value.clone().replace("\n", "<br>")),
+		Node::Code(code) => Some(handle_code(code)),
 		Node::Math(_) => handle_warning("Math", warn),
 		Node::MdxFlowExpression(_) => handle_warning("MdxFlowExpression", warn),
 		Node::Heading(heading) => Some(handle_heading(heading, warn, definitions)),
@@ -84,8 +84,15 @@ fn handle_root(root: &Root, warn: &WarningType, definitions: &Definitions) -> St
 }
 
 fn handle_quote(blockquote: &Blockquote, warn: &WarningType, definitions: &Definitions) -> String {
-	let text = handle_child_nodes(&blockquote.children, warn, definitions, "");
+	let text = handle_child_nodes(&blockquote.children, warn, definitions, "<br><br>");
 	format!("<blockquote>{text}</blockquote>")
+}
+
+fn handle_code(code: &Code) -> String {
+	format!(
+		"<pre><code>{}</code></pre>",
+		code.value.replace("\n", "<br>")
+	)
 }
 
 fn handle_list(list: &List, warn: &WarningType, definitions: &Definitions) -> String {
