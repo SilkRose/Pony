@@ -35,3 +35,9 @@ A bittersweet tale about the last night of passion between two souls, I liked th
 ### [Rough Trade (Sirens Are Immortal)](https://www.fimfiction.net/story/587335/rough-trade-sirens-are-immortal)
 An interesting concept for how Adagio lives as a siren in the Equestria Girls world. Making Troubleshoes a pimp will never not be funny to me. It's nice that he's trying to look out for Adagio, though. The romance between Adagio and Twilight is cute. the physicality in this is good and hits hard (pun intended). The story is written well and I really like the concept. The section with (presumably) Rainbow Dash was fun. Thank you [Mockingbirb](https://www.fimfiction.net/user/382692/Mockingbirb) for writing this interesting story.
 
+### [Slow Motion](https://www.fimfiction.net/story/586474/slow-motion)
+A great story with a unique pairing. I loved the characters and the romance in this story. Definitely going to read more of these two together after this. I was unsure at first, but this story showcases the pair with beauty and grace. I enjoyed practically everything about this story. their names for each other were cute. The countdown in the chapter names was a nice touch. The ending was raw and full of emotion. Thank you [BifauxnenStroganoff](https://www.fimfiction.net/user/18580/BifauxnenStroganoff) for writing this excellent story.
+
+### [Plastic Love](https://www.fimfiction.net/story/585283/plastic-love)
+This story is sad. I felt for Rarity as she slowly transformed. This pair is another one I have barely read, but would like to read more of in the future. The characters felt great. Rarity staying calm the whole time despite what's actively happening is moving. I don't think it is ever explained how she got trapped in the snow globe, I don't think I would be as calm in there. The ending is is a gut punch of sadness. Poor Rarity… Thank you [marmalado](https://www.fimfiction.net/user/362455/marmalado) for writing this sad story.
+
