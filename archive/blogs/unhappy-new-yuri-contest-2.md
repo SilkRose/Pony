@@ -44,3 +44,6 @@ This story is sad. I felt for Rarity as she slowly transformed. This pair is ano
 ### [The Devotion of Twilight Sparkle](https://www.fimfiction.net/story/587358/the-devotion-of-twilight-sparkle)
 While Twilight Sparkle was devoted, I felt sad for her. To live a life as such she did and stay true to her love, some might say she was mad. I haven't read much of this pairing, and I might try to more. I did spot a few spelling/grammar errors, but nothing that took me out of the story. The missing A.U. tag felt weird to me, but I wouldn't hold it against it. Thank you [BluebelleOfTheBall](https://www.fimfiction.net/user/842297/BluebelleOfTheBall) for writing this mad story.
 
+### [Lethean Rain](https://www.fimfiction.net/story/587154/lethean-rain)
+An amazing concept told beautifully. I loved the world building in this one. The characters were great and the romance was on point. I don't normally read much A.U., but this one had me gripped from the start. I love any mane 6 pairing, especially this one! I caught on to *it* pretty quick I feel like. I can't say enough good things about this one, but that may be my bias speaking. The ending was great and sad. Thank you [Not That Anon](https://www.fimfiction.net/user/386458/Not+That+Anon) for writing this beautiful story.
+
