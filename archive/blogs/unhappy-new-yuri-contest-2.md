@@ -41,3 +41,6 @@ A great story with a unique pairing. I loved the characters and the romance in t
 ### [Plastic Love](https://www.fimfiction.net/story/585283/plastic-love)
 This story is sad. I felt for Rarity as she slowly transformed. This pair is another one I have barely read, but would like to read more of in the future. The characters felt great. Rarity staying calm the whole time despite what's actively happening is moving. I don't think it is ever explained how she got trapped in the snow globe, I don't think I would be as calm in there. The ending is is a gut punch of sadness. Poor Rarity… Thank you [marmalado](https://www.fimfiction.net/user/362455/marmalado) for writing this sad story.
 
+### [The Devotion of Twilight Sparkle](https://www.fimfiction.net/story/587358/the-devotion-of-twilight-sparkle)
+While Twilight Sparkle was devoted, I felt sad for her. To live a life as such she did and stay true to her love, some might say she was mad. I haven't read much of this pairing, and I might try to more. I did spot a few spelling/grammar errors, but nothing that took me out of the story. The missing A.U. tag felt weird to me, but I wouldn't hold it against it. Thank you [BluebelleOfTheBall](https://www.fimfiction.net/user/842297/BluebelleOfTheBall) for writing this mad story.
+
