@@ -53,3 +53,6 @@ An interesting tail of companionship and loss. This was short and sad. I feel fo
 ### [The Dress to Confess](https://www.fimfiction.net/story/586827/the-dress-to-confess)
 A bit darker of a story with a unique concept. This story has a strangeness to it unlike any of the others, a unique but good strange. The characters seemed indifferent to themselves. I did laugh at the mention of where the book was stored, but I have to wonder what the *unique* shape of the book was. Being a shorter story, it had little romance. It never mentions who Rarity's love is, but I suspect it is Applejack. The ending caught me off guard though. Thank you [SparklingTwilight](https://www.fimfiction.net/user/423060/SparklingTwilight) for writing this unique story.
 
+### [Breakup at the Holiday Party](https://www.fimfiction.net/story/587059/breakup-at-the-holiday-party)
+A heart-warming story filled with emotion and angst. The characters felt like themselves, and the pacing was on point. The pairing is one I love. I liked how supportive everyone was. The clumsy confession/kiss felt very much like Fluttershy. Twilight's distress to her breakup and reaction to Fluttershy was realistic. The texting with emotes was cute. I'm glad they ended up together at the end. Thank you [Silver Arctic Wolf](https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf) for writing this cute story.
+
