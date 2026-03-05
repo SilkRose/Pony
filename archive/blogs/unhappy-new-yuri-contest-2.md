@@ -56,3 +56,6 @@ A bit darker of a story with a unique concept. This story has a strangeness to i
 ### [Breakup at the Holiday Party](https://www.fimfiction.net/story/587059/breakup-at-the-holiday-party)
 A heart-warming story filled with emotion and angst. The characters felt like themselves, and the pacing was on point. The pairing is one I love. I liked how supportive everyone was. The clumsy confession/kiss felt very much like Fluttershy. Twilight's distress to her breakup and reaction to Fluttershy was realistic. The texting with emotes was cute. I'm glad they ended up together at the end. Thank you [Silver Arctic Wolf](https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf) for writing this cute story.
 
+### [Just Communication](https://www.fimfiction.net/story/585104/just-communication)
+A lovely story full of sweet moments and sadness. The Emotions are real in this one. I loved the characters and the struggles they are enduring. I can't imagine going through that loss. The pairing is one I'm starting to love a lot. Communication is key in any relationship or friendship, and I'm glad they are working on it. I really liked this one, and the ending was cute and sweet. Thank you [Lunaria](https://www.fimfiction.net/user/68640/Lunaria) for writing this saccharine story.
+
