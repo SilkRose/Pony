@@ -47,3 +47,6 @@ While Twilight Sparkle was devoted, I felt sad for her. To live a life as such s
 ### [Lethean Rain](https://www.fimfiction.net/story/587154/lethean-rain)
 An amazing concept told beautifully. I loved the world building in this one. The characters were great and the romance was on point. I don't normally read much A.U., but this one had me gripped from the start. I love any mane 6 pairing, especially this one! I caught on to *it* pretty quick I feel like. I can't say enough good things about this one, but that may be my bias speaking. The ending was great and sad. Thank you [Not That Anon](https://www.fimfiction.net/user/386458/Not+That+Anon) for writing this beautiful story.
 
+### [Nameless Survivors](https://www.fimfiction.net/story/587395/nameless-survivors)
+An interesting tail of companionship and loss. This was short and sad. I feel for the characters, hopefully they make it out and can grow closer as a result. The survival aspects were interesting. I liked the lore about gryphons. The shade thrown at Celestia feels warranted from a gryphon's perspective. I like the unusual words: formel and cavate, along with their explanations in the description. The ending is sad, but at least they have each other. Thank you [PinkamenaPictures](https://www.fimfiction.net/user/580599/PinkamenaPictures) for writing this surviving story.
+
