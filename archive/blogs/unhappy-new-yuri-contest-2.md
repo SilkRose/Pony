@@ -59,3 +59,6 @@ A heart-warming story filled with emotion and angst. The characters felt like th
 ### [Just Communication](https://www.fimfiction.net/story/585104/just-communication)
 A lovely story full of sweet moments and sadness. The Emotions are real in this one. I loved the characters and the struggles they are enduring. I can't imagine going through that loss. The pairing is one I'm starting to love a lot. Communication is key in any relationship or friendship, and I'm glad they are working on it. I really liked this one, and the ending was cute and sweet. Thank you [Lunaria](https://www.fimfiction.net/user/68640/Lunaria) for writing this saccharine story.
 
+### [Freely Given](https://www.fimfiction.net/story/587404/freely-given)
+A cute concept written into a cute story. Fluttershy is always cute and this is no exception. Chrysalis's talk of calculations make sense for her character. Harboring the queen of the changelings does feel like something Fluttershy would do with her good intentions. The pairing is unique and interesting. The characters felt good. A little surprised we didn't see Discord or any of the other mane 6, but that's fine with me. The ending was also cute. Thank you [Gonderlane](https://www.fimfiction.net/user/444864/Gonderlane) for writing this adorable story.
+
