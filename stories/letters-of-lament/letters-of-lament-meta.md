@@ -17,6 +17,8 @@ Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo
 
 Now with a [reading](https://www.youtube.com/watch?v=RiBFaquSNSw) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
+[Reviewed](https://www.fimfiction.net/blog/1137797/fic-recs-march-11th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Ideas:
 
 
