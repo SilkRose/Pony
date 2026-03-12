@@ -119,6 +119,7 @@ A few of my stories have had reviews made for them, I would like to thank the fo
 | **[Hoofprintz]** | [Love Licks] | [YouTube][Love Licks reading & review] |
 | **[Hipponous]** | [Pink Reflections] | [Fimfiction][Pink Reflections review] |
 | **[PresentPerfect]** | [Blue and Blushing] | [Fimfiction][Blue and Blushing review] |
+| **[PresentPerfect]** | [Letters of Lament] | [Fimfiction][Letters of Lament review] |
 
 ## Contest Placements:
 I've participated in a few contests, here are the placements below:
@@ -308,6 +309,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pink-Mended Sparkles review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/560929/review-of-pink-mended-sparkles-by-silk-rose "Fimfiction"
 [Pink Reflections review]: https://www.fimfiction.net/blog/1135572/a-review-of-silk-roses-pink-reflections-written-at-his-behest "Fimfiction"
 [Blue and Blushing review]: https://www.fimfiction.net/blog/1136432/fic-recs-february-4th "Fimfiction"
+[Letters of Lament review]: https://www.fimfiction.net/blog/1137797/fic-recs-march-11th "Fimfiction"
 
 [Love Licks reading & review]: https://www.youtube.com/watch?v=J7ciA6YoAY8 "YouTube"
 
