@@ -9,12 +9,12 @@ license = "MIT"
 repository = "https://github.com/SilkRose/Pony"
 
 [dependencies]
-blake3 = { version = "1.8.3" }
+blake3 = { version = "1.8.4" }
 camino = { version = "1.2.2" }
 chrono = { version = "0.4.44" }
 chrono-tz = { version = "0.10.4" }
 git2 = { version = "0.20.4" }
-image = { version = "0.25.9" }
+image = { version = "0.25.10" }
 indoc = { version = "2.0.7" }
 markdown = { version = "1.0.0" }
 num_cpus = { version = "1.17.0" }
