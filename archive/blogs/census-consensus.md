@@ -73,3 +73,96 @@ The original plan for the code was for myself to code the back end server stuff,
 A fun fact about this story: [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) thought of a question idea early on about a pony working in the factory the census was being printed in getting stuck and asking a question on the survey as a way to call for help. We never found a way to use this, but we all liked the idea.
 
 By the time the database code was done, meadow had authentication working and I could start working on the pages for writers to create and edit questions and chapters.
+
+Here is an early screenshot of the `/chapters` page:
+![Chapter's page early look](./census-consensus-images/01.png)
+
+The add button orders the chapter. Only ordered chapters get posted when the event in live. The up and down arrows for vote duration adjusts the time for voting on that chapter's survey.
+
+Here is an early screenshot of the `/chapters/{id}/revisions` page:
+![Chapter revision page early look](./census-consensus-images/02.png)
+
+This shows every revision of the chapter, so no data is lost.
+
+Here is an early screenshot of the `/questions/new` page:
+![New question page early look](./census-consensus-images/03.png)
+
+This page was later moved to be at the bottom of the question list page. Response percentage is how many ponies in-universe responded. If this is set to 50% then the answers to the survey are scaled so the total count is half of 50,240,000.
+
+Here is an early screenshot of the `/questions/{id}/revisions` page:
+![Question revision page early look](./census-consensus-images/04.png)
+
+Here is an early screenshot of the `/chapters/{id}/questions` page:
+![Chapter questions page early look](./census-consensus-images/05.png)
+
+This page let's you add a question to a chapter, and move around the order within that chapter. It also lets you claim a chapter, signalling that you plan to write that question.
+
+It took a while, but I eventually got all the pages working. Initially I made the questions and chapters pages use HTML tables, but eventually this changed as you will see in a bit.
+
+The next thing I worked on was the color schemes. As you might have seen on the site, the color themes are Celestia for light, and Luna for dark. I used the [MLP-VectorClub](https://mlpvector.club/) website and the [Realtime Colors](https://www.realtimecolors.com/) website to create the themes. You can view the original versions here: [Celestia](https://www.realtimecolors.com/?colors=5e2f79-fef6fb-fcd8b6-fdf5b4-f2d9e8&fonts=Inter-Inter), [Luna](https://www.realtimecolors.com/?colors=a7bef1-171a35-3adfc3-00c5cc-aba4f4&fonts=Inter-Inter).
+
+After the site was functional and looked decent, it was time to start writing. The first question of the story was created on March 3rd 2026 at 5:39AM UTC. Yes, the entire story was written very late into development. Some things never change.
+
+I used the Luna theme initially, as I love dark mode everything, but something about the Celestia theme made me switch, and I've been using it ever since. A few people mentioned in their feedback that they really liked the themes being Celestia and Luna a lot. Thank you!
+
+Here is a screenshot of the `/user` page for an admin:
+![Admin user page](./census-consensus-images/06.png)
+
+It had an extra spot to update a user's role, and a spot to ban a user. We wanted to be prepaired for anything. Luckily, we never had to ban anypony!
+
+Here is the current `/chapters` page:
+![Chapters page](./census-consensus-images/07.png)
+
+this shows all the relevant information while still looking good on desktop and mobile.
+
+Here is the current mobile `/chapters` page:
+![Chapters page](./census-consensus-images/07-mobile.jpg)
+
+Here is the current bottom of the `/chapters` page:
+![Chapters page bottom](./census-consensus-images/08.png)
+
+This has the new chapter form.
+
+Here is the current `/chapters/{id}/revisions` page:
+![](./census-consensus-images/09.png)
+
+It shows every revision in a HTML details element, including the date/time it was saved, and who made the revision.
+
+Here is the current `/questions` page:
+![](./census-consensus-images/10.png)
+
+this shows all the relevant information while still looking good on desktop and mobile.
+
+Here is the current mobile `/questions` page:
+![Questions page](./census-consensus-images/10-mobile.jpg)
+
+Here is the current bottom of the `/questions` page:
+![](./census-consensus-images/11.png)
+
+It has the form for creating new questions.
+
+Here is the rest of the form on the `/questions` page:
+![](./census-consensus-images/12.png)
+
+Here is the current `/questions/{id}/revisions` page:
+![](./census-consensus-images/13.png)
+
+Includes the same info as the chapter revisions page, but for questions.
+
+Here is the `/feedback` page, it is for writers/admins only:
+![](./census-consensus-images/14.png)
+
+As you can see, I used my private feedback to write my message for sending to potential collaborators. It also includes the logo clicks stats, more on this later.
+
+Here is a screenshot of the only admin only page, `/dashboard`:
+![](./census-consensus-images/15.png)
+
+This has forms for adjusting the story ID, total population of Equestria, vote duration for all chapters, the event reset, and the start date and time.
+
+Another fun fact about this story: The population of Equestria used for the event was taken from the start of a new save in [Hearts of Iron IV](https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/) with the [Equestria at War](https://steamcommunity.com/sharedfiles/filedetails/?id=1826643372) mod.
+
+All these screenshots were taken before the code was updating to make some of these pages public. A lot of site functionality will be removed by now to make most things read only.
+
+
+
+Once writing had started, I worked on polishing the site and fixing bugs until it came time to code the event loop, the thing that controlled the event and updated the story with the correct chapter.
