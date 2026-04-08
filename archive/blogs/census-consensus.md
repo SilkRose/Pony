@@ -4,11 +4,11 @@ Tagged story: [Census Consensus](https://www.fimfiction.net/story/589323/census-
 
 ***
 
-With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It let's you view the current results for each chapter, and a random results page to see any combination of answers. If you missed the event, please go vote and make your voice heard!
+With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It lets you view the current results for each chapter, and a random results page to see any combination of answers. If you missed the event, please go vote and make your voice heard!
 
 In addition to allowing you to vote for missed surveys, you can also vote more than once to re-cast your ballot. We've also made the behind the scenes pages visible to the public. You can see exactly how chapters and questions were written and see every revision of them.
 
-This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. I even had to re-deploy twice to fix bugs while the event was happening. But, we'll talk about that later.
+This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But, we'll talk about that later.
 
 Before I continue, I'd like to thank everypony below who helped with this project throughout it's development:
 
@@ -26,7 +26,6 @@ Before I continue, I'd like to thank everypony below who helped with this projec
 - [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo)
 - [Shakespearicles](https://www.fimfiction.net/user/83757/Shakespearicles)
 - [Shay492](https://www.fimfiction.net/user/840747/Shay492)
-- [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose)
 - [Silver Needle](https://www.fimfiction.net/user/463467/Silver+Needle)
 
 I guess I should explain how the event worked before going into more detail.
@@ -45,11 +44,11 @@ A fun fact about this story: while it was live, an archival friend of mine messa
 
 I bring up The Exploding Story to say: this is where it all began. I won't speak for Bob, but for me this is where I realized a story could be more than just a story, it could be an event. We immediately knew that whatever we did next year, we wanted it to be interactive. This was something we'd always wanted, but didn't have the time for this first event.
 
-Next year's event, was exactly that, interactive. [Democracy Manifest](https://www.fimfiction.net/story/575601/democracy-manifest), known as The Democracy Story, was interactive, it used the like button as a way to vote on proposals in the story. I wrote the code while Bob did the writing, but this time with some outside help. I also wrote two chapters.
+Next year's event, was exactly that, interactive. [Democracy Manifest](https://www.fimfiction.net/story/575601/democracy-manifest), known as The Democracy Story, was interactive; it used the like button as a way to vote on proposals in the story. I wrote the code while Bob did the writing, but this time with some outside help. I also wrote two chapters.
 
 Something interesting about the code that only I utilized was: it allowed branching paths. I wrote the chapter where you vote on if Pinkie or Fluttershy are cuter. Then whoever is voted less cute, goes back to the voting ponies to ask them if she should ask out the other pony. If you'd like to read the alternative chapters, you can do so [here](https://github.com/SilkRose/Pony/blob/mane/stories/democracy-manifest/democracy-manifest-meta.md) in my [Pony](https://github.com/SilkRose/Pony) repository.
 
-A fun fact about this story: no matter who you vote as cutest, or if you vote for them to ask out the other, I made it so they always ended up together.
+A fun fact about this story: no matter which way you vote on my two chapters, I made it so they always ended up together.
 
 I recently re-read this story, and I really liked this line I wrote in it:
 > Fluttershy smiles, appearing more relaxed after getting that off her chest. "She's just so amazing, I really want to ask her out, but I don't know if I could do it without the support of a bunch of ponies I don't know who agree that she is cuter than me."
@@ -58,7 +57,11 @@ You might have noticed that neither Bob or I wrote a blog about this story. Bob 
 
 This story had what can only be described as an obvious flaw in its design: you can only like a story once. With the fact removing a like counted as a no vote, this made interacting with the mechanics of the story very clunky. There was a five minute window between chapters you could remove a like to get your vote back, but I don't know how many people realized this.
 
+Some readers interpreted that disliking the story counted as a no vote. We tried our best to explain that only the like button was used. I think this misconception is why the story has so many dislikes.
+
 If I had to rank these two stories in terns of fun and enjoyment, I'd put The Exploding Story above The Democracy Story. While they were both fun, The Democracy Story didn't have that explosive energy of the first one.
+
+I'm not sorry for any of the explosion puns.
 
 Now, let's get back to this year's event: [Census Consensus](https://www.fimfiction.net/story/589323/census-consensus).
 
@@ -66,11 +69,11 @@ For the last 2 years, I had someone to call the shots for me. Bob was an amazing
 
 I wanted this whole project to be as collaborative as I could get from the very start. I didn't want to arbitrarily decide anything unless it was absolutely necessary. This is why the Discord group was made before any code had even been written.
 
-The first thing I coded for the project was the database SQL statements, over a thousand lines of create, delete, update, insert SQL. Once I got the table creation statements done, [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) helped me with fixing the table designs. He says he didn't help with this event, but he did help with this in the very beginning.
+The first thing I coded for the project was the database SQL, over a thousand lines of create, delete, update, and insert SQL statements. Once I got the table creation done, [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) helped me with fixing the table designs. He says he didn't help with this event, but he did help with this in the very beginning.
 
 The original plan for the code was for myself to code the back end server stuff, while [meadowsys](https://www.fimfiction.net/user/487213/meadowsys) coded the front end using a specific library called [Leptos](https://www.leptos.dev/). Unfortunately, we never got to the point of converting my back end HTML template code to the new system, as we ran out of time. And the code I had written on the back end using an HTML template library called [Maud](https://maud.lambda.xyz/) was functioning well. Yes, that library's name is a MLP reference.
 
-A fun fact about this story: [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) thought of a question idea early on about a pony working in the factory the census was being printed in getting stuck and asking a question on the survey as a way to call for help. We never found a way to use this, but we all liked the idea.
+A fun fact about this story: [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) thought of a question idea early on about a pony working in the factory the census was being printed in getting stuck, and asking a question on the survey as a way to call for help. We never found a way to use this, but we all liked the idea.
 
 By the time the database code was done, meadow had authentication working and I could start working on the pages for writers to create and edit questions and chapters.
 
@@ -103,40 +106,40 @@ The next thing I worked on was the color schemes. As you might have seen on the 
 
 After the site was functional and looked decent, it was time to start writing. The first question of the story was created on March 3rd 2026 at 5:39AM UTC. Yes, the entire story was written very late into development. Some things never change.
 
-I used the Luna theme initially, as I love dark mode everything, but something about the Celestia theme made me switch, and I've been using it ever since. A few people mentioned in their feedback that they really liked the themes being Celestia and Luna a lot. Thank you!
+I used the Luna theme initially, as I love dark mode everything, but something about the Celestia theme made me switch, and I've been using it ever since. A few people mentioned in their feedback that they really liked the themes being Celestia and Luna. Thank you!
 
 Here is a screenshot of the `/user` page for an admin:
 ![Admin user page](./census-consensus-images/06.png)
 
-It had an extra spot to update a user's role, and a spot to ban a user. We wanted to be prepaired for anything. Luckily, we never had to ban anypony!
+It had an extra spot to update a user's role, and a spot to ban a user. We wanted to be prepared for anything. Luckily, we never had to ban anypony!
 
-Here is the current `/chapters` page:
+Here is the `/chapters` page:
 ![Chapters page](./census-consensus-images/07.png)
 
 this shows all the relevant information while still looking good on desktop and mobile.
 
-Here is the current mobile `/chapters` page:
+Here is the mobile `/chapters` page:
 ![Chapters page](./census-consensus-images/07-mobile.jpg)
 
-Here is the current bottom of the `/chapters` page:
+Here is the bottom of the `/chapters` page:
 ![Chapters page bottom](./census-consensus-images/08.png)
 
 This has the new chapter form.
 
-Here is the current `/chapters/{id}/revisions` page:
+Here is the `/chapters/{id}/revisions` page:
 ![](./census-consensus-images/09.png)
 
 It shows every revision in a HTML details element, including the date/time it was saved, and who made the revision.
 
-Here is the current `/questions` page:
+Here is the `/questions` page:
 ![](./census-consensus-images/10.png)
 
 this shows all the relevant information while still looking good on desktop and mobile.
 
-Here is the current mobile `/questions` page:
+Here is the mobile `/questions` page:
 ![Questions page](./census-consensus-images/10-mobile.jpg)
 
-Here is the current bottom of the `/questions` page:
+Here is the bottom of the `/questions` page:
 ![](./census-consensus-images/11.png)
 
 It has the form for creating new questions.
@@ -144,7 +147,7 @@ It has the form for creating new questions.
 Here is the rest of the form on the `/questions` page:
 ![](./census-consensus-images/12.png)
 
-Here is the current `/questions/{id}/revisions` page:
+Here is the `/questions/{id}/revisions` page:
 ![](./census-consensus-images/13.png)
 
 Includes the same info as the chapter revisions page, but for questions.
@@ -154,7 +157,7 @@ Here is the `/feedback` page, it is for writers/admins only:
 
 As you can see, I used my private feedback to write my message for sending to potential collaborators. It also includes the logo clicks stats, more on this later.
 
-Here is a screenshot of the only admin only page, `/dashboard`:
+Here is a screenshot of the only admin-only page, `/dashboard`:
 ![](./census-consensus-images/15.png)
 
 This has forms for adjusting the story ID, total population of Equestria, vote duration for all chapters, the event reset, and the start date and time.
@@ -166,3 +169,6 @@ All these screenshots were taken before the code was updating to make some of th
 
 
 Once writing had started, I worked on polishing the site and fixing bugs until it came time to code the event loop, the thing that controlled the event and updated the story with the correct chapter.
+
+A fun fact about the website: The user [LastToTheParty](https://www.fimfiction.net/user/584567/LastToTheParty) is the last person to sign up as I write this. Their name checks out.
+
