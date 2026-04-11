@@ -166,9 +166,11 @@ Another fun fact about this story: The population of Equestria used for the even
 
 All these screenshots were taken before the code was updating to make some of these pages public. A lot of site functionality will be removed by now to make most things read only.
 
-
-
 Once writing had started, I worked on polishing the site and fixing bugs until it came time to code the event loop, the thing that controlled the event and updated the story with the correct chapter.
 
 A fun fact about the website: The user [LastToTheParty](https://www.fimfiction.net/user/584567/LastToTheParty) is the last person to sign up as I write this. Their name checks out.
+
+Now at this point in development we were getting really close to April 1st. The stress was getting to me and I had only written like nine questions for the event. I had to stop writing and go back to coding to get it all done in time.
+
+Thankfully all the amazing people listed above helped out! [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) wrote the three questions on The Friendship Chapter that I couldn't finish. [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) wrote the first and last chapters, while helping fix bugs in my code. [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) helped connect chapters, add extra details, and find and fix formatting errors. [meadowsys](https://www.fimfiction.net/user/487213/meadowsys) coded the parser that converted our mess of a format into something readable that was posted on Fimfiction.
 
