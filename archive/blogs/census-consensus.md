@@ -4,11 +4,15 @@ Tagged story: [Census Consensus](https://www.fimfiction.net/story/589323/census-
 
 ***
 
+## Introduction
+
 With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It lets you view the current results for each chapter, and a random results page to see any combination of answers. If you missed the event, please go vote and make your voice heard!
 
 In addition to allowing you to vote for missed surveys, you can also vote more than once to re-cast your ballot. We've also made the behind the scenes pages visible to the public. You can see exactly how chapters and questions were written and see every revision of them.
 
 This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But, we'll talk about that later.
+
+## Collaborators
 
 Before I continue, I'd like to thank everypony below who helped with this project throughout it's development:
 
@@ -36,6 +40,10 @@ If that didn't explain it well enough, you can read [Math Spook's](https://www.f
 
 Let's start at the beginning, late last year [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) told me he wasn't planning to do an April Fools event this year. I'd helped him do two of these in the past, so I felt like I could step up and do something instead. I mean how hard could it be? The last two years, while hectic, weren't *that* bad…
 
+## Previous Events
+
+### The Exploding Story
+
 Now, while in the middle of explaining this story, let's go back even farther to the first April Fools event I helped with: [This Story Did Not Explode](https://www.fimfiction.net/story/553695/this-story-did-not-explode), or as we called it internally: The Exploding Story. I was the one who came up with the idea. We both immediately liked the idea and went forward with it. [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) wrote it while I coded it with help from [meadowsys](https://www.fimfiction.net/user/487213/meadowsys) for the timing code. I also wrote two chapters. Had to insert romance into it some how, right?
 
 This story exploded onto the scene, immediately getting attention. The event was awesome, and ran without a hitch. Well, at least my code went off without a hitch, you can read more about this event in Bob's blog on it: [The Real Explosion Was The Friends We Made Along The Way](https://www.fimfiction.net/blog/1036675/the-real-explosion-was-the-friends-we-made-along-the-way). I also wrote a blog post about the code, you can read it here: [The Exploding Story Code Overview](https://www.fimfiction.net/blog/1036674/the-exploding-story-code-overview).
@@ -43,6 +51,8 @@ This story exploded onto the scene, immediately getting attention. The event was
 A fun fact about this story: while it was live, an archival friend of mine messaged me to ask if was really going to explode, because he wanted to know if he had to stay up all night to archive the story so it wouldn't be lost.
 
 I bring up The Exploding Story to say: this is where it all began. I won't speak for Bob, but for me this is where I realized a story could be more than just a story, it could be an event. We immediately knew that whatever we did next year, we wanted it to be interactive. This was something we'd always wanted, but didn't have the time for this first event.
+
+### The Democracy Story
 
 Next year's event, was exactly that, interactive. [Democracy Manifest](https://www.fimfiction.net/story/575601/democracy-manifest), known as The Democracy Story, was interactive; it used the like button as a way to vote on proposals in the story. I wrote the code while Bob did the writing, but this time with some outside help. I also wrote two chapters.
 
@@ -63,6 +73,8 @@ If I had to rank these two stories in terns of fun and enjoyment, I'd put The Ex
 
 I'm not sorry for any of the explosion puns.
 
+## Early Development
+
 Now, let's get back to this year's event: [Census Consensus](https://www.fimfiction.net/story/589323/census-consensus).
 
 For the last 2 years, I had someone to call the shots for me. Bob was an amazing coordinator for these April Fools events. This was the first event I had to lead the ship myself.
@@ -76,6 +88,10 @@ The original plan for the code was for myself to code the back end server stuff,
 A fun fact about this story: [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) thought of a question idea early on about a pony working in the factory the census was being printed in getting stuck, and asking a question on the survey as a way to call for help. We never found a way to use this, but we all liked the idea.
 
 By the time the database code was done, meadow had authentication working and I could start working on the pages for writers to create and edit questions and chapters.
+
+## Site Screenshots
+
+### Early Site Pages
 
 Here is an early screenshot of the `/chapters` page:
 ![Chapter's page early look](./census-consensus-images/01.png)
@@ -102,11 +118,15 @@ This page let's you add a question to a chapter, and move around the order withi
 
 It took a while, but I eventually got all the pages working. Initially I made the questions and chapters pages use HTML tables, but eventually this changed as you will see in a bit.
 
+### Color Schemes
+
 The next thing I worked on was the color schemes. As you might have seen on the site, the color themes are Celestia for light, and Luna for dark. I used the [MLP-VectorClub](https://mlpvector.club/) website and the [Realtime Colors](https://www.realtimecolors.com/) website to create the themes. You can view the original versions here: [Celestia](https://www.realtimecolors.com/?colors=5e2f79-fef6fb-fcd8b6-fdf5b4-f2d9e8&fonts=Inter-Inter), [Luna](https://www.realtimecolors.com/?colors=a7bef1-171a35-3adfc3-00c5cc-aba4f4&fonts=Inter-Inter).
 
 After the site was functional and looked decent, it was time to start writing. The first question of the story was created on March 3rd 2026 at 5:39AM UTC. Yes, the entire story was written very late into development. Some things never change.
 
 I used the Luna theme initially, as I love dark mode everything, but something about the Celestia theme made me switch, and I've been using it ever since. A few people mentioned in their feedback that they really liked the themes being Celestia and Luna. Thank you!
+
+### Event Complete Pages
 
 Here is a screenshot of the `/user` page for an admin:
 ![Admin user page](./census-consensus-images/06.png)
@@ -165,6 +185,8 @@ This has forms for adjusting the story ID, total population of Equestria, vote d
 Another fun fact about this story: The population of Equestria used for the event was taken from the start of a new save in [Hearts of Iron IV](https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/) with the [Equestria at War](https://steamcommunity.com/sharedfiles/filedetails/?id=1826643372) mod.
 
 All these screenshots were taken before the code was updating to make some of these pages public. A lot of site functionality will be removed by now to make most things read only.
+
+## Late Development
 
 Once writing had started, I worked on polishing the site and fixing bugs until it came time to code the event loop, the thing that controlled the event and updated the story with the correct chapter.
 
