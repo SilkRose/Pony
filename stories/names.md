@@ -178,3 +178,4 @@ This file contains random story names that don't have enough thought to have the
 - This Little Twilight of Mine
 - I Could Fix Me
 - Mirror Mi Amore
+- Behind the Bridle
