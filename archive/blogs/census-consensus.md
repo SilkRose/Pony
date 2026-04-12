@@ -196,3 +196,35 @@ Now at this point in development we were getting really close to April 1st. The 
 
 Thankfully all the amazing people listed above helped out! [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) wrote the three questions on The Friendship Chapter that I couldn't finish. [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) wrote the first and last chapters, while helping fix bugs in my code. [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) helped connect chapters, add extra details, and find and fix formatting errors. [meadowsys](https://www.fimfiction.net/user/487213/meadowsys) coded the parser that converted our mess of a format into something readable that was posted on Fimfiction.
 
+Literally the day of the event, 8 hours before launch or so, I added a page to preview chapters based off the current votes in the database. I also added a page to preview chapters with random votes. This was insanely useful for catching and fixing formatting errors. Absolutely crazy this wasn't implemented before the day of, considering how much it helped.
+
+## Asset Showcase
+
+Before we get to the live development during the event, let's go over the assets created for this project.
+
+### Website Icons
+
+[Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) created the website icon based off an idea I had. They were some of the first things he made in [Inkscape](https://inkscape.org/). We dynamically serve the light or dark based off which theme you select or the browsers theme preference.
+
+Celestia theme icon:
+![Celestia Favicon](https://census.silkrose.dev/assets/cc-light-512.png)
+
+Luna theme icon:
+![Luna Favicon](https://census.silkrose.dev/assets/cc-dark-512.png)
+
+### Story Covers
+
+After Math did such a good job making the icons, I decided to see what I could do in Inkscape to make a cover.
+
+Celestia theme cover:
+![Celestia Cover](https://census.silkrose.dev/assets/cover-light.png)
+
+Luna theme cover:
+![Luna Cover](https://census.silkrose.dev/assets/cover-dark.png)
+
+The story on Fimfiction uses the Celestia themed cover, but I made a Luna version too.
+
+Fun fact about the cover: I intentionally chose to showcase this question. I thought it would be funny to show a question that was never asked on any of the surveys. And Pinkie is in fact best pony.
+
+## Live Event Development
+
