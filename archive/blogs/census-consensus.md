@@ -228,3 +228,21 @@ Fun fact about the cover: I intentionally chose to showcase this question. I tho
 
 ## Live Event Development
 
+After the event went live and seemed to be working, I breathed a sigh of relief. It didn't last long, though. After 2 surveys had completed, we noticed, and some did a reader in the comments, that the numbers weren't adding up.
+
+In my code for calculating the votes, I was putting them into buckets based off option IDs, but I thought this function also sorted them votes beforehand. I was wrong and this caused the results to be inconsistent. I added a sort into the database SQL statement and deployed the fix.
+
+It worked and fixed the issue. We also used the website preview to copy over the correct chapter text to update the already published chapters.
+
+The second issue we ran into during the live event was on the 10th survey. A particularly long question caused an issue because my string length limiting code had a bug. I was limiting the length, but I think it was one character too long. For 20 minutes my code was unable to update the story on Fimfiction, so I had to sit and manually operate the title countdown.
+
+After that question had passed, I fixed the code and deployed the fix.
+
+Another bug during the event: I wasn't saving the API response to the database. So, I had wanted to showcase some graphs with metrics over time, but this data is lost to us.
+
+## Chapters
+
+Let's go over each chapter and some stats about them.
+
+### [Inquiring Ponies Want to Know](https://www.fimfiction.net/story/589323/1/census-consensus/inquiring-ponies-want-to-know)
+
