@@ -10,7 +10,7 @@ With the release of this blog post, our [custom survey site](https://census.silk
 
 In addition to allowing you to vote for missed surveys, you can also vote more than once to re-cast your ballot. We've also made the behind the scenes pages visible to the public. You can see exactly how chapters and questions were written and see every revision of them.
 
-This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But, we'll talk about that later.
+This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid-December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But, we'll talk about that later.
 
 ## Collaborators
 
@@ -34,19 +34,19 @@ Before I continue, I'd like to thank everypony below who helped with this projec
 
 I guess I should explain how the event worked before going into more detail.
 
-Once the story was live, a custom survey site allowed users to vote on a survey that would affect the outcome of a in-universe census that the mane 6 were holding. Everything from the questions, options, and results were all written before the event went live, so the code could publish the results for whatever options won.
+Once the story was live, a custom survey site allowed users to vote on a survey that would affect the outcome of a in-universe census that the Mane 6 were holding. Everything from the questions, options, and results were all written before the event went live, so the code could publish the results for whatever options won.
 
 If that didn't explain it well enough, you can read [Math Spook's](https://www.fimfiction.net/user/612387/Math+Spook) blog post: [Behind the scenes of “Census Consensus”](https://www.fimfiction.net/blog/1138770/behind-the-scenes-of-census-consensus), it does a great job of explaining the event. You should read it even if you understood my explanation, it's a good read and he's a great writer.
 
-Let's start at the beginning, late last year [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) told me he wasn't planning to do an April Fools event this year. I'd helped him do two of these in the past, so I felt like I could step up and do something instead. I mean how hard could it be? The last two years, while hectic, weren't *that* bad…
+Let's start at the beginning. Late last year [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) told me he wasn't planning to do an April Fools event this year. I'd helped him do two of these in the past, so I felt like I could step up and do something instead. I mean how hard could it be? The last two years, while hectic, weren't *that* bad…
 
 ## Previous Events
 
 ### The Exploding Story
 
-Now, while in the middle of explaining this story, let's go back even farther to the first April Fools event I helped with: [This Story Did Not Explode](https://www.fimfiction.net/story/553695/this-story-did-not-explode), or as we called it internally: The Exploding Story. I was the one who came up with the idea. We both immediately liked the idea and went forward with it. [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) wrote it while I coded it with help from [meadowsys](https://www.fimfiction.net/user/487213/meadowsys) for the timing code. I also wrote two chapters. Had to insert romance into it some how, right?
+Now, while in the middle of explaining this story, let's go back even farther to the first April Fools event I helped with: [This Story Did Not Explode](https://www.fimfiction.net/story/553695/this-story-did-not-explode), or as we called it internally: The Exploding Story. I was the one who came up with the idea. We both immediately liked the idea and went forward with it. [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) wrote it while I coded it with help from [meadowsys](https://www.fimfiction.net/user/487213/meadowsys) for the timing code. I also wrote two chapters. Had to insert romance into it somehow, right?
 
-This story exploded onto the scene, immediately getting attention. The event was awesome, and ran without a hitch. Well, at least my code went off without a hitch, you can read more about this event in Bob's blog on it: [The Real Explosion Was The Friends We Made Along The Way](https://www.fimfiction.net/blog/1036675/the-real-explosion-was-the-friends-we-made-along-the-way). I also wrote a blog post about the code, you can read it here: [The Exploding Story Code Overview](https://www.fimfiction.net/blog/1036674/the-exploding-story-code-overview).
+This story exploded onto the scene, immediately getting attention. The event was awesome and ran without a hitch. Well, at least my code went off without a hitch, you can read more about this event in Bob's blog on it: [The Real Explosion Was The Friends We Made Along The Way](https://www.fimfiction.net/blog/1036675/the-real-explosion-was-the-friends-we-made-along-the-way). I also wrote a blog post about the code.  You can read it here: [The Exploding Story Code Overview](https://www.fimfiction.net/blog/1036674/the-exploding-story-code-overview).
 
 A fun fact about this story: while it was live, an archival friend of mine messaged me to ask if was really going to explode, because he wanted to know if he had to stay up all night to archive the story so it wouldn't be lost.
 
@@ -77,7 +77,7 @@ I'm not sorry for any of the explosion puns.
 
 Now, let's get back to this year's event: [Census Consensus](https://www.fimfiction.net/story/589323/census-consensus).
 
-For the last 2 years, I had someone to call the shots for me. Bob was an amazing coordinator for these April Fools events. This was the first event I had to lead the ship myself.
+For the last 2 years, I had someone to call the shots for me. Bob was an amazing coordinator for these April Fools events. This was the first event where I had to lead the ship myself.
 
 I wanted this whole project to be as collaborative as I could get from the very start. I didn't want to arbitrarily decide anything unless it was absolutely necessary. This is why the Discord group was made before any code had even been written.
 
@@ -96,7 +96,7 @@ By the time the database code was done, meadow had authentication working and I 
 Here is an early screenshot of the `/chapters` page:  
 ![Chapter's page early look](./census-consensus-images/01.png)
 
-The add button orders the chapter. Only ordered chapters get posted when the event in live. The up and down arrows for vote duration adjusts the time for voting on that chapter's survey.
+The add button orders the chapter. Only ordered chapters get posted when the event is live. The up and down arrows for vote duration adjust the time for voting on that chapter's survey.
 
 Here is an early screenshot of the `/chapters/{id}/revisions` page:  
 ![Chapter revision page early look](./census-consensus-images/02.png)
@@ -114,13 +114,13 @@ Here is an early screenshot of the `/questions/{id}/revisions` page:
 Here is an early screenshot of the `/chapters/{id}/questions` page:  
 ![Chapter questions page early look](./census-consensus-images/05.png)
 
-This page let's you add a question to a chapter, and move around the order within that chapter. It also lets you claim a chapter, signalling that you plan to write that question.
+This page lets you add a question to a chapter and move around the order within that chapter. It also lets you claim a question, signalling that you plan to write that question.
 
 It took a while, but I eventually got all the pages working. Initially I made the questions and chapters pages use HTML tables, but eventually this changed as you will see in a bit.
 
 ### Color Schemes
 
-The next thing I worked on was the color schemes. As you might have seen on the site, the color themes are Celestia for light, and Luna for dark. I used the [MLP-VectorClub](https://mlpvector.club/) website and the [Realtime Colors](https://www.realtimecolors.com/) website to create the themes. You can view the original versions here: [Celestia](https://www.realtimecolors.com/?colors=5e2f79-fef6fb-fcd8b6-fdf5b4-f2d9e8&fonts=Inter-Inter), [Luna](https://www.realtimecolors.com/?colors=a7bef1-171a35-3adfc3-00c5cc-aba4f4&fonts=Inter-Inter).
+The next thing I worked on was the color schemes. As you might have seen on the site, the color themes are Celestia for light and Luna for dark. I used the [MLP-VectorClub](https://mlpvector.club/) website and the [Realtime Colors](https://www.realtimecolors.com/) website to create the themes. You can view the original versions here: [Celestia](https://www.realtimecolors.com/?colors=5e2f79-fef6fb-fcd8b6-fdf5b4-f2d9e8&fonts=Inter-Inter), [Luna](https://www.realtimecolors.com/?colors=a7bef1-171a35-3adfc3-00c5cc-aba4f4&fonts=Inter-Inter).
 
 After the site was functional and looked decent, it was time to start writing. The first question of the story was created on March 3rd 2026 at 5:39AM UTC. Yes, the entire story was written very late into development. Some things never change.
 
@@ -136,7 +136,7 @@ It had an extra spot to update a user's role, and a spot to ban a user. We wante
 Here is the `/chapters` page:  
 ![Chapters page](./census-consensus-images/07.png)
 
-this shows all the relevant information while still looking good on desktop and mobile.
+This shows all the relevant information while still looking good on desktop and mobile.
 
 Here is the mobile `/chapters` page:  
 ![Chapters page](./census-consensus-images/07-mobile.jpg)
@@ -149,12 +149,12 @@ This has the new chapter form.
 Here is the `/chapters/{id}/revisions` page:  
 ![](./census-consensus-images/09.png)
 
-It shows every revision in a HTML details element, including the date/time it was saved, and who made the revision.
+It shows every revision in an HTML details element, including the date and time it was saved and who made the revision.
 
 Here is the `/questions` page:  
 ![](./census-consensus-images/10.png)
 
-this shows all the relevant information while still looking good on desktop and mobile.
+This shows all the relevant information while still looking good on desktop and mobile.
 
 Here is the mobile `/questions` page:  
 ![Questions page](./census-consensus-images/10-mobile.jpg)
@@ -172,7 +172,7 @@ Here is the `/questions/{id}/revisions` page:
 
 Includes the same info as the chapter revisions page, but for questions.
 
-Here is the `/feedback` page, it is for writers/admins only:  
+Here is the `/feedback` page, which was for writers and admins only:
 ![](./census-consensus-images/14.png)
 
 As you can see, I used my private feedback to write my message for sending to potential collaborators. It also includes the logo clicks stats, more on this later.
@@ -214,7 +214,7 @@ Luna theme icon:
 
 ### Story Covers
 
-After Math did such a good job making the icons, I decided to see what I could do in Inkscape to make a cover.
+After Spook did such a good job making the icons, I decided to see what I could do in Inkscape to make a cover.
 
 Celestia theme cover:  
 ![Celestia Cover](https://census.silkrose.dev/assets/cover-light.png)
@@ -228,7 +228,7 @@ Fun fact about the cover: I intentionally chose to showcase this question. I tho
 
 ## Live Event Development
 
-After the event went live and seemed to be working, I breathed a sigh of relief. It didn't last long, though. After 2 surveys had completed, we noticed, and some did a reader in the comments, that the numbers weren't adding up.
+After the event went live and seemed to be working, I breathed a sigh of relief. It didn't last long, though. After 2 surveys had completed, we noticed, and so did a reader in the comments, that the numbers weren't adding up.
 
 In my code for calculating the votes, I was putting them into buckets based off option IDs, but I thought this function also sorted them votes beforehand. I was wrong and this caused the results to be inconsistent. I added a sort into the database SQL statement and deployed the fix.
 
