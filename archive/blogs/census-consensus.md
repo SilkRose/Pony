@@ -230,15 +230,13 @@ Fun fact about the cover: I intentionally chose to showcase this question. I tho
 
 After the event went live and seemed to be working, I breathed a sigh of relief. It didn't last long, though. After 2 surveys had completed, we noticed, and so did a reader in the comments, that the numbers weren't adding up.
 
-In my code for calculating the votes, I was putting them into buckets based off option IDs, but I thought this function also sorted them votes beforehand. I was wrong and this caused the results to be inconsistent. I added a sort into the database SQL statement and deployed the fix.
+We diagnosed the problem 15 minutes before the third survey went live. In my code for calculating the votes, I was putting them into buckets based on option IDs. I thought this function also sorted the votes beforehand, but I was wrong. This caused the bucket tallies to get overwritten every time the order of the votes and the order of the option IDs didn't match (which was almost all the time).
 
-It worked and fixed the issue. We also used the website preview to copy over the correct chapter text to update the already published chapters.
+I added a sort into the database SQL statement and deployed the fix with only 6 minutes to spare. It worked and fixed the issue. We also used the website preview to get the correct chapter text for the already published chapters so that we could copy it over.
 
-The second issue we ran into during the live event was on the 10th survey. A particularly long question caused an issue because my string length limiting code had a bug. I was limiting the length, but I think it was one character too long. For 20 minutes my code was unable to update the story on Fimfiction, so I had to sit and manually operate the title countdown.
+The second issue we ran into during the live event was on the 10th survey. The story's short description always showed one of the questions from the current survey. One particularly long question was so long that Fimfiction didn't allow it to be used as a short description. I was aware that this was a possible problem, but my string length limiting code had a bug. I was limiting the length, but I think it was one character too long. For 20 minutes my code was unable to update the story on Fimfiction, so I had to sit and manually operate the title countdown. After that question had passed, I fixed the code and deployed the fix.
 
-After that question had passed, I fixed the code and deployed the fix.
-
-Another bug during the event: I wasn't saving the API response to the database. So, I had wanted to showcase some graphs with metrics over time, but this data is lost to us.
+A third issue we only discovered after the event: I forgot to save the API response to the database. I had wanted to showcase some graphs with metrics over time, but this data is lost to us.
 
 ## Chapters
 
