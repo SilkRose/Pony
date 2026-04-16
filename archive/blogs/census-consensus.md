@@ -93,25 +93,25 @@ By the time the database code was done, meadow had authentication working and I 
 
 ### Early Site Pages
 
-Here is an early screenshot of the `/chapters` page:
+Here is an early screenshot of the `/chapters` page:  
 ![Chapter's page early look](./census-consensus-images/01.png)
 
 The add button orders the chapter. Only ordered chapters get posted when the event in live. The up and down arrows for vote duration adjusts the time for voting on that chapter's survey.
 
-Here is an early screenshot of the `/chapters/{id}/revisions` page:
+Here is an early screenshot of the `/chapters/{id}/revisions` page:  
 ![Chapter revision page early look](./census-consensus-images/02.png)
 
 This shows every revision of the chapter, so no data is lost.
 
-Here is an early screenshot of the `/questions/new` page:
+Here is an early screenshot of the `/questions/new` page:  
 ![New question page early look](./census-consensus-images/03.png)
 
 This page was later moved to be at the bottom of the question list page. Response percentage is how many ponies in-universe responded. If this is set to 50% then the answers to the survey are scaled so the total count is half of 50,240,000.
 
-Here is an early screenshot of the `/questions/{id}/revisions` page:
+Here is an early screenshot of the `/questions/{id}/revisions` page:  
 ![Question revision page early look](./census-consensus-images/04.png)
 
-Here is an early screenshot of the `/chapters/{id}/questions` page:
+Here is an early screenshot of the `/chapters/{id}/questions` page:  
 ![Chapter questions page early look](./census-consensus-images/05.png)
 
 This page let's you add a question to a chapter, and move around the order within that chapter. It also lets you claim a chapter, signalling that you plan to write that question.
@@ -128,56 +128,56 @@ I used the Luna theme initially, as I love dark mode everything, but something a
 
 ### Event Complete Pages
 
-Here is a screenshot of the `/user` page for an admin:
+Here is a screenshot of the `/user` page for an admin:  
 ![Admin user page](./census-consensus-images/06.png)
 
 It had an extra spot to update a user's role, and a spot to ban a user. We wanted to be prepared for anything. Luckily, we never had to ban anypony!
 
-Here is the `/chapters` page:
+Here is the `/chapters` page:  
 ![Chapters page](./census-consensus-images/07.png)
 
 this shows all the relevant information while still looking good on desktop and mobile.
 
-Here is the mobile `/chapters` page:
+Here is the mobile `/chapters` page:  
 ![Chapters page](./census-consensus-images/07-mobile.jpg)
 
-Here is the bottom of the `/chapters` page:
+Here is the bottom of the `/chapters` page:  
 ![Chapters page bottom](./census-consensus-images/08.png)
 
 This has the new chapter form.
 
-Here is the `/chapters/{id}/revisions` page:
+Here is the `/chapters/{id}/revisions` page:  
 ![](./census-consensus-images/09.png)
 
 It shows every revision in a HTML details element, including the date/time it was saved, and who made the revision.
 
-Here is the `/questions` page:
+Here is the `/questions` page:  
 ![](./census-consensus-images/10.png)
 
 this shows all the relevant information while still looking good on desktop and mobile.
 
-Here is the mobile `/questions` page:
+Here is the mobile `/questions` page:  
 ![Questions page](./census-consensus-images/10-mobile.jpg)
 
-Here is the bottom of the `/questions` page:
+Here is the bottom of the `/questions` page:  
 ![](./census-consensus-images/11.png)
 
 It has the form for creating new questions.
 
-Here is the rest of the form on the `/questions` page:
+Here is the rest of the form on the `/questions` page:  
 ![](./census-consensus-images/12.png)
 
-Here is the `/questions/{id}/revisions` page:
+Here is the `/questions/{id}/revisions` page:  
 ![](./census-consensus-images/13.png)
 
 Includes the same info as the chapter revisions page, but for questions.
 
-Here is the `/feedback` page, it is for writers/admins only:
+Here is the `/feedback` page, it is for writers/admins only:  
 ![](./census-consensus-images/14.png)
 
 As you can see, I used my private feedback to write my message for sending to potential collaborators. It also includes the logo clicks stats, more on this later.
 
-Here is a screenshot of the only admin-only page, `/dashboard`:
+Here is a screenshot of the only admin-only page, `/dashboard`:  
 ![](./census-consensus-images/15.png)
 
 This has forms for adjusting the story ID, total population of Equestria, vote duration for all chapters, the event reset, and the start date and time.
@@ -206,20 +206,20 @@ Before we get to the live development during the event, let's go over the assets
 
 [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) created the website icon based off an idea I had. They were some of the first things he made in [Inkscape](https://inkscape.org/). We dynamically serve the light or dark based off which theme you select or the browsers theme preference.
 
-Celestia theme icon:
+Celestia theme icon:  
 ![Celestia Favicon](https://census.silkrose.dev/assets/cc-light-512.png)
 
-Luna theme icon:
+Luna theme icon:  
 ![Luna Favicon](https://census.silkrose.dev/assets/cc-dark-512.png)
 
 ### Story Covers
 
 After Math did such a good job making the icons, I decided to see what I could do in Inkscape to make a cover.
 
-Celestia theme cover:
+Celestia theme cover:  
 ![Celestia Cover](https://census.silkrose.dev/assets/cover-light.png)
 
-Luna theme cover:
+Luna theme cover:  
 ![Luna Cover](https://census.silkrose.dev/assets/cover-dark.png)
 
 The story on Fimfiction uses the Celestia themed cover, but I made a Luna version too.
