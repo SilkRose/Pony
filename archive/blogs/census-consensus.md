@@ -244,3 +244,68 @@ Let's go over each chapter and some stats about them.
 
 ### [Inquiring Ponies Want to Know](https://www.fimfiction.net/story/589323/1/census-consensus/inquiring-ponies-want-to-know)
 
+Written by Math Spook.
+
+### [The Friendship Chapter](https://www.fimfiction.net/story/589323/2/census-consensus/the-friendship-chapter)
+
+Written by Silk Rose, RunicTreetops, and hawthornbunny.
+
+### [Spontaneous Singing](https://www.fimfiction.net/story/589323/3/census-consensus/spontaneous-singing)
+
+Written by Silk Rose and hawthornbunny.  Proofread by Hipponous.
+
+### [On apples, and the consumption thereof](https://www.fimfiction.net/story/589323/4/census-consensus/on-apples-and-the-consumption-thereof)
+
+Written by Math Spook.
+
+### [The misery and sacrifice of fashionable mares](The misery and sacrifice of fashionable mares)
+
+Written by Math Spook.
+
+### [Romantic Research](https://www.fimfiction.net/story/589323/6/census-consensus/romantic-research)
+
+Written by Silk Rose and hawthornbunny.  Proofread by Hipponous and Math Spook.
+
+### [Sports in General](https://www.fimfiction.net/story/589323/7/census-consensus/sports-in-general)
+
+Written by RunicTreetops and hawthornbunny.
+
+### [Political Polling](https://www.fimfiction.net/story/589323/8/census-consensus/political-polling)
+
+Written by Shay492.
+
+### [Skibidi Mark Crusaders](Skibidi Mark Crusaders)
+
+Written by Math Spook.
+
+### [Elemental Efforts](https://www.fimfiction.net/story/589323/10/census-consensus/elemental-efforts)
+
+Written by hawthornbunny.
+
+### [Quit Polling My Mane](https://www.fimfiction.net/story/589323/11/census-consensus/quit-polling-my-mane)
+
+Written by hawthornbunny.
+
+### [Help Patrol the Pet Population](https://www.fimfiction.net/story/589323/12/census-consensus/help-patrol-the-pet-population)
+
+Written by FanOfMostEverything.
+
+### [The H-Files (insert spooky whistling theme music here)](https://www.fimfiction.net/story/589323/13/census-consensus/the-h-files-insert-spooky-whistling-theme-music-here)
+
+Written by Math Spook.
+
+### [Terror of Mecha-Fluttershy](https://www.fimfiction.net/story/589323/14/census-consensus/terror-of-mecha-fluttershy)
+
+Written by Math Spook.
+
+### [Generational Gap](https://www.fimfiction.net/story/589323/15/census-consensus/generational-gap)
+
+Written by hawthornbunny.
+
+### [Grading on a Curve](https://www.fimfiction.net/story/589323/16/census-consensus/grading-on-a-curve)
+
+Written by Math Spook.
+
+### [Census Consensus](https://www.fimfiction.net/story/589323/17/census-consensus/census-consensus)
+
+Written by Math Spook.
