@@ -239,73 +239,164 @@ The second issue we ran into during the live event was on the 10th survey. The s
 A third issue we only discovered after the event: I forgot to save the API response to the database. I had wanted to showcase some graphs with metrics over time, but this data is lost to us.
 
 ## Chapters
+Hello ponies! [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) here. Silk Rose is busy coding (seriously, she's done way too much on this project and needs a break) so I'm taking over to talk about the chapters that we wrote for the event.
 
-Let's go over each chapter and some stats about them.
+There was no overarching plan for the story - in fact the whole "Celestia gets the Mane Six to do a survey" framing wasn't even added until like the final day. There was a lot of confusion in the writing team about how the story was structured temporally - I thought we were writing the before and after threads separately, others thought the survey was somehow being taken and answered in real time, and it was all rather incoherent and a mess. So, while Silk Rose and Meadowsys were busy hammering at the code, us writers were busy hammering the story into shape, and luckily it all came together before the deadline.
+
+Let's take a look at each chapter!
 
 ### [Inquiring Ponies Want to Know](https://www.fimfiction.net/story/589323/1/census-consensus/inquiring-ponies-want-to-know)
+**Written by:** Math Spook
 
-Written by Math Spook.
+Math Spook basically carried us through the final day, supplying this first chapter that justifies the existence of the census and makes the whole thing work via vaguely-explained time magic. A handy excuse for our clumsy writing coordination. Spook talks about the chapter in his [behind the scenes blog](https://www.fimfiction.net/blog/1138770/behind-the-scenes-of-census-consensus) so you can read about it there, but for my part I thought the escalating cake binge was hilarious. FanOfMostEverything provided the chapter name.
 
 ### [The Friendship Chapter](https://www.fimfiction.net/story/589323/2/census-consensus/the-friendship-chapter)
+**Written by:** Silk Rose, RunicTreetops, hawthornbunny
 
-Written by Silk Rose, RunicTreetops, and hawthornbunny.
+This was one of the first chapters written - a nice straightforward one about friendship to start us off. I thought it was a little plain, so I added a joke about Applejack mistaking "census" for "censors".
+
+It's in this chapter that readers first get to see how their survey choices affect the writing. The system was designed so that no matter what readers chose, there would always be a response pre-written. Silk Rose's engine was designed to handle complex situations like "what if less than 30% chose option C", but I don't think any of us actually used anything more complex than "which option got the most votes". The responses all get compiled into one chapter that hopefully reads like a continuous narrative to the audience, which is why each chapter is just the characters reading through the answers one-by-one.
+
+At the end of each chapter, there's an outro which is supposed to connect each chapter to the next, and we had to write them all pretty much on the last day because we didn't know what the chapter order was going to be. I had some fun with these as they were a chance to include a bit of actual continuity, like Rainbow Dash working on her own questions in the background.
+
+Also I don't know if anyone noticed this:
+
+> "Singing!" Pinkie nodded. "We do it all the time! I've always wanted to know how other ponies sing too, you know, when they're off - off somewhere else."
+
+She was about to say "offscreen", but stopped just short of breaking the fourth wall.
 
 ### [Spontaneous Singing](https://www.fimfiction.net/story/589323/3/census-consensus/spontaneous-singing)
+**Written by:** Written by Silk Rose, hawthornbunny.
+**Proofread by:** Hipponous
 
-Written by Silk Rose and hawthornbunny.  Proofread by Hipponous.
+Silk Rose's second chapter, but with significant additions by me. Silk's responses ended up coming out a bit short, so I took the opportunity to add an intro that shows how the time spell actually works. This also conveniently allowed me to double the amount of Derpy in the story, for no reason other than to make FanOfMostEverything happy.
+
+There's a reference to *Inside Out*:
+
+> "I knew it! How could it not be Joy? She's the best emotion!"
+> 
+> Applejack tilted her head, puzzled. "She?"
+
+The outro for this chapter was written by Math Spook, as it leads into his economics chapter.
 
 ### [On apples, and the consumption thereof](https://www.fimfiction.net/story/589323/4/census-consensus/on-apples-and-the-consumption-thereof)
+**Written by:** Math Spook
 
-Written by Math Spook.
+A chapter about Applejack and apples. I love how Applejack starts off with the pretense of being sensible but just goes completely off the rails when the subject is apples, and you can just see Twilight beginning to regret the entire endeavor. Again, see Spook's blog for more details, but I liked this line:
 
-### [The misery and sacrifice of fashionable mares](The misery and sacrifice of fashionable mares)
+> Look at how many ponies want to buy apples! Why, 6209664 want to buy over six quintillion apples each! That’s more apples than have ever existed! Can you just imagine the sales?
 
-Written by Math Spook.
+### [The misery and sacrifice of fashionable mares](https://www.fimfiction.net/story/589323/5/census-consensus/the-misery-and-sacrifice-of-fashionable-mares)
+**Written by:** Math Spook
+
+And then Applejack has the gall to call Rarity's questions silly. Rarity's questions are more or less fine, it's just that she comes to the absolute stupidest conclusions from the data, like finding out which fashion opinions are the most popular so that they can deliberately ignore them next season. Also, Rarity is a walking chemical incident. I think this is where Spook started to hit his stride with the writing, as this one flows a lot more naturally even though it's composed from pre-written blocks.
+
+I wrote the outro for this chapter, which has the characters all take a break for a bit. There were a few reasons for this: We'd already written later chapters that take place on different days, so I needed to establish that the time spell does actually allow for this. And secondly, I needed to separate Pinkie and Twilight, because Silk Rose's romance chapter has Twilight filling in her census answers as the outcomes are revealed, so she can't know about it beforehoof.
 
 ### [Romantic Research](https://www.fimfiction.net/story/589323/6/census-consensus/romantic-research)
+**Written by:** Silk Rose, hawthornbunny
+**Proofread by:** Hipponous, Math Spook
 
-Written by Silk Rose and hawthornbunny.  Proofread by Hipponous and Math Spook.
+Silk Rose's romance chapter, AKA an excuse for Silk to get her OTP Twi-Pie into the story, a goal with which I am only too happy to assist. Pinkie's hastily-written questions, it turns out, are just her using the census to ask Twilight out, because if you've got access to government analytics and a time spell, why not make use of them?
+
+After some smoochy time, Rainbow Dash's story arc comes to a point as she finally gets to ask the questions she's been working on. I took the liberty of having Rainbow also subvert the census system by submitting her questions without Twilight's oversight, because that was a convenient way to join it to the next chapter...
 
 ### [Sports in General](https://www.fimfiction.net/story/589323/7/census-consensus/sports-in-general)
+**Written by:** RunicTreetops, hawthornbunny
 
-Written by RunicTreetops and hawthornbunny.
+...which opens with Twilight putting her hoof down and telling them not to submit any more census questions without her approval. She also slices an envelope open with a letter opener spell, a nod to the horrifying capabilities of unicorns.
+
+Runic's prewritten responses did not include the actual questions being asked - a problem because without this context, the ponies would just seem to be reacting to nothing and it would be impossible to tell what's happening. I went in and added them myself, which is why the formatting of this chapter is different to the ones up until now.
+
+Anyway, Dash's questions are about sports and they're all stupid, but in fairness, she's probably the *most likely* to write stupid questions, including the amazing **Why aren't you an athlete? (Yes/No)**.
+
+At the end, Mayor Mare comes in, and - being a government official - she already knows about the census and has her own designs for it.
 
 ### [Political Polling](https://www.fimfiction.net/story/589323/8/census-consensus/political-polling)
+**Written by:** Shay492
 
-Written by Shay492.
+Shay gave us a break from the Mane Six asking the absolute dumbest questions possible, by having the canny Mayor Mare usurp the census for her own political ends. After all, if anypony knows how to wield an instrument of government, it's ol' Scrollflank. After a bit of taxpayer-funded, magic-accelerated polling, the Mayor leaves with her ill-gotten data, just in time for the true villain of the story to arrive...
 
-### [Skibidi Mark Crusaders](Skibidi Mark Crusaders)
+... *Gen Z*.
 
-Written by Math Spook.
+Spook originally thought we'd reject the Skibidi Mark Crusaders for being too stupid, but we all loved it, and I particularly love the ominous way he introduced them. How many other stories will give you electoral analytics and skibidi in the same chapter? Don't answer that.
+
+### [Skibidi Mark Crusaders](https://www.fimfiction.net/story/589323/9/census-consensus/skibidi-mark-crusaders)
+**Written by:** Math Spook
+
+I'll be honest, I still have no idea what the CMC were saying and it's funnier that way. It took me a few rereads to notice that Apple Bloom says nothing but "bruh" for almost the whole chapter. And introducing Luna of all ponies as the only one able to communicate on the CMC's level was pure genius. If you want to know what Luna was actually saying, check Spook's blog. soþlice.
+
+I bet this line hit more readers than expected:
+
+> Rainbow Dash said, “Face it, Twilight. From their perspective, we’re old folks now.”
+
+I decided that the mind-breaking insanity of the Skibidi Mark Crusaders and Luna was the perfect excuse to have everypony take another break, which was good because I needed Twilight alone in her castle in order to lead into my chapter.
 
 ### [Elemental Efforts](https://www.fimfiction.net/story/589323/10/census-consensus/elemental-efforts)
+**Written by:** hawthornbunny
 
-Written by hawthornbunny.
+This was the first chapter I wrote, and you can tell because the survey responses are kinda rubbish - there's only 4 questions, they all just rapid-fire one after the other and then they're done, without much in the way of humor. I got better at it later on, I think. But I do like the lead-in to this chapter, which had the Tree of Harmony commandeer Trixie's body so that it could talk to Twilight. This allowed me to include a little mythology gag, where Twilight tells the Tree to make its own avatar next time (not realizing that the Tree will end up just copying her form).
+
+There's no real throughline from the census to the next chapter, because when I wrote my chapters I was under the impression that we were writing the before-census and after-census parts separately. So, it just cuts straight to Rarity in the spa, with Zephyr Breeze. Zephyr is here because a friend of mine adores the stallion, and thus I really wanted to include him. And the Zeph definitely wouldn't shy away from a spa visit, so we get him and Rarity shooting the breeze. Oops, bad phrasing.
+
+Zeph tries to hit on Rarity because of course he does, but he also knows a lot about manes, which provides a perfect opportunity for them to collab on the next chapter and learn about the state of Equestrian haircare.
 
 ### [Quit Polling My Mane](https://www.fimfiction.net/story/589323/11/census-consensus/quit-polling-my-mane)
+**Written by:** hawthornbunny
 
-Written by hawthornbunny.
+It's a pun, see. I really did write completely different responses for all the mane colors, but for whatever reason, everyone picked "None", so you got goths.
+
+Of course, the *real* reason for this chapter is so that Zephyr can ask his completely stupid, self-serving question, and everyone voted for his ass because of course they did. Apparently I was the only one who didn't see that coming, and annoyingly that was the worst response I wrote. You shoulda voted for hooves and you'd have learned something about Applejack.
+
+After that nonsense, FanOfMostEverything enters the battlefield! He wrote the outro, which is about Fluttershy shyly using the census to ask 60 million ponies about their pets.
 
 ### [Help Patrol the Pet Population](https://www.fimfiction.net/story/589323/12/census-consensus/help-patrol-the-pet-population)
+**Written by:** FanOfMostEverything
 
-Written by FanOfMostEverything.
+I put this chapter after the Rarity/Zephyr one because the characters were already all off doing separate things and it made sense (you can argue that this is why Fluttershy isn't at the spa with Rarity and her brother). In this chapter, Twilight and Fluttershy enjoy some gentle friendly bonding as they go over the census results about pets, and Twilight tries to prevent Fluttershy going into a ponicidal rage. Even Fluttershy, it turns out, isn't immune to the pitfalls of poor survey design.
+
+By a stroke of possibly fortune, Twilight and Fluttershy also happened to be the only characters present during Lyra's intro, so it made perfect sense for her chapter to come next. But how to join these two very tonally different scenes together? I needed to come up with something that could smoothly bridge the gap between this sweet scene of platonic love and Lyra's agitated raving. A segue so subtle, so silken, that readers wouldn't even perceive the transition.
+
+Anyway, Lyra comes in ranting about humans, and she wants to use the census to find ponies she can trust. It's time for The H-Files.
 
 ### [The H-Files (insert spooky whistling theme music here)](https://www.fimfiction.net/story/589323/13/census-consensus/the-h-files-insert-spooky-whistling-theme-music-here)
+**Written by:** Math Spook
 
-Written by Math Spook.
+Despite being a child of the 1990s, I never actually watched The X-Files. I was more into spaceships and lasers. Anyway, Starlight Glimmer makes a welcome return in this chapter, bringing some much-needed skepticism to counter Lyra's insane conspiratorial logic. This was my favorite bit:
+
+> “Yes, many ponies who experience human abductions say they have a dreamlike quality,” said Lyra. “Nopony understands why.”
+> 
+> “Really?” asked Starlight Glimmer dryly. “Nopony has figured out what a dreamlike experience that happens while you sleep could possibly be?”
+
+The story starts going completely off the rails at this point, assuming it was ever on them to begin with, as Maud unearths an ancient evil that turns Fluttershy into a giant mechanical monster, and Twilight decides this is a perfect topic for the next section of the census.
 
 ### [Terror of Mecha-Fluttershy](https://www.fimfiction.net/story/589323/14/census-consensus/terror-of-mecha-fluttershy)
+**Written by:** Math Spook
 
-Written by Math Spook.
+I have seen a little bit of *Neon Genesis Evangelion*, enough to understand the whole joke with the traumatized child mecha pilot. This entire chapter is so much self-aware parody that it probably gained sentience, and I love it. My favorite part is the bit where Rainbow Dash gets traumatized slightly too late to be of any use.
+
+We were near the end of the story at this point, and I'd decided to put my final chapter last, as it takes place in the far future. Since Spook's Mecha-Fluttershy chapter acts as a kind of soft ending to the nonsense in Ponyville, it felt like the right place to add this thousands-year time skip, which I'll discuss in the next section...
 
 ### [Generational Gap](https://www.fimfiction.net/story/589323/15/census-consensus/generational-gap)
+**Written by:** hawthornbunny
 
-Written by hawthornbunny.
+I knew I wanted to get G5 into this story somehow, and I hit on the idea of Sunny and friends finding the census long after it had taken place and trying to make sense of it. This, in turn, led to the idea of the census being damaged and unreadable, and then I realized I could turn the joke around on the readers, by making them answer questions they couldn't actually read. There was one "correct" answer for each question, and all the other answers would obviously be stupid if you could actually read the question which you couldn't.
+
+I wrote the lead-in to the chapter with deliberate mystery, not identifying the timeframe or any of the speakers until Pipp is mentioned by name. The whole "discovering the ruins of Ponyville" thing is inspired by [milesprower06](https://www.fimfiction.net/user/6403/milesprower06)'s [Forgotten](https://www.fimfiction.net/story/503677/forgotten) series, which I recommend.
+
+Sadly, most people chose the correct answer ("chocolate") for the first question, which therefore got the most boring response, but the other three were suitably silly and reveal Sunny's crush on Princess Twilight which she totally doesn't have. Also, [Applejack is a silly pony](https://www.youtube.com/watch?v=84PZbL_-jjU).
+
+The end of the chapter brings us - perhaps jarringly - back to the present, and the finale of the story. This was provided by Math Spook, who had the idea to end the census with a single, ominous request: assign a letter grade to the census. Dun dun dun.
 
 ### [Grading on a Curve](https://www.fimfiction.net/story/589323/16/census-consensus/grading-on-a-curve)
+**Written by:** Math Spook
 
-Written by Math Spook.
+Princess Twilight may be a master of magic and a defeater of demons, but this chapter targets her single greatest weakness: *being graded*. I didn't actually know the term "grading on a curve" until I looked it up - apparently it refers to a system of relative grading where individuals are compared to others in the population. Hey, the "Math" in Spook's name isn't for show, you know.
+
+Anyway, Twilight has been stuck in a loop of repeatedly fainting before she can hear the grade, which turns out to be almost a majority of As. Awwww, you guys. This was the last survey chapter, so there were no more questions to answer. All that's left is to go back to where we began with Celestia...
 
 ### [Census Consensus](https://www.fimfiction.net/story/589323/17/census-consensus/census-consensus)
+**Written by:** Math Spook
 
-Written by Math Spook.
+And we end as we began - with a slice of cake, and Celestia praising a job (mostly) well done. See, there was a story arc there. Totally mapped and planned out like the Disney Star Wars trilogy. Pay no attention to that mare behind the curtain.
+
