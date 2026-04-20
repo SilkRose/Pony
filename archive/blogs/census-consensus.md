@@ -270,7 +270,8 @@ Also I don't know if anyone noticed this:
 She was about to say "offscreen", but stopped just short of breaking the fourth wall.
 
 ### [Spontaneous Singing](https://www.fimfiction.net/story/589323/3/census-consensus/spontaneous-singing)
-**Written by:** Written by Silk Rose, hawthornbunny.
+**Written by:** Written by Silk Rose, hawthornbunny
+
 **Proofread by:** Hipponous
 
 Silk Rose's second chapter, but with significant additions by me. Silk's responses ended up coming out a bit short, so I took the opportunity to add an intro that shows how the time spell actually works. This also conveniently allowed me to double the amount of Derpy in the story, for no reason other than to make FanOfMostEverything happy.
@@ -299,6 +300,7 @@ I wrote the outro for this chapter, which has the characters all take a break fo
 
 ### [Romantic Research](https://www.fimfiction.net/story/589323/6/census-consensus/romantic-research)
 **Written by:** Silk Rose, hawthornbunny
+
 **Proofread by:** Hipponous, Math Spook
 
 Silk Rose's romance chapter, AKA an excuse for Silk to get her OTP Twi-Pie into the story, a goal with which I am only too happy to assist. Pinkie's hastily-written questions, it turns out, are just her using the census to ask Twilight out, because if you've got access to government analytics and a time spell, why not make use of them?
@@ -403,4 +405,67 @@ Anyway, Twilight has been stuck in a loop of repeatedly fainting before she can 
 **Written by:** Math Spook
 
 And we end as we began - with a slice of cake, and Celestia praising a job (mostly) well done. See, there was a story arc there. Totally mapped and planned out like the Disney Star Wars trilogy. Pay no attention to that mare behind the curtain.
+
+## Early Notes
+
+Before we get into the stats about the event, I wanted to go over some early notes meadowsys took from the Discord group.
+
+### initial idea:
+> Twilight goes to Celestia asking if they can do a census. She agrees and Twilight and her friends write all the questions. (me and everyone who collab on the story)
+>
+> The survey gets sent out through the mail. Because it's not the best not everypony gets every page/section. (explanation for why some chapters have more or less participants.)
+> 
+> Each chapter is 1 section written by 1 person, where the characters react to the answers from the survey.
+
+More info from a later message:
+> every chapter will be a new set of questions' they answer them live on an external site each chapter will have 1 hour for answering then the results get used to make the chapter Also, I should note: this story is going on my account, not Bob's.
+
+Bob's response:
+> 🫐
+
+Pretty cool to see that the initial idea remained basically unchanged throughout its development. Even the mail bit stayed with the use of time magic. We did have mixed author questions, which I see as a plus.
+
+### Story notes:
+- every hour, a new chapter is published, and a new set of questions is available on the site for answering, with the new chapter every hour responding to the results of the previous results.
+- questions in start are census like, but get more and more random as the story goes on.
+- rig questions if it's funny.
+- last chapter is a recap of all the stats, maybe something like Princess Celestia reading the results as she finds out what ridiculous questions they put in.
+
+We didn't implement any way to rig questions, other than just not including more than one option, which Math Spook took advantage of. The last chapter did have Celestia in it, and she does go over the results, but not the kinds I was thinking about when I wrote that note.
+
+### Implementation Specific Notes
+- question types supported
+- multiple choice
+- multiple select
+- number select
+- number range
+- scale (1-5, 1-10 etc)
+- date picker
+- date range
+- fimfic auth as registration (everyone who votes has an account based on fimfic account)
+- style it like an actual census form
+- could have "forever questions" (questions people answer, but the results are not shown until the end)
+- comment box, for comments that get shown at the end?
+	- probably needs to be moderated
+
+We ended up only implementing multiple choice, multi-select, and scale questions. Anything else would have been too much, we were already down to the wire as it is. The other option didn't have much desire from the writers anyway. 
+
+The "forever questions" never went anywhere, and the comment box turned into the public and private feedback that appeared after taking a survey.
+
+### Question Ideas
+- Are you friends with Pinkie Pie?
+- Is Rainbow Dash the most awesomest pony ever?
+- Do you think Fluttershy is cute?
+- Is cheese sandwich or pinkie pie the better party pony?
+- (rigged question) fish
+	- note: not actually a question
+- (rigged question) Who is best pony? Pinkie Pie
+	- like that one thing Rose made, where no matter what you typed, it'll always type out "Pinkie Pie"
+
+
+
+### Unanswered Questions About the Project
+- How many questions should be in each section?
+- What should happen if nopony answers the survey in the hour long period?
+- how to rig questions implementation wise?
 
