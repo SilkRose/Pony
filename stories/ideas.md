@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Script Kitty
+
+### Synopsis:
+Rarity's cat Opal is really good at hacking. (EqG)
+
+***
+
 ## Moving Up
 
 ### Synopsis:
