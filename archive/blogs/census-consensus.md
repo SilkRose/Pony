@@ -462,10 +462,36 @@ The "forever questions" never went anywhere, and the comment box turned into the
 - (rigged question) Who is best pony? Pinkie Pie
 	- like that one thing Rose made, where no matter what you typed, it'll always type out "Pinkie Pie"
 
-
+The first question ended up as the first question of the event. The next three never happened. The next isn't a question. And the last one was the question on the cover.
 
 ### Unanswered Questions About the Project
 - How many questions should be in each section?
 - What should happen if nopony answers the survey in the hour long period?
 - how to rig questions implementation wise?
+
+We mostly tried for five to seven questions per survey, but this wasn't a hard rule. We used a priority system to handle if nopony voted on a question. Each question had an order of options for priority, like: `A > C > B`. So, if A and B are tied, it would pick A as the winner. And if nopony voted, it would default to A winning. We never implemented rigging questions, but we sure did talk about it a lot at the start.
+
+## Event Statistics
+
+Now, let's go over some data about the event. We'll start with some numbers before getting into the graphs.
+
+As of writing this section of the blog, there are 281 users registered on the site, and 202 of those users voted on a survey. There were a total of 3,591 votes cast across 67 questions, 15 surveys.
+
+The site had 80 questions created, so 13 unfinished or unused questions, with a total of 322 revisions for all questions. The site had 18 chapters with 17 being used, with a total of 105 chapter revisions.
+
+Fun fact about the event: [knighty](https://www.fimfiction.net/user/1/knighty) the creator of [Fimfiction](https://www.fimfiction.net/) signed up for the site and answered a few surveys.
+
+There were only 3 ponies who voted on every single survey of the event. # [FanOfMostEverything](https://www.fimfiction.net/user/1400/FanOfMostEverything) with 67 votes, [Born-From-Black-Lightnin](https://www.fimfiction.net/user/238497/Born-From-Black-Lightnin) with 66 votes, and myself ([Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose)) with 65 votes.
+
+[Shay492](https://www.fimfiction.net/user/840747/Shay492) barely missed the top three with 64 votes.
+
+Writers were able to vote early from a then hidden page on the site. I wanted to make sure the ponies who wrote for the event wouldn't miss out on voting because of their schedule that day.
+
+You might have noticed earlier in the screenshots the logo stats listed on the feedback page. I added code to track how many times a user clicked either of the logo radio buttons in the top left. This was for a secret contest that only the writers knew about.
+
+Meadow would have won, but she knew about it, so with all the writers/admins removed, there were 389 census clicks and 422 consensus clicks, for a total of 811 clicks.
+
+The pony with the most clicks was [pneu](https://www.fimfiction.net/user/616548/pneu). They had 65 census clicks and 64 consensus clicks, for a total of 129 clicks. I've already messaged them and told them that they won a free story commission from me.
+
+The code for collecting logo clicks has been removed now. A few people mentioned in their feedback about the logo buttons not doing anything, well now you know.
 
