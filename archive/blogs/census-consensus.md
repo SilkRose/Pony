@@ -289,7 +289,7 @@ The outro for this chapter was written by Math Spook, as it leads into his econo
 
 A chapter about Applejack and apples. I love how Applejack starts off with the pretense of being sensible but just goes completely off the rails when the subject is apples, and you can just see Twilight beginning to regret the entire endeavor. Again, see Spook's blog for more details, but I liked this line:
 
-> Look at how many ponies want to buy apples! Why, 6209664 want to buy over six quintillion apples each! That’s more apples than have ever existed! Can you just imagine the sales?
+> Look at how many ponies want to buy apples! Why, 6,209,664 want to buy over six quintillion apples each! That’s more apples than have ever existed! Can you just imagine the sales?
 
 ### [The misery and sacrifice of fashionable mares](https://www.fimfiction.net/story/589323/5/census-consensus/the-misery-and-sacrifice-of-fashionable-mares)
 **Written by:** Math Spook
@@ -475,7 +475,7 @@ We mostly tried for five to seven questions per survey, but this wasn't a hard r
 
 Now, let's go over some data about the event. We'll start with some numbers before getting into the graphs.
 
-As of writing this section of the blog, there are 281 users registered on the site, and 202 of those users voted on a survey. There were a total of 3,591 votes cast across 67 questions, 15 surveys.
+As of writing this section of the blog, there are 282 users registered on the site, and 202 of those users voted on a survey. There were a total of 3,591 votes cast across 67 questions, 15 surveys.
 
 The site had 80 questions created, so 13 unfinished or unused questions, with a total of 322 revisions for all questions. The site had 18 chapters with 17 being used, with a total of 105 chapter revisions.
 
@@ -494,4 +494,278 @@ Meadow would have won, but she knew about it, so with all the writers/admins rem
 The pony with the most clicks was [pneu](https://www.fimfiction.net/user/616548/pneu). They had 65 census clicks and 64 consensus clicks, for a total of 129 clicks. I've already messaged them and told them that they won a free story commission from me.
 
 The code for collecting logo clicks has been removed now. A few people mentioned in their feedback about the logo buttons not doing anything, well now you know.
+
+The first commit of the repository was done on December 14th at 10:01 PM. There are 561 total commits in the repository, with 514 of them being from before the event took place. 3 commits were done while the event was live.
+
+At the time of the event there were around 6,500 lines of Rust code. Now, with most of the site being made public and read only, the code has 4,700 lines of Rust. There is also about 700 lines of CSS, about 50 lines of JavaScript, and around 240 lines of both SQL files and Markdown files.
+
+(Insert charts and graphs here.)
+
+## Event Feedback
+
+Many users left interesting feedback on the site, I'd like to showcase some of my favorites.
+
+### [AtomicGlow](https://www.fimfiction.net/user/90142/)
+> Dear Princess Twilight Sparkle. I will not pay taxes, no matter how many guards you send, and especially not if they identify themselves as 'Census Officers' and lack the basic ability to avoid net traps.
+
+Who doesn't love tax evasion?
+
+### [FanOfMostEverything](https://www.fimfiction.net/user/1400/)
+> I stand ready to advance democracy! Which faction are we shooting?
+>
+> *frantic whispering*
+>
+> Oh, the other kind of democracy. Yeah, that works too.
+
+Thank you for helping with democracy and the project as a whole!
+
+### [hawthornbunny](https://www.fimfiction.net/user/77473/)
+> Shoooooo be do
+>
+> Shoo shoo be do
+
+Call upon the Sea Ponies when you're in distress!
+
+### [Night Shine Lives](https://www.fimfiction.net/user/183881/)
+> Good lord
+
+Indeed.
+
+### [Forcalor](https://www.fimfiction.net/user/564657/)
+> on average, a horse have 40 teeth
+> it is a titbit of trivia I usually share
+> only with my
+> closest friends
+>
+> Have you ever wondered about Pinkie Pie agenda? 
+> and what happened to all dentists in Equestria?
+> there is a correlation between exponential rise of parties
+> and the fact that our Princess looks like a giant tooth
+> with colorful
+> magical
+> toothpaste
+
+I think about Pinkie Pie's agenda a lot. No comment.
+
+### [TCC56](https://www.fimfiction.net/user/350373/)
+> Question #1 is obviously a trick question. If you claim not to be friends with Pinkie Pie, you are wrong. You may not be aware of it, but she is friends with you. You do not have a choice. It is too late.
+
+Yes, I am friends with Pinkie. You are friends with Pinkie. We all are friends with Pinkie.
+
+### [quazarcreachure](https://www.fimfiction.net/user/876102/)
+> Im not sure what this was but I do like answering questions.
+
+Same.
+
+### [Ignimbrite](https://www.fimfiction.net/user/607336/)
+> Have the public officials of Ponyville considered my proposal that mailboxes be mounted on springs so that they can bend and bounce back on impact?  This is the 1,532nd time I've had to replace my mailbox after Derpy delivering mail, Rainbow practicing stunts, or random monster attacks.  I am not counting the potato incident, as insurance declared that one an "act of Celestia."
+
+Dear resident of Ponyville,
+
+You can mount your own mailbox on a spring, no one is stopping you. We just don't want to make it a mandate for the whole town.
+
+Thank you,
+The Town of Ponyville, or something
+
+### [Ragan](https://www.fimfiction.net/user/866876/)
+> 😎😎😎
+
+Word.
+
+### [Void_Wolf](https://www.fimfiction.net/user/529464/)
+> I'd like my stories to not rely on singing as a crutch. Have you noticed how the best parts of the show are the ones that don't rely on songs?
+
+I like writing songs inside of stories, it's a fun challenge. I don't exactly agree with you about the show. There were lots of good moments in the show both with and without songs.
+
+### [Sudrian Engineer](https://www.fimfiction.net/user/250579/)
+> This was a LOT of fun, and I LOVE how interactive it was!!!
+>
+> I do hope more events like this happen again!
+
+Thank you so much! We love to get feedback and hear that ponies are enjoying the event. We definitely want to do more, we'll see if anything happens before next year…
+
+### [monabat79](https://www.fimfiction.net/user/876227/)
+> This was really neat! I appreciate Pinkie and Twilight being gay, it's cute; and always lovely to see queer rep in such a big event!! The questions were cool!! The G5 section is neat!! I feel like some funnier answers weren't showcased enough (back hooves were available for the dominant hooves question but not mentioned at all in the follow-up chapter which is sad, I was wondering about the statistics). Otherwise, really cool concept!! Makes me kind of wonder how far you can take the concept for an interactive fic.
+
+I'm glad you liked it. I love shoving romance into stories. especially when it's Twilight and Pinkie together! Thank you for all the kind words! Those unseen results are visible on the survey site, just click on the random results link for a chapter and refresh until you see the option you want winning.
+
+We'll just have to see how far you can take an interactive fic at some point…
+
+### [Tape Deck](https://www.fimfiction.net/user/703128/)
+> I definitely appreciate the commitment you guys have to doing this sort of thing each year and the time and effort you all spend to make it.
+>
+> Have been having fun answering the different survery questions throughout the day.
+>
+> Very entertaining!
+
+Thank you. It's really fun to make these for you all to enjoy.
+
+### [BismuthBorealis](https://www.fimfiction.net/user/629371/)
+> The fact the dark/light modes are called 'luna' and 'celestia' respectively is amazing, and celestia mode even using the pink/green/blue of her mane is a lovely touch too, it's almost a pity that luna's colour scheme only really has blues and purples to work with, and that stars would likely be bad ux even if they'd be cool as heck. (I say *almost* a pity because it's still the one I'm using)
+>
+> It's also interesting that the story chapters don't usually note the percent abstaining from each question, there's only really been brief mentions of it. Then again, I suspect so far (as of the sports questions, as I write this) that only a few questions (like half the apple ones) really had all that many abstentions.
+
+Thank you for the theme comments. I tried really hard to make themes from their colors that looked the best I could.
+
+This comment was from when the vote counting function had that sorting bug. Abstentions don't get represented in the results. But, the writers do get to decide the abstention percentage for each question in universe, as explained above.
+
+### [DoContra](https://www.fimfiction.net/user/226378/)
+> 5 out of 7, would FOMO again. (Would be nice if all censuses were made public at the end)
+
+I have good news for you! The surveys are available to vote on again! Sorry it's taken so long to get to this point.
+
+### [Phai](https://www.fimfiction.net/user/24493/)
+> There must be a more virulent strain of whatever causes this singing phenomenon inculcating among my group of friends. Over the last 5 years symptoms have increased immensely. No group of 2 or more of us can gather without breaking out into short or long songs at least twice an hour. Currently Black Parade by MCR and Ballin by Mustard top the charts. I nominate myself for invasive testing to help find a cure
+
+[I've found the cure!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### [Hobbestc](https://www.fimfiction.net/user/8814/)
+> I think this survey may have been a bit biased towards apples. I mean, what about cherries? Cherry pies are the best! Don't let anypony fool you, more cherry pie for the common pony!
+
+I don't know what you're talking about…
+
+### [DopplerEffect](https://www.fimfiction.net/user/31943/)
+> potato
+
+Potahto.
+
+### [That_Guy_You_Know](https://www.fimfiction.net/user/281173/)
+> bruh
+
+Soþlice.
+
+### [Scotishbro](https://www.fimfiction.net/user/474516/)
+> This was like, the third greatest survey I have ever completed. Maybe second if you ignore the 'what kind of vegetable are you' thing on buzzfeed.
+
+Understandable, but what vegetable did you get? I got pepper.
+
+### [Dubs Rewatcher](https://www.fimfiction.net/user/741/)
+> i'm easting a bagel
+
+Okay, but what is 'easting', and why did you put the type of bagel into the private feedback so only writers and admins can know? Don't the people deserve to know it's a—
+
+### [BifauxnenStroganoff](https://www.fimfiction.net/user/18580/)
+> I loved the Twippy :)
+
+Me too :)
+
+### [hope chr](https://www.fimfiction.net/user/876381/)
+> "If I make you breakfast in bed, a simple 'thank you' is all i need. Not all this 'how did you get into my house' business."
+> ~ Monika DDLC
+>
+> i used to have 2 dogs, a cat, some fish, a parrot, and a horse, but they've all died like my parents
+
+(Someone else think of what to put here.)
+
+### [blumaroo](https://www.fimfiction.net/user/826830/)
+> .
+
+Full stop.
+
+### [Mechanical Marvel](https://www.fimfiction.net/user/161294/)
+> Wasn't going to answer the last question but damn does he take care of those hooves.
+
+Indeed.
+
+### [I Vicious I](https://www.fimfiction.net/user/641199/)
+> Luna best pony
+
+That's a weird way to spell Pinkie.
+
+### [Lurks-no-More](https://www.fimfiction.net/user/11819/)
+> Why was there not a question about the direction of a horn's spiral? This is unicorn erasure!
+
+One last question everypony! Answer in the comments.
+
+1. Which direction does your horn spiral if you are a unicorn or alicorn?
+   - A: Clockwise
+   - B: Counter-Clockwise
+   - C: Both Ways
+
+### [MiOnDoJi](https://www.fimfiction.net/user/875019/)
+> burger, nuggets
+
+[Nuggets, burger.](https://www.youtube.com/watch?v=QKw2Xi5Xx2Q)
+
+### [TippyTapAKittyCatalyst](https://www.fimfiction.net/user/875113/)
+> pnoy
+
+Piknie Pei.
+
+### [KinkyToffee](https://www.fimfiction.net/user/18012/)
+> F
+
+No you.
+
+### [Silver Hallo](https://www.fimfiction.net/user/462624/)
+> This is absolutely fantastic, but what does the census consensus toggle even do???
+
+Thank you, and sorry about the confusion with the logo buttons.
+
+### [Alpax](https://www.fimfiction.net/user/461469/)
+> I blame cutie mark crusaders
+
+Gosh darn whippersnappers.
+
+### [PaprikaBluesAndCo](https://www.fimfiction.net/user/13891/)
+> Why are all these questions arriving at my door. I didn't sign up for anything!! Help!!
+
+Answer them and they will go away! For now…
+
+### [TitaniumTao](https://www.fimfiction.net/user/247556/)
+> This was very odd? Interesting but odd?
+
+Thank you.
+
+### [alioth](https://www.fimfiction.net/user/332678/)
+> more! more! more!
+
+We'll try to do more, but we need time. Thank you.
+
+### [Im bad at writing](https://www.fimfiction.net/user/782096/)
+> Dang this helped me realize that my mane, is really, really long. Maybe I should get it cut, but the Mane & Tail does a good enough job untangling it and making it all smooth. So I guess I shouldn't cut it but honestly, I think I should dye it. I am not really happy with my mane color, and think that I could do with a lovely pink instead of this ugly brown, but all of that aside I do think that this is a cool census and that you should be the ones to host this next year, cause I am tired of low quality sucky websites. Like did you hear that Derpibooru sold out and is now a subsidiary to some big corporation, I cant believe they would do such a thing! Now they are desperately grabbing onto ponies data. The nerve to think they can just go from a fun website to a greedy corporation. Like I swear if some company buys out Sugarcube Corner, then I will lose it. I have been eating their milkshakes for years, and I love the combination milkshakes where you can add multiple flavors to the milkshake, it's the best! Although I haven't seen Pinkie around much, she made the best milkshakes, but one can hope that someone just as good at making milkshakes comes around. Are any of you good at making milkshakes, cause I go to Sugarcube Corner every Wednesday. If you are than come on by and make some milkshakes. By Luna do I love milkshakes, but I am getting off topic I love the UI being stylized after check-boxes, it is small touches like that that make a website super fun. Speaking of fun! Did you hear that there is a math contest in the Ponyville Schoolhouse? I am gonna go and destroy those foals at math, they will never know what hit 'em! I love math there is so much cool things in math like wow, I cant remember any of those cool things off the top of my head so I won't tell you, but anyways, wait, uh, what were we talking about? Oh umm, uhh, RIGHT! I like the colors, blinding white really fits the whole census vibe. I could go to Luna mode, but I can not be bothered. I would rather just listen to some music, speaking of which what kinda music do you like? I am partial to, rock, metal, jazz, electronic, classical, dance, pop, dubstep, hip hop, atmospheric, avant garde, honestly whatever I can get my hooves on. I love music! There is this pony down from Portland, Boaregon, called Vylet Lunamoon, who makes some really good music. Their music spans all kind of genres but my favorite are the rock songs, they sound awesome. Honestly I have been rambling for too long but I am not stopping until you hear my review for your website. Ready? Okay here it goes.
+>
+> It is pretty good.
+
+No comment².
+
+### [The Hermit](https://www.fimfiction.net/user/306102/)
+> Having the option for light mode is incredible. I love blinding myself.
+
+Don't we all?
+
+### [MLPLvrXD](https://www.fimfiction.net/user/559497/)
+> Cheezu
+
+I don't know.
+
+### [AvoidingFever17](https://www.fimfiction.net/user/561663/)
+> Man this is a CRAZY event im sorry i joined late but im here and i brought mares!
+
+Thanks for coming, glad you enjoyed the event!
+
+### [ItsAboutTime](https://www.fimfiction.net/user/580204/)
+> Census Consensus turned my tongue purple. I want my money back.
+
+No refunds!
+
+### [Lopunny](https://www.fimfiction.net/user/452635/)
+> No Luna option. Bad census.
+
+The Luna option was in the top right corner of your screen the whole time!
+
+### [ciziy_keks](https://www.fimfiction.net/user/876082/)
+> :(
+
+Sorry you missed it! You can vote again on the site!
+
+### [R5h](https://www.fimfiction.net/user/63822/)
+> Wait, did I miss the window? Aww
+
+The window is open again. You can vote again on all surveys on the site now.
+
+### [ashley1227](https://www.fimfiction.net/user/499793/)
+> This is super duper awesome and cool
+
+Thank you, and you too!
 
