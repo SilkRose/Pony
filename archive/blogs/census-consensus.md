@@ -769,3 +769,5 @@ The window is open again. You can vote again on all surveys on the site now.
 
 Thank you, and you too!
 
+Fun fact about user feedback: Someone decided to fill the feedback text box with nothing but A's. How many you may ask, well it was 60,450 A's. The plot twist was, they came back and removed the A's. Where did they go? And why did they get removed?
+
