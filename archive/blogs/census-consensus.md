@@ -510,6 +510,11 @@ Many users left interesting feedback on the site, I'd like to showcase some of m
 
 Who doesn't love tax evasion?
 
+### [Lunaria](https://www.fimfiction.net/user/68640/)
+> It was a cool event, I wish I had had the time to write more for it.
+
+Thanks for writing! I wish we could have found a spot for your question.
+
 ### [FanOfMostEverything](https://www.fimfiction.net/user/1400/)
 > I stand ready to advance democracy! Which faction are we shooting?
 >
