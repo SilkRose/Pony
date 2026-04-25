@@ -69,6 +69,13 @@ This story had what can only be described as an obvious flaw in its design: you 
 
 Some readers interpreted that disliking the story counted as a no vote. We tried our best to explain that only the like button was used. I think this misconception is why the story has so many dislikes.
 
+[PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) wrote this about the story while discussing this blog:
+> This Story Did Not Explode was more fun, but I still enjoyed writing Democracy Manifest. Even the usual 'scrambling to get things finished at the last minute' stage has its charm, though in this case it was particularly exhausting.
+>
+> The big problem with Democracy Manifest, though, was user experience. The mode of interaction made little sense and provided no feedback, so users had trouble understanding how to vote, what their votes did, and whether voting did anything at all. This made the live story event frustrating to engage with, so many people didn't. It was a critical mistake and a disappointing failure and an important lesson.
+>
+> I am still very grateful for everyone who contributed to it, especially Silk Rose, without whom it would not have happened at all.
+
 If I had to rank these two stories in terns of fun and enjoyment, I'd put The Exploding Story above The Democracy Story. While they were both fun, The Democracy Story didn't have that explosive energy of the first one.
 
 I'm not sorry for any of the explosion puns.
