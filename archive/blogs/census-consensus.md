@@ -783,3 +783,15 @@ Thank you, and you too!
 
 Fun fact about user feedback: Someone decided to fill the feedback text box with nothing but A's. How many you may ask, well it was 60,450 A's. The plot twist was, they came back and removed the A's. Where did they go? And why did they get removed?
 
+## Event Retrospective
+
+And now, for the last section of the blog.
+
+This entire event, story, and site was a work of pure collaboration, determination, and fun. It was hard work, but it was well worth it after seeing it through to the end, and hearing all the well words in the feedback on the site and the comments under the story.
+
+Thank you, to everypony who helped on the story, the code, and the artwork. This wouldn't have happened without all of you.
+
+Thank you, to everypony who read and voted on the survey. This wouldn't have happened without all of you as well. You're all why we did this. To have fun and make others smile.
+
+Thank you, everypony!  
+![:pinkiesmile:](../../../emotes/pinkiesmile.png)
