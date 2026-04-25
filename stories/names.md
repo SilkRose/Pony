@@ -157,7 +157,6 @@ This file contains random story names that don't have enough thought to have the
 - The You Problem
 - Where the Pretty Ponies Play
 - Magic Metal
-- Metal Magic
 - Junk Journey
 - Journey of Junk
 - Rust & Recycling
