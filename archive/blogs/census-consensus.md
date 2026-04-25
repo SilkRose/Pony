@@ -6,9 +6,9 @@ Tagged story: [Census Consensus](https://www.fimfiction.net/story/589323/census-
 
 ## Introduction
 
-With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It lets you view the current results for each chapter, and a random results page to see any combination of answers. If you missed the event, please go vote and make your voice heard!
+With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It lets you view the current results for each chapter, and a random results page can show you any combination of answers. If you missed the event, please go vote and make your voice heard!
 
-In addition to allowing you to vote for missed surveys, you can also vote more than once to re-cast your ballot. We've also made the behind the scenes pages visible to the public. You can see exactly how chapters and questions were written and see every revision of them.
+In addition to allowing you to vote for missed surveys, you can also vote more than once to re-cast your ballot. We've also made the behind-the-scenes pages visible to the public. You can see exactly how chapters and questions were written and see every revision of them.
 
 This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid-December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But, we'll talk about that later.
 
@@ -492,7 +492,7 @@ There were only 3 ponies who voted on every single survey of the event. # [FanOf
 
 [Shay492](https://www.fimfiction.net/user/840747/Shay492) barely missed the top three with 64 votes.
 
-Writers were able to vote early from a then hidden page on the site. I wanted to make sure the ponies who wrote for the event wouldn't miss out on voting because of their schedule that day.
+Writers were able to vote early from a then-hidden page on the site. I wanted to make sure the ponies who wrote for the event wouldn't miss out on voting because of their schedule that day.
 
 You might have noticed earlier in the screenshots the logo stats listed on the feedback page. I added code to track how many times a user clicked either of the logo radio buttons in the top left. This was for a secret contest that only the writers knew about.
 
@@ -500,7 +500,7 @@ Meadow would have won, but she knew about it, so with all the writers/admins rem
 
 The pony with the most clicks was [pneu](https://www.fimfiction.net/user/616548/pneu). They had 65 census clicks and 64 consensus clicks, for a total of 129 clicks. I've already messaged them and told them that they won a free story commission from me.
 
-The code for collecting logo clicks has been removed now. A few people mentioned in their feedback about the logo buttons not doing anything, well now you know.
+The code for collecting logo clicks has been removed now. A few people mentioned in their feedback about the logo buttons not doing anything; well, now you know.
 
 The first commit of the repository was done on December 14th at 10:01 PM. There are 561 total commits in the repository, with 514 of them being from before the event took place. 3 commits were done while the event was live.
 
