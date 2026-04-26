@@ -74,13 +74,6 @@ A 100,000 word story told in only 1,000. Could be a comedy. "We're just going to
 
 ***
 
-## Twilight's Forest
-
-### Synopsis:
-Twilight plants a tree every time one of her friends die. The whole story is spent walking through the forest where at the end the scale and revelation is revealed.
-
-***
-
 ## Six Friends, Five Graves
 
 ### Short Description:
