@@ -62,7 +62,13 @@ Refocusing on Rainbow Dash, she thought about how she felt towards her.
 
 *Ever since she joined the bolts, I've been smitten with her.*
 
-*I think she picked up on this and started having an interest in me.*
+*I liked her from the jump, but she took a while to notice me.*
+
+*I may have tried a little to hard, but who could blame me when she's that awesome.*
+
+*I still remember following her around like a lost puppy on her first week of training.*
+
+*She eventually noticed how awesome I was too, and I think she became interested.*
 
 *She makes me feel great.*
 
@@ -102,7 +108,19 @@ Before she can think of anything else, she was hit with a blast of cold and mois
 
 *Not exactly the outcome I'm looking for, but I need to be prepared for it anyway.*
 
+*We could try to get the rules changed.*
 
+*If one of us became captain, I'm sure they'd have the pull to make something happen.*
+
+*but, if that's the case, why would it still be the way it is? There have been previous captains involved in scandals before us.*
+
+*Wait, if one of us becomes captain, that's going to make it worse.*
+
+*Dating a teammate is way more accepted than dating a subordinate.*
+
+*Well, we'll just both have to become captain.*
+
+She giggled at her own joke.
 
 
 
@@ -112,4 +130,4 @@ She used her wings and started to slow down as she took the blinders off her gog
 
 Barely missing the ground, she sighted in relief.
 
-*That was the closest call this month, I need to be more careful doing this.*
+*That was the closest call this month, I need to fly higher or think faster from now on.*
