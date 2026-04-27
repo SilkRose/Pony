@@ -12,6 +12,8 @@ In addition to allowing you to vote for missed surveys, you can also vote more t
 
 This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid-December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But we'll talk about that later.
 
+For anypony who wants to browse the code, it is now public. It's all open source and you can find it [here](https://github.com/SilkRose/Census-Consensus).
+
 ## Collaborators
 
 Before I continue, I'd like to thank everypony below who helped with this project throughout its development:
@@ -506,7 +508,25 @@ The first commit of the repository was done on December 14th at 10:01 PM. There 
 
 At the time of the event there were around 6,500 lines of Rust code. Now, with most of the site being made public and read-only, the code has 4,700 lines of Rust. There is also about 700 lines of CSS, about 50 lines of JavaScript, and around 240 lines of both SQL files and Markdown files.
 
-(Insert charts and graphs here.)
+Now, let's get into the graphs about the event. Massive thank you to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for creating the following graphs!
+
+Here is the logo clicks during the event:  
+![Logo Clicks](./census-consensus-images/16.png)
+
+Here is the count of chapter/question revisions, and users over time:  
+![Resource Count](./census-consensus-images/17.png)
+
+As you can see, we were writing and working on the story right till the end, even as the event was running.
+
+Here's a closer look at the user count during the event:  
+![User Count](./census-consensus-images/18.png)
+
+Looks like we got a stead stream of new users during the whole event.
+
+Here is the counters for votes and voters per survey:  
+![Engagement Count](./census-consensus-images/19.png)
+
+I love statistics and data visualization. Now, let's move onto all the feedback ponies left on the survey site.
 
 ## Event Feedback
 
@@ -667,7 +687,7 @@ Me too :)
 >
 > i used to have 2 dogs, a cat, some fish, a parrot, and a horse, but they've all died like my parents
 
-(Someone else think of what to put here.)
+![:fluttershysad:](../../../emotes/fluttershysad.png)
 
 ### [blumaroo](https://www.fimfiction.net/user/826830/)
 > .
