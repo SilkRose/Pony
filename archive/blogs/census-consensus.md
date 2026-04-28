@@ -14,6 +14,8 @@ This story was a lot of fun, but it was also a lot of stress. The idea was chose
 
 For anypony who wants to browse the code, it is now public. It's all open source and you can find it [here](https://github.com/SilkRose/Census-Consensus).
 
+Thank you to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) and [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading this blog.
+
 ## Collaborators
 
 Before I continue, I'd like to thank everypony below who helped with this project throughout its development:
