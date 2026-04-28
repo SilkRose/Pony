@@ -6,7 +6,7 @@ Tagged story: [Census Consensus](https://www.fimfiction.net/story/589323/census-
 
 ## Introduction
 
-With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It lets you view the current results for each chapter, and a random results page can show you any combination of answers. If you missed the event, please go vote and make your voice heard!
+With the release of this blog post, our [custom survey site](https://census.silkrose.dev/) has been updated to allow anyone to vote on all the surveys! It lets you view the current results for each chapter, and a random results page can show you any combination of answers. If you missed the event, feel free to go vote and make your voice heard!
 
 In addition to allowing you to vote for missed surveys, you can also vote more than once to re-cast your ballot. We've also made the behind-the-scenes pages visible to the public. You can see exactly how chapters and questions were written and see every revision of them.
 
