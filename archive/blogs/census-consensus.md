@@ -12,7 +12,7 @@ In addition to allowing you to vote for missed surveys, you can also vote more t
 
 This story was a lot of fun, but it was also a lot of stress. The idea was chosen in early December, when I was naive and thought it'd only take a month to a month and a half to code everything. In mid-December I made a group on Discord with myself and nine other people interested in the project. [Meadowsys](https://www.fimfiction.net/user/487213/meadowsys) started on the code at the end of December, and I joined her in coding in the middle of January. We ended up coding right up to and including April 1st. We even had to re-deploy twice to fix bugs while the event was happening. But we'll talk about that later.
 
-For anypony who wants to browse the code, it is now public. It's all open source and you can find it [here](https://github.com/SilkRose/Census-Consensus).
+For anypony who wants to browse the code, it is now public. It's all open source, and you can find it [here](https://github.com/SilkRose/Census-Consensus).
 
 Thank you to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) and [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading this blog.
 
@@ -515,7 +515,7 @@ Now, let's get into the graphs about the event. Massive thank you to [PseudoBob 
 Here is the logo clicks during the event:  
 ![Logo Clicks](./census-consensus-images/16.png)
 
-Here is the count of chapter/question revisions, and users over time:  
+Here is the count of chapter/question revisions and users over time:  
 ![Resource Count](./census-consensus-images/17.png)
 
 As you can see, we were writing and working on the story right till the end, even as the event was running.
@@ -523,9 +523,9 @@ As you can see, we were writing and working on the story right till the end, eve
 Here's a closer look at the user count during the event:  
 ![User Count](./census-consensus-images/18.png)
 
-Looks like we got a stead stream of new users during the whole event.
+Looks like we got a steady stream of new users during the whole event.
 
-Here is the counters for votes and voters per survey:  
+Here are the counters for votes and voters per survey:  
 ![Engagement Count](./census-consensus-images/19.png)
 
 I love statistics and data visualization. Now, let's move onto all the feedback ponies left on the survey site.
