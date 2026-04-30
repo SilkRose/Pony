@@ -1,6 +1,6 @@
 # Fleetfall
 
-Fleetfoot pumped her wings one last time, making it as far upward as she dared. She brought her wings in and lowered her goggles that had blinders on them. Beginning to fall, she felt the weight of the world was lifted off her shoulders.
+Fleetfoot pumped her wings one last time, making it as far upward as she dared. She brought her wings in and lowered her goggles, which had blinders on them. Beginning to fall, she felt the weight of the world was lifted off her shoulders.
 
 *Alright, Fleetfoot. You can do this, just think. Think.*
 
@@ -11,6 +11,8 @@ Just the thought alone almost made her smile. Unfortunately for her, now she had
 *I love Rainbow Dash, and I think she likes me back…*
 
 *The reasons I like her: all of them. She's brave, beautiful, and my best friend.*
+
+*I can't stop thinking about her.*
 
 *If she did like me, why hasn't she asked me out? Rainbow Dash isn't the type of pony to hide how she feels. Usually, I'm not either.*
 
@@ -31,6 +33,8 @@ Their lips pressed together.
 A romantic dinner in the city.
 
 Holding each other in a serene peace.
+
+Racing each other to decide who has to pay for their next date.
 
 Shaking the blush from her face, she changed her train of thought to what it would mean for their jobs.
 
@@ -122,12 +126,28 @@ Before she can think of anything else, she was hit with a blast of cold and mois
 
 She giggled at her own joke.
 
+She refocused her thought as the thought of crashing into the ground wasn't appealing to her.
 
+*Need to decide what I'm doing before I end up a pancake.*
+
+*Hey, Rainbow Dash likes pancakes. Maybe I can make her some?*
+
+*Good idea, but not the time.*
+
+*So, I need to ask her out.*
+
+*She's either going to say yes or no.*
+
+*If she say's yes, we can be happy and hide our relationship.*
+
+*If she says no, I'll go home and be sad, I guess.*
+
+*I hope she says yes…*
 
 *Time to go ask her out. For better or worse, I need to make my feelings known.*
 
 She used her wings and started to slow down as she took the blinders off her goggles. Seeing the ground was quickly approaching, she turned sharply to try to stay airborne.
 
-Barely missing the ground, she sighted in relief.
+Barely missing the ground, she sighed in relief.
 
 *That was the closest call this month, I need to fly higher or think faster from now on.*
