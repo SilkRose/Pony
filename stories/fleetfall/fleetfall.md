@@ -1,8 +1,10 @@
 # Fleetfall
 
-Fleetfoot pumped her wings one last time, making it as far upward as she dared. She brought her wings in and lowered her goggles, which had blinders on them. Beginning to fall, she felt the weight of the world was lifted off her shoulders.
+Fleetfoot pumped her wings one last time, making it as far upward as she dared. She brought her wings in and lowered her goggles, which had blinders on them. Beginning to fall, she felt as the weight of the world was lifted off her shoulders.
 
 *Alright, Fleetfoot. You can do this, just think. Think.*
+
+*I love Rainbow Dash…*
 
 *I love Rainbow Dash.*
 
@@ -24,7 +26,7 @@ She had felt the pressure shifting as the air rushed past her. She'd reached ter
 
 *What would a future with Rainbow Dash even look like?*
 
-She imagined what it might be like to date Dash, each idea brought a brighter and brighter hue of red to her cheeks.
+She imagined what it might be like to date Rainbow Dash, each idea brought a brighter and brighter hue of red to her cheeks.
 
 A sweet hug after a long day.
 
@@ -42,11 +44,11 @@ Shaking the blush from her face, she changed her train of thought to what it wou
 
 *If we got caught…*
 
-*I'd hate it if either of us lost our spot on the team.*
+*I'd hate it if either of us lost our spot on the team. This has been both of our life goals since we were fillies.*
 
 *Would they just make us break up? That sure would be preferable.*
 
-*Rainbow Dash isn't always the most subtle pony at times.*
+*Rainbow Dash isn't always the most subtle pony at times. It is fun to watch her try, though.*
 
 *She might be if her job depended on it.*
 
@@ -62,7 +64,7 @@ She shifted her thoughts to what a relationship would mean for them personally.
 
 This thought dragged her down. She didn't know the future and could only try to think through it.
 
-Refocusing on Rainbow Dash, she thought about how she felt towards her.
+She changed her thoughts to how they met and when their feelings started.
 
 *Ever since she joined the bolts, I've been smitten with her.*
 
@@ -73,6 +75,12 @@ Refocusing on Rainbow Dash, she thought about how she felt towards her.
 *I still remember following her around like a lost puppy on her first week of training.*
 
 *She eventually noticed how awesome I was too, and I think she became interested.*
+
+*That day I caught her after she misjudged a flyby and spun out of control. I think that's the day she started to look at me differently.*
+
+*Good thing I was paying so much attention to her…*
+
+Refocusing on Rainbow Dash, she thought about how she felt towards her.
 
 *She makes me feel great.*
 
@@ -151,3 +159,5 @@ She used her wings and started to slow down as she took the blinders off her gog
 Barely missing the ground, she sighed in relief.
 
 *That was the closest call this month, I need to fly higher or think faster from now on.*
+
+*Now, if I were Rainbow Dash, where would I be right now?*
