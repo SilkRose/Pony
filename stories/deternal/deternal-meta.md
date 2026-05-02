@@ -6,6 +6,8 @@ Twilight casts a spell linking her heart to her friends so when the last one die
 ## Description:
 Twilight hoped she wouldn't regret casting the spell, but at least she wouldn't die alone. At least she wouldn't live without her friends.
 
+Cover done by [Lossart](https://www.tumblr.com/blog/markiza297).
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading and helping with ideas.
 
 Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
