@@ -1,6 +1,6 @@
 # Fleetfall
 
-Fleetfoot pumped her wings one last time, making it as far upward as she dared. She brought her wings in and lowered her goggles, which had blinders on them. Beginning to fall, she felt as the weight of the world was lifted off her shoulders.
+Fleetfoot pumped her wings one last time, making it as far upward as she dared. She brought her wings in and lowered her goggles, which had blinders on them. Beginning to fall, she felt the weight of the world as it was lifted off her shoulders.
 
 *Alright, Fleetfoot. You can do this, just think. Think.*
 
@@ -8,7 +8,7 @@ Fleetfoot pumped her wings one last time, making it as far upward as she dared. 
 
 *I love Rainbow Dash.*
 
-Just the thought alone almost made her smile. Unfortunately for her, now she had to deal with the consequences of her own admission.
+Just the thought alone almost made her smile. Unfortunately for her, now she had to deal with the consequences of her admission.
 
 *I love Rainbow Dash, and I think she likes me back…*
 
@@ -16,7 +16,13 @@ Just the thought alone almost made her smile. Unfortunately for her, now she had
 
 *I can't stop thinking about her.*
 
+*I feel like I can't live without her.*
+
+*I feel like I can't live with her either…*
+
 *If she did like me, why hasn't she asked me out? Rainbow Dash isn't the type of pony to hide how she feels. Usually, I'm not either.*
+
+*Usually, I'm not this anxious…*
 
 *I guess I can think of one reason: Wonderbolts aren't allowed to date.*
 
@@ -26,15 +32,13 @@ She had felt the pressure shifting as the air rushed past her. She'd reached ter
 
 *What would a future with Rainbow Dash even look like?*
 
-She imagined what it might be like to date Rainbow Dash, each idea brought a brighter and brighter hue of red to her cheeks.
+She imagined what it might be like to date Rainbow Dash, each idea brought a brighter and brighter blush with it.
 
 A sweet hug after a long day.
 
 Their lips pressed together.
 
 A romantic dinner in the city.
-
-Holding each other in a serene peace.
 
 Racing each other to decide who has to pay for their next date.
 
@@ -70,7 +74,7 @@ She changed her thoughts to how they met and when their feelings started.
 
 *I liked her from the jump, but she took a while to notice me.*
 
-*I may have tried a little to hard, but who could blame me when she's that awesome.*
+*I may have tried a little too hard, but who could blame me when she's that awesome.*
 
 *I still remember following her around like a lost puppy on her first week of training.*
 
@@ -134,7 +138,7 @@ Before she can think of anything else, she was hit with a blast of cold and mois
 
 She giggled at her own joke.
 
-She refocused her thought as the thought of crashing into the ground wasn't appealing to her.
+She refocused her thought as the threat of crashing into the ground wasn't appealing to her.
 
 *Need to decide what I'm doing before I end up a pancake.*
 
@@ -158,6 +162,6 @@ She used her wings and started to slow down as she took the blinders off her gog
 
 Barely missing the ground, she sighed in relief.
 
-*That was the closest call this month, I need to fly higher or think faster from now on.*
+*Wow, that was a close call.*
 
 *Now, if I were Rainbow Dash, where would I be right now?*
