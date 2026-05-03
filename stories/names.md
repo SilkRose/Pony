@@ -178,3 +178,5 @@ This file contains random story names that don't have enough thought to have the
 - I Could Fix Me
 - Mirror Mi Amore
 - Behind the Bridle
+- Pink Pestilence
+- Museum of Memories
