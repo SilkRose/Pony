@@ -1,6 +1,6 @@
 # Deternal
 
-Twilight Sparkle stood in front of her bed as her lifelong friends slept around her. Her horn lit up as her magic reached out, engulfing each of her friends' hearts in her magic. Lastly, she wrapped her own heart in the same aura.
+Twilight Sparkle stood in front of her bed as her lifelong friends slept around her in a circle. Her horn lit up as her magic reached out, engulfing each of her friends' hearts in her magic. Lastly, she wrapped her own heart in the same aura.
 
 For a moment she just stood there, feeling the rhythmic beating of each heart. Time escaped her as she focused. The influence of her magic tuned all six hearts into beating synchronously. She took a deep breath and began to recite the incantations of the spell.
 
