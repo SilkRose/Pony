@@ -60,4 +60,4 @@ Twilight knew she wouldn't live forever. She made sure of it.
 [Deternal](./deternal.md)
 
 ## Cover:
-
+![cover](./covers/deternal-cover-option-5-selected.png)
