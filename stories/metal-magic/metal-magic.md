@@ -1,20 +1,20 @@
 # Metal Magic
 
-Iron Oxide, the rust colored unicorn with messy dark brown hair and light blue eyes, finished levitating the last of the hard hats and high-visibility jackets to the last pony on the tour. She worked at a metal recycling plant, and was the newest hire. The newest hire always had to give the tours at this plant.
+Iron Oxide, the rust colored unicorn with messy dark brown hair and light blue eyes, finished levitating the last of the hard hats and high-visibility jackets to the ponies on the tour. She worked at a metal recycling scrapyard, and was the newest hire. The newest hire always had to give the tours at this workplace.
 
-She was giving the tour to the local Ponyville school ponies. There were nine foals, and six chaperons. At first she didn't understand why there were six mares to watch nine fillies, but after the explanation from Twilight, she understood.
+She was giving the tour to the local Ponyville school ponies. There were nine foals, and six chaperons. At first she didn't understand why there were six mares to watch nine foals, but after the explanation from Twilight, she understood.
 
-"The fillies like to wonder off, and they're surprisingly good at it. So, we have one adult for every two foals. And Pinkie Pie is here."
+"They like to wonder off, and they're surprisingly good at it. So, we have one adult for every two foals. And Pinkie Pie is here."
 
 Oxide pointed out the math inconsistency. "That math doesn't exactly add up."
 
-"Applejack and I are watching Pinkie."
+"I'm watching Pinkie."
 
 Oxide nodded at this. "Okay everypony, I am Iron Oxide and I will be your tour guide today."
 
 Everypony nodded.
 
-"Before the tour begins, we need to go over some safety information. The scrapyard can be a very dangerous place, but we've implemented a lot of safety measures to keep everypony safe. It's very important you follow all safety instructions. If you don't you could get hurt, or worse."
+"Before the tour begins, we need to go over some safety information. The scrapyard can be a very dangerous place, but we've implemented a lot of safety measures to keep everypony safe. It's very important that you follow all safety instructions. If you don't you could get hurt, or worse."
 
 Everypony nodded again.
 
