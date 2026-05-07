@@ -18,3 +18,35 @@ Trees stretched off to either side of her, hundreds of rows streaking into the n
 
 Another tear escaped her as she comes across a dying tree. She almost didn't stop, but she wanted a look at this tree again.
 
+She recognized it immediately. A spindle tree, once bearing delicate white flowers which flared to a vibrant pink in the fall, now barren. Its long, thin branches still grasp upwards towards sunlight obscured over the years by other, taller trees.
+
+A flash of memory: steady white hooves guiding fabric through a sewing machine. A smile, always freely given to her friends. Her serene beauty, even on her deathbed.
+
+Twilight shook her head. She couldn't break down now, not when she had so much further to go. She made a mental note to return to this section another day and trim back some of the competing trees. Rarity's spindle would thrive again.
+
+An occasional snapping sound of a twig or the brushing noise of shrubs were her only companions. Fauna thrived in this carefully cultivated forest, but no ponies or other sapient creatures visited. Certainly not this deeply into her woods, in any case. The Princess had tried, initially, to keep the entire thing a secret. When the first copse had been planted, it was hundreds of miles from the nearest sign of civilization.
+
+But under her careful rule, Twilight's kindgom thrived, and spread far and wide.
+
+A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established when a handful of cedars were felled to make a log cabin. Look, but don't touch.
+
+Twilight had cried for days. It was like losing her friends all over again.
+
+The "center" of the forest had changed over the centuries. As nearby towns became cities, she could no longer extend the forest outward in all directions. As much as the forest meant to her, she wouldn't remove ponies from their homes for the sake of her sentimentality.
+
+But her ponies were clever. An aborist named Shady Bloom noticed the themes and connected the dots. What her citizens initially saw as an eccentric hobby of their Princess was revealed to be what it had truly always been.
+
+Twilight's forest was a memorial. Zones were established, and no new towns were built in the surrounding area. The forest could continue to grow, at least in one direction.
+
+Twilight had no idea what she would do when her forest reached the coastline.
+
+Still she walked, passing through trees as faces passed through her memories. A tall, hearty redwood. The dense green leaves of a rowan. A short, thorny hawthorn. Each a name, a face, a memory. A tear once shed.
+
+Finally, after days of travel through millenia of memories, Twilight found a clearing. She had reached her destination.
+
+The sunlight blinded her after so much time spent in deep forest. On a small hill a spade sat driven into the earth. Magically protected from time and the elements, the shovel stood as a marker, a beacon, ready for it's inevitable duty.
+
+The clearing was kept free of the natural encroaching of the surrounding forest until the time was right. Because the tree that was planted here would be special.
+
+This tree was for Twilight Sparkle's first friend.
+
