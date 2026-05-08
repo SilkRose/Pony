@@ -64,7 +64,7 @@ Shaking the blush from her face, she changed her train of thought to what it wou
 
 *I'd hate it if either of us lost our spot on the team. This has been both of our life goals since we were fillies.*
 
-*Would they just make us break up? That sure would be preferable.*
+*Would they just make us break up? That sure would suck…*
 
 *Rainbow Dash isn't always the most subtle pony at times. It is fun to watch her try, though.*
 
@@ -110,7 +110,7 @@ She changed her thoughts to how they met and when their feelings started.
 
 *I can only hope that I do the same.*
 
-*She makes me want to kiss her sight on scene.*
+*She makes me want to kiss her the second I see her.*
 
 *I can only hope that I do the same.*
 
