@@ -50,3 +50,22 @@ The clearing was kept free of the natural encroaching of the surrounding forest 
 
 This tree was for Twilight Sparkle's first friend.
 
+Spike was the one constant in her life. From when she hatched him as a little filly up until his death, he was always there by her side.
+
+Tears started to flow from her eyes as she took the spade in her magic and began digging a small hole for his tree.
+
+This hilltop had been reserved for him ever since the start on the forest. She still remembered planting the first tree.
+
+Spike was the last member of the council of friendship. Her last tie to her old life and friends. With his passing, they were going to be reunited one last time. Not right now, but at a later date she was going to move the trees for Pinkie, Fluttershy, Rarity, Applejack, and Rainbow Dash to form a circle at the top of this hill. Together again, at last.
+
+She finished the digging and carefully set the sapling into the hole.
+
+She used her hooves to pat down the dirt around it, still crying.
+
+"I love you, Spike. I'm going to miss you so much…"
+
+She stuck the spade back into the dirt a little ways from the newly planted sapling.
+
+She sat down cradling the tree in her hooves, her tears falling down around it, landing in the soil.
+
+"Goodbye, I love you, Spike."
