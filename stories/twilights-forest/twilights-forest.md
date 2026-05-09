@@ -10,15 +10,15 @@ She started to reach the more mature trees as the light from the night sky dimme
 
 A tear escaped her and fell to the ground as she looked around and remembered each tree. Her forest always brought her sadness, but also a serenity that she felt nowhere else.
 
-Other ponies rarely visited Twilight's forest. Twilight was the only regular to come here, if you could even call her that with how infrequent she visits.
+Other ponies rarely visited Twilight's forest. Twilight was the only regular to come here, if you could even call her that with how infrequent she visited.
 
 She made it to an intersection in the path, where the taller trees were. Going straight, she continued on to the center.
 
-Trees stretched off to either side of her, hundreds of rows streaking into the night. She knew each tree, and could even recall planting them.
+Trees stretched off to either side of her, hundreds of rows streaking into the night. She knew each tree and could even recall planting them.
 
-Another tear escaped her as she comes across a dying tree. She almost didn't stop, but she wanted a look at this tree again.
+Another tear escaped her as she came across a dying tree. She almost didn't stop, but she wanted a look at this tree again.
 
-She recognized it immediately. A spindle tree, once bearing delicate white flowers which flared to a vibrant pink in the fall, now barren. Its long, thin branches still grasp upwards towards sunlight obscured over the years by other, taller trees.
+She recognized it immediately. A spindle tree, once bearing delicate white flowers which flared to a vibrant pink in the fall, now barren. Its long, thin branches still grasped upwards towards sunlight obscured over the years by other, taller trees.
 
 A flash of memory: steady white hooves guiding fabric through a sewing machine. A smile, always freely given to her friends. Her serene beauty, even on her deathbed.
 
@@ -28,7 +28,7 @@ An occasional snapping sound of a twig or the brushing noise of shrubs were her 
 
 But under her careful rule, Twilight's kingdom thrived, and spread far and wide.
 
-A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established when a handful of cedars were felled to make a log cabin. Look, but don't touch.
+A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established after a handful of cedars were felled to make a log cabin. Look, but don't touch.
 
 Twilight had cried for days. It was like losing her friends all over again.
 
@@ -44,7 +44,7 @@ Still she walked, passing through trees as faces passed through her memories. A 
 
 Finally, after days of travel through millennia of memories, Twilight found a clearing. She had reached her destination.
 
-The sunlight blinded her after so much time spent in deep forest. On a small hill a spade sat driven into the earth. Magically protected from time and the elements, the shovel stood as a marker, a beacon, ready for it's inevitable duty.
+The sunlight blinded her after so much time spent in deep forest. On a small hill a spade sat driven into the earth. Magically protected from time and the elements, the shovel stood as a marker, a beacon, ready for its inevitable duty.
 
 The clearing was kept free of the natural encroaching of the surrounding forest until the time was right. Because the tree that was planted here would be special.
 
