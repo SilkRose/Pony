@@ -2,7 +2,7 @@
 
 Fleetfoot pumped her wings one last time, going as far upward as she dared.
 
-*Alright, Fleetfoot. You can do this, just think. Think. Focus.*
+*Alright, Fleetfoot. You can do this. Just think. Think. Focus.*
 
 She brought her wings in and lowered her goggles. Their blinders shut everything out. As she began to fall, she felt the weight of the world lift off her shoulders.
 
@@ -96,7 +96,7 @@ She changed her thoughts to how they met and when their feelings started.
 
 *She eventually noticed how awesome I was too, and I think she became interested.*
 
-*That day I caught her after she misjudged a flyby and spun out of control. I think that's the day she started to look at me differently.*
+*That day I caught her after she misjudged a flyby and spun out of control... I think that's the day she started to look at me differently.*
 
 *Good thing I was paying so much attention to her…*
 
@@ -144,7 +144,7 @@ Before she could think of anything else, she was hit with a blast of cold and mo
 
 *We could try to get the rules changed.*
 
-*If one of us became captain, I'm sure they'd have the pull to make something happen.*
+*If one of us became captain, I'm sure we'd have the pull to make something happen.*
 
 *But, if that's the case, why would it still be the way it is? There have been previous captains involved in scandals before us.*
 
