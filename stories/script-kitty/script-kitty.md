@@ -14,15 +14,15 @@ Opal had been watching the whole thing, she was sat on a chair at the table. She
 
 Fluttershy petted Opal after she finished cleaning the counter.
 
-Rarity turned it on as she read the setup instructions. "It says to connect it to to the internet we need to connect to its WiFi and tell it what my home network and password are."
+Rarity turned it on as she read the setup instructions. "It says to connect it to to the internet, we need to connect to its WiFi and tell it what my home network and password are"
 
 Fluttershy pulled out her phone and started to do as Rarity instructed.
 
-After a minute or two of typing in the wrong password, Fluttershy finally got it connected.
+After a minute or two of typing in the wrong password, Fluttershy finally got it connected. It's hard to type with hooves.
 
 *How hard is it to type 'Opalescence_123'?* Opal thought.
 
-"Okay, it's connected, now what?" Fluttershy asked.
+"Okay, it's connected. Now what?" Fluttershy asked.
 
 "It says we need to check for software updates."
 
@@ -32,13 +32,13 @@ After a minute or two of typing in the wrong password, Fluttershy finally got it
 
 After her failed attempt, Fluttershy tried to get it working.
 
-She failed as well. They were pushing the buttons in the right order, but the machine refused to do anything, even brew coffee.
+She failed as well. They were pushing the buttons in the right order, but the machine refused to do anything — even brew coffee.
 
 Opal meowed again and got up from her chair. She decided to be a helpful little kitty and fix the coffee machine for her owner and her friend. She made her way upstairs to Rarity's personal computer.
 
 "Let's begin," she meowed.
 
-She then proceeded to role around on the keyboard to said computer. She watched as a terminal opened on the screen, commands being typing as she wiggled her body around on the keyboard, seemingly randomly.
+She then proceeded to roll around on the keyboard to said computer. She watched as a terminal opened on the screen, commands being typed as she wiggled her body around on the keyboard, seemingly randomly.
 
 She made quick progress, her skill as a hacker being put to great use. She'd connected to the coffee machine using a default password and was reading its internal console.
 
