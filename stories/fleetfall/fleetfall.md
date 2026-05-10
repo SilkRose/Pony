@@ -90,7 +90,7 @@ She changed her thoughts to how they met and when their feelings started.
 
 *I liked her from the jump, but she took a while to notice me.*
 
-*I may have tried a little too hard, but who could blame me when she's that awesome?*
+*I may have come on a little strong, but who could blame me when she's that awesome?*
 
 *I still remember following her around like a lost puppy on her first week of training.*
 
@@ -98,7 +98,7 @@ She changed her thoughts to how they met and when their feelings started.
 
 *That day I caught her after she misjudged a flyby and spun out of control... I think that's the day she started to look at me differently.*
 
-*Good thing I was paying so much attention to her…*
+*Good thing I can't take my eyes off of her…*
 
 *Focus.*
 
@@ -146,7 +146,7 @@ Before she could think of anything else, she was hit with a blast of cold and mo
 
 *If one of us became captain, I'm sure we'd have the pull to make something happen.*
 
-*But, if that's the case, why would it still be the way it is? There have been previous captains involved in scandals before us.*
+*But, if that's the case, why would it still be the way it is? Plenty of captains have been involved in scandals before us.*
 
 *Wait, if one of us becomes captain, that's going to make it worse.*
 
@@ -192,7 +192,7 @@ She knew the ground must be getting nearer. Crashing into it wasn't appealing to
 
 *It's time to ask her out.*
 
-She flared her wings. As she slowed, she took the blinders off her goggles. Seeing the ground was quickly approaching, she turned sharply to try to stay airborne.
+She flared her wings. As she slowed, she took the blinders off her goggles. Seeing the ground was quickly approaching, she pitched up sharply to stay airborne.
 
 Barely missing the ground, she sighed in relief.
 
