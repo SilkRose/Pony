@@ -100,7 +100,47 @@ She put the piece back and pointed at the bin right next to it. "That bin is num
 
 She levitated a piece from the number one box and showed them. This piece was much shinier than the last piece, but still had some patina on it.
 
-"We buy number one copper for four and a half bits per pound, and number two copper for four and a quarter bits per pound."
+"We buy number one copper for 4.5 bits per pound, and number two copper for 4.25 bits per pound."
 
 After they got a good look at it, she put the piece back in the box.
+
+Applebloom raised her hoof.
+
+Iron called on her, "Yes, Applebloom?"
+
+"How do you buy something for a quarter of a bit if that's the smallest currency we got?"
+
+"Good question. Most ponies bring in more than a single pound, so those partial bits add up. Once we have a total we'll round up to the nearest bit if they're above a payout threshold, or round down if they're below."
+
+Applebloom nodded.
+
+The group continued on to the next bin of metal: lead.
+
+"This is lead," Iron said levitating out a thin, flat piece of metal. "It's used in a lot of different places, but nowadays it's mostly found in roofs. It used to be used in pipes, but we've long since stopped that due to the affects of lead poisoning on ponies."
+
+She demonstrated how soft it was by bending it in her magic.
+
+"It's a very soft metal while still being very durable and corrosion resistant. We buy lead at a price of 0.81 bits per pound."
+
+She put the piece back and they continued to the next bin.
+
+"This next metal is copper again, but this time it's bare bright copper wire." Iron levitated and showed the kids a clump of wire. "We buy this for 4.88 bits per pound."
+
+She continued, "Wire transmits electrical signals and electricity in general. We usually use it in places magic and gemstones wouldn't suffice."
+
+She levitated out a different wire from the bin right next to it, holding them beside each other. "This is more copper wire, but this has insulation on it. Normally all wire has insulation so nothing shorts out and the wires are protected from the elements."
+
+The groups eyes looked back and forth as Iron said, "We only buy the bare copper wire from special contractors. We had to stop buying bare wire from regular ponies because they kept burning the insulation off to make more bits."
+
+She put both wires back and said, "We buy the insulated wire for 3.90 bits per pound."
+
+Everypony got a good look at the wires before she put them back.
+
+"The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, they typically have more plastic and other materials on them, so we buy them for a lower price of 3.10 per pound."
+
+She levitated out a few different plugs to show them: one with two blade style contacts and a round third, one with three curved blades that spun to lock the connection, and one with two flat blades, and L shaped blade, and a round one.
+
+"Different plugs can handle different amounts of electricity."
+
+She put the plugs back and they moved to the next bin.
 
