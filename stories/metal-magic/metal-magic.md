@@ -144,3 +144,79 @@ She levitated out a few different plugs to show them: one with two blade style c
 
 She put the plugs back and they moved to the next bin.
 
+"These next three bins are all aluminium, just slight different kinds of aluminium."
+
+Twilight raised her hoof.
+
+"Yes, Twilight?"
+
+"Don't you mean aluminum?"
+
+"Oh, yes. Sorry about that."
+
+Iron lifted a sheet of metal from the first of the three bins. "this is an aluminum sheet, you'd find this on the side of houses sometimes. It's widely used in other areas too."
+
+She levitated a long almost bar like piece of metal from the second bin.
+
+"this is extruded aluminum, it was heated up and forced through an opening to make it this shape."
+
+She levitated a third piece of metal from the third bin. this one bowl shaped.
+
+"This one is called cast aluminum, the metal was poured into a cast to create it."
+
+Everypony looked at the three pieces floating in front of them.
+
+"We pay 1.47 bits per pound for aluminum, 0.97 for extruded, and 1.03 for cast."
+
+She put all the pieces back and the group moved on.
+
+"The next three bins are also all one metal type: brass."
+
+She brought out the first metal. It was a shutoff valve for plumping with the steel handle missing. "This is red brass. It's a shutoff valve for pipes. When you turn the handle, it stops the flow of water, or whatever liquid is inside."
+
+She continued, "Brass is an alloy metal, meaning it's two different metals combined. In this case, brass is made from copper and zinc. Red brass is 85% copper and 15% zinc."
+
+They all looked at the valve.
+
+"Red brass is typically found in plumping, sprinklers, and industrial machinery parts."
+
+She placed that piece back and got one from the second brass bin. This one was a key.
+
+"Yellow brass is around 35 to 40% copper. It's typically found in plumping fixtures, like valves and faucets, and in musical instruments."
+
+Everypony looked at the key as she levitated out a brass piece of an instrument.
+
+"Fun fact, the brass section of an orchestra or band is called that because most of their instruments are made from brass."
+
+After they got a good look at both pieces, she put them back and got something from the third bin. It was shutoff valve with the non-brass handle still attached.
+
+"The last bin is for dirty brass. This is dirty because it still has the steel handle on it."
+
+Everypony looked at it before she put it back.
+
+"We pay 2.83 bits per pound for red brass, 2.66 for yellow brass, and 1.27 for dirty brass."
+
+They moved to the next bin before she levitated out a pair of cymbals.
+
+"Bronze is another alloy metal, this one being 88% copper and 12% tin usually. Bronze is typically used in bells, medals, cymbals, and statues."
+
+Pinkie Pie raised her hoof as the ponies looked at the metal.
+
+"Yes, Pinkie?"
+
+"Are those the cymbals I threw away you last week?"
+
+Iron nodded. "Yes."
+
+Pinkie nodded. "Glad to see them recycled."
+
+Iron put them back and they went to the next bin.
+
+"This next metal is another alloy, but not with copper this time. It's an iron-based alloy that has at least 10.5% chromium. Which provides a protective layer of oxide. There are sometimes more metals mixed into stainless steel, but the main one is iron and chromium."
+
+She levitated out a flat piece of shiny metal.
+
+"Stainless steel gets its name from the fact it doesn't rust. We buy it for 0.40 bits per pound."
+
+They all got a good look at the metal before she put it back and they moved onto the next bit.
+
