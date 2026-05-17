@@ -22,4 +22,4 @@ What better motivation to think through your problems than the fear of death.
 [Fleetfall](./fleetfall.md)
 
 ## Cover:
-
+![cover](./covers/fleetfall-cover-option-3-selected.png)
