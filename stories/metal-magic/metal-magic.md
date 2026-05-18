@@ -220,3 +220,65 @@ She levitated out a flat piece of shiny metal.
 
 They all got a good look at the metal before she put it back and they moved onto the next bit.
 
+"This is our last bin, it's for batteries." She levitated out a big battery and showed them. "Batteries are used to store electricity in a portable manner."
+
+Everypony got a good look at the battery.
+
+Sweetie Belle raised her hoof again.
+
+"Yes, Sweetie Belle?" Iron asked.
+
+"What's the red and black mean on the metal studs?" 
+
+"Good question. The red is the positive terminal, while the black is for negative. When you complete a circuit by wiring something like a light bulb between the terminals, electrons flow from the negative terminal to the positive. It's a common misconception that they flow from positive to negative, but it's actually the other way around."
+
+Sweetie Belle nodded as Iron put the batter back into the box.
+
+Iron led the group back to the front of the building by the scale. "Before we go outside and see the giant scrap pile, we're going to watch and participate as a customer brings in some metal. Everypony ready?"
+
+Everypony nodded their heads.
+
+Iron introduced a new pony, who had pulled up next to the open entrance of the building. "This is Scraper Scar. He's going to sell us the metal in his wagon there." She pointed at his wagon.
+
+Scraper spoke up, "Hello kids. I got a lot of metal to sell and I need your help." He was a brown earth pony with a piece of rebar as his cutie mark.
+
+He looked around until he spotted Sweetie Belle. "Hello young filly, could you help me unload my wagon with your magic?"
+
+Sweetie seemed to hesitate but stepped forward and nodded.
+
+Scraps, that was what almost everypony at the junkyard called him, he was a regular, pointed at a box of metal on his wagon. "Can you put that one the scale?"
+
+Sweetie did as she was asked, struggling a bit with how heavy the box was.
+
+"Can anypony here identify the metal in the box for Ticket here?"
+
+Apple bloom stepped forward and studied the box's contents. It contained random bits of stainless steel. "Stainless steel, there's not rust and it's all shinny like."
+
+Ticket nodded. "that's correct, good job." He pointed at the number being cast on the wall, it displayed 36 pounds. "At a price of 0.40 bits per pound, how much should we pay for this box?"
+
+Scootaloo raised her hoof.
+
+"Yes, Scootaloo?" Iron answered.
+
+"Don't you need to subtract the weight of the box first?"
+
+Ticket nodded. "Nice catch, yes you are correct."
+
+Iron asked, "Does anyone want to carry the box and dump it in the right bin with me?"
+
+A few of the children went with her, along with two adult chaperons.
+
+They took the box and emptied it, bringing the empty box back to weigh. It read one pound.
+
+Iron asked, "How much should we pay for thirty five pounds at 0.40 bits per pound?"
+
+Scootaloo thought for a second before answering, "fourteen bits."
+
+Iron nodded. "good job, that's correct."
+
+They repeated this process for all the metal Scraps had on his wagon. Twilight had to help with the math for the less cleanly multiplied prices, but in the end they got it all done, and Scraps left with his bag of bits.
+
+Iron lead the group back outside the front of the building and they went to the side, where a set of two larger trot-on scales sat.
+
+"We're going to go over the normal scrap procedure now. This is where peonies bring in scrap in large amounts, instead of by the pound, it's by the ton."
+
