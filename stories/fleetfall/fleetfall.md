@@ -6,11 +6,9 @@ Fleetfoot pumped her wings one last time, going as far upward as she dared.
 
 She brought her wings in and lowered her goggles. Their blinders shut everything out. As she began to fall, she felt the weight of the world lift off her shoulders.
 
-She was in free fall now, and she had a decision to make.
-
 *Focus. Focus.*
 
-There was nothing but her and her thoughts. Nothing to hold her back. She could focus.
+Free fall meant there was nothing but her and her thoughts. Nothing to hold her back. She could focus. She could decide what to do.
 
 *Focus.*
 
@@ -32,7 +30,7 @@ The admission made her smile. But now she had to deal with its consequences.
 
 *Focus.*
 
-*If she did like me, why hasn't she asked me out? She isn't the type of pony to hide how she feels.*
+*If she did like me, why hasn't she asked me out? Rainbow Dash isn't the type of pony to hide how she feels.*
 
 *Usually, I'm not either. Usually, I'm not this anxious…*
 
@@ -56,7 +54,7 @@ Their lips pressed together.
 
 A romantic dinner in the city.
 
-Racing each other to decide who would pay for their date.
+Racing each other to decide who would pay for their next date.
 
 Shaking off the blush, she turned her thoughts to what it would mean for their jobs.
 
@@ -142,7 +140,7 @@ Before she could think of anything else, she was hit with a blast of cold and mo
 
 *It would solve the whole problem, though.*
 
-*Not exactly the outcome I'm looking for, but I need to be prepared for it.*
+*Not exactly the outcome I'm looking for, but I need to be prepared for it anyway.*
 
 *We could try to get the rules changed.*
 
@@ -186,7 +184,7 @@ She knew the ground must be getting nearer. Crashing into it wasn't an option.
 
 *She's either going to say yes or no.*
 
-*If she says yes, we can be happy, even if we hide it.*
+*If she says yes, we can be happy, even if we hide our relationship.*
 
 *If she says no, I'll go home and be sad, I guess.*
 
