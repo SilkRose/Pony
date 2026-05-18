@@ -4,7 +4,7 @@ Fleetfoot pumped her wings one last time, going as far upward as she dared.
 
 *Alright, Fleetfoot. You can do this. Just think. Think. Focus.*
 
-She brought her wings in and lowered her goggles. Their blinders shut everything out. As she began to fall, she felt the weight of the world lift off her shoulders.
+She brought her wings in and lowered her goggles. Their blinders [DO THE WONDERBOLTS HAVE BLINDERS ON THEIR GOGGLES? I HAVE HONESTLY NEVER SEEN THOSE, SO I CAST DOUBT THEREON] shut everything out. As she began to fall, she felt the weight of the world lift off her shoulders.
 
 *Focus. Focus.*
 
@@ -36,7 +36,7 @@ The admission made her smile. But now she had to deal with its consequences.
 
 *Focus.*
 
-*I can think of one reason: Wonderbolts aren't allowed to date.*
+*I can think of one reason: Wonderbolts aren't allowed to date.* [EACH OTHER OR ANYPONY? EITHER OPTION IS LEGAL FROM THE CANON STANDPOINT, BUT THE WORDING IS A BIT AMBIGUOUS REGARDING THE 'BOLTS BEING THE CLOSEST EQUESTRIA HAS EVER COME TO A MONASTIC ORDER, WHICH HEIGHTENS MY CURIOSITY]
 
 *While it hasn't stopped ponies in the past, we would have to keep it secret.*
 
@@ -56,7 +56,7 @@ A romantic dinner in the city.
 
 Racing each other to decide who would pay for their next date.
 
-Shaking the blush from her face, she changed her train of thought to what it would mean for their jobs.
+Shaking off the blush [THIS WILL PERHAPS READ SMOOTHER], she turned her thoughts to what it would mean for their jobs.
 
 *Hiding it wouldn't be the hardest. Some team members would never tell, but some might complain.*
 
@@ -66,7 +66,7 @@ Shaking the blush from her face, she changed her train of thought to what it wou
 
 *Would they just make us break up? That sure would suck…*
 
-*Rainbow Dash isn't always the most subtle pony at times. It is fun to watch her try, though.*
+*Rainbow Dash isn't always the most subtle pony [MIXING FREQUENCY QUALIFIERS]. It is fun to watch her try, though.*
 
 *She might be subtle if her job depended on it.*
 
@@ -86,15 +86,15 @@ This thought dragged her down. She didn't know the future and could only try to 
 
 She changed her thoughts to how they met and when their feelings started.
 
-*Ever since she joined the bolts, I've been smitten with her.*
+*Ever since she joined the 'Bolts, I've been smitten with her.*
 
 *I liked her from the jump, but she took a while to notice me.*
 
 *I may have come on a little strong, but who could blame me when she's that awesome?*
 
-*I still remember following her around like a lost puppy on her first week of training.*
+*I still remember following her around like a lost puppy in her first week of training.*
 
-*She eventually noticed how awesome I was too, and I think she became interested.*
+*She eventually noticed that I was awesome too [I INTERPRETED THIS AS A COMPARATOR; IF THE INTENTION IS NONCOMPARATIVE, REVISE TO "that I was awesome, too" OR "how awesome I was, too" INSTEAD], and I think she became interested.*
 
 *That day I caught her after she misjudged a flyby and spun out of control... I think that's the day she started to look at me differently.*
 
@@ -114,7 +114,7 @@ She changed her thoughts to how they met and when their feelings started.
 
 *I can only hope that I do the same.*
 
-Her thoughts drifted to how she thought Rainbow Dash saw her.
+Her thoughts drifted to how Rainbow Dash saw her [IF HER THOUGHTS ARE DRIFTING THERETO, THEIR CONTENTS ARE AUTOMATICALLY WHAT FLEETFOT THINKS].
 
 *I think she likes me.*
 
@@ -124,7 +124,7 @@ Her thoughts drifted to how she thought Rainbow Dash saw her.
 
 *The way she stares at me.*
 
-*The inklings of a blush on her face when she's around me.*
+*The hint [UNSURE HERE, BUT I WOULD PROBABLY ADVISE A MORE CONCRETE NOUN SUCH AS THE ONE SUGGESTED] of a blush on her face when she's around me.*
 
 *It all makes me think she likes me.*
 
@@ -146,13 +146,13 @@ Before she could think of anything else, she was hit with a blast of cold and mo
 
 *If one of us became captain, I'm sure we'd have the pull to make something happen.*
 
-*But, if that's the case, why would it still be the way it is? Plenty of captains have been involved in scandals before us.*
+*But if that's the case, why would it still be the way it is? Plenty of captains have been involved in scandals before us.*
 
 *Wait, if one of us becomes captain, that's going to make it worse.*
 
 *Dating a teammate is way more accepted than dating a subordinate.*
 
-*Well, we'll just both have to become captain.*
+*Well, we'll just both have to become captains.*
 
 She giggled at her own joke.
 
@@ -184,7 +184,7 @@ She knew the ground must be getting nearer. Crashing into it wasn't appealing to
 
 *She's either going to say yes or no.*
 
-*If she says yes, we can be happy. Even if we hide our relationship.*
+*If she says yes, we can be happy, even if we hide our relationship.* [SENTENCE FRAGMENT]
 
 *If she says no, I'll go home and be sad, I guess.*
 
@@ -192,7 +192,7 @@ She knew the ground must be getting nearer. Crashing into it wasn't appealing to
 
 *It's time to ask her out.*
 
-She flared her wings. As she slowed, she took the blinders off her goggles. Seeing the ground was quickly approaching, she pitched up sharply to stay airborne.
+She flared her wings. As she slowed, she took the blinders off her goggles. Seeing the ground was quickly approaching [I WOULD RECOMMEND EITHER "SEEING THAT THE GROUND WAS QUICKLY APPROACHING" OR "SEEING THE GROUND QUICKLY APPROACHING"], she pitched up sharply to stay airborne.
 
 Barely missing the ground, she sighed in relief.
 
