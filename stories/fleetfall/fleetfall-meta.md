@@ -16,6 +16,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Scriblits Talo](https://www.fimfiction.net/user/495925/Scriblits+Talo/stories) for making the concept cover.
 
+Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
+
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
 ## Short Description:
