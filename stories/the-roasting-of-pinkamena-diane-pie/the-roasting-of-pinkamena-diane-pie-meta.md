@@ -15,6 +15,12 @@ Pinkie Pie is roasted by her friends and family.
 - Vary laughs, reactions, and flow to make the story feel natural.
 - Twilight goes first, and the next pony is chosen by the speaker.
 - Try to make every joke good.
+- Instead of showing the roast itself, what if we show them getting ready for it and testing out jokes?
+- The current story shows the roast, and it's very repetitive.
+- What if Fluttershy was the mane character and everypony tried their jokes on her.
+- This would give a better story, but maybe not by much?
+- Fluttershy keeps trying to tell her jokes but gets interrupted?
+- Could show jokes which get cut.
 - 
 
 
