@@ -28,6 +28,7 @@ Pinkie Pie is roasted by her friends and family.
 
 ### Undecided:
 - That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
+- I once tried to tell a joke to Pinkie. I asked her, 'what's the difference between a cake and a filly?' I was going to have a snark reply about how sweet one is, but she responded "52,000 calories."
 - 
 
 ### Twilight:
