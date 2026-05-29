@@ -38,6 +38,10 @@ Pinkie Pie is roasted by her friends and family.
 - Jokes about her ability to do stuff not possible.
 - More jokes about her Pinkie sense?
 - Jokes about her straight mane sad state?
+- Joke about how random she is.
+- Joke about how she likes to prank ponies.
+- Joke about her costumes.
+- Joke about her out of character moments.
 - 
 
 ### Undecided:
