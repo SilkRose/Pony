@@ -29,7 +29,7 @@ Pinkie Pie is roasted by her friends and family.
 ### Undecided:
 - That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
 - I once tried to tell a joke to Pinkie. I asked her, 'what's the difference between a cake and a filly?' I was going to have a snark reply about how sweet one is, but she responded "52,000 calories."
-- Pinkie Pie is unreasonable good at everything she does. I'd love to see her enter a productive member of society contest.
+- Pinkie Pie is unreasonably good at everything she does. I'd love to see her enter a productive member of society contest.
 - 
 
 ### Twilight:
@@ -117,7 +117,7 @@ They each tell a joke about their sister and a joke about Pinkie.
 ### Pinkie's Mirror Pool Clone
 - I heard the Cakes went to everyone else in Equestria before you for child care, even a group of children. I would know because they asked me before you.
 - Will the real Pinkie Pie please stand up? Oh wait, I'm already standing!
-- Last time I had this many eyes on me, I thought that they had found me. I had to be here, thought, I couldn't turn down the opportunity to make fun of myself without looking in a mirror.
+- Last time I had this many eyes on me, I thought that they had found me. I had to be here, though, I couldn't turn down the opportunity to make fun of myself without looking in a mirror.
 - 
 
 ## Story:
