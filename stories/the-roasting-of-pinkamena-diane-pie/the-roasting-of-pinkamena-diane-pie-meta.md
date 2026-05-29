@@ -21,10 +21,24 @@ Pinkie Pie is roasted by her friends and family.
 - This would give a better story, but maybe not by much?
 - Fluttershy keeps trying to tell her jokes but gets interrupted?
 - Could show jokes which get cut.
+- Would be funny if her dad could make dad jokes, but it doesn't fit his character…
 - 
 
 
 ## Joke Ideas:
+
+### Need to think of:
+- Pi 3.14…
+- How different she is from her family, like her color.
+- Who EqG Pinkie is with versus Equestria Pinkie.
+- Her last name.
+- Rock farming.
+- Her full name: Pinkamena Diane Pie
+- More jokes about her singing?
+- Jokes about her ability to do stuff not possible.
+- More jokes about her Pinkie sense?
+- Jokes about her straight mane sad state?
+- 
 
 ### Undecided:
 - That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
@@ -118,6 +132,11 @@ They each tell a joke about their sister and a joke about Pinkie.
 - I heard the Cakes went to everyone else in Equestria before you for child care, even a group of children. I would know because they asked me before you.
 - Will the real Pinkie Pie please stand up? Oh wait, I'm already standing!
 - Last time I had this many eyes on me, I thought that they had found me. I had to be here, though, I couldn't turn down the opportunity to make fun of myself without looking in a mirror.
+- 
+
+### EqG Pinkie:
+- I'd make a joke about how many Pinkie Pie's it take to screw in a light bulb, but you'd have to invent the light bulb first.
+- I'd ask whats the difference between this Pinkie and me are, but so far nopony has noticed when we've swapped, not even the Elements of Harmony.
 - 
 
 ## Story:
