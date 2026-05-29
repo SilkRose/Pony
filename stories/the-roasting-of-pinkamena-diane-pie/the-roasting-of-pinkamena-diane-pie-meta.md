@@ -29,6 +29,7 @@ Pinkie Pie is roasted by her friends and family.
 ### Undecided:
 - That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
 - I once tried to tell a joke to Pinkie. I asked her, 'what's the difference between a cake and a filly?' I was going to have a snark reply about how sweet one is, but she responded "52,000 calories."
+- Pinkie Pie is unreasonable good at everything she does. I'd love to see her enter a productive member of society contest.
 - 
 
 ### Twilight:
@@ -108,6 +109,10 @@ They each tell a joke about their sister and a joke about Pinkie.
 - Applejack's so stubborn, she'd win an argument against a brick wall.
 - You'd make a great alarm clock if you had an off button.
 - Rarity takes so long to get ready, I'm surprised she isn't still at home, doing her makeup.
+
+### Cheese Sandwich
+- I thought I was coming here to roast my wife, but it turns out I married her clone. And here I thought I was the one who performed, '[I Think I'm a Clone Now](https://www.youtube.com/watch?v=7vFGKHzY_38)'.
+- 
 
 ### Pinkie's Mirror Pool Clone
 - I heard the Cakes went to everyone else in Equestria before you for child care, even a group of children. I would know because they asked me before you.
