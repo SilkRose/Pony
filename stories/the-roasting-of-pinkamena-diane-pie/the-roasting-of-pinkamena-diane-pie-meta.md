@@ -113,6 +113,14 @@ Each of her jokes is written by a different pet.
 - I might have done some horrible things in my past, but at least I didn't look at my sister and think, needs more cowbell.
 - 
 
+### Igneous Rock Pie
+- 
+
+### Cloudy Quartz
+- Each of our daughter's had a unique first word. Limestone said, "Holder's Boulder," which makes sense seeing how much she loves that thing. Maud's first word was, "rock," unsurprisingly. Marble hasn't actually spoken yet, her first word was, "Mmmhmm." And Pinkie first word was, "antidisestablishmentarianism."
+- We tried to bring Pinkie and Big Mac to the Pairing Stone that suited my husband and I, but it refused to wed the two and we never understood why.
+- 
+
 ### Mr. & Mrs. Cake:
 - Pinkie, we love you, we just wish you would stop giving all our ice cream to Rarity.
 - Pinkie is a good employee, when she isn't eating our entire inventory in one sitting.
