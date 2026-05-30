@@ -42,6 +42,8 @@ Pinkie Pie is roasted by her friends and family.
 - Joke about how she likes to prank ponies.
 - Joke about her costumes.
 - Joke about her out of character moments.
+- Her middle name?
+- How she likes to make ponies smile.
 - 
 
 ### Undecided:
@@ -114,11 +116,16 @@ Each of her jokes is written by a different pet.
 - 
 
 ### Igneous Rock Pie
+- A lot of ponies ask why we named our daughter Pinkamena instead of something more normal, well you see: pink ah mean a lot to my daughter.
+- I still remember teaching her how to farm, it was a rocky experience.
+- Ponies don't understand why our last name is a baked good and not something rock related. Well, it changed over the generations, it used to be pyrite. as in look at that Pie right there.
+- We still have a family feud with a schism of the pyrite family. It all stems back to a huge argument before the pyleft.
 - 
 
 ### Cloudy Quartz
 - Each of our daughter's had a unique first word. Limestone said, "Holder's Boulder," which makes sense seeing how much she loves that thing. Maud's first word was, "rock," unsurprisingly. Marble hasn't actually spoken yet, her first word was, "Mmmhmm." And Pinkie first word was, "antidisestablishmentarianism."
-- We tried to bring Pinkie and Big Mac to the Pairing Stone that suited my husband and I, but it refused to wed the two and we never understood why.
+- We tried to bring Pinkie and Big Mac to the Pairing Stone that suited my husband and I, but it refused to wed the two and we didn't understood why. I guess now we know.
+- Speaking of disappointments, I've always bugged Pinkie about giving us grandfoals. Now that we know that will never happen, I'll have to turn my attention somewhere else. Clone grandfoals would fit into my life just as well.
 - 
 
 ### Mr. & Mrs. Cake:
