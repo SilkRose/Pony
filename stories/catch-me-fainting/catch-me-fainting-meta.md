@@ -20,6 +20,8 @@ Now with a [reading](https://www.youtube.com/watch?v=WsXBgG9SnAQ) done by [Lotus
 
 Now with a second [reading](https://www.youtube.com/watch?v=nyMv2_2QzdU) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube").
 
+[Reviewed](https://www.fimfiction.net/blog/1140651/fic-recs-may-30th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
+
 ## Short Description:
 Pinkie keeps catching Rarity when she faints. Luckily, Rarity is more than fine with it.
 
