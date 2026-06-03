@@ -15,6 +15,9 @@ pub fn dotenv() -> Result<()> {
 			continue;
 		}
 		if let Some((key, value)) = line.split_once('=') {
+			if env::var(key).is_ok() {
+				continue;
+			}
 			unsafe { env::set_var(key.trim(), value.trim()) };
 		}
 	}
