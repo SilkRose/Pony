@@ -12,17 +12,17 @@ repository = "https://github.com/SilkRose/Pony"
 camino = { version = "1.2.2" }
 chrono = { version = "0.4.44" }
 chrono-tz = { version = "0.10.4" }
-git2 = { version = "0.20.4" }
+git2 = { version = "0.21.0" }
 image = { version = "0.25.10" }
 indoc = { version = "2.0.7" }
 markdown = { version = "1.0.0" }
 num_cpus = { version = "1.17.0" }
 rand = { version = "0.10.1" }
 regex = { version = "1.12.3" }
-reqwest = { version = "0.13.3", features = ["json"] }
+reqwest = { version = "0.13.4", features = ["json"] }
 serde = { version = "1.0.228", features = ["derive"] }
-serde_json = { version = "1.0.149", features = ["preserve_order"] }
-tokio = { version = "1.52.2" }
+serde_json = { version = "1.0.150", features = ["preserve_order"] }
+tokio = { version = "1.52.3" }
 
 [profile.dev]
 opt-level = 0
