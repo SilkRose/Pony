@@ -9,7 +9,6 @@ pub mod env;
 pub mod experience;
 pub mod fimfiction_api;
 pub mod fs;
-pub mod hash;
 pub mod http;
 pub mod json;
 pub mod log;
