@@ -44,12 +44,18 @@ Pinkie Pie is roasted by her friends and family.
 - Joke about her out of character moments.
 - Her middle name?
 - How she likes to make ponies smile.
+- Joke about her Cutie Mark
+- Joke about her party canon
 - 
 
 ### Undecided:
 - That's enough about the pony I want to kiss, let's talk about the pony that wants to kiss me.
 - I once tried to tell a joke to Pinkie. I asked her, 'what's the difference between a cake and a filly?' I was going to have a snark reply about how sweet one is, but she responded "52,000 calories."
 - Pinkie Pie is unreasonably good at everything she does. I'd love to see her enter a productive member of society contest.
+- Helium is a scarce resource in Equestria now and I'm pretty sure the number one reason why is Pinkie Pie.
+- Have any of you seen the photo of Pinkie dancing in the punch bowl while wearing a lamp shade on her head? Pinkie has a problem, and it's the fact the punch tasted better after she danced in it.
+- Pinkie's favorite book is a coloring book.
+- Pinkie Pie has too much confetti, I literally saw her sneeze confetti one time. I'd hate to see what comes out of the other end.
 - 
 
 ### Twilight:
