@@ -56,6 +56,11 @@ Pinkie Pie is roasted by her friends and family.
 - Have any of you seen the photo of Pinkie dancing in the punch bowl while wearing a lamp shade on her head? Pinkie has a problem, and it's the fact the punch tasted better after she danced in it.
 - Pinkie's favorite book is a coloring book.
 - Pinkie Pie has too much confetti, I literally saw her sneeze confetti one time. I'd hate to see what comes out of the other end.
+- I can count the number of times she's helped save Equestria, but she can't.
+- She's got no personal vendettas, but she will use up all of your personal space.
+- She's got friends for days, but patience for seconds.
+- We're here to celebrate Pinkie Pie, so let me tell you in rapid fire about this vapid pyre. (Potential starting monologue?)
+- She don't mind coming in second as long as everypony is smiling. She loves to make you smile, but all the while she'll make a file on everything you love, hate, and everything in between. She won't stop at nothing to make you grin, she'll let you win, take a pin, or even wait a min. (Continued monologue?)
 - 
 
 ### Twilight:
