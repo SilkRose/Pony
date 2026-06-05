@@ -46,6 +46,11 @@ Pinkie Pie is roasted by her friends and family.
 - How she likes to make ponies smile.
 - Joke about her Cutie Mark
 - Joke about her party canon
+- Joke about party hats
+- joke about streamers
+- joke about balloons
+- joke about candy
+- joke about cake
 - 
 
 ### Undecided:
@@ -61,6 +66,10 @@ Pinkie Pie is roasted by her friends and family.
 - She's got friends for days, but patience for seconds.
 - We're here to celebrate Pinkie Pie, so let me tell you in rapid fire about this vapid pyre. (Potential starting monologue?)
 - She don't mind coming in second as long as everypony is smiling. She loves to make you smile, but all the while she'll make a file on everything you love, hate, and everything in between. She won't stop at nothing to make you grin, she'll let you win, take a pin, or even wait a min. (Continued monologue?)
+- I asked Pinkie Pie how many digits of Pi she knew and she said, "Well, I have four hooves."
+- Pinkie Pie loves to make ponies smile, but what if making ponies frown makes me smile?
+- One time I saw Pinkie break into a bunch of little pieces. I did what anypony else would do, I went and got me a piece of the Pie. I grabbed her tail, I needed a new pillow.
+- Pinkie Pie is in a special interest group, as in she is the special interest of our friend group.
 - 
 
 ### Twilight:
