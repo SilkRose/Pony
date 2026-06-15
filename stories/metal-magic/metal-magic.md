@@ -280,5 +280,5 @@ They repeated this process for all the metal Scraps had on his wagon. Twilight h
 
 Iron lead the group back outside the front of the building and they went to the side, where a set of two larger trot-on scales sat.
 
-"We're going to go over the normal scrap procedure now. This is where peonies bring in scrap in large amounts, instead of by the pound, it's by the ton."
+"We're going to go over the normal scrap procedure now. This is where ponies bring in scrap in large amounts, instead of by the pound, it's by the ton."
 
