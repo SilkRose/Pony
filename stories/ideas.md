@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## Living Inside Myself
+
+### Synopsis:
+it'd be about Marble living without Pinkie, her twin who spoke for her her whole life. Like when Pinkie goes to Ponyville.
+
+***
+
 ## Moving Up
 
 ### Synopsis:
