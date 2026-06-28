@@ -20,6 +20,8 @@ Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-read
 
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
+Now with a [reading](https://www.youtube.com/watch?v=-syVXPk3qCM) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube").
+
 ## Short Description:
 What better motivation to think through your problems than the fear of death.
 
