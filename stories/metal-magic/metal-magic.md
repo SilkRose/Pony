@@ -18,7 +18,7 @@ Everypony nodded.
 
 Everypony nodded again.
 
-"Everypony is to stay with their designated chaperon at all times. You will be assigned them before the tour begins. You are not to touch anything at all. A lot of the metal is sharp, and will cut you. You can ask questions on the tour, just hold your hoof up and I'll get to you. Any questions?"
+"Everypony is to stay with their designated chaperon at all times. You will be assigned them before the tour begins. You are not to touch anything at all unless specifically asked to do so. A lot of the metal is sharp, and will cut you. You can ask questions on the tour, just hold your hoof up and I'll get to you. Any questions?"
 
 Everypony shook their head.
 
@@ -58,7 +58,7 @@ Ticket asked, "Do you all want to see a demonstration of the scale?"
 
 Everypony nodded.
 
-Iron lit up her horn and set an ingot of metal on the scale. The scale projected in magical characters on the what, '20 pounds.'
+Iron lit up her horn and set an ingot of metal on the scale. The scale projected in magical characters on the wall, '20 pounds.'
 
 All the fillies and colts wowed at this.
 
@@ -134,8 +134,6 @@ The groups eyes looked back and forth as Iron said, "We only buy the bare copper
 
 She put both wires back and said, "We buy the insulated wire for 3.90 bits per pound."
 
-Everypony got a good look at the wires before she put them back.
-
 "The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, they typically have more plastic and other materials on them, so we buy them for a lower price of 3.10 per pound."
 
 She levitated out a few different plugs to show them: one with two blade style contacts and a round third, one with three curved blades that spun to lock the connection, and one with two flat blades, and L shaped blade, and a round one.
@@ -144,7 +142,7 @@ She levitated out a few different plugs to show them: one with two blade style c
 
 She put the plugs back and they moved to the next bin.
 
-"These next three bins are all aluminium, just slight different kinds of aluminium."
+"These next three bins are all aluminium, just slightly different kinds of aluminium."
 
 Twilight raised her hoof.
 
@@ -182,7 +180,7 @@ They all looked at the valve.
 
 She placed that piece back and got one from the second brass bin. This one was a key.
 
-"Yellow brass is around 35 to 40% copper. It's typically found in plumping fixtures, like valves and faucets, and in musical instruments."
+"Yellow brass is around 35 to 40 percent copper. It's typically found in plumping fixtures, like valves and faucets, and in musical instruments."
 
 Everypony looked at the key as she levitated out a brass piece of an instrument.
 
@@ -212,13 +210,13 @@ Pinkie nodded. "Glad to see them recycled."
 
 Iron put them back and they went to the next bin.
 
-"This next metal is another alloy, but not with copper this time. It's an iron-based alloy that has at least 10.5% chromium. Which provides a protective layer of oxide. There are sometimes more metals mixed into stainless steel, but the main one is iron and chromium."
+"This next metal is another alloy, but not with copper this time. It's an iron-based alloy that has at least 10.5% chromium. Which provides a protective layer of oxide. There are sometimes more metals mixed into stainless steel, but the main ones is iron and chromium."
 
 She levitated out a flat piece of shiny metal.
 
 "Stainless steel gets its name from the fact it doesn't rust. We buy it for 0.40 bits per pound."
 
-They all got a good look at the metal before she put it back and they moved onto the next bit.
+They all got a good look at the metal before she put it back and they moved onto the next bin.
 
 "This is our last bin, it's for batteries." She levitated out a big battery and showed them. "Batteries are used to store electricity in a portable manner."
 
@@ -246,7 +244,7 @@ He looked around until he spotted Sweetie Belle. "Hello young filly, could you h
 
 Sweetie seemed to hesitate but stepped forward and nodded.
 
-Scraps, that was what almost everypony at the junkyard called him, he was a regular, pointed at a box of metal on his wagon. "Can you put that one the scale?"
+Scraps, that was what almost everypony at the junkyard called him, who was a regular, pointed at a box of metal on his wagon. "Can you put that one the scale?"
 
 Sweetie did as she was asked, struggling a bit with how heavy the box was.
 
@@ -276,7 +274,7 @@ Scootaloo thought for a second before answering, "fourteen bits."
 
 Iron nodded. "good job, that's correct."
 
-They repeated this process for all the metal Scraps had on his wagon. Twilight had to help with the math for the less cleanly multiplied prices, but in the end they got it all done, and Scraps left with his bag of bits.
+They repeated this process for all the metal Scraps had on his wagon, with different ponies doing different roles each time. Twilight had to help with the math for the less cleanly multiplied prices, but in the end they got it all done, and Scraps left with his bag of bits.
 
 Iron lead the group back outside the front of the building and they went to the side, where a set of two larger trot-on scales sat.
 
