@@ -280,3 +280,13 @@ Iron lead the group back outside the front of the building and they went to the 
 
 "We're going to go over the normal scrap procedure now. This is where ponies bring in scrap in large amounts, instead of by the pound, it's by the ton."
 
+Applebloom raised her hoof.
+
+"Yes, Applebloom," Iron called.
+
+"What's the point of recycling?"
+
+"great question. We recycle because it's better for the planet, and sometimes cheaper than extracting new metal out of the ground. Certain metals can be very hard to mine, so recycling makes the world a better place to live."
+
+Everypony nodded at her answer.
+
