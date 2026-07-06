@@ -290,3 +290,51 @@ Applebloom raised her hoof.
 
 Everypony nodded at her answer.
 
+Iron lead the group onto the inlet scale where they stopped next to a blue stallion standing between the two trot-on scales. "This is Adder, he calculates and gives ponies their tickets on the way in and out of the junkyard."
+
+Adder pointed at the magical number display on the metal panel behind him. "This is how much all of you weigh. Ponies go in and unload. I subtract their inbound weight from the outbound weight to find how much metal they brought in."
+
+The panel showed they weighed 1,600 pounds.
+
+They continued on the tour as Iron led them off the scale and into the scrap yard. "This is where ponies drop off their metal."
+
+Metal was piled up five or six ponies tall for hundreds of feet. They trotted along the pile until they stopped a circular indentation in the pile, where a bunch of ponies were unloading.
+
+Iron explained, "All these ponies bring in metal from different places all around Equestria. Some of them are out of ponies trash or some come from companies that build up metal scrap until they have enough to fill their wagon."
+
+They all watched as the ponies unloaded their wagons. Most of the ponies were earth ponies but there were a few pegasi and unicorns.
+
+A couple of the ponies on the left side finished unloading and pulled their wagons out to go get weighed out.
+
+Iron pointed at a bright pink unicorn in a safely vest and helmet who quickly trotted into the vacated area. "That's Protector Pete, he goes in and uses his magic to push the metal back into the pile after ponies leave."
+
+They all watched Pete. He used his magic in a sweeping motion, pushing the metal back in steps.
+
+Iron led the ponies as they continued down the pile, following till they were on the backside of the pile. "This area is restricted to employees only. This is where we take the metal and start processing it."
+
+There were several ponies working on this side of the pile. Iron pointed at another unicorn. "That's Crusher. He picks up metal in his magic and crushes it before placing it on a cart before it gets taken into our processing building."
+
+They watched as Crusher picked up a large chunk of the metal pile at the top and crumpled it all together before setting it down on a flying wagon connected to two pegasi.
+
+"Those pegasi fly the metal from the yard to the building. It's quicker to fly it than trot it on an earth pony wagon."
+
+The wagon drifted downward some as the metal rested on it, but it stayed in line with the flying ponies.
+
+Scootaloo raised her hoof.
+
+"Yes, Scootaloo?"
+
+"Why doesn't the wagon just fall down, it looks like nothing is supporting it."
+
+"Good question. Pegasi has innate magic that keeps the wagon stead when they fly. They can fly with a lot of weight, but if its too much they get pulled to the ground."
+
+Scootaloo nodded at her answer.
+
+Iron led them to the building where the two pegasi had flown to, and where waiting for them.
+
+Iron introduced them. The first pony was a white mare with yellow curls. "This is Sunrise." the second pony was a light blue mare with a cloud like mane. "This is Cloudy Conundrum."
+
+They waived at the touring ponies before Sunrise speaks, "Hello ponies, we're going to help with the tour to explain and show you all how we process metal. Sound exciting?"
+
+Everypony nodded.
+
