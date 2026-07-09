@@ -338,3 +338,43 @@ They waived at the touring ponies before Sunrise speaks, "Hello ponies, we're go
 
 Everypony nodded.
 
+Cloudy stepped forward. "Once we get get to this processing building we back up to the conveyor belt behind us." She pointed at said belt.
+
+They all watched as they backed up and a unicorn lifted the metal from the wagon and hovered it above the belt.
+
+Both pegasi unhooked themselves from the wagon and trotted to stand in front of the belt where the metal was.
+
+Sunrise pointed at the unicorn holding the metal. "This is Puzzle Piece, he takes the metal and pull it apart, sprinkling small bits of metal onto the belt so our crusher doesn't get jammed."
+
+Puzzled waived at the ponies as he started pulling apart the metal.
+
+they followed some bits of metal as it started on the belt. After a few feet it started to go uphill. Once the belt was above their heads they could see on the other side from under the belt.
+
+There was a line of earth ponies running on belts all attached together in a line. The shaft coming from their running stations connected to the conveyor belt and a large metal box at the top of the belt.
+
+Iron pointed at the runners. "These ponies are what power the conveyor belts and our crusher. We crush the metal as the first step in processing it."
+
+They continued on to the end of the belt where the metal box was at the end. Nopony could see anything on the belt now, but there was a set of stairs that lead to an observation platform above the crusher.
+
+Iron spoke, "We're going to take turns going up to watch the metal get crushed. Each chaperon will take their foals and will follow one of us up to see the crusher in action, okay?"
+
+Everypony nodded.
+
+"Twilight, please come with me."
+
+Twilight and her ponies followed iron up the stairs. At the top they found a giant pain of glass and a railing protecting ponies from getting too close to the crushing wheels.
+
+The crusher had two sets of teeth, both spinning inward towards each other. They had counter-set teeth matched to the other side. They watched as a chunk of metal fell into the it.
+
+The metal popped and bounced a few times on the teeth before being swallowed by the slow turning blades.
+
+Iron said, "We call this kind of metal shredder food, because we feed it all to this here shredder."
+
+After watching a few more pieces get eaten, the group descended back down. Each group took their turn to watch.
+
+After everypony had viewed the crusher, and Pinkie had viewed it twice, they turned their attention to the bottom of the crusher.
+
+They trotted around the viewing platform where they found another conveyor belt. They watched as metal chips fell from the bottom of the crusher onto the belt.
+
+Cloudy said, "Now that the metal is shredded, it's easier to manage and sort."
+
