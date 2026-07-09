@@ -310,7 +310,7 @@ Iron pointed at a bright pink unicorn in a safely vest and helmet who quickly tr
 
 They all watched Pete. He used his magic in a sweeping motion, pushing the metal back in steps.
 
-Iron led the ponies as they continued down the pile, following till they were on the backside of the pile. "This area is restricted to employees only. This is where we take the metal and start processing it."
+Iron led the ponies as they continued along the pile, following till they were on the backside of the pile. "This area is restricted to employees only. This is where we take the metal and start processing it."
 
 There were several ponies working on this side of the pile. Iron pointed at another unicorn. "That's Crusher. He picks up metal in his magic and crushes it before placing it on a cart before it gets taken into our processing building."
 
@@ -326,7 +326,7 @@ Scootaloo raised her hoof.
 
 "Why doesn't the wagon just fall down, it looks like nothing is supporting it."
 
-"Good question. Pegasi has innate magic that keeps the wagon stead when they fly. They can fly with a lot of weight, but if its too much they get pulled to the ground."
+"Good question. Pegasi have innate magic that keeps the wagon steady when they fly. They can fly with a lot of weight, but if its too much they get pulled to the ground."
 
 Scootaloo nodded at her answer.
 
