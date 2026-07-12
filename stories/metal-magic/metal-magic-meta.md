@@ -42,6 +42,13 @@ Iron Oxide gives a tour of the scrapyard she works at to the school ponies like 
   - Zinc - $1.41
   - Batteries - $0.17
   - Steel scrap - $0.17
+- The mane scrapyard is for general iron and steel.
+- The metal is processed.
+- Shredded into little bits.
+- Bits are sorted in various ways:
+  - Magnet to sort ferrous metal.
+  - Eddy current to sort non-ferrous.
+  - Ponies to sort after?
 - 
 
 ## Story:
