@@ -70,6 +70,9 @@ Pinkie Pie is roasted by her friends and family.
 - Pinkie Pie loves to make ponies smile, but what if making ponies frown makes me smile?
 - One time I saw Pinkie break into a bunch of little pieces. I did what anypony else would do, I went and got me a piece of the Pie. I grabbed her tail, I needed a new pillow.
 - Pinkie Pie is in a special interest group, as in she is the special interest of our friend group.
+- I don't think Pinkie is very good with social cues, last time I brought them up she started standing in line.
+- Pinkie Pie is one of the few ponies that kept their childlike wonder into adulthood, and I figured out where the line stops for her excitement. It's taxes, not even Pinkie likes to do taxes.
+- Everypony just assumes her favorite color is pink. Has anyone bothered to actually ask her? What do we do if it's green, or blue?
 - 
 
 ### Twilight:
