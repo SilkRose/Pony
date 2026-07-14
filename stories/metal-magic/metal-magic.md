@@ -378,3 +378,31 @@ They trotted around the viewing platform where they found another conveyor belt.
 
 Cloudy said, "Now that the metal is shredded, it's easier to manage and sort."
 
+Sunrise trotted over to a table next to the conveyor belt. "We're going to do a hooves-on demonstration to help you understand how we sort the metal."
+
+She pointed at a small rectangular metal brick. "This is a magnet, they attract ferrous metals which contain a lot of iron."
+
+She picked up the magnet and used it to pick up a small metal plate from the table.
+
+"Metals like iron and steel have un-paired electrons that get attracted to the magnet because the electrons align within the metal reinforcing the magnet's magnetic field."
+
+Everypony nodded.
+
+"Most of what gets sold as shredder food is going to be iron and steel, but not all of it is."
+
+She pointed at two more pieces of metal: a flat plate of aluminum and another of copper.
+
+"We want to get the non-ferrous metals too. These types of metal don't get attracted by magnets, but they do conduct electricity very well. We can use this to sort those types of metal; too."
+
+She moved the magnet over the two plates one at a time. As she moved the magnet faster the plates started sliding a bit with the magnet.
+
+"These types of metal are reacting to the changes in the magnetic field as the magnet moves over them. Moving the magnet over them induces a magnetic field inside the metal and as this field changes it creates a repulsive force that moves the metal."
+
+She demonstrated it again. "Each of of you will come up here and be able to test and see these forces at work."
+
+Iron helped each of the foals as they lined up to participate in the demonstration. Each pony used the magnet on all three pieces of metal and played around before their turn ended.
+
+After everypony got their turn, Iron lead them down the side of the conveyor belt more.
+
+"Now that we've seen how these metals interact, we can see how we use those principals to sort the metal."
+
