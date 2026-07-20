@@ -9,7 +9,7 @@ Pinkie Pie unveils her newest idea: a Pony Pyramid! With it, her and her friends
 Written in collaboration with [Shay492](https://www.fimfiction.net/user/840747/Shay492).
 
 ## Short Description:
-
+Pinkie Pie starts a not pyramid scheme. Twilight insists otherwise.
 
 ## Ideas:
 - Pinkie Pie wants to be friends with as many ponies as possible, so she recruits others to make friends for her.
