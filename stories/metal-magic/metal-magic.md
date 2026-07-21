@@ -406,3 +406,29 @@ After everypony got their turn, Iron lead them down the side of the conveyor bel
 
 "Now that we've seen how these metals interact, we can see how we use those principals to sort the metal."
 
+The conveyor turned the corner and rose upward like before, but this time not very far. At the peak of the belt it just ended and the metal bits fell downward.
+
+As it was currently all the metal just landed on another conveyor at the same level as the previous one before it started going upward.
+
+Iron lit up her horn casting a spell. A flat magical aura filled the space halfway between the two disjointed conveyor belts. As her spell activated the ferrous metal became trapped in her magic and slowly moved towards another conveyor belt that aligned with her magic.
+
+Sunrise asked, "Iron is casting a magnetic spell to catch all the metal attracted to magnets to send them down a different conveyor belt than the non-ferrous metal."
+
+Iron spoke up, "All the ferrous metal I'm catching will go down this conveyor and be packed into boxes, well see this in a bit. For now we are going to follow the lower belt to see the next sorting step."
+
+She let her spell drop before another color of magic took its place. A dark gray mare appeared from the other side of the belt. She had a two tone red and blue mane with a magnet as her cutie mark.
+
+Iron introduced her. "This is Magnet Mane, she catches the metal with the spell I just showed you."
+
+Magnet waived to the ponies and they waived back.
+
+The group continued on and followed the lower belt. The higher one turned away as the lower one raised in the air like the one before it.
+
+Iron brought them to a very similar looking setup, the belt rose above two more belts and the metal dropped down. This time however the magic aura was already active.
+
+A strikingly similar pony stood on the other side of the belt as the last one. This time a gray stallion with a red and blue mane, and a magnet with a dotted line around it as his cutie mark.
+
+He introduced himself. "Hello everypony, my name is Field Magic. I take it you already met my sister Magnet Mane?"
+
+The group nodded.
+
