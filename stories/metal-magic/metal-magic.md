@@ -412,7 +412,7 @@ As it was currently all the metal just landed on another conveyor at the same le
 
 Iron lit up her horn casting a spell. A flat magical aura filled the space halfway between the two disjointed conveyor belts. As her spell activated the ferrous metal became trapped in her magic and slowly moved towards another conveyor belt that aligned with her magic.
 
-Sunrise asked, "Iron is casting a magnetic spell to catch all the metal attracted to magnets to send them down a different conveyor belt than the non-ferrous metal."
+Sunrise said, "Iron is casting a magnetic spell to catch all the metal attracted to magnets to send them down a different conveyor belt than the non-ferrous metal."
 
 Iron spoke up, "All the ferrous metal I'm catching will go down this conveyor and be packed into boxes, well see this in a bit. For now we are going to follow the lower belt to see the next sorting step."
 
@@ -431,4 +431,36 @@ A strikingly similar pony stood on the other side of the belt as the last one. T
 He introduced himself. "Hello everypony, my name is Field Magic. I take it you already met my sister Magnet Mane?"
 
 The group nodded.
+
+Field continued, "I'm casting a slight different spell than my sister was. Her's was just to capture and move the ferrous metal, mine has to induce magnetic fields in the metal. My magic is cycling between positive and negatively charged fields rapidly to control the metal to go down the conveyor we want it to."
+
+The group watched the the remaining bits of metal bounced on top of Field's magic instead of trapping them like Magnet's did.
+
+The waste material just fell right through falling onto the lower belt.
+
+Iron said, "All the non-metal material will get packed up just like the ferrous metal from the first step. We'll follow the remaining metal to see how it gets sorted one last time before getting shipped out as well."
+
+The group continued to follow the metal as it rounded a corner and leveled out at pony height.
+
+They followed it until they found themselves yet again at a third sorting station with a pony that didn't look like they were related to the previous two.
+
+She was a n orange unicorn with a white mane and a cutie mark of a line with a bunch of zig zags in it.
+
+She spoke up, "Hello everypony, my name is Resistor, I use my magic like the previous two ponies you saw to sort the metal for the final time."
+
+Iron continued, "We didn't go over this in the demonstration, but copper and aluminum have different current carrying capabilities, or resistances."
+
+They all watched as Resistor sorted the metals using her magic. It was a similar plane of magic aura but this time she held each piece in it for a second before letting some fall through. The ones she kept hold of went onto the upper belt. While the ones let go went to the lower belt.
+
+Resistor explained, "What I'm doing with my magic is catching each piece and measuring their resistance to determine if its copper or aluminum. Copper can carry more current, and it's heavier, so I use both of these traits to separate the metal."
+
+Everypony nodded.
+
+Iron lead them down down the conveyor belt one last time, bringing them to the final destination of the tour.
+
+They were now at the far side of the building, and all of the split off belts arrive here at a giant opening in the wall. Each belt ending with its contents being dumped into wooden boxes.
+
+The belts were in the following order: aluminum, copper, non-metal waste, and ferrous metal.
+
+Iron brought them to the ferrous metal belt, which had the most bits flowing from it. There were two ponies there.
 
