@@ -364,7 +364,7 @@ Everypony nodded.
 
 Twilight and her ponies followed iron up the stairs. At the top they found a giant pain of glass and a railing protecting ponies from getting too close to the crushing wheels.
 
-The crusher had two sets of teeth, both spinning inward towards each other. They had counter-set teeth matched to the other side. They watched as a chunk of metal fell into the it.
+The crusher had two sets of teeth, both spinning inward towards each other. They had counter-set teeth matched to the other side. They watched as a chunk of metal fell into it.
 
 The metal popped and bounced a few times on the teeth before being swallowed by the slow turning blades.
 
@@ -458,9 +458,28 @@ Everypony nodded.
 
 Iron lead them down down the conveyor belt one last time, bringing them to the final destination of the tour.
 
-They were now at the far side of the building, and all of the split off belts arrive here at a giant opening in the wall. Each belt ending with its contents being dumped into wooden boxes.
+They were now at the far side of the building, and all of the split off belts arrive here at a giant opening in the wall. Each belt ending with its contents being dumped into a wooden box. Each one also had a wagon with various numbers of boxes on each.
 
 The belts were in the following order: aluminum, copper, non-metal waste, and ferrous metal.
 
-Iron brought them to the ferrous metal belt, which had the most bits flowing from it. There were two ponies there.
+Iron brought them to the ferrous metal belt, which had the most bits flowing from it. There were two ponies there. The first was a red pegasus with a map cutie mark, and the second was a blue earth pony with a box cutie mark.
 
+Iron introduced them. "This is Route Planner and Packer."
+
+Packer explained, "I cap the boxes off once they-re full and put them on the wagon."
+
+Route continued, "I fly the wagon over to the train station so they can be delivered all across Equestria."
+
+Right on cue the box filled up and Packer put the lid on it and placed it on the wagon. Route hooked himself to the wagon and waived goodbye to all the ponies.
+
+Everypony waived back before he took off into the sky.
+
+Iron finished the tour. "This is the end of our tour, you've now seen everything we can show you about how we handle scrap metal. All those specialty metals from the first half of the tour also get shredded and put into boxes, but they don't need to be sorted since they already are."
+
+Everypony stomped in appreciation before exchanging pleasantries and goodbyes.
+
+Iron saw everypony off with a smile before returning to her office to sit down, breathing a sign of relief at a tour well taken.
+
+Then she remembered she never took the vests and hard hats back from the guests.
+
+"Well, I guess they all got some souvenirs."
