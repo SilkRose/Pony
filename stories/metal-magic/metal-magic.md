@@ -42,7 +42,7 @@ Ticket pointed at the scale. "This metal plate has a magical gemstone embedded i
 
 Iron continued, "Ticket here takes the metal they bring in and places it on the scale before writing down how much weight it says on the pony's ticket."
 
-Ticket finished, "I make sure that the metal is separated correctly and that no dirty metal get mixed in with the clean."
+Ticket finished, "I make sure that the metal is separated correctly and that no dirty metal gets mixed in with the clean."
 
 Sweetie Belle raised her hoof.
 
@@ -134,7 +134,7 @@ The groups eyes looked back and forth as Iron said, "We only buy the bare copper
 
 She put both wires back and said, "We buy the insulated wire for 3.90 bits per pound."
 
-"The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, they typically have more plastic and other materials on them, so we buy them for a lower price of 3.10 per pound."
+"The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, they typically have more plastic and other materials on them, so we buy them for a lower price of 3.10 bits per pound."
 
 She levitated out a few different plugs to show them: one with two blade style contacts and a round third, one with three curved blades that spun to lock the connection, and one with two flat blades, and L shaped blade, and a round one.
 
@@ -202,7 +202,7 @@ Pinkie Pie raised her hoof as the ponies looked at the metal.
 
 "Yes, Pinkie?"
 
-"Are those the cymbals I threw away you last week?"
+"Are those the cymbals I threw away last week?"
 
 Iron nodded. "Yes."
 
