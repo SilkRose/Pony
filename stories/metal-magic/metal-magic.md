@@ -276,7 +276,7 @@ Iron nodded. "good job, that's correct."
 
 They repeated this process for all the metal Scraps had on his wagon, with different ponies doing different roles each time. Twilight had to help with the math for the less cleanly multiplied prices, but in the end they got it all done, and Scraps left with his bag of bits.
 
-Iron lead the group back outside the front of the building and they went to the side, where a set of two larger trot-on scales sat.
+Iron lead the group back outside to the front of the building and they walked to the side, where a set of two larger trot-on scales sat.
 
 "We're going to go over the normal scrap procedure now. This is where ponies bring in scrap in large amounts, instead of by the pound, it's by the ton."
 
@@ -326,15 +326,15 @@ Scootaloo raised her hoof.
 
 "Why doesn't the wagon just fall down, it looks like nothing is supporting it."
 
-"Good question. Pegasi have innate magic that keeps the wagon steady when they fly. They can fly with a lot of weight, but if its too much they get pulled to the ground."
+"Good question. Pegasi have innate magic that keeps the wagon steady when flying. They can fly with a lot of weight, but if its too much they get pulled to the ground."
 
 Scootaloo nodded at her answer.
 
-Iron led them to the building where the two pegasi had flown to, and where waiting for them.
+Iron led them to the building where the two pegasi had flown to, and were now waiting for them.
 
 Iron introduced them. The first pony was a white mare with yellow curls. "This is Sunrise." the second pony was a light blue mare with a cloud like mane. "This is Cloudy Conundrum."
 
-They waived at the touring ponies before Sunrise speaks, "Hello ponies, we're going to help with the tour to explain and show you all how we process metal. Sound exciting?"
+They waived at the touring ponies before Sunrise spoke, "Hello ponies, we're going to help with the tour to explain and show you all how we process metal. Sound exciting?"
 
 Everypony nodded.
 
@@ -344,9 +344,9 @@ They all watched as they backed up and a unicorn lifted the metal from the wagon
 
 Both pegasi unhooked themselves from the wagon and trotted to stand in front of the belt where the metal was.
 
-Sunrise pointed at the unicorn holding the metal. "This is Puzzle Piece, he takes the metal and pull it apart, sprinkling small bits of metal onto the belt so our crusher doesn't get jammed."
+Sunrise pointed at the unicorn holding the metal. "This is Puzzle Piece, he takes the metal and pulls it apart, sprinkling small bits of metal onto the belt so our crusher doesn't get jammed."
 
-Puzzled waived at the ponies as he started pulling apart the metal.
+Puzzle waived at the ponies as he started pulling apart the metal.
 
 they followed some bits of metal as it started on the belt. After a few feet it started to go uphill. Once the belt was above their heads they could see on the other side from under the belt.
 
@@ -392,7 +392,7 @@ Everypony nodded.
 
 She pointed at two more pieces of metal: a flat plate of aluminum and another of copper.
 
-"We want to get the non-ferrous metals too. These types of metal don't get attracted by magnets, but they do conduct electricity very well. We can use this to sort those types of metal; too."
+"We want to get the non-ferrous metals too. These types of metal don't get attracted by magnets, but they do conduct electricity very well. We can use this to sort those types of metal too."
 
 She moved the magnet over the two plates one at a time. As she moved the magnet faster the plates started sliding a bit with the magnet.
 
@@ -444,7 +444,7 @@ The group continued to follow the metal as it rounded a corner and leveled out a
 
 They followed it until they found themselves yet again at a third sorting station with a pony that didn't look like they were related to the previous two.
 
-She was a n orange unicorn with a white mane and a cutie mark of a line with a bunch of zig zags in it.
+She was an orange unicorn with a white mane and a cutie mark of a line with a bunch of zig zags in it.
 
 She spoke up, "Hello everypony, my name is Resistor, I use my magic like the previous two ponies you saw to sort the metal for the final time."
 
