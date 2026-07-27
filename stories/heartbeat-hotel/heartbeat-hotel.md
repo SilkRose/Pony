@@ -14,11 +14,29 @@ I'm about to lite my horn and teleport when I remember that teleportation makes 
 
 I run out of the house making a beeline for Sugarcube Corner. I'm sure nopony would think anything weird about an alicorn running through the streets in the middle of the night.
 
-I've been looking forward to this all day, I can't believe I would forget so easily. Today was a rough day for the most part. So, you'd think I'd have remembered.
+I've been looking forward to this all day, I can't believe I would forget so easily. Today was a rough day for the most part. So, you'd think I'd have remembered. I can't wait to see Pinkie and maybe talk with her and visit the hotel if she's still awake.
 
-The library has never seen this many ponies in a single day as there were today. The weird part is they all kept asking about books where ponies fall into wells. I obviously tried to help, but we only had so many. Maybe we should get more in case they come back.
+Oh, I should probably explain what I mean by the hotel. The Heartbeat Hotel is what Pinkie has affectionately named her chest. As in when I cuddle with her and rest my head on her I'm visiting the hotel. It's really cute.
 
-After that Rainbow showed up and asked a bunch of math questions. Which seems unlike her, but it had to do flying, and that explained it. She tried to pay attention, but lost enthusiasm after the second paragraph. I just summarized what she needed to know and that seemed to satisfy her. She left with a thank you and a smile that said she didn't understand a single word I said. You can't win them all I guess.
+I know it just sounds like cuddling with Pinkie, so allow me to explain all the amenities the Heartbeat Hotel has to offer.
+
+1. The primary pillow is one of the softest I've ever used. I could sleep there all night, but I try not to.
+2. The primary pillow has a built-in metronome, that is very calming to listen to. Any forthcoming is kept at bay while the beat is in my head.
+3. The metronome has a standard speed, but it can be increased by apply affection and kisses to the host.
+4. The hotel is world famous, if you constrain the world to mine. You might not consider this an amenity, but this is my list.
+5. The secondary pillow is even softer and gives and option to not have the metronome. It also gives an easier view of the host if you're facing her.
+6. The best part about this second pillow position is how ticklish it is. If you need to hear any amount of cute giggle and laughter all it takes it a little tickling.
+7. It even comes with a built in fidget toy. Just ask to play with her tail and you can have fun for days. Who doesn't love playing with other ponies hair?
+8. Speaking of playing with hair, she'll do exactly that with your mane. She's surprisingly cute at it too.
+9. This hotel even has complimentary massages. She can use her hooves on you however you want. She can hold you or pat your back or squeeze you or… pet you and tell you you're a good girl.
+10. It also has conversational abilities. She'll talk to you about anything you want, whether she knows about it or not. Or she'll sing you a cute song.
+11. The hotel is also voice activated. She'll do everything she can to make you happy.
+12. The built in kissing booth is probably one of my favorite amenities. The blush it puts on her face makes a pretty good show too.
+13. My favorite thing about the hotel: it isn't free.
+
+What, I'm allowed to think in lists.
+
+
 
 I turn the last corner and the establishment comes into view. I slow down to a simple gait to recover my composer. I get to the door and rest for a minute. I do the breathing trick Cadance taught me before entering.
 
@@ -128,3 +146,14 @@ I giggle. "You too!"
 
 Pinkie ends her time at the hotel and wraps me in another big hug. I hug back and nuzzle her cheek.
 
+
+
+
+
+
+
+
+
+The library has never seen this many ponies in a single day as there were today. The weird part is they all kept asking about books where ponies fall into wells. I obviously tried to help, but we only had so many. Maybe we should get more in case they come back.
+
+After that Rainbow showed up and asked a bunch of math questions. Which seems unlike her, but it had to do flying, and that explained it. She tried to pay attention, but lost enthusiasm after the second paragraph. I just summarized what she needed to know and that seemed to satisfy her. She left with a thank you and a smile that said she didn't understand a single word I said. You can't win them all I guess.
