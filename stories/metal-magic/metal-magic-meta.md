@@ -4,10 +4,14 @@
 Iron Oxide gives a tour of the scrapyard she works at to the school ponies like on a field trip.
 
 ## Description:
+Iron Oxide gives the Ponyville school ponies a tour of a metal scrapyard.
 
+Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
+
+Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
 
 ## Short Description:
-
+Iron Oxide gives the Ponyville school ponies a tour of a metal scrapyard.
 
 ## Ideas:
 - All the ponies in the school go on a field trip to the scrapyard.
