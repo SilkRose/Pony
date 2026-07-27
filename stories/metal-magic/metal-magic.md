@@ -434,7 +434,7 @@ The group nodded.
 
 Field continued, "I'm casting a slight different spell than my sister was. Hers was just to capture and move the ferrous metal, while mine has to induce magnetic fields in the metal. My magic is cycling rapidly between positive and negatively charged fields to control the metal to go down the conveyor we want it to."
 
-The group watched the the remaining bits of metal bounced on top of Field's magic instead of trapping them like Magnet's did.
+The group watched the remaining bits of metal bounced on top of Field's magic instead of trapping them like Magnet's did.
 
 The waste material just fell right through falling onto the lower belt.
 
