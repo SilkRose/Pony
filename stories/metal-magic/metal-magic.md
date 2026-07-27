@@ -22,7 +22,7 @@ Everypony nodded again.
 
 Everypony shook their head.
 
-"Okay, Princess Twilight here will assign you to your chaperone."
+"Okay, Princess Twilight here will assign you to your chaperone. Cheerilee is currently sick, so Twilight is taking her place today."
 
 Twilight stepped forward and looked at everypony. "Sweetie Belle and Silver Spoon are with Rarity. Scootaloo and Diamond Tiara are with Rainbow Dash. Featherweight and Rumble are with Fluttershy. Apple Bloom and Snips are with Applejack. Snails and Pinkie Pie are with me."
 
