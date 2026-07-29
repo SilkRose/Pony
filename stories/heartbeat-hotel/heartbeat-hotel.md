@@ -50,15 +50,15 @@ Pinkie holds my hoof in her own, her own face now blushing. "I haven't been asle
 
 I match her ever-adorable smile with my own. "I'd love to. I've been looking forward to this all day. Had a rough one for most of the day."
 
-"What do you do first?"
+"What do you wanna do first?"
 
 I think for a second even though I already knew the answer. "I'd love to visit the hotel some and relax before talking, if that's alright?"
 
 Pinkie nods before opening her hooves and laying back. I take her invitation and lay my head down on her chest. She closes her hooves around me, completing the ensemble.
 
-Pinkie always had a way with things. Whether it was physical affection, naming things, or just general creativity, she brought something new to it.
-
 I am now staying at the Heartbeat Hotel. Pinkie named it as such after we cuddled a few times. This is something I noticed she did a lot between us. It was cute, it was *her*.
+
+Pinkie always had a way with things. Whether it was physical affection, naming things, or just general creativity, she brought something new to it.
 
 I love staying at this particular hotel very much. I dare to say it's my most favorite-est hotel in all Equestria. Pinkie's slightly elevated heartbeat thumping in my head, bringing a calmness I can't describe in words. The tender hold of her hooves around me, a security and judgement free zone. The gentle nudges and kisses she provides in the background, a constant reminder of love and care.
 
@@ -66,65 +66,187 @@ I couldn't ask for me. I'm in love with the best pony in all of Equestria. I kno
 
 I lay there taking in the moment, all the worries of they day disappearing with each beat. I sigh.
 
-I know the Heartbeat Hotel probably sounds like just cuddling with Pinkie Pie, so allow me to elaborate on all its amenities.
+I guess instead of just thinking about how much I love visiting the Heartbeat Hotel I should tell it to Pinkie.
 
-This hotel has the softest pillow I've ever used. The pillow even has a gentle rise and fall to it, another calming aspect.
+"Pinkie, I've been thinking recently about this hotel and all its amenities. I've decided to do what I always do and make a list of everything I love about staying here."
 
-The built in metronome is the mane attraction the hotel is named after. It comes in a standard speed, but you can increase it on demand.
+Pinkie giggles. "Sounds fun!"
 
-I lift my head and kiss Pinkie cutely.
+1. I nuzzler her chest. "This hotel has one of the softest pillows I've ever used."
 
-Laying my head back down, I notice her heart beating faster. See?
+Pinkie asks, "Can I make a list of everything I like about having you at the hotel?"
 
-I nuzzle her chest.
+I answer, "Can we go over my list first, don't want to get confused, right?"
 
-The hotel is world famous, if you constrain the world to mine.
+Pinkie nuzzles my head. "Okay, cutie."
 
-If the metronome isn't for you, like if you have a headache, you can lower your head for an even softer pillow that doesn't beat.
+2. I blush. "The little bits of affection from the host like that nuzzle make me feel so loved."
 
-The best part about this second pillow position is how ticklish it is. If you need to hear any amount of cute giggle and laughter all it takes it a little tickling.
+Pinkie asks, "Do you like it when I play with your mane?"
 
-It even comes with a built in fidget toy. Just ask to play with her tail and you can have fun for days. Who doesn't love playing with other ponies hair?
+3. I nod. "I love it, that's the third thing."
 
-This hotel even has complimentary massages. She can use her hooves on you however you want. She can hold you or pat your back or squeeze you or… pet you and tell you you're a good girl.
+Pinkie starts running her hoof through my mane.
 
-It also has conversational abilities. She'll talk to you about anything you want, whether she knows about it or not. Or she'll sing you a cute song.
+4. "The way you hold me is so calming. I just feel secure and safe."
 
-The hotel is also voice activated. She'll do everything she can to make you happy.
+Pinkie kisses my head.
 
-The built in kissing booth is probably one of my favorite amenities. The blush it puts on her face makes a pretty good show too.
+5. "I'm counting the kisses as number five, I know some ponies might include that in number two."
 
-Normally you fall asleep at hotels, but I try not to. I think it's unfair at this particular one. Sometimes it's just so amazing at the hotel I fall asleep, and when I wake up, she's still holding me.
+Pinkie giggles. "I'm not some ponies either."
 
-But all of these amenities pail in comparison to my favorite thing about the hotel: it's not free.
+I ask, "Can I see your tail?"
 
-This hotel has a cost, and I love paying it.
+Pinkie brings her tail up resting it on her stomach.
 
-I lift my head and give Pinkie a sweet kiss. Afterward I lay down and bare my chest for her stay at the hotel.
+6. I start to play with her tail. "Your tail makes for a fun fidget toy."
 
-She lays down on me and I wrap my hooves around her.
+Pinkie giggles again. "You're cute, you know that?"
 
-She tells me the Heartbeat Hotel has the same amenities for her as it does for me, but I think they're better for me. I may be biased a lot, though.
+7. I blush again. "You give the best compliments, number seven. And you too!"
 
-Being the hotel provider also has some amazing benefits.
+Pinkie squeezes me tighter. "I've got something to say about you, but I'll wait till your list is over."
 
-I get to hold my favorite pony in the whole world.
+8. "The host is so considerate, number eight."
 
-I can make her make a wide variety of cute noises just from the different ways I can hold and squeeze my guest.
+"Are these just turning into compliments of me?"
 
-I get random kisses from my guest.
+"The hotel has gained sentience, will continue to compliment her."
 
-She'll listen to anything I say and try to pay attention.
+We both giggle.
 
-She likes to giggle when I kiss the top of her head.
+9. "Surprised this wasn't the first one. The hotel has a built in metronome, which gives it its name."
 
-She tries to make me laugh with corny jokes.
+"It's pretty distinct, yea."
 
-She makes me smile just from being there.
+"It's so calming to listen to."
 
-Pinkie says, "You're cute, you know."
+Pinkie agrees. "Yep."
 
-I giggle. "You too!"
+10. "You might think you can't adjust the speed, but you can make it increase with this one simple trick."
 
-Pinkie ends her time at the hotel and wraps me in another big hug. I hug back and nuzzle her cheek.
+Pinkie asks, "Oh, how?"
+
+I lift my head and turn to Pinkie and passionately kiss her. She kisses back and we hold the kiss for a minute.
+
+After laying my head back down and both of us blushing, I say, "That's how."
+
+Pinkie says, "I see."
+
+11.  I roll over and face Pinkie, my head resting on her stomach. "There's a second even softer pillow if you don't want to hear the metronome."
+
+Pinkie nods.
+
+12. I smile up at Pinkie. "This second pillow has the benefit of the view of the cutest pony in all Equestria."
+
+Pinkie blushes. "I've got a pretty cute pony in my view to, you know."
+
+13. I grab her hoof and hold it to my chest. "I get to hold hooves and cuddle with my favorite pony ever."
+
+"I could say the same thing about you in my list."
+
+14. "I fully expect you to." I gently tickle her belly. "I love how ticklish the second pillow is."
+
+Pinkie lights up with giggles and laughter.
+
+15. "This hotel is world famous, if you constrain your view of the world to mine."
+
+"Are you running out of stuff to say?"
+
+16. "The room service is the best I've ever had. You can get a back massage, or just relax in quiet peace, or talk the receptionist's ear off."
+
+"I haven't heard you mention kissing yet."
+
+17. "The built in kissing booth is one of my favorite amenities."
+
+Pinkie nods.
+
+18. "The hotel is also voice activated. How many other hotels will kiss you when you ask?"
+
+Pinkie thinks for a second. "I can't think of any."
+
+19. "The receptionist will talk to you about anything. She's so cute and amazing at conversing."
+
+Pinkie blushes. "You really like calling me cute."
+
+"I'll end with my favorite thing about the hotel."
+
+Pinkie asks, "What?"
+
+20. The hotel isn't free.
+
+Pinkie looks confused and asks, "It's not?"
+
+I smile up at her. "While you don't ask anything for letting me stay, I impose a cost of hosting the hotel for you in exchange. And I love paying that fee."
+
+"Oh, well then I love paying it too."
+
+Pinkie leans down and we kiss.
+
+After the kiss, I ask, "What did you want to say to me earlier?"
+
+"I love you. You took my silly little idea of us visiting a hotel when we cuddle and took it seriously and thought of all these things you like about it. Thank you."
+
+I reach up and wrap Pinkie in a hug. "Of course I'd take it seriously. You're just so creative and fun. I love you too."
+
+Pinkie hugs back.
+
+After the hug I ask, "Do you want to go over your list now?"
+
+- "Yes, the first thing is I get to hold the cutest pony ever!"
+
+I giggle. "That's an unordered list Pinkie."
+
+1. Pinkie giggles too. "Oops. The first thing is holding the cutest pony ever. Is that better?"
+
+I nod. "Yes."
+
+2. "I get random kisses from my guest."
+
+I kiss her then we both giggle.
+
+3. "My guest will listen to anything I want to say."
+
+"You make everything fun to listen to, especially when you're excited."
+
+4. "My guest likes to giggle when I kiss her head."
+
+"It's hard not to, okay?"
+
+5. "My guest makes really cute noises when I hold and squeeze her."
+
+I blush slightly. "You're trying to make me blush, aren't you?"
+
+6. "I get to tell you silly jokes to try and make you laugh."
+
+"You're the element of laughter, you're pretty funny."
+
+7. "You keep me from being lonely."
+
+"Aww, you too!"
+
+8. "You make me smile just being there."
+
+My blush intensifies.
+
+9. "When you're looking at me, I get to look into the most beautiful eyes anypony has ever seen."
+
+"Oh, how could I forget to compliment your eyes! They're so beautiful!"
+
+Pinkie giggles. "I love you."
+
+Twilight giggles back. "I love you too."
+
+10. "I'll keep my list short, the last thing I love about you visiting the Heartbeat Hotel: I get to be there for my best friend."
+
+My blush has consumed my face now. I know we've already hugged and kissed a lot, but I go in for another hug anyway.
+
+Pinkie hugs back.
+
+"You want to visit the hotel now?"
+
+Pinkie nods.
+
+After the hug I lay down and open my front hooves for her. She lays down resting her head on my chest. I wrap my hooves around her and squeeze her gently.
 
