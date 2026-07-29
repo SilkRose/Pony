@@ -59,3 +59,4 @@ Iron Oxide gives the Ponyville school ponies a tour of a metal scrapyard.
 [Metal Magic](./metal-magic.md)
 
 ## Cover:
+![cover](./metal-magic-cover-upscaled.png)
