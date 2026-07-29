@@ -6,6 +6,8 @@ Pinkie gets the idea to sell cutie mark cushions of her cutie mark after her mar
 ## Description:
 After Rarity has discovered a peculiar quirk to to Pinkie Pies physique, both decided to profit out of it.
 
+Thanks to [Night-Shine](https://www.fimfiction.net/user/876710/Night-Shine) for helping with ideas and writing the description.
+
 ## Short Description:
 Pinkie starts selling cutie mark cushions after Rarity says her flanks are soft.
 
