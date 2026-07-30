@@ -236,7 +236,7 @@ My blush intensifies.
 
 Pinkie giggles. "I love you."
 
-Twilight giggles back. "I love you too."
+I giggle back. "I love you too."
 
 10. "I'll keep my list short, the last thing I love about you visiting the Heartbeat Hotel: I get to be there for my best friend."
 
@@ -249,4 +249,64 @@ Pinkie hugs back.
 Pinkie nods.
 
 After the hug I lay down and open my front hooves for her. She lays down resting her head on my chest. I wrap my hooves around her and squeeze her gently.
+
+We lay there together in silence, both enjoying the presence of the other. I close my eyes and just take in the moment.
+
+After a few minutes of this Pinkie pulls my hoof and holds it in her own to her chest. "Do you want to talk about your day now?"
+
+I open my eyes and look down at Pinkie. "Sure. My day started out normal. I got up, brushed my mane then made breakfast."
+
+Pinkie asks, "Pancakes?"
+
+"Yes, they were delicious."
+
+Pinkie mimes eating my hoof. "You're delicious."
+
+I giggle and kiss the back of her head. "And you're cute."
+
+Pinkie squeezes my hoof. "What'd you do next?"
+
+"I started to study, but quickly had to stop and help library patrons."
+
+"What did they want to read?"
+
+"they wanted to checkout books about ponies falling down wells for some reason."
+
+"Hmm, that's an odd topic."
+
+"the strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book."
+
+"Oh, how many ponies visited?"
+
+"It felt like half the town. The library got more visitors today than it did in the last three months."
+
+"That's a lot of ponies. At least they want to read something, right?"
+
+"You're right, I shouldn't complain if they're reading."
+
+"What'd you do after they all left?"
+
+"I mostly went back to studying, but then Rainbow Dash stopped in."
+
+Pinkie nuzzles my chest. "What'd Dashie want?"
+
+"She wanted to know about a specific math concept. She wanted to know if it could help her flying."
+
+"Did you explain it to her?"
+
+"I tried. I lost her about two paragraphs in."
+
+"What'd you do to help her then?"
+
+I start to run my hoof through Pinkie's mane. "I explained a simplified version to her."
+
+"did it help her?"
+
+"She seemed satisfied with it and left with a look that said she still didn't understand."
+
+"Would it have helped her if she did understand?"
+
+"I don't think so."
+
+"Okay, what'd you do after she left?"
 
