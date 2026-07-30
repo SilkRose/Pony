@@ -16,9 +16,7 @@ I run out of the house making a beeline for Sugarcube Corner. I'm sure nopony wo
 
 I've been looking forward to this all day, I can't believe I would forget so easily. Today was a rough day for the most part. So, you'd think I'd have remembered.
 
-The library has never seen this many ponies in a single day as there were today. The weird part is they all kept asking about books where ponies fall into wells. I obviously tried to help, but we only had so many. Maybe we should get more in case they come back.
-
-After that Rainbow showed up and asked a bunch of math questions. Which seems unlike her, but it had to do flying, and that explained it. She tried to pay attention, but lost enthusiasm after the second paragraph. I just summarized what she needed to know and that seemed to satisfy her. She left with a thank you and a smile that said she didn't understand a single word I said. You can't win them all I guess.
+My mind races through the events of the day as I recall how much I was looking forward to being with Pinkie increased with each subsequent thing that happened. I just hope I'm not too late and didn't let her down.
 
 I turn the last corner and the establishment comes into view. I slow down to a simple gait to recover my composer. I get to the door and rest for a minute. I do the breathing trick Cadance taught me before entering.
 
@@ -310,3 +308,30 @@ I start to run my hoof through Pinkie's mane. "I explained a simplified version 
 
 "Okay, what'd you do after she left?"
 
+"Mostly studying and helping more ponies that came in for the same books as before. I stopped to eat for lunch and dinner, but not much else happened."
+
+"So you got all your studying done you needed to?"
+
+"Yes, I lost track of time at the end, but I did get it all done. Sorry."
+
+Pinkie nuzzles my hoof. "You don't need to apologize, I understand."
+
+We lay in silence for a minute before I ask, "How'd your day go?"
+
+Pinkie rolls overs, looking up at me with her head resting on my stomach. "It went good. Wasn't too busy or too boring. Mostly just worked the front counter for the Cakes."
+
+"Sounds like you had it easier than me today. Those ponies were really insistent on the books they wanted, even when I told them the last one was checked out an hour ago."
+
+Pinkie nods. "You said you were looking forward to this all day?"
+
+I nod back.
+
+Pinkie kisses me. I kiss back before we break into another hug.
+
+Pinkie whispers, "Me too."
+
+After the hug she lays her head back on my chest and curls up close to me. "I think I'm ready for bed, and I got the best spot to sleep."
+
+I giggle and pat her head. "Goodnight, Pinkie. I love you."
+
+Pinkie kisses my chest. "Goodnight, Twilight. I love you too."
