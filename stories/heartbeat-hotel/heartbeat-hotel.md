@@ -268,11 +268,11 @@ Pinkie squeezes my hoof. "What'd you do next?"
 
 "What did they want to read?"
 
-"they wanted to checkout books about ponies falling down wells for some reason."
+"They wanted to checkout books about ponies falling down wells for some reason."
 
 "Hmm, that's an odd topic."
 
-"the strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book."
+"The strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book."
 
 "Oh, how many ponies visited?"
 
@@ -298,7 +298,7 @@ Pinkie nuzzles my chest. "What'd Dashie want?"
 
 I start to run my hoof through Pinkie's mane. "I explained a simplified version to her."
 
-"did it help her?"
+"Did it help her?"
 
 "She seemed satisfied with it and left with a look that said she still didn't understand."
 
