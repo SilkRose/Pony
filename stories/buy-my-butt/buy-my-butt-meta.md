@@ -15,6 +15,7 @@ Pinkie starts selling cutie mark cushions after Rarity says her flanks are soft.
 - Pinkie and Rarity are cuddling.
 - Rarity says her flanks are very soft.
 - Pinkie gets the idea to sell cushions of her cutie mark.
+- What if at first Pinkie wanted one so she could feel how soft it is then had the idea to sell them?
 - Pinkie tries to get Rarity to make them, eventually convincing her.
 - Heart shaped cushions?
 - Rarity validates the softness?
