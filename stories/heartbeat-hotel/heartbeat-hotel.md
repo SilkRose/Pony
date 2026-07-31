@@ -58,11 +58,85 @@ I am now staying at the Heartbeat Hotel. Pinkie named it as such after we cuddle
 
 Pinkie always had a way with things. Whether it was physical affection, naming things, or just general creativity, she brought something new to it.
 
+I lay there taking in the moment, all the worries of they day disappearing with each beat. I sigh.
+
+After a few minutes of cuddling, Pinkie kisses the top of my head. "Do you want to talk about your day now?"
+
+"Sure. My day started out normal. I got up, brushed my mane then made breakfast."
+
+Pinkie asks, "Pancakes?"
+
+"Yes, they were delicious."
+
+Pinkie pretends to eat my mane. "You're delicious."
+
+I giggle and kiss her chest. "And you're cute."
+
+Pinkie squeezes me. "What'd you do next?"
+
+"I started to study, but quickly had to stop and help library patrons."
+
+"What did they want to read?"
+
+"They wanted to checkout books about ponies falling down wells for some reason."
+
+"Hmm, that's an odd topic."
+
+"The strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book."
+
+"Oh, how many ponies visited?"
+
+"It felt like half the town. The library got more visitors today than it did in the last three months."
+
+"That's a lot of ponies. At least they want to read something, right?"
+
+"You're right, I shouldn't complain if they're reading."
+
+"What'd you do after they all left?"
+
+"I mostly went back to studying, but then Rainbow Dash stopped in."
+
+Pinkie nuzzles my head. "What'd Dashie want?"
+
+"She wanted to know about a specific math concept. She wanted to know if it could help her flying."
+
+"Did you explain it to her?"
+
+"I tried. I lost her about two paragraphs in."
+
+"What'd you do to help her then?"
+
+I start to run my hoof through Pinkie's mane. "I explained a simplified version to her."
+
+"Did it help her?"
+
+"She seemed satisfied with it and left with a look that said she still didn't understand."
+
+"Would it have helped her if she did understand?"
+
+"I don't think so."
+
+"Okay, what'd you do after she left?"
+
+"Mostly studying and helping more ponies that came in for the same books as before. I stopped to eat for lunch and dinner, but not much else happened."
+
+"So you got all your studying done you needed to?"
+
+"Yes, I lost track of time at the end, but I did get it all done. Sorry."
+
+Pinkie nuzzles my hoof. "You don't need to apologize, I understand."
+
+We lay in silence for a minute before I ask, "How'd your day go?"
+
+"It went good. Wasn't too busy or too boring. Mostly just worked the front counter for the Cakes."
+
+"Sounds like you had it easier than me today. Those ponies were really insistent on the books they wanted, even when I told them the last one was checked out an hour ago."
+
+We continue to lay together enjoying the moment. I start to think about the Heartbeat Hotel and all its amenities.
+
 I love staying at this particular hotel very much. I dare to say it's my most favorite-est hotel in all Equestria. Pinkie's slightly elevated heartbeat thumping in my head, bringing a calmness I can't describe in words. The tender hold of her hooves around me, a security and judgement free zone. The gentle nudges and kisses she provides in the background, a constant reminder of love and care.
 
 I couldn't ask for me. I'm in love with the best pony in all of Equestria. I know Pinkie would say it's me, but I'll concede to being second or a tie.
-
-I lay there taking in the moment, all the worries of they day disappearing with each beat. I sigh.
 
 I guess instead of just thinking about how much I love visiting the Heartbeat Hotel I should tell it to Pinkie.
 
@@ -250,81 +324,9 @@ After the hug I lay down and open my front hooves for her. She lays down resting
 
 We lay there together in silence, both enjoying the presence of the other. I close my eyes and just take in the moment.
 
-After a few minutes of this Pinkie pulls my hoof and holds it in her own to her chest. "Do you want to talk about your day now?"
+Pinkie breaks the silence after about ten minutes of cuddling. "You said you were looking forward to this all day?"
 
-I open my eyes and look down at Pinkie. "Sure. My day started out normal. I got up, brushed my mane then made breakfast."
-
-Pinkie asks, "Pancakes?"
-
-"Yes, they were delicious."
-
-Pinkie mimes eating my hoof. "You're delicious."
-
-I giggle and kiss the back of her head. "And you're cute."
-
-Pinkie squeezes my hoof. "What'd you do next?"
-
-"I started to study, but quickly had to stop and help library patrons."
-
-"What did they want to read?"
-
-"They wanted to checkout books about ponies falling down wells for some reason."
-
-"Hmm, that's an odd topic."
-
-"The strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book."
-
-"Oh, how many ponies visited?"
-
-"It felt like half the town. The library got more visitors today than it did in the last three months."
-
-"That's a lot of ponies. At least they want to read something, right?"
-
-"You're right, I shouldn't complain if they're reading."
-
-"What'd you do after they all left?"
-
-"I mostly went back to studying, but then Rainbow Dash stopped in."
-
-Pinkie nuzzles my chest. "What'd Dashie want?"
-
-"She wanted to know about a specific math concept. She wanted to know if it could help her flying."
-
-"Did you explain it to her?"
-
-"I tried. I lost her about two paragraphs in."
-
-"What'd you do to help her then?"
-
-I start to run my hoof through Pinkie's mane. "I explained a simplified version to her."
-
-"Did it help her?"
-
-"She seemed satisfied with it and left with a look that said she still didn't understand."
-
-"Would it have helped her if she did understand?"
-
-"I don't think so."
-
-"Okay, what'd you do after she left?"
-
-"Mostly studying and helping more ponies that came in for the same books as before. I stopped to eat for lunch and dinner, but not much else happened."
-
-"So you got all your studying done you needed to?"
-
-"Yes, I lost track of time at the end, but I did get it all done. Sorry."
-
-Pinkie nuzzles my hoof. "You don't need to apologize, I understand."
-
-We lay in silence for a minute before I ask, "How'd your day go?"
-
-Pinkie rolls overs, looking up at me with her head resting on my stomach. "It went good. Wasn't too busy or too boring. Mostly just worked the front counter for the Cakes."
-
-"Sounds like you had it easier than me today. Those ponies were really insistent on the books they wanted, even when I told them the last one was checked out an hour ago."
-
-Pinkie nods. "You said you were looking forward to this all day?"
-
-I nod back.
+I nod.
 
 Pinkie kisses me. I kiss back before we break into another hug.
 
