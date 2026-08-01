@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## My Cutie Mark and Me
+
+### Synopsis:
+Starlight removes her cutie mark for a day to experience how her villagers lived. Could be very serious where she realizes what she put them through or a comedy where she loses her cutie mark and tries to get it back all day.
+
+***
+
 ## Living Inside Myself
 
 ### Synopsis:
