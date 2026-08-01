@@ -10,19 +10,19 @@ Oxide pointed out the math inconsistency. "That math doesn't exactly add up."
 
 "I'm watching Pinkie."
 
-Oxide nodded at this. "Okay everypony, I am Iron Oxide and I will be your tour guide today."
+Oxide nodded at this. "Okay, everypony! I'm Iron Oxide and I'll be your tour guide today."
 
 Everypony nodded.
 
-"Before the tour begins, we need to go over some safety information. The scrapyard can be a very dangerous place, but we've implemented a lot of safety measures to keep everypony safe. It's very important that you follow all safety instructions. If you don't you could get hurt, or worse."
+"Before the tour begins, we need to go over some safety information. The scrapyard can be a very dangerous place. We've implemented a lot of safety measures to keep everypony safe, but there are still risks, so it's very important that you follow all safety instructions. If you don't, you could get hurt, or worse."
 
 Everypony nodded again.
 
-"Everypony is to stay with their designated chaperone at all times. You will be assigned them before the tour begins. You are not to touch anything at all unless specifically asked to do so. A lot of the metal is sharp and will cut you. You can ask questions on the tour, just hold your hoof up and I'll get to you. Any questions?"
+"Everypony will be assigned to a chaperone. You will stay with your chaperone at all times. You will not touch anything at all unless specifically asked to do so. A lot of the metal is sharp and will cut you. You can ask questions on the tour - just hold your hoof up and I'll get to you. Any questions?"
 
 Everypony shook their head.
 
-"Okay, Princess Twilight here will assign you to your chaperone. Cheerilee is currently sick, so Twilight is taking her place today."
+"Okay. Since Cheerilee is sick, Princess Twilight is here in her place today. She'll be assigning you to your chaperones."
 
 Twilight stepped forward and looked at everypony. "Sweetie Belle and Silver Spoon are with Rarity. Scootaloo and Diamond Tiara are with Rainbow Dash. Featherweight and Rumble are with Fluttershy. Apple Bloom and Snips are with Applejack. Snails and Pinkie Pie are with me."
 
@@ -30,19 +30,19 @@ Everypony went and stood to either side of their assigned pony.
 
 Iron spoke up, "Okay everypony, let's start the tour!"
 
-Everypony was standing just outside a massive building with a giant sliding door that was open. Iron lead them just inside to the left, where a pony was waiting next to a scale.
+Everypony was standing just outside the oversized door of an even more oversized building. Iron lead them just inside to the left, where a pony was waiting next to a scale.
 
-Iron turned around and introduced this new pony and what he did. "This is Ticket Tally. He operates this scale whenever ponies bring in certain metal."
+Iron turned to the group and introduced this new pony and what he did. "This is Ticket Tally. He operates this scale whenever ponies bring in certain metal."
 
-Ticket greeted the children, "Hello!"
+Ticket Tally greeted the children, "Hello!"
 
 The kids greeted back all at once.
 
-Ticket pointed at the scale. "This metal plate has a magical gemstone embedded in it that projects the weight of whatever is on it on this here wall." He finished by pointing at the wall.
+Ticket pointed at the scale. "This plate has a magical gemstone embedded in it that projects the weight of whatever is on it onto this here wall." He emphasized it by pointing at the wall.
 
-Iron continued, "Ticket here takes the metal they bring in and places it on the scale before writing down how much weight it says on the pony's ticket."
+Iron continued, "Ticket here takes the metal that's brought in and places it on the scale, then records the weight on the pony's ticket."
 
-Ticket finished, "I make sure that the metal is separated correctly and that no dirty metal gets mixed in with the clean."
+Ticket continued, "I make sure the metal is separated correctly, so that no dirty metal gets mixed in with the clean."
 
 Sweetie Belle raised her hoof.
 
@@ -50,7 +50,7 @@ Iron answered. "Yes, Sweetie?"
 
 "Why would the metal be dirty? Did they leave it in the mud?"
 
-Iron answered, "Not exactly, when we buy specialty metal, we only want to pay for that metal, so we consider a metal clean when it doesn't have any other materials on it. Dirt and mud would make a metal dirty, but usually our customers clean the metal before they bring it in."
+Iron answered, "Not exactly. When we buy specialty metal, we only want to pay for that metal, so we consider a metal clean when it doesn't have any other materials on it. Dirt and mud would make a metal dirty, but usually our customers clean that off before they bring it in."
 
 Sweetie Belle nodded.
 
@@ -60,9 +60,7 @@ Everypony nodded.
 
 Iron lit up her horn and set an ingot of metal on the scale. The scale projected in magical characters on the wall, '20 pounds.'
 
-All the fillies and colts wowed at this.
-
-Featherweight raised his hoof.
+All the fillies and colts wowed at this, and Featherweight raised his hoof.
 
 "Yes, Featherweight?"
 
@@ -74,19 +72,19 @@ With that, all the fillies, colts, and Pinkie Pie lined up to get weighed.
 
 ==Featherweight was the lightest at fifty pounds, with most of the fillies around sixty pounds, and Pinkie Pie was one hundred and fifty pounds.==
 
-After they had their fun, Iron turned their attention a little farther into the building. There were giant cardboard boxes without lids lined up in rows going all the way to the back of the building.
+After they had their fun, Iron turned their attention a little farther into the building. There were giant cardboard boxes on pallets, lined up in rows, going all the way to the back of the building.
 
 "These boxes are where we store the metal we buy before we process and sell it on to the next business."
 
-She trotted to the first box. "This box is for copper, specifically number two copper. This is most of the copper we buy. Number one copper is completely clean, while the two here has some stuff left on it like brass fittings and solder."
+She trotted to the first box. "This box is for copper, specifically number two copper. This is most of the copper we buy. Number one copper is completely clean, while the two here has some stuff left on it, like brass fittings and solder."
 
-Twilight asked, "Where is copper mostly found?"
+Twilight asked, for the benefit of the group, "Where is copper mostly found, Iron?"
 
-Iron answered, "Copper is most commonly found as plumbing and wire. All this copper is plumbing. We buy wire separate."
+Iron answered, "Copper is most commonly found as plumbing and wire. All this copper is plumbing. We buy wire separately."
 
 She lifted a large section of piping from the box and levitated it closer for all of them to see. The piece was a bunch of cylindrical tubes connected together. The tubes were reddish-brown with some sections of blueish-green.
 
-"The green section is where the copper oxidized. It's called patina."
+"The green bits are where the copper oxidized."
 
 Scootaloo raised her hoof.
 
@@ -94,13 +92,13 @@ Scootaloo raised her hoof.
 
 "What's oxidi– whatever you said?"
 
-"It's when the metal reacts to the air and moisture around it. On copper, this patina forms on the outer layer and can act like a protective layer."
+"It's when the metal reacts to the air and moisture around it. You might know it better as rust, especially on iron and steel. On copper it's called patina, and it can act like a protective layer on the outside."
 
-She put the piece back and pointed at the bin right next to it. "That bin is number one copper, it's been completely cleaned and has no extra bits and has minimal patina."
+She put the piece back and pointed at the bin right next to it. "That bin is number one copper. It's been completely cleaned, and has no extra bits and not much patina."
 
-She levitated a piece from the number one box and showed them. This piece was much shinier than the last piece, but still had some patina on it.
+She levitated a piece from the number one box and showed them. This piece was much shinier than the last, but it still had some off-color splotches.
 
-"We buy number one copper for 4.5 bits per pound, and number two copper for 4.25 bits per pound."
+"We buy number one copper for four and a half bits per pound, and number two copper for four and a quarter."
 
 After they got a good look at it, she put the piece back in the box.
 
@@ -110,35 +108,35 @@ Iron called on her, "Yes, Apple Bloom?"
 
 =="How do you buy something for a quarter of a bit if that's the smallest currency we got?"==
 
-"Good question. Most ponies bring in more than a single pound, so those partial bits add up. Once we have a total we'll round up to the nearest bit if they're above a payout threshold, or round down if they're below."
+"Good question. Most ponies bring in more than a single pound, so those partial bits add up. Once we have a total we'll round to the nearest bit."
 
 Apple Bloom nodded.
 
 The group continued on to the next bin of metal: lead.
 
-"This is lead," Iron said levitating out a thin, flat piece of metal. "It's used in a lot of different places, but nowadays it's mostly found in roofs. ==It used to be used in pipes, but we've long since stopped that due to the effects of lead poisoning on ponies."==
+"This is lead," Iron said, levitating out a thin, flat piece of metal. "It's mostly found in roofs. ==It used to be used in pipes, but we've long since stopped that due to the effects of lead poisoning on ponies."==
 
 ==She demonstrated how soft it was by bending it in her magic.==
 
-"It's a very soft metal while still being very durable and corrosion resistant. We buy lead at a price of 0.81 bits per pound."
+"It's a very soft metal while still being very durable and corrosion resistant. We buy lead at a price of point eighty-one bits per pound."
 
 She put the piece back and they continued to the next bin.
 
-"This next metal is copper again, but this time it's bare bright copper wire." Iron levitated and showed the kids a clump of wire. "We buy this for 4.88 bits per pound."
+"This next metal is copper again, but this time it's bare bright copper wire." Iron levitated and showed the kids a clump of wire. "We buy this for four point eighty-eight bits per pound."
 
 She continued, "Wire transmits electrical signals and electricity in general. We usually use it in places magic and gemstones wouldn't suffice."
 
-She levitated out a different wire from the bin right next to it, holding them beside each other. "This is more copper wire, but this has insulation on it. Normally all wire has insulation so nothing shorts out and the wires are protected from the elements."
+She levitated out a different wire from the bin right next to it, holding them beside each other. "Here's more copper wire, but it has insulation on it. Normally all wire has insulation so nothing shorts out and the wires are protected from the elements."
 
 The group's eyes looked back and forth as Iron said, "We only buy the bare copper wire from special contractors. We had to stop buying bare wire from regular ponies because they kept burning the insulation off to make more bits."
 
-She put both wires back and said, "We buy the insulated wire for 3.90 bits per pound."
+She put both wires back and said, "We buy the insulated wire for three point ninety bits per pound."
 
-"The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, they typically have more plastic and other materials on them, so we buy them for a lower price of 3.10 bits per pound."
+"The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, or connect to an appliance. They typically have more plastic and other materials on them, so we buy them for a lower price of three point ten bits per pound."
 
-She levitated out a few different plugs to show them: one with two blade style contacts and a round third, one with three curved blades that spun to lock the connection, and one with two flat blades, and L shaped blade, and a round one.
+She levitated out a few different plugs to show them: one with two blade style contacts and a round third; one with three curved blades that spun to lock the connection; and one with two flat blades - an L shaped blade and a round one.
 
-"Different plugs can handle different amounts of electricity."
+"Different plugs can handle different amounts of electricity. Usually, the funnier it looks, the higher the rating."
 
 She put the plugs back and they moved to the next bin.
 
@@ -154,49 +152,49 @@ Twilight raised her hoof.
 
 Iron lifted a sheet of metal from the first of the three bins. "This is an aluminum sheet. You'd find this on the side of houses sometimes. It's widely used in other areas too."
 
-She levitated a long, almost bar-like piece of metal from the second bin.
+She levitated a long, rigid piece of metal from the second bin. From each end it resembled the letter X.
 
 "This is extruded aluminum. It was heated up and forced through an opening to make it this shape."
 
-She levitated a third piece of metal from the third bin, this one bowl shaped.
+She levitated a third piece of metal from the third bin, this one bowl-shaped.
 
-"This one is called cast aluminum. The metal was poured into a cast to create it."
+"This one is cast aluminum. The metal was melted into a liquid and poured into a cast in the shape of this piece."
 
 Everypony looked at the three pieces floating in front of them.
 
-"We pay 1.47 bits per pound for sheet aluminum, 0.97 for extruded, and 1.03 for cast."
+"We pay one point forty-seven bits per pound for sheet aluminum, point ninety-seven for extruded, and one point oh-three for cast."
 
 She put all the pieces back and the group moved on.
 
 "The next three bins are also all one metal type: brass."
 
-She brought out the first metal. It was a shutoff valve for plumbing with the steel handle missing. "This is red brass. It's a shutoff valve for pipes. When you turn the handle, it stops the flow of water or whatever liquid is inside."
+She brought out the first example. It was a thick tube with a round part in the middle. "This is is a plumbing shutoff valve. There's usually a handle on the side here, and when you turn the handle, it stops the flow of water or whatever liquid is inside. This part is made of red brass."
 
-She continued, "Brass is an alloy metal, meaning it's two different metals combined. In this case, brass is made from copper and zinc. Red brass is 85% copper and 15% zinc."
+She continued, "Brass is an alloy metal, meaning it's two different metals combined. In this case, brass is made from copper and zinc. Red brass is eighty-five percent copper and fifteen percent zinc."
 
-They all looked at the valve.
+They all looked at the valve. It wasn't actually red, but more of a slightly orangey gold color.
 
-"Red brass is typically found in plumbing, sprinklers, and industrial machinery parts."
+"Red brass is typically found in plumbing, sprinklers, and industrial machinery."
 
-She placed that piece back and got one from the second brass bin. This one was a key.
+She placed that piece back and got one from the second brass bin. This one was a key, and had a dull yellow color.
 
-"Yellow brass is around 35 to 40 percent copper. It's typically found in plumbing fixtures, like valves and faucets, and in musical instruments."
+"Yellow brass is around thirty-five to forty percent copper. It's also found in plumbing fixtures, like valves and faucets, but it's also used in musical instruments. And keys, like this one."
 
-Everypony looked at the key as she levitated out a brass piece of an instrument.
+Everypony looked at the key as she levitated out a piece of brass instrument.
 
 "Fun fact, the brass section of an orchestra or band is called that because most of their instruments are made from brass."
 
-After they got a good look at both pieces, she put them back and got something from the third bin. It was shutoff valve with the non-brass handle still attached.
+After they got a good look at both pieces, she put them back and got something from the third bin. It was a shutoff valve much like the first one, but with the non-brass handle still attached.
 
 "The last bin is for dirty brass. This is dirty because it still has the steel handle on it."
 
 Everypony looked at it before she put it back.
 
-"We pay 2.83 bits per pound for red brass, 2.66 for yellow brass, and 1.27 for dirty brass."
+"We pay two point eighty-three bits per pound for red brass, two point sixty-six for yellow brass, and one point twenty-seven for dirty brass."
 
 They moved to the next bin before she levitated out a pair of cymbals.
 
-"Bronze is another alloy metal, this one being 88% copper and 12% tin usually. Bronze is typically used in bells, medals, cymbals, and statues."
+"Bronze is another alloy metal, this one being eighty-eight percent copper and twelve-percent tin usually. Bronze is typically used in sculptures like medals and statues, and percussion instruments like bells and cymbals."
 
 Pinkie Pie raised her hoof as the ponies looked at the metal.
 
@@ -204,17 +202,17 @@ Pinkie Pie raised her hoof as the ponies looked at the metal.
 
 "Are those the cymbals I threw away last week?"
 
-Iron nodded. "Yes."
+Iron looked over at the pair of cymbals, then back to Pinkie. "Yes."
 
 Pinkie nodded. "Glad to see them recycled."
 
 Iron put them back and they went to the next bin.
 
-"This next metal is another alloy, but not with copper this time. It's stainless steel, an iron-based alloy that has at least 10.5% chromium. That provides a protective layer of oxide. There are sometimes more metals mixed into stainless steel, but the main ones are iron and chromium."
+"This next metal is another alloy, but not with copper this time. It's stainless steel, an iron-based alloy that has at least ten and a half percent chromium. That provides a protective layer of oxide. There are sometimes more metals mixed into stainless steel, but the main ones are iron and chromium."
 
 She levitated out a flat piece of shiny metal.
 
-"Stainless steel gets its name from the fact it doesn't rust. We buy it for 0.40 bits per pound."
+"Stainless steel gets its name from the fact it doesn't rust. We buy it for point forty bits per pound."
 
 They all got a good look at the metal before she put it back and they moved onto the next bin.
 
@@ -226,7 +224,7 @@ Sweetie Belle raised her hoof again.
 
 "Yes, Sweetie Belle?" Iron asked.
 
-"What's the red and black mean on the metal studs?" 
+"What's the red and black mean on the metal studs?"
 
 "Good question. The red is the positive terminal, while the black is for negative. When you complete a circuit by wiring something like a light bulb between the terminals, electrons flow from the negative terminal to the positive. It's a common misconception that they flow from positive to negative, but it's actually the other way around."
 
