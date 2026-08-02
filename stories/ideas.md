@@ -4,6 +4,13 @@ This file contains random story ideas that don't have enough thought to have the
 
 ***
 
+## The Second Ponyville
+
+### Synopsis:
+After Swarm of the Century, the town build a second Ponyville from Twilight's manic instruction during the town's destruction.
+
+***
+
 ## My Cutie Mark and Me
 
 ### Synopsis:
