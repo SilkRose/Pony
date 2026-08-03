@@ -1,8 +1,8 @@
 # Metal Magic
 
-Iron Oxide, the rust colored unicorn with messy dark brown hair and light blue eyes, finished levitating the last of the hard hats and high-visibility jackets to the ponies on the tour. ==She worked at a metal recycling scrapyard and was the newest hire. The newest hire always had to give the tours at this workplace.==
+Iron Oxide, the rust colored unicorn with messy dark brown hair and light blue eyes, finished levitating the last of the hard hats and high-visibility jackets to the ponies on the tour. She worked at a metal recycling scrapyard and was the newest hire. The newest hire always had to give the tours at this workplace.
 
-She was giving the tour to the local Ponyville school ponies. There were nine foals and six chaperones. At first she didn't understand why ==there were six mares to watch nine foals==, but after the explanation from Twilight, she understood.
+She was giving the tour to the local Ponyville school ponies. There were nine foals and six chaperones. At first she didn't understand why there were six mares to watch nine foals, but after the explanation from Twilight, she understood.
 
 "They like to wonder off, and they're surprisingly good at it. So, we have one adult for every two foals. And Pinkie Pie is here."
 
@@ -70,7 +70,7 @@ Iron nodded. "You all can see if you want."
 
 With that, all the fillies, colts, and Pinkie Pie lined up to get weighed.
 
-==Featherweight was the lightest at fifty pounds, with most of the fillies around sixty pounds, and Pinkie Pie was one hundred and fifty pounds.==
+Featherweight was the lightest at fifty pounds, with most of the fillies around sixty pounds, and Pinkie Pie was one hundred and fifty pounds.
 
 After they had their fun, Iron turned their attention a little farther into the building. There were giant cardboard boxes on pallets, lined up in rows, going all the way to the back of the building.
 
@@ -106,7 +106,7 @@ Apple Bloom raised her hoof.
 
 Iron called on her, "Yes, Apple Bloom?"
 
-=="How do you buy something for a quarter of a bit if that's the smallest currency we got?"==
+"How do you buy something for a quarter of a bit if that's the smallest currency we got?"
 
 "Good question. Most ponies bring in more than a single pound, so those partial bits add up. Once we have a total we'll round to the nearest bit."
 
@@ -114,9 +114,9 @@ Apple Bloom nodded.
 
 The group continued on to the next bin of metal: lead.
 
-"This is lead," Iron said, levitating out a thin, flat piece of metal. "It's mostly found in roofs. ==It used to be used in pipes, but we've long since stopped that due to the effects of lead poisoning on ponies."==
+"This is lead," Iron said, levitating out a thin, flat piece of metal. "It's mostly found in roofs. It used to be used in pipes, but we've long since stopped that due to the effects of lead poisoning on ponies."
 
-==She demonstrated how soft it was by bending it in her magic.==
+She demonstrated how soft it was by bending it in her magic.
 
 "It's a very soft metal while still being very durable and corrosion resistant. We buy lead at a price of point eighty-one bits per pound."
 
@@ -140,7 +140,7 @@ She levitated out a few different plugs to show them: one with two blade style c
 
 She put the plugs back and they moved to the next bin.
 
-=="These next three bins are all aluminium, just slightly different kinds of aluminium."==
+"These next three bins are all aluminium, just slightly different kinds of aluminium."
 
 Twilight raised her hoof.
 
@@ -216,7 +216,7 @@ She levitated out a flat piece of shiny metal.
 
 They all got a good look at the metal before she put it back and they moved onto the next bin.
 
-=="This is our last bin. It's for batteries." She levitated out a big battery and showed them. "Batteries are used to store electricity in a portable manner."==
+"This is our last bin. It's for batteries." She levitated out a big battery and showed them. "Batteries are used to store electricity in a portable manner."
 
 Everypony got a good look at the battery.
 
@@ -256,7 +256,7 @@ Scootaloo raised her hoof.
 
 "Yes, Scootaloo?" Iron answered.
 
-=="Don't you need to subtract the weight of the box first?"==
+"Don't you need to subtract the weight of the box first?"
 
 Ticket nodded. "Nice catch, yes you are correct."
 
@@ -282,9 +282,9 @@ Apple Bloom raised her hoof.
 
 "Yes, Apple Bloom," Iron called.
 
-=="What's the point of recycling?"==
+"What's the point of recycling?"
 
-=="Great question. We recycle because it's better for Equestria and sometimes cheaper than extracting new metal out of the ground. Certain metals can be very hard to mine, so recycling makes the world a better place to live."==
+"Great question. We recycle because it's better for Equestria and sometimes cheaper than extracting new metal out of the ground. Certain metals can be very hard to mine, so recycling makes the world a better place to live."
 
 Everypony nodded at her answer.
 
@@ -358,7 +358,7 @@ Everypony nodded.
 
 "Twilight, please come with me."
 
-==Twilight and her ponies== followed Iron up the stairs. At the top, they found a giant pane of glass and a railing protecting ponies from getting too close to the shredding wheels.
+Twilight and her ponies followed Iron up the stairs. At the top, they found a giant pane of glass and a railing protecting ponies from getting too close to the shredding wheels.
 
 The shredder had two wheels at the top, both spinning inward towards each other. Each wheel had a set of teeth which matched counter-set teeth on the other side. They watched as a chunk of metal fell into it.
 
