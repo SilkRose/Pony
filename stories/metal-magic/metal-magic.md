@@ -240,7 +240,7 @@ Scrapper spoke up, "Hello kids. I got a lot of metal to sell and I need your hel
 
 He looked around until he spotted Sweetie Belle. "Hello, young filly. Could you help me unload my wagon with your magic?"
 
-Sweetie seemed to hesitate but stepped forward and nodded.
+Sweetie hesitated at first, but stepped forward and nodded.
 
 Scraps—that was what almost everypony at the junkyard called him—was a regular. He pointed at a box of metal on his wagon. "Can you put that one the scale?"
 
@@ -248,9 +248,9 @@ Sweetie did as she was asked, struggling a bit with how heavy the box was.
 
 "Can anypony here identify the metal in the box for Ticket here?"
 
-Apple Bloom stepped forward and studied the box's contents. It contained random bits of stainless steel. "Stainless steel. There's no rust and it's all shiny like."
+Apple Bloom stepped forward and studied the box's contents. It contained random bits of bright, clean metal. "Stainless steel. There's no rust and it's all shiny like."
 
-Ticket nodded. "That's correct. Good job!" He pointed at the number being cast on the wall. It displayed 36 pounds. "At a price of 0.40 bits per pound, how much should we pay for this box?"
+Ticket nodded. "That's correct. Good job!" He pointed at the number being cast on the wall. It displayed 36 pounds. "At a price of pointy forty bits per pound, how much should we pay for this box?"
 
 Scootaloo raised her hoof.
 
@@ -266,13 +266,13 @@ A few of the children went with her, along with two adult chaperones.
 
 They took the box and emptied it, bringing the empty box back to weigh. It read one pound.
 
-Iron asked, "How much should we pay for thirty-five pounds at 0.40 bits per pound?"
+Iron asked, "How much should we pay for thirty-five pounds at point forty bits per pound?"
 
 Scootaloo thought for a second before answering, "Fourteen bits."
 
 Iron nodded. "Good job, that's correct."
 
-They repeated this process for all the metal Scraps had on his wagon, with different ponies doing different roles each time. Twilight had to help with the math for the less cleanly multiplied prices, but in the end they got it all done, and Scraps left with his bag of bits.
+They repeated this process for all the metal Scraps had on his wagon, with different ponies doing different roles each time. Twilight had to help with the math for the less even prices, but in the end they got it all done, and Scraps left with his bag of bits.
 
 Iron lead the group back outside to the front of the building, and they walked to the side, where a set of two larger trot-on scales sat.
 
@@ -292,9 +292,9 @@ Iron lead the group onto the inlet scale where they stopped next to a blue stall
 
 Adder pointed at the magical number display on the metal panel behind him. "This is how much all of you weigh. Ponies go in and unload. I subtract their inbound weight from the outbound weight to find how much metal they brought in."
 
-The panel showed they weighed 1,600 pounds.
+The panel showed they weighed one thousand six hundred pounds.
 
-They continued on the tour as Iron led them off the scale and into the scrap yard. "This is where ponies drop off their metal."
+They continued on the tour as Iron led them off the scale and into the scrap yard. "This is where ponies drop off their metal. Remember, scrap can be very sharp, so don't touch."
 
 Metal was piled up five or six ponies tall for hundreds of feet. They trotted along the pile until they stopped a circular indentation in the pile where a bunch of ponies were unloading.
 
@@ -308,13 +308,13 @@ Iron pointed at a bright pink unicorn in a safely vest and helmet who quickly tr
 
 They all watched Pete. He used his magic in a sweeping motion, pushing the metal back in steps.
 
-Iron led the ponies as they continued along the pile, following till they were on the back side of the pile. "This area is restricted to employees only. This is where we take the metal and start processing it."
+Iron led the ponies as they continued along the pile, following till they were on the back side of the pile. "This is where we take the metal and start processing it. Normally, only employees are allowed here."
 
 There were several ponies working on this side of the pile. Iron pointed at another unicorn. "That's Crusher. He picks up metal in his magic and crushes it before placing it on a cart before it gets taken into our processing building."
 
-They watched as Crusher picked up a large chunk of the metal pile at the top and crumpled it all together before setting it down on a flying wagon connected to two pegasi.
+They watched as Crusher picked up a large chunk of the metal pile at the top and crumpled it all together, before setting it down on a flying wagon pulled by two pegasi.
 
-"Those pegasi fly the metal from the yard to the building. It's quicker to fly it than trot it on an earth pony wagon."
+"Those pegasi fly the metal from the yard to the building. It's quicker to fly it than trot it on a rolling wagon."
 
 The wagon drifted downward some as the metal rested on it, but it stayed in line with the flying ponies.
 
@@ -322,9 +322,9 @@ Scootaloo raised her hoof.
 
 "Yes, Scootaloo?"
 
-"Why doesn't the wagon just fall down, it looks like nothing is supporting it."
+"Why doesn't the wagon just fall down? It looks like nothing is supporting it."
 
-"Good question. Pegasi have innate magic that keeps the wagon steady when flying. They can fly with a lot of weight, but if its too much they get pulled to the ground."
+"Good question. Pegasi have innate magic that keeps the wagon steady when flying. They can fly with a lot of weight, but if it's too much, they'll get pulled to the ground."
 
 Scootaloo nodded at her answer.
 
@@ -332,15 +332,13 @@ Iron led them to the building where the two pegasi had flown to and were now wai
 
 Iron introduced them. The first pony was a white mare with yellow curls. "This is Sunrise." The second pony was a light blue mare with a cloud like mane. "This is Cloudy Conundrum."
 
-They waved at the touring ponies before Sunrise spoke. "Hello ponies, we're going to help with the tour. We'll explain and show you all how we process metal. Sound exciting?"
+They waved at the touring ponies before Sunrise spoke. "Hello ponies! We're going to help with the tour. We'll show you all how we process metal. Sound exciting?"
 
 Everypony nodded.
 
 Cloudy stepped forward. "Once we get to this processing building, we back up to the conveyor belt behind us." She pointed at said belt.
 
-They all watched as they backed up and a unicorn lifted the metal from the wagon and hovered it above the belt.
-
-Both pegasi unhooked themselves from the wagon and trotted to stand in front of the belt where the metal was.
+They all watched as they backed up and a unicorn lifted the metal from the wagon and hovered it above the belt. Both pegasi unhooked themselves from the wagon and trotted to stand in front of the conveyor belt.
 
 Sunrise pointed at the unicorn holding the metal. "This is Puzzle Piece. He takes the metal and pulls it apart, sprinkling small bits of metal onto the belt so our crusher doesn't get jammed."
 
@@ -348,41 +346,41 @@ Puzzle waved at the ponies as he started pulling apart the metal.
 
 They followed some bits of metal as it started on the belt. After a few feet it started to go uphill. Once the belt was above their heads they could see on the other side from under the belt.
 
-There was a line of earth ponies running on belts all attached together in a line. The shaft coming from their running stations connected to the conveyor belt and a large metal box at the top of the belt.
+There was a line of earth ponies running on belts all attached together in a line. The shaft coming from their running stations connected to the conveyor belt and other machinery along the line.
 
-Iron pointed at the runners. "These ponies are what power the conveyor belts and our crusher. We crush the metal as the first step in processing it."
+Iron pointed at the runners. "These ponies are what power the conveyor belts and the shredder."
 
-They continued on to the end of the belt where the metal box was at the end. Nopony could see anything on the belt now, but there was a set of stairs that lead to an observation platform above the crusher.
+They continued following the belt, which terminated at a metal box the size of a house. Nopony could see anything on the belt now, but there was a set of stairs that lead to an observation platform above the box.
 
-Iron spoke, "We're going to take turns going up to watch the metal get crushed. Each chaperone will take their foals and will follow one of us up to see the crusher in action, okay?"
+"This is the shredder," Iron said. "We're going to take turns going up to watch the metal get shredded. Each chaperone will take their foals and will follow one of us up to see the shredder in action, okay?"
 
 Everypony nodded.
 
 "Twilight, please come with me."
 
-==Twilight and her ponies== followed Iron up the stairs. At the top, they found a giant pane of glass and a railing protecting ponies from getting too close to the crushing wheels.
+==Twilight and her ponies== followed Iron up the stairs. At the top, they found a giant pane of glass and a railing protecting ponies from getting too close to the shredding wheels.
 
-The crusher had two sets of teeth, both spinning inward towards each other. They had matched counter-set teeth on the other side. They watched as a chunk of metal fell into it.
+The shredder had two wheels at the top, both spinning inward towards each other. Each wheel had a set of teeth which matched counter-set teeth on the other side. They watched as a chunk of metal fell into it.
 
-The metal popped and bounced a few times on the teeth before being swallowed by the slow turning blades.
+The metal popped and bounced a few times on the teeth before catching, and it was quickly torn apart and swallowed between the wheels.
 
 Iron said, "We call this kind of metal 'shredder food' because we feed it all to this here shredder."
 
 After watching a few more pieces get eaten, the group descended back down. Each group took their turn to watch.
 
-After everypony had viewed the crusher, and after Pinkie had viewed it twice, they turned their attention to the bottom of the crusher.
+After everypony had viewed the shredder, and after Pinkie had viewed it twice, they turned their attention to the bottom of the shredder.
 
-They trotted around the viewing platform where they found another conveyor belt. They watched as metal chips fell from the bottom of the crusher onto the belt.
+They trotted around the viewing platform where they found another conveyor belt. They watched as metal shreds fell from the bottom of the shreds onto the belt.
 
 Cloudy said, "Now that the metal is shredded, it's easier to manage and sort."
 
 Sunrise trotted over to a table next to the conveyor belt. "We're going to do a hooves-on demonstration to help you understand how we sort the metal."
 
-She pointed at a small rectangular metal brick. "This is a magnet. They attract ferrous metals, meaning metals which contain a lot of iron."
+She pointed at a small metal brick. "This is a magnet. It attracts ferrous metals, meaning iron and iron alloys."
 
 She picked up the magnet and used it to pick up a small metal plate from the table.
 
-"Metals like iron and steel have un-paired electrons. They get attracted to the magnet because the electrons align within the metal, reinforcing the magnet's magnetic field."
+"These ferrous metals have unpaired electrons. They're attracted to the magnet because the electrons align within the metal, reinforcing the magnet's magnetic field."
 
 Everypony nodded.
 
@@ -424,17 +422,17 @@ The group continued on and followed the lower belt. The higher one turned away a
 
 Iron brought them to a very similar looking setup. The belt rose above two more belts and the metal dropped down. This time, however, the magic aura was already active.
 
-A strikingly similar pony stood on the other side of the belt as the last one. This time a gray stallion with a red and blue mane, and a magnet with a dotted line around it as his cutie mark.
+A strikingly similar pony stood on the other side of the belt as the last one. This time it was a gray stallion with a red and blue mane, and a magnet with a dotted line around it as his cutie mark.
 
 He introduced himself. "Hello everypony, my name is Field Magic. I take it you already met my sister Magnet Mane?"
 
 The group nodded.
 
-Field continued, "I'm casting a slight different spell than my sister was. Hers was just to capture and move the ferrous metal, while mine has to induce magnetic fields in the metal. My magic is cycling rapidly between positive and negatively charged fields to control the metal to go down the conveyor we want it to."
+Field continued, "I'm casting a slight different spell than my sister was. Hers was just to capture and move the ferrous metal, while mine has to induce magnetic fields in the metal. My magic is cycling rapidly between positive and negative fields to send the metal down the right conveyor."
 
-The group watched the remaining bits of metal bounced on top of Field's magic instead of trapping them like Magnet's did.
+The group watched the remaining bits of metal bounce on top of Field's magic instead of trapping them like Magnet's did.
 
-The waste material just fell right through falling onto the lower belt.
+The waste material just fell right through onto the lower belt.
 
 Iron said, "All the non-metal material will get packed up just like the ferrous metal from the first step. We'll follow the remaining metal to see how it gets sorted one last time before getting shipped out as well."
 
@@ -472,7 +470,7 @@ Right on cue, the box filled up, and Packer put the lid on it and placed it on t
 
 Everypony waved back before he took off into the sky.
 
-Iron finished the tour. "This is the end of our tour. You've now seen everything we can show you about how we handle scrap metal. All those specialty metals from the first half of the tour also get shredded and put into boxes, but they don't need to be sorted since they already are."
+Iron finished the tour. "This is the end of our tour. You've now seen everything we can show you about how we handle scrap metal. All those specialty metals from the first half of the tour also get shredded and put into boxes, but since they're already sorted, they can skip most of the steps you just saw."
 
 Everypony stomped in appreciation before exchanging pleasantries and goodbyes.
 
