@@ -10,8 +10,12 @@ Pinkie helps Fluttershy plan and host a surprise party for a sloth. The idea bei
 
 
 ## Ideas:
+- Fluttershy is tending her garden at the start and stops to admire it.
+- Lola latches onto her leg and this is how they meet.
+- They start talking.
 - Fluttershy hears that Lola the sloth wants a surprise party for her birthday.
 - How does she hear? From another animal, or Lola asks directly?
+- Joke about Lola missing every party, even the ones she planned.
 - Fluttershy doesn't know how to setup a party because sloths move so slowly.
 - She asks Pinkie for help.
 - They work together to host a party for Lola live wherever they find her.
