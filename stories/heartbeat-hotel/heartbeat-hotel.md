@@ -106,7 +106,7 @@ Pinkie nuzzles my head. "What'd Dashie want?"
 
 "What'd you do to help her then?"
 
-I start to run my hoof through Pinkie's mane. "I explained a simplified version to her."
+I start to run my hoof in circles over Pinkie's cutie mark. "I explained a simplified version to her."
 
 "Did it help her?"
 
