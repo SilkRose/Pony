@@ -82,33 +82,17 @@ Pinkie squeezes me. "What'd you do next?"
 
 Pinkie nuzzles my head. "What'd Dashie want?"
 
-"She wanted to know about a specific math concept. She wanted to know if it could help her flying."
-
-"Did you explain it to her?"
-
-"I tried. I lost her about two paragraphs in."
-
-"What'd you do to help her then?"
-
-I start to run my hoof in circles over Pinkie's cutie mark. "I explained a simplified version to her."
-
-"Did it help her?"
-
-"She seemed satisfied with it and left with a look that said she still didn't understand."
-
-"Would it have helped her if she did understand?"
-
-"I don't think so."
+"She wanted to know about a specific math concept. She wanted to know if it could help her flying. I tried to explain it, but I lost her about two paragraphs in. I tried a simplified version, this seem to satisfy her. She left with a look that said she still didn't understand."
 
 "Okay, what'd you do after she left?"
 
-"Mostly studying and helping more ponies that came in for the same books as before. I stopped to eat for lunch and dinner, but not much else happened."
+I start to run my hoof in circles over Pinkie's cutie mark. "Mostly studying and helping more ponies that came in for the same books as before. I stopped to eat for lunch and dinner, but not much else happened."
 
 "So you got all your studying done you needed to?"
 
 "Yes, I lost track of time at the end, but I did get it all done. Sorry."
 
-Pinkie nuzzles my hoof. "You don't need to apologize, I understand."
+Pinkie starts to play with my mane. "You don't need to apologize, I understand."
 
 We lay in silence for a minute before I ask, "How'd your day go?"
 
