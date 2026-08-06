@@ -74,23 +74,7 @@ I giggle and kiss her chest. "And you're cute."
 
 Pinkie squeezes me. "What'd you do next?"
 
-"I started to study, but quickly had to stop and help library patrons."
-
-"What did they want to read?"
-
-"They wanted to check out books about ponies falling down wells for some reason."
-
-"Hmm, that's an odd topic."
-
-"The strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book."
-
-"Oh, how many ponies visited?"
-
-"It felt like half the town. The library got more visitors today than it did in the last three months."
-
-"That's a lot of ponies. At least they want to read something, right?"
-
-"You're right, I shouldn't complain if they're reading."
+"I started to study, but quickly had to stop and help library patrons. They wanted to check out books about ponies falling down wells for some reason. The strange thing was everypony wanted to read that. All day ponies kept coming in for that same type of book. It felt like half the town. The library got more visitors today than it did in the last three months."
 
 "What'd you do after they all left?"
 
