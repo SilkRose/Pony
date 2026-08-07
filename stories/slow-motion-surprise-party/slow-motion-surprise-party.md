@@ -24,7 +24,7 @@ Fluttershy picked up Lola and carried her gently inside. She sat Lola down at he
 
 Lola explained, "I know I talk slow for ponies, so I say short sentences."
 
-Fluttershy had prepared the plate at set it in front of her before she even finished her sentence.
+Fluttershy had prepared the plate and set it in front of her before she even finished her sentence.
 
 "I understand. What brought you to Ponyville?"
 
@@ -40,11 +40,9 @@ Lola frowned. "I miss every party."
 
 Fluttershy gasped. "The ones you plane yourself?"
 
-"Yes."
+Lola nodded as she continued to eat.
 
 "Oh, my."
-
-Lola continued to eat.
 
 *I knew sloths didn't move very fast but two months late is crazy.*
 
