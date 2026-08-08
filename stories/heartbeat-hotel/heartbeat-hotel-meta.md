@@ -4,14 +4,14 @@
 Pinkie listens to her marefriend's heartbeat as it calms her. In her mind, she compares it to a hotel where the heartbeat is like her room, which is where her head rests on her chest, and the payment is cuddles.
 
 ## Description:
-Twilight visits the Heartbeat Hotel after a long day. Pinkie is more than willing to oblige.
+Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more than happy to oblige.
 
 Thanks to [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) for proofreading.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
 ## Short Description:
-Twilight visits the Heartbeat Hotel after a long day. Pinkie is more than willing to oblige.
+Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more than happy to oblige.
 
 ## Ideas:
 - Twilight is late to sleep over at Pinkie's.
