@@ -1,12 +1,12 @@
 # Heartbeat Hotel
 
-My eyes scroll across the last few lines of the book I'm reading. I close the book and write down my last thought on the text as a whole. It was interesting, I'll probably reread it sometime next week.
+My eyes scroll across the last few lines of the book I'm reading. I close the book and write down my last thought on the text as a whole. It was interesting, and I'll probably reread it sometime next week.
 
 As I close the book and my notes I yawn, reminding me of how late it is. Looking up at the clock, I realize it's the next day already.
 
 *I'm late to see Pinkie.*
 
-I failed to think of my best friend and lover, sending me into a panic. I'm supposed to sleep over at her place tonight. Thinking fast, I blow out the candle before checking over everything to make sure nothing was left out of place.
+I failed to think of my best friend and lover, and that sends me into a panic. I'm supposed to sleep over at her place tonight. Thinking fast, I blow out the candle before checking over everything to make sure nothing was left out of place.
 
 I'm about to light my horn and teleport when I remember that teleportation makes a noise, one that is quite loud. Thinking of Pinkie, I decide to just gallop.
 
@@ -82,7 +82,7 @@ Pinkie squeezes me. "What'd you do next?"
 
 Pinkie nuzzles my head. "What'd Dashie want?"
 
-"She wanted to know about a specific math concept. She wanted to know if it could help her flying. I tried to explain it, but I lost her about two paragraphs in. I tried a simplified version, this seem to satisfy her. She left with a look that said she still didn't understand."
+"She wanted to know about a specific math concept. She wanted to know if it could help her flying. I tried to explain it, but I lost her about two paragraphs in. I tried a simplified version. That seemed to satisfy her, but she left with a look that said she still didn't understand."
 
 "Okay, what'd you do after she left?"
 
@@ -238,7 +238,7 @@ After the hug I ask, "Do you want to go over your list now?"
 
 I giggle. "That's a numbered list, Pinkie. Is that what you mean to do?"
 
-- Pinkie giggles too. "no, oops. The first thing is holding the cutest pony ever. Is that better?"
+- Pinkie giggles too. "No, oops. The first thing is holding the cutest pony ever. Is that better?"
 
 I nod. "Yes."
 
