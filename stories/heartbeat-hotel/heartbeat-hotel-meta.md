@@ -8,6 +8,8 @@ Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more tha
 
 Thanks to [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) for proofreading.
 
+Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
 ## Short Description:
