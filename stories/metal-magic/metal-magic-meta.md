@@ -6,7 +6,11 @@ Iron Oxide gives a tour of the scrapyard she works at to the school ponies like 
 ## Description:
 Iron Oxide gives the Ponyville school ponies a tour of a metal scrapyard.
 
+Cover made in collaboration with [Ashy](https://www.fimfiction.net/user/499793/ashley1227).
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
+
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
 
