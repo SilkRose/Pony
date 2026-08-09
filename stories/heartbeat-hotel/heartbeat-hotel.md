@@ -2,7 +2,7 @@
 
 My eyes scroll across the last few lines of the book I'm reading. I close the book and write down my last thought on the text as a whole. It was interesting, and I'll probably reread it sometime next week.
 
-As I close the book and my notes, [DEPENDENT CLAUSES PRECEDING THEIR MAIN CLAUSES ARE TO BE SET OFF BY COMMAS] I yawn, reminded [GRAMMATICALLY, THE PARTICIPIAL PHRASE "REMINDING ME" BINDS TO THE CLOSEST SUBJECT, WHICH IS "I"] of how late it is. Looking up at the clock, I realize it's the next day already.
+As I close the book and my notes, I yawn, reminded of how late it is. Looking up at the clock, I realize it's the next day already.
 
 *I'm late to see Pinkie.*
 
@@ -14,11 +14,11 @@ I'm about to light my horn and teleport when I remember that teleportation makes
 
 I run out of the house making a beeline for Sugarcube Corner. I'm sure nopony would think anything weird about an alicorn running through the streets in the middle of the night.
 
-I've been looking forward to this all day; [COMMA SPLICE] I can't believe I would forget so easily. Today was a rough day for the most part, so you'd think I'd have remembered.
+I've been looking forward to this all day; I can't believe I would forget so easily. Today was a rough day for the most part, so you'd think I'd have remembered.
 
 My mind races through the events of the day. Every new thing just made me want to see her more. I just hope I'm not too late and didn't let her down.
 
-As I turn [OTHERWISE, THE ESTABLISMENT ITSELF TURNS THE CORNER] the last corner, the establishment comes into view. I slow down to a simple gait as I approach the door before taking a moment to rest. I use the opportunity to perform the breathing trick that Cadance taught me before entering.
+As I turn the last corner, the establishment comes into view. I slow down to a simple gait as I approach the door before taking a moment to rest. I use the opportunity to perform the breathing trick that Cadance taught me before entering.
 
 I quietly close the door and make my way upstairs, entering Pinkie's room without knocking. She's told me this is my room too now. Once inside with the door closed, I look over to the bed.
 
@@ -30,7 +30,7 @@ I whisper, "Goodnight, Pinkie. I love you. Sorry I'm late."
 
 I resign myself to a good night's sleep. I know it's a shame we didn't get to talk before bed, but any night I can spend beside her is a good one. Laying my head down, I close my eyes.
 
-As I'm about to fall asleep, [DEPENDENT CLAUSES] I feel something touch my nose. Opening my eyes, [INTRODUCTORY PARTICIPIAL PHRASE] I see Pinkie is booping me with the biggest smile on her face. I blush and say, "Hi."
+As I'm about to fall asleep, I feel something touch my nose. Opening my eyes, I see Pinkie is booping me with the biggest smile on her face. I blush and say, "Hi."
 
 Pinkie skips the formalities and wraps me in a tight, loving hug. "I'm so glad you made it!"
 
@@ -40,11 +40,11 @@ Pinkie skips the formalities and wraps me in a tight, loving hug. "I'm so glad y
 
 I blush even more. "I was studying…"
 
-Pinkie smiles. "See, you gotta keep studying, or all the previous studying will fall out of the cute little noggin [NOT A CONTRACTION] of yours!"
+Pinkie smiles. "See, you gotta keep studying, or all the previous studying will fall out of the cute little noggin of yours!"
 
 I giggle. "I'm not sure that's how it works, but thank you."
 
-Pinkie holds my hoof in hers, her face now blushing. "I haven't been asleep for very long, so if you want to do a little talking and cuddling, [DEPENDENT CLAUSE] I'd be down."
+Pinkie holds my hoof in hers, her face now blushing. "I haven't been asleep for very long, so if you want to do a little talking and cuddling, I'd be down."
 
 I match her smile with my own. "I'd love to. I've been looking forward to this all day - it's been a rough one."
 
@@ -52,7 +52,7 @@ I match her smile with my own. "I'd love to. I've been looking forward to this a
 
 I think for a second even though I already know the answer. "I'd love to visit the hotel and relax before talking, if that's alright?"
 
-Pinkie nods before opening her hooves and lying [LAY IS TRANSITIVE. WHEN INTRANSITIVE, USE LIE] back. I take her invitation and lay my head down on her chest. She closes her hooves around me, completing the ensemble.
+Pinkie nods before opening her hooves and lying back. I take her invitation and lay my head down on her chest. She closes her hooves around me, completing the ensemble.
 
 I'm now staying at the Heartbeat Hotel. Pinkie named it as such after we cuddled a few times. This is something I noticed she did a lot between us. It was cute; it was *her*.
 
@@ -102,7 +102,7 @@ We lie in silence for a minute before I ask, "How'd your day go?"
 
 We continue to lie together enjoying the moment. I start to think about the Heartbeat Hotel.
 
-I love staying at this particular hotel very much. I dare to say it's my most favorite-est hotel in all Equestria. Pinkie's slightly elevated heartbeat thumping in my head, bringing a calmness I can't describe in words. The tender hold of her hooves around me, a secure [OTHERWISE, IT'S A SECURITY-FREE ZONE] and judgement-free zone. The gentle nudges and kisses she provides in the background, a constant reminder of love and care.
+I love staying at this particular hotel very much. I dare to say it's my most favorite-est hotel in all Equestria. Pinkie's slightly elevated heartbeat thumping in my head, bringing a calmness I can't describe in words. The tender hold of her hooves around me, a secure and judgement-free zone. The gentle nudges and kisses she provides in the background, a constant reminder of love and care.
 
 I couldn't ask for more. Pinkie is the best pony in all of Equestria, and I love her. She would say it's me, but I'll concede to second place or a tie.
 
@@ -190,7 +190,7 @@ Pinkie blushes. "I've got a pretty cute pony in my view too, you know."
 
 Pinkie lights up with giggles and laughter.
 
-- "This hotel is world famous, [CAN BE REMOVED BECAUSE THE CONDITION IS RESTRICTIVE] if you constrain your view of the world to mine."
+- "This hotel is world famous, if you constrain your view of the world to mine."
 
 "Are you running out of stuff to say?"
 
