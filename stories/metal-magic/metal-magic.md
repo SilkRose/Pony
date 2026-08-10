@@ -1,10 +1,10 @@
 # Metal Magic
 
-Iron Oxide, the rust colored unicorn with messy dark brown hair and light blue eyes, finished levitating the last of the hard hats and high-visibility jackets to the ponies on the tour. She worked at a metal recycling scrapyard and was the newest hire. The newest hire always had to give the tours at this workplace.
+Iron Oxide, the rust-colored [COMPOUND COLOURS BEFORE A NOUN] unicorn with messy dark-brown hair and light-blue eyes, finished levitating the last of the hard hats and high-visibility jackets to the ponies on the tour. She worked at a metal recycling scrapyard and was the newest hire. The newest hire always had to give the tours at this workplace.
 
 She was giving the tour to the local Ponyville school ponies. There were nine foals and six chaperones. At first she didn't understand why there were six mares to watch nine foals, but after the explanation from Twilight, she understood.
 
-"They like to wonder off, and they're surprisingly good at it. So, we have one adult for every two foals. And Pinkie Pie is here."
+"They like to wander off, and they're surprisingly good at it. So, we have one adult for every two foals. And Pinkie Pie is here."
 
 Oxide pointed out the math inconsistency. "That math doesn't exactly add up."
 
@@ -28,15 +28,15 @@ Twilight stepped forward and looked at everypony. "Sweetie Belle and Silver Spoo
 
 Everypony went and stood to either side of their assigned pony.
 
-Iron spoke up, "Okay everypony, let's start the tour!"
+Iron spoke up, "Okay, [VOCATIVE COMMA IS NEEDED FOR DIRECT ADDRESS] everypony, let's start the tour!"
 
-Everypony was standing just outside the oversized door of an even more oversized building. Iron lead them just inside to the left, where a pony was waiting next to a scale.
+Everypony was standing just outside the oversized door of an even more oversized building. Iron led [THE WORD "LEAD" PRONOUNCED THIS WAY IS NOUN-ONLY AND IS, I'M AFRAID, A METAL] them just inside to the left, where a pony was waiting next to a scale.
 
 Iron turned to the group and introduced this new pony and what he did. "This is Ticket Tally. He operates this scale whenever ponies bring in certain metal."
 
 Ticket Tally greeted the children, "Hello!"
 
-The kids greeted back all at once.
+The kids greeted him [GREET IS A TRANSITIVE VERB] back all at once.
 
 Ticket pointed at the scale. "This plate has a magical gemstone embedded in it that projects the weight of whatever is on it onto this here wall." He emphasized it by pointing at the wall.
 
@@ -46,7 +46,7 @@ Ticket continued, "I make sure the metal is separated correctly, so that no dirt
 
 Sweetie Belle raised her hoof.
 
-Iron answered. "Yes, Sweetie?"
+Iron answered, "Yes, Sweetie?"
 
 "Why would the metal be dirty? Did they leave it in the mud?"
 
@@ -58,9 +58,9 @@ Ticket asked, "Do you all want to see a demonstration of the scale?"
 
 Everypony nodded.
 
-Iron lit up her horn and set an ingot of metal on the scale. The scale projected in magical characters on the wall, '20 pounds.'
+Iron lit up her horn and set an ingot of metal on the scale. The scale projected '20 pounds' in magical characters on the wall.
 
-All the fillies and colts wowed at this, and Featherweight raised his hoof.
+All the fillies and colts were wowed [TRANSITIVE VERB] by this, and Featherweight raised his hoof.
 
 "Yes, Featherweight?"
 
@@ -92,9 +92,9 @@ Scootaloo raised her hoof.
 
 "What's oxidi– whatever you said?"
 
-"It's when the metal reacts to the air and moisture around it. You might know it better as rust, especially on iron and steel. On copper it's called patina, and it can act like a protective layer on the outside."
+"It's when the metal reacts with the air and moisture around it. You might know it better as rust, especially on iron and steel. On copper it's called patina, and it can act like a protective layer on the outside."
 
-She put the piece back and pointed at the bin right next to it. "That bin is number one copper. It's been completely cleaned, and has no extra bits and not much patina."
+She put the piece back and pointed at the bin right next to it. "That bin is number one copper. It's been completely cleaned and has no extra bits and not much patina."
 
 She levitated a piece from the number one box and showed them. This piece was much shinier than the last, but it still had some off-color splotches.
 
@@ -108,7 +108,7 @@ Iron called on her, "Yes, Apple Bloom?"
 
 "How do you buy something for a quarter of a bit if that's the smallest currency we got?"
 
-"Good question. Most ponies bring in more than a single pound, so those partial bits add up. Once we have a total we'll round to the nearest bit."
+"Good question. Most ponies bring in more than a single pound, so those partial bits add up. Once we have a total, [DEPENDENT CLAUSE] we'll round to the nearest bit."
 
 Apple Bloom nodded.
 
@@ -132,9 +132,9 @@ The group's eyes looked back and forth as Iron said, "We only buy the bare coppe
 
 She put both wires back and said, "We buy the insulated wire for three point ninety bits per pound."
 
-"The next bin over is cutoff ends to wires. The ends are what plug into electrical outlets, or connect to an appliance. They typically have more plastic and other materials on them, so we buy them for a lower price of three point ten bits per pound."
+"The next bin over is cutoff ends of wires. The ends are what plug into electrical outlets or connect to an appliance. They typically have more plastic and other materials on them, so we buy them for a lower price of three point ten bits per pound."
 
-She levitated out a few different plugs to show them: one with two blade style contacts and a round third; one with three curved blades that spun to lock the connection; and one with two flat blades - an L shaped blade and a round one.
+She levitated out a few different plugs to show them: one with two blade-style contacts and a round third; one with three curved blades that spun to lock the connection; and one with two flat blades - an L-shaped blade and a round one.
 
 "Different plugs can handle different amounts of electricity. Usually, the funnier it looks, the higher the rating."
 
@@ -158,7 +158,7 @@ She levitated a long, rigid piece of metal from the second bin. From each end it
 
 She levitated a third piece of metal from the third bin, this one bowl-shaped.
 
-"This one is cast aluminum. The metal was melted into a liquid and poured into a cast in the shape of this piece."
+"This one is cast aluminum. The metal was melted into a liquid and poured into a mold [A CAST IS THE RESULT OF METALCASTING; MOLTEN METAL IS POURED INTO A MOLD] in the shape of this piece."
 
 Everypony looked at the three pieces floating in front of them.
 
@@ -168,21 +168,21 @@ She put all the pieces back and the group moved on.
 
 "The next three bins are also all one metal type: brass."
 
-She brought out the first example. It was a thick tube with a round part in the middle. "This is is a plumbing shutoff valve. There's usually a handle on the side here, and when you turn the handle, it stops the flow of water or whatever liquid is inside. This part is made of red brass."
+She brought out the first example. It was a thick tube with a round part in the middle. "This is a plumbing shutoff valve. There's usually a handle on the side here, and when you turn the handle, it stops the flow of water or whatever liquid is inside. This part is made of red brass."
 
 She continued, "Brass is an alloy metal, meaning it's two different metals combined. In this case, brass is made from copper and zinc. Red brass is eighty-five percent copper and fifteen percent zinc."
 
-They all looked at the valve. It wasn't actually red, but more of a slightly orangey gold color.
+They all looked at the valve. It wasn't actually red, but more of a slightly orangey-gold color.
 
 "Red brass is typically found in plumbing, sprinklers, and industrial machinery."
 
-She placed that piece back and got one from the second brass bin. This one was a key, and had a dull yellow color.
+She placed that piece back and got one from the second brass bin. This one was a key [I'M PURGING SOME OF YOUR COMMAS BECAUSE THEY DIVIDE SHARED-SUBJECT COMPOUND PREDICATES. YOU CAN RETURN THEM IF YOU WANT TO DO SO STYLISTICALLY, BUT IT HAS TO BE A DELIBERATE ACTION] and had a dull yellow color.
 
-"Yellow brass is around thirty-five to forty percent copper. It's also found in plumbing fixtures, like valves and faucets, but it's also used in musical instruments. And keys, like this one."
+"Yellow brass is around thirty-five to forty percent zinc [I HAVE LOOKED UP THE CHEMICAL COMPOSITION; IT'S STILL MAJORITY COPPER, AND YOUR PERCENTAGES MATCH THE ZINC CONTENT]. It's also found in plumbing fixtures, like valves and faucets, but it's also used in musical instruments. And keys, like this one."
 
-Everypony looked at the key as she levitated out a piece of brass instrument.
+Everypony looked at the key as she levitated out a piece of a brass instrument.
 
-"Fun fact, the brass section of an orchestra or band is called that because most of their instruments are made from brass."
+"Fun fact: the brass section of an orchestra or band is called that because most of their instruments are made from brass."
 
 After they got a good look at both pieces, she put them back and got something from the third bin. It was a shutoff valve much like the first one, but with the non-brass handle still attached.
 
@@ -194,7 +194,7 @@ Everypony looked at it before she put it back.
 
 They moved to the next bin before she levitated out a pair of cymbals.
 
-"Bronze is another alloy metal, this one being eighty-eight percent copper and twelve-percent tin usually. Bronze is typically used in sculptures like medals and statues, and percussion instruments like bells and cymbals."
+"Bronze is another alloy metal, this one usually being eighty-eight percent copper and twelve percent tin. Bronze is typically used in sculptures like medals and statues, and percussion instruments like bells and cymbals."
 
 Pinkie Pie raised her hoof as the ponies looked at the metal.
 
@@ -214,7 +214,7 @@ She levitated out a flat piece of shiny metal.
 
 "Stainless steel gets its name from the fact it doesn't rust. We buy it for point forty bits per pound."
 
-They all got a good look at the metal before she put it back and they moved onto the next bin.
+They all got a good look at the metal before she put it back and they moved on to [MOVE ON IS A PHRASAL VERB HERE; TO IS ITS PREPOSITION. "ONTO" MEANS THEY CLIMB ATOP A BIN] the next bin.
 
 "This is our last bin. It's for batteries." She levitated out a big battery and showed them. "Batteries are used to store electricity in a portable manner."
 
@@ -224,7 +224,7 @@ Sweetie Belle raised her hoof again.
 
 "Yes, Sweetie Belle?" Iron asked.
 
-"What's the red and black mean on the metal studs?"
+"What's the red and black markings mean on the metal studs?"
 
 "Good question. The red is the positive terminal, while the black is for negative. When you complete a circuit by wiring something like a light bulb between the terminals, electrons flow from the negative terminal to the positive. It's a common misconception that they flow from positive to negative, but it's actually the other way around."
 
@@ -250,7 +250,7 @@ Sweetie did as she was asked, struggling a bit with how heavy the box was.
 
 Apple Bloom stepped forward and studied the box's contents. It contained random bits of bright, clean metal. "Stainless steel. There's no rust and it's all shiny like."
 
-Ticket nodded. "That's correct. Good job!" He pointed at the number being cast on the wall. It displayed 36 pounds. "At a price of pointy forty bits per pound, how much should we pay for this box?"
+Ticket nodded. "That's correct. Good job!" He pointed at the number being cast on the wall. It displayed 36 pounds. "At a price of point forty bits per pound, how much should we pay for this box?"
 
 Scootaloo raised her hoof.
 
@@ -258,61 +258,61 @@ Scootaloo raised her hoof.
 
 "Don't you need to subtract the weight of the box first?"
 
-Ticket nodded. "Nice catch, yes you are correct."
+Ticket nodded. "Nice catch; yes, you are correct."
 
 Iron asked, "Does anyone want to carry the box and dump it in the right bin with me?"
 
 A few of the children went with her, along with two adult chaperones.
 
-They took the box and emptied it, bringing the empty box back to weigh. It read one pound.
+They took the box and emptied it, bringing the empty box back to weigh. The scale read one pound.
 
 Iron asked, "How much should we pay for thirty-five pounds at point forty bits per pound?"
 
 Scootaloo thought for a second before answering, "Fourteen bits."
 
-Iron nodded. "Good job, that's correct."
+Iron nodded. "Good job; [SEMICOLON OPTIONAL, COMMA WOULD ALSO BE FINE HERE] that's correct."
 
 They repeated this process for all the metal Scraps had on his wagon, with different ponies doing different roles each time. Twilight had to help with the math for the less even prices, but in the end they got it all done, and Scraps left with his bag of bits.
 
-Iron lead the group back outside to the front of the building, and they walked to the side, where a set of two larger trot-on scales sat.
+Iron led the group back outside to the front of the building, and they walked to the side, where a set of two larger trot-on scales sat.
 
 "We're going to go over the normal scrap procedure now. This is where ponies bring in scrap in large amounts. Instead of by the pound, it's by the ton."
 
 Apple Bloom raised her hoof.
 
-"Yes, Apple Bloom," Iron called.
+"Yes, Apple Bloom?" Iron called.
 
 "What's the point of recycling?"
 
-"Great question. We recycle because it's better for Equestria and sometimes cheaper than extracting new metal out of the ground. Certain metals can be very hard to mine, so recycling makes the world a better place to live."
+"Great question. We recycle because it's better for Equestria and sometimes cheaper than extracting new metal from the ground. Certain metals can be very hard to mine, so recycling makes the world a better place to live."
 
 Everypony nodded at her answer.
 
-Iron lead the group onto the inlet scale where they stopped next to a blue stallion standing between the two trot-on scales. "This is Adder. He calculates and gives ponies their tickets on the way in and out of the junkyard."
+Iron led the group onto the inlet scale where they stopped next to a blue stallion standing between the two trot-on scales. "This is Adder. He calculates and gives ponies their tickets on the way in and out of the junkyard."
 
-Adder pointed at the magical number display on the metal panel behind him. "This is how much all of you weigh. Ponies go in and unload. I subtract their inbound weight from the outbound weight to find how much metal they brought in."
+Adder pointed at the magical number display on the metal panel behind him. "This is how much all of you weigh. Ponies go in and unload. I subtract their inbound weight from the outbound weight [SHOULDN'T THE ORDER OF THE OPERATION BE REVERSED; I.E., SHOULDN'T HER SUBTRACT THE (LOWER) OUTBOUND WEIGHT FROM THE INBOUND WEIGHT? OTHERWISE, THE WEIGHT IS NEGATIVE, AND HE MUST REMEMBER TO SIGN-INVERT IT. IT'S PLAUSIBLE EITHER WAY, SO I'M NOT ISSUING CORRECTION INSTRUCTIONS] to find how much metal they brought in."
 
 The panel showed they weighed one thousand six hundred pounds.
 
 They continued on the tour as Iron led them off the scale and into the scrap yard. "This is where ponies drop off their metal. Remember, scrap can be very sharp, so don't touch."
 
-Metal was piled up five or six ponies tall for hundreds of feet. They trotted along the pile until they stopped a circular indentation in the pile where a bunch of ponies were unloading.
+Metal was piled up five or six ponies tall for hundreds of feet. They trotted along the pile until they stopped at a circular indentation in the pile where a bunch of ponies were unloading.
 
 Iron explained, "All these ponies bring in metal from different places all around Equestria. Some of it is out of ponies' trash, and some comes from companies that build up metal scrap until they have enough to fill their wagon."
 
-They all watched as the ponies unloaded their wagons. Most of the ponies were earth ponies but there were a few pegasi and unicorns.
+They all watched as the ponies unloaded their wagons. Most of the ponies were earth ponies, but there were a few pegasi and unicorns.
 
 A couple of the ponies on the left side finished unloading and pulled their wagons out to go get weighed out.
 
-Iron pointed at a bright pink unicorn in a safely vest and helmet who quickly trotted into the vacated area. "That's Protector Pete. He goes in and uses his magic to push the metal back into the pile after ponies leave."
+Iron pointed at a bright pink unicorn in a safety vest and helmet who quickly trotted into the vacated area. "That's Protector Pete. He goes in and uses his magic to push the metal back into the pile after ponies leave."
 
 They all watched Pete. He used his magic in a sweeping motion, pushing the metal back in steps.
 
 Iron led the ponies as they continued along the pile, following till they were on the back side of the pile. "This is where we take the metal and start processing it. Normally, only employees are allowed here."
 
-There were several ponies working on this side of the pile. Iron pointed at another unicorn. "That's Crusher. He picks up metal in his magic and crushes it before placing it on a cart before it gets taken into our processing building."
+There were several ponies working on this side of the pile. Iron pointed at another unicorn. "That's Crusher. He picks up metal in his magic and crushes it before placing it on a cart for transport into our processing building."
 
-They watched as Crusher picked up a large chunk of the metal pile at the top and crumpled it all together, before setting it down on a flying wagon pulled by two pegasi.
+They watched as Crusher picked up a large chunk of the metal pile at the top and crumpled it all together before setting it down on a flying wagon pulled by two pegasi.
 
 "Those pegasi fly the metal from the yard to the building. It's quicker to fly it than trot it on a rolling wagon."
 
@@ -328,9 +328,9 @@ Scootaloo raised her hoof.
 
 Scootaloo nodded at her answer.
 
-Iron led them to the building where the two pegasi had flown to and were now waiting for them.
+Iron led them to the building to which the two pegasi had flown and were now waiting for them.
 
-Iron introduced them. The first pony was a white mare with yellow curls. "This is Sunrise." The second pony was a light blue mare with a cloud like mane. "This is Cloudy Conundrum."
+Iron introduced them. The first pony was a white mare with yellow curls. "This is Sunrise." The second pony was a light-blue mare with a cloud-like mane. "This is Cloudy Conundrum."
 
 They waved at the touring ponies before Sunrise spoke. "Hello ponies! We're going to help with the tour. We'll show you all how we process metal. Sound exciting?"
 
@@ -338,19 +338,19 @@ Everypony nodded.
 
 Cloudy stepped forward. "Once we get to this processing building, we back up to the conveyor belt behind us." She pointed at said belt.
 
-They all watched as they backed up and a unicorn lifted the metal from the wagon and hovered it above the belt. Both pegasi unhooked themselves from the wagon and trotted to stand in front of the conveyor belt.
+They all watched as the pegasi [PREVENTS AMBIGUITY IN PRONOUN RESOLUTION] backed up and a unicorn lifted the metal from the wagon and hovered it above the belt. Both pegasi unhooked themselves from the wagon and trotted to stand in front of the conveyor belt.
 
 Sunrise pointed at the unicorn holding the metal. "This is Puzzle Piece. He takes the metal and pulls it apart, sprinkling small bits of metal onto the belt so our crusher doesn't get jammed."
 
 Puzzle waved at the ponies as he started pulling apart the metal.
 
-They followed some bits of metal as it started on the belt. After a few feet it started to go uphill. Once the belt was above their heads they could see on the other side from under the belt.
+They followed some bits of metal as it started on the belt. After a few feet, it started to go uphill. Once the belt was above their heads, they could see on the other side from under the belt.
 
 There was a line of earth ponies running on belts all attached together in a line. The shaft coming from their running stations connected to the conveyor belt and other machinery along the line.
 
 Iron pointed at the runners. "These ponies are what power the conveyor belts and the shredder."
 
-They continued following the belt, which terminated at a metal box the size of a house. Nopony could see anything on the belt now, but there was a set of stairs that lead to an observation platform above the box.
+They continued following the belt, which terminated at a metal box the size of a house. Nopony could see anything on the belt now, but there was a set of stairs that led to an observation platform above the box.
 
 "This is the shredder," Iron said. "We're going to take turns going up to watch the metal get shredded. Each chaperone will take their foals and will follow one of us up to see the shredder in action, okay?"
 
@@ -370,7 +370,7 @@ After watching a few more pieces get eaten, the group descended back down. Each 
 
 After everypony had viewed the shredder, and after Pinkie had viewed it twice, they turned their attention to the bottom of the shredder.
 
-They trotted around the viewing platform where they found another conveyor belt. They watched as metal shreds fell from the bottom of the shreds onto the belt.
+They trotted around the viewing platform where they found another conveyor belt. They watched as metal shreds fell from the bottom of the shredder onto the belt.
 
 Cloudy said, "Now that the metal is shredded, it's easier to manage and sort."
 
@@ -390,47 +390,47 @@ She pointed at two more pieces of metal: a flat plate of aluminum and another of
 
 "We want to get the non-ferrous metals too. These types of metal don't get attracted by magnets, but they do conduct electricity very well. We can use this to sort those types of metal too."
 
-She moved the magnet over the two plates one at a time. As she moved the magnet faster the plates started sliding a bit with the magnet.
+She moved the magnet over the two plates one at a time. As she moved the magnet faster, the plates started sliding a bit with the magnet.
 
 "These types of metal are reacting to the changes in the magnetic field as the magnet moves over them. Moving the magnet over them induces a magnetic field inside the metal. As this field changes, it creates a repulsive force that moves the metal."
 
-She demonstrated it again. "Each of of you can come up here and test and see these forces at work."
+She demonstrated it again. "Each of you can come up here and test and see these forces at work."
 
 Iron helped each of the foals as they lined up to participate in the demonstration. Each pony used the magnet on all three pieces of metal and played around before their turn ended.
 
-After everypony got their turn, Iron lead them down the side of the conveyor belt more.
+After everypony got their turn, Iron led them farther along the side of the conveyor belt.
 
 "Now that we've seen how these metals interact, we can see how we use those principles to sort the metal."
 
 The conveyor turned the corner and rose upward like before, but this time not very far. At the peak of the belt it just ended and the metal bits fell downward.
 
-As there was currently no magnetic field, all the metal just landed on another conveyor at the same level as the previous one before it started going upward.
+As there was currently no magnetic field, all the metal just landed on another conveyor, which remained level briefly before rising.
 
 Iron lit up her horn and cast a spell. A flat magical aura filled the space halfway between the two disjointed conveyor belts. As her spell activated, the ferrous metal became trapped in her magic and slowly moved towards another conveyor belt that aligned with her magic.
 
-Sunrise said, "Iron is casting a magnetism spell to catch all the metal attracted to magnets and send them down a different conveyor belt than the non-ferrous metal."
+Sunrise said, "Iron is casting a magnetism spell to catch all the metal attracted to magnets and send it down a different conveyor belt from the one used for the non-ferrous metal."
 
 Iron spoke up, "All the ferrous metal I'm catching will go down this conveyor and be packed into boxes. We'll see that in a bit. For now, we are going to follow the lower belt to see the next sorting step."
 
-She let her spell drop before another color of magic took its place. A dark gray mare appeared from the other side of the belt. She had a two tone red and blue mane with a magnet as her cutie mark.
+She let her spell drop before another color of magic took its place. A dark-gray mare appeared from the other side of the belt. She had a two-tone red-and-blue mane with a magnet as her cutie mark.
 
 Iron introduced her. "This is Magnet Mane. She catches the metal with the spell I just showed you."
 
 Magnet waved to the ponies and they waved back.
 
-The group continued on and followed the lower belt. The higher one turned away as the lower one raised in the air like the one before it.
+The group continued on and followed the lower belt. The higher one turned away as the lower one rose [RAISE IS TRANSITIVE] in the air like the one before it.
 
-Iron brought them to a very similar looking setup. The belt rose above two more belts and the metal dropped down. This time, however, the magic aura was already active.
+Iron brought them to a very similar-looking setup. The belt rose above two more belts and the metal dropped down. This time, however, the magic aura was already active.
 
-A strikingly similar pony stood on the other side of the belt as the last one. This time it was a gray stallion with a red and blue mane, and a magnet with a dotted line around it as his cutie mark.
+A strikingly similar pony stood on the other side of the belt as the last one. This time it was a gray stallion with a red-and-blue mane, and a magnet with a dotted line around it as his cutie mark.
 
 He introduced himself. "Hello everypony, my name is Field Magic. I take it you already met my sister Magnet Mane?"
 
 The group nodded.
 
-Field continued, "I'm casting a slight different spell than my sister was. Hers was just to capture and move the ferrous metal, while mine has to induce magnetic fields in the metal. My magic is cycling rapidly between positive and negative fields to send the metal down the right conveyor."
+Field continued, "I'm casting a slightly different spell than my sister was. Hers was just to capture and move the ferrous metal, while mine has to induce magnetic fields in the metal. My magic is cycling rapidly between positive and negative fields to send the metal down the right conveyor."
 
-The group watched the remaining bits of metal bounce on top of Field's magic instead of trapping them like Magnet's did.
+The group watched Field's magic make the remaining bits of metal bounce instead of trapping them like Magnet's did.
 
 The waste material just fell right through onto the lower belt.
 
@@ -440,21 +440,21 @@ The group continued to follow the metal as it rounded a corner and leveled out a
 
 They followed it until they found themselves yet again at a third sorting station with a pony that didn't look like they were related to the previous two.
 
-She was an orange unicorn with a white mane and a cutie mark of a line with a bunch of zig zags in it.
+She was an orange unicorn with a white mane and a cutie mark of a line with a bunch of zigzags in it.
 
 She spoke up, "Hello everypony, my name is Resistor. I use my magic like the previous two ponies you saw to sort the metal for the final time."
 
-Iron continued, "We didn't go over this in the demonstration, but copper and aluminum have different current carrying capabilities, or resistances."
+Iron continued, "We didn't go over this in the demonstration, but copper and aluminum have different current-carrying capabilities, or resistances [TECHNICALLY, RESISTANCES ARE ONLY ONE FACTOR IN DETERMINING THE CURRENT-CARRYING CAPACITY, NOT A SYNONYM FOR IT]."
 
-They all watched as Resistor sorted the metals using her magic. It was a similar plane of magic aura but this time she held each piece in it for a second before letting some fall through. The ones she kept hold of went onto the upper belt. While the ones let go went to the lower belt.
+They all watched as Resistor sorted the metals using her magic. It was a similar plane of magic aura, but this time she held each piece in it for a second before letting some fall through. The ones she kept hold of went onto the upper belt, [DEPENDENT CLAUSE] while the ones let go went to the lower belt.
 
-Resistor explained, "What I'm doing with my magic is catching each piece and measuring their resistance to determine if its copper or aluminum. Copper can carry more current, and it's heavier, so I use both of these traits to separate the metal."
+Resistor explained, "What I'm doing with my magic is catching each piece and measuring its resistance to determine if it's copper or aluminum. Copper can carry more current, and it's heavier, so I use both of these traits to separate the metal."
 
 Everypony nodded.
 
-Iron lead them down down the conveyor belt one last time, bringing them to the final destination of the tour.
+Iron led them down the conveyor belt one last time, bringing them to the final destination of the tour.
 
-They were now at the far side of the building, and all of the split off belts arrive here at a giant opening in the wall. Each belt ended with its contents being dumped into a wooden box. Each one also had a wagon with various numbers of boxes on each.
+They were now at the far side of the building, and all of the split-off belts converged [AT ANY RATE, AT LEAST CHANGE TO "ARRIVED"] here at a giant opening in the wall. Each belt ended with its contents being dumped into a wooden box. Each one also had a wagon with various numbers of boxes on each.
 
 The belts were in the following order: aluminum, copper, non-metal waste, and ferrous metal.
 
@@ -474,7 +474,7 @@ Iron finished the tour. "This is the end of our tour. You've now seen everything
 
 Everypony stomped in appreciation before exchanging pleasantries and goodbyes.
 
-Iron saw everypony off with a smile before returning to her office to sit down, breathing a sign of relief at a tour well taken.
+Iron saw everypony off with a smile before returning to her office to sit down, breathing a sigh of relief at a tour well taken.
 
 Then she remembered she never took the vests and hard hats back from the guests.
 
