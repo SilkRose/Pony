@@ -14,6 +14,8 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for pr
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
+Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
+
 Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading.
 
 ## Short Description:
