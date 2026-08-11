@@ -30,6 +30,10 @@ Twilight and Pinkie get transported into an RPG game in development. The two mus
 - Developers could be EqG characters, like Sci-Twi and/or Sunset.
 - Should the game be a normal RPG or a more unique idea?
 - The game could be for a class project.
+- Instead of Twilight & Pinkie EqG chars as devs do Twilight and Sunset.
+- Do blogs like FFF, and maybe have another friend write a section?
+- Last blog Sci-Twi mentions a cronjob she found? (explaining why the story happened, kinda)
+- Mention other games as inspiration?
 - 
 
 ## Chapters:
