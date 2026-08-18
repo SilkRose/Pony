@@ -10,6 +10,8 @@ Thanks to [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) 
 
 Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
 ## Short Description:
