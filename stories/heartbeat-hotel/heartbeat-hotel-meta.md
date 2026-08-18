@@ -6,6 +6,8 @@ Pinkie listens to her marefriend's heartbeat as it calms her. In her mind, she c
 ## Description:
 Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more than happy to oblige.
 
+Cover done by [Lossart](https://www.tumblr.com/blog/markiza297).
+
 Thanks to [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) for proofreading.
 
 Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
@@ -35,3 +37,4 @@ Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more tha
 [Heartbeat Hotel](./heartbeat-hotel.md)
 
 ## Cover:
+![cover](./covers/heartbeat-hotel-cover-option-5-selected.png)
