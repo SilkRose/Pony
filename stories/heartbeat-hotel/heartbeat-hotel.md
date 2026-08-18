@@ -172,7 +172,7 @@ I lift my head, turn to Pinkie, and begin a passionate kiss. She closes her eyes
 
 After laying my head back down, confirming that her heart rate has definitely gone up, I say, "That's how."
 
-Pinkie says, "Huh? Oh, yes, your list...!"
+Pinkie says, "Huh? Oh, yes, your list…!"
 
 -  I roll over and face Pinkie, my head resting on her stomach. "There's a second even softer pillow if you don't want to hear the metronome."
 
