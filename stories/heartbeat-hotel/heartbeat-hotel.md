@@ -2,21 +2,21 @@
 
 My eyes scroll across the last few lines of the book I'm reading. I close the book and write down my last thought on the text as a whole. It was interesting, and I'll probably reread it sometime next week.
 
-As I close the book and my notes, I yawn, reminded of how late it is. Looking up at the clock, I realize it's the next day already.
+As I close my notes, too, I yawn, reminded of how late it is. Looking up at the clock, I realize it's the next day already.
 
 *I'm late to see Pinkie.*
 
-I failed to think of my best friend and lover, and that sends me into a panic. I'm supposed to sleep over at her place tonight. Thinking fast, I blow out the candle before checking over everything to make sure nothing was left out of place.
+I'd failed to think of my best friend and lover, and that sends me into a panic. I'm supposed to sleep over at her place tonight. Thinking fast, I blow out the candle before checking over everything to make sure nothing was left out of place.
 
-I'm about to light my horn and teleport when I remember that teleportation makes a noise, one that is quite loud. Thinking of Pinkie, I decide to just gallop.
+I'm about to light my horn and teleport when I remember that teleportation makes a lot of noise. Thinking of Pinkie, I decide to just gallop.
 
 *Don't want to wake her if she's already asleep.*
 
 I run out of the house making a beeline for Sugarcube Corner. I'm sure nopony would think anything weird about an alicorn running through the streets in the middle of the night.
 
-I've been looking forward to this all day; I can't believe I would forget so easily. Today was a rough day for the most part, so you'd think I'd have remembered.
+I still can't believe I had forgotten so easily. Today was a rough day for the most part, so I was really looking forward to sleeping over, but I forgot to remember it as well.
 
-My mind races through the events of the day. Every new thing just made me want to see her more. I just hope I'm not too late and didn't let her down.
+My mind races through the events of the day. Every new thing just made me want to see her more. I just hope I'm not so late that I let her down.
 
 As I turn the last corner, the establishment comes into view. I slow down to a simple gait as I approach the door before taking a moment to rest. I use the opportunity to perform the breathing trick that Cadance taught me before entering.
 
@@ -26,7 +26,7 @@ Pinkie is sleeping soundly, alone under the covers. I silently chide myself for 
 
 I trot to the bed and do my best to slip under the blanket without waking her. As the blanket settles around me, I seem to have succeeded. I take what comfort I can from this little victory. Leaning over, I kiss her cheek.
 
-I whisper, "Goodnight, Pinkie. I love you. Sorry I'm late."
+I whisper, "Goodnight, Pinkie. Sorry I'm late. I love you."
 
 I resign myself to a good night's sleep. I know it's a shame we didn't get to talk before bed, but any night I can spend beside her is a good one. Laying my head down, I close my eyes.
 
@@ -40,7 +40,7 @@ Pinkie skips the formalities and wraps me in a tight, loving hug. "I'm so glad y
 
 I blush even more. "I was studying…"
 
-Pinkie smiles. "See, you gotta keep studying, or all the previous studying will fall out of the cute little noggin of yours!"
+Pinkie smiles. "See, you gotta keep studying, or all the previous studying will fall outta that cute little noggin of yours!"
 
 I giggle. "I'm not sure that's how it works, but thank you."
 
@@ -56,7 +56,7 @@ Pinkie nods before opening her hooves and lying back. I take her invitation and 
 
 I'm now staying at the Heartbeat Hotel. Pinkie named it as such after we cuddled a few times. This is something I noticed she did a lot between us. It was cute; it was *her*.
 
-Pinkie always had a way with things. Whether it was physical affection, naming things, or just general creativity, she brought something new to it.
+Pinkie had a way with things. Whether it was physical affection, coming up with names, or just general creativity, she always brought something new to it.
 
 I lie there taking in the moment, all the worries of the day disappearing with each beat.
 
@@ -66,7 +66,7 @@ After a few minutes of cuddling, Pinkie kisses the top of my head. "Do you want 
 
 Pinkie asks, "Pancakes?"
 
-"Yes, they were delicious."
+"Yes. They were delicious."
 
 Pinkie pretends to eat my mane. "You're delicious."
 
@@ -78,33 +78,33 @@ Pinkie squeezes me. "What'd you do next?"
 
 "What'd you do after they all left?"
 
-"I mostly went back to studying, but then Rainbow Dash stopped in."
+"I mostly went back to studying, but then Rainbow Dash stopped by."
 
 Pinkie nuzzles my head. "What'd Dashie want?"
 
-"She wanted to know about a specific math concept. She wanted to know if it could help her flying. I tried to explain it, but I lost her about two paragraphs in. I tried a simplified version. That seemed to satisfy her, but she left with a look that said she still didn't understand."
+"She wanted to know about a specific math concept. She thought it might help her flying. I tried to explain it, but I lost her about two paragraphs in. I tried a simplified version. That seemed to satisfy her, but she left with a look that said she still didn't understand."
 
-"Okay, what'd you do after she left?"
+"Okay. What'd you do after she left?"
 
 I start to run my hoof in circles over Pinkie's cutie mark. "Mostly studying and helping more ponies that came in for the same books as before. I stopped to eat for lunch and dinner, but not much else happened."
 
-"So you got all your studying done you needed to?"
+"So you got all the studying done you needed to?"
 
-"Yes, I lost track of time at the end, but I did get it all done. Sorry."
+"Yes. I lost track of time at the end, but I did get it all done. Sorry."
 
 Pinkie starts to play with my mane. "You don't need to apologize; I understand."
 
 We lie in silence for a minute before I ask, "How'd your day go?"
 
-"It went good. Wasn't too busy or too boring. Mostly just worked the front counter for the Cakes."
+"It went good. Wasn't too busy or too boring. Mostly just worked the front counter."
 
 "Sounds like you had it easier than me today. Those ponies were really insistent on the books they wanted, even when I told them the last one was checked out an hour ago."
 
 We continue to lie together enjoying the moment. I start to think about the Heartbeat Hotel.
 
-I love staying at this particular hotel very much. I dare to say it's my most favorite-est hotel in all Equestria. Pinkie's slightly elevated heartbeat thumping in my head, bringing a calmness I can't describe in words. The tender hold of her hooves around me, a secure and judgement-free zone. The gentle nudges and kisses she provides in the background, a constant reminder of love and care.
+I love staying at this particular hotel very much. I dare to say it's my most favorite-est hotel in all Equestria. Pinkie's slightly elevated heartbeat thumping in my head brings a calmness I can't describe in words. The tender hold of her hooves around me is a secure and judgement-free zone. The gentle nudges and kisses she provides in the background are a constant reminder of love and care.
 
-I couldn't ask for more. Pinkie is the best pony in all of Equestria, and I love her. She would say it's me, but I'll concede to second place or a tie.
+I couldn't ask for more. Pinkie is the best pony in all of Equestria. She would say it's me, but I'll concede to second place, or a tie.
 
 I guess instead of just thinking about how much I love visiting the Heartbeat Hotel, I should tell it to Pinkie.
 
@@ -120,7 +120,7 @@ I answer, "Can we go over my list first? Don't want to get confused, right?"
 
 Pinkie nuzzles my head. "Okay, cutie."
 
-- I blush. "The little bits of affection from the host, like that nuzzle, make me feel so loved."
+- I blush. "The little bits of affection from the host, like that nuzzling just now, make me feel so loved."
 
 Pinkie asks, "Do you like it when I play with your mane?"
 
@@ -138,7 +138,7 @@ Pinkie giggles. "I'm not some ponies either."
 
 I ask, "Can I see your tail?"
 
-Pinkie brings her tail up resting it on her stomach.
+Pinkie brings her tail up and rests it on her stomach.
 
 - I start to play with her tail. "Your tail makes for a fun fidget toy."
 
@@ -164,21 +164,21 @@ We both giggle.
 
 Pinkie agrees. "Yep."
 
-- "You might think you can't adjust the speed, but you can make it increase with this one simple trick."
+- "You might think the speed is fixed, but you can make it run faster with this one simple trick."
 
 Pinkie asks, "Oh, how?"
 
-I lift my head and turn to Pinkie and passionately kiss her. She kisses back and we hold the kiss for a minute.
+I lift my head, turn to Pinkie, and begin a passionate kiss. She closes her eyes, and we hold the kiss for about a minute.
 
-After laying my head back down, with both of us blushing, I say, "That's how."
+After laying my head back down, confirming that her heart rate has definitely gone up, I say, "That's how."
 
-Pinkie says, "I see."
+Pinkie says, "Huh? Oh, yes, your list...!"
 
 -  I roll over and face Pinkie, my head resting on her stomach. "There's a second even softer pillow if you don't want to hear the metronome."
 
 Pinkie nods.
 
-- I smile up at Pinkie. "This second pillow has the benefit of the view of the cutest pony in all Equestria."
+- I smile up at Pinkie. "This second pillow has an even better view of the cutest pony in all Equestria."
 
 Pinkie blushes. "I've got a pretty cute pony in my view too, you know."
 
@@ -194,7 +194,7 @@ Pinkie lights up with giggles and laughter.
 
 "Are you running out of stuff to say?"
 
-- "The room service is the best I've ever had. You can get a back massage, or just relax in quiet peace, or talk the receptionist's ear off."
+- "The room service is the best I've ever had. You can get a back massage, or talk the receptionist's ear off, or just relax in quiet peace."
 
 "I haven't heard you mention kissing yet."
 
@@ -220,13 +220,13 @@ Pinkie looks confused and asks, "It's not?"
 
 I smile up at her. "While you don't ask anything for letting me stay, I impose a cost of hosting the hotel for you in exchange. And I love paying that fee."
 
-"Oh, well then, I love paying it too."
+"Aw, that's so nice. Does that mean I'm rich now?"
 
 Pinkie leans down and we kiss. My heart flutters as I stare into her beautiful blue eyes. I wrap my hooves around her, holding her tight. Her face blushes as we break the kiss and I give her another little kiss on the cheek.
 
 "What did you want to say to me earlier?"
 
-"I love you. You took my silly little idea of us visiting a hotel when we cuddle and took it seriously and thought of all these things you like about it. Thank you."
+"I love you. You took my silly little idea of us visiting a hotel when we cuddle and took it seriously enough to think of all these things you like about it. Thank you."
 
 I reach up and wrap Pinkie in a hug. "Of course I'd take it seriously. You're just so creative and fun. I love you too."
 
@@ -290,11 +290,11 @@ My blush has consumed my face now. I know we've already hugged and kissed a lot,
 
 Pinkie hugs back.
 
-"You want to visit the hotel now?"
+I ask, "You want to visit my hotel now?"
 
 Pinkie nods.
 
-After the hug I lie down and open my front hooves for her. She lies down resting her head on my chest. Wrapping my hooves around her, I squeeze her gently.
+After the hug I lie down and open my front hooves for her. She lays her head down on my chest. Wrapping my hooves around her, I squeeze her gently.
 
 We lie there together in silence, both enjoying the presence of the other. I close my eyes and just take in the moment.
 
