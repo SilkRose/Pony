@@ -34,6 +34,8 @@ Twilight and Pinkie get transported into an RPG game in development. The two mus
 - Do blogs like FFF, and maybe have another friend write a section?
 - Last blog Sci-Twi mentions a cronjob she found? (explaining why the story happened, kinda)
 - Mention other games as inspiration?
+- EqG teacher is named Deep Cut. He's a woodworker trying to teach game dev. He's doing his best, but not cut out for it. (pun intended)
+- Deep Cut uses wood analogies to explain stuff. He brings in nicely made wood pieces for props.
 - 
 
 ## Chapters:
