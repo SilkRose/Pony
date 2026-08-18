@@ -294,7 +294,7 @@ I ask, "You want to visit my hotel now?"
 
 Pinkie nods.
 
-After the hug I lie down and open my front hooves for her. She lays her down down on my chest. Wrapping my hooves around her, I squeeze her gently.
+After the hug I lie down and open my front hooves for her. She lays her head down on my chest. Wrapping my hooves around her, I squeeze her gently.
 
 We lie there together in silence, both enjoying the presence of the other. I close my eyes and just take in the moment.
 
