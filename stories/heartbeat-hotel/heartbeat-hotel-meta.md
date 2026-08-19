@@ -16,6 +16,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
+Thanks to [Silver Arctic Wolf](https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf) for pre-reading.
+
 ## Short Description:
 Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more than happy to oblige.
 
