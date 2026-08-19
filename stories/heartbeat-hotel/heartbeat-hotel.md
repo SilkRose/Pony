@@ -4,7 +4,7 @@ My eyes scroll across the last few lines of the book I'm reading. I close the bo
 
 As I close my notes, too, I yawn, reminded of how late it is. Looking up at the clock, I realize it's the next day already.
 
-*I'm late to see Pinkie.*
+*I'm late to see Pinkie!*
 
 I'd failed to think of my best friend and lover, and that sends me into a panic. I'm supposed to sleep over at her place tonight. Thinking fast, I blow out the candle before checking over everything to make sure nothing was left out of place.
 
