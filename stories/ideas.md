@@ -547,13 +547,6 @@ Pinkie opens a silly stand where for one bit she will give you a silly idea. She
 
 ***
 
-## Front Page Blues
-
-### Synopsis:
-Rarity (as a filly) having her new dress designs make it to a fashion magazine for the first time and is ecstatic, but reaches disappointment when she fails to consistently make it in there.
-
-***
-
 ## Crème de la Cuddle
 
 ### Synopsis:
