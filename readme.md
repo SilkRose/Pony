@@ -100,9 +100,9 @@ A few of my stories have had translations made for them, I would like to thank t
 
 | Translator | Language | Original Story | Translated Story |
 | :---: | :---: | :---: | :---: |
-| **[volkov]** | Ukrainian | [The Heist of My Heart] | [Грабунок мого серця][The Heist of My Heart Ukrainian] |
 | **[Nova Twinkle]** | Simplified Chinese | [Pony Pillows] | [小马枕头][Pony Pillows Chinese] |
 | **[keezwus]** | Simplified Chinese | [The Pink Tax] | [粉红税][The Pink Tax Chinese]
+| **[Nova Twinkle]** | Simplified Chinese | [Catch me Fainting] | [接住昏倒的我][The Heist of My Heart Chinese] |
 
 ## Reviews:
 A few of my stories have had reviews made for them, I would like to thank the following ponies for reviewing my work:
@@ -294,13 +294,12 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Catch me Fainting reading two]: https://www.youtube.com/watch?v=nyMv2_2QzdU "YouTube"
 [Fleetfall reading]: https://www.youtube.com/watch?v=-syVXPk3qCM "YouTube"
 
-[volkov]: https://www.fimfiction.net/user/595939/volkov "Fimfiction"
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "Fimfiction"
 [keezwus]: https://fimtale.com/u/keezwus "FimTale"
 
-[The Heist of My Heart Ukrainian]: https://github.com/Vovkiv/The_Heist_of_My_Heart-ukr "GitHub"
 [Pony Pillows Chinese]: https://fimtale.com/t/57065 "FimTale"
 [The Pink Tax Chinese]: https://fimtale.com/t/54575 "FimTale"
+[The Heist of My Heart Chinese]: https://fimtale.com/t/91734 "FimTale"
 
 [The Heist of My Heart review]: https://www.fimfiction.net/group/217953/harmony-reviews/thread/544467/review-the-heist-of-my-heart-silk-rose "Fimfiction"
 [Love Licks review]: https://www.fimfiction.net/blog/1046983/fic-recs-august-10th "Fimfiction"
