@@ -16,6 +16,8 @@ Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofrea
 
 Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pre-reading.
 
+Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151/Nova+Twinkle), available [here](https://fimtale.com/t/91734).
+
 Now with a [reading](https://www.youtube.com/watch?v=WsXBgG9SnAQ) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
 Now with a second [reading](https://www.youtube.com/watch?v=nyMv2_2QzdU) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube").
