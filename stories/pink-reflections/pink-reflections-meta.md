@@ -20,8 +20,6 @@ Thanks to [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLone
 
 Thanks to [MATP](https://www.fimfiction.net/user/544735/MATP) for pre-reading.
 
-[Reviewed](https://www.fimfiction.net/blog/1135572/a-review-of-silk-roses-pink-reflections-written-at-his-behest) by [Hipponous](https://www.fimfiction.net/user/875988/Hipponous).
-
 ## Short Description:
 Pinkie Pie can't look her reflection in the eyes. Maybe her friends can.
 
