@@ -1,14 +1,14 @@
 # Front Page Blues
 
-Rarity flung the latest issue of Vanity Mare across the room with her magic. She laid in her bed with a frown occupying her muzzle. The magazine cover showed her latest dress adorning a pink mare, and the article inside even gave it great applause, but there was more to it.
+Rarity flung the latest issue of Vanity Mare across the room with her magic. She lay in her bed with a frown occupying her muzzle. The magazine cover showed her latest dress adorning a pink mare, and the article inside even gave it great applause, but there was more to it.
 
 "Why do they have to be so mean?" Rarity asked nopony.
 
-While there were plenty of praise for her latest creation, there were also those who mocked it. Ponies who disliked it without a care in the world for what went into it, or even what it meant to her.
+While there was plenty of praise for her latest creation, there were also those who mocked it. Ponies who disliked it without a care in the world for what went into it, or even what it meant to her.
 
 Her tears began to flow as she recalled their seething words. A bunch of malcontent mares with nothing better to do than complain.
 
-Rarity knew she shouldn't be letting it get her down, but reason sometimes comes to odds with creativity and passion. There were plenty of nice things said, even more than the negative, but it's hard to see the pleasantries from the poison.
+Rarity knew she shouldn't be letting it get her down, but reason sometimes came to odds with creativity and passion. There were plenty of nice things said, even more than the negative, but it was hard to see the pleasantries among the poison.
 
 Sighing as she wiped away more tears, Rarity heard a knock at her door.
 
@@ -18,7 +18,7 @@ Trying to make herself look more presentable, she quickly *fixed* her mane and t
 
 Pinkie stared back, a worried expression on her face. "What's going on it there? Are you alright?"
 
-Thinking for a moment, Rarity signaled for her to follow with a head nod. The two made their way to the bed where Rarity laid back down, and Pinkie sat next to her.
+Thinking for a moment, Rarity signaled for her to follow with a nod. The two made their way to the bed where Rarity lay back down, and Pinkie sat next to her.
 
 "No, I'm not alright."
 
@@ -70,7 +70,7 @@ A tinge of blush returned to Rarity's face.
 
 "Rarity has outdone herself once again, this is just wow!"
 
-Pinkie spun around and laid down next to Rarity, showing her the inside of the magazine.
+Pinkie spun around and lay down next to Rarity, showing her the inside of the magazine.
 
 "I need this dress in my life, where can I buy one for me and my husband?"
 
@@ -92,7 +92,7 @@ Pinkie blushed. "I was coming over to tell you about my feelings…"
 
 Rarity regained composure and apologized. "I'm sorry I didn't see your compliment past the complaints."
 
-Pinkie apologized in return. "I'm sorry those ponies said those mean things about your dress. I wanted to say something when I gave them my statement to Vanity Mare, but I figured if I caused a scene, they'd remove my words, or worse remove your dress."
+Pinkie apologized in return. "I'm sorry those ponies said those mean things about your dress. I wanted to say something when I gave them my statement to Vanity Mare, but I figured if I caused a scene, they'd remove my words, or worse, remove your dress."
 
 Rarity held Pinkie tight. "Thank you, darling."
 
@@ -100,17 +100,17 @@ Pinkie hugged back. "I know how hard it is to make something and see ponies put 
 
 "If they aren't being constructive, you shouldn't give them any of your worry. Just like I need to stop worrying about what some silly ponies think of my dress."
 
-After the hug, Pinkie offered her hoof to Rarity. "So, what do you say, will you go out with me?"
+After the hug, Pinkie offered her hoof to Rarity. "So, what do you say? Will you go out with me?"
 
 Rarity took her hoof and held it with a smile. "Yes, darling."
 
-Both mares blushed and they laid silently together, enjoying the moment.
+Both mares blushed and they lay silently together, enjoying the moment.
 
 Pinkie looked over at Rarity and giggled. "Did you notice who was the model on the cover?"
 
 "Oh, no." Rarity levitated the issue of Vanity Mare back up off the bed and held it above them.
 
-Wearing Rarity's beautiful dress was a pink mare, the one laying right next to her.
+Wearing Rarity's beautiful dress was a pink mare, the one lying right next to her.
 
 "Oh, darling, you look so beautiful in it. How could I have not noticed it was you…" Tears started to well in her eyes. "I'm so sorry."
 
