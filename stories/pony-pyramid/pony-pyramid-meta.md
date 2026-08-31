@@ -8,6 +8,8 @@ Pinkie Pie unveils her newest idea: a Pony Pyramid! With it, her and her friends
 
 Written in collaboration with [Shay492](https://www.fimfiction.net/user/840747/Shay492).
 
+Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading and helping with ideas.
 
 ## Short Description:
@@ -41,4 +43,4 @@ Pinkie Pie starts a not pyramid scheme. Twilight insists otherwise.
 [Pony Pyramid](./pony-pyramid.md)
 
 ## Cover:
-![cover](./pony-pyramid-cover-upscaled.png)
+![cover](./pony-pyramid-cover-2.png)
