@@ -4,33 +4,33 @@ Fluttershy stood over her garden, she had just finished weeding and was admiring
 
 Fluttershy asked, "Hello there critter, what's your name?"
 
-the sloth answered, practically in slow motion, "Lola."
+the sloth answered, practically in slow motion, "I'm Lola."
 
 "It's a pleasure to meet you Lola. Can I help you with something?"
 
-"Food."
+"I would like some food."
 
 "Oh, I can definitely help with that. Do you want to come with me in my cottage and I can get you a big plate of leafy greens?"
 
-"Sure."
+"That sounds great."
 
 Lola let go of her leg and started to follow her. Unfortunately she was a lot slower than Fluttershy.
 
 "Do you want me to carry you in?"
 
-"Yes."
+She nodded. "Yes."
 
 Fluttershy picked up Lola and carried her gently inside. She sat Lola down at her dinning table and began preparing a plate of food for her.
 
-Lola explained, "I know I talk slow for ponies, so I say short sentences."
+Lola said, "Thank you for your kindness."
 
 Fluttershy had prepared the plate and set it in front of her before she even finished her sentence.
 
-"I understand. What brought you to Ponyville?"
+"You're welcome. What brought you to Ponyville?"
 
-"Big party for animals."
+"I heard about a big party the town throws for pets and animals."
 
-It takes Fluttershy a bit to understand, she finally realizes Lola is talking about a celebration the town held two months ago for all the pets in town. "That was over two months ago, you missed it."
+Thinking for a second, Fluttershy realized what she was referring to. "You mean the annual Ponyville Pet Party. That was over two months ago, you missed it."
 
 Lola frowned. "I miss every party."
 
