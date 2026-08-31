@@ -6,6 +6,8 @@ Rarity (as a filly) having her new dress designs make it to a fashion magazine f
 ## Description:
 Rarity's dresses never cease to amaze ponies, each one of them stunning and beautiful in their own right. She almost always makes the front page of at least one magazine with them. So, after her latest dress gets featured in the number one magazine in Equestria, why is she crying in her bed?
 
+Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading.
 
 ## Short Description:
