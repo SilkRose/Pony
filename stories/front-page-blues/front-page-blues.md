@@ -1,6 +1,6 @@
 # Front Page Blues
 
-Rarity flung the latest issue of Vanity Mare across the room with her magic. She lay in her bed with a frown occupying her muzzle. The magazine cover showed her latest dress adorning a pink mare, and the article inside even gave it great applause, but there was more to it.
+The latest issue of Vanity Mare showcased Rarity's latest dress adorning a pink mare. Rarity flung it across the room with her magic, and lay in bed with a frown occupying her muzzle.
 
 "Why do they have to be so mean?" Rarity asked nopony.
 
@@ -14,7 +14,7 @@ Sighing as she wiped away more tears, Rarity heard a knock at her door.
 
 "Rarity, are you in there? It sounded like somepony was crying."
 
-Trying to make herself look more presentable, she quickly *fixed* her mane and threw on a bathrobe before trotting to the door and opening it. "Hello, darling."
+Trying to make herself look more presentable, she quickly fixed her mane and threw on a bathrobe before trotting to the door and opening it. "Hello, darling."
 
 Pinkie stared back, a worried expression on her face. "What's going on in there? Are you alright?"
 
@@ -110,7 +110,7 @@ Pinkie looked over at Rarity and giggled. "Did you notice who was the model on t
 
 "Oh, no." Rarity levitated the issue of Vanity Mare back up off the bed and held it above them.
 
-Wearing Rarity's beautiful dress was a pink mare, the one lying right next to her.
+Wearing Rarity's beautiful dress was a pink mare. Though her hair was done up, her eyes shadowed, and the stark lighting disguised her silhouette, there was no mistaking the mare next to her.
 
 "Oh, darling, you look so beautiful in it. How could I have not noticed it was you…" Tears started to well in her eyes. "I'm so sorry."
 
