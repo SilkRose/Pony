@@ -36,6 +36,9 @@ Twilight and Pinkie get transported into an RPG game in development. The two mus
 - Mention other games as inspiration?
 - EqG teacher is named Deep Cut. He's a woodworker trying to teach game dev. He's doing his best, but not cut out for it. (pun intended)
 - Deep Cut uses wood analogies to explain stuff. He brings in nicely made wood pieces for props.
+- Prof. Sawhorse could be a better teacher name. (Suggested by Pseudobob.)
+- Later in the story when Twilight is really annoyed or mad at Pinkie she gives her a sweet that teleports her to the start of the dungeon. She immediately regrets it.
+- Pinkie is the party leader once parties are in the game.
 - 
 
 ## Chapters:
