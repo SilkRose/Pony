@@ -39,6 +39,11 @@ Twilight and Pinkie get transported into an RPG game in development. The two mus
 - Prof. Sawhorse could be a better teacher name. (Suggested by Pseudobob.)
 - Later in the story when Twilight is really annoyed or mad at Pinkie she gives her a sweet that teleports her to the start of the dungeon. She immediately regrets it.
 - Pinkie is the party leader once parties are in the game.
+- Game name ideas:
+  - Dessert Delve
+  - Dungeons & Desserts
+  - Dessert Dungeon
+  - Desserted Dungeon
 - 
 
 ## Chapters:
