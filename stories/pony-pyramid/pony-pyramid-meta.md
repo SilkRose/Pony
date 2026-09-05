@@ -10,6 +10,8 @@ Written in collaboration with [Shay492](https://www.fimfiction.net/user/840747/S
 
 Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
 
+Thanks to [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) for proofreading.
+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading and helping with ideas.
 
 ## Short Description:
