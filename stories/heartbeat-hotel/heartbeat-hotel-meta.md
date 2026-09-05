@@ -20,6 +20,8 @@ Thanks to [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz) for pr
 
 Thanks to [Silver Arctic Wolf](https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf) for pre-reading.
 
+Now with a [reading](https://www.youtube.com/watch?v=uYxNVLYlnLk) done by [The Mystery Fluttershy Fan](https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan).
+
 ## Short Description:
 Twilight wants to visit the Heartbeat Hotel after a long day. Pinkie is more than happy to oblige.
 
