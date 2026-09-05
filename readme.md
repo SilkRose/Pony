@@ -94,6 +94,7 @@ A few of my stories have had readings made for them, I would like to thank the f
 | **[Lotus Moon]** | [Catch me Fainting] | [YouTube][Catch me Fainting reading one] |
 | **[Rainbow Infinity Readings]** | [Catch me Fainting] | [YouTube][Catch me Fainting reading two] |
 | **[Rainbow Infinity Readings]** | [Fleetfall] | [YouTube][Fleetfall reading] |
+| **[The Mystery Fluttershy Fan]** | [Heartbeat Hotel] | [YouTube][Heartbeat Hotel reading] |
 
 ## Translations:
 A few of my stories have had translations made for them, I would like to thank the following ponies for doing translations of my work:
@@ -292,6 +293,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Catch me Fainting reading one]: https://www.youtube.com/watch?v=WsXBgG9SnAQ "YouTube"
 [Catch me Fainting reading two]: https://www.youtube.com/watch?v=nyMv2_2QzdU "YouTube"
 [Fleetfall reading]: https://www.youtube.com/watch?v=-syVXPk3qCM "YouTube"
+[Heartbeat Hotel reading]: https://www.youtube.com/watch?v=uYxNVLYlnLk "YouTube"
 
 [Nova Twinkle]: https://www.fimfiction.net/user/298151/Nova+Twinkle "Fimfiction"
 [keezwus]: https://fimtale.com/u/keezwus "FimTale"
@@ -335,6 +337,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pink Reflections]: https://www.fimfiction.net/story/579531/pink-reflections "Fimfiction"
 [Catch me Fainting]: https://www.fimfiction.net/story/585538/catch-me-fainting "Fimfiction"
 [Fleetfall]: https://www.fimfiction.net/story/591113/fleetfall "Fimfiction"
+[Heartbeat Hotel]: https://www.fimfiction.net/story/593999/heartbeat-hotel "Fimfiction"
 
 [The Saddest Rainbow]: ./flash-fiction/the-saddest-rainbow.md
 
