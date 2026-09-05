@@ -1,14 +1,16 @@
 # Pony Pyramid
 
-Twilight rushes over to Sugarcube Corner without even a minute to sort out her bed mane. Starting her morning with an urgent summons to Pinkie Pie’s bedroom meant she had no time to waste. As soon as she reaches the bakery, she teleports upstairs to save precious minutes and knocks on Pinkie’s door. “I’m here Pinkie!” She knocks again and hears a squeaking noise, having missed the door opening. Her hoof was now caught in Pinkie’s mane.
+Twilight rushes over to Sugarcube Corner without even a minute to sort out her bed mane. Starting her morning with an urgent summons to Pinkie Pie’s bedroom meant she had no time to waste. As soon as she reaches the bakery, she teleports upstairs to save precious minutes and knocks on Pinkie’s door. “I’m here, Pinkie!” She knocks again and hears a squeaking noise, having missed the door opening. Her hoof was now caught in Pinkie’s mane.
 
 “Hi Twilight!” Pinkie pulls the panicking pony into her pad promptly.
 
-Inside, Twilight finds the rest of her friends already present and gathered in a circle around an easel. On it is a pad of paper, with the first page reading, ‘Pinkie’s Super Duper Friend Making Business Plan.’ Pinkie pushes her along to her designated seat between Rarity and Applejack. 
+Inside, Twilight finds the rest of her friends already present and gathered in a circle around an easel. On it is a pad of paper, with the first page reading: ‘Pinkie’s Super Duper Friend Making Business Plan.’ Pinkie pushes her along to her designated seat between Rarity and Applejack. 
 
-Rarity gasps, “My word Twilight! What happened to your poor mane?”
+Rarity gasps, “My word, Twilight! What happened to your poor mane?”
 
-Twilight sighs sharply, “I just got out of bed.” She considers if rushing so hard was a mistake, then considers she was still the last one to arrive. Pinkie zips back to her to put a cupcake and cup of juice in her hooves, then zaps over to the easel. Twilight asks Rarity, “Do you know what Pinkie wanted us to get here so early for?” Rarity opens her mouth to answer but gets a nudge from Rainbow, letting her know, “Shh, she’s starting!”
+Twilight sighs sharply, “I just got out of bed.” She considers if rushing so hard was a mistake, then considers she was still the last one to arrive. Pinkie zips back to her to put a cupcake and cup of juice in her hooves, then zaps over to the easel. Twilight asks Rarity, “Do you know what Pinkie wanted us to get here so early for?”
+
+Rarity opens her mouth to answer but gets a nudge from Rainbow, letting her know, “Shh, she’s starting!”
 
 With everypony sitting down and ready for her presentation, Pinkie points to the pad of paper resting on the easel. “Good morning, everypony! My name is Pinkie Pie, and I’m here to present my super duper proposal for how we can make as many friends as possible!” 
 
@@ -18,9 +20,9 @@ Pinkie points to her and asks, “Pretty please save all questions to the end.�
 
 Twilight lowers her hoof.
 
-Pinkie moves to the next paper, with ‘What Is A Friend?’ written on it. “So, what *is* a friend? A question that has stumped pony kind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
+Pinkie moves to the next paper, with ‘What Is A Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
 
-Pinkie presents the next page, labeled, ‘Friend of A Friend’. “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if they have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend! Then, by transitive property, we proved mathmagically, a friend of a friend is also *your* friend!” 
+Pinkie presents the next page, labeled, ‘Friend of A Friend’. “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if they have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend! Then, by the transitive property, we have proven mathmagically, a friend of a friend is also *your* friend!” 
 
 Twilight raises her hoof in vain once more. Pinkie moves on. Twilight lowers it.
 
@@ -44,11 +46,11 @@ Twilight rolls her eyes. “Do you know what a pyramid scheme is?”
 
 Pinkie answers, “Well, duh. Everypony knows what they are. They’re scams run by bad ponies.”
 
-Twilight facehoofs. “Do you know how they work I mean?”
+Twilight facehoofs. “Do you know how they work, I mean?”
 
 Pinkie ponders for a second. “No, not really.”
 
-“A pyramid scheme is where one pony recruits two and those two recruit two more and so on to a group. Each member has to pay dues up the chain and each level takes a cut. So the ponies at the bottom never make any money while the ponies at the top get rich quick.”
+“A pyramid scheme is where one pony recruits some ponies, and those ponies recruit more ponies, and so on. Each member has to pay dues up the chain, and each level takes a cut. So the ponies at the bottom never never make any money while the ponies at the top get rich quick.”
 
 Pinkie retorts, “That doesn’t sound anything like what I’m doing.”
 
@@ -102,7 +104,7 @@ Cheerilee says, “You know I actually saw your friends earlier running around t
 
 Twilight is baffled. “They’re still in that pyramid?”
 
-“Triange.”
+“Triangle.”
 
 Twilight facehoofs. “Whatever.”
 
@@ -110,7 +112,7 @@ Twilight facehoofs. “Whatever.”
 
 Twilight sighs. “Goodbye.”
 
-Cheerilee runs off to go totally not join the pyramid-triange scheme.
+Cheerilee runs off to go totally not join the pyramid-triangle scheme.
 
 Twilight slowly trots out of the schoolhouse and back towards home. Maybe she was wrong. Maybe it wasn’t a pyramid scheme. Maybe Pinkie had a point to her triangle.
 
@@ -206,7 +208,7 @@ Bon-Bon calls up to Lyra, who calls up to Diamond Tiara, who calls up to another
 
 Twilight shakes her head with a wing pressed to her temple. She then realizes the obvious. She flies up to give the presentation directly to Pinkie Pie. “Oh, hey Twilight! Sorry about your beds.”
 
-“It’s not important.” Twilight holds up her idea. “If you’re all so set on this Pony Pyramid, I want to make an addition that can help the library. If everypony in the pyramid signs up for a library card, and then asks their friends to sign up and ask other ponies to sign up, we’d be able to spread reading to more and more ponies” 
+“It’s not important.” Twilight holds up her idea. “If you’re all so set on this Pony Pyramid, I want to make an addition that can help the library. If everypony in the pyramid signs up for a library card, and then asks their friends to sign up and ask other ponies to sign up, we’d be able to spread reading to more and more ponies.”
 
 Pinkie nods along until Twilight adds, “I’ll even forgive late fees for ponies who bring in at least three new readers.”
 
