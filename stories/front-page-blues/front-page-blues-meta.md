@@ -8,6 +8,8 @@ Rarity's dresses never cease to amaze ponies, each one of them stunning and beau
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading.
 
 ## Short Description:
