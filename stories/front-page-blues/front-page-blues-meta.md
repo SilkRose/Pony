@@ -33,3 +33,4 @@ Rarity's dresses almost always make it onto the front page of a magazine. So, wh
 [Front Page Blues](./front-page-blues.md)
 
 ## Cover:
+![cover](./front-page-blues-cover-upscaled.png)
