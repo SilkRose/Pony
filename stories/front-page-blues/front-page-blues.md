@@ -1,4 +1,4 @@
-# Front-Page Blues ["Front Page" functions as a compound modifier of "Blues", and compound modifiers are commonly hyphenated]
+# Front-Page Blues
 
 The latest issue of Vanity Mare showcased Rarity's latest dress adorning a pink mare. Rarity flung it across the room with her magic, and lay in bed with a frown occupying her muzzle.
 
@@ -8,7 +8,7 @@ While there was plenty of praise for her latest creation, there were also those 
 
 Her tears began to flow as she recalled their scathing words. A bunch of malcontent mares with nothing better to do than complain.
 
-Rarity knew she shouldn't be letting it get her down, but reason was sometimes at odds with [this blends two extant idioms: "be at odds with" and "come into conflict with". Pick either] creativity and passion. There were plenty of nice things said - even more positive comments than negative ones - ["even more than the negative" constructs a grammatically uneven comparison between plural countable "nice things" and a nominalised (substantivated) abstraction "the negative"; the proposed amelioration is but one possible] but it was hard to see the pleasantries among the poison.
+Rarity knew she shouldn't be letting it get her down, but reason would sometimes be at odds with creativity and passion. There were plenty of nice things said - even more positive comments than negative ones - but it was hard to see the pleasantries among the poison.
 
 Sighing as she wiped away more tears, Rarity heard a knock at her door.
 
@@ -18,7 +18,7 @@ Trying to make herself look more presentable, she quickly fixed her mane and thr
 
 Pinkie stared back, a worried expression on her face. "What's going on in there? Are you alright?"
 
-Thinking for a moment, Rarity nodded for her to follow. [your version is grammatically correct; I merely thought I'd be able to offer a smoother alternative] The two made their way to the bed where Rarity lay back down, and Pinkie sat next to her.
+Thinking for a moment, Rarity nodded for her to follow. The two made their way to the bed where Rarity lay back down, and Pinkie sat next to her.
 
 "No, I'm not alright."
 
@@ -38,7 +38,7 @@ Pinkie pointed at the cover. "Is this your dress?"
 
 "Yes."
 
-Pinkie marveled. [intransitive usage of "wow" is highly nonstandard] "It's beautiful."
+Pinkie marveled. "It's beautiful."
 
 Rarity blushed. "Thank you, darling."
 
@@ -64,25 +64,25 @@ Rarity smiled back.
 
 Pinkie opened the magazine and read the nice things in it to Rarity.
 
-"This dress is so beautiful; I need it right now." [comma splice]
+"This dress is so beautiful; I need it right now."
 
-A tinge of blush returned to Rarity's face.
+A small blush returned to Rarity's face.
 
-"Rarity has outdone herself once again. This is just wow!" [comma splice]
+"Rarity has outdone herself once again. This is just wow!"
 
 Pinkie spun around and lay down next to Rarity, showing her the inside of the magazine.
 
-"I need this dress in my life! Where can I buy one for me and my husband?" [comma splice]
+"I need this dress in my life! Where can I buy one for me and my husband?"
 
 The two snickered together. Rarity took the issue in her magic so Pinkie could point with her hooves.
 
-"The level of care and attention put into this dress is like none other." ["care and attention" are plural. You could, alternatively, go for something like "the care and attention put into this dress are unmatched"]
+"The level of care and attention put into this dress are unmatched."
 
 Pinkie pointed at another one.
 
 "This dress is almost as cute and pretty as the pony who made it!"
 
-Rarity blushed deeply. "Do I have a secret admirer?" [full-on is misspelled, and an adjective incorrectly used adverbially besides]
+Rarity blushed deeply. "Do I have a secret admirer?"
 
 Pinkie pointed at the name attached to the quote. "I don't think they're so secret."
 
@@ -114,7 +114,7 @@ Wearing Rarity's beautiful dress was a pink mare. Though her hair was done up, h
 
 "Oh, darling, you look so beautiful in it. How could I not have noticed it was you…" Tears started to well in her eyes. "I'm so sorry."
 
-Pinkie just smiled. "Oh, it's alright. You were just a little too worried about the feedback." [comma splice]
+Pinkie just smiled. "Oh, it's alright. You were just a little too worried about the feedback."
 
 Rarity wrapped Pinkie in another hug. "I think you've got a lot of work ahead of you."
 
