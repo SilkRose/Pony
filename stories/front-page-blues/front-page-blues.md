@@ -14,7 +14,7 @@ Sighing as she wiped away more tears, Rarity heard a knock at her door.
 
 "Rarity, are you in there? It sounded like somepony was crying."
 
-Trying to make herself look more presentable, she quickly fixed her mane and threw on a bathrobe before trotting to the door and opening it. "Hello, darling."
+Trying to make herself look more presentable, she quickly fixed her mane and threw on a bathrobe and slippers before trotting to the door and opening it. "Hello, darling."
 
 Pinkie stared back, a worried expression on her face. "What's going on in there? Are you alright?"
 
@@ -66,7 +66,7 @@ Pinkie opened the magazine and read the nice things in it to Rarity.
 
 "This dress is so beautiful; I need it right now."
 
-A small blush returned to Rarity's face.
+A tinge of blush returned to Rarity's face.
 
 "Rarity has outdone herself once again. This is just wow!"
 
