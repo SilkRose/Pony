@@ -184,3 +184,5 @@ This file contains random story names that don't have enough thought to have the
 - Horse Code
 - Absocutely
 - Closure and Cuddles
+- felt cute, might delete later
+- Double Blind Date
