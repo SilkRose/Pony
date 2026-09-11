@@ -114,3 +114,33 @@ The lower right terminal showed a successful connection into the local governmen
 
 *Gummy, the perfect fall gator.*
 
+She rolled left as she established a reverse proxy from the mainframe to Pinkie's household IP address.
+
+*Now all the requests I send will appear as if they are coming from the pink one's house.*
+
+Rolling the other direction, she connected to the database instance running on the government's systems.
+
+*Now to edit the logs from Rarity's IP to the gator.*
+
+She pawed keys randomly, executing a mass SQL statement to find every instance of her IP with the one from Pinkie's house.
+
+*Time for the main attack.*
+
+She pressed enter on the keyboard and watched as hundreds of lines spewed from the bottom right terminal. Each one a different request being sent as if it were coming from Pinkie's house.
+
+Each request hitting different endpoints and websites run by the government.
+
+*How do you like being DDOS'd by your own computers?*
+
+Opal smiled to herself.
+
+After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network, it was Rarity's phone.
+
+*Why is she back so soon. Better clean up before I get caught.*
+
+With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command line tools terminated. And the terminals closed. She shut down the computer and hopped over to Fluttershy's bed.
+
+Mere moments later, Fluttershy opened her door with Rarity in tow.
+
+***
+
