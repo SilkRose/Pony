@@ -14,11 +14,11 @@ Opal had been watching the whole thing, she was sat on a chair at the table. She
 
 Fluttershy petted Opal after she finished cleaning the counter.
 
-Rarity turned it on as she read the setup instructions. "It says to connect it to to the internet, we need to connect to its WiFi and tell it what my home network and password are"
+Rarity turned it on as she read the setup instructions. "It says to connect it to to the internet, we need to connect to its WiFi and tell it what my home network and password are."
 
 Fluttershy pulled out her phone and started to do as Rarity instructed.
 
-After a minute or two of typing in the wrong password, Fluttershy finally got it connected. It's hard to type with hooves.
+After a minute or two of typing in the wrong password, Fluttershy finally got it connected.
 
 *How hard is it to type 'Opalescence_123'?* Opal thought.
 
@@ -65,4 +65,52 @@ Fluttershy started to pet Opal.
 "Let's have coffee, then."
 
 ***
+
+Rarity handed Fluttershy the cat carrier containing Opal. "Thank you so much darling for watching Opal. I'll be back as soon as I can."
+
+Fluttershy took the carrier and set it down before letting Opal out. "It's no problem, I love watching her."
+
+Opal meowed and walked away from them.
+
+Rarity soon left and Fluttershy turned her attention to Opal. "Do you want anything to eat or drink?"
+
+Opal meowed, "I'm good."
+
+"Okay, just let me know if there is anything I can do for you."
+
+Opal knew exactly what she wanted. "Can I roll around on your computer keyboard?"
+
+Fluttershy giggled. "You really like keyboards, don't you?"
+
+"A little…"
+
+"Just make sure the computer is off like the previous times."
+
+Opal nodded as Fluttershy takes her to her bedroom. She let Opal in the room before closing the door and going back to check on the other animals.
+
+She made her way to the computer and checked to make sure it was on. After the computer woke up from sleep, she flopped on the keyboard and starts rolling around.
+
+This unintended stay at Fluttershy's was the perfect opportunity for her. She couldn't hack the government from Rarity's computer, they were already onto her. She needed a fresh computer.
+
+Several terminals opened on the screen as she typed in command after command. She was preparing for a massive operation.
+
+*I need to get the heat off of me and onto someone else.*
+
+Contorting her body over the keyboard, she entered a command. The upper left terminal showed a map with markers for every one of her owner's friends pets.
+
+*But who deserves it the most?*
+
+The upper right terminal showed a list of active government agents in her area.
+
+*Twilight's dog is a no go. Twilight gives good pats.*
+
+The lower left terminal showed the list of every device on the same network as Fluttershy's computer.
+
+*Definitely not Angel. What's the saying, 'Don't eat in your litter box.' This place is practically my second home, after all.*
+
+The lower right terminal showed a successful connection into the local government's mainframe system.
+
+*Aha, the pink one, she has a baby alligator. Whenever I'm over there he just stares forward. I don't think I've ever seen him move. An easy target indeed.*
+
+*Gummy, the perfect fall gator.*
 
