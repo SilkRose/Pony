@@ -25,4 +25,6 @@ Rarity's cat Opal is really good at hacking. (EqG)
 ## Story:
 [Script Kitty](./script-kitty.md)
 
+[Script Kitty Bloopers](./script-kitty-bloopers.md)
+
 ## Cover:
