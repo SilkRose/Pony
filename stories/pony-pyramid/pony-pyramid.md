@@ -8,11 +8,11 @@ Inside, Twilight finds the rest of her friends already present and gathered in a
 
 Rarity gasps, “My word, Twilight! What happened to your poor mane?”
 
-Twilight sighs sharply, “I just got out of bed.” She considers if rushing so hard was a mistake, then considers she was still the last one to arrive. Pinkie zips back to her to put a cupcake and cup of juice in her hooves, then zaps over to the easel. Twilight asks Rarity, “Do you know what Pinkie wanted us to get here so early for?”
+Twilight sighs sharply, “I just got out of bed.” She wonders if rushing so hard was a mistake, then considers she was still the last one to arrive. Pinkie zips back to her to put a cupcake and cup of juice in her hooves, then zaps over to the easel. Twilight mumbles to Rarity, “Why did we have to get here so early?”
 
-Rarity opens her mouth to answer but gets a nudge from Rainbow, letting her know, “Shh, she’s starting!”
+Rarity opens her mouth to answer but gets a nudge from Rainbow, letting her know, “Shh, she’s starting!” Everypony else sits on their cushions, so Twilight follows suit.
 
-With everypony sitting down and ready for her presentation, Pinkie points to the pad of paper resting on the easel. “Good morning, everypony! My name is Pinkie Pie, and I’m here to present my super duper proposal for how we can make as many friends as possible!” 
+With everypony presently planting their posterior to prepare for the pending presentation, Pinkie points to the pad of paper pinned to the... easel. “Good morning, everypony! My name is Pinkie Pie, and I’m here to present my super duper proposal for how we can make as many friends as possible!” 
 
 Twilight raises a hoof.
 
@@ -20,17 +20,17 @@ Pinkie points to her and asks, “Pretty please save all questions to the end.�
 
 Twilight lowers her hoof.
 
-Pinkie moves to the next paper, with ‘What Is A Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
+Pinkie flips to the next paper, with ‘What Is A Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
 
-Pinkie presents the next page, labeled, ‘Friend of A Friend’. “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if they have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend! Then, by the transitive property, we have proven mathmagically, a friend of a friend is also *your* friend!” 
+Pinkie presents the next page, labeled, ‘Friend of A Friend’. “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if *they* have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend, and if your friend trusts them, well, you'd trust them, too! Then, by the transitive property, as we have proven mathemagically, a friend of your friend is also *your* friend!” 
 
 Twilight raises her hoof in vain once more. Pinkie moves on. Twilight lowers it.
 
-The next page is a diagram showing a pony at the top, the other five ponies in the room below her, and many other ponies below them becoming little dots on the paper, with everypony connected to one another. “That all brings us toooooo –” Pinkie does a trumpet sound by putting a hoof to her mouth. “– The Pony Pyramid!™” The title on top of the diagram now makes sense.
+The next page is a diagram showing a pink pony at the top, the other five ponies in the room below her, and many other ponies below them becoming little dots on the paper, with every pony connected to the one above them. “That all brings us toooooo –” Pinkie does a trumpet sound by putting a hoof to her mouth. “– The Pony Pyramid!™”
 
 Cannons fill the room with confetti. 
 
-“Lookie here!” She points at the top. “I’m here, then all of you right under me, and all your friends under that, and then their friends under that. But like we showed before, that means *everypony* here is my friend! If I wanted more friends before, I would need to go out and find somepony I haven’t met yet and put together a party for them and cakes can only bake so fast, even for me. If instead, all of you went to make a friend, I would get five more friends in the same amount of time! And if all of your friends made a new friend, then we would all have double the friends!”
+“Lookie here!” She points at the top. “I’m here, then all of you are right under me, and all your friends under you, and then their friends under them. But like we showed before, we know *everypony* here is my friend! If I wanted more friends before, I would need to go out and find somepony I haven’t met yet and put together a party for them, with streamers and presents and cakes can only bake so fast, even for me. If instead, all of you went to make a friend, I would get five more friends in the same amount of time! And if all of your friends made a new friend, then we would all have double the friends!”
 
 The easel then shows the words, ‘Friendship Funds’. “Going out for bowling, having a yummy bite to eat, or watching a cool concert together; what do these all have in common? How about you?” She points a hoof to Gummy. “That’s right! They all cost bits. And good friends work together to help pay for fun times out. Even then, some really fun stuff is reeeaaallly pricey! That’s where the Pony Pyramid comes in! If every friend, and friend of a friend, and friend of a friend of a friend chip in even one bit, we would have almost infinite bits to spend on fun stuff! Perfect!” 
 
