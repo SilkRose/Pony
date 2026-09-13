@@ -29,3 +29,16 @@ Fluttershy grabbed another cup and switched them out. "I don't know."
 Opal stood up and walked into the other room.
 
 *Eh, I tried. Not my problem now.*
+
+## Null Character
+
+Gummy, Pinkie Pie's stuff animal baby alligator rested on Pinkie's bed in her bedroom. In front of him was his Pretty Pink Pony Princess Play Laptop™.
+
+He had been sat there all day where Pinkie had left him before going to school, but that was about to change.
+
+In an explosion of activity, federal agents broke through the windows and door to the room. They kept coming until the room was packed with every agent pointing their weapon at the suspicious gator plush.
+
+Gummy, the inanimate plush gator thought to himself, *What is law? Is it nothing more that moral judgments contrived into white and back. And what is law but a constant reminder that we're all only one bad mistake away from a life behind bars? And what of the poor gator plush? Not subject to these laws but still finds himself with weapons drawn on him.*
+
+## `cat opal &>/dev/null`
+
