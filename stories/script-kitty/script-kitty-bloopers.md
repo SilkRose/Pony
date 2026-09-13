@@ -32,7 +32,7 @@ Opal stood up and walked into the other room.
 
 ## Null Character
 
-Gummy, Pinkie Pie's stuff animal baby alligator rested on Pinkie's bed in her bedroom. In front of him was his Pretty Pink Pony Princess Play Laptop™.
+Gummy, Pinkie Pie's stuffed animal baby alligator rested on Pinkie's bed in her bedroom. In front of him was his Pretty Pink Pony Princess Play Laptop™.
 
 He had been sat there all day where Pinkie had left him before going to school, but that was about to change.
 
@@ -42,3 +42,6 @@ Gummy, the inanimate plush gator thought to himself, *What is law? Is it nothing
 
 ## `cat opal &>/dev/null`
 
+Fluttershy finished taking a sip of her coffee and set her mug down. "Thank you Rarity for the extra keyboard. It really helps when I'm watching Opal."
+
+"You're welcome, darling. She loves rolling around on keyboards for some reason. I had to start leaving mine unplugged, but eventually I just left a second one unplugged on top my desk to keep her happy."
