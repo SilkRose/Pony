@@ -151,3 +151,120 @@ Mere moments later, Fluttershy opened her door and entered with Rarity in tow.
 
 ***
 
+Rarity sat Opal's cat carrier down and opened it up. Opal came out of said carrier and looked around.
+
+All of Rarity's friends were here in the school's band room. Today was bring your pet to school day. The other pets there were Spike, Winona, and Angel.
+
+*No Gummy in sight. The feds must have got him.*
+
+Rarity petted Opal. "You be a good girl for me and play nice with the other pets, okay."
+
+Opal meowed. *We'll see.*
+
+"We'll be back after our first class, then we can play together."
+
+The bell rang, signalling the start of school. Everyone said to goodbye to their pet and left the room.
+
+*Lets see what there is to do in this room.*
+
+Opal explored the room, ignoring the other pets. All the band instruments were present: drums, guitars, mics, and even a grand piano.
+
+Behind the piano she found something that put a smile on her face: a computer.
+
+Looking around, she made sure none of the other pets were around before she jumped up on the desk.
+
+Nudging the mouse, the computer woke up and the screen turned on. She laid on the keyboard opening a terminal to check out the school's intranet.
+
+Scanning for computers on the network she finds hundreds of devices: every PC in the computer lab, every teacher's PC, the administrator's PCs, every student's phone that was left on, and every wireless access point.
+
+Seeing all these devices gives her an idea.
+
+*I could do a truly magnificent hack if I harness the power of all these wireless transceivers.*
+
+She started coding a worm, a self replicating virus to infect every device on the network.
+
+*Let's make this worm smart.*
+
+She hosted a server from the computer she's using in another terminal, that way whenever she updated the worm every infected and newly added device to the botnet would use the latest version.
+
+Pawing at more keys, she added code to the worm to get the devices global position in the school.
+
+*That'll be important later.*
+
+Next she added the ability to send radio waves from every device's wireless antenna.
+
+*Now to synchronize transmission… We'll need a receiver for that…*
+
+Checking the list of devices again, she saw one named *FlagPoleIOT*.
+
+Hacking into said device, she poked around before discovering it controlled the position of the flag on the flagpole out front of the school.
+
+*Bingo.*
+
+Flopping on the keyboard some more, she rerouted the controls for the flagpole so it short-circuited, grounding the pole itself to the motor control, turning it into one big receiving antenna.
+
+*Now to synchronize.*
+
+She updated the worm to send out pulses from each device to be received by the flagpole. Once she had the sample data from each device, she updated the worm again to phase shift each device's signal so every device would send their radio waves in phase together.
+
+*Now that we can sync, we need to be able to pick a GPS location.*
+
+Doing some quick math coding, she added the ability for the worm to target locations using beam forming. Here code already did beam forming to sync the phase of the signals, but this new one was per device to send the signal in the right direction.
+
+*Now to pull it all together.*
+
+She opened another terminal, setting this one to print out any response received from the flag pole antenna.
+
+The final thing she added to the worm was a way for her to send out messages for all the devices to broadcast over their radio transceivers.
+
+The worm was set to replicate on any device on the school's intranet and any device with a wireless antenna would broadcast the messages she sent out.
+
+Wriggling on the keyboard, she deployed the worm and watched as it infected over a thousand devices in a matter of minutes.
+
+After waiting for the worm to spread, she sent out a test message targeting the flagpole. Mere seconds later that same message printed in her terminal.
+
+*But who to target?*
+
+She remembered her owner and her friends talking about an alternate world that was through a portal in the statue out front of the school.
+
+*Would there even be a device to hack on the other side? Would the radio waves even go through the portal?*
+
+*I guess it wouldn't hurt to try.*
+
+Aiming for the portal, she sent 'echo' as the message on a sweep of the frequencies from 1 megahertz to 10 megahertz.
+
+After a few minutes the sweep completed and a second later she got a response as 'echo' printed in the terminal with the responding frequency of 7.669 megahertz.
+
+*Found something.*
+
+She sent another test command: 'help'.
+
+Conveniently, it sent back a help menu. Most of the commands it could do were useless, but a few peaked her interest.
+
+- 'move-to – move to a given GPS location'
+- 'move-by – move in a direction by steps'
+- 'fetch – fetch and obtain given object'
+
+*That should be all I need to get it through the portal, but what could it bring me…*
+
+After a second of though another smile crossed her lips. She pawed the keyboard before send another command.
+
+After waiting ten minutes, she received a response: 'found'.
+
+*Now to get it here.*
+
+She used the echo command and it's own transceiver to locate its position relative to the portal.
+
+After sending several more commands, whatever she was controlling had crossed into her world.
+
+*Now to navigate the school.*
+
+Sending more commands, she slowly controlled the machine to find its way into the school, where it was now just outside the band room.
+
+She coded a string of batch commands before sending it out. After sending the batch she got down from the computer and walked to the center of the room.
+
+A few seconds later, a robot pony entered the room. It looked like Rarity's younger sister, Sweetie Belle, if she were a robot pony.
+
+The robot had a small cardboard box in its mouth. It brought the box to Opal before setting it down. It continued executing the batch instructions and left the room, heading back for Equestria.
+
+Opal simply stepped into the box and settled down before purring comfortably.
