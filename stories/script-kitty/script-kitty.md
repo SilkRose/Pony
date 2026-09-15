@@ -120,9 +120,16 @@ She rolled left as she established a reverse proxy from the mainframe to Pinkie'
 
 Rolling the other direction, she connected to the database instance running on the government's systems.
 
+> Username: root
+> Password: password
+
+*Default credentials, now that should be illegal.*
+
+She continued to hack while looking absolutely adorable.
+
 *Now to edit the logs from Rarity's IP to the gator.*
 
-She pawed keys randomly, executing a mass SQL statement to find every instance of her IP with the one from Pinkie's house.
+She pawed keys randomly, executing a mass SQL statement to find and replace every instance of her IP with the one from Pinkie's house.
 
 *Time for the main attack.*
 
@@ -140,7 +147,7 @@ After a few minutes of letting the requests flow, Opal noticed a new device on F
 
 With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command line tools terminated. And the terminals closed. She shut down the computer and hopped over to Fluttershy's bed.
 
-Mere moments later, Fluttershy opened her door with Rarity in tow.
+Mere moments later, Fluttershy opened her door and entered with Rarity in tow.
 
 ***
 
