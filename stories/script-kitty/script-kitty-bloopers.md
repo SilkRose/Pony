@@ -40,6 +40,16 @@ In an explosion of activity, federal agents broke through the windows and door t
 
 Gummy, the inanimate plush gator thought to himself, *What is law? Is it nothing more that moral judgments contrived into white and back. And what is law but a constant reminder that we're all only one bad mistake away from a life behind bars? And what of the poor gator plush? Not subject to these laws but still finds himself with weapons drawn on him.*
 
+## `robots.txt Disallow: /classroom`
+
+Sweetie Belle entered the classroom riding atop a robot pony resembling herself. She smiled at her classmates as they ooh'd and aww'd.
+
+Her teacher Cheerilee saw this and simply commented, "Sweetie Belle, no robot ponies in the classroom."
+
+Sweetie frowned as she got off the robot. "Aww, okay."
+
+She made her way to her seat as the robot turned around and left the room.
+
 ## `cat opal &>/dev/null`
 
 Fluttershy finished taking a sip of her coffee and set her mug down. "Thank you Rarity for the extra keyboard. It really helps when I'm watching Opal."
