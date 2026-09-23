@@ -14,6 +14,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny) for proofreading.
 
+Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading and helping with ideas.
 
 ## Short Description:
