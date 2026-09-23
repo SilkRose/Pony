@@ -1,10 +1,10 @@
 # Pony Pyramid
 
-Twilight rushes over to Sugarcube Corner without even a minute to sort out her bed mane. Starting her morning with an urgent summons to Pinkie Pie’s bedroom meant she had no time to waste. As soon as she reaches the bakery, she teleports upstairs to save precious minutes and knocks on Pinkie’s door. “I’m here, Pinkie!” She knocks again and hears a squeaking noise, having missed the door opening. Her hoof was now caught in Pinkie’s mane.
+Twilight rushes over to Sugarcube Corner without even a minute to sort out her bed mane. Starting her morning with an urgent summons to Pinkie Pie’s bedroom meant she had no time to waste. As soon as she reaches the bakery, she teleports upstairs to save precious minutes and knocks on Pinkie’s door. “I’m here, Pinkie!” She knocks again and hears a squeaking noise, having missed the door opening. Her hoof is [TENSE AGREEMENT] now caught in Pinkie’s mane.
 
-“Hi Twilight!” Pinkie pulls the panicking pony into her pad promptly.
+“Hi, [VOCATIVE COMMA] Twilight!” Pinkie pulls the panicking pony into her pad promptly.
 
-Inside, Twilight finds the rest of her friends already present and gathered in a circle around an easel. On it is a pad of paper, with the first page reading: ‘Pinkie’s Super Duper Friend Making Business Plan.’ Pinkie pushes her along to her designated seat between Rarity and Applejack. 
+Inside, Twilight finds the rest of her friends already present and gathered in a circle around an easel. On it is a pad of paper, with the first page reading: ‘Pinkie’s Super Duper Friend-Making [FUNCTIONS AS A COMPOUND NOUN-GERUND MODIFIER. COMPOUND MODIFIERS USUALLY TAKE HYPHENS TO AVOID AMBIGUITY] Business Plan.’ Pinkie pushes her along to her designated seat between Rarity and Applejack. 
 
 Rarity gasps, “My word, Twilight! What happened to your poor mane?”
 
@@ -20,19 +20,19 @@ Pinkie points to her and asks, “Pretty please save all questions to the end.�
 
 Twilight lowers her hoof.
 
-Pinkie flips to the next paper, with ‘What Is A Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
+Pinkie flips to the next paper, with ‘What Is a [INTERNAL ARTICLES ARE NOT CAPITALISED] Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
 
-Pinkie presents the next page, labeled, ‘Friend of A Friend’. “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if *they* have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend, and if your friend trusts them, well, you'd trust them, too! Then, by the transitive property, as we have proven mathemagically, a friend of your friend is also *your* friend!” 
+Pinkie presents the next page, labeled ‘Friend of a Friend.[AS FAR AS I AM AWARE, THE U.S. PUNCTUATION CONVENTION PLACES PERIODS INSIDE QUOTATION MARKS WHEN THEY CO-OCCUR]’ “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if *they* have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend, and if your friend trusts them, well, you’d trust them, too! Then, by the transitive property, as we have proven mathemagically, a friend of your friend is also *your* friend!” 
 
 Twilight raises her hoof in vain once more. Pinkie moves on. Twilight lowers it.
 
-The next page is a diagram showing a pink pony at the top, the other five ponies in the room below her, and many other ponies below them becoming little dots on the paper, with every pony connected to the one above them. “That all brings us toooooo –” Pinkie does a trumpet sound by putting a hoof to her mouth. “– The Pony Pyramid!™”
+The next page is a diagram showing a pink pony at the top, the other five ponies in the room below her, and many other ponies below them becoming little dots on the paper, with every pony connected to the one above them. “That all brings us toooooo”–Pinkie does a trumpet sound by putting a hoof to her mouth–“ The Pony Pyramid!™”
 
 Cannons fill the room with confetti. 
 
-“Lookie here!” She points at the top. “I’m here, then all of you are right under me, and all your friends under you, and then their friends under them. But like we showed before, we know *everypony* here is my friend! If I wanted more friends before, I would need to go out and find somepony I haven’t met yet and put together a party for them, with streamers and presents and cakes; and cakes can only bake so fast, even for me. If instead, all of you went to make a friend, I would get five more friends in the same amount of time! And if all of your friends made a new friend, then we would all have double the friends!”
+“Lookie here!” She points at the top. “I’m here, then all of you are right under me, and all your friends under you, and then their friends under them. But like we showed before, we know *everypony* here is my friend! If I wanted more friends before, I would need to go out and find somepony I haven’t met yet and put together a party for them, with streamers and presents and cakes; and cakes can only bake so fast, even for me. If, instead, all of you went to make a friend, I would get five more friends in the same amount of time! And if all of your friends made a new friend, then we would all have double the friends!”
 
-The next page shows the words, ‘Friendship Funds’. “Going out for bowling, having a yummy bite to eat, or watching a cool concert together; what do these all have in common? How about you?” She points a hoof to Gummy, who blinks. “That’s right! They all cost bits. And good friends work together to help pay for fun times out. Even then, some really fun stuff is reeeaaallly pricey! That’s where the Pony Pyramid comes in! If every friend, and friend of a friend, and friend of a friend of a friend, and all their friends, too, chip in even one bit, we would have almost infinite bits to spend on fun stuff! Perfect!” 
+The next page shows the words ‘Friendship Funds.’ “Going out for bowling, having a yummy bite to eat, or watching a cool concert together-what do these all have in common? How about you?” She points a hoof to Gummy, who blinks. “That’s right! They all cost bits. And good friends work together to help pay for fun times out. Even then, some really fun stuff is reeeaaallly pricey! That’s where the Pony Pyramid comes in! If every friend, and friend of a friend, and friend of a friend of a friend, and all their friends, too, chip in even one bit, we would have almost infinite bits to spend on fun stuff! Perfect!” 
 
 She flips the paper to reveal the final page, which reads, ‘Questions?’ Twilight’s hoof shoots up. “Pinkie!” 
 
@@ -50,7 +50,7 @@ Twilight facehoofs. “Do you know how they work, I mean?”
 
 Pinkie ponders for a second. “No, not really.”
 
-“A pyramid scheme is where one pony recruits some ponies, and those ponies recruit more ponies, and so on. Each member has to pay dues up the chain, and each level takes a cut. So the ponies at the bottom never never make any money while the ponies at the top get rich quick.”
+“A pyramid scheme is where one pony recruits some ponies, and those ponies recruit more ponies, and so on. Each member has to pay dues up the chain, and each level takes a cut. So the ponies at the bottom never make any money while the ponies at the top get rich quick.”
 
 Pinkie retorts, “That doesn’t sound anything like what I’m doing.”
 
@@ -60,13 +60,13 @@ Pinkie shrugs. “I’d say it’s more of a triangle.”
 
 Rarity interjects, “I don’t recall her mentioning each level taking a cut of the bits. It sounds like they all go to Pinkie. Am I correct?”
 
-Pinkie nods. “All the funds will go to me and anypony can come and ask for some for their fun friend activity.”
+Pinkie nods. “All the funds will go to me, and anypony can come and ask for some for their fun friend activity.”
 
-Applejack speaks up, “I like this idea, it seems like good honest fun.”
+Applejack speaks up, “I like this idea-[COMMA SPLICE]it seems like good honest fun.”
 
 Twilight looks at Applejack, shocked. “This sounds like something Flim and Flam would pull! How could you possibly like this?”
 
-Applejack answers, “Pinkie’s an honest pony and I think she’ll do what’s right for her friends.”
+Applejack answers, “Pinkie’s an honest pony, and I think she’ll do what’s right for her friends.”
 
 Rainbow Dash says, “I like this idea too. Think of all the cool stuff we can do with so many bits coming in!”
 
@@ -78,7 +78,7 @@ All ponies present, except Twilight, cheer in agreement.
 
 “Then it’s settled! Let’s go find some friends to recruit!” Applejack, Rarity, Rainbow Dash, and even Fluttershy carry her out the door in an innocently three-sided formation.
 
-Twilight stares ahead at the easel, unsure where to even start to fix this mess. She flips back through the pages. Halfway through, she yells out, “’Pyramid’ is in the name!!”
+Twilight stares ahead at the easel, unsure where to even start to fix this mess. She flips back through the pages. Halfway through, she yells out, “‘[THIS NEED TO PAY ATTENTION TO DIRECTIONALITY IS WHY I HATE DIRECTIONAL PUNCTUATION MARKS]Pyramid’ is in the name!!”
 
 ---
 
@@ -86,7 +86,7 @@ Twilight opens the door to the Ponyville schoolhouse. “Hello, Ms. Cheerilee, a
 
 Cheerilee looks up from her desk. “Yes, what do you need, Twilight?”
 
-“I need your help to explain to my friends that Pinkie's new friendship idea is a pyramid scheme. They don’t believe me, even though it’s literally in the name.”
+“I need your help to explain to my friends that Pinkie’s new friendship idea is a pyramid scheme. They don’t believe me, even though it’s literally in the name.”
 
 “Well, I know what a pyramid scheme is, but what is Pinkie’s idea?”
 
@@ -98,7 +98,7 @@ Cheerilee ponders this for a moment. “How much is she charging?”
 
 “I’m not sure I’m seeing the connection. What exactly makes it a pyramid scheme?”
 
-Twilight says, exasperated, “It’s a scheme, and it's shaped like a pyramid!”
+Twilight says, exasperated, “It’s a scheme, and it’s shaped like a pyramid!”
 
 Cheerilee says, “You know I actually saw your friends running around earlier. I didn’t know what they were up to, but now it makes sense. Though, in my opinion, they were shaped more like a triangle than a pyramid.”
 
@@ -114,7 +114,7 @@ Twilight sighs. “Goodbye.”
 
 Cheerilee runs off to go totally not join the pyramid-triangle scheme.
 
-Twilight slowly trots out of the schoolhouse and back towards home. Maybe she was wrong. Maybe it wasn’t a pyramid scheme. Maybe Pinkie had a point to her triangle.
+Twilight slowly trots out of the schoolhouse and back toward home. Maybe she was wrong. Maybe it wasn’t a pyramid scheme. Maybe Pinkie had a point to her triangle.
 
 After making it about halfway home, she sees an interesting formation approaching in the distance. As it gets closer, she can make out a pony pyramid with Pinkie at the top. Cheerilee and all the foals from her class are even in it, near the bottom.
 
@@ -130,25 +130,25 @@ Twilight bursts into Mayor Mare’s office in a gust of wind. “Mayor Mare!”
 
 Mayor Mare scrambles to put away the town ledger and her handy dandy bottle of correction fluid, then tries to lean casually against her desk. “Good afternoon, Twilight! What can I help you with?”
 
-Twilight slams the door shut and flies up to the window to see if the Pony Pyramid approaches. With the coast clear, she lands in front of Mayor Mare and resumes her panic. “We have problem on our hooves! The whole town is getting engulfed into a pyramid scheme!”
+Twilight slams the door shut and flies up to the window to see if the Pony Pyramid approaches. With the coast clear, she lands in front of Mayor Mare and resumes her panic. “We have a problem on our hooves! The whole town is getting engulfed in a pyramid scheme!”
 
-Mayor Mare’s eyes dart left and right. “P-Pyramid scheme? Don’t be ridiculous! Tax allocation is a very complicated process and if it just *so happens* to resemble a –” 
+Mayor Mare’s eyes dart left and right. “P-Pyramid scheme? Don’t be ridiculous! Tax allocation is a very complicated process, and if it just *so happens* to resemble a –” 
 
-Twilight puts both hooves on the mayor’s shoulders. “Mayor Mare, I will personally audit the town’s finances later, but I'm not here about that!”
+Twilight puts both hooves on the mayor’s shoulders. “Mayor Mare, I will personally audit the town’s finances later, but I’m not here about that!”
 
 Mayor Mare smiles nervously. “N-No need for that. What seems to be the issue?”
 
-Twilight starts, “So, Pinkie Pie came up with this new plan to –”, before stopping herself. “No, no. If I explain, you’ll just go join in.”
+Twilight starts, “So, Pinkie Pie came up with this new plan to –”[THE COMMA IS UNNECESSARY BECAUSE THE INTERRUPTION DASH ALREADY SUPPLIES THE DELINEATION OF SPEECH, AND "BEFORE STOPPING HERSELF" CONTINUES THE EXTANT NARRATIVE CONSTRUCTION] before stopping herself. “No, no. If I explain, you’ll just go join in.”
 
 “My dear Twilight, I did not get to where I am by being so easy to influence. You can tell me.”
 
 “Well, Pinkie came up with this idea to have everypony we know make a new friend until we all have a big network of friends, and each friend gives her one bit to start a fun friend activities fund.” 
 
-Mayor Mare considers Pinkie’s plan. “You *do* know a pyramid scheme involves collecting bits from each level to enrich the tier above, right? This sounds like it all goes to the one at the top. Just like my Town Renewal Fund Refer-A-Friend program.”
+Mayor Mare considers Pinkie’s plan. “You *do* know a pyramid scheme involves collecting bits from each level to enrich the tier above, right? This sounds like it all goes to the one at the top. Just like my Town Renewal Fund Refer-a-Friend program.”
 
 Twilight shakes the mayor. “They’re forming a *literal* pyramid, for Celestia’s sake! We can talk about whatever you’ve been doing with the treasury later!”
 
-Mayor Mare goes pale, and looks around the room to avoid eye contact through any means necessary. Her attention goes to the window behind her desk. “I’m not sure I'd describe that as a pyramid. It’s more of a triangle.”
+Mayor Mare goes pale and looks around the room to avoid eye contact through any means necessary. Her attention goes to the window behind her desk. “I’m not sure I’d describe that as a pyramid. It’s more of a triangle.”
 
 Twilight lets her go to fly up and shut the curtains. “Don’t look at them too long or you’ll join!” When she turns back around, Mayor Mare is already gone. Twilight peers past the curtains and spots her distributing flyers to the pyramid before joining in herself. She presses her face to the glass and slides down, exasperated.
 
@@ -156,7 +156,7 @@ Twilight lets her go to fly up and shut the curtains. “Don’t look at them to
 
 Twilight starts her letter in a panic.
 
-> Dear Princess Celestia
+> Dear Princess Celestia,
 >
 > Everypony in town has joined a pyramid scheme Pinkie Pie came up with. We need your help to fix this situation.
 >
@@ -166,20 +166,20 @@ Twilight starts her letter in a panic.
 >
 > Pinkie uses the funds for friendship activities.
 >
-> Everypony says it's not a pyramid scheme because all the funds go to the top, but that’s just an even worse pyramid scheme!
+> Everypony says it’s not a pyramid scheme because all the funds go to the top, but that’s just an even worse pyramid scheme!
 >
 > I need your help before it consumes all of Ponyville, or worse, all of Equestria.
 >
 > Your faithful student,
 > Princess Twilight Sparkle
 
-Twilight rushes with her letter to find Spike, who was in the middle of another seven-hour bubble bath.
+Twilight rushes with her letter to find Spike, who is [TENSE AGREEMENT] in the middle of another seven-hour bubble bath.
 
 After several rounds of fierce negotiations, Spike permits her to crack the door, *without peeking*, and float the letter over to him so he can send it to Celestia.
 
-A few moments later he burps and produces a response from a burst of flame, and Twilight grabs it with her magic and shuts the door as soon as it's out of the bathroom. In a renewed panic, she breaks the wax seal and unrolls it.
+A few moments later he burps and produces a response from a burst of flame, and Twilight grabs it with her magic and shuts the door as soon as it’s out of the bathroom. In a renewed panic, she breaks the wax seal and unrolls it.
 
-> My faithful student, Twilight Sparkle
+> My faithful student, Twilight Sparkle,
 >
 > Sounds more like a triangle than a pyramid.
 >
@@ -190,11 +190,11 @@ A few moments later he burps and produces a response from a burst of flame, and 
 
 ---
 
-Out of options, Twilight decides if ponies are so excited to join a ‘not’ pyramid scheme, the least she can do is put that enthusiasm to some good use. She gathers up her own presentation paper and begins work on the ‘Golden Oaks Library Recruitment Program’.
+Out of options, Twilight decides that if ponies are so excited to join a ‘not’ pyramid scheme, the least she can do is put that enthusiasm to some good use. She gathers up her own presentation paper and begins work on the ‘Golden Oaks Library Recruitment Program.’
 
 Ready to face the pyramid, she leaves her library with her easel on her back. She finds what is now half the town supporting Pinkie above them. Twilight calls up, “Pinkie!”
 
-Pinke yells down, “What?”
+Pinkie yells down, “What?”
 
 Twilight props up her presentation and pleads, “I have a proposal for the pyramid!”
 
@@ -206,13 +206,13 @@ Twilight, irony not lost on her, accepts. “Just tell Pinkie I have an idea to 
 
 Bon-Bon calls up to Lyra, who calls up to Diamond Tiara, who calls up to another pony until the message reaches Pinkie. Pinkie Pie then tilts her head, asking Twilight, “There’s a tortilla in a pair of beds?”
 
-Twilight shakes her head with a wing pressed to her temple. She then realizes the obvious. She flies up to give the presentation directly to Pinkie Pie. “Oh, hey Twilight!” she says. “Sorry about your beds.”
+Twilight shakes her head with a wing pressed to her temple. She then realizes the obvious. She flies up to give the presentation directly to Pinkie Pie. “Oh, hey, [VOCATIVE COMMA] Twilight!” she says. “Sorry about your beds.”
 
-“It’s not important.” Twilight holds up the pad of paper portraying her proposal. “If you’re all so set on this Pony Pyramid, I want to make an addition that can help the library. If everypony in the pyramid signs up for a library card, and then asks their friends to sign up and ask other ponies to sign up, we’d be able to spread the joy of reading to a lot more ponies.”
+“It’s not important.” Twilight holds up the pad of paper portraying her proposal. “If you’re all so set on this Pony Pyramid, I want to make an addition that can help the library. If everypony in the pyramid signs up for a library card and then asks their friends to sign up and ask other ponies to sign up, we’d be able to spread the joy of reading to a lot more ponies.”
 
 Pinkie nods along until Twilight adds, “I’ll even forgive late fees for ponies who bring in at least three new readers.”
 
-Pinkie Pie jumps up with a gasp. Her sudden landing afterwards leads to the two ponies below her losing the balance, and then the four ponies below them fall, and soon the entire Pony Pyramid collapses into an enormous pile of friends, and friends of friends, and friends of friends of friends, et cetera, scattered all over Ponyville.
+Pinkie Pie jumps up with a gasp. Her sudden landing afterward leads to the two ponies below her losing their balance, and then the four ponies below them fall, and soon the entire Pony Pyramid collapses into an enormous pile of friends, and friends of friends, and friends of friends of friends, et cetera, scattered all over Ponyville.
 
 Twilight flies down to check on her. “Pinkie, are you all right? What happened?!”
 
