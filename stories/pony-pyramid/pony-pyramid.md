@@ -1,10 +1,10 @@
 # Pony Pyramid
 
-Twilight rushes over to Sugarcube Corner without even a minute to sort out her bed mane. Starting her morning with an urgent summons to Pinkie Pie’s bedroom meant she had no time to waste. As soon as she reaches the bakery, she teleports upstairs to save precious minutes and knocks on Pinkie’s door. “I’m here, Pinkie!” She knocks again and hears a squeaking noise, having missed the door opening. Her hoof is [TENSE AGREEMENT] now caught in Pinkie’s mane.
+Twilight rushes over to Sugarcube Corner without even a minute to sort out her bed mane. Starting her morning with an urgent summons to Pinkie Pie’s bedroom meant she had no time to waste. As soon as she reaches the bakery, she teleports upstairs to save precious minutes and knocks on Pinkie’s door. “I’m here, Pinkie!” She knocks again and hears a squeaking noise, having missed the door opening. Her hoof is now caught in Pinkie’s mane.
 
-“Hi, [VOCATIVE COMMA] Twilight!” Pinkie pulls the panicking pony into her pad promptly.
+“Hi, Twilight!” Pinkie pulls the panicking pony into her pad promptly.
 
-Inside, Twilight finds the rest of her friends already present and gathered in a circle around an easel. On it is a pad of paper, with the first page reading: ‘Pinkie’s Super Duper Friend-Making [FUNCTIONS AS A COMPOUND NOUN-GERUND MODIFIER. COMPOUND MODIFIERS USUALLY TAKE HYPHENS TO AVOID AMBIGUITY] Business Plan.’ Pinkie pushes her along to her designated seat between Rarity and Applejack. 
+Inside, Twilight finds the rest of her friends already present and gathered in a circle around an easel. On it is a pad of paper, with the first page reading: ‘Pinkie’s Super Duper Friend-Making Business Plan.’ Pinkie pushes her along to her designated seat between Rarity and Applejack. 
 
 Rarity gasps, “My word, Twilight! What happened to your poor mane?”
 
@@ -20,9 +20,9 @@ Pinkie points to her and asks, “Pretty please save all questions to the end.�
 
 Twilight lowers her hoof.
 
-Pinkie flips to the next paper, with ‘What Is a [INTERNAL ARTICLES ARE NOT CAPITALISED] Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
+Pinkie flips to the next paper, with ‘What Is a Friend?’ written on it. “So, what *is* a friend? A question that has stumped ponykind for years and years.” Twilight groans in the background. “For this super duper proposal, I say a friend is somepony you trust a lot and like being around. Friends are the best! We all have friends, we all love friends, we all want a lot of friends!” 
 
-Pinkie presents the next page, labeled ‘Friend of a Friend.[AS FAR AS I AM AWARE, THE U.S. PUNCTUATION CONVENTION PLACES PERIODS INSIDE QUOTATION MARKS WHEN THEY CO-OCCUR]’ “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if *they* have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend, and if your friend trusts them, well, you’d trust them, too! Then, by the transitive property, as we have proven mathemagically, a friend of your friend is also *your* friend!” 
+Pinkie presents the next page, labeled ‘Friend of a Friend.’ “*Annnnnd*, we all know this phrase? It’s a friend of one of your friends! Why is that important? Well, if you have a friend, you enjoy being around that pony, and if *they* have a friend, that pony also enjoys being around that pony! Sooooo, *you* also would enjoy being around that friend of a friend, and if your friend trusts them, well, you’d trust them, too! Then, by the transitive property, as we have proven mathemagically, a friend of your friend is also *your* friend!” 
 
 Twilight raises her hoof in vain once more. Pinkie moves on. Twilight lowers it.
 
@@ -62,7 +62,7 @@ Rarity interjects, “I don’t recall her mentioning each level taking a cut of
 
 Pinkie nods. “All the funds will go to me, and anypony can come and ask for some for their fun friend activity.”
 
-Applejack speaks up, “I like this idea-[COMMA SPLICE]it seems like good honest fun.”
+Applejack speaks up, “I like this idea-it seems like good honest fun.”
 
 Twilight looks at Applejack, shocked. “This sounds like something Flim and Flam would pull! How could you possibly like this?”
 
@@ -78,7 +78,7 @@ All ponies present, except Twilight, cheer in agreement.
 
 “Then it’s settled! Let’s go find some friends to recruit!” Applejack, Rarity, Rainbow Dash, and even Fluttershy carry her out the door in an innocently three-sided formation.
 
-Twilight stares ahead at the easel, unsure where to even start to fix this mess. She flips back through the pages. Halfway through, she yells out, “‘[THIS NEED TO PAY ATTENTION TO DIRECTIONALITY IS WHY I HATE DIRECTIONAL PUNCTUATION MARKS]Pyramid’ is in the name!!”
+Twilight stares ahead at the easel, unsure where to even start to fix this mess. She flips back through the pages. Halfway through, she yells out, “‘Pyramid’ is in the name!!”
 
 ---
 
@@ -138,7 +138,7 @@ Twilight puts both hooves on the mayor’s shoulders. “Mayor Mare, I will pers
 
 Mayor Mare smiles nervously. “N-No need for that. What seems to be the issue?”
 
-Twilight starts, “So, Pinkie Pie came up with this new plan to –”[THE COMMA IS UNNECESSARY BECAUSE THE INTERRUPTION DASH ALREADY SUPPLIES THE DELINEATION OF SPEECH, AND "BEFORE STOPPING HERSELF" CONTINUES THE EXTANT NARRATIVE CONSTRUCTION] before stopping herself. “No, no. If I explain, you’ll just go join in.”
+Twilight starts, “So, Pinkie Pie came up with this new plan to –” before stopping herself. “No, no. If I explain, you’ll just go join in.”
 
 “My dear Twilight, I did not get to where I am by being so easy to influence. You can tell me.”
 
@@ -173,7 +173,7 @@ Twilight starts her letter in a panic.
 > Your faithful student,
 > Princess Twilight Sparkle
 
-Twilight rushes with her letter to find Spike, who is [TENSE AGREEMENT] in the middle of another seven-hour bubble bath.
+Twilight rushes with her letter to find Spike, who is in the middle of another seven-hour bubble bath.
 
 After several rounds of fierce negotiations, Spike permits her to crack the door, *without peeking*, and float the letter over to him so he can send it to Celestia.
 
@@ -206,7 +206,7 @@ Twilight, irony not lost on her, accepts. “Just tell Pinkie I have an idea to 
 
 Bon-Bon calls up to Lyra, who calls up to Diamond Tiara, who calls up to another pony until the message reaches Pinkie. Pinkie Pie then tilts her head, asking Twilight, “There’s a tortilla in a pair of beds?”
 
-Twilight shakes her head with a wing pressed to her temple. She then realizes the obvious. She flies up to give the presentation directly to Pinkie Pie. “Oh, hey, [VOCATIVE COMMA] Twilight!” she says. “Sorry about your beds.”
+Twilight shakes her head with a wing pressed to her temple. She then realizes the obvious. She flies up to give the presentation directly to Pinkie Pie. “Oh, hey, Twilight!” she says. “Sorry about your beds.”
 
 “It’s not important.” Twilight holds up the pad of paper portraying her proposal. “If you’re all so set on this Pony Pyramid, I want to make an addition that can help the library. If everypony in the pyramid signs up for a library card and then asks their friends to sign up and ask other ponies to sign up, we’d be able to spread the joy of reading to a lot more ponies.”
 
