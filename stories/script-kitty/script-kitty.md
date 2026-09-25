@@ -4,15 +4,15 @@
 
 Rarity set down the box containing her new 'smart' coffee machine. The side of the box boasted about its many features and how it connects to the internet.
 
-Fluttershy carefully cut the tape at the top of the box. She was helping Rarity setup her new coffee machine.
+Fluttershy carefully cut the tape at the top of the box. She was helping Rarity set up her new coffee machine.
 
 The two girls worked together to pull the machine out of its box, causing the Styrofoam protection to fall to the wayside.
 
-They set it down on the counter, before removing the old one from it's place.
+They set it down on the counter, before removing the old one from its place.
 
 Rarity began reading the instructions while Fluttershy cleaned the area where it would go.
 
-Opal had been watching the whole thing, she was sat on a chair at the table. She meowed, more out of habit than anything else.
+Opal had been watching the whole thing. She was sat on a chair at the table. She meowed, more out of habit than anything else.
 
 Fluttershy petted Opal after she finished cleaning the counter.
 
@@ -48,9 +48,9 @@ She made quick progress, her skill as a hacker being put to great use. She'd con
 
 *An imbecile,* Opal thought as she ran a command to disable the stupid AI model the coffee machine had been shipped with.
 
-She rolled around some more, disabling the spyware, built-in advertisements, and coffee pod  Digital Rights Management (DRM), so her friends could enjoy their coffee in peace.
+She rolled around some more, disabling the spyware, built-in advertisements, and coffee pod  digital rights management (DRM), so her friends could enjoy their coffee in peace.
 
-She sent one last command, initiating the machine to start brewing a cup of coffee before she disconnected from the machine. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
+She sent one last command: initiating the machine to start brewing a cup of coffee, before she disconnected from the machine. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
 
 Both of them were smiling.
 
@@ -145,9 +145,9 @@ Opal smiled to herself.
 
 After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network, it was Rarity's phone.
 
-*Why is she back so soon. Better clean up before I get caught.*
+*Why is she back so soon!? Better clean up before I get caught.*
 
-With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
+With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command-line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
 
 Mere moments later, Fluttershy opened her door and entered with Rarity in tow.
 
@@ -159,7 +159,7 @@ All of Rarity's friends were here in the school's band room. Today was bring you
 
 *No Gummy in sight. The feds must have got him.*
 
-Rarity petted Opal. "You be a good girl for me and play nice with the other pets, okay."
+Rarity petted Opal. "You be a good girl for me and play nice with the other pets, okay?"
 
 Opal meowed. *We'll see.*
 
@@ -173,11 +173,11 @@ Opal explored the room, ignoring the other pets. All the band instruments were p
 
 Behind the piano she found something that put a smile on her face: a computer.
 
-Looking around, she made sure none of the other pets were around before she jumped up on the desk.
+Looking around, she made sure none of the other pets were watching before she jumped up on the desk.
 
-Nudging the mouse, the computer woke up and the screen turned on. She laid on the keyboard opening a terminal to check out the school's intranet.
+Nudging the mouse, the computer woke up and the screen turned on. She laid on the keyboard and opened a terminal to check out the school's intranet.
 
-Scanning for computers on the network she finds hundreds of devices: every PC in the computer labs, every teacher's PC, the administrator's PCs, every student's phone that was left on, and every wireless access point.
+Scanning for computers on the network, she finds hundreds of devices: all the computers in the computer labs, every teacher's PC, all the administrators' PCs, every student's phone that was left on, and every wireless access point.
 
 Seeing all these devices gives her an idea.
 
@@ -255,7 +255,7 @@ After waiting ten minutes, she received a response: 'found'.
 
 *Now to get it here.*
 
-She used the echo command and it's own transceiver to locate its position relative to the portal.
+She used the echo command and its own transceiver to locate its position relative to the portal.
 
 After sending several more commands, whatever she was controlling had crossed into her world.
 
