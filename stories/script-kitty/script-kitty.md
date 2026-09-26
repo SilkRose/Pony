@@ -48,7 +48,7 @@ She made quick progress, her skill as a hacker being put to great use. She'd con
 
 *An imbecile,* Opal thought as she ran a command to disable the stupid AI model the coffee machine had been shipped with.
 
-She rolled around some more, disabling the spyware, built-in advertisements, and coffee pod  digital rights management (DRM), so her friends could enjoy their coffee in peace.
+She rolled around some more, disabling the spyware, built-in advertisements, and coffee pod digital rights management (DRM), so her friends could enjoy their coffee in peace.
 
 She sent one last command: initiating the machine to start brewing a cup of coffee, before she disconnected from the machine. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
 
@@ -145,7 +145,7 @@ Opal smiled to herself.
 
 After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network, it was Rarity's phone.
 
-*Why is she back so soon!? Better clean up before I get caught.*
+*Why is she back so soon?! Better clean up before I get caught.*
 
 With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command-line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
 
