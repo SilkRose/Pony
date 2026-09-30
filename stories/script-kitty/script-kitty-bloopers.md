@@ -34,7 +34,7 @@ Opal stood up and walked into the other room.
 
 Gummy, Pinkie Pie's stuffed animal baby alligator rested on Pinkie's bed in her bedroom. In front of him was his Pretty Pink Pony Princess Play Laptop™.
 
-He had been sat there all day where Pinkie had left him before going to school, but that was about to change.
+He had been sitting there all day where Pinkie had left him before going to school. That was about to change.
 
 In an explosion of activity, federal agents broke through the windows and door to the room. They kept coming until the room was packed with every agent pointing their weapon at the suspicious gator plush.
 
@@ -42,7 +42,7 @@ Gummy, the inanimate plush gator thought to himself, *What is law? Is it nothing
 
 ## `robots.txt Disallow: /classroom`
 
-Sweetie Belle entered the classroom riding atop a robot pony resembling herself. She smiled at her classmates as they ooh'd and aww'd.
+Sweetie Belle entered the classroom riding atop a robot pony resembling herself. She smiled at her classmates as they ooh'd and ahh'd.
 
 Her teacher Cheerilee saw this and simply commented, "Sweetie Belle, no robot ponies in the classroom."
 

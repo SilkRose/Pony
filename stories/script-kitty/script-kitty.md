@@ -12,11 +12,11 @@ They set it down on the counter, before removing the old one from its place.
 
 Rarity began reading the instructions while Fluttershy cleaned the area where it would go.
 
-Opal had been watching the whole thing. She was sat on a chair at the table. She meowed, more out of habit than anything else.
+Opal had been watching the whole thing. She sat on a chair at the table. She meowed, more out of habit than anything else.
 
 Fluttershy petted Opal after she finished cleaning the counter.
 
-Rarity turned it on as she read the setup instructions. "It says to connect it to to the internet, we need to connect to its WiFi and tell it what my home network and password are."
+Rarity turned it on as she read the setup instructions. "It says that to connect it to the internet, we need to connect to its WiFi and tell it what my home network and password are."
 
 Fluttershy pulled out her phone and started to do as Rarity instructed.
 
@@ -88,11 +88,11 @@ Fluttershy giggled. "You really like keyboards, don't you?"
 
 "Just make sure the computer is off like the previous times."
 
-Opal nodded as Fluttershy takes her to her bedroom. She let Opal in the room before closing the door and going back to check on the other animals.
+Opal nodded as Fluttershy took her to her bedroom. She let Opal in the room before closing the door and going back to check on the other animals.
 
-She made her way to the computer and checked to make sure it was on. After the computer woke up from sleep, she flopped on the keyboard and starts rolling around.
+She made her way to the computer and checked to make sure it was on. After the computer woke up from sleep, she flopped on the keyboard and started rolling around.
 
-This unintended stay at Fluttershy's was the perfect opportunity for her. She couldn't hack the government from Rarity's computer, they were already onto her. She needed a fresh computer.
+This unintended stay at Fluttershy's was the perfect opportunity for her. She couldn't hack the government from Rarity's computer; they were already onto her. She needed a fresh computer.
 
 Several terminals opened on the screen as she typed in command after command. She was preparing for a massive operation.
 
@@ -135,15 +135,13 @@ She pawed keys randomly, executing a mass string-substitution SQL statement to f
 
 *Time for the main attack.*
 
-She pressed enter on the keyboard and watched as hundreds of lines spewed from the bottom right terminal. Each one a different request being sent as if it were coming from Pinkie's house.
-
-Each request hitting different endpoints and websites run by the government.
+She pressed enter on the keyboard and watched as hundreds of lines spewed from the bottom right terminal. Each one a different request being sent as if it were coming from Pinkie's house. Each request hitting different endpoints and websites run by the government.
 
 *How do you like being DDOS'd by your own computers?*
 
 Opal smiled to herself.
 
-After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network, it was Rarity's phone.
+After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network. It was Rarity's phone.
 
 *Why is she back so soon?! Better clean up before I get caught.*
 
@@ -177,9 +175,9 @@ Looking around, she made sure none of the other pets were watching before she ju
 
 Nudging the mouse, the computer woke up and the screen turned on. She laid on the keyboard and opened a terminal to check out the school's intranet.
 
-Scanning for computers on the network, she finds hundreds of devices: all the computers in the computer labs, every teacher's PC, all the administrators' PCs, every student's phone that was left on, and every wireless access point.
+Scanning for computers on the network, she found hundreds of devices: all the computers in the computer labs, every teacher's PC, all the administrators' PCs, every student's phone that was left on, and every wireless access point.
 
-Seeing all these devices gives her an idea.
+Seeing all these devices gave her an idea.
 
 *I could do a truly magnificent hack if I harness the power of all these wireless transceivers.*
 
@@ -187,7 +185,7 @@ She started coding a worm, a self replicating virus to infect every device on th
 
 *Let's make this worm smart.*
 
-She hosted a server from the computer she's using in another terminal, that way whenever she updated the worm every infected and newly added device to the botnet had somewhere to download instructions and payloads.
+In another terminal, she started a server hosted on the computer she was using. Once she released the worm, every infected device would have somewhere to download instructions and payloads.
 
 Pawing at more keys, she added code to the worm to get the devices global position in the school.
 
@@ -203,7 +201,7 @@ Hacking into said device, she poked around before discovering it controlled the 
 
 *Bingo.*
 
-Flopping on the keyboard some more, she rerouted the controls for the flagpole so it short-circuited, grounding the pole itself to the motor control, turning it into one big receiving antenna.
+Flopping on the keyboard some more, she issued an impossible set of instructions to the flagpole controls. The short-circuit connected the pole itself to the motor control, turning it into one big receiving antenna.
 
 *Now to synchronize.*
 
@@ -211,7 +209,7 @@ She updated the worm to send out pulses from each device to be received by the f
 
 *Now that we can sync, we need to be able to pick a GPS location.*
 
-Doing some quick math coding, she added the ability for the worm to target locations using beam forming. Here code already did beam forming to sync the phase of the signals, but this new one was per device to send the signal in the right direction.
+Doing some quick math coding, she added the ability for the worm to target locations using beam forming. Her code already did beam forming to sync the phase of the signals, but this new capability let each device send its signal in the right direction.
 
 *Now to pull it all together.*
 
@@ -219,7 +217,7 @@ She opened another terminal, setting this one to print out any response received
 
 The final thing she added to the worm was a way for her to send out messages for all the devices to broadcast over their radio transceivers.
 
-The worm was set to replicate on any device on the school's intranet and any device with a wireless antenna would broadcast the messages she sent out.
+The worm was set to replicate on any device on the school's intranet, and any device with a wireless antenna would broadcast the messages she sent out.
 
 Wriggling on the keyboard, she deployed the worm and watched as it infected over a thousand devices in a matter of minutes.
 
@@ -233,15 +231,15 @@ She remembered Rarity and her friends talking about an alternate world that was 
 
 *I guess it wouldn't hurt to try.*
 
-Aiming for the portal, she sent 'echo' as the message on a sweep of the frequencies from 1 megahertz to 10 megahertz.
+Aiming for the portal, she sent 'echo' as the message on a sweep of the frequencies from 1 megahertz to 3 gigahertz.
 
-After a few minutes the sweep completed and a second later she got a response as 'echo' printed in the terminal with the responding frequency of 7.669 megahertz.
+A few minutes into the sweep, she got a response.  'Echo' printed in the terminal with the responding frequency of 7.669 megahertz.
 
 *Found something.*
 
 She sent another test command: 'help'.
 
-Conveniently, it sent back a help menu. Most of the commands it could do were useless, but a few peaked her interest.
+Conveniently, it sent back a help menu. Most of the commands it could do were useless, but a few piqued her interest.
 
 - 'move-to – move to a given GPS location'
 - 'move-by – move in a direction by steps'
@@ -249,7 +247,7 @@ Conveniently, it sent back a help menu. Most of the commands it could do were us
 
 *That should be all I need to get it through the portal, but what could it bring me…*
 
-After a second of though another smile crossed her lips. She pawed the keyboard before sending another command.
+After a second of thought another smile crossed her lips. She pawed the keyboard before sending another command.
 
 After waiting ten minutes, she received a response: 'found'.
 
