@@ -34,11 +34,11 @@ After her failed attempt, Fluttershy tried to get it working.
 
 She failed as well. They were pushing the buttons in the right order, but the machine refused to do anything — even brew coffee.
 
-Opal meowed again and got up from her chair. She decided to be a helpful little kitty and fix the coffee machine for her owner and friend. She made her way upstairs to Rarity's personal computer.
+Opal meowed again and got up from her chair. She decided to be a helpful little kitty and fix the coffee machine for her owner and friend. She made her way upstairs to Rarity's bedroom.
 
-"Let's begin," she meowed.
+"Let's begin," she meowed, jumping onto the custom-built ergonomic bucket chair in front of Rarity's gaming PC. It was a water-cooled beast of a system, with custom RGB accent lighting across every edge.
 
-She then proceeded to roll around on the keyboard to said computer. She watched as a terminal opened on the screen, commands being typed as she wiggled her body around on the keyboard, seemingly at random.
+Opal proceeded to roll around on the mechanical keyboard. To any hapless observer, it would appear a totally random sequence of inputs; but Opal watched as a terminal opened on the screen, and a very particular set of commands were sent in with each wiggle and twist of her body.
 
 She made quick progress, her skill as a hacker being put to great use. She'd connected to the coffee machine using a default password and was reading its internal console.
 
@@ -46,9 +46,9 @@ She made quick progress, her skill as a hacker being put to great use. She'd con
 
 *An imbecile,* Opal thought as she ran a command to disable the stupid AI model the coffee machine had been shipped with.
 
-She rolled around some more, disabling the spyware, built-in advertisements, and coffee pod digital rights management (DRM), so her friends could enjoy their coffee in peace.
+She rolled around some more, disabling the spyware, built-in advertisements, and digital rights management, so her friends could enjoy their coffee in peace.
 
-She sent one last command: initiating the machine to start brewing a cup of coffee, before she disconnected from the machine. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
+She sent one last command - initiating the machine to start brewing a cup of coffee - before disconnecting. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
 
 Both of them were smiling.
 
@@ -60,7 +60,7 @@ Fluttershy shook her head. "I don't know, but it's working now."
 
 Opal meowed at Fluttershy after getting back on her seat.
 
-Fluttershy started to pet Opal.
+Fluttershy started to pet Opal again.
 
 "Let's have coffee, then."
 
