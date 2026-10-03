@@ -153,7 +153,7 @@ Mere moments later, Fluttershy opened her door and entered with Rarity in tow, h
 
 Rarity sat Opal's cat carrier down and opened it up. Opal came out of the carrier and looked around.
 
-All of Rarity's friends were here in the school's band room. Today was bring your pet to school day. The other pets that were there are Spike, Winona, and Angel.
+All of Rarity's friends were here in the school's band room. Today was bring your pet to school day. The other pets that were here were Spike, Winona, and Angel.
 
 *No Gummy in sight. The feds must have got him.*
 
@@ -165,15 +165,15 @@ Opal meowed. *We'll see.*
 
 The bell rang, signalling the start of school. Everyone said goodbye to their pet and left the room.
 
-*Lets see what there is to do in this room.*
+*Let's see what there is to do in this room.*
 
 Opal explored the room, ignoring the other pets. All the band instruments were present: drums, guitars, mics, and even a grand piano.
 
-Behind the piano she found something that put a smile on her face: a computer.
+Behind the piano she found something that put a smile on her face: a COW, or computer-on-wheels.
 
-Looking around, she made sure none of the other pets were watching before she jumped up on the desk.
+Looking around, she made sure none of the other pets were watching before she climbed onto the piano and then leapt onto the COW, holding on tight as it rolled a few inches away before stopping on a cable.
 
-Nudging the mouse, the computer woke up and the screen turned on. She laid on the keyboard and opened a terminal to check out the school's intranet.
+Nudging the mouse, Opal woke the computer up. She laid on the keyboard and opened a terminal to check out the school's intranet.
 
 Scanning for computers on the network, she found hundreds of devices: all the computers in the computer labs, every teacher's PC, all the administrators' PCs, every student's phone that was left on, and every wireless access point.
 
@@ -185,9 +185,9 @@ She started coding a worm, a self replicating virus to infect every device on th
 
 *Let's make this worm smart.*
 
-In another terminal, she started a server hosted on the computer she was using. Once she released the worm, every infected device would have somewhere to download instructions and payloads.
+In another terminal, she stood up a simple file server. Once she released the worm, every infected device would connect there to download new payloads.
 
-Pawing at more keys, she added code to the worm to get the devices global position in the school.
+Pawing at more keys, she added code to the worm to get the host device's global position in the school.
 
 *That'll be important later.*
 
@@ -201,7 +201,7 @@ Hacking into said device, she poked around before discovering it controlled the 
 
 *Bingo.*
 
-Flopping on the keyboard some more, she issued an impossible set of instructions to the flagpole controls. The short-circuit connected the pole itself to the motor control, turning it into one big receiving antenna.
+Flopping on the keyboard some more, she issued an impossible set of instructions to the flagpole controls. Unable to resist these instructions, the winding motor short-circuited and welded itself to flagpole, turning it into one big receiving antenna.
 
 *Now to synchronize.*
 
@@ -225,15 +225,15 @@ After waiting for the worm to spread, she sent out a test message targeting the 
 
 *But who to target?*
 
-She remembered Rarity and her friends talking about an alternate world that was through a portal in the statue out front of the school.
+She remembered Rarity and her friends talking about an alternate world that could be accessed through a portal in the statue out front of the school.
 
 *Would there even be a device to hack on the other side? Would the radio waves even go through the portal?*
 
 *I guess it wouldn't hurt to try.*
 
-Aiming for the portal, she sent 'echo' as the message on a sweep of the frequencies from 1 megahertz to 3 gigahertz.
+Aiming for the portal, she sent 'echo' as the message on a sweep of frequencies from 1 megahertz to 3 gigahertz.
 
-A few minutes into the sweep, she got a response.  'Echo' printed in the terminal with the responding frequency of 7.669 megahertz.
+A few minutes into the sweep, she got a response. 'echo' printed in the terminal with the responding frequency of 7.669 megahertz.
 
 *Found something.*
 
@@ -253,7 +253,7 @@ After waiting ten minutes, she received a response: 'found'.
 
 *Now to get it here.*
 
-She used the echo command and its own transceiver to locate its position relative to the portal.
+She used the echo command and the device's own transceiver to locate its position relative to the portal.
 
 After sending several more commands, whatever she was controlling had crossed into her world.
 
@@ -263,8 +263,8 @@ Sending more commands, she slowly controlled the machine to find its way into th
 
 She coded a string of batch commands before sending it out. After sending the batch she got down from the computer and walked to the center of the room.
 
-A few seconds later, a robot pony entered the room. It looked like Rarity's younger sister, Sweetie Belle, if she were a robot pony.
+A few seconds later, the device entered the room. It looked like Rarity's younger sister, Sweetie Belle, if she had somehow been turned into a robot that also looked like a pony. Opal decided it would be best if she didn't dwell on that.
 
-The robot had a small cardboard box in its mouth. It brought the box to Opal before setting it down. It continued executing the batch instructions and left the room, heading back for Equestria.
+The robot had a small cardboard box in its mouth. It brought the box to Opal before setting it down. Continuing to execute its batch instructions, it turned around, left the room, and made its way back to the portal to Equestria.
 
 Opal simply stepped into the box and settled down before purring comfortably.
