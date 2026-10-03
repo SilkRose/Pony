@@ -6,7 +6,7 @@ Rarity's cat Opal is really good at hacking. (EqG)
 ## Description:
 Rarity's cat Opalescence hacks into a coffee machine for her friends. Things get a little more dubious from there…
 
-Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading and helping with the cover.
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for editing and helping with the cover.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
