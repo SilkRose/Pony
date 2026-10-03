@@ -34,3 +34,4 @@ Rarity's cat Opalescence hacks into a coffee machine for her friends. Things get
 [Script Kitty Bloopers](./script-kitty-bloopers.md)
 
 ## Cover:
+![cover](./script-kitty-cover-upscaled.png)
