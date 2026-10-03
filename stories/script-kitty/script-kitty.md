@@ -2,21 +2,19 @@
 
 ## Control Flow
 
-Rarity set down the box containing her new 'smart' coffee machine. The side of the box boasted about its many features and how it connects to the internet.
+Rarity set down the box containing her new 'smart' coffee machine in front of Fluttershy. The side of the box boasted about its many new features, such as 'AI Accelerated', 'Internet Connection Required', and 'Batteries Not Included'. Whatever that all meant.
 
-Fluttershy carefully cut the tape at the top of the box. She was helping Rarity set up her new coffee machine.
+Fluttershy carefully cut the tape at the top of the box, and the two girls worked together to pull the machine out, along with two convoluted blocks of foam, multiple layers of additional packaging, and a thick instruction booklet.
 
-The two girls worked together to pull the machine out of its box, causing the Styrofoam protection to fall to the wayside.
+After finally getting it unwrapped, they set it down on the counter and plugged it in, replacing the old, non-'AI Accelerated' one.
 
-They set it down on the counter, before removing the old one from its place.
+Rarity began reading the instructions while Fluttershy cleaned the huge mess left over.
 
-Rarity began reading the instructions while Fluttershy cleaned the area where it would go.
+Opal sat on a chair at the table, watching the whole thing. She meowed, more out of habit than anything else.
 
-Opal had been watching the whole thing. She sat on a chair at the table. She meowed, more out of habit than anything else.
+Fluttershy petted Opal after she finished cleaning up.
 
-Fluttershy petted Opal after she finished cleaning the counter.
-
-Rarity turned it on as she read the setup instructions. "It says that to connect it to the internet, we need to connect to its WiFi and tell it what my home network and password are."
+Rarity touched an invisible capacitive sensor to turn the coffee machine on as she read the setup instructions. "It says the second step is to connect to it with a phone and tell it what my home network and password are."
 
 Fluttershy pulled out her phone and started to do as Rarity instructed.
 
@@ -24,13 +22,13 @@ After a minute or two of typing in the wrong password, Fluttershy finally got it
 
 *How hard is it to type 'Opalescence_123'?* Opal thought.
 
-"Okay, it's connected. Now what?" Fluttershy asked.
+"Okay, it's connected," Fluttershy said. "Now what?"
 
 "It says we need to check for software updates."
 
 "How do we do that?"
 
-"It's some sort of button combination," Rarity said as she started pushing buttons.
+"It's some sort of button combination," Rarity said as she started tapping various symbols on the monolithic glass panel taking up most of the front of the machine.
 
 After her failed attempt, Fluttershy tried to get it working.
 
