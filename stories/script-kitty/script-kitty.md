@@ -66,7 +66,7 @@ Fluttershy started to pet Opal again.
 
 ## String Substitution
 
-Rarity handed Fluttershy the cat carrier containing Opal. "Thank you so much for watching Opal, darling. I'll be back as soon as I can."
+Rarity handed the cat carrier containing Opal to Fluttershy. "Thank you so much for watching Opal, darling. I'll be back as soon as I can."
 
 Fluttershy took the carrier and set it down before letting Opal out. "It's no problem, I love watching her."
 
@@ -78,25 +78,25 @@ Opal meowed, "I'm good."
 
 "Okay, just let me know if there is anything I can do for you."
 
-Opal knew exactly what she wanted. "Can I roll around on your computer keyboard?"
+Opal knew exactly what she wanted. "Can I roll around on your keyboard?"
 
-Fluttershy giggled. "You really like keyboards, don't you?"
+Fluttershy giggled. "You really like that, don't you?"
 
 "A little…"
 
-"Just make sure the computer is off like the previous times."
+"Just make sure the computer is off so you don't do anything by accident."
 
 Opal nodded as Fluttershy took her to her bedroom. She let Opal in the room before closing the door and going back to check on the other animals.
 
-She made her way to the computer and checked to make sure it was on. After the computer woke up from sleep, she flopped on the keyboard and started rolling around.
+Opal made her way to the computer. Fluttershy's computer was an old laptop that had long since aged out of its original operating system; it now ran Lunix. While it didn't have nearly as much raw power as Rarity's PC, and its keyboard was not as tactile, either, now that she thought of it, Opal knew she'd have no trouble accomplishing her goals. 
 
-This unintended stay at Fluttershy's was the perfect opportunity for her. She couldn't hack the government from Rarity's computer; they were already onto her. She needed a fresh computer.
+In truth, she couldn't use Rarity's computer right now. The government was onto her, and by now they'd have a trace set up. She needed a fresh site to start hacking again. This unintended stay at Fluttershy's was the perfect opportunity.
 
-Several terminals opened on the screen as she typed in command after command. She was preparing for a massive operation.
+After the computer woke up from sleep, Opal flopped on the keyboard and started rolling around. Several terminals opened on the screen as she typed in command after command. She was preparing for a massive operation.
 
 *I need to get the heat off of me and onto someone else.*
 
-Contorting her body over the keyboard, she entered a command. The upper left terminal showed a map with markers for every one of her owner's friends pets.
+Contorting her body over the keyboard, she entered a command. The upper left terminal showed a map with markers for every one of her owner's friends' pets.
 
 *But who deserves it the most?*
 
@@ -106,11 +106,11 @@ The upper right terminal showed a list of active government agents in her area.
 
 The lower left terminal showed the list of every device on the same network as Fluttershy's computer.
 
-*Definitely not Angel. What's the saying, 'Don't eat in your litter box.' This place is practically my second home, after all.*
+*Definitely not Angel. What's the saying, 'Don't eat in your litter box'? This place is practically my second home, after all.*
 
 The lower right terminal showed a successful connection into the local government's mainframe system.
 
-*Aha, the pink one, she has a baby alligator. Whenever I'm over there he just stares forward. I don't think I've ever seen him move. An easy target indeed.*
+*Aha, the pink one! She has a baby alligator. Whenever I'm over there he just stares blankly at nothing. I don't think I've ever seen him move. An easy target indeed.*
 
 *Gummy, the perfect fall gator.*
 
@@ -118,7 +118,7 @@ She rolled left as she established a reverse proxy from the mainframe to Pinkie'
 
 *Now all the outbound requests I send will appear as if they are coming from the pink one's house.*
 
-Rolling the other direction, she connected to the database instance running on the government's systems.
+Rolling the other direction, she connected to the database portal hosted by the Mayor's office.
 
 > Username: root
 > Password: password
@@ -127,9 +127,9 @@ Rolling the other direction, she connected to the database instance running on t
 
 She continued to hack while looking absolutely adorable.
 
-*Now to edit the logs from Rarity's IP to the gator.*
+*Now to implicate the gator.*
 
-She pawed keys randomly, executing a mass string-substitution SQL statement to find and replace every instance of Rarity's IP with the one from Pinkie's house.
+She pawed keys randomly, executing a mass string-substitution SQL statement to find and replace every instance of Rarity's IP address with the one from Pinkie's house.
 
 *Time for the main attack.*
 
@@ -139,13 +139,15 @@ She pressed enter on the keyboard and watched as hundreds of lines spewed from t
 
 Opal smiled to herself.
 
+*Maybe now you'll regret taking my favourite brand of salmon pâté off the shelves…*
+
 After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network. It was Rarity's phone.
 
 *Why is she back so soon?! Better clean up before I get caught.*
 
-With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command-line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
+With a flick of her tail and some random contortions and bounces, she shut down her operation. The database query was complete. The requests were stopped, the command-line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
 
-Mere moments later, Fluttershy opened her door and entered with Rarity in tow.
+Mere moments later, Fluttershy opened her door and entered with Rarity in tow, happy to see nothing was amiss.
 
 ## Function Override
 
