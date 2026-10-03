@@ -2,21 +2,19 @@
 
 ## Control Flow
 
-Rarity set down the box containing her new 'smart' coffee machine. The side of the box boasted about its many features and how it connects to the internet.
+Rarity set down the box containing her new 'smart' coffee machine in front of Fluttershy. The side of the box boasted about its many new features, such as 'AI Accelerated', 'Internet Connection Required', and 'Batteries Not Included'. Whatever that all meant.
 
-Fluttershy carefully cut the tape at the top of the box. She was helping Rarity set up her new coffee machine.
+Fluttershy carefully cut the tape at the top of the box, and the two girls worked together to pull the machine out, along with two convoluted blocks of foam, multiple layers of additional packaging, and a thick instruction booklet.
 
-The two girls worked together to pull the machine out of its box, causing the Styrofoam protection to fall to the wayside.
+After finally getting it unwrapped, they set it down on the counter and plugged it in, replacing the old, non-'AI Accelerated' one.
 
-They set it down on the counter, before removing the old one from its place.
+Rarity began reading the instructions while Fluttershy cleaned the huge mess left over.
 
-Rarity began reading the instructions while Fluttershy cleaned the area where it would go.
+Opal sat on a chair at the table, watching the whole thing. She meowed, more out of habit than anything else.
 
-Opal had been watching the whole thing. She sat on a chair at the table. She meowed, more out of habit than anything else.
+Fluttershy petted Opal after she finished cleaning up.
 
-Fluttershy petted Opal after she finished cleaning the counter.
-
-Rarity turned it on as she read the setup instructions. "It says that to connect it to the internet, we need to connect to its WiFi and tell it what my home network and password are."
+Rarity touched an invisible capacitive sensor to turn the coffee machine on as she read the setup instructions. "It says the second step is to connect to it with a phone and tell it what my home network and password are."
 
 Fluttershy pulled out her phone and started to do as Rarity instructed.
 
@@ -24,23 +22,23 @@ After a minute or two of typing in the wrong password, Fluttershy finally got it
 
 *How hard is it to type 'Opalescence_123'?* Opal thought.
 
-"Okay, it's connected. Now what?" Fluttershy asked.
+"Okay, it's connected," Fluttershy said. "Now what?"
 
 "It says we need to check for software updates."
 
 "How do we do that?"
 
-"It's some sort of button combination," Rarity said as she started pushing buttons.
+"It's some sort of button combination," Rarity said as she started tapping various symbols on the monolithic glass panel taking up most of the front of the machine.
 
 After her failed attempt, Fluttershy tried to get it working.
 
 She failed as well. They were pushing the buttons in the right order, but the machine refused to do anything — even brew coffee.
 
-Opal meowed again and got up from her chair. She decided to be a helpful little kitty and fix the coffee machine for her owner and friend. She made her way upstairs to Rarity's personal computer.
+Opal meowed again and got up from her chair. She decided to be a helpful little kitty and fix the coffee machine for her owner and friend. She made her way upstairs to Rarity's bedroom.
 
-"Let's begin," she meowed.
+"Let's begin," she meowed, jumping onto the custom-built ergonomic bucket chair in front of Rarity's gaming PC. It was a water-cooled beast of a system, with custom RGB accent lighting across every edge.
 
-She then proceeded to roll around on the keyboard to said computer. She watched as a terminal opened on the screen, commands being typed as she wiggled her body around on the keyboard, seemingly at random.
+Opal proceeded to roll around on the mechanical keyboard. To any hapless observer, it would appear a totally random sequence of inputs; but Opal watched as a terminal opened on the screen, and a very particular set of commands were sent in with each wiggle and twist of her body.
 
 She made quick progress, her skill as a hacker being put to great use. She'd connected to the coffee machine using a default password and was reading its internal console.
 
@@ -48,9 +46,9 @@ She made quick progress, her skill as a hacker being put to great use. She'd con
 
 *An imbecile,* Opal thought as she ran a command to disable the stupid AI model the coffee machine had been shipped with.
 
-She rolled around some more, disabling the spyware, built-in advertisements, and coffee pod digital rights management (DRM), so her friends could enjoy their coffee in peace.
+She rolled around some more, disabling the spyware, built-in advertisements, and digital rights management, so her friends could enjoy their coffee in peace.
 
-She sent one last command: initiating the machine to start brewing a cup of coffee, before she disconnected from the machine. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
+She sent one last command - initiating the machine to start brewing a cup of coffee - before disconnecting. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
 
 Both of them were smiling.
 
@@ -62,13 +60,13 @@ Fluttershy shook her head. "I don't know, but it's working now."
 
 Opal meowed at Fluttershy after getting back on her seat.
 
-Fluttershy started to pet Opal.
+Fluttershy started to pet Opal again.
 
 "Let's have coffee, then."
 
 ## String Substitution
 
-Rarity handed Fluttershy the cat carrier containing Opal. "Thank you so much for watching Opal, darling. I'll be back as soon as I can."
+Rarity handed the cat carrier containing Opal to Fluttershy. "Thank you so much for watching Opal, darling. I'll be back as soon as I can."
 
 Fluttershy took the carrier and set it down before letting Opal out. "It's no problem, I love watching her."
 
@@ -80,25 +78,25 @@ Opal meowed, "I'm good."
 
 "Okay, just let me know if there is anything I can do for you."
 
-Opal knew exactly what she wanted. "Can I roll around on your computer keyboard?"
+Opal knew exactly what she wanted. "Can I roll around on your keyboard?"
 
-Fluttershy giggled. "You really like keyboards, don't you?"
+Fluttershy giggled. "You really like that, don't you?"
 
 "A little…"
 
-"Just make sure the computer is off like the previous times."
+"Just make sure the computer is off so you don't do anything by accident."
 
 Opal nodded as Fluttershy took her to her bedroom. She let Opal in the room before closing the door and going back to check on the other animals.
 
-She made her way to the computer and checked to make sure it was on. After the computer woke up from sleep, she flopped on the keyboard and started rolling around.
+Opal made her way to the computer. Fluttershy's computer was an old laptop that had long since aged out of its original operating system; it now ran Lunix. While it didn't have nearly as much raw power as Rarity's PC, and its keyboard was not as tactile, either, now that she thought of it, Opal knew she'd have no trouble accomplishing her goals. 
 
-This unintended stay at Fluttershy's was the perfect opportunity for her. She couldn't hack the government from Rarity's computer; they were already onto her. She needed a fresh computer.
+In truth, she couldn't use Rarity's computer right now. The government was onto her, and by now they'd have a trace set up. She needed a fresh site to start hacking again. This unintended stay at Fluttershy's was the perfect opportunity.
 
-Several terminals opened on the screen as she typed in command after command. She was preparing for a massive operation.
+After the computer woke up from sleep, Opal flopped on the keyboard and started rolling around. Several terminals opened on the screen as she typed in command after command. She was preparing for a massive operation.
 
 *I need to get the heat off of me and onto someone else.*
 
-Contorting her body over the keyboard, she entered a command. The upper left terminal showed a map with markers for every one of her owner's friends pets.
+Contorting her body over the keyboard, she entered a command. The upper left terminal showed a map with markers for every one of her owner's friends' pets.
 
 *But who deserves it the most?*
 
@@ -108,11 +106,11 @@ The upper right terminal showed a list of active government agents in her area.
 
 The lower left terminal showed the list of every device on the same network as Fluttershy's computer.
 
-*Definitely not Angel. What's the saying, 'Don't eat in your litter box.' This place is practically my second home, after all.*
+*Definitely not Angel. What's the saying, 'Don't eat in your litter box'? This place is practically my second home, after all.*
 
 The lower right terminal showed a successful connection into the local government's mainframe system.
 
-*Aha, the pink one, she has a baby alligator. Whenever I'm over there he just stares forward. I don't think I've ever seen him move. An easy target indeed.*
+*Aha, the pink one! She has a baby alligator. Whenever I'm over there he just stares blankly at nothing. I don't think I've ever seen him move. An easy target indeed.*
 
 *Gummy, the perfect fall gator.*
 
@@ -120,7 +118,7 @@ She rolled left as she established a reverse proxy from the mainframe to Pinkie'
 
 *Now all the outbound requests I send will appear as if they are coming from the pink one's house.*
 
-Rolling the other direction, she connected to the database instance running on the government's systems.
+Rolling the other direction, she connected to the database portal hosted by the Mayor's office.
 
 > Username: root
 > Password: password
@@ -129,9 +127,9 @@ Rolling the other direction, she connected to the database instance running on t
 
 She continued to hack while looking absolutely adorable.
 
-*Now to edit the logs from Rarity's IP to the gator.*
+*Now to implicate the gator.*
 
-She pawed keys randomly, executing a mass string-substitution SQL statement to find and replace every instance of Rarity's IP with the one from Pinkie's house.
+She pawed keys randomly, executing a mass string-substitution SQL statement to find and replace every instance of Rarity's IP address with the one from Pinkie's house.
 
 *Time for the main attack.*
 
@@ -141,19 +139,21 @@ She pressed enter on the keyboard and watched as hundreds of lines spewed from t
 
 Opal smiled to herself.
 
+*Maybe now you'll regret taking my favourite brand of salmon pâté off the shelves…*
+
 After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network. It was Rarity's phone.
 
 *Why is she back so soon?! Better clean up before I get caught.*
 
-With a flick of her tail and random contorts and bounces she shut down her operation. The requests stopped. The database query had completed. The command-line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
+With a flick of her tail and some random contortions and bounces, she shut down her operation. The database query was complete. The requests were stopped, the command-line tools terminated. With the terminals closed, she shut down the computer and hopped over to Fluttershy's bed.
 
-Mere moments later, Fluttershy opened her door and entered with Rarity in tow.
+Mere moments later, Fluttershy opened her door and entered with Rarity in tow, happy to see nothing was amiss.
 
 ## Function Override
 
 Rarity sat Opal's cat carrier down and opened it up. Opal came out of the carrier and looked around.
 
-All of Rarity's friends were here in the school's band room. Today was bring your pet to school day. The other pets that were there are Spike, Winona, and Angel.
+All of Rarity's friends were here in the school's band room. Today was bring your pet to school day. The other pets that were here were Spike, Winona, and Angel.
 
 *No Gummy in sight. The feds must have got him.*
 
@@ -165,15 +165,15 @@ Opal meowed. *We'll see.*
 
 The bell rang, signalling the start of school. Everyone said goodbye to their pet and left the room.
 
-*Lets see what there is to do in this room.*
+*Let's see what there is to do in this room.*
 
 Opal explored the room, ignoring the other pets. All the band instruments were present: drums, guitars, mics, and even a grand piano.
 
-Behind the piano she found something that put a smile on her face: a computer.
+Behind the piano she found something that put a smile on her face: a COW, or computer-on-wheels.
 
-Looking around, she made sure none of the other pets were watching before she jumped up on the desk.
+Looking around, she made sure none of the other pets were watching before she climbed onto the piano and then leapt onto the COW, holding on tight as it rolled a few inches away before stopping on a cable.
 
-Nudging the mouse, the computer woke up and the screen turned on. She laid on the keyboard and opened a terminal to check out the school's intranet.
+Nudging the mouse, Opal woke the computer up. She laid on the keyboard and opened a terminal to check out the school's intranet.
 
 Scanning for computers on the network, she found hundreds of devices: all the computers in the computer labs, every teacher's PC, all the administrators' PCs, every student's phone that was left on, and every wireless access point.
 
@@ -185,9 +185,9 @@ She started coding a worm, a self replicating virus to infect every device on th
 
 *Let's make this worm smart.*
 
-In another terminal, she started a server hosted on the computer she was using. Once she released the worm, every infected device would have somewhere to download instructions and payloads.
+In another terminal, she stood up a simple file server. Once she released the worm, every infected device would connect there to download new payloads.
 
-Pawing at more keys, she added code to the worm to get the devices global position in the school.
+Pawing at more keys, she added code to the worm to get the host device's global position in the school.
 
 *That'll be important later.*
 
@@ -201,7 +201,7 @@ Hacking into said device, she poked around before discovering it controlled the 
 
 *Bingo.*
 
-Flopping on the keyboard some more, she issued an impossible set of instructions to the flagpole controls. The short-circuit connected the pole itself to the motor control, turning it into one big receiving antenna.
+Flopping on the keyboard some more, she issued an impossible set of instructions to the flagpole controls. Unable to resist these instructions, the winding motor short-circuited and welded itself to flagpole, turning it into one big receiving antenna.
 
 *Now to synchronize.*
 
@@ -225,15 +225,15 @@ After waiting for the worm to spread, she sent out a test message targeting the 
 
 *But who to target?*
 
-She remembered Rarity and her friends talking about an alternate world that was through a portal in the statue out front of the school.
+She remembered Rarity and her friends talking about an alternate world that could be accessed through a portal in the statue out front of the school.
 
 *Would there even be a device to hack on the other side? Would the radio waves even go through the portal?*
 
 *I guess it wouldn't hurt to try.*
 
-Aiming for the portal, she sent 'echo' as the message on a sweep of the frequencies from 1 megahertz to 3 gigahertz.
+Aiming for the portal, she sent 'echo' as the message on a sweep of frequencies from 1 megahertz to 3 gigahertz.
 
-A few minutes into the sweep, she got a response.  'Echo' printed in the terminal with the responding frequency of 7.669 megahertz.
+A few minutes into the sweep, she got a response. 'echo' printed in the terminal with the responding frequency of 7.669 megahertz.
 
 *Found something.*
 
@@ -253,7 +253,7 @@ After waiting ten minutes, she received a response: 'found'.
 
 *Now to get it here.*
 
-She used the echo command and its own transceiver to locate its position relative to the portal.
+She used the echo command and the device's own transceiver to locate its position relative to the portal.
 
 After sending several more commands, whatever she was controlling had crossed into her world.
 
@@ -263,8 +263,8 @@ Sending more commands, she slowly controlled the machine to find its way into th
 
 She coded a string of batch commands before sending it out. After sending the batch she got down from the computer and walked to the center of the room.
 
-A few seconds later, a robot pony entered the room. It looked like Rarity's younger sister, Sweetie Belle, if she were a robot pony.
+A few seconds later, the device entered the room. It looked like Rarity's younger sister, Sweetie Belle, if she had somehow been turned into a robot that also looked like a pony. Opal decided it would be best if she didn't dwell on that.
 
-The robot had a small cardboard box in its mouth. It brought the box to Opal before setting it down. It continued executing the batch instructions and left the room, heading back for Equestria.
+The robot had a small cardboard box in its mouth. It brought the box to Opal before setting it down. Continuing to execute its batch instructions, it turned around, left the room, and made its way back to the portal to Equestria.
 
 Opal simply stepped into the box and settled down before purring comfortably.

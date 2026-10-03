@@ -32,13 +32,19 @@ Opal stood up and walked into the other room.
 
 ## Null Character
 
-Gummy, Pinkie Pie's stuffed animal baby alligator rested on Pinkie's bed in her bedroom. In front of him was his Pretty Pink Pony Princess Play Laptop™.
+Gummy, Pinkie Pie's stuffed baby alligator, rested on Pinkie's bed. In front of him was his Pretty Pink Pony Princess Play Laptop™.
 
-He had been sitting there all day where Pinkie had left him before going to school. That was about to change.
+He had been sitting there all day, right where Pinkie had left him before going to school. That was about to change.
 
-In an explosion of activity, federal agents broke through the windows and door to the room. They kept coming until the room was packed with every agent pointing their weapon at the suspicious gator plush.
+In an explosion of activity, federal agents broke through the door and rappelled through the window. They kept coming until the room was packed full, with every agent pointing their weapon at the suspicious gator plushie.
 
-Gummy, the inanimate plush gator thought to himself, *What is law? Is it nothing more that moral judgments contrived into white and back. And what is law but a constant reminder that we're all only one bad mistake away from a life behind bars? And what of the poor gator plush? Not subject to these laws but still finds himself with weapons drawn on him.*
+Gummy thought to himself inanimately, *What is this law of men? Is it nothing more than moral judgments contrived by pen onto parchment? Naught but a pealing reminder that the freest souls are but one step removed from gaol and pillory? Even one not subject to these laws, of no Nature nor Personhood, finds himself with weapons drawn and judgement arraigned. Bound but not protected, indeed.*
+
+The agents were sweating in their gas masks. The plushie hadn't moved an inch since they'd entered. Something was wrong.
+
+One venturing officer stepped slowly towards the bed, glass crunching under their boots, and reached towards Gummy.
+
+*It's been a while,* he mused, *since I've had pig.*
 
 ## `robots.txt Disallow: /classroom`
 
@@ -52,6 +58,6 @@ She made her way to her seat as the robot turned around and left the room.
 
 ## `cat opal &>/dev/null`
 
-Fluttershy finished taking a sip of her coffee and set her mug down. "Thank you Rarity for the extra keyboard. It really helps when I'm watching Opal."
+Fluttershy finished taking a sip of her coffee and set her mug down. "Thank you, Rarity, for the extra keyboard. It really helps when I'm watching Opal."
 
 "You're welcome, darling. She loves rolling around on keyboards for some reason. I had to start leaving mine unplugged, but eventually I just left a second one unplugged on top my desk to keep her happy."
