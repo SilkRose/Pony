@@ -2,7 +2,7 @@
 
 ## Control Flow
 
-Rarity set down the box containing her new 'smart' coffee machine in front of Fluttershy. The side of the box boasted about its many new features, such as 'AI Accelerated,' 'Internet Connection Required,' and 'Batteries Not Included.' Whatever that all meant. [GENERALLY, COMMAS AND PERIODS OUGHT TO LIE INSIDE THE QUOTATION MARKS]
+Rarity set down the box containing her new 'smart' coffee machine in front of Fluttershy. The side of the box boasted about its many new features, such as 'AI Accelerated,' 'Internet Connection Required,' and 'Batteries Not Included.' Whatever that all meant.
 
 Fluttershy carefully cut the tape at the top of the box, and the two girls worked together to pull the machine out, along with two convoluted blocks of foam, multiple layers of additional packaging, and a thick instruction booklet.
 
@@ -38,7 +38,7 @@ Opal meowed again and got up from her chair. She decided to be a helpful little 
 
 "Let's begin," she meowed, jumping onto the custom-built ergonomic bucket chair in front of Rarity's gaming PC. It was a water-cooled beast of a system, with custom RGB accent lighting across every edge.
 
-Opal proceeded to roll around on the mechanical keyboard. To any hapless observer, it would appear a totally random sequence of inputs; but Opal watched as a terminal opened on the screen, and a very particular set of commands was [ARGUABLY, THE EMPHASIS HERE IS ON THE SET TAKEN AS A COLLECTIVE (SINCE IT IS A VERY PARTICULAR ONE), WHICH (SET) IS A SINGULAR NOUN] sent in with each wiggle and twist of her body.
+Opal proceeded to roll around on the mechanical keyboard. To any hapless observer, it would appear a totally random sequence of inputs; but Opal watched as a terminal opened on the screen, and a very particular set of commands was sent in with each wiggle and twist of her body.
 
 She made quick progress, her skill as a hacker being put to great use. She'd connected to the coffee machine using a default password and was reading its internal console.
 
@@ -48,7 +48,7 @@ She made quick progress, her skill as a hacker being put to great use. She'd con
 
 She rolled around some more, disabling the spyware, built-in advertisements, and digital rights management, so her friends could enjoy their coffee in peace.
 
-She sent one last command - instructing ["INITIATE" NORMALLY TKAES THE PROCESS BEING INITIATED AS ITS OBJECT, AND HERE ITS OBJECT IS "THE MACHINE". IF YOU WANT TO RETAIN "INITIATING", DO IT IN A WAY LIKE "INITIATING THE MACHINE'S COFFEE-BREWING CYCLE"] the machine to start brewing a cup of coffee - before disconnecting. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
+She sent one last command - instructing the machine to start brewing a cup of coffee - before disconnecting. She closed the terminal and logged out of Rarity's computer before going back downstairs to check on her friends.
 
 Both of them were smiling.
 
@@ -68,7 +68,7 @@ Fluttershy started to pet Opal again.
 
 Rarity handed the cat carrier containing Opal to Fluttershy. "Thank you so much for watching Opal, darling. I'll be back as soon as I can."
 
-Fluttershy took the carrier and set it down before letting Opal out. "It's no problem; [COMMA SPLICE] I love watching her."
+Fluttershy took the carrier and set it down before letting Opal out. "It's no problem; I love watching her."
 
 Opal meowed and walked away from them.
 
@@ -139,7 +139,7 @@ She pressed Enter on the keyboard and watched as hundreds of lines spewed from t
 
 Opal smiled to herself.
 
-*Maybe now you'll regret taking my favorite [SINCE YOU USE A MIX OF BRITISH AND AMERICAN SPELLING CONVENTIONS, AND YOU ARE AN AMERICAN, I TOOK THE LIBERTY TO HOMOGENISE] brand of salmon pâté off the shelves…*
+*Maybe now you'll regret taking my favorite brand of salmon pâté off the shelves…*
 
 After a few minutes of letting the requests flow, Opal noticed a new device on Fluttershy's local network. It was Rarity's phone.
 
@@ -151,9 +151,9 @@ Mere moments later, Fluttershy opened her door and entered with Rarity in tow, h
 
 ## Function Override
 
-Rarity set ["SAT" IS THE PAST TENSE OF "SIT", NOT "SET", WHOSE PAST TENSE IS ALSO "SET"] Opal's cat carrier down and opened it up. Opal came out of the carrier and looked around.
+Rarity set Opal's cat carrier down and opened it up. Opal came out of the carrier and looked around.
 
-All of Rarity's friends were here in the school's band room. Today was bring-your-pet-to-school [SINGLE COMPOUND MODIFIER OF "DAY"] day. The other pets that were here were Spike, Winona, and Angel.
+All of Rarity's friends were here in the school's band room. Today was bring-your-pet-to-school day. The other pets that were here were Spike, Winona, and Angel.
 
 *No Gummy in sight. The feds must have got him.*
 
@@ -173,7 +173,7 @@ Behind the piano she found something that put a smile on her face: a COW, or com
 
 Looking around, she made sure none of the other pets were watching before she climbed onto the piano and then leapt onto the COW, holding on tight as it rolled a few inches away before stopping on a cable.
 
-Nudging the mouse, Opal woke the computer up. She lay ["LAID" IS TRANSITIVE. SEE MY PAST COMMENTS ON LIE/LAY ISSUES] on the keyboard and opened a terminal to check out the school's intranet.
+Nudging the mouse, Opal woke the computer up. She lay on the keyboard and opened a terminal to check out the school's intranet.
 
 Scanning for computers on the network, she found hundreds of devices: all the computers in the computer labs, every teacher's PC, all the administrators' PCs, every student's phone that was left on, and every wireless access point.
 
@@ -255,7 +255,7 @@ After waiting ten minutes, she received a response: 'found'.
 
 She used the echo command and the device's own transceiver to locate its position relative to the portal.
 
-After she sent several more commands, whatever she was controlling had crossed into her world. [THE GERUND HERE IS DANGLING. SEE MY PAST COMMENTS ON DANGLING MODIFIERS]
+After she sent several more commands, whatever she was controlling had crossed into her world.
 
 *Now to navigate the school.*
 
