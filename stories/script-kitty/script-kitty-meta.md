@@ -10,6 +10,8 @@ Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
+Thanks to [Hipponous](https://www.fimfiction.net/user/875988/Hipponous) for proofreading.
+
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for proofreading.
 
 Thanks to [Majin Syeekoh](https://www.fimfiction.net/user/163937/Majin+Syeekoh) for pre-reading.
