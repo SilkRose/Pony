@@ -156,7 +156,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
 - **[IrradiatedPirateBooty]** for illustrating covers.
-- **TikiBat** ([Fimfiction][Tiki Bat Fimfiction], [Twitter][Tiki Bat Twitter]) for creating covers and arranging the banner.
+- **TikiBat** ([Fimfiction][Tiki Bat Fimfiction], [Bluesky][Tiki Bat Bluesky]) for creating covers and arranging the banner.
 - **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
 - **[Math Spook]** for proofreading, helping with ideas, and story feedback.
@@ -232,7 +232,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Langtanium]: https://github.com/Langtanium "GitHub"
 [irradiatedpiratebooty]: https://irradiatedpiratebooty.tumblr.com/ "Tumblr"
 [Tiki Bat Fimfiction]: https://www.fimfiction.net/user/218083/Tiki+Bat "Fimfiction"
-[Tiki Bat Twitter]: https://twitter.com/TikiBat "Twitter"
+[Tiki Bat Bluesky]: https://bsky.app/profile/tikibat.com "Bluesky"
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "Fimfiction"
 [Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "Fimfiction"
 [PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "Fimfiction"
