@@ -10,7 +10,7 @@ Is there anything special about making a friend? Giving your mother a hug? Helpi
 
 Are these things connected? If so, how?
 
-Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
+Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Bluesky](https://bsky.app/profile/tikibat.com).
 
 ## Short Description:
 Friendship truly is magic.
