@@ -8,7 +8,7 @@ Pinkie Pie unveils her newest idea: a Pony Pyramid! With it, her and her friends
 
 Written in collaboration with [Shay492](https://www.fimfiction.net/user/840747/Shay492).
 
-Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
+Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Bluesky](https://bsky.app/profile/tikibat.com).
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
