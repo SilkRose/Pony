@@ -31,6 +31,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 		});
 	fix_blog_2025_06_02a()?;
 	fix_blog_2026_04_01a()?;
+	fix_tikibat()?;
 	Ok(())
 }
 
@@ -73,5 +74,26 @@ fn fix_blog_2026_04_01a() -> Result<(), Box<dyn Error>> {
 		}
 	}
 	fs::write(path, output).unwrap();
+	Ok(())
+}
+
+fn fix_tikibat() -> Result<(), Box<dyn Error>> {
+	let includes = Some(Regex::new(r".*\.md$")?);
+	let excludes = Some(Regex::new(r".*[/\\]code[/\\].*")?);
+	find_files_in_dir("../", true)?
+		.iter()
+		.filter(|file| matches(file, &includes, &excludes))
+		.for_each(|input| {
+			let md = fs::read_to_string(input).unwrap();
+			if md.contains("Twitter") || md.contains("https://twitter.com/TikiBat") {
+				let md = md.replace(
+					"https://twitter.com/TikiBat",
+					"https://bsky.app/profile/tikibat.com",
+				);
+				let md = md.replace("Twitter", "Bluesky");
+				fs::write(input, md).unwrap();
+				println!("Fixed link in file: {input}");
+			}
+		});
 	Ok(())
 }
