@@ -6,7 +6,7 @@ Fluttershy and Rarity's diary entries alternating over a week. Fluttershy realiz
 ## Description:
 Fluttershy and Rarity think about each other in ways they only tell their diaries, until one day.
 
-Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Twitter](https://twitter.com/TikiBat).
+Cover done by Tiki Bat: [FIMFiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Bluesky](https://bsky.app/profile/tikibat.com).
 
 Entry into [A Thousand Words Contest II](https://www.fimfiction.net/group/216361/a-thousand-words/thread/517645/a-thousand-words-contest-ii-2023-may-29-jul-30).
 
