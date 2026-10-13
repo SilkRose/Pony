@@ -2,7 +2,7 @@
 
 Twilight Sparkle trotted into her forest at a slow gait. She had been here many times before, for each tree had been planted by her. She was on the edge of the forest, where mostly young trees and saplings were growing.
 
-Twilight had a particular destination in mind. She was going to the center. The place this whole forest originated from.
+Twilight had a particular destination in mind. She was going to the center. Where the oldest trees still lived.
 
 Twilight's horn was lit; she was holding a new sapling ready to plant. She had made this journey many times before, but normally she started from the center.
 
