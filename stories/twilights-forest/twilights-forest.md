@@ -2,7 +2,7 @@
 
 Twilight Sparkle trotted into her forest at a slow gait. She had been here many times before, for each tree had been planted by her. She was on the edge of the forest, where mostly young trees and saplings were growing.
 
-Twilight had a particular destination in mind. She was going to the center. The place this whole forest originated from.
+Twilight had a particular destination in mind. She was going to the center. Where the oldest trees still lived.
 
 Twilight's horn was lit; she was holding a new sapling ready to plant. She had made this journey many times before, but normally she started from the center.
 
@@ -10,7 +10,7 @@ She started to reach the more mature trees as the light from the night sky dimme
 
 A tear escaped her and fell to the ground as she looked around and remembered each tree. Her forest always brought her sadness, but also a serenity that she felt nowhere else.
 
-Other ponies rarely visited Twilight's forest. Twilight was the only regular to come here, if you could even call her that with how infrequent she visited.
+Other ponies rarely visited Twilight's forest. Twilight was the only regular to come here, if you could even call her that with how infrequently she visited.
 
 She made it to an intersection in the path, where the taller trees were. Going straight, she continued on to the center.
 
@@ -18,17 +18,17 @@ Trees stretched off to either side of her, hundreds of rows streaking into the n
 
 Another tear escaped her as she came across a dying tree. She almost didn't stop, but she wanted a look at this tree again.
 
-She recognized it immediately. A spindle tree, once bearing delicate white flowers which flared to a vibrant pink in the fall, now barren. Its long, thin branches still grasped upwards towards sunlight obscured over the years by other, taller trees.
+She recognized it immediately. A spindle tree, once bearing delicate white flowers which flared to a vibrant pink in the fall, was now barren. Its long, thin branches still grasped upwards towards sunlight obscured over the years by other, taller trees.
 
 A flash of memory: steady white hooves guiding fabric through a sewing machine. A smile, always freely given to her friends. Her serene beauty, even on her deathbed.
 
-Twilight shook her head. She couldn't break down now, not when she had so much further to go. She made a mental note to return to this section another day and trim back some of the competing trees. Rarity's spindle would thrive again.
+Twilight shook her head. She couldn't break down now, not when she had so much further to go. She made a mental note to return to this section another day and trim back some of the competing growth. Rarity's spindle would thrive again.
 
 An occasional snapping sound of a twig or the brushing noise of shrubs were her only companions. Fauna thrived in this carefully cultivated forest, but no ponies or other sapient creatures visited. Certainly not this deeply into her woods, in any case. The Princess had tried, initially, to keep the entire thing a secret. When the first copse had been planted, it was hundreds of miles from the nearest sign of civilization.
 
 But under her careful rule, Twilight's kingdom thrived, and spread far and wide.
 
-A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established after a handful of cedars were felled to make a log cabin. Look, but don't touch.
+A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established after a bundle of cedars were felled to make a log cabin. Look, but don't touch.
 
 Twilight had cried for days. It was like losing her friends all over again.
 
