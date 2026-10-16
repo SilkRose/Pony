@@ -22,13 +22,13 @@ She recognized it immediately. A spindle tree, once bearing delicate white flowe
 
 A flash of memory: steady white hooves guiding fabric through a sewing machine. A smile, always freely given to her friends. Her serene beauty, even on her deathbed.
 
-Twilight shook her head. She couldn't break down now, not when she had so much further to go. She made a mental note to return to this section another day and trim back some of the competing growth. Rarity's spindle would thrive again.
+Twilight shook her head. She couldn't break down now, not when she had so much farther [IT IS BEST TO USE FARTHER WHEN LITERAL DISTANCE IS REFERENCED] to go. She made a mental note to return to this section another day and trim back some of the competing growth. Rarity's spindle would thrive again.
 
-An occasional snapping sound of a twig or the brushing noise of shrubs were her only companions. Fauna thrived in this carefully cultivated forest, but no ponies or other sapient creatures visited. Certainly not this deeply into her woods, in any case. The Princess had tried, initially, to keep the entire thing a secret. When the first copse had been planted, it was hundreds of miles from the nearest sign of civilization.
+An occasional snapping sound of a twig or the brushing noise of shrubs was her only companions [JOINING THE TWO SINGULAR SUBJECTS WITH "OR" NECESSITATES AGREEMENT OF THE VERB WITH THE LAST SUBJECT; IF YOU USED "AND", IT WOULD CONSTITUTE ESSENTAILLY A SINGLE PLURAL SUBJECT MADE UP OF TWO SINGULARS SIMULTANEOUSLY, AND THE PLURAL FORM OF THE VERB WOULD BE JUSTIFIED]. Fauna thrived in this carefully cultivated forest, but no ponies or other sapient creatures visited. Certainly not this deeply into her woods, in any case. The Princess had tried, initially, to keep the entire thing a secret. When the first copse had been planted, it was hundreds of miles from the nearest sign of civilization.
 
 But under her careful rule, Twilight's kingdom thrived, and spread far and wide.
 
-A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established after a bundle of cedars were felled to make a log cabin. Look, but don't touch.
+A hamlet became a village, then a town. Her little ponies would enter the forest on dates, admiring the trees she planted as they walked together through row after row. Rules were swiftly established after a bundle of cedars was [THE SUBJECT IS A SINGULAR BUNDLE] felled to make a log cabin. Look, but don't touch.
 
 Twilight had cried for days. It was like losing her friends all over again.
 
@@ -56,7 +56,7 @@ Tears started to flow from her eyes as she took the spade in her magic and began
 
 This hilltop had been reserved for him ever since the start of the forest. She still remembered planting the first tree.
 
-Spike was the last member of the council of friendship. Her last tie to her old life and friends. With his passing, they were going to be reunited one last time. Not right now, but at a later date she was going to move the trees for Pinkie, Fluttershy, Rarity, Applejack, and Rainbow Dash to form a circle at the top of this hill. Together again, at last.
+Spike was the last member of the council of friendship [YOU MAY WANT TO CAPITALISE THE NAME IF IT IS A PROPER FORMER NAME. IF NOT, ALL IS WELL. JUDGEMENT CALL TO MAKE]. Her last tie to her old life and friends. With his passing, they were going to be reunited one last time. Not right now, but at a later date she was going to move the trees for Pinkie, Fluttershy, Rarity, Applejack, and Rainbow Dash to form a circle at the top of this hill. Together again, at last.
 
 She finished the digging and carefully set the sapling into the hole.
 
