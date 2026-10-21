@@ -4,7 +4,7 @@ Twilight was just about to head off to bed when she heard a knock on the library
 
 *Who could that be?*
 
-She made her way to the door and answered it, finding Pinkie Pie.
+She made her way to the door and answered it, finding Pinkie.
 
 "Hi Twilight. I was wondering if I could sleep over at your place for a few days?"
 
@@ -58,7 +58,7 @@ She finally calmed herself down and managed to fall asleep.
 
 ***
 
-The next day went by in a blur to Twilight. She spent the whole day having fun with Pinkie. They even went to the circus and saw their own beds performing in the show.
+The next day went by in a blur to Twilight. She spent the whole day having fun with Pinkie. They even went to the circus and saw their beds performing in the show.
 
 Bedtime came quicker than Twilight was ready for.
 
@@ -68,7 +68,7 @@ Twilight asked, "Pinkie?"
 
 "Yes?"
 
-Twilight's voice rose in pitch. "Is it okay if I face you instead of sleeping back to back?"
+Twilight's voice rose in pitch. "Is it okay if I lay facing you?"
 
 "Sure, anything is fine with me if it makes you more comfortable."
 
@@ -80,7 +80,7 @@ Twilight, unsure of how to hide the blush she just realized she had, replied, "S
 
 "Absolutely."
 
-With that they both closed their eyes and Pinkie rolled to face Twilight.
+With that, they both closed their eyes and Pinkie rolled over.
 
 Twilight giggled as she felt Pinkie poking her to find where she was. "I'm sorry for the weird request…"
 
@@ -116,7 +116,7 @@ The next day went similar as the previous, they spent the day together and had f
 
 That night however, was different.
 
-Twilight couldn't sleep. She had laid there for over an hour with her back pressed against Pinkie Pie's. Who had been asleep almost the whole time. Twilight wanted to cry.
+Twilight couldn't sleep. She had laid there for over an hour with her back pressed against Pinkie's. Who had been asleep almost the whole time. Twilight wanted to cry.
 
 All she had to do was tell Pinkie how she felt, but here she lay.
 
@@ -138,23 +138,23 @@ Getting no response, she tried again. "Twilight, are you crying?"
 
 Twilight refused to answer, she didn't know what to say or how to explain this.
 
-Pinkie rotated in the bed before she wrapped her hooves around Twilight.
+Pinkie rolled over before wrapping her hooves around Twilight.
 
 "Twilight, I love you, and I'll always be here for you."
 
 Pinkie held her tight and nuzzled the back of her mane.
 
-They stayed like this for a time, but as Twilight cried her last tear, she decided to face Pinkie.
+They stayed like this for minutes, but as Twilight cried her last tear, she decided to face Pinkie.
 
-Twilight rolled in the bad and faced Pinkie. Their eyes met for a brief time before Twilight buried her head into Pinkie's chest.
+Twilight rolled in the bed and faced Pinkie. Their eyes met for a brief time before Twilight buried her head into Pinkie's chest.
 
 Pinkie asked, "Is there anything I can do to make you feel better?"
 
 Twilight muttered, "Hold me…"
 
-Pinkie does as requested and held Twilight tight.
+Pinkie does as requested, holding Twilight tight.
 
-The two mares stayed like this the whole night, as they both fell asleep soon after.
+They stayed like this the whole night, as they both fell asleep soon after.
 
 ***
 
