@@ -90,9 +90,33 @@ Pinkie smiled. "Oh, it's fine. It's just like a new little game, right?"
 
 Twilight smiled. "Right."
 
+Pinkie grabbed Twilight's hoof, holding it. "Goodnight, Twilight."
 
+Twilight scooted closer to Pinkie. "goodnight, Pinkie."
 
 ***
+
+Pinkie woke up with tears in her eyes.
+
+*This plan was stupid…*
+
+She hesitantly opened her eyes, taking in the sight of Twilight sleeping peacefully.
+
+Pinkie smiled. *She's so beautiful.*
+
+*I just need to tell her how I feel.*
+
+*I just need to be vulnerable.*
+
+Pinkie leans down and kisses Twilight's hoof. "I love you, Twilight."
+
+With that she closed her eyes and went back to sleep.
+
+***
+
+The next day went similar as the previous, they spent the say together and had fun throughout.
+
+That night however, was different.
 
 Twilight couldn't sleep. She had laid there for over an hour with her back pressed against Pinkie Pie's. Who had been asleep almost the whole time. Twilight wanted to cry.
 
@@ -134,3 +158,48 @@ Pinkie does as requested and held Twilight tight.
 
 The two mares stayed like this the whole night, as they both fell asleep soon after.
 
+***
+
+The next morning Twilight woke up with Pinkie's hooves still holding her.
+
+Twilight tried to wake her. "Pinkie?"
+
+She gently shakes Pinkie. "Pinkie."
+
+With that, Pinkies wakes up. "Twilight…"
+
+Twilight sheepishly smiled. "Hi."
+
+Pinkie replied, "Hey."
+
+Pinkie let go of her and they laid facing each other. "I have something I need to tell you."
+
+Twilight replied, "I actually had something I need to say too. Do you want to go first?"
+
+"No, you can go first."
+
+Twilight composed herself before she said, "I don't want this to end. I've had so much fun with you the last few days."
+
+Pinkie started to blush. "I've had a lot of fun too."
+
+"I don't just mean hanging out during the day…"
+
+After a brief pause, Twilight continued.
+
+"I've really liked sharing my bed with you."
+
+"Me too!"
+
+"So, I guess what I really need to know is… Will you go out with me?"
+
+Pinkie excitedly hugged Twilight. "Yes!"
+
+Twilight replied, "Yay!"
+
+"That's actually what I wanted to ask you…"
+
+"Oh," Twilight said before they giggled in each other's hooves.
+
+"I love you, Twilight."
+
+"I love you, Pinkie."
