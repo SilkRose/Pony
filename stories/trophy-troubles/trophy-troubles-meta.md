@@ -1,4 +1,4 @@
-# Trophy Strife
+# Trophy Troubles
 
 ## Synopsis:
 Rainbow Dash has too many trophies, and refuses to get rid of them.
@@ -16,6 +16,6 @@ Rainbow Dash has a crippling addiction to winning.
 - 
 
 ## Story:
-[Trophy Strife](./trophy-strife.md)
+[Trophy Troubles](trophy-troubles.md)
 
 ## Cover:
