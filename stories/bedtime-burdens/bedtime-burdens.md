@@ -1,6 +1,6 @@
 # Bedtime Burdens
 
-Twilight was just about to head off to bed when she heard a knock on the library's front door.
+Twilight was about to head to bed when she heard a knock on the library's front door.
 
 *Who could that be?*
 
@@ -12,7 +12,7 @@ Twilight looked puzzled. "Sure, but why do you need to stay with me?"
 
 "I loaned my bed to the traveling circus in town. They needed a bed for some seriously dangerous stunts."
 
-Twilight accepted the answer. "Sure, I have a spare bed in my loft."
+Twilight accepted this. "Sure, I have a spare bed in my loft."
 
 Pinkie looked at Twilight sheepishly. "I also loaned them your spare bed…"
 
@@ -30,13 +30,13 @@ She tried to play it cool. "Uh, why don't you come in and we can… sleep?"
 
 Pinkie smiled. "I love sleep."
 
-Twilight led them to her bed where they lay down back to back.
+Twilight led them to her bed where they laid down back to back.
 
 Pinkie said, "Goodnight, Twilight."
 
 Twilight replied, "Goodnight, Pinkie."
 
-Twilight lay awake unable to sleep. Her mind racing around the pony pressed to her back.
+Twilight laid awake unable to sleep. Her mind racing around the pony sleeping beside her.
 
 *I can't believe we're sharing a bed.*
 
@@ -62,13 +62,13 @@ The next day went by in a blur to Twilight. She spent the whole day having fun w
 
 Bedtime came quicker than Twilight was ready for.
 
-They lay down back to back like the night before.
+They laid down back to back like the night before.
 
 Twilight asked, "Pinkie?"
 
 "Yes?"
 
-Twilight's voice rose in pitch. "Is it okay if I lay facing you?"
+Twilight's voice rose in pitch. "Is it okay if I sleep facing you?"
 
 "Sure, anything is fine with me if it makes you more comfortable."
 
@@ -118,7 +118,7 @@ That night however, was different.
 
 Twilight couldn't sleep. She had laid there for over an hour with her back pressed against Pinkie's. Who had been asleep almost the whole time. Twilight wanted to cry.
 
-All she had to do was tell Pinkie how she felt, but here she lay.
+All she had to do was tell Pinkie how she felt, but here she laid.
 
 Twilight finally broke down and cried into her hooves. She tried to cry quietly, hoping Pinkie wouldn't wake up.
 
@@ -128,9 +128,9 @@ Twilight finally broke down and cried into her hooves. She tried to cry quietly,
 
 *We're literally sharing a bed.*
 
-As her mind emptied of thoughts, she continued to cry. A cry of defeat, and of loneliness.
+As her mind emptied of thoughts, she continued to cry. A cry of defeat, and loneliness.
 
-But, after a time, somepony took notice.
+But eventually, somepony did notice.
 
 "Twilight?"
 
@@ -170,15 +170,15 @@ Twilight sheepishly smiled. "Hi."
 
 Pinkie replied, "Hey."
 
-Pinkie let go of her and they lay facing each other. "I have something I need to tell you."
+Pinkie let go of her and they laid facing each other. "I have something I need to tell you."
 
 Twilight replied, "I actually had something I need to say too. Do you want to go first?"
 
 "No, you can go first."
 
-Twilight composed herself before she said, "I don't want this to end. I've had so much fun with you the last few days."
+Twilight composed herself then said, "I don't want this to end. I've had so much fun with you the last few days."
 
-Pinkie started to blush. "I've had a lot of fun too."
+Pinkie blushed slightly. "I've had a lot of fun too."
 
 "I don't just mean hanging out during the day…"
 
