@@ -8,21 +8,107 @@ edition = "2024"
 license = "MIT"
 repository = "https://github.com/SilkRose/Pony"
 
+[[bin]]
+doc = false
+name = "fimd"
+path = "src/bin/fimd.rs"
+required-features = ["binary"]
+
+[[bin]]
+doc = false
+name = "clean"
+path = "src/bin/clean.rs"
+required-features = ["binary"]
+
+[[bin]]
+doc = false
+name = "create-story"
+path = "src/bin/create-story-folder.rs"
+required-features = ["binary"]
+
+[[bin]]
+doc = false
+name = "pony-api"
+path = "src/bin/pony-api.rs"
+required-features = ["binary"]
+
 [dependencies]
-camino = { version = "1.2.6" }
-chrono = { version = "0.4.45" }
-chrono-tz = { version = "0.10.4" }
-git2 = { version = "0.21.0" }
-image = { version = "0.25.10" }
-indoc = { version = "2.0.7" }
-markdown = { version = "1.0.0" }
-num_cpus = { version = "1.17.0" }
-rand = { version = "0.10.2" }
-regex = { version = "1.13.1" }
-reqwest = { version = "0.13.5", features = ["json"] }
-serde = { version = "1.0.229", features = ["derive"] }
-serde_json = { version = "1.0.151", features = ["preserve_order"] }
-tokio = { version = "1.53.1" }
+camino = { version = "1.2.6", optional = true }
+chrono = { version = "0.4.45", optional = true }
+chrono-tz = { version = "0.10.4", optional = true }
+git2 = { version = "0.21.0", optional = true }
+image = { version = "0.25.10", optional = true }
+indoc = { version = "2.0.7", optional = true }
+markdown = { version = "1.0.0", optional = true }
+num_cpus = { version = "1.17.0", optional = true }
+rand = { version = "0.10.2", optional = true }
+regex = { version = "1.13.1", optional = true }
+reqwest = { version = "0.13.5", features = ["json"], optional = true }
+serde = { version = "1.0.229", features = ["derive"], optional = true }
+serde_json = { version = "1.0.151", features = [
+	"preserve_order",
+], optional = true }
+tokio = { version = "1.53.1", optional = true }
+
+[features]
+default = [
+	"binary",
+	"averages",
+	"bytes",
+	"color",
+	"command",
+	"env",
+	"experience",
+	"fimfiction-api",
+	"fs",
+	"http",
+	"json",
+	"log",
+	"markdown",
+	"number-format",
+	"pagination",
+	"passphrase",
+	"regex",
+	"smart-map",
+	"sprite-sheet",
+	"stderr",
+	"stdin",
+	"string-image",
+	"structs",
+	"threads",
+	"time",
+	"traits",
+	"word-stats",
+]
+
+binary = ["fs", "json", "markdown", "regex", "stdin", "dep:git2", "dep:indoc"]
+
+averages = []
+bytes = ["number-format"]
+color = ["dep:serde"]
+command = []
+env = []
+experience = []
+fimfiction-api = []
+fs = ["dep:camino"]
+http = ["time", "dep:reqwest", "dep:tokio"]
+json = ["dep:serde", "dep:serde_json"]
+log = ["fs", "dep:chrono"]
+markdown = ["dep:markdown"]
+number-format = []
+pagination = []
+passphrase = ["dep:rand"]
+regex = ["dep:regex"]
+smart-map = []
+sprite-sheet = ["dep:image"]
+stderr = []
+stdin = []
+string-image = ["color", "fs", "dep:image"]
+structs = ["dep:serde"]
+threads = ["dep:num_cpus"]
+time = ["number-format", "dep:tokio"]
+traits = []
+word-stats = ["markdown", "dep:regex"]
 
 [profile.dev]
 opt-level = 0
