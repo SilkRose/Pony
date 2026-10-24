@@ -6,7 +6,7 @@ Pinkie leans on Twilight, and they talk about their day, confessing to each othe
 ## Description:
 Sometimes you just need a friend to lean on. And sometimes, they need to lean on you.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
