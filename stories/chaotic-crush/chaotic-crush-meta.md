@@ -6,11 +6,17 @@ Discord has a crush on Fluttershy and asks all of her friends for advice before 
 ## Description:
 Discord asks Fluttershy's friends for advice on his feelings for Fluttershy. Which advice will he follow?
 
-Written for [Kleia](https://www.fimfiction.net/user/482079/kleia) for [Jinglemas](https://www.fimfiction.net/group/213263/jinglemas) 2024
+Written for [Kleia](https://www.fimfiction.net/user/482079/kleia) for [Jinglemas](https://www.fimfiction.net/group/213263/jinglemas) 2024.
 
 This story was written in collaboration with [Ashy](https://www.fimfiction.net/user/499793/ashley1227).
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
+The cover is a maze! And the first three people to solve it are listed below. Start in the first 'C' where the arrow points in Chaotic and end at the checkered flag in the second 'c' in Chaotic. The lighter color is the maze and the darker color is the walls. Full res cover: [Direct link](https://raw.githubusercontent.com/SilkRose/Pony/refs/heads/mane/stories/chaotic-crush/chaotic-crush-cover-upscaled.png).
+
+1st - [hawthornbunny](https://www.fimfiction.net/user/77473/hawthornbunny)  
+2nd - [Koopa309](https://www.fimfiction.net/user/718916/Koopa309)  
+3rd - [TheAncientPolitzanian](https://www.fimfiction.net/user/338193/TheAncientPolitzanian)
 
 ## Short Description:
 Discord asks Fluttershy's friends for advice on his feelings for Fluttershy. Which advice will he follow?
