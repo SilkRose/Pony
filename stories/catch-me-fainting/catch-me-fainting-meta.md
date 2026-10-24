@@ -20,7 +20,7 @@ Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151
 
 Now with a [reading](https://www.youtube.com/watch?v=WsXBgG9SnAQ) done by [Lotus Moon](https://www.youtube.com/@LotusMoon).
 
-Now with a second [reading](https://www.youtube.com/watch?v=nyMv2_2QzdU) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw "YouTube").
+Now with a second [reading](https://www.youtube.com/watch?v=nyMv2_2QzdU) done by [Rainbow Infinity Readings](https://www.youtube.com/channel/UC_iFUISpI08ALO1DiwFbWHw).
 
 [Reviewed](https://www.fimfiction.net/blog/1140651/fic-recs-may-30th) by [PresentPerfect](https://www.fimfiction.net/user/923/PresentPerfect).
 
