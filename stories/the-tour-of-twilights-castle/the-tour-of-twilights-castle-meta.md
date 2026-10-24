@@ -14,11 +14,11 @@ Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for pr
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
-Thanks to  [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading and helping with ideas.
+Thanks to [Shay492](https://www.fimfiction.net/user/840747/Shay492) for pre-reading and helping with ideas.
 
 Thanks to [Ashy](https://www.fimfiction.net/user/499793/ashley1227) for pre-reading.
 
-Thanks to  [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for helping with ideas.
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for helping with ideas.
 
 ## Short Description:
 Starlight gives Sunset a tour of Twilight's castle. Surely nothing could go wrong with this.
