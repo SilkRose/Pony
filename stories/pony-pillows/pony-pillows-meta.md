@@ -6,11 +6,11 @@ Pinkie sets out on a quest to determine which of her friends makes the softest p
 ## Description:
 Pinkie sets out on a quest to determine which of her friends makes the softest pillow.
 
+Cover done by IrradiatedPirateBooty.
+
 Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for writing one-fifth of this story and for proofreading.
 
 Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for pre-reading.
-
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
 
 Translated into Chinese by [Nova Twinkle](https://www.fimfiction.net/user/298151/Nova+Twinkle), available [here](https://fimtale.com/t/57065).
 
