@@ -6,7 +6,7 @@ Pinkie is stuck at Twilight's in a thunderstorm, and Twilight is trying to get h
 ## Description:
 A thunderstorm keeps Pinkie at Twilight's house. Twilight tries to get her to read more; Pinkie has other plans.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
