@@ -6,7 +6,11 @@ A very short 100-word story where Pinkie digs up the story you are reading, and 
 ## Description:
 Pinkie finds a treasure map. Where could it lead?
 
-Thanks to [gapty](https://www.fimfiction.net/user/493938/gapty), [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus), and [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for proofreading.
+Thanks to gapty for proofreading.
+
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for proofreading.
+
+Thanks to [Forcalor](https://www.fimfiction.net/user/564657/Forcalor) for proofreading.
 
 ## Short Description:
 Pinkie finds a treasure map. Where could it lead?
