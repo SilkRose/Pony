@@ -6,7 +6,7 @@ Rainbow goes to confess her feelings to Rarity, only to find her distraught and 
 ## Description:
 After finding Rarity distressed and crying, Rainbow takes action to restore Rarity's beauty to what she knows is true. And only nuzzles her a *few* times along the way.
 
-Cover and chapter art done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover and chapter art done by IrradiatedPirateBooty.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
