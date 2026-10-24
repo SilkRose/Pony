@@ -6,7 +6,7 @@ You and Pinkie have a heart-to-heart mid-snuggle.
 ## Description:
 You and Pinkie have a heart-to-heart mid-snuggle.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
 ## Short Description:
 You and Pinkie have a heart-to-heart mid-snuggle.
