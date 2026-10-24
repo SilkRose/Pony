@@ -6,7 +6,7 @@ During the rainbow road trip, 3 pairs of ponies share a bed.
 ## Description:
 During their stay in Hope Hollow, the Mane 6 wind up sharing beds on the overnight stay, what might happen this most wonderful of nights?
 
-Cover made by me with help from [Nebbie](https://www.fimfiction.net/user/35109/Nebbie).
+Cover made with help from [Nebbie](https://www.fimfiction.net/user/35109/Nebbie).
 
 ## Short Description:
 The Mane 6 end up sharing beds while staying in Hope Hollow.
