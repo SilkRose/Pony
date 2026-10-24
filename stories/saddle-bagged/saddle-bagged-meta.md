@@ -8,6 +8,8 @@ Tim woke up in a weird place, on a trampoline, with nothing else to do, he jumps
 
 Boing.
 
+Thanks to EDEN for helping write the first chapter.
+
 ## Short Description:
 Tim woke up in a weird place, on a trampoline, with nothing else to do, he jumps.
 
