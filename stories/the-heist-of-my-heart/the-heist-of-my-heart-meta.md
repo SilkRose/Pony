@@ -8,9 +8,9 @@ Pinkie tries to steal Twilight's heart with a kiss and a love note.
 
 Twilight has other plans.
 
-Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading.
+Cover done by IrradiatedPirateBooty.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Thanks to [Steady Gaze](https://www.fimfiction.net/user/481974/Steady+Gaze) for proofreading.
 
 [Reviewed](https://www.fimfiction.net/group/217953/harmony-reviews/thread/544467/review-the-heist-of-my-heart-silk-rose) by [Shirlendra](https://www.fimfiction.net/user/312832/Shirlendra).
 
