@@ -60,7 +60,7 @@ My published writing can be found on my [Fimfiction profile][Silk Rose Fimfictio
 - **Code:** Code for the API, converting markdown into [Fimfiction BBCode], and maintaining standards.
 - **Flash Fiction:** Short stories, typically written in one sitting.
 - **Ponies:** Sprites of ponies, props, and templates, for making covers.
-- **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], and for [names][Names File].
+- **Stories:** Story folders for all completed and in-progress work. Also, contains a file for [ideas][Ideas File], [names][Names File], [prompts][Prompts File], & [snippets][Snippets File].
 
 ## Statistics:
 I wrote code to analyze each of the statistics below the banner at the top. Here is additional context for word and code count:
@@ -226,6 +226,8 @@ While I may be the main contributor to this repository, I have had help, and thu
 
 [Ideas File]: ./stories/ideas.md
 [Names File]: ./stories/names.md
+[Prompts File]: ./stories/prompts.md
+[Snippets File]: ./stories/snippets.md
 
 [Meadowsys]: https://github.com/meadowsys "GitHub"
 [6-D Pegasus]: https://www.fimfiction.net/user/293755/6-D+Pegasus "Fimfiction"
