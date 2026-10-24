@@ -6,7 +6,7 @@ Fluttershy and Pinkie are the only ones left awake at a slumber party. Fluttersh
 ## Description:
 While holding hands with her crush, Fluttershy confesses her feelings to her.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
