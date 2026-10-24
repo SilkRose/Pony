@@ -141,7 +141,7 @@ All covers made by me, (Silk Rose) – The pixel art covers with the .xcf source
 
 All cover images done by [Lossart] are licensed under the Creative Commons Attribution, Non-commercial, Share alike, 4.0 International License, which can be read [here][license-cc-by-nc-sa], and its deed can be read [here][deed-cc-by-nc-sa].
 
-All cover images done by [IrradiatedPirateBooty] and [TikiBat][Tiki Bat Fimfiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
+All cover images done by IrradiatedPirateBooty and [TikiBat][Tiki Bat Fimfiction] are licensed under the Creative Commons Attribution, Non-commercial, No derivatives, 4.0 International License, which can be read in full [here][license-cc-by-nc-nd], and its deed can be read [here][deed-cc-by-nc-nd].
 
 My Little Pony: Friendship is Magic © Hasbro, Inc.
 
@@ -155,7 +155,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[knighty]** for granting me access to the [Fimfiction API].
 - **[Forcalor]** for proofreading, pre-reading, collaborative writing, and cover feedback.
 - **[Langtanium]** for creating the pony sprites and props.
-- **[IrradiatedPirateBooty]** for illustrating covers.
+- **IrradiatedPirateBooty** for illustrating covers.
 - **TikiBat** ([Fimfiction][Tiki Bat Fimfiction], [Bluesky][Tiki Bat Bluesky]) for creating covers and arranging the banner.
 - **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
@@ -176,10 +176,11 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Hoofprintz]** for pre-reading and proofreading.
 - **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
 - **[heaviside__]** for pre-reading and helping with ideas.
-- **[Hyper Star]** for proofreading and pre-reading.
+- **[Hyper_colonP]** for proofreading and pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
 - **[Visharo]** for pre-reading.
+- **[oblivion2k]** for collaborative writing.
 - **[MoonSong Darkstone]** for writing [The Saddest Rainbow].
 - **[Nebbie]** for cover feedback, collaborative writing, and pre-reading.
 - **EDEN** for collaborative writing.
@@ -193,7 +194,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Pony]: https://github.com/SilkRose/Pony "GitHub"
 
 [fimd]: https://github.com/SilkRose/Pony/blob/mane/code/src/bin/fimd.rs "GitHub"
-[original fimd]: https://github.com/Meadowsys/fimd "GitHub"
+[original fimd]: https://github.com/meadowsys/fimd "GitHub"
 [Fimfiction BBCode]: https://www.fimfiction.net/articles/bbcode "Fimfiction"
 [EmotiPonies]: https://www.deviantart.com/midori-no-ink/art/EmotiPonies-209617524 "DeviantArt"
 [wiwi]: https://github.com/meadowsys/wiwi "GitHub"
@@ -226,15 +227,14 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Ideas File]: ./stories/ideas.md
 [Names File]: ./stories/names.md
 
-[Meadowsys]: https://github.com/Meadowsys "GitHub"
+[Meadowsys]: https://github.com/meadowsys "GitHub"
 [6-D Pegasus]: https://www.fimfiction.net/user/293755/6-D+Pegasus "Fimfiction"
 [Forcalor]: https://www.fimfiction.net/user/564657/Forcalor "Fimfiction"
 [Langtanium]: https://github.com/Langtanium "GitHub"
-[irradiatedpiratebooty]: https://irradiatedpiratebooty.tumblr.com/ "Tumblr"
 [Tiki Bat Fimfiction]: https://www.fimfiction.net/user/218083/Tiki+Bat "Fimfiction"
 [Tiki Bat Bluesky]: https://bsky.app/profile/tikibat.com "Bluesky"
 [Steady Gaze]: https://www.fimfiction.net/user/481974/Steady+Gaze "Fimfiction"
-[Hyper Star]: https://www.fimfiction.net/user/622256/Hyper+Star "Fimfiction"
+[Hyper_colonP]: https://www.fimfiction.net/user/622256/Hyper_colonP "Fimfiction"
 [PseudoBob Delightus]: https://www.fimfiction.net/user/12771/PseudoBob+Delightus "Fimfiction"
 [MoonSong Darkstone]: https://www.fimfiction.net/user/612265/MoonSong+Darkstone "Fimfiction"
 [Nebbie]: https://www.fimfiction.net/user/35109/Nebbie "Fimfiction"
@@ -268,6 +268,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Corah Il Cappo]: https://www.fimfiction.net/user/40371/Corah+Il+Cappo "Fimfiction"
 [heaviside__]: https://www.fimfiction.net/user/860080/heaviside__ "Fimfiction"
 [Hipponous]: https://www.fimfiction.net/user/875988/Hipponous "Fimfiction"
+[oblivion2k]: https://www.fimfiction.net/user/1113/oblivion2k "Fimfiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "Fimfiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
