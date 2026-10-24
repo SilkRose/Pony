@@ -8,7 +8,11 @@ use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
 use serde::{Deserialize, Serialize};
+use serde_json::from_str;
+use sha2::{Digest, Sha256};
+use std::collections::HashMap;
 use std::error::Error;
+use std::fs::File;
 use std::io::{Read, Write};
 use std::path::{MAIN_SEPARATOR, Path};
 use std::{env, fs};
@@ -58,6 +62,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let characters = character_stats(&text)?;
 	fs::File::create("../dist/api/v1/characters.json")?
 		.write_all(format_json(&characters, &JsonFormat::Tab)?.as_bytes())?;
+	update_fimfiction_stories(&files)?;
 	Ok(())
 }
 
@@ -252,4 +257,39 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 		stories: format_number_u128(stats.stories.try_into()?)?,
 		words: format_number_u128(stats.words.try_into()?)?,
 	})
+}
+
+fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
+	let mut hash_file = File::options()
+		.create(true)
+		.truncate(true)
+		.read(true)
+		.write(true)
+		.open("../dist/api/v1/story-hashes.txt")?;
+	let mut hash_str = String::new();
+	hash_file.read_to_string(&mut hash_str)?;
+	let mut hashes = HashMap::new();
+	for line in hash_str.lines() {
+		let split = line.split_once(" ");
+		let Some((hash, path)) = split else {
+			eprintln!("Failed to split line: {line}");
+			continue;
+		};
+		hashes.insert(hash, path);
+	}
+	let meta_regex = Some(Regex::new(
+		r"^\.[/\\]stories[/\\][a-z0-9-]+[/\\][a-z0-9-]+-meta\.md$",
+	)?);
+	let mut meta_files = files
+		.iter()
+		.filter(|&file| matches(file, &meta_regex, &None))
+		.collect::<Vec<_>>();
+	meta_files.sort();
+	for meta in meta_files {
+		let file = fs::read(meta)?;
+
+		let file_hash = Sha256::digest(file);
+		let file_hex = const_hex::encode(file_hash);
+	}
+	Ok(())
 }
