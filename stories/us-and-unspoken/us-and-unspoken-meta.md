@@ -6,7 +6,7 @@ Twilight and Rarity don't speak up when their relationship deteriorates, can the
 ## Description:
 A failing relationship won't be fixed by the words we left unspoken.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
 ## Short Description:
 
