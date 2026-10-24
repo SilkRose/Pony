@@ -6,7 +6,7 @@ Rainbow accidentally says "unicute" instead of "cute unicorn", leading to Rarity
 ## Description:
 
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
 ## Short Description:
 
