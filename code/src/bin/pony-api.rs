@@ -1,5 +1,4 @@
 use git2::{Repository, ResetType, build};
-use indoc::printdoc;
 use pony::bytes::{FormatType, format_size_bytes};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{JsonFormat, format_json};
@@ -12,7 +11,6 @@ use serde::{Deserialize, Serialize};
 use std::error::Error;
 use std::io::{Read, Write};
 use std::path::{MAIN_SEPARATOR, Path};
-use std::process::exit;
 use std::{env, fs};
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
@@ -41,7 +39,6 @@ struct Characters {
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
-	parse_argument(&env::args().skip(1).collect::<Vec<_>>());
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let git_url = "https://github.com/SilkRose/Pony.git";
@@ -70,45 +67,6 @@ fn count_commits(repo: Repository) -> Result<usize, Box<dyn Error>> {
 	let mut revwalk = repo.revwalk()?;
 	revwalk.push(head_commit.id())?;
 	Ok(revwalk.count())
-}
-
-fn parse_argument(args: &[String]) {
-	if args.is_empty() {
-		return;
-	}
-	if args.len() > 1 {
-		panic!("Too many arguments provided!");
-	}
-	match args.first().unwrap().as_str() {
-		"-h" | "--help" => {
-			print_help();
-			exit(0);
-		}
-		"-v" | "--version" => {
-			println!("{} {}", env!("CARGO_BIN_NAME"), env!("CARGO_PKG_VERSION"));
-			exit(0);
-		}
-		_ => {
-			panic!("Incorrect argument provided!");
-		}
-	}
-}
-
-fn print_help() {
-	printdoc! {"
-		{} {}
-
-		Builds the API json for Silk Rose's Pony repository.
-
-		Usage Examples:
-		  pony-api
-
-		Options:
-		  -h,  --help        Print help
-		  -v,  --version     Print version\n",
-		env!("CARGO_BIN_NAME"),
-		env!("CARGO_PKG_VERSION")
-	}
 }
 
 fn setup_branch(dir: &str, repo_path: &str, branch: &str) -> Result<Repository, Box<dyn Error>> {

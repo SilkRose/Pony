@@ -38,7 +38,6 @@ chrono = { version = "0.4.45", optional = true }
 chrono-tz = { version = "0.10.4", optional = true }
 git2 = { version = "0.21.0", optional = true }
 image = { version = "0.25.10", optional = true }
-indoc = { version = "2.0.7", optional = true }
 markdown = { version = "1.0.0", optional = true }
 num_cpus = { version = "1.17.0", optional = true }
 rand = { version = "0.10.2", optional = true }
@@ -81,7 +80,7 @@ default = [
 	"word-stats",
 ]
 
-binary = ["fs", "json", "markdown", "regex", "stdin", "dep:git2", "dep:indoc"]
+binary = ["fs", "json", "markdown", "regex", "stdin", "dep:git2"]
 
 averages = []
 bytes = ["number-format"]
