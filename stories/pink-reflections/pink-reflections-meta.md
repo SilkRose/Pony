@@ -6,9 +6,9 @@
 ## Description:
 Pinkie Pie can't look her reflection in the eyes. Maybe her friends can.
 
-Cover done by [IrradiatedPirateBooty](https://irradiatedpiratebooty.tumblr.com).
+Cover done by IrradiatedPirateBooty.
 
- Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for writing 700 words and for paying for the cover.
+Thanks to [6-D Pegasus](https://www.fimfiction.net/user/293755/6-D+Pegasus) for writing 700 words and for paying for the cover.
 
 Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
 
