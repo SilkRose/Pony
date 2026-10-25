@@ -2,15 +2,17 @@ use git2::{Repository, ResetType, build};
 use pony::bytes::{FormatType, format_size_bytes};
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::json::{JsonFormat, format_json};
+use pony::markdown::WarningType::Quiet;
+use pony::markdown::bbcode;
 use pony::number_format::format_number_u128;
 use pony::regex::matches;
 use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
 use serde::{Deserialize, Serialize};
-use serde_json::from_str;
 use sha2::{Digest, Sha256};
 use std::collections::HashMap;
+use std::collections::hash_map::Entry;
 use std::error::Error;
 use std::fs::File;
 use std::io::{Read, Write};
@@ -40,6 +42,13 @@ struct Characters {
 	rainbow_dash: usize,
 	rarity: usize,
 	twilight_sparkle: usize,
+}
+
+#[derive(Debug, Deserialize, Clone, Serialize, PartialEq, Eq)]
+struct StoryMeta {
+	title: String,
+	short_desc: String,
+	long_desc_hash: String,
 }
 
 fn main() -> Result<(), Box<dyn Error>> {
@@ -260,23 +269,18 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 }
 
 fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
-	let mut hash_file = File::options()
+	let mut story_meta_file = File::options()
 		.create(true)
 		.truncate(true)
 		.read(true)
 		.write(true)
-		.open("../dist/api/v1/story-hashes.txt")?;
-	let mut hash_str = String::new();
-	hash_file.read_to_string(&mut hash_str)?;
-	let mut hashes = HashMap::new();
-	for line in hash_str.lines() {
-		let split = line.split_once(" ");
-		let Some((hash, path)) = split else {
-			eprintln!("Failed to split line: {line}");
-			continue;
-		};
-		hashes.insert(hash, path);
-	}
+		.open("../dist/api/v1/story-meta.json")?;
+	let mut story_meta_str = String::new();
+	story_meta_file.read_to_string(&mut story_meta_str)?;
+	let mut story_metadata: HashMap<u32, StoryMeta> = match story_meta_str.is_empty() {
+		false => serde_json::from_str(&story_meta_str)?,
+		true => HashMap::default(),
+	};
 	let meta_regex = Some(Regex::new(
 		r"^\.[/\\]stories[/\\][a-z0-9-]+[/\\][a-z0-9-]+-meta\.md$",
 	)?);
@@ -285,11 +289,40 @@ fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
 		.filter(|&file| matches(file, &meta_regex, &None))
 		.collect::<Vec<_>>();
 	meta_files.sort();
+	let mut regex_str = String::default();
+	regex_str.push_str(r"(?m)^# \[(?<title>.+)\]\(https:\/\/www\.fimfiction\.net\/story\/(?<fimfic_id>\d{1,10})(\/[a-z0-9-]*)?\)$");
+	regex_str.push_str(r"(.*\n)*^## Description:\n(?<description>(.|\n)*)$");
+	regex_str.push_str(r"\n## Short Description:\n(?<short_description>.*)$");
+	let re = Regex::new(&regex_str)?;
+	let mut update_metadata = vec![];
 	for meta in meta_files {
-		let file = fs::read(meta)?;
-
-		let file_hash = Sha256::digest(file);
-		let file_hex = const_hex::encode(file_hash);
+		let file = fs::read_to_string(meta)?;
+		if let Some(caps) = re.captures(&file) {
+			let long_desc = bbcode::parse(caps["description"].trim(), &Quiet);
+			let data = StoryMeta {
+				title: caps["title"].to_string(),
+				short_desc: caps["short_description"].to_string(),
+				long_desc_hash: const_hex::encode(Sha256::digest(long_desc)),
+			};
+			let id: u32 = caps["fimfic_id"].parse()?;
+			match story_metadata.entry(id) {
+				Entry::Occupied(mut entry) => {
+					if entry.get() != &data {
+						entry.insert(data);
+					}
+				}
+				Entry::Vacant(entry) => {
+					entry.insert(data);
+					update_metadata.push(id);
+				}
+			}
+		}
 	}
+	update_metadata.sort();
+	for updates in &update_metadata {
+		// update fimfic here
+	}
+	// Un-comment line below when finished.
+	// story_meta_file.write_all(format_json(&story_metadata, &JsonFormat::Tab)?.as_bytes())?;
 	Ok(())
 }
