@@ -1,4 +1,4 @@
-# Fluttershy Likes Rainbow Dash
+# [Fluttershy Likes Rainbow Dash](https://www.fimfiction.net/story/390953/fluttershy-likes-rainbow-dash)
 
 ## Synopsis:
 Fluttershy likes Rainbow and decides to ask her out.
