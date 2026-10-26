@@ -307,6 +307,7 @@ async fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error
 	for meta in meta_files {
 		let file = fs::read_to_string(meta)?;
 		let Some(caps) = re.captures(&file) else {
+			println!("No captures detected for story at: {meta}");
 			continue;
 		};
 		let long_desc = bbcode::parse(caps["description"].trim(), &Quiet);
@@ -330,6 +331,7 @@ async fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error
 					changes.insert("description", &long_desc);
 				}
 				if changes.is_empty() {
+					println!("No changes detected for story {id}: {}", data.title);
 					continue;
 				}
 				let json = json!({
@@ -357,18 +359,14 @@ async fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error
 		match api_patch_request(&api, json, &endpoint).await {
 			Ok(res) => {
 				if res.status().is_success() {
+					println!("Successfully updated story {id}: {}", data.title);
 					story_metadata.insert(id, data);
 				} else {
-					eprintln!(
-						"Failed to update Fimfiction story {id}: {}",
-						res.text().await?
-					);
-					break;
+					eprintln!("Failed to update story {id}: {}", res.text().await?);
 				}
 			}
 			Err(error) => {
-				eprintln!("Failed to send request for story {id}: {error:?}");
-				break;
+				eprintln!("Failed to send patch request for story {id}: {error:?}");
 			}
 		}
 	}
