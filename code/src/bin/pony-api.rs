@@ -10,6 +10,7 @@ use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
 use serde::{Deserialize, Serialize};
+use serde_json::json;
 use sha2::{Digest, Sha256};
 use std::collections::HashMap;
 use std::collections::hash_map::Entry;
@@ -44,7 +45,7 @@ struct Characters {
 	twilight_sparkle: usize,
 }
 
-#[derive(Debug, Deserialize, Clone, Serialize, PartialEq, Eq)]
+#[derive(Debug, Deserialize, Clone, Serialize)]
 struct StoryMeta {
 	title: String,
 	short_desc: String,
@@ -294,32 +295,60 @@ fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
 	regex_str.push_str(r"(.*\n)*^## Description:\n(?<description>(.|\n)*)$");
 	regex_str.push_str(r"\n## Short Description:\n(?<short_description>.*)$");
 	let re = Regex::new(&regex_str)?;
-	let mut update_metadata = vec![];
+	let mut updates = HashMap::new();
 	for meta in meta_files {
 		let file = fs::read_to_string(meta)?;
-		if let Some(caps) = re.captures(&file) {
-			let long_desc = bbcode::parse(caps["description"].trim(), &Quiet);
-			let data = StoryMeta {
-				title: caps["title"].to_string(),
-				short_desc: caps["short_description"].to_string(),
-				long_desc_hash: const_hex::encode(Sha256::digest(long_desc)),
-			};
-			let id: u32 = caps["fimfic_id"].parse()?;
-			match story_metadata.entry(id) {
-				Entry::Occupied(mut entry) => {
-					if entry.get() != &data {
-						entry.insert(data);
+		let Some(caps) = re.captures(&file) else {
+			continue;
+		};
+		let long_desc = bbcode::parse(caps["description"].trim(), &Quiet);
+		let data = StoryMeta {
+			title: caps["title"].to_string(),
+			short_desc: caps["short_description"].to_string(),
+			long_desc_hash: const_hex::encode(Sha256::digest(&long_desc)),
+		};
+		let id: u32 = caps["fimfic_id"].parse()?;
+		match story_metadata.entry(id) {
+			Entry::Occupied(mut entry) => {
+				let cache = entry.get();
+				let mut changes = HashMap::new();
+				if cache.title != data.title {
+					changes.insert("title", &data.title);
+				}
+				if cache.short_desc != data.short_desc {
+					changes.insert("short_description", &data.short_desc);
+				}
+				if cache.long_desc_hash != data.long_desc_hash {
+					changes.insert("description", &long_desc);
+				}
+				if changes.is_empty() {
+					continue;
+				}
+				let json = json!({
+					"data": {
+						"attributes": changes
+						}
 					}
-				}
-				Entry::Vacant(entry) => {
-					entry.insert(data);
-					update_metadata.push(id);
-				}
+				);
+				entry.insert(data);
+				updates.insert(id, json);
+			}
+			Entry::Vacant(entry) => {
+				let json = json!({
+					"data": {
+						"attributes": {
+							"title": &data.title,
+							"short_description": &data.short_desc,
+							"description": long_desc,
+						}
+					}
+				});
+				entry.insert(data);
+				updates.insert(id, json);
 			}
 		}
 	}
-	update_metadata.sort();
-	for updates in &update_metadata {
+	for update in &updates {
 		// update fimfic here
 	}
 	// Un-comment line below when finished.
