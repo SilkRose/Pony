@@ -51,6 +51,7 @@ serde_json = { version = "1.0.151", features = [
 sha2 = { version = "0.11.1", optional = true }
 tokio = { version = "1.53.1", features = [
 	"macros",
+	"time",
 	"rt-multi-thread",
 ], optional = true }
 
@@ -86,6 +87,7 @@ default = [
 ]
 
 binary = [
+	"bytes",
 	"fimfiction-api",
 	"fs",
 	"http",
@@ -93,6 +95,8 @@ binary = [
 	"markdown",
 	"regex",
 	"stdin",
+	"traits",
+	"word-stats",
 	"dep:const-hex",
 	"dep:git2",
 	"dep:serde",
