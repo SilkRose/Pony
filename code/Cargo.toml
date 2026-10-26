@@ -49,7 +49,10 @@ serde_json = { version = "1.0.151", features = [
 	"preserve_order",
 ], optional = true }
 sha2 = { version = "0.11.1", optional = true }
-tokio = { version = "1.53.1", optional = true }
+tokio = { version = "1.53.1", features = [
+	"macros",
+	"rt-multi-thread",
+], optional = true }
 
 [features]
 default = [
@@ -83,13 +86,17 @@ default = [
 ]
 
 binary = [
+	"fimfiction-api",
 	"fs",
+	"http",
 	"json",
 	"markdown",
 	"regex",
 	"stdin",
 	"dep:const-hex",
 	"dep:git2",
+	"dep:serde",
+	"dep:serde_json",
 	"dep:sha2",
 ]
 
@@ -99,7 +106,7 @@ color = ["dep:serde"]
 command = []
 env = []
 experience = []
-fimfiction-api = []
+fimfiction-api = ["dep:reqwest", "dep:serde"]
 fs = ["dep:camino"]
 http = ["time", "dep:reqwest", "dep:tokio"]
 json = ["dep:serde", "dep:serde_json"]

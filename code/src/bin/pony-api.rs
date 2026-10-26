@@ -1,6 +1,8 @@
 use git2::{Repository, ResetType, build};
 use pony::bytes::{FormatType, format_size_bytes};
+use pony::fimfiction_api::fimfic_api_headers;
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
+use pony::http::{Request, api_patch_request};
 use pony::json::{JsonFormat, format_json};
 use pony::markdown::WarningType::Quiet;
 use pony::markdown::bbcode;
@@ -9,6 +11,7 @@ use pony::regex::matches;
 use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
 use regex::Regex;
+use reqwest::Client;
 use serde::{Deserialize, Serialize};
 use serde_json::json;
 use sha2::{Digest, Sha256};
@@ -18,6 +21,7 @@ use std::error::Error;
 use std::fs::File;
 use std::io::{Read, Write};
 use std::path::{MAIN_SEPARATOR, Path};
+use std::time::Duration;
 use std::{env, fs};
 
 #[derive(Debug, Deserialize, Clone, Serialize)]
@@ -52,7 +56,8 @@ struct StoryMeta {
 	long_desc_hash: String,
 }
 
-fn main() -> Result<(), Box<dyn Error>> {
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn Error>> {
 	let dist_temp = "./dist";
 	let pony_temp = "./pony-temp";
 	let git_url = "https://github.com/SilkRose/Pony.git";
@@ -72,7 +77,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 	let characters = character_stats(&text)?;
 	fs::File::create("../dist/api/v1/characters.json")?
 		.write_all(format_json(&characters, &JsonFormat::Tab)?.as_bytes())?;
-	update_fimfiction_stories(&files)?;
+	update_fimfiction_stories(&files).await?;
 	Ok(())
 }
 
@@ -269,15 +274,9 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 	})
 }
 
-fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
-	let mut story_meta_file = File::options()
-		.create(true)
-		.truncate(true)
-		.read(true)
-		.write(true)
-		.open("../dist/api/v1/story-meta.json")?;
-	let mut story_meta_str = String::new();
-	story_meta_file.read_to_string(&mut story_meta_str)?;
+async fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
+	let meta_path = "../dist/api/v1/story-meta.json";
+	let story_meta_str = fs::read_to_string(meta_path).unwrap_or_default();
 	let mut story_metadata: HashMap<u32, StoryMeta> = match story_meta_str.is_empty() {
 		false => serde_json::from_str(&story_meta_str)?,
 		true => HashMap::default(),
@@ -295,7 +294,17 @@ fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
 	regex_str.push_str(r"(.*\n)*^## Description:\n(?<description>(.|\n)*)$");
 	regex_str.push_str(r"\n## Short Description:\n(?<short_description>.*)$");
 	let re = Regex::new(&regex_str)?;
-	let mut updates = HashMap::new();
+	let args: Vec<String> = env::args().collect();
+	let user_agent = format!("SilkRose-Pony/{}", env!("CARGO_PKG_VERSION"));
+	let api = Request {
+		client: Client::new(),
+		headers: fimfic_api_headers(Some(&user_agent), &args[1])?,
+		interval: Duration::from_millis(500),
+		interval_step: Duration::from_secs(2),
+		interval_max: Duration::from_secs(120),
+		timeout: Duration::from_secs(10),
+		max_tries: 4,
+	};
 	for meta in meta_files {
 		let file = fs::read_to_string(meta)?;
 		let Some(caps) = re.captures(&file) else {
@@ -308,8 +317,8 @@ fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
 			long_desc_hash: const_hex::encode(Sha256::digest(&long_desc)),
 		};
 		let id: u32 = caps["fimfic_id"].parse()?;
-		match story_metadata.entry(id) {
-			Entry::Occupied(mut entry) => {
+		let json = match story_metadata.entry(id) {
+			Entry::Occupied(entry) => {
 				let cache = entry.get();
 				let mut changes = HashMap::new();
 				if cache.title != data.title {
@@ -330,10 +339,9 @@ fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
 						}
 					}
 				);
-				entry.insert(data);
-				updates.insert(id, json);
+				json.to_string()
 			}
-			Entry::Vacant(entry) => {
+			Entry::Vacant(_) => {
 				let json = json!({
 					"data": {
 						"attributes": {
@@ -343,15 +351,28 @@ fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
 						}
 					}
 				});
-				entry.insert(data);
-				updates.insert(id, json);
+				json.to_string()
+			}
+		};
+		let endpoint = format!("https://www.fimfiction.net/api/v2/stories/{id}");
+		match api_patch_request(&api, json, &endpoint).await {
+			Ok(res) => {
+				if res.status().is_success() {
+					story_metadata.insert(id, data);
+				} else {
+					eprintln!(
+						"Failed to update Fimfiction story {id}: {}",
+						res.text().await?
+					);
+					break;
+				}
+			}
+			Err(error) => {
+				eprintln!("Failed to send request for story {id}: {error:?}");
+				break;
 			}
 		}
 	}
-	for update in &updates {
-		// update fimfic here
-	}
-	// Un-comment line below when finished.
-	// story_meta_file.write_all(format_json(&story_metadata, &JsonFormat::Tab)?.as_bytes())?;
+	fs::write(meta_path, format_json(&story_metadata, &JsonFormat::Tab)?)?;
 	Ok(())
 }
