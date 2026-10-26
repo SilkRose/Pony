@@ -18,7 +18,6 @@ use sha2::{Digest, Sha256};
 use std::collections::HashMap;
 use std::collections::hash_map::Entry;
 use std::error::Error;
-use std::fs::File;
 use std::io::{Read, Write};
 use std::path::{MAIN_SEPARATOR, Path};
 use std::time::Duration;
