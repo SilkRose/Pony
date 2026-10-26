@@ -59,8 +59,10 @@ jobs:
             - name: Move binary
               run: mv ./cache/pony-api .
 
-            - name: Generate JSON
-              run: ./pony-api
+            - name: Run API Binary
+              env:
+                ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+              run: ./pony-api "$ACCESS_TOKEN"
 
             - name: Deploy API
               run: |
