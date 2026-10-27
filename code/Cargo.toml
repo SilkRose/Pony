@@ -43,7 +43,7 @@ markdown = { version = "1.0.0", optional = true }
 num_cpus = { version = "1.17.0", optional = true }
 rand = { version = "0.10.2", optional = true }
 regex = { version = "1.13.1", optional = true }
-reqwest = { version = "0.13.5", features = ["json"], optional = true }
+reqwest = { version = "0.13.5", optional = true }
 serde = { version = "1.0.229", features = ["derive"], optional = true }
 serde_json = { version = "1.0.151", features = [
 	"preserve_order",
@@ -99,21 +99,32 @@ binary = [
 	"word-stats",
 	"dep:const-hex",
 	"dep:git2",
+	"git2/https",
 	"dep:serde",
+	"serde/derive",
 	"dep:serde_json",
+	"serde_json/preserve_order",
 	"dep:sha2",
+	"dep:tokio",
+	"tokio/macros",
+	"tokio/rt-multi-thread",
 ]
 
 averages = []
 bytes = ["number-format"]
-color = ["dep:serde"]
+color = ["dep:serde", "serde/derive"]
 command = []
 env = []
 experience = []
-fimfiction-api = ["dep:reqwest", "dep:serde"]
+fimfiction-api = ["dep:reqwest", "dep:serde", "serde/derive"]
 fs = ["dep:camino"]
-http = ["time", "dep:reqwest", "dep:tokio"]
-json = ["dep:serde", "dep:serde_json"]
+http = ["time", "dep:reqwest", "dep:tokio", "tokio/time"]
+json = [
+	"dep:serde",
+	"serde/derive",
+	"dep:serde_json",
+	"serde_json/preserve_order",
+]
 log = ["fs", "dep:chrono"]
 markdown = ["dep:markdown"]
 number-format = []
@@ -125,9 +136,9 @@ sprite-sheet = ["dep:image"]
 stderr = []
 stdin = []
 string-image = ["color", "fs", "dep:image"]
-structs = ["dep:serde"]
+structs = ["dep:serde", "serde/derive"]
 threads = ["dep:num_cpus"]
-time = ["number-format", "dep:tokio"]
+time = ["number-format", "dep:tokio", "tokio/time"]
 traits = []
 word-stats = ["markdown", "dep:regex"]
 
