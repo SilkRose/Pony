@@ -4,13 +4,13 @@ Twilight was about to head to bed when she heard a knock on the library's front 
 
 *Who could that be?*
 
-She made her way to the door and answered it, finding Pinkie.
+When she answered it, she found Pinkie.
 
 "Hi Twilight. I was wondering if I could sleep over at your place for a few days?"
 
 Twilight looked puzzled. "Sure, but why do you need to stay with me?"
 
-"I loaned my bed to the traveling circus in town. They needed a bed for some seriously dangerous stunts."
+"I loaned my bed to the traveling circus that's in town. They needed a bed for some seriously dangerous stunts."
 
 Twilight accepted this. "Sure, I have a spare bed in my loft."
 
@@ -20,7 +20,7 @@ Twilight sighed. "Do we at least get free tickets for loaning out our property?"
 
 Pinkie nodded enthusiastically. "We can go see our beds live!"
 
-Twilight didn't exactly understand, but she didn't mind. Until she realized what that meant.
+Twilight didn't exactly understand, but she didn't mind.  Until she realized what that meant.
 
 *I'm going to be sharing my bed with Pinkie.*
 
@@ -36,7 +36,7 @@ Pinkie said, "Goodnight, Twilight."
 
 Twilight replied, "Goodnight, Pinkie."
 
-Twilight laid awake unable to sleep. Her mind racing around the pony sleeping beside her.
+Twilight lay awake unable to sleep, her mind racing around the pony sleeping beside her.
 
 *I can't believe we're sharing a bed.*
 
@@ -52,7 +52,7 @@ A smile came to her lips as she thought of her.
 
 Twilight rolled over and rested her head on Pinkie's mane.
 
-She whispered to her, "I love you, Pinkie."
+She whispered, "I love you, Pinkie."
 
 She finally calmed herself down and managed to fall asleep.
 
@@ -84,13 +84,13 @@ With that, they both closed their eyes and Pinkie rolled over.
 
 Twilight giggled as she felt Pinkie poking her to find where she was. "I'm sorry for the weird request…"
 
-Pinkie smiled. "Oh, it's fine. It's just like a new little game, right?"
+"Oh, it's fine. It's just like a new little game, right?"
 
-Twilight smiled. "Right."
+"Right."
 
-Pinkie grabbed Twilight's hoof, holding it. "Goodnight, Twilight."
+Pinkie grabbed Twilight's hoof, holding it. "Good night, Twilight."
 
-Twilight scooted closer to Pinkie. "goodnight, Pinkie."
+Twilight scooted closer to Pinkie. "Good night, Pinkie."
 
 ***
 
@@ -106,21 +106,21 @@ Pinkie smiled. *She's so beautiful.*
 
 *I just need to be vulnerable.*
 
-Pinkie leans down and kisses Twilight's hoof. "I love you, Twilight."
+Pinkie leaned down and kisses Twilight's hoof. "I love you, Twilight."
 
 With that she closed her eyes and went back to sleep.
 
 ***
 
-The next day went similar as the previous, they spent the day together and had fun throughout.
+The next day was similar to the previous. They spent the day together and had fun throughout.
 
-That night however, was different.
+That night, however, was different.
 
-Twilight couldn't sleep. She had laid there for over an hour with her back pressed against Pinkie's. Who had been asleep almost the whole time. Twilight wanted to cry.
+Twilight couldn't sleep. She had lain there for over an hour with her back pressed against Pinkie's. Pinkie had been asleep almost the whole time. Twilight wanted to cry.
 
-All she had to do was tell Pinkie how she felt, but here she laid.
+All she had to do was tell Pinkie how she felt, but here she lay.
 
-Twilight finally broke down and cried into her hooves. She tried to cry quietly, hoping Pinkie wouldn't wake up.
+Twilight finally broke down and cried into her hooves.  She tried to cry quietly, hoping Pinkie wouldn't wake up.
 
 *Why is this so hard?*
 
@@ -128,7 +128,7 @@ Twilight finally broke down and cried into her hooves. She tried to cry quietly,
 
 *We're literally sharing a bed.*
 
-As her mind emptied of thoughts, she continued to cry. A cry of defeat, and loneliness.
+As her mind emptied of thoughts, she continued to cry, a cry of defeat and loneliness.
 
 But eventually, somepony did notice.
 
@@ -136,7 +136,7 @@ But eventually, somepony did notice.
 
 Getting no response, she tried again. "Twilight, are you crying?"
 
-Twilight refused to answer, she didn't know what to say or how to explain this.
+Twilight refused to answer. She didn't know what to say or how to explain this.
 
 Pinkie rolled over before wrapping her hooves around Twilight.
 
@@ -144,27 +144,27 @@ Pinkie rolled over before wrapping her hooves around Twilight.
 
 Pinkie held her tight and nuzzled the back of her mane.
 
-They stayed like this for minutes, but as Twilight cried her last tear, she decided to face Pinkie.
+They stayed like this for minutes. As Twilight cried her last tear, she decided to face Pinkie.
 
-Twilight rolled in the bed and faced Pinkie. Their eyes met for a brief time before Twilight buried her head into Pinkie's chest.
+Twilight rolled in the bed. Their eyes met for a brief time before Twilight buried her head into Pinkie's chest.
 
 Pinkie asked, "Is there anything I can do to make you feel better?"
 
-Twilight muttered, "Hold me…"
+Twilight murmured, "Hold me…"
 
-Pinkie does as requested, holding Twilight tight.
+Pinkie did as requested, holding Twilight tight.
 
-They stayed like this the whole night, as they both fell asleep soon after.
+They both fell asleep soon after and stayed like that the whole night.
 
 ***
 
-The next morning Twilight woke up with Pinkie's hooves still holding her.
+The next morning, Twilight woke up with Pinkie's hooves still holding her.
 
 Twilight tried to wake her. "Pinkie?"
 
-She gently shakes Pinkie. "Pinkie."
+She gently shook Pinkie. "Pinkie."
 
-With that, Pinkies wakes up. "Twilight…"
+With that, Pinkies woke up. "Twilight…"
 
 Twilight sheepishly smiled. "Hi."
 
@@ -176,7 +176,7 @@ Twilight replied, "I actually had something I need to say too. Do you want to go
 
 "No, you can go first."
 
-Twilight composed herself then said, "I don't want this to end. I've had so much fun with you the last few days."
+Twilight composed herself, then said, "I don't want this to end. I've had so much fun with you the last few days."
 
 Pinkie blushed slightly. "I've had a lot of fun too."
 
@@ -189,10 +189,6 @@ After a brief pause, Twilight continued.
 "Me too!"
 
 "So, I guess what I really need to know is… Will you go out with me?"
-
-Pinkie excitedly hugged Twilight. "Yes!"
-
-Twilight replied, "Yay!"
 
 "That's actually what I wanted to ask you…"
 
