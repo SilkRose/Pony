@@ -1,13 +1,11 @@
 use super::number_format::format_number_unit_f64;
 
-type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
-
 pub enum FormatType {
 	Abbreviation,
 	FullName,
 }
 
-pub fn format_size_bits(bytes: f64, format: FormatType) -> Result<String> {
+pub fn format_size_bits(bytes: f64, format: FormatType) -> String {
 	let abbreviations = [
 		"b", "Kb", "Mb", "Gb", "Tb", "Pb", "Eb", "Zb", "Yb", "Rb", "Qb",
 	];
@@ -33,7 +31,7 @@ pub fn format_size_bits(bytes: f64, format: FormatType) -> Result<String> {
 	format_number_unit_f64(bytes * 8.0, 1000.0, &units, 2, true, true)
 }
 
-pub fn format_size_bytes(bytes: f64, format: FormatType) -> Result<String> {
+pub fn format_size_bytes(bytes: f64, format: FormatType) -> String {
 	let abbreviations = [
 		"B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB", "RB", "QB",
 	];
@@ -59,7 +57,7 @@ pub fn format_size_bytes(bytes: f64, format: FormatType) -> Result<String> {
 	format_number_unit_f64(bytes, 1000.0, &units, 2, true, true)
 }
 
-pub fn format_size_ibibits(bytes: f64, format: FormatType) -> Result<String> {
+pub fn format_size_ibibits(bytes: f64, format: FormatType) -> String {
 	let abbreviations = [
 		"b", "Kib", "Mib", "Gib", "Tib", "Pib", "Eib", "Zib", "Yib", "Rib", "Qib",
 	];
@@ -85,7 +83,7 @@ pub fn format_size_ibibits(bytes: f64, format: FormatType) -> Result<String> {
 	format_number_unit_f64(bytes * 8.0, 1024.0, &units, 2, true, true)
 }
 
-pub fn format_size_ibibytes(bytes: f64, format: FormatType) -> Result<String> {
+pub fn format_size_ibibytes(bytes: f64, format: FormatType) -> String {
 	let abbreviations = [
 		"B", "KiB", "MiB", "GiB", "TiB", "PiB", "EiB", "ZiB", "YiB", "RiB", "QiB",
 	];

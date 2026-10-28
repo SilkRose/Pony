@@ -105,7 +105,7 @@ pub fn format_milliseconds(ms: u128, max_units: Option<u8>) -> Result<String> {
 					unit.multiple
 				};
 				let count = if count >= 1000 {
-					format_number_u128(count).unwrap_or(count.to_string())
+					format_number_u128(count)
 				} else {
 					count.to_string()
 				};

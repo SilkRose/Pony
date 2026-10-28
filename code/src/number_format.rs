@@ -1,103 +1,167 @@
-type Result<T, E = Box<dyn ::std::error::Error>> = ::std::result::Result<T, E>;
-
-pub fn format_number_f64(number: f64, decimal_places: usize) -> Result<String> {
-	let number = format!("{number:.decimal_places$}");
-	let decimal = number.split('.').next_back().unwrap();
-	let number = number.split('.').collect::<Vec<_>>();
-	let number = number.first().unwrap();
-	let (number, negative) = match number.starts_with('-') {
-		true => (number.trim_start_matches('-').to_string(), true),
-		false => (number.to_string(), false),
-	};
-	let number = format_number(number)?;
-	match negative {
-		true => Ok(format!("-{number}.{decimal}")),
-		false => Ok(format!("{number}.{decimal}")),
-	}
-}
-
-pub fn format_number_i128(number: i128) -> Result<String> {
-	let (number, negative) = match number < 0 {
-		true => (number.abs().to_string(), true),
-		false => (number.to_string(), false),
-	};
-	let number = format_number(number)?;
-	match negative {
-		true => Ok(format!("-{number}")),
-		false => Ok(number.to_string()),
-	}
-}
-
-pub fn format_number_u128(number: u128) -> Result<String> {
-	format_number(number.to_string())
-}
-
-fn format_number(number: String) -> Result<String> {
-	Ok(number
+/// Comma delineates numbers. Kept private for use only in this module.
+fn format_number(number: &str) -> String {
+	number
 		.as_bytes()
 		.rchunks(3)
 		.rev()
-		.map(std::str::from_utf8)
-		.collect::<Result<Vec<&str>, _>>()?
-		.join(","))
+		.map(|c| unsafe { std::str::from_utf8_unchecked(c) })
+		.collect::<Vec<&str>>()
+		.join(",")
 }
 
-pub fn format_number_unit_f64(
+fn trim_float(number: &str) -> String {
+	number
+		.trim_end_matches("0")
+		.trim_end_matches(".")
+		.to_string()
+}
+
+macro_rules! format_number_float {
+	($fun:ident, $T:ty, $early_fun:ident, $early_cast:ty) => {
+		pub fn $fun(number: $T, decimal_places: usize) -> String {
+			if decimal_places == 0 {
+				return $early_fun(number as $early_cast);
+			}
+			let number_str = format!("{number:.decimal_places$}");
+			let (integer, fraction) = number_str.split_once(".").expect("Will always be present.");
+			match number < 0.0 {
+				false => format!("{}.{fraction}", format_number(integer)),
+				true => format!(
+					"-{}.{fraction}",
+					format_number(integer.trim_start_matches("-"))
+				),
+			}
+		}
+	};
+}
+
+format_number_float!(format_number_f32, f32, format_number_i32, i32);
+format_number_float!(format_number_f64, f64, format_number_i64, i64);
+
+macro_rules! format_number_signed {
+	($fun:ident, $T:ty) => {
+		pub fn $fun(number: $T) -> String {
+			match number < 0 {
+				false => format_number(&number.to_string()),
+				true => format!("-{}", format_number(&number.abs().to_string())),
+			}
+		}
+	};
+}
+
+format_number_signed!(format_number_i8, i8);
+format_number_signed!(format_number_i16, i16);
+format_number_signed!(format_number_i32, i32);
+format_number_signed!(format_number_i64, i64);
+format_number_signed!(format_number_i128, i128);
+format_number_signed!(format_number_isize, isize);
+
+macro_rules! format_number_unsigned {
+	($fun:ident, $T:ty) => {
+		pub fn $fun(number: $T) -> String {
+			format_number(&number.to_string())
+		}
+	};
+}
+
+format_number_unsigned!(format_number_u8, u8);
+format_number_unsigned!(format_number_u16, u16);
+format_number_unsigned!(format_number_u32, u32);
+format_number_unsigned!(format_number_u64, u64);
+format_number_unsigned!(format_number_u128, u128);
+format_number_unsigned!(format_number_usize, usize);
+
+pub fn format_number_unit_f64_old(
 	number: f64, divisor: f64, units: &[&str], decimal_places: usize, spaced: bool, trim_tail: bool,
-) -> Result<String> {
+) -> String {
 	let spaced = if spaced { " " } else { "" };
 	let mut current = number;
 	for unit in units.iter() {
 		if current < divisor {
-			return Ok(format!("{current:.decimal_places$}{spaced}{unit}"));
+			return format!("{current:.decimal_places$}{spaced}{unit}");
 		}
 		current /= divisor;
 	}
-	let mut number = format_number_f64(current, decimal_places)?;
+	let mut number = format_number_f64(current, decimal_places);
 	if trim_tail && number.contains(".") {
 		number = number
 			.trim_end_matches("0")
 			.trim_end_matches(".")
 			.to_string();
 	}
-	Ok(format!("{number}{spaced}{}", units.last().unwrap()))
+	format!("{number}{spaced}{}", units.last().unwrap())
 }
 
-pub fn format_number_unit_u128(
-	number: u128, divisor: u128, units: &[&str], spaced: bool,
-) -> Result<String> {
-	let spaced = if spaced { " " } else { "" };
-	let mut current = number;
-	for unit in units.iter() {
-		if current < divisor {
-			return Ok(format!("{current}{spaced}{unit}"));
+macro_rules! format_number_unit_float {
+	($fun:ident, $T:ty, $format_fun:ident) => {
+		pub fn $fun(
+			number: $T, divisor: $T, units: &[&str], decimal_places: usize, spaced: bool,
+			trim_tail: bool,
+		) -> String {
+			if units.is_empty() {
+				return $format_fun(number, decimal_places);
+			}
+			let space = if spaced { " " } else { "" };
+			let mut current = number;
+			let mut current_unit = units.first().expect("Will always be present.");
+			let mut loop_broken = false;
+			for unit in units.iter() {
+				if current < divisor {
+					loop_broken = true;
+					break;
+				}
+				current /= divisor;
+				current_unit = unit;
+			}
+			let mut number_str = match loop_broken {
+				true => format!("{current:.decimal_places$}"),
+				false => $format_fun(current, decimal_places),
+			};
+			if trim_tail && number_str.contains(".") {
+				number_str = trim_float(&number_str);
+			}
+			format!("{number_str}{space}{current_unit}")
 		}
-		current /= divisor;
-	}
-	Ok(format!(
-		"{}{spaced}{}",
-		format_number_u128(current)?,
-		units.last().unwrap()
-	))
+	};
 }
 
-pub fn format_number_unit_i128(
-	number: i128, divisor: i128, units: &[&str], spaced: bool,
-) -> Result<String> {
-	let spaced = if spaced { " " } else { "" };
-	let mut current = number;
-	for unit in units.iter() {
-		if current < divisor {
-			return Ok(format!("{current}{spaced}{unit}"));
+format_number_unit_float!(format_number_unit_f32, f32, format_number_f32);
+format_number_unit_float!(format_number_unit_f64, f64, format_number_f64);
+
+macro_rules! format_number_unit_integer {
+	($fun:ident, $T:ty, $format_fun:ident) => {
+		pub fn $fun(number: $T, divisor: $T, units: &[&str], spaced: bool) -> String {
+			if units.is_empty() {
+				return $format_fun(number);
+			}
+			let space = if spaced { " " } else { "" };
+			let mut current = number;
+			let mut current_unit = units.first().expect("Will always be present.");
+			for unit in units.iter() {
+				if current < divisor {
+					return format!("{current}{space}{unit}");
+				}
+				current /= divisor;
+				current_unit = unit;
+			}
+			format!("{}{space}{current_unit}", $format_fun(current))
 		}
-		current /= divisor;
-	}
-	Ok(format!(
-		"{}{spaced}{}",
-		format_number_i128(current)?,
-		units.last().unwrap()
-	))
+	};
 }
+
+format_number_unit_integer!(format_number_unit_i8, i8, format_number_i8);
+format_number_unit_integer!(format_number_unit_i16, i16, format_number_i16);
+format_number_unit_integer!(format_number_unit_i32, i32, format_number_i32);
+format_number_unit_integer!(format_number_unit_i64, i64, format_number_i64);
+format_number_unit_integer!(format_number_unit_i128, i128, format_number_i128);
+format_number_unit_integer!(format_number_unit_isize, isize, format_number_isize);
+
+format_number_unit_integer!(format_number_unit_u8, u8, format_number_u8);
+format_number_unit_integer!(format_number_unit_u16, u16, format_number_u16);
+format_number_unit_integer!(format_number_unit_u32, u32, format_number_u32);
+format_number_unit_integer!(format_number_unit_u64, u64, format_number_u64);
+format_number_unit_integer!(format_number_unit_u128, u128, format_number_u128);
+format_number_unit_integer!(format_number_unit_usize, usize, format_number_usize);
 
 pub enum FormatType {
 	MetricPrefix,
@@ -106,11 +170,11 @@ pub enum FormatType {
 
 pub fn format_number_unit_metric(
 	number: f64, format: FormatType, decimal_places: usize, trim_tail: bool,
-) -> Result<String> {
+) -> String {
 	if number <= 1000.0 {
-		return Ok(number.to_string());
+		return number.to_string();
 	}
-	let metrix_prefixes = ["K", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+	let metric_prefixes = ["K", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
 	let short_scale_names = [
 		"thousand",
 		"million",
@@ -124,7 +188,7 @@ pub fn format_number_unit_metric(
 		"nonillion",
 	];
 	let (units, spaced) = match format {
-		FormatType::MetricPrefix => (metrix_prefixes, false),
+		FormatType::MetricPrefix => (metric_prefixes, false),
 		FormatType::ShortScaleName => (short_scale_names, true),
 	};
 	format_number_unit_f64(
