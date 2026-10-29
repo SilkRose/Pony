@@ -9,13 +9,6 @@ fn format_number(number: &str) -> String {
 		.join(",")
 }
 
-fn trim_float(number: &str) -> String {
-	number
-		.trim_end_matches("0")
-		.trim_end_matches(".")
-		.to_string()
-}
-
 macro_rules! format_number_float {
 	($fun:ident, $T:ty, $early_fun:ident, $early_cast:ty) => {
 		pub fn $fun(number: $T, decimal_places: usize) -> String {
@@ -71,32 +64,19 @@ format_number_unsigned!(format_number_u64, u64);
 format_number_unsigned!(format_number_u128, u128);
 format_number_unsigned!(format_number_usize, usize);
 
-pub fn format_number_unit_f64_old(
-	number: f64, divisor: f64, units: &[&str], decimal_places: usize, spaced: bool, trim_tail: bool,
-) -> String {
-	let spaced = if spaced { " " } else { "" };
-	let mut current = number;
-	for unit in units.iter() {
-		if current < divisor {
-			return format!("{current:.decimal_places$}{spaced}{unit}");
-		}
-		current /= divisor;
-	}
-	let mut number = format_number_f64(current, decimal_places);
-	if trim_tail && number.contains(".") {
-		number = number
-			.trim_end_matches("0")
-			.trim_end_matches(".")
-			.to_string();
-	}
-	format!("{number}{spaced}{}", units.last().unwrap())
+pub enum DecimalHandling {
+	Truncate,
+	Round,
+	RoundUp,
+	RoundDown,
+	RoundTiesEven,
 }
 
 macro_rules! format_number_unit_float {
 	($fun:ident, $T:ty, $format_fun:ident) => {
 		pub fn $fun(
-			number: $T, divisor: $T, units: &[&str], decimal_places: usize, spaced: bool,
-			trim_tail: bool,
+			number: $T, divisor: $T, units: &[&str], decimal_places: usize,
+			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
 		) -> String {
 			if units.is_empty() {
 				return $format_fun(number, decimal_places);
@@ -113,12 +93,24 @@ macro_rules! format_number_unit_float {
 				current /= divisor;
 				current_unit = unit;
 			}
+			if let Some(handler) = decimal_handling {
+				current = match handler {
+					DecimalHandling::Truncate => current.trunc(),
+					DecimalHandling::Round => current.round(),
+					DecimalHandling::RoundUp => current.ceil(),
+					DecimalHandling::RoundDown => current.floor(),
+					DecimalHandling::RoundTiesEven => current.round_ties_even(),
+				}
+			}
 			let mut number_str = match loop_broken {
 				true => format!("{current:.decimal_places$}"),
 				false => $format_fun(current, decimal_places),
 			};
 			if trim_tail && number_str.contains(".") {
-				number_str = trim_float(&number_str);
+				number_str = number_str
+					.trim_end_matches("0")
+					.trim_end_matches(".")
+					.to_string()
 			}
 			format!("{number_str}{space}{current_unit}")
 		}
@@ -196,6 +188,7 @@ pub fn format_number_unit_metric(
 		1000.0,
 		&units,
 		decimal_places,
+		None,
 		spaced,
 		trim_tail,
 	)
