@@ -28,7 +28,14 @@ pub fn format_size_bits(bytes: f64, format: FormatType) -> String {
 		FormatType::FullName => full_names,
 	};
 
-	format_number_unit_f64(bytes * 8.0, 1000.0, &units, 2, None, true, true)
+	format_number_unit_f64()
+		.number(bytes * 8.0)
+		.divisor(1000.0)
+		.decimal_places(2)
+		.spaced(true)
+		.trim_tail(true)
+		.units(&units)
+		.call()
 }
 
 pub fn format_size_bytes(bytes: f64, format: FormatType) -> String {
@@ -54,7 +61,14 @@ pub fn format_size_bytes(bytes: f64, format: FormatType) -> String {
 		FormatType::FullName => full_names,
 	};
 
-	format_number_unit_f64(bytes, 1000.0, &units, 2, None, true, true)
+	format_number_unit_f64()
+		.number(bytes)
+		.divisor(1000.0)
+		.decimal_places(2)
+		.spaced(true)
+		.trim_tail(true)
+		.units(&units)
+		.call()
 }
 
 pub fn format_size_ibibits(bytes: f64, format: FormatType) -> String {
@@ -80,7 +94,14 @@ pub fn format_size_ibibits(bytes: f64, format: FormatType) -> String {
 		FormatType::FullName => full_names,
 	};
 
-	format_number_unit_f64(bytes * 8.0, 1024.0, &units, 2, None, true, true)
+	format_number_unit_f64()
+		.number(bytes * 8.0)
+		.divisor(1024.0)
+		.decimal_places(2)
+		.spaced(true)
+		.trim_tail(true)
+		.units(&units)
+		.call()
 }
 
 pub fn format_size_ibibytes(bytes: f64, format: FormatType) -> String {
@@ -105,6 +126,12 @@ pub fn format_size_ibibytes(bytes: f64, format: FormatType) -> String {
 		FormatType::Abbreviation => abbreviations,
 		FormatType::FullName => full_names,
 	};
-
-	format_number_unit_f64(bytes, 1024.0, &units, 2, None, true, true)
+	format_number_unit_f64()
+		.number(bytes)
+		.divisor(1024.0)
+		.decimal_places(2)
+		.spaced(true)
+		.trim_tail(true)
+		.units(&units)
+		.call()
 }

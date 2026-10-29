@@ -9,6 +9,13 @@ fn format_number(number: &str) -> String {
 		.join(",")
 }
 
+fn trim_float(number_str: String) -> String {
+	number_str
+		.trim_end_matches("0")
+		.trim_end_matches(".")
+		.to_string()
+}
+
 macro_rules! format_number_float {
 	($fun:ident, $T:ty, $early_fun:ident, $early_cast:ty) => {
 		pub fn $fun(number: $T, decimal_places: usize) -> String {
@@ -72,8 +79,37 @@ pub enum DecimalHandling {
 	RoundTiesEven,
 }
 
+macro_rules! handle_decimal_internal {
+	($num:expr, $handler:expr) => {
+		match $handler {
+			DecimalHandling::Truncate => $num.trunc(),
+			DecimalHandling::Round => $num.round(),
+			DecimalHandling::RoundUp => $num.ceil(),
+			DecimalHandling::RoundDown => $num.floor(),
+			DecimalHandling::RoundTiesEven => $num.round_ties_even(),
+		}
+	};
+}
+
+trait DecimalHandler<T> {
+	fn handle(self, handler: DecimalHandling) -> T;
+}
+
+impl DecimalHandler<f64> for f64 {
+	fn handle(self, handler: DecimalHandling) -> f64 {
+		handle_decimal_internal!(self, handler)
+	}
+}
+
+impl DecimalHandler<f32> for f32 {
+	fn handle(self, handler: DecimalHandling) -> f32 {
+		handle_decimal_internal!(self, handler)
+	}
+}
+
 macro_rules! format_number_unit_float {
 	($fun:ident, $T:ty, $format_fun:ident) => {
+		#[bon::builder]
 		pub fn $fun(
 			number: $T, divisor: $T, units: &[&str], decimal_places: usize,
 			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
@@ -94,23 +130,14 @@ macro_rules! format_number_unit_float {
 				current_unit = unit;
 			}
 			if let Some(handler) = decimal_handling {
-				current = match handler {
-					DecimalHandling::Truncate => current.trunc(),
-					DecimalHandling::Round => current.round(),
-					DecimalHandling::RoundUp => current.ceil(),
-					DecimalHandling::RoundDown => current.floor(),
-					DecimalHandling::RoundTiesEven => current.round_ties_even(),
-				}
+				current = current.handle(handler);
 			}
 			let mut number_str = match loop_broken {
 				true => format!("{current:.decimal_places$}"),
 				false => $format_fun(current, decimal_places),
 			};
 			if trim_tail && number_str.contains(".") {
-				number_str = number_str
-					.trim_end_matches("0")
-					.trim_end_matches(".")
-					.to_string()
+				number_str = trim_float(number_str);
 			}
 			format!("{number_str}{space}{current_unit}")
 		}
@@ -121,39 +148,140 @@ format_number_unit_float!(format_number_unit_f32, f32, format_number_f32);
 format_number_unit_float!(format_number_unit_f64, f64, format_number_f64);
 
 macro_rules! format_number_unit_integer {
-	($fun:ident, $T:ty, $format_fun:ident) => {
-		pub fn $fun(number: $T, divisor: $T, units: &[&str], spaced: bool) -> String {
+	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
+		#[bon::builder]
+		pub fn $fun(
+			number: $T, divisor: $T, units: &[&str], decimal_places: usize,
+			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+		) -> String {
 			if units.is_empty() {
 				return $format_fun(number);
 			}
 			let space = if spaced { " " } else { "" };
 			let mut current = number;
 			let mut current_unit = units.first().expect("Will always be present.");
+			let mut loop_broken = false;
 			for unit in units.iter() {
 				if current < divisor {
-					return format!("{current}{space}{unit}");
+					loop_broken = true;
+					break;
 				}
 				current /= divisor;
 				current_unit = unit;
 			}
-			format!("{}{space}{current_unit}", $format_fun(current))
+			let remainder = current % divisor;
+			let mut current_float = current as $F;
+			let divisor_float = divisor as $F;
+			let remainder_float = remainder as $F;
+			if current_float as $T == current
+				&& divisor_float as $T == divisor
+				&& remainder_float as $T == remainder
+			{
+				let fraction = remainder_float / divisor_float;
+				current_float += fraction;
+				if let Some(handler) = decimal_handling {
+					current_float = current_float.handle(handler);
+				}
+				let mut number_str = match loop_broken {
+					true => format!("{current_float:.decimal_places$}"),
+					false => $format_float_fun(current_float, decimal_places),
+				};
+				if trim_tail && number_str.contains(".") {
+					number_str = trim_float(number_str);
+				}
+				format!("{number_str}{space}{current_unit}")
+			} else {
+				format!("{}{space}{current_unit}", $format_fun(current))
+			}
 		}
 	};
 }
 
-format_number_unit_integer!(format_number_unit_i8, i8, format_number_i8);
-format_number_unit_integer!(format_number_unit_i16, i16, format_number_i16);
-format_number_unit_integer!(format_number_unit_i32, i32, format_number_i32);
-format_number_unit_integer!(format_number_unit_i64, i64, format_number_i64);
-format_number_unit_integer!(format_number_unit_i128, i128, format_number_i128);
-format_number_unit_integer!(format_number_unit_isize, isize, format_number_isize);
+format_number_unit_integer!(
+	format_number_unit_i8,
+	i8,
+	format_number_i8,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer!(
+	format_number_unit_i16,
+	i16,
+	format_number_i16,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer!(
+	format_number_unit_i32,
+	i32,
+	format_number_i32,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer!(
+	format_number_unit_i64,
+	i64,
+	format_number_i64,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer!(
+	format_number_unit_i128,
+	i128,
+	format_number_i128,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer!(
+	format_number_unit_isize,
+	isize,
+	format_number_isize,
+	f64,
+	format_number_f64
+);
 
-format_number_unit_integer!(format_number_unit_u8, u8, format_number_u8);
-format_number_unit_integer!(format_number_unit_u16, u16, format_number_u16);
-format_number_unit_integer!(format_number_unit_u32, u32, format_number_u32);
-format_number_unit_integer!(format_number_unit_u64, u64, format_number_u64);
-format_number_unit_integer!(format_number_unit_u128, u128, format_number_u128);
-format_number_unit_integer!(format_number_unit_usize, usize, format_number_usize);
+format_number_unit_integer!(
+	format_number_unit_u8,
+	u8,
+	format_number_u8,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer!(
+	format_number_unit_u16,
+	u16,
+	format_number_u16,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer!(
+	format_number_unit_u32,
+	u32,
+	format_number_u32,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer!(
+	format_number_unit_u64,
+	u64,
+	format_number_u64,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer!(
+	format_number_unit_u128,
+	u128,
+	format_number_u128,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer!(
+	format_number_unit_usize,
+	usize,
+	format_number_usize,
+	f64,
+	format_number_f64
+);
 
 pub enum FormatType {
 	MetricPrefix,
@@ -183,13 +311,12 @@ pub fn format_number_unit_metric(
 		FormatType::MetricPrefix => (metric_prefixes, false),
 		FormatType::ShortScaleName => (short_scale_names, true),
 	};
-	format_number_unit_f64(
-		number / 1000.0,
-		1000.0,
-		&units,
-		decimal_places,
-		None,
-		spaced,
-		trim_tail,
-	)
+	format_number_unit_f64()
+		.number(number / 1000.0)
+		.divisor(1000.0)
+		.decimal_places(decimal_places)
+		.spaced(spaced)
+		.trim_tail(trim_tail)
+		.units(&units)
+		.call()
 }

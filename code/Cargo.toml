@@ -33,6 +33,7 @@ path = "src/bin/pony-api.rs"
 required-features = ["binary"]
 
 [dependencies]
+bon = { version = "3.10.3", optional = true }
 camino = { version = "1.2.6", optional = true }
 chrono = { version = "0.4.45", optional = true }
 chrono-tz = { version = "0.10.4", optional = true }
@@ -127,7 +128,7 @@ json = [
 ]
 log = ["fs", "dep:chrono"]
 markdown = ["dep:markdown"]
-number-format = []
+number-format = ["dep:bon"]
 pagination = []
 passphrase = ["dep:rand"]
 regex = ["dep:regex"]
