@@ -283,6 +283,190 @@ format_number_unit_integer!(
 	format_number_f64
 );
 
+macro_rules! format_number_unit_float_nonlinear {
+	($fun:ident, $T:ty, $format_fun:ident) => {
+		#[bon::builder]
+		pub fn $fun(
+			number: $T, divisors: &[$T], units: &[&str], decimal_places: usize,
+			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+		) -> String {
+			if units.is_empty() || divisors.is_empty() {
+				return $format_fun(number, decimal_places);
+			}
+			let space = if spaced { " " } else { "" };
+			let mut current = number;
+			let mut loop_broken = false;
+			let mut current_unit = units.first().expect("Will always be present.");
+			let last_divisor = divisors.last().expect("Will always be present.");
+			let repeated = std::iter::repeat(last_divisor).take(units.len() - divisors.len());
+			let divisors = divisors.iter().chain(repeated);
+			for (divisor, unit) in divisors.zip(units) {
+				if current < *divisor {
+					loop_broken = true;
+					break;
+				}
+				current /= divisor;
+				current_unit = unit;
+			}
+			if let Some(handler) = decimal_handling {
+				current = current.handle(handler);
+			}
+			let mut number_str = match loop_broken {
+				true => format!("{current:.decimal_places$}"),
+				false => $format_fun(current, decimal_places),
+			};
+			if trim_tail && number_str.contains(".") {
+				number_str = trim_float(number_str);
+			}
+			format!("{number_str}{space}{current_unit}")
+		}
+	};
+}
+
+format_number_unit_float_nonlinear!(format_number_unit_f32_nonlinear, f32, format_number_f32);
+format_number_unit_float_nonlinear!(format_number_unit_f64_nonlinear, f64, format_number_f64);
+
+macro_rules! format_number_unit_integer_nonlinear {
+	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
+		#[bon::builder]
+		pub fn $fun(
+			number: $T, divisors: &[$T], units: &[&str], decimal_places: usize,
+			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+		) -> String {
+			if units.is_empty() {
+				return $format_fun(number);
+			}
+			let space = if spaced { " " } else { "" };
+			let mut current = number;
+			let mut loop_broken = false;
+			let mut current_unit = units.first().expect("Will always be present.");
+			let mut current_divisor = divisors.first().expect("Will always be present.");
+			let last_divisor = divisors.last().expect("Will always be present.");
+			let repeated = std::iter::repeat(last_divisor).take(units.len() - divisors.len());
+			let divisors = divisors.iter().chain(repeated);
+			for (divisor, unit) in divisors.zip(units) {
+				if current < *divisor {
+					loop_broken = true;
+					break;
+				}
+				current /= divisor;
+				current_unit = unit;
+				current_divisor = divisor;
+			}
+			let remainder = current % current_divisor;
+			let mut current_float = current as $F;
+			let divisor_float = *current_divisor as $F;
+			let remainder_float = remainder as $F;
+			if current_float as $T == current
+				&& divisor_float as $T == *current_divisor
+				&& remainder_float as $T == remainder
+			{
+				let fraction = remainder_float / divisor_float;
+				current_float += fraction;
+				if let Some(handler) = decimal_handling {
+					current_float = current_float.handle(handler);
+				}
+				let mut number_str = match loop_broken {
+					true => format!("{current_float:.decimal_places$}"),
+					false => $format_float_fun(current_float, decimal_places),
+				};
+				if trim_tail && number_str.contains(".") {
+					number_str = trim_float(number_str);
+				}
+				format!("{number_str}{space}{current_unit}")
+			} else {
+				format!("{}{space}{current_unit}", $format_fun(current))
+			}
+		}
+	};
+}
+
+format_number_unit_integer_nonlinear!(
+	format_number_unit_i8_nonlinear,
+	i8,
+	format_number_i8,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_i16_nonlinear,
+	i16,
+	format_number_i16,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_i32_nonlinear,
+	i32,
+	format_number_i32,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_i64_nonlinear,
+	i64,
+	format_number_i64,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_i128_nonlinear,
+	i128,
+	format_number_i128,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_isize_nonlinear,
+	isize,
+	format_number_isize,
+	f64,
+	format_number_f64
+);
+
+format_number_unit_integer_nonlinear!(
+	format_number_unit_u8_nonlinear,
+	u8,
+	format_number_u8,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_u16_nonlinear,
+	u16,
+	format_number_u16,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_u32_nonlinear,
+	u32,
+	format_number_u32,
+	f32,
+	format_number_f32
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_u64_nonlinear,
+	u64,
+	format_number_u64,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_u128_nonlinear,
+	u128,
+	format_number_u128,
+	f64,
+	format_number_f64
+);
+format_number_unit_integer_nonlinear!(
+	format_number_unit_usize_nonlinear,
+	usize,
+	format_number_usize,
+	f64,
+	format_number_f64
+);
+
 pub enum FormatType {
 	MetricPrefix,
 	ShortScaleName,
