@@ -160,22 +160,28 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Ashy]** for collaborative writing, proofreading, pre-reading, and helping with covers.
 - **[Rego]** for collaborative writing, story outlining, and writing advice.
 - **[Math Spook]** for proofreading, helping with ideas, and story feedback.
+- **[Shay492]** for collaborative writing, proofreading, and pre-reading.
 - **[TheAncientPolitzanian]** for collaborative writing.
 - **[SparklingTwilight]** for collaborative writing.
-- **[RunicTreetops]** for collaborative writing.
+- **[RunicTreetops]** for collaborative writing and proofreading.
+- **[hawthornbunny]** for collaborative writing and proofreading.
 - **[ThePeer]** for collaborative writing and pre-reading.
 - **[csos95]** for helping me with the [Fimfiction API].
 - **[Damaged]** for helping me with the [Fimfiction API].
 - **[Lossart]** for illustrating covers.
+- **[Bronie312]** for illustrating covers.
 - **[dashie04]** for making concept cover photos.
-- **[Shay492]** for proofreading and pre-reading.
 - **[Hipponous]** for proofreading.
 - **Cookieteer** for proofreading and pre-reading.
 - **[Steady Gaze]** for proofreading and making the cover for [Timeless Tears].
 - **gapty** for proofreading.
 - **[Hoofprintz]** for pre-reading and proofreading.
 - **[AtomicGlow]** for pre-reading and creating the 3D mane 6 plushie sprites and models.
+- **[FanOfMostEverything]** for collaborative writing.
+- **[Shakespearicles]** for collaborative writing.
+- **[Lunaria]** for collaborative writing.
 - **[heaviside__]** for pre-reading and helping with ideas.
+- **[Majin Syeekoh]** for pre-reading.
 - **[Hyper_colonP]** for proofreading and pre-reading.
 - **[MATP]** for pre-reading.
 - **[ARandomLonelyGirl]** for pre-reading.
@@ -187,6 +193,7 @@ While I may be the main contributor to this repository, I have had help, and thu
 - **[Mockingbirb]** for proofreading.
 - **[MorganaTheNotCat]** for pre-reading.
 - **[Jymbroni]** for pre-reading.
+- **[Silver Arctic Wolf]** for pre-reading.
 - **[Corah Il Cappo]** for providing feedback.
 - **[Midori-no-ink]** for creating [EmotiPonies].
 
@@ -270,7 +277,14 @@ While I may be the main contributor to this repository, I have had help, and thu
 [Corah Il Cappo]: https://www.fimfiction.net/user/40371/Corah+Il+Cappo "Fimfiction"
 [heaviside__]: https://www.fimfiction.net/user/860080/heaviside__ "Fimfiction"
 [Hipponous]: https://www.fimfiction.net/user/875988/Hipponous "Fimfiction"
+[hawthornbunny]: https://www.fimfiction.net/user/77473/hawthornbunny "Fimfiction"
+[FanOfMostEverything]: https://www.fimfiction.net/user/1400/FanOfMostEverything "Fimfiction"
+[Shakespearicles]: https://www.fimfiction.net/user/83757/Shakespearicles "Fimfiction"
+[Lunaria]: https://www.fimfiction.net/user/68640/Lunaria "Fimfiction"
 [oblivion2k]: https://www.fimfiction.net/user/1113/oblivion2k "Fimfiction"
+[Silver Arctic Wolf]: https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf "Fimfiction"
+[Majin Syeekoh]: https://www.fimfiction.net/user/163937/Majin+Syeekoh "Fimfiction"
+[Bronie312]: https://www.fimfiction.net/user/343749/Bronie312 "Fimfiction"
 
 [The Mystery Fluttershy Fan]: https://www.fimfiction.net/user/15759/The+Mystery+Fluttershy+Fan "Fimfiction"
 [StraightToThePointStudio]: https://www.youtube.com/@StraightToThePointStudio "YouTube"
