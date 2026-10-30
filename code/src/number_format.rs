@@ -345,24 +345,25 @@ macro_rules! format_number_unit_integer_nonlinear {
 			let last_divisor = divisors.last().expect("Will always be present.");
 			let repeated = std::iter::repeat(last_divisor).take(units.len() - divisors.len());
 			let divisors = divisors.iter().chain(repeated);
+			let mut chopped = 0 as $T;
 			for (divisor, unit) in divisors.zip(units) {
 				if current < *divisor {
 					loop_broken = true;
 					break;
 				}
+				chopped = current % divisor;
 				current /= divisor;
 				current_unit = unit;
 				current_divisor = divisor;
 			}
-			let remainder = current % current_divisor;
 			let mut current_float = current as $F;
 			let divisor_float = *current_divisor as $F;
-			let remainder_float = remainder as $F;
+			let chopped_float = chopped as $F;
 			if current_float as $T == current
 				&& divisor_float as $T == *current_divisor
-				&& remainder_float as $T == remainder
+				&& chopped_float as $T == chopped
 			{
-				let fraction = remainder_float / divisor_float;
+				let fraction = chopped_float / divisor_float;
 				current_float += fraction;
 				if let Some(handler) = decimal_handling {
 					current_float = current_float.handle(handler);
