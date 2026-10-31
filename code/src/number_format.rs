@@ -144,9 +144,6 @@ macro_rules! format_number_unit_float {
 	};
 }
 
-format_number_unit_float!(format_number_unit_f32, f32, format_number_f32);
-format_number_unit_float!(format_number_unit_f64, f64, format_number_f64);
-
 macro_rules! format_number_unit_integer {
 	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
 		#[bon::builder]
@@ -198,91 +195,145 @@ macro_rules! format_number_unit_integer {
 	};
 }
 
-format_number_unit_integer!(
-	format_number_unit_i8,
-	i8,
-	format_number_i8,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer!(
-	format_number_unit_i16,
-	i16,
-	format_number_i16,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer!(
-	format_number_unit_i32,
-	i32,
-	format_number_i32,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer!(
-	format_number_unit_i64,
-	i64,
-	format_number_i64,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer!(
-	format_number_unit_i128,
-	i128,
-	format_number_i128,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer!(
-	format_number_unit_isize,
-	isize,
-	format_number_isize,
-	f64,
-	format_number_f64
-);
+pub mod linear_units {
+	use super::*;
 
-format_number_unit_integer!(
-	format_number_unit_u8,
-	u8,
-	format_number_u8,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer!(
-	format_number_unit_u16,
-	u16,
-	format_number_u16,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer!(
-	format_number_unit_u32,
-	u32,
-	format_number_u32,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer!(
-	format_number_unit_u64,
-	u64,
-	format_number_u64,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer!(
-	format_number_unit_u128,
-	u128,
-	format_number_u128,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer!(
-	format_number_unit_usize,
-	usize,
-	format_number_usize,
-	f64,
-	format_number_f64
-);
+	format_number_unit_float!(format_number_unit_f32, f32, format_number_f32);
+	format_number_unit_float!(format_number_unit_f64, f64, format_number_f64);
+
+	format_number_unit_integer!(
+		format_number_unit_i8,
+		i8,
+		format_number_i8,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer!(
+		format_number_unit_i16,
+		i16,
+		format_number_i16,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer!(
+		format_number_unit_i32,
+		i32,
+		format_number_i32,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer!(
+		format_number_unit_i64,
+		i64,
+		format_number_i64,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer!(
+		format_number_unit_i128,
+		i128,
+		format_number_i128,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer!(
+		format_number_unit_isize,
+		isize,
+		format_number_isize,
+		f64,
+		format_number_f64
+	);
+
+	format_number_unit_integer!(
+		format_number_unit_u8,
+		u8,
+		format_number_u8,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer!(
+		format_number_unit_u16,
+		u16,
+		format_number_u16,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer!(
+		format_number_unit_u32,
+		u32,
+		format_number_u32,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer!(
+		format_number_unit_u64,
+		u64,
+		format_number_u64,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer!(
+		format_number_unit_u128,
+		u128,
+		format_number_u128,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer!(
+		format_number_unit_usize,
+		usize,
+		format_number_usize,
+		f64,
+		format_number_f64
+	);
+
+	pub const METRIC_DIVISOR_F32: f32 = 1000.0;
+	pub const METRIC_DIVISOR_F64: f64 = 1000.0;
+
+	pub const METRIC_DIVISOR_I16: i16 = 1000;
+	pub const METRIC_DIVISOR_I32: i32 = 1000;
+	pub const METRIC_DIVISOR_I64: i64 = 1000;
+	pub const METRIC_DIVISOR_I128: i128 = 1000;
+	pub const METRIC_DIVISOR_ISIZE: isize = 1000;
+
+	pub const METRIC_DIVISOR_U16: u16 = 1000;
+	pub const METRIC_DIVISOR_U32: u32 = 1000;
+	pub const METRIC_DIVISOR_U64: u64 = 1000;
+	pub const METRIC_DIVISOR_U128: u128 = 1000;
+	pub const METRIC_DIVISOR_USIZE: usize = 1000;
+
+	pub const METRIC_SUFFIXES: [&str; 10] = ["k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+
+	pub const SHORT_SCALE_DIVISOR_F32: f32 = 1000.0;
+	pub const SHORT_SCALE_DIVISOR_F64: f64 = 1000.0;
+
+	pub const SHORT_SCALE_DIVISOR_I16: i16 = 1000;
+	pub const SHORT_SCALE_DIVISOR_I32: i32 = 1000;
+	pub const SHORT_SCALE_DIVISOR_I64: i64 = 1000;
+	pub const SHORT_SCALE_DIVISOR_I128: i128 = 1000;
+	pub const SHORT_SCALE_DIVISOR_ISIZE: isize = 1000;
+
+	pub const SHORT_SCALE_DIVISOR_U16: u16 = 1000;
+	pub const SHORT_SCALE_DIVISOR_U32: u32 = 1000;
+	pub const SHORT_SCALE_DIVISOR_U64: u64 = 1000;
+	pub const SHORT_SCALE_DIVISOR_U128: u128 = 1000;
+	pub const SHORT_SCALE_DIVISOR_USIZE: usize = 1000;
+
+	pub const SHORT_SCALE_NAMES: [&str; 12] = [
+		"thousand",
+		"million",
+		"billion",
+		"trillion",
+		"quadrillion",
+		"quintillion",
+		"sextillion",
+		"septillion",
+		"octillion",
+		"nonillion",
+		"decillion",
+		"undecillion",
+	];
+}
 
 macro_rules! format_number_unit_float_nonlinear {
 	($fun:ident, $T:ty, $format_fun:ident) => {
@@ -323,9 +374,6 @@ macro_rules! format_number_unit_float_nonlinear {
 		}
 	};
 }
-
-format_number_unit_float_nonlinear!(format_number_unit_f32_nonlinear, f32, format_number_f32);
-format_number_unit_float_nonlinear!(format_number_unit_f64_nonlinear, f64, format_number_f64);
 
 macro_rules! format_number_unit_integer_nonlinear {
 	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
@@ -383,159 +431,149 @@ macro_rules! format_number_unit_integer_nonlinear {
 	};
 }
 
-format_number_unit_integer_nonlinear!(
-	format_number_unit_i8_nonlinear,
-	i8,
-	format_number_i8,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_i16_nonlinear,
-	i16,
-	format_number_i16,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_i32_nonlinear,
-	i32,
-	format_number_i32,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_i64_nonlinear,
-	i64,
-	format_number_i64,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_i128_nonlinear,
-	i128,
-	format_number_i128,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_isize_nonlinear,
-	isize,
-	format_number_isize,
-	f64,
-	format_number_f64
-);
+pub mod nonillion_units {
+	use super::*;
 
-format_number_unit_integer_nonlinear!(
-	format_number_unit_u8_nonlinear,
-	u8,
-	format_number_u8,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_u16_nonlinear,
-	u16,
-	format_number_u16,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_u32_nonlinear,
-	u32,
-	format_number_u32,
-	f32,
-	format_number_f32
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_u64_nonlinear,
-	u64,
-	format_number_u64,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_u128_nonlinear,
-	u128,
-	format_number_u128,
-	f64,
-	format_number_f64
-);
-format_number_unit_integer_nonlinear!(
-	format_number_unit_usize_nonlinear,
-	usize,
-	format_number_usize,
-	f64,
-	format_number_f64
-);
+	format_number_unit_float_nonlinear!(format_number_unit_f32, f32, format_number_f32);
+	format_number_unit_float_nonlinear!(format_number_unit_f64, f64, format_number_f64);
 
-pub const METRIC_DIVISOR_F32: f32 = 1000.0;
-pub const METRIC_DIVISOR_F64: f64 = 1000.0;
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_i8,
+		i8,
+		format_number_i8,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_i16,
+		i16,
+		format_number_i16,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_i32,
+		i32,
+		format_number_i32,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_i64,
+		i64,
+		format_number_i64,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_i128,
+		i128,
+		format_number_i128,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_isize,
+		isize,
+		format_number_isize,
+		f64,
+		format_number_f64
+	);
 
-pub const METRIC_DIVISOR_I16: i16 = 1000;
-pub const METRIC_DIVISOR_I32: i32 = 1000;
-pub const METRIC_DIVISOR_I64: i64 = 1000;
-pub const METRIC_DIVISOR_I128: i128 = 1000;
-pub const METRIC_DIVISOR_ISIZE: isize = 1000;
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_u8,
+		u8,
+		format_number_u8,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_u16,
+		u16,
+		format_number_u16,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_u32,
+		u32,
+		format_number_u32,
+		f32,
+		format_number_f32
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_u64,
+		u64,
+		format_number_u64,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_u128,
+		u128,
+		format_number_u128,
+		f64,
+		format_number_f64
+	);
+	format_number_unit_integer_nonlinear!(
+		format_number_unit_usize,
+		usize,
+		format_number_usize,
+		f64,
+		format_number_f64
+	);
 
-pub const METRIC_DIVISOR_U16: u16 = 1000;
-pub const METRIC_DIVISOR_U32: u32 = 1000;
-pub const METRIC_DIVISOR_U64: u64 = 1000;
-pub const METRIC_DIVISOR_U128: u128 = 1000;
-pub const METRIC_DIVISOR_USIZE: usize = 1000;
+	pub const METRIC_DIVISORS_F32: [f32; 3] = [10.0, 10.0, 1000.0];
+	pub const METRIC_DIVISORS_F64: [f64; 3] = [10.0, 10.0, 1000.0];
 
-pub const METRIC_SUFFIXES: [&str; 10] = ["k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+	pub const METRIC_DIVISORS_I8: [i8; 2] = [10, 10];
+	pub const METRIC_DIVISORS_I16: [i16; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_I32: [i32; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_I64: [i64; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_I128: [i128; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_ISIZE: [isize; 3] = [10, 10, 1000];
 
-pub const METRIC_DIVISORS_F32: [f32; 3] = [10.0, 10.0, 1000.0];
-pub const METRIC_DIVISORS_F64: [f64; 3] = [10.0, 10.0, 1000.0];
+	pub const METRIC_DIVISORS_U8: [u8; 2] = [10, 10];
+	pub const METRIC_DIVISORS_U16: [u16; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_U32: [u32; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_U64: [u64; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_U128: [u128; 3] = [10, 10, 1000];
+	pub const METRIC_DIVISORS_USIZE: [usize; 3] = [10, 10, 1000];
 
-pub const METRIC_DIVISORS_I8: [i8; 2] = [10, 10];
-pub const METRIC_DIVISORS_I16: [i16; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_I32: [i32; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_I64: [i64; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_I128: [i128; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_ISIZE: [isize; 3] = [10, 10, 1000];
+	pub const METRIC_SUFFIXES: [&str; 12] =
+		["da", "h", "k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
 
-pub const METRIC_DIVISORS_U8: [u8; 2] = [10, 10];
-pub const METRIC_DIVISORS_U16: [u16; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_U32: [u32; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_U64: [u64; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_U128: [u128; 3] = [10, 10, 1000];
-pub const METRIC_DIVISORS_USIZE: [usize; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_F32: [f32; 3] = [10.0, 10.0, 1000.0];
+	pub const SHORT_SCALE_DIVISORS_F64: [f64; 3] = [10.0, 10.0, 1000.0];
 
-pub const METRIC_SUFFIXES_NONLINEAR: [&str; 12] =
-	["da", "h", "k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+	pub const SHORT_SCALE_DIVISORS_I8: [i8; 2] = [10, 10];
+	pub const SHORT_SCALE_DIVISORS_I16: [i16; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_I32: [i32; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_I64: [i64; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_I128: [i128; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_ISIZE: [isize; 3] = [10, 10, 1000];
 
-pub const SHORT_SCALE_NAMES_DIVISOR: u128 = 1000;
-pub const SHORT_SCALE_NAMES: [&str; 12] = [
-	"thousand",
-	"million",
-	"billion",
-	"trillion",
-	"quadrillion",
-	"quintillion",
-	"sextillion",
-	"septillion",
-	"octillion",
-	"nonillion",
-	"decillion",
-	"undecillion",
-];
+	pub const SHORT_SCALE_DIVISORS_U8: [u8; 2] = [10, 10];
+	pub const SHORT_SCALE_DIVISORS_U16: [u16; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_U32: [u32; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_U64: [u64; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_U128: [u128; 3] = [10, 10, 1000];
+	pub const SHORT_SCALE_DIVISORS_USIZE: [usize; 3] = [10, 10, 1000];
 
-pub const SHORT_SCALE_NAMES_DIVISORS_NONLINEAR: [u128; 3] = [10, 10, 1000];
-pub const SHORT_SCALE_NAMES_NONLINEAR: [&str; 14] = [
-	"ten",
-	"hundred",
-	"thousand",
-	"million",
-	"billion",
-	"trillion",
-	"quadrillion",
-	"quintillion",
-	"sextillion",
-	"septillion",
-	"octillion",
-	"nonillion",
-	"decillion",
-	"undecillion",
-];
+	pub const SHORT_SCALE_NAMES: [&str; 14] = [
+		"ten",
+		"hundred",
+		"thousand",
+		"million",
+		"billion",
+		"trillion",
+		"quadrillion",
+		"quintillion",
+		"sextillion",
+		"septillion",
+		"octillion",
+		"nonillion",
+		"decillion",
+		"undecillion",
+	];
+}

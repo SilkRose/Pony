@@ -1,4 +1,4 @@
-use super::number_format::format_number_unit_f64;
+use super::number_format::linear_units::format_number_unit_f64;
 
 pub enum FormatType {
 	Abbreviation,
