@@ -10,7 +10,7 @@ When she answered it, she found Pinkie.
 
 Twilight looked puzzled. "Sure, but why do you need to stay with me?"
 
-"I loaned my bed to the traveling circus that's in town. They needed a bed for some seriously dangerous stunts."
+"I loaned my bed to the traveling circus. They needed beds for some seriously dangerous stunts while they're in town."
 
 Twilight accepted this. "Sure, I have a spare bed in my loft."
 
@@ -44,11 +44,11 @@ Twilight laid awake unable to sleep, her mind racing around the pony sleeping be
 
 *I still don't understand why they needed beds, but if it helps me confess to Pinkie, I won't complain.*
 
-*How is it going to help…*
+*Wait, how is it going to help?*
 
-*I guess it means spending more time with Pinkie.*
+*I guess it means more time with Pinkie.*
 
-A smile came to her lips as she thought of her.
+As she thought of it, a smile came to her lips.
 
 Twilight rolled over and rested her head on Pinkie's mane.
 
@@ -158,7 +158,7 @@ They both fell asleep soon after and stayed like that the whole night.
 
 ***
 
-The next morning, Twilight woke up with Pinkie's hooves still holding her.
+The next morning, Twilight woke up with Pinkie still holding her.
 
 Twilight tried to wake her. "Pinkie?"
 
@@ -168,9 +168,7 @@ With that, Pinkie woke up. "Twilight…"
 
 Twilight sheepishly smiled. "Hi."
 
-Pinkie replied, "Hey."
-
-Pinkie let go of her and they laid facing each other. "I have something I need to tell you."
+Pinkie let go of her and they sat facing each other. "Hey. I have something I need to tell you."
 
 Twilight replied, "I actually had something I need to say too. Do you want to go first?"
 
