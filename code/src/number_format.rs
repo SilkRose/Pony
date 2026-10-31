@@ -469,40 +469,73 @@ format_number_unit_integer_nonlinear!(
 	format_number_f64
 );
 
-pub enum FormatType {
-	MetricPrefix,
-	ShortScaleName,
-}
+pub const METRIC_DIVISOR_F32: f32 = 1000.0;
+pub const METRIC_DIVISOR_F64: f64 = 1000.0;
 
-pub fn format_number_unit_metric(
-	number: f64, format: FormatType, decimal_places: usize, trim_tail: bool,
-) -> String {
-	if number <= 1000.0 {
-		return number.to_string();
-	}
-	let metric_prefixes = ["K", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
-	let short_scale_names = [
-		"thousand",
-		"million",
-		"billion",
-		"trillion",
-		"quadrillion",
-		"quintillion",
-		"sextillion",
-		"septillion",
-		"octillion",
-		"nonillion",
-	];
-	let (units, spaced) = match format {
-		FormatType::MetricPrefix => (metric_prefixes, false),
-		FormatType::ShortScaleName => (short_scale_names, true),
-	};
-	format_number_unit_f64()
-		.number(number / 1000.0)
-		.divisor(1000.0)
-		.decimal_places(decimal_places)
-		.spaced(spaced)
-		.trim_tail(trim_tail)
-		.units(&units)
-		.call()
-}
+pub const METRIC_DIVISOR_I16: i16 = 1000;
+pub const METRIC_DIVISOR_I32: i32 = 1000;
+pub const METRIC_DIVISOR_I64: i64 = 1000;
+pub const METRIC_DIVISOR_I128: i128 = 1000;
+pub const METRIC_DIVISOR_ISIZE: isize = 1000;
+
+pub const METRIC_DIVISOR_U16: u16 = 1000;
+pub const METRIC_DIVISOR_U32: u32 = 1000;
+pub const METRIC_DIVISOR_U64: u64 = 1000;
+pub const METRIC_DIVISOR_U128: u128 = 1000;
+pub const METRIC_DIVISOR_USIZE: usize = 1000;
+
+pub const METRIC_SUFFIXES: [&str; 10] = ["k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+
+pub const METRIC_DIVISORS_F32: [f32; 3] = [10.0, 10.0, 1000.0];
+pub const METRIC_DIVISORS_F64: [f64; 3] = [10.0, 10.0, 1000.0];
+
+pub const METRIC_DIVISORS_I8: [i8; 2] = [10, 10];
+pub const METRIC_DIVISORS_I16: [i16; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_I32: [i32; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_I64: [i64; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_I128: [i128; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_ISIZE: [isize; 3] = [10, 10, 1000];
+
+pub const METRIC_DIVISORS_U8: [u8; 2] = [10, 10];
+pub const METRIC_DIVISORS_U16: [u16; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_U32: [u32; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_U64: [u64; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_U128: [u128; 3] = [10, 10, 1000];
+pub const METRIC_DIVISORS_USIZE: [usize; 3] = [10, 10, 1000];
+
+pub const METRIC_SUFFIXES_NONLINEAR: [&str; 12] =
+	["da", "h", "k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+
+pub const SHORT_SCALE_NAMES_DIVISOR: u128 = 1000;
+pub const SHORT_SCALE_NAMES: [&str; 12] = [
+	"thousand",
+	"million",
+	"billion",
+	"trillion",
+	"quadrillion",
+	"quintillion",
+	"sextillion",
+	"septillion",
+	"octillion",
+	"nonillion",
+	"decillion",
+	"undecillion",
+];
+
+pub const SHORT_SCALE_NAMES_DIVISORS_NONLINEAR: [u128; 3] = [10, 10, 1000];
+pub const SHORT_SCALE_NAMES_NONLINEAR: [&str; 14] = [
+	"ten",
+	"hundred",
+	"thousand",
+	"million",
+	"billion",
+	"trillion",
+	"quadrillion",
+	"quintillion",
+	"sextillion",
+	"septillion",
+	"octillion",
+	"nonillion",
+	"decillion",
+	"undecillion",
+];
