@@ -36,7 +36,7 @@ Pinkie said, "Good night, Twilight."
 
 Twilight replied, "Good night, Pinkie."
 
-Twilight lay awake unable to sleep, her mind racing around the pony sleeping beside her.
+Twilight laid awake unable to sleep, her mind racing around the pony sleeping beside her.
 
 *I can't believe we're sharing a bed.*
 
@@ -82,7 +82,7 @@ Twilight, unsure of how to hide the blush she just realized she had, replied, "S
 
 With that, they both closed their eyes and Pinkie rolled over.
 
-Twilight giggled as she felt Pinkie poking her to find where she was. "I'm sorry for the weird request…"
+Twilight giggled as she felt Pinkie poking her to find where she was. "I'm sorry for the weird requests…"
 
 "Oh, it's fine. It's just like a new little game, right?"
 
@@ -118,7 +118,7 @@ That night, however, was different.
 
 Twilight couldn't sleep. She had lain there for over an hour with her back pressed against Pinkie's. Pinkie had been asleep almost the whole time. Twilight wanted to cry.
 
-All she had to do was tell Pinkie how she felt, but here she lay.
+All she had to do was tell Pinkie how she felt, but here she was.
 
 Twilight finally broke down and cried into her hooves.  She tried to cry quietly, hoping Pinkie wouldn't wake up.
 
