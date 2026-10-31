@@ -32,9 +32,9 @@ Pinkie smiled. "I love sleep."
 
 Twilight led them to her bed where they laid down back to back.
 
-Pinkie said, "Goodnight, Twilight."
+Pinkie said, "Good night, Twilight."
 
-Twilight replied, "Goodnight, Pinkie."
+Twilight replied, "Good night, Pinkie."
 
 Twilight lay awake unable to sleep, her mind racing around the pony sleeping beside her.
 
@@ -106,7 +106,7 @@ Pinkie smiled. *She's so beautiful.*
 
 *I just need to be vulnerable.*
 
-Pinkie leaned down and kisses Twilight's hoof. "I love you, Twilight."
+Pinkie leaned down and kissed Twilight's hoof. "I love you, Twilight."
 
 With that she closed her eyes and went back to sleep.
 
@@ -164,7 +164,7 @@ Twilight tried to wake her. "Pinkie?"
 
 She gently shook Pinkie. "Pinkie."
 
-With that, Pinkies woke up. "Twilight…"
+With that, Pinkie woke up. "Twilight…"
 
 Twilight sheepishly smiled. "Hi."
 
@@ -184,7 +184,7 @@ Pinkie blushed slightly. "I've had a lot of fun too."
 
 After a brief pause, Twilight continued.
 
-"I've really liked sharing my bed with you."
+"I really like sharing my bed with you."
 
 "Me too!"
 
