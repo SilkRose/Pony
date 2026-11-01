@@ -10,7 +10,7 @@ When she answered it, she found Pinkie.
 
 Twilight looked puzzled. "Sure, but why do you need to stay with me?"
 
-"I loaned my bed to the traveling circus that's in town. They needed a bed for some seriously dangerous stunts."
+"I loaned my bed to the traveling circus. They needed beds for some seriously dangerous stunts while they're in town."
 
 Twilight accepted this. "Sure, I have a spare bed in my loft."
 
@@ -32,11 +32,11 @@ Pinkie smiled. "I love sleep."
 
 Twilight led them to her bed where they laid down back to back.
 
-Pinkie said, "Goodnight, Twilight."
+Pinkie said, "Good night, Twilight."
 
-Twilight replied, "Goodnight, Pinkie."
+Twilight replied, "Good night, Pinkie."
 
-Twilight lay awake unable to sleep, her mind racing around the pony sleeping beside her.
+Twilight laid awake unable to sleep, her mind racing around the pony sleeping beside her.
 
 *I can't believe we're sharing a bed.*
 
@@ -44,11 +44,11 @@ Twilight lay awake unable to sleep, her mind racing around the pony sleeping bes
 
 *I still don't understand why they needed beds, but if it helps me confess to Pinkie, I won't complain.*
 
-*How is it going to help…*
+*Wait, how is it going to help?*
 
-*I guess it means spending more time with Pinkie.*
+*I guess it means more time with Pinkie.*
 
-A smile came to her lips as she thought of her.
+As she thought of it, a smile came to her lips.
 
 Twilight rolled over and rested her head on Pinkie's mane.
 
@@ -82,7 +82,7 @@ Twilight, unsure of how to hide the blush she just realized she had, replied, "S
 
 With that, they both closed their eyes and Pinkie rolled over.
 
-Twilight giggled as she felt Pinkie poking her to find where she was. "I'm sorry for the weird request…"
+Twilight giggled as she felt Pinkie poking her to find where she was. "I'm sorry for the weird requests…"
 
 "Oh, it's fine. It's just like a new little game, right?"
 
@@ -106,7 +106,7 @@ Pinkie smiled. *She's so beautiful.*
 
 *I just need to be vulnerable.*
 
-Pinkie leaned down and kisses Twilight's hoof. "I love you, Twilight."
+Pinkie leaned down and kissed Twilight's hoof. "I love you, Twilight."
 
 With that she closed her eyes and went back to sleep.
 
@@ -118,7 +118,7 @@ That night, however, was different.
 
 Twilight couldn't sleep. She had lain there for over an hour with her back pressed against Pinkie's. Pinkie had been asleep almost the whole time. Twilight wanted to cry.
 
-All she had to do was tell Pinkie how she felt, but here she lay.
+All she had to do was tell Pinkie how she felt, but here she was.
 
 Twilight finally broke down and cried into her hooves.  She tried to cry quietly, hoping Pinkie wouldn't wake up.
 
@@ -158,19 +158,17 @@ They both fell asleep soon after and stayed like that the whole night.
 
 ***
 
-The next morning, Twilight woke up with Pinkie's hooves still holding her.
+The next morning, Twilight woke up with Pinkie still holding her.
 
 Twilight tried to wake her. "Pinkie?"
 
 She gently shook Pinkie. "Pinkie."
 
-With that, Pinkies woke up. "Twilight…"
+With that, Pinkie woke up. "Twilight…"
 
 Twilight sheepishly smiled. "Hi."
 
-Pinkie replied, "Hey."
-
-Pinkie let go of her and they laid facing each other. "I have something I need to tell you."
+Pinkie let go of her and they sat facing each other. "Hey. I have something I need to tell you."
 
 Twilight replied, "I actually had something I need to say too. Do you want to go first?"
 
@@ -184,7 +182,7 @@ Pinkie blushed slightly. "I've had a lot of fun too."
 
 After a brief pause, Twilight continued.
 
-"I've really liked sharing my bed with you."
+"I really like sharing my bed with you."
 
 "Me too!"
 
