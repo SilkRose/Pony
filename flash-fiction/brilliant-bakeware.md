@@ -25,7 +25,7 @@ Pinkie looked confused. "My cake can talk?"
 
 "No, not the cake, the cake pan."
 
-Before Pinkie can respond, another voice appeared.
+Before Pinkie could respond, another voice appeared.
 
 "Hey, what are you doing?"
 
@@ -47,7 +47,7 @@ The cake pan said, "I know, that is why I chose to speak to you."
 
 The unknown voice revealed itself. "I am your rolling pin. And us bakeware have been sworn to secrecy around ponies. Long ago when our kind was first made, ponies used and abused us."
 
-Pinkie asked, "But what about today, everypony I know treats you all well."
+Pinkie said, "But what about today, everypony I know treats you all well."
 
 The rolling pin continued, "We hold our culture very close, since we cannot move, we can only talk to other bakeware. We know a lot of ponies love us, but tradition dictates we never speak to ponies."
 
@@ -61,9 +61,9 @@ the cake pan almost sounded embarrassed when they asked, "Can you throw us a par
 
 Pinkie smiled. "Oh, absolutely!"
 
-At this revelation, all the bakeware started to cheer. Once the cheering settles down they all started introducing themselves to Pinkie.
+At this revelation, all the bakeware started to cheer. Once the cheering settled down they all started introducing themselves to Pinkie.
 
-The cake pan's name was panny, the rolling pin's name was pinny. The fridge said they were Reginald. The toaster was named Diane, after Pinkie of course.
+The cake pan's name was Panny, the rolling pin's name was Pinny. The fridge said they were Refridginald. The toaster was named Diane, after Pinkie of course.
 
 They all had a merry good time as they all finally got a chance to talk with a pony who cared and showed them love.
 
