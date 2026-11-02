@@ -26,6 +26,9 @@ A whole library of genuine Equestrian fanfics!
 - Rainbow suggests reading them anyways, they seem awesome
   - End
 
+[Brilliant Bakeware](./02-brilliant-bakeware.md)
+- Pinkie's bakeware has become sentient and is really smart. They tell stuff to Pinkie but nopony believes her.
+
 
 
 ## Cover:
