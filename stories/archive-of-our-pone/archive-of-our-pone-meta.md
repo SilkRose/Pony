@@ -29,3 +29,4 @@ A whole library of genuine Equestrian fanfics!
 
 
 ## Cover:
+![cover](./covers/archive-of-our-pone-cover-7.png)
