@@ -17,7 +17,7 @@ A whole library of genuine Equestrian fanfics!
 
 
 ## Chapters:
-[Archive of Our Pone](./archive-of-our-pone.md)
+[The New Golden Oaks Library](01-the-new-golden-oaks-library.md)
 - Mane 6 in library, first stories start to arrive but about them. Twilight asks Pinkie what happened
 - Cut to mane 6 discussing plan on how to fill in New Golden Oaks Library, Pinkie suggests having all of Equestria send in their best stories
 - Pinkie puts together flyers and puts them up all over Equestria
