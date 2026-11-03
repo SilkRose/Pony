@@ -1,5 +1,11 @@
 # Brilliant Bakeware
 
+Pinkie jumped up ecstatically. "Oh, can I go first?"
+
+Twilight chuckled. "Sure."
+
+Rainbow Dash rolled her eyes.
+
 Pinkie pulled out another book from the bag, this one had her cutie mark on the cover. "Brilliant Bakeware by Cake Topper. I wonder if their related to the cakes? Wait, this ones about me!"
 
 She excitedly opened the book and began to read…
