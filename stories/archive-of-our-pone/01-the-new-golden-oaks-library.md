@@ -4,7 +4,7 @@ Twilight and her friends gather within New Golden Oaks Library, eagerly waiting 
 
 Right outside, the mail mare presented a giant sack of packages addressed to the library. “Here’s your mail!”, she called out before flying to her next stop. Applejack came outside to tug and push and pull the bag until it eventually was inside. They all gathered around, excited to see what books had arrived. Fluttershy carefully opened the bag, trying hard to avoid a literary avalanche. She picked out the first one and brought it over to Twilight.
 
-Twilight read aloud the title. “*Twilight Sparkle, Oh, the Friends You’ll Make*? Why is this one about me?” She peaked into their delivery and noticed all of these stories included familiar names in their titles. “Why are they all about us?!”
+Twilight read aloud the title. “_Twilight Sparkle Goes Birdwatching_? Why is this one about me?” She peaked into their delivery and noticed all of these stories included familiar names in their titles. “Why are they all about us?!”
 
 Pinkie pulled out a piece of paper from her mane. Reading it over, her eyes went wide. She quickly hid it back into her mane and whistled innocently.
 
@@ -86,8 +86,6 @@ Fluttershy reminded her, “There was the time we published our friendship journ
 
 Rainbow dug through the bag, letting packages pile up all around them all. “It’s like that time Daring Do put me in her book, except there’s way more of them and you all are in them too!” 
 
-She picked out the first one whose cover interested her and gave it to Twilight. “Come on, we have to read them! Go ahead.”
+She picked out the first one whose cover interested her and gave it to Twilight. “Come on, we have to read them!”
 
-Twilight laughed. “Alright, alright. We’ll read a few.” 
-
-Twilight flipped the book open, and read.
+Twilight laughed. “Alright, alright. We’ll read a few. Now, where to start?"
