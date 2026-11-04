@@ -6,12 +6,16 @@
 ## Description:
 In an effort to reopen Golden Oaks Library, Pinkie Pie sends out flyers all over Equestria requesting ponies ‘send in stories for Twilight and her friends’ so they can share the fun of reading with all of Ponyville. Unfortunately, she missed a typo and instead requested ponies ‘send in stories of Twilight and her friends.’ Now Ponyville is being flooded with fanfiction. How can the mane 6 solve this situation? By reading it all, of course!
 
+This story is a celebration of Friendship is Magic, its characters, and the site it's published on. If we've done this correctly, this will be the 150,000th live published FiM-tagged story on Fimfiction.
+
 Cover art made by [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer).
 
-This story was written in collaboration with: [Shay492](https://www.fimfiction.net/user/840747/Shay492), [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook), [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer), [FanOfMostEverything](https://www.fimfiction.net/user/1400/FanOfMostEverything).
+This story was written in collaboration with: [Shay492](https://www.fimfiction.net/user/840747/Shay492), [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook), [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer), [FanOfMostEverything](https://www.fimfiction.net/user/1400/FanOfMostEverything), [Majin Syeekoh](https://www.fimfiction.net/user/163937/Majin+Syeekoh), and [pneu](https://www.fimfiction.net/user/616548/pneu).
+
+If you're a writer and you want to join this collaboration, please reach out to [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose).
 
 ## Short Description:
-A whole library of genuine Equestrian fanfics!
+The mane 6 read stories about themselves. (150k FiM story celebration!)
 
 ## Ideas:
 
