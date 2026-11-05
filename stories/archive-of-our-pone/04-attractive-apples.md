@@ -22,19 +22,19 @@ They rolled on the ground and stuck together as one singular appile.
 
 She pressed harder on the next push and managed squish one of the apples, but this didn't change much. The squished apple just attracted to the other apples filling in the gaps.
 
-She was at a lose for words, and apples. So, she decided to bring the apples to somepony who might know.
+She was at a loss for words and apples. So, she decided to bring the apples to somepony who might know.
 
-On her way to said yet to be named pony, she was stopped by various ponies in town. Each with heir own troubles.
+On her way to said yet-to-be-named pony, she was stopped by various ponies in town. Each with their own troubles.
 
 The first pony said, "Applejack, my son ate an apple and now the tinfoil is stuck to his coat!"
 
-the second, "I need your help, I keep steeling ponies' jewelry when I walk by. It started happening after I ate an apple, but I don't know why that would cause this."
+The second said, "I need your help, I keep stealing ponies' jewelry when I walk by. It started happening after I ate an apple, but I don't know why that would cause this."
 
 The third pony didn't talk, he just opened his mouth and made harmonica noises.
 
-Applejack ignored them, she had science to do.
+Applejack ignored them. She had science to do.
 
-Oh, that pony who doesn't have a name yet, their name is Twilight.
+Oh, that pony who doesn't have a name yet? Their name is Twilight.
 
 Twilight opened her door as soon as Applejack arrived.
 
@@ -44,7 +44,7 @@ Twilight concluded that her apples were magnetic when she held them up to a magn
 
 But she wondered why would they be magnetic?
 
-Twilight did a quick 3 month geological survey of the ground at Sweet Apple Acres.
+Twilight did a quick three-month geological survey of the ground at Sweet Apple Acres.
 
 The results, as speedy as they were, were conclusive.
 
