@@ -4,7 +4,7 @@ Twilight and her friends were all gathered within the New Golden Oaks Library, e
 
 Right outside, the mail mare presented a giant sack of packages addressed to the library. “Here’s your mail!” she called out before flying to her next stop. Applejack came outside to tug and push and pull the bag until it eventually was inside. They all gathered around, excited to see what books had arrived. Fluttershy carefully opened the bag, trying hard to avoid a literary avalanche. She picked out the first one and brought it over to Twilight.
 
-Twilight read aloud the title, “_Twilight Sparkle Goes Birdwatching_? Why is this one about me?” She peaked into their delivery and noticed all of these stories included familiar names in their titles. “Why are they all about us?!”
+Twilight read aloud the title, “_Twilight Sparkle Goes Birdwatching_? Why is this one about me?” She peeked into their delivery and noticed all of the stories included familiar names in their titles. “Why are they all about us?!”
 
 Pinkie pulled out a piece of paper from her mane. Reading it over, her eyes went wide. She quickly hid it back into her mane and whistled innocently.
 
@@ -14,11 +14,11 @@ Applejack raised an eyebrow. “Pinkie? What happened?”
 
 ---
 
-Twilight Sparkle watched over her castle library, empty as usual, and sighed. She stood ever ready to help any pony find and check out the perfect book for them. It was one of her favorite parts of living at Golden Oaks before. Now, hardly any pony wanted to make the trek over to the castle. She went from helping dozens of ponies on a busy day to maybe a trio of them if she was lucky.
+Weeks earlier, Twilight Sparkle looked over her castle library, empty as usual, and sighed. She stood ever ready to help any pony find and check out the perfect book for them. It had been one of her favorite parts of living at Golden Oaks before. Now, hardly any pony wanted to make the trek over to the castle. She went from helping dozens of ponies on a busy day to maybe a trio of them if she was lucky.
 
 “Hi, Twilight!” At least her friends still came by often. Pinkie entered and bounced over with her usual bright smile. “Ready to go try my new ice cream pie recipe?” Noticing her friend’s slumped posture, she asked, “What’s wrong, Twilight? Are you sad not as many ponies are visiting the library?”
 
-“No, Pinkie, it’s just –” Twilight blinked “– Wait, that’s exactly it. How do I get ponies to come read again?”
+“No, Pinkie, it’s just –” Twilight blinked “– wait, that’s exactly it. How do I get ponies to come read again?”
 
 Pinkie put a hoof to her chin. “Hmmmmmm. Well, they liked to visit the old library a lot before it went kablooey. Maybe we need to make this place more like a tree?”
 
@@ -28,7 +28,7 @@ Pinkie sprang up. “Oh! What if we moved the library back to Ponyville?”
 
 Twilight looked around the castle interior. “... Something tells me we’ll have a hard time getting the castle over there.”
 
-“Oh, right. Ooo, what about reopening the last one? No, right, kablooey.” Pinkie deflated.
+“Oh, right. Oooh, what about reopening the old one? No, right, kablooey.” Pinkie deflated.
 
 Twilight considered the idea. “Actually, we do have all the wood left over from when you gals dug up the roots. Maybe we could use that to build a new library.”
 
@@ -62,17 +62,19 @@ Pinkie volunteered right away to go spread the word. “On it!”
 
 ---
 
-“Pinkie? What happened?”
+With a sigh, Pinkie removed the flyer from her mane again.
+
+Applejack asked, “Did you plan this?”
 
 Pinkie chuckled. “*Well*, I went all over to ask for books. I put up posters and rained down flyers with my party cannon all over Canterlot, Cloudsdale, Appleloosa, Las Pegasus, the Crystal Empire, Fillydelphia, Manehattan, Starlight’s Village, Baltimare, Rainbow Falls, Dodge—”
 
 “Pinkie…”
 
-“Okay, so, I *meant* to write on them, ‘Please send to Ponyville your best stories for Twilight and her friends to share the fun of reading to everypony!’, and…” Pinkie presented the flyer.
+“Okay, so, I *meant* to write on them, ‘Please send to Ponyville your best stories for Twilight and her friends to share the fun of reading to everypony!’ and…” Pinkie presented the flyer.
 
 Rarity read it out loud, “Ahem. ‘Please send to Ponyville your best stories *<span style="text-decoration:underline;">of</span>* Twilight and her friends to share the fun of reading to everypony!’ Pinkie Pie, you asked everypony in Equestria to send in stories *about* us!”
 
-“Maybe I should have asked if Featherweight ever got to fixing his printing press”, Pinkie wondered.
+“Maybe I should have asked if Featherweight ever got to fixing his printing press,” Pinkie wondered.
 
 Rainbow opened the bag further and many, many packages flooded out. “So you’re telling me all of these books are stories ponies wrote about us?”
 
