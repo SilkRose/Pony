@@ -10,9 +10,11 @@ This story is a celebration of Friendship is Magic, its characters, and the site
 
 Cover art made by [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer).
 
-This story was written in collaboration with: [Shay492](https://www.fimfiction.net/user/840747/Shay492), [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook), [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer), [FanOfMostEverything](https://www.fimfiction.net/user/1400/FanOfMostEverything), [Majin Syeekoh](https://www.fimfiction.net/user/163937/Majin+Syeekoh), and [pneu](https://www.fimfiction.net/user/616548/pneu).
+This story was written in collaboration with: [Shay492](https://www.fimfiction.net/user/840747/Shay492), [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook), [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer), [FanOfMostEverything](https://www.fimfiction.net/user/1400/FanOfMostEverything), [Majin Syeekoh](https://www.fimfiction.net/user/163937/Majin+Syeekoh), [pneu](https://www.fimfiction.net/user/616548/pneu), [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops), and [Monolithic Aurora](https://www.fimfiction.net/user/879110/Monolithic+Aurora).
 
 If you're a writer and you want to join this collaboration, please reach out to [Silk Rose](https://www.fimfiction.net/user/237915/Silk+Rose).
+
+New chapter posted every day!
 
 ## Short Description:
 The mane 6 read stories about themselves. (150k FiM story celebration!)
