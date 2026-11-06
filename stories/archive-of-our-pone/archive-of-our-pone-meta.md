@@ -4,7 +4,7 @@
 150,000th FiM tagged story on Fimfiction. A celebration of the show, it's characters, and the site it's hosted on.
 
 ## Description:
-In an effort to reopen Golden Oaks Library, Pinkie Pie sends out flyers all over Equestria requesting ponies ‘send in stories for Twilight and her friends’ so they can share the fun of reading with all of Ponyville. Unfortunately, she missed a typo and instead requested ponies ‘send in stories of Twilight and her friends.’ Now Ponyville is being flooded with fanfiction. How can the mane 6 solve this situation? By reading it all, of course!
+In an effort to reopen Golden Oak Library, Pinkie Pie sends out flyers all over Equestria requesting ponies ‘send in stories for Twilight and her friends’ so they can share the fun of reading with all of Ponyville. Unfortunately, she missed a typo and instead requested ponies ‘send in stories of Twilight and her friends.’ Now Ponyville is being flooded with fanfiction. How can the mane 6 solve this situation? By reading it all, of course!
 
 This story is a celebration of Friendship is Magic, its characters, and the site it's published on. If we've done this correctly, this will be the 150,000th live published FiM-tagged story on Fimfiction.
 
@@ -23,9 +23,9 @@ The mane 6 read stories about themselves. (150k FiM story celebration!)
 
 
 ## Chapters:
-[The New Golden Oaks Library](01-the-new-golden-oaks-library.md)
+[The New Golden Oak Library](01-the-new-golden-oak-library.md)
 - Mane 6 in library, first stories start to arrive but about them. Twilight asks Pinkie what happened
-- Cut to mane 6 discussing plan on how to fill in New Golden Oaks Library, Pinkie suggests having all of Equestria send in their best stories
+- Cut to mane 6 discussing plan on how to fill in New Golden Oak Library, Pinkie suggests having all of Equestria send in their best stories
 - Pinkie puts together flyers and puts them up all over Equestria
   - Montage of different location
 - Cut back to opening scene and Twilight notices typo on flyer
