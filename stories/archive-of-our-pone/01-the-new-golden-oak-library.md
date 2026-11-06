@@ -1,6 +1,6 @@
-# The New Golden Oaks Library
+# The New Golden Oak Library
 
-Twilight and her friends were all gathered within the New Golden Oaks Library, eagerly waiting for the mail mare. She was set to arrive with the first shipment of books, with which they would line the currently empty shelves. Twilight read one of the unburnt stories left from her previous home, Rainbow Dash fidgeted on a stool, and Rarity sketched out some design dresses for them all to wear for the grand opening. There came a knock at the door, and Pinkie Pie bounced over to open it, chanting, “Books, books, books ♪.”
+Twilight and her friends were all gathered within the New Golden Oak Library, eagerly waiting for the mail mare. She was set to arrive with the first shipment of books, with which they would line the currently empty shelves. Twilight read one of the unburnt stories left from her previous home, Rainbow Dash fidgeted on a stool, and Rarity sketched out some design dresses for them all to wear for the grand opening. There came a knock at the door, and Pinkie Pie bounced over to open it, chanting, “Books, books, books ♪.”
 
 Right outside, the mail mare presented a giant sack of packages addressed to the library. “Here’s your mail!” she called out before flying to her next stop. Applejack came outside to tug and push and pull the bag until it eventually was inside. They all gathered around, excited to see what books had arrived. Fluttershy carefully opened the bag, trying hard to avoid a literary avalanche. She picked out the first one and brought it over to Twilight.
 
@@ -14,7 +14,7 @@ Applejack raised an eyebrow. “Pinkie? What happened?”
 
 ---
 
-Weeks earlier, Twilight Sparkle looked over her castle library, empty as usual, and sighed. She stood ever ready to help any pony find and check out the perfect book for them. It had been one of her favorite parts of living at Golden Oaks before. Now, hardly any pony wanted to make the trek over to the castle. She went from helping dozens of ponies on a busy day to maybe a trio of them if she was lucky.
+Weeks earlier, Twilight Sparkle looked over her castle library, empty as usual, and sighed. She stood ever ready to help any pony find and check out the perfect book for them. It had been one of her favorite parts of living at Golden Oak before. Now, hardly any pony wanted to make the trek over to the castle. She went from helping dozens of ponies on a busy day to maybe a trio of them if she was lucky.
 
 “Hi, Twilight!” At least her friends still came by often. Pinkie entered and bounced over with her usual bright smile. “Ready to go try my new ice cream pie recipe?” Noticing her friend’s slumped posture, she asked, “What’s wrong, Twilight? Are you sad not as many ponies are visiting the library?”
 
