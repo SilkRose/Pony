@@ -6,7 +6,7 @@
 ## Description:
 In an effort to reopen Golden Oak Library, Pinkie Pie sends out flyers all over Equestria requesting ponies ‘send in stories for Twilight and her friends’ so they can share the fun of reading with all of Ponyville. Unfortunately, she missed a typo and instead requested ponies ‘send in stories of Twilight and her friends.’ Now Ponyville is being flooded with fanfiction. How can the mane 6 solve this situation? By reading it all, of course!
 
-This story is a celebration of Friendship is Magic, its characters, and the site it's published on. If we've done this correctly, this will be the 150,000th live published FiM-tagged story on Fimfiction.
+This story is a celebration of Friendship is Magic, its characters, and the site it's published on. At the time of publication, this is the 150,000th live published FiM-tagged story on Fimfiction.
 
 Cover art made by [Rambling Writer](https://www.fimfiction.net/user/253168/Rambling+Writer).
 
