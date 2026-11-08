@@ -35,7 +35,7 @@ The Mane 6 read stories about themselves. (150k FiM story celebration!)
 [Brilliant Bakeware](./02-brilliant-bakeware.md)
 - Pinkie's bakeware has become sentient and is really smart. They tell stuff to Pinkie but nopony believes her.
 
-[Attractive Apples](./04-attractive-apples.md)
+[Attractive Apples](05-attractive-apples.md)
 - Applejack goes to buck her field and all her apples are magnetic. Written by Doctor Whooves.
 
 
