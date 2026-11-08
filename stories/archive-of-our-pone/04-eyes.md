@@ -38,7 +38,7 @@ Twilight held out her hoof and Spike grabbed it with his claw, leading her out o
 
 "Has anyone seen a pair of eyes?" Spike yelled into Ponyville. Everyone stared at him like he was asking where a set of eyes rolled off to.
 
-"Twilight, I don't think anyone's seen your eyes--" Spike started before he lay his eyes on Angel Bunny, who had the eyes.
+"Twilight, I don't think anyone's seen your eyes–" Spike started before he lay his eyes on Angel Bunny, who had the eyes.
 
 "Twilight, we're good, Angel has your eyes." Spike walked towards Angel, who guarded the eyes from Spike. Spike frowned.
 
@@ -46,9 +46,9 @@ Twilight held out her hoof and Spike grabbed it with his claw, leading her out o
 
 "Hmm." Twilight thought for a second before her horn glowed. Nothing happened until every pet in Ponyville started yapping and yowling. Angel covered his ears and winced.
 
-"We can do this the easy way or the hard way, Angel," Twilight said"
+"We can do this the easy way or the hard way, Angel," Twilight said.
 
---
+***
 
 "This is ridiculous, I wouldn't be that mean to Angel," Twilight said as she read over the story.
 
