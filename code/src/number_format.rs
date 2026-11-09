@@ -18,7 +18,13 @@ fn trim_float(number_str: String) -> String {
 
 macro_rules! format_number_float {
 	($fun:ident, $T:ty, $early_fun:ident, $early_cast:ty) => {
-		pub fn $fun(number: $T, decimal_places: usize) -> String {
+		pub fn $fun(
+			number: $T, decimal_places: usize, decimal_handling: Option<DecimalHandling>,
+		) -> String {
+			let mut number = number;
+			if let Some(handler) = decimal_handling {
+				number = number.handle(handler);
+			}
 			if decimal_places == 0 {
 				return $early_fun(number as $early_cast);
 			}
@@ -116,26 +122,26 @@ macro_rules! format_number_unit_float {
 			plural_ess: bool,
 		) -> String {
 			if units.is_empty() {
-				return $format_fun(number, decimal_places);
+				return $format_fun(number, decimal_places, decimal_handling);
 			}
-			let space = if spaced { " " } else { "" };
+			let mut space = if spaced { " " } else { "" };
 			let mut current = number;
 			let mut current_unit = units.first().expect("Will always be present.");
 			let mut loop_broken = false;
 			for unit in units.iter() {
-				if current < divisor {
+				current_unit = unit;
+				if current.abs() < divisor.abs() {
 					loop_broken = true;
 					break;
 				}
 				current /= divisor;
-				current_unit = unit;
 			}
 			if let Some(handler) = decimal_handling {
 				current = current.handle(handler);
 			}
 			let mut number_str = match loop_broken {
 				true => format!("{current:.decimal_places$}"),
-				false => $format_fun(current, decimal_places),
+				false => $format_fun(current, decimal_places, None),
 			};
 			if trim_tail && number_str.contains(".") {
 				number_str = trim_float(number_str);
@@ -144,12 +150,16 @@ macro_rules! format_number_unit_float {
 			if plural_ess && (number_str == "1" || number_str == "-1") {
 				plural = "s";
 			}
+			if current_unit == &"" {
+				space = "";
+				plural = "";
+			}
 			format!("{number_str}{space}{current_unit}{plural}")
 		}
 	};
 }
 
-macro_rules! format_number_unit_integer {
+macro_rules! format_number_unit_signed {
 	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
 		#[bon::builder]
 		pub fn $fun(
@@ -160,19 +170,19 @@ macro_rules! format_number_unit_integer {
 			if units.is_empty() {
 				return $format_fun(number);
 			}
-			let space = if spaced { " " } else { "" };
+			let mut space = if spaced { " " } else { "" };
 			let mut current = number;
 			let mut current_unit = units.first().expect("Will always be present.");
 			let mut loop_broken = false;
 			let mut chopped = 0 as $T;
 			for unit in units.iter() {
-				if current < divisor {
+				current_unit = unit;
+				if current.abs() < divisor.abs() {
 					loop_broken = true;
 					break;
 				}
 				chopped = current % divisor;
 				current /= divisor;
-				current_unit = unit;
 			}
 			let mut current_float = current as $F;
 			let divisor_float = divisor as $F;
@@ -188,7 +198,7 @@ macro_rules! format_number_unit_integer {
 				}
 				let mut number_str = match loop_broken {
 					true => format!("{current_float:.decimal_places$}"),
-					false => $format_float_fun(current_float, decimal_places),
+					false => $format_float_fun(current_float, decimal_places, None),
 				};
 				if trim_tail && number_str.contains(".") {
 					number_str = trim_float(number_str);
@@ -197,8 +207,78 @@ macro_rules! format_number_unit_integer {
 				if plural_ess && (number_str == "1" || number_str == "-1") {
 					plural = "s";
 				}
+				if current_unit == &"" {
+					space = "";
+					plural = "";
+				}
 				format!("{number_str}{space}{current_unit}{plural}")
 			} else {
+				if current_unit == &"" {
+					space = "";
+				}
+				format!("{}{space}{current_unit}", $format_fun(current))
+			}
+		}
+	};
+}
+
+macro_rules! format_number_unit_unsigned {
+	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
+		#[bon::builder]
+		pub fn $fun(
+			number: $T, divisor: $T, units: &[&str], decimal_places: usize,
+			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+			plural_ess: bool,
+		) -> String {
+			if units.is_empty() {
+				return $format_fun(number);
+			}
+			let mut space = if spaced { " " } else { "" };
+			let mut current = number;
+			let mut current_unit = units.first().expect("Will always be present.");
+			let mut loop_broken = false;
+			let mut chopped = 0 as $T;
+			for unit in units.iter() {
+				current_unit = unit;
+				if current < divisor {
+					loop_broken = true;
+					break;
+				}
+				chopped = current % divisor;
+				current /= divisor;
+			}
+			let mut current_float = current as $F;
+			let divisor_float = divisor as $F;
+			let chopped_float = chopped as $F;
+			if current_float as $T == current
+				&& divisor_float as $T == divisor
+				&& chopped_float as $T == chopped
+			{
+				let fraction = chopped_float / divisor_float;
+				current_float += fraction;
+				if let Some(handler) = decimal_handling {
+					current_float = current_float.handle(handler);
+				}
+				let mut number_str = match loop_broken {
+					true => format!("{current_float:.decimal_places$}"),
+					false => $format_float_fun(current_float, decimal_places, None),
+				};
+				if trim_tail && number_str.contains(".") {
+					number_str = trim_float(number_str);
+				}
+				let mut plural = "";
+				if plural_ess && (number_str == "1" || number_str == "-1") {
+					plural = "s";
+				}
+				if current_unit == &"" {
+					space = "";
+					plural = "";
+				}
+				format!("{number_str}{space}{current_unit}{plural}")
+			} else {
+				if current_unit == &"" {
+					space = "";
+				}
 				format!("{}{space}{current_unit}", $format_fun(current))
 			}
 		}
@@ -211,42 +291,42 @@ pub mod linear_units {
 	format_number_unit_float!(format_number_unit_f32, f32, format_number_f32);
 	format_number_unit_float!(format_number_unit_f64, f64, format_number_f64);
 
-	format_number_unit_integer!(
+	format_number_unit_signed!(
 		format_number_unit_i8,
 		i8,
 		format_number_i8,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer!(
+	format_number_unit_signed!(
 		format_number_unit_i16,
 		i16,
 		format_number_i16,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer!(
+	format_number_unit_signed!(
 		format_number_unit_i32,
 		i32,
 		format_number_i32,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer!(
+	format_number_unit_signed!(
 		format_number_unit_i64,
 		i64,
 		format_number_i64,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer!(
+	format_number_unit_signed!(
 		format_number_unit_i128,
 		i128,
 		format_number_i128,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer!(
+	format_number_unit_signed!(
 		format_number_unit_isize,
 		isize,
 		format_number_isize,
@@ -254,42 +334,42 @@ pub mod linear_units {
 		format_number_f64
 	);
 
-	format_number_unit_integer!(
+	format_number_unit_unsigned!(
 		format_number_unit_u8,
 		u8,
 		format_number_u8,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer!(
+	format_number_unit_unsigned!(
 		format_number_unit_u16,
 		u16,
 		format_number_u16,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer!(
+	format_number_unit_unsigned!(
 		format_number_unit_u32,
 		u32,
 		format_number_u32,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer!(
+	format_number_unit_unsigned!(
 		format_number_unit_u64,
 		u64,
 		format_number_u64,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer!(
+	format_number_unit_unsigned!(
 		format_number_unit_u128,
 		u128,
 		format_number_u128,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer!(
+	format_number_unit_unsigned!(
 		format_number_unit_usize,
 		usize,
 		format_number_usize,
@@ -327,9 +407,10 @@ pub mod linear_units {
 	pub const BINARY_DIVISOR_U128: u128 = 1024;
 	pub const BINARY_DIVISOR_USIZE: usize = 1024;
 
-	pub const METRIC_SUFFIXES: [&str; 10] = ["k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
+	pub const METRIC_SUFFIXES: [&str; 11] = ["", "k", "M", "G", "T", "P", "E", "Z", "Y", "R", "Q"];
 
-	pub const SHORT_SCALE_NAMES: [&str; 12] = [
+	pub const SHORT_SCALE_NAMES: [&str; 13] = [
+		"",
 		"thousand",
 		"million",
 		"billion",
@@ -420,9 +501,9 @@ macro_rules! format_number_unit_float_nonlinear {
 			plural_ess: bool,
 		) -> String {
 			if units.is_empty() || divisors.is_empty() {
-				return $format_fun(number, decimal_places);
+				return $format_fun(number, decimal_places, decimal_handling);
 			}
-			let space = if spaced { " " } else { "" };
+			let mut space = if spaced { " " } else { "" };
 			let mut current = number;
 			let mut loop_broken = false;
 			let mut current_unit = units.first().expect("Will always be present.");
@@ -430,19 +511,19 @@ macro_rules! format_number_unit_float_nonlinear {
 			let repeated = std::iter::repeat(last_divisor).take(units.len() - divisors.len());
 			let divisors = divisors.iter().chain(repeated);
 			for (divisor, unit) in divisors.zip(units) {
-				if current < *divisor {
+				current_unit = unit;
+				if current.abs() < divisor.abs() {
 					loop_broken = true;
 					break;
 				}
 				current /= divisor;
-				current_unit = unit;
 			}
 			if let Some(handler) = decimal_handling {
 				current = current.handle(handler);
 			}
 			let mut number_str = match loop_broken {
 				true => format!("{current:.decimal_places$}"),
-				false => $format_fun(current, decimal_places),
+				false => $format_fun(current, decimal_places, None),
 			};
 			if trim_tail && number_str.contains(".") {
 				number_str = trim_float(number_str);
@@ -451,12 +532,16 @@ macro_rules! format_number_unit_float_nonlinear {
 			if plural_ess && (number_str == "1" || number_str == "-1") {
 				plural = "s";
 			}
+			if current_unit == &"" {
+				space = "";
+				plural = "";
+			}
 			format!("{number_str}{space}{current_unit}{plural}")
 		}
 	};
 }
 
-macro_rules! format_number_unit_integer_nonlinear {
+macro_rules! format_number_unit_signed_nonlinear {
 	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
 		#[bon::builder]
 		pub fn $fun(
@@ -467,7 +552,7 @@ macro_rules! format_number_unit_integer_nonlinear {
 			if units.is_empty() {
 				return $format_fun(number);
 			}
-			let space = if spaced { " " } else { "" };
+			let mut space = if spaced { " " } else { "" };
 			let mut current = number;
 			let mut loop_broken = false;
 			let mut current_unit = units.first().expect("Will always be present.");
@@ -477,14 +562,14 @@ macro_rules! format_number_unit_integer_nonlinear {
 			let divisors = divisors.iter().chain(repeated);
 			let mut chopped = 0 as $T;
 			for (divisor, unit) in divisors.zip(units) {
-				if current < *divisor {
+				current_unit = unit;
+				current_divisor = divisor;
+				if current.abs() < divisor.abs() {
 					loop_broken = true;
 					break;
 				}
 				chopped = current % divisor;
 				current /= divisor;
-				current_unit = unit;
-				current_divisor = divisor;
 			}
 			let mut current_float = current as $F;
 			let divisor_float = *current_divisor as $F;
@@ -500,7 +585,7 @@ macro_rules! format_number_unit_integer_nonlinear {
 				}
 				let mut number_str = match loop_broken {
 					true => format!("{current_float:.decimal_places$}"),
-					false => $format_float_fun(current_float, decimal_places),
+					false => $format_float_fun(current_float, decimal_places, None),
 				};
 				if trim_tail && number_str.contains(".") {
 					number_str = trim_float(number_str);
@@ -509,8 +594,83 @@ macro_rules! format_number_unit_integer_nonlinear {
 				if plural_ess && (number_str == "1" || number_str == "-1") {
 					plural = "s";
 				}
+				if current_unit == &"" {
+					space = "";
+					plural = "";
+				}
 				format!("{number_str}{space}{current_unit}{plural}")
 			} else {
+				if current_unit == &"" {
+					space = "";
+				}
+				format!("{}{space}{current_unit}", $format_fun(current))
+			}
+		}
+	};
+}
+
+macro_rules! format_number_unit_unsigned_nonlinear {
+	($fun:ident, $T:ty, $format_fun:ident, $F:ty, $format_float_fun:ident) => {
+		#[bon::builder]
+		pub fn $fun(
+			number: $T, divisors: &[$T], units: &[&str], decimal_places: usize,
+			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+			plural_ess: bool,
+		) -> String {
+			if units.is_empty() {
+				return $format_fun(number);
+			}
+			let mut space = if spaced { " " } else { "" };
+			let mut current = number;
+			let mut loop_broken = false;
+			let mut current_unit = units.first().expect("Will always be present.");
+			let mut current_divisor = divisors.first().expect("Will always be present.");
+			let last_divisor = divisors.last().expect("Will always be present.");
+			let repeated = std::iter::repeat(last_divisor).take(units.len() - divisors.len());
+			let divisors = divisors.iter().chain(repeated);
+			let mut chopped = 0 as $T;
+			for (divisor, unit) in divisors.zip(units) {
+				current_unit = unit;
+				current_divisor = divisor;
+				if current < *divisor {
+					loop_broken = true;
+					break;
+				}
+				chopped = current % divisor;
+				current /= divisor;
+			}
+			let mut current_float = current as $F;
+			let divisor_float = *current_divisor as $F;
+			let chopped_float = chopped as $F;
+			if current_float as $T == current
+				&& divisor_float as $T == *current_divisor
+				&& chopped_float as $T == chopped
+			{
+				let fraction = chopped_float / divisor_float;
+				current_float += fraction;
+				if let Some(handler) = decimal_handling {
+					current_float = current_float.handle(handler);
+				}
+				let mut number_str = match loop_broken {
+					true => format!("{current_float:.decimal_places$}"),
+					false => $format_float_fun(current_float, decimal_places, None),
+				};
+				if trim_tail && number_str.contains(".") {
+					number_str = trim_float(number_str);
+				}
+				let mut plural = "";
+				if plural_ess && (number_str == "1" || number_str == "-1") {
+					plural = "s";
+				}
+				if current_unit == &"" {
+					space = "";
+					plural = "";
+				}
+				format!("{number_str}{space}{current_unit}{plural}")
+			} else {
+				if current_unit == &"" {
+					space = "";
+				}
 				format!("{}{space}{current_unit}", $format_fun(current))
 			}
 		}
@@ -523,42 +683,42 @@ pub mod nonillion_units {
 	format_number_unit_float_nonlinear!(format_number_unit_f32, f32, format_number_f32);
 	format_number_unit_float_nonlinear!(format_number_unit_f64, f64, format_number_f64);
 
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_signed_nonlinear!(
 		format_number_unit_i8,
 		i8,
 		format_number_i8,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_signed_nonlinear!(
 		format_number_unit_i16,
 		i16,
 		format_number_i16,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_signed_nonlinear!(
 		format_number_unit_i32,
 		i32,
 		format_number_i32,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_signed_nonlinear!(
 		format_number_unit_i64,
 		i64,
 		format_number_i64,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_signed_nonlinear!(
 		format_number_unit_i128,
 		i128,
 		format_number_i128,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_signed_nonlinear!(
 		format_number_unit_isize,
 		isize,
 		format_number_isize,
@@ -566,42 +726,42 @@ pub mod nonillion_units {
 		format_number_f64
 	);
 
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_unsigned_nonlinear!(
 		format_number_unit_u8,
 		u8,
 		format_number_u8,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_unsigned_nonlinear!(
 		format_number_unit_u16,
 		u16,
 		format_number_u16,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_unsigned_nonlinear!(
 		format_number_unit_u32,
 		u32,
 		format_number_u32,
 		f32,
 		format_number_f32
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_unsigned_nonlinear!(
 		format_number_unit_u64,
 		u64,
 		format_number_u64,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_unsigned_nonlinear!(
 		format_number_unit_u128,
 		u128,
 		format_number_u128,
 		f64,
 		format_number_f64
 	);
-	format_number_unit_integer_nonlinear!(
+	format_number_unit_unsigned_nonlinear!(
 		format_number_unit_usize,
 		usize,
 		format_number_usize,
