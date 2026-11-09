@@ -333,6 +333,72 @@ pub mod linear_units {
 		"decillion",
 		"undecillion",
 	];
+
+	pub const METRIC_BIT_ABBREVIATIONS: [&str; 11] = [
+		"b", "Kb", "Mb", "Gb", "Tb", "Pb", "Eb", "Zb", "Yb", "Rb", "Qb",
+	];
+	pub const METRIC_BIT_SHORT_NAMES: [&str; 11] = [
+		"bit", "Kbit", "Mbit", "Gbit", "Tbit", "Pbit", "Ebit", "Zbit", "Ybit", "Rbit", "Qbit",
+	];
+	pub const METRIC_BIT_FULL_NAMES: [&str; 11] = [
+		"bit",
+		"kilobit",
+		"megabit",
+		"gigabit",
+		"terabit",
+		"petabit",
+		"exabit",
+		"zettabit",
+		"yottabit",
+		"ronnabit",
+		"quettabit",
+	];
+
+	pub const DECIMAL_BIT_ABBREVIATIONS: [&str; 11] = [
+		"b", "Kib", "Mib", "Gib", "Tib", "Pib", "Eib", "Zib", "Yib", "Rib", "Qib",
+	];
+	pub const DECIMAL_BIT_SHORT_NAMES: [&str; 11] = [
+		"bit", "Kibit", "Mibit", "Gibit", "Tibit", "Pibit", "Eibit", "Zibit", "Yibit", "Ribit",
+		"Qibit",
+	];
+	pub const DECIMAL_BIT_FULL_NAMES: [&str; 11] = [
+		"bit", "kibibit", "mebibit", "gibibit", "tebibit", "pebibit", "exbibit", "zebibit",
+		"yobibit", "robibit", "quebibit",
+	];
+
+	pub const METRIC_BYTE_ABBREVIATIONS: [&str; 11] = [
+		"B", "KB", "MB", "GB", "TB", "PB", "EB", "ZB", "YB", "RB", "QB",
+	];
+	pub const METRIC_BYTE_NAMES: [&str; 11] = [
+		"byte",
+		"kilobyte",
+		"megabyte",
+		"gigabyte",
+		"terabyte",
+		"petabyte",
+		"exabyte",
+		"zettabyte",
+		"yottabyte",
+		"ronnabyte",
+		"quettabyte",
+	];
+
+	pub const DECIMAL_BYTE_ABBREVIATIONS: [&str; 11] = [
+		"B", "KiB", "MiB", "GiB", "TiB", "PiB", "EiB", "ZiB", "YiB", "RiB", "QiB",
+	];
+	pub const DECIMAL_BYTE_NAMES: [&str; 11] = [
+		"byte",
+		"kibibyte",
+		"mebibyte",
+		"gibibyte",
+		"tebibyte",
+		"pebibyte",
+		"exbibyte",
+		"zebibyte",
+		"yobibyte",
+		"robibyte",
+		"quebibyte",
+	];
 }
 
 macro_rules! format_number_unit_float_nonlinear {
