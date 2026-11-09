@@ -3,8 +3,6 @@
 
 #[cfg(feature = "averages")]
 pub mod averages;
-#[cfg(feature = "bytes")]
-pub mod bytes;
 #[cfg(feature = "color")]
 pub mod color;
 #[cfg(feature = "command")]

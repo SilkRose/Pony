@@ -60,7 +60,6 @@ tokio = { version = "1.54.1", features = [
 default = [
 	"binary",
 	"averages",
-	"bytes",
 	"color",
 	"command",
 	"env",
@@ -88,12 +87,12 @@ default = [
 ]
 
 binary = [
-	"bytes",
 	"fimfiction-api",
 	"fs",
 	"http",
 	"json",
 	"markdown",
+	"number-format",
 	"regex",
 	"stdin",
 	"traits",
@@ -112,7 +111,6 @@ binary = [
 ]
 
 averages = []
-bytes = ["number-format"]
 color = ["dep:serde", "serde/derive"]
 command = []
 env = []

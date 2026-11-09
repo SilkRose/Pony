@@ -1,5 +1,4 @@
 use git2::{Repository, ResetType, build};
-use pony::bytes::{FormatType, format_size_bytes};
 use pony::fimfiction_api::fimfic_api_headers;
 use pony::fs::{find_dirs_in_dir, find_files_in_dir};
 use pony::http::{Request, api_patch_request};
@@ -7,6 +6,9 @@ use pony::json::{JsonFormat, format_json};
 use pony::markdown::WarningType::Quiet;
 use pony::markdown::bbcode;
 use pony::number_format::format_number_u128;
+use pony::number_format::linear_units::{
+	BINARY_DIVISOR_USIZE, METRIC_BYTE_ABBREVIATIONS, format_number_unit_usize,
+};
 use pony::regex::matches;
 use pony::traits::OrderedVector;
 use pony::word_stats::{count_matches, word_count};
@@ -267,10 +269,22 @@ fn pony_stats(stats: &Stats<usize>) -> Result<Stats<String>, Box<dyn Error>> {
 		ideas: format_number_u128(stats.ideas.try_into()?),
 		names: format_number_u128(stats.names.try_into()?),
 		prompts: format_number_u128(stats.prompts.try_into()?),
-		size: format_size_bytes(stats.size as f64, FormatType::Abbreviation),
+		size: format_bytes(stats.size),
 		stories: format_number_u128(stats.stories.try_into()?),
 		words: format_number_u128(stats.words.try_into()?),
 	})
+}
+
+fn format_bytes(bytes: usize) -> String {
+	format_number_unit_usize()
+		.number(bytes)
+		.decimal_places(2)
+		.divisor(BINARY_DIVISOR_USIZE)
+		.units(&METRIC_BYTE_ABBREVIATIONS)
+		.spaced(true)
+		.trim_tail(true)
+		.plural_ess(false)
+		.call()
 }
 
 async fn update_fimfiction_stories(files: &[String]) -> Result<(), Box<dyn Error>> {
