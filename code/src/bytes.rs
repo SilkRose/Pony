@@ -35,6 +35,7 @@ pub fn format_size_bits(bytes: f64, format: FormatType) -> String {
 		.spaced(true)
 		.trim_tail(true)
 		.units(&units)
+		.plural_ess(false)
 		.call()
 }
 
@@ -68,6 +69,7 @@ pub fn format_size_bytes(bytes: f64, format: FormatType) -> String {
 		.spaced(true)
 		.trim_tail(true)
 		.units(&units)
+		.plural_ess(false)
 		.call()
 }
 
@@ -101,6 +103,7 @@ pub fn format_size_ibibits(bytes: f64, format: FormatType) -> String {
 		.spaced(true)
 		.trim_tail(true)
 		.units(&units)
+		.plural_ess(false)
 		.call()
 }
 
@@ -133,5 +136,6 @@ pub fn format_size_ibibytes(bytes: f64, format: FormatType) -> String {
 		.spaced(true)
 		.trim_tail(true)
 		.units(&units)
+		.plural_ess(false)
 		.call()
 }

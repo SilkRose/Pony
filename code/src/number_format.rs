@@ -113,6 +113,7 @@ macro_rules! format_number_unit_float {
 		pub fn $fun(
 			number: $T, divisor: $T, units: &[&str], decimal_places: usize,
 			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+			plural_ess: bool,
 		) -> String {
 			if units.is_empty() {
 				return $format_fun(number, decimal_places);
@@ -139,7 +140,11 @@ macro_rules! format_number_unit_float {
 			if trim_tail && number_str.contains(".") {
 				number_str = trim_float(number_str);
 			}
-			format!("{number_str}{space}{current_unit}")
+			let mut plural = "";
+			if plural_ess && (number_str == "1" || number_str == "-1") {
+				plural = "s";
+			}
+			format!("{number_str}{space}{current_unit}{plural}")
 		}
 	};
 }
@@ -150,6 +155,7 @@ macro_rules! format_number_unit_integer {
 		pub fn $fun(
 			number: $T, divisor: $T, units: &[&str], decimal_places: usize,
 			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+			plural_ess: bool,
 		) -> String {
 			if units.is_empty() {
 				return $format_fun(number);
@@ -187,7 +193,11 @@ macro_rules! format_number_unit_integer {
 				if trim_tail && number_str.contains(".") {
 					number_str = trim_float(number_str);
 				}
-				format!("{number_str}{space}{current_unit}")
+				let mut plural = "";
+				if plural_ess && (number_str == "1" || number_str == "-1") {
+					plural = "s";
+				}
+				format!("{number_str}{space}{current_unit}{plural}")
 			} else {
 				format!("{}{space}{current_unit}", $format_fun(current))
 			}
@@ -407,6 +417,7 @@ macro_rules! format_number_unit_float_nonlinear {
 		pub fn $fun(
 			number: $T, divisors: &[$T], units: &[&str], decimal_places: usize,
 			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+			plural_ess: bool,
 		) -> String {
 			if units.is_empty() || divisors.is_empty() {
 				return $format_fun(number, decimal_places);
@@ -436,7 +447,11 @@ macro_rules! format_number_unit_float_nonlinear {
 			if trim_tail && number_str.contains(".") {
 				number_str = trim_float(number_str);
 			}
-			format!("{number_str}{space}{current_unit}")
+			let mut plural = "";
+			if plural_ess && (number_str == "1" || number_str == "-1") {
+				plural = "s";
+			}
+			format!("{number_str}{space}{current_unit}{plural}")
 		}
 	};
 }
@@ -447,6 +462,7 @@ macro_rules! format_number_unit_integer_nonlinear {
 		pub fn $fun(
 			number: $T, divisors: &[$T], units: &[&str], decimal_places: usize,
 			decimal_handling: Option<DecimalHandling>, spaced: bool, trim_tail: bool,
+			plural_ess: bool,
 		) -> String {
 			if units.is_empty() {
 				return $format_fun(number);
@@ -489,7 +505,11 @@ macro_rules! format_number_unit_integer_nonlinear {
 				if trim_tail && number_str.contains(".") {
 					number_str = trim_float(number_str);
 				}
-				format!("{number_str}{space}{current_unit}")
+				let mut plural = "";
+				if plural_ess && (number_str == "1" || number_str == "-1") {
+					plural = "s";
+				}
+				format!("{number_str}{space}{current_unit}{plural}")
 			} else {
 				format!("{}{space}{current_unit}", $format_fun(current))
 			}
