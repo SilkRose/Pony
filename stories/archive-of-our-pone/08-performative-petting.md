@@ -1,6 +1,8 @@
 # Performative Petting
 
-Fluttershy opened the book Pinkie had just given her. "Let's see. Performative Petting by Dr. Fauna."
+Pinkie looked through the books, trying to find one about her friend. "Here you go!"
+
+Fluttershy took the book from Pinkie and opened it. "Let's see. Performative Petting by Dr. Fauna."
 
 ***
 
@@ -46,5 +48,26 @@ They tried hundreds upon hundreds of different combinations and tactics for how 
 
 The first animal would always succeed, but the second wouldn't. So, there had to be a pattern in there somewhere.
 
-They had been at it for hours when eventually they had found a successful combination of three animals in a row.
+They had been at it for hours when eventually they had found a successful combination of three animals in a row: bear, cat, dog.
 
+They soon realized the pattern was alphabetical. They lined up and sorted all the animals in alphabetical order before going for the last petting parade.
+
+There were a few more failed attempts, but after fixing those errors, they managed to fix every animals sound.
+
+All the animals cheered.
+
+Fluttershy cheered as well. "Yay!"
+
+Spike celebrated. "We did it, Fluttershy!"
+
+They were all happy. The animals went back to doing whatever it was they were doing before the noise mix up happened.
+
+Spike left in good spirits, and Fluttershy sat back down on the couch to relax where she soon fell back asleep.
+
+***
+
+Fluttershy said, "I liked that story."
+
+Pinkie pet Fluttershy. "Yea, it was cute!"
+
+Everypony giggled together.
