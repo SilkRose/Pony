@@ -1,4 +1,4 @@
-# Performative Petting
+# Petting Patterns
 
 Pinkie looked through the books, trying to find one about her friend. "Here you go!"
 
@@ -34,7 +34,7 @@ There had to be a system here, but what?
 
 It was at that moment she heard a knock at the door. She answered it and found Spike.
 
-Spike sounded like Angel, and said, "Hey Fluttershy, can you help fix my voice, nopony can understand me, or even agree on what I sound like…"
+Spike wiggled his ears and sniffed his nose, like Angel would, and said, "Hey Fluttershy, can you help fix my voice, nopony can understand me, or even tell that I'm talking…"
 
 Fluttershy petted Spike and he could talk normally again, but she explained her animal problem and that he would likely revert soon after she pet another animal.
 
