@@ -2,7 +2,7 @@
 
 Pinkie looked through the books, trying to find one about her friend. "Here you go!"
 
-Fluttershy took the book from Pinkie and opened it. "Let's see. Performative Petting by Dr. Fauna."
+Fluttershy took the book from Pinkie and opened it. "Let's see. Petting Patterns by Dr. Fauna."
 
 ***
 
