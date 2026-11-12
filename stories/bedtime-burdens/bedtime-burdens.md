@@ -6,7 +6,7 @@ Twilight was about to head to bed when she heard a knock on the library's front 
 
 When she answered it, she found Pinkie.
 
-"Hi Twilight. I was wondering if I could sleep over at your place for a few days?"
+"Hi,[VOCATIVE COMMA] Twilight. I was wondering if I could sleep over at your place for a few days?"
 
 Twilight looked puzzled. "Sure, but why do you need to stay with me?"
 
@@ -20,7 +20,7 @@ Twilight sighed. "Do we at least get free tickets for loaning out our property?"
 
 Pinkie nodded enthusiastically. "We can go see our beds live!"
 
-Twilight didn't exactly understand, but she didn't mind.  Until she realized what that meant.
+Twilight didn't exactly understand, but she didn't mind. Until she realized what that meant.
 
 *I'm going to be sharing my bed with Pinkie.*
 
@@ -30,13 +30,13 @@ She tried to play it cool. "Uh, why don't you come in and we can… sleep?"
 
 Pinkie smiled. "I love sleep."
 
-Twilight led them to her bed where they laid down back to back.
+Twilight led them to her bed, [NONRESTRICTIVE RELATIVE CLAUSE] where they lay [TRANSITIVITY ISSUE] down back to back.
 
 Pinkie said, "Good night, Twilight."
 
 Twilight replied, "Good night, Pinkie."
 
-Twilight laid awake unable to sleep, her mind racing around the pony sleeping beside her.
+Twilight lay [TRANSITIVITY ISSUE. CONSULT MY PREVIOUS EXPOSITIONS OF LAY/LIE] awake unable to sleep, her mind racing around the pony sleeping beside her.
 
 *I can't believe we're sharing a bed.*
 
@@ -62,7 +62,7 @@ The next day went by in a blur to Twilight. She spent the whole day having fun w
 
 Bedtime came quicker than Twilight was ready for.
 
-They laid down back to back like the night before.
+They lay [YOU GUESSED IT, TRANSITIVITY AGAIN] down back to back like the night before.
 
 Twilight asked, "Pinkie?"
 
@@ -74,7 +74,7 @@ Twilight's voice rose in pitch. "Is it okay if I sleep facing you?"
 
 Twilight smiled and rolled over to face Pinkie. "I had a lot of fun with you today."
 
-Pinkie said, "I had a lot of fun too!" Her voice raised like Twilight's. "Can I face you too?"
+Pinkie said, "I had a lot of fun too!" Her voice rose like Twilight's. "Can I face you too?"
 
 Twilight, unsure of how to hide the blush she just realized she had, replied, "Sure, but is it okay if we keep our eyes closed?"
 
@@ -120,7 +120,7 @@ Twilight couldn't sleep. She had lain there for over an hour with her back press
 
 All she had to do was tell Pinkie how she felt, but here she was.
 
-Twilight finally broke down and cried into her hooves.  She tried to cry quietly, hoping Pinkie wouldn't wake up.
+Twilight finally broke down and cried into her hooves. She tried to cry quietly, hoping Pinkie wouldn't wake up.
 
 *Why is this so hard?*
 
