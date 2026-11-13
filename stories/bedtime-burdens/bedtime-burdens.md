@@ -1,10 +1,10 @@
 # Bedtime Burdens
 
-Twilight was about to head to bed when she heard a knock on the library's front door.
+Twilight Sparkle was about to head to bed when she heard a knock on the library's front door.
 
 *Who could that be?*
 
-When she answered it, she found Pinkie.
+When she answered it, she found Pinkie Pie.
 
 "Hi, Twilight. I was wondering if I could sleep over at your place for a few days?"
 
