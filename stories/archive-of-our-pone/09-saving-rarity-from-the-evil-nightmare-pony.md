@@ -26,7 +26,7 @@
 
 "She sounds… distinctly more heroic than I recall," Rarity commented.
 
-> "Ya got that right," the earth pony replied with a sage nod.
+"Ya got that right," the earth pony replied with a sage nod.
 
 "Feel like the story's missin' a few panic attacks here and there. Other than that, pretty alrigh' retelling so far."
 
