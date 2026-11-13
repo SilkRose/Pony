@@ -1,6 +1,6 @@
 # Saving Rarity from the Evil Nightmare Pony
 
-"This next one will be from, ah– _Sweetie Belle?_" Rarity cleared her throat, rubbing a hoof against the side of her head. "…and it just so happens to be about me and Twilight. How, erm… kind of her to write about us."
+"This next one will be from, ah– _Sweetie Belle_?" Rarity cleared her throat, rubbing a hoof against the side of her head. "…and it just so happens to be about me and Twilight. How, erm… kind of her to write about us."
 
 "Ain't that somethin'." Applejack walked over, looking down at the unopened paper. "Better be careful. It could be dangerous."
 
@@ -16,7 +16,7 @@
 
 "**_Second_** best?"
 
-_"I'm sure she appreciates the sentiment."_
+"I'm sure she appreciates the sentiment."
 
 > One day, she was sent to Ponyville to save everypony there from the return of the Nightmare Moon. She trained for this for ~~days~~ months and months and months, until she was ready to take revenge for Princess Luna!
 >
