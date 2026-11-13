@@ -6,7 +6,7 @@ Twilight was about to head to bed when she heard a knock on the library's front 
 
 When she answered it, she found Pinkie.
 
-"Hi,[VOCATIVE COMMA] Twilight. I was wondering if I could sleep over at your place for a few days?"
+"Hi, Twilight. I was wondering if I could sleep over at your place for a few days?"
 
 Twilight looked puzzled. "Sure, but why do you need to stay with me?"
 
@@ -30,13 +30,13 @@ She tried to play it cool. "Uh, why don't you come in and we can… sleep?"
 
 Pinkie smiled. "I love sleep."
 
-Twilight led them to her bed, [NONRESTRICTIVE RELATIVE CLAUSE] where they lay [TRANSITIVITY ISSUE] down back to back.
+Twilight led them to her bed, where they laid down back to back.
 
 Pinkie said, "Good night, Twilight."
 
 Twilight replied, "Good night, Pinkie."
 
-Twilight lay [TRANSITIVITY ISSUE. CONSULT MY PREVIOUS EXPOSITIONS OF LAY/LIE] awake unable to sleep, her mind racing around the pony sleeping beside her.
+Twilight laid awake unable to sleep, her mind racing around the pony sleeping beside her.
 
 *I can't believe we're sharing a bed.*
 
@@ -62,7 +62,7 @@ The next day went by in a blur to Twilight. She spent the whole day having fun w
 
 Bedtime came quicker than Twilight was ready for.
 
-They lay [YOU GUESSED IT, TRANSITIVITY AGAIN] down back to back like the night before.
+They laid down back to back like the night before.
 
 Twilight asked, "Pinkie?"
 
