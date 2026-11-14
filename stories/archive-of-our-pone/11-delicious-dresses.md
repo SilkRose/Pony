@@ -76,11 +76,11 @@ Pinkie answered, "I get my ideas from my brain."
 >
 > She would soon though, as a new pony appeared at their table.
 >
-> "Hello, my name is Edible Pants, I'm the head chef here. I wanted to personally serve you two. It's not everyday our main supplier eats at our dresstaurant."
+> "Hello, my name is Edible Pants, but most ponies call me Eddie Bull. I'm the head chef here. I wanted to personally serve you two. It's not everyday our main supplier eats at our dresstaurant."
 
 Rarity asked with a giggle, "Wonder if he's related to Fancy Pants."
 
-> He was Fancy Pants' younger, less successful, less handsome, more pants-ed brother.
+> He was Fancy Pants' younger, less successful, less handsome, less fancy, more pants-ed brother.
 
 Rarity said, "The first thing I noticed about Fancy Pants when I met him was his lack of pants. Glad to see this story took note as well."
 
@@ -96,4 +96,27 @@ Both mares giggled together.
 >
 > "Well, what do the dresses taste like?"
 >
+> "Normally they wouldn't taste good, but the spell I cast changes the flavor. The higher quality the dresses the better they taste. You would never find one of your pieces at a *fast fashion* restaurant."
 >
+> "What do they serve at a fast fashion place? I've never been."
+>
+> "Mostly cheap blazers and handkerchiefs."
+
+Rarity said, "He's put a lot of thought into this. I can see why Saffron would be embarrassed."
+
+> Both of them nodded in understanding.
+>
+> "Did you have a chance to pick out which dress you would like to eat?"
+>
+> Rarity pointed to a very exquisite dress with lots of fancy stuff on it. "I'll have this one. I designed it for myself a while back. Quite curious what it would taste like."
+>
+> Pinkie asked, "Do you know what I should get? They all look so good and tasty."
+>
+> Rarity pointed to a blue dress. "She'll have this one. It matches your eyes. I actually made it for you but accidentally sold it it seems."
+>
+> "Would you like anything to drink with your fine selections tonight?"
+>
+> "Oh, I hand't thought about drinks. What would you recommend?"
+
+Rarity asked, "If dresses are food, what are the drinks going to be?"
+
