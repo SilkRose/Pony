@@ -40,3 +40,60 @@ Pinkie nodded.
 
 Rarity commented, dryly, "I have a feeling were getting to the embarrassing part."
 
+Pinkie giggled.
+
+> They trotted through the front door where they met their hostess.
+>
+> "Hello and welcome to the Catwalk Cafe. My name is (think of name later). Table for two?"
+>
+> "Yes," Rarity answered.
+>
+> (Think of name later) lead them to a table and gave them menus. "I'll be back soon to take your order."
+>
+> They waved goodbye to (think of name later) and said their thanks.
+
+Pinkie laughed. "Guess he forgot to name them later."
+
+Rarity pondered, "I'surprised Saffron didn't catch that one."
+
+Pinkie replied, "What if that is their name?"
+
+Rarity said, "It can't be, right?"
+
+"You never know…"
+
+> Rarity perused the menu, noticing it was nothing but dresses, most of them made by her.
+>
+> "They don't expect us to eat actual dresses, do they?"
+>
+> Pinkie shrugged. "I don't know, this is my first time here."
+
+Rarity commented, "I don't know where all these ponies get these ideas for stories."
+
+Pinkie answered, "I get my ideas from my brain."
+
+> The prices on the dresses were increased over what she charged to make them. I guess they had to make a profit, but how could ponies casually afford the price of a nice fancy dress like it was a meal at a restaurant. Rarity didn't understand it.
+>
+> She would soon though, as a new pony appeared at their table.
+>
+> "Hello, my name is Edible Pants, I'm the head chef here. I wanted to personally serve you two. It's not everyday our main supplier eats at our dresstaurant."
+
+Rarity asked with a giggle, "Wonder if he's related to Fancy Pants."
+
+> He was Fancy Pants' younger, less successful, less handsome, more pants-ed brother.
+
+Rarity said, "The first thing I noticed about Fancy Pants when I met him was his lack of pants. Glad to see this story took note as well."
+
+Pinkie protested in agreement. "Hey, yeah! I don't think I've ever seen him wear pants."
+
+Both mares giggled together.
+
+> Edible continued, "Satisfaction guaranteed, or I'll eat my hat!"
+>
+> Rarity asked, "How are we supposed to eat a dress? They're not normally edible."
+>
+> "Good question. As the head chef, I cast a spell on the dresses making them edible."
+>
+> "Well, what do the dresses taste like?"
+>
+>
