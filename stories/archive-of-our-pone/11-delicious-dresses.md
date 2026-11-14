@@ -76,11 +76,11 @@ Pinkie answered, "I get my ideas from my brain."
 >
 > She would soon though, as a new pony appeared at their table.
 >
-> "Hello, my name is Edible Pants, but most ponies call me Eddie Bull. I'm the head chef here. I wanted to personally serve you two. It's not everyday our main supplier eats at our dresstaurant."
+> "Hello, my name is Edible Pants, but most ponies call me names I can't repeat in polite company. I'm the head chef here. I wanted to personally serve you two. It's not everyday our main supplier eats at our dresstaurant."
 
 Rarity asked with a giggle, "Wonder if he's related to Fancy Pants."
 
-> He was Fancy Pants' younger, less successful, less handsome, less fancy, more pants-ed brother.
+> He was Fancy Pants' younger, less successful, less handsome, less fancy, and less pantsless brother.
 
 Rarity said, "The first thing I noticed about Fancy Pants when I met him was his lack of pants. Glad to see this story took note as well."
 
