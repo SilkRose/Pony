@@ -120,6 +120,8 @@ She didn't have to be told twice. Starlight practically appeared next to Rarity 
 
 "I… thank you, Rarity. Thank you, thank you so much!" Starlight exclaimed, pulling her into a warm, tight embrace. "I don't want to miss out on the Gala anymore."
 
+The end.
+
 ***
 
 "Okay, you win," Starlight huffed, a smile reaching one corner of her mouth. "That was quite an emotional rollercoaster."
