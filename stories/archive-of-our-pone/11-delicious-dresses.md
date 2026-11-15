@@ -150,3 +150,20 @@ Pinkie shook her head. "No."
 
 Rarity said, "Now we can finally learn what a dress tastes like."
 
+> Both mares started to eat their dress. Pinkie chomped down while Rarity retained a more reserved eating pattern.
+>
+> It was like eating the most delicate and delectable dessert ever created. The fabric pulled apart with ease but retained its alluring and inviting texture.
+>
+> Rarity's dress tasted like the most fine dining she'd ever had. The colors of the dress had flavors and they played for her attention with every bite.
+> 
+> Pinkie's dress tasted like fun. The layers of the dress melded together into a cacophony of sweetness that satisfied her tooth and the rest.
+>
+> The dresses were the most delicious thing either of them had ever eaten.
+
+Pinkie interjected, "Rarity, we have to go try these dresses right now. They sound so *good*!"
+
+Rarity chucked. "Oh, haha."
+
+Pinkie was already running for the door. "Carousel Boutique here I come!"
+
+Rarity yelled for her, "Pinkie, no!"
