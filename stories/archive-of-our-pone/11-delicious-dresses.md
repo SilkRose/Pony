@@ -4,7 +4,7 @@ Pinkie brought a book to Rarity. "Look, we got a book from Coriander! You want t
 
 Rarity took the book in her magic an opened it up. "Sure. I hope they're still doing well."
 
-A small card fell out from the book. Rarity picks it up and read it aloud.
+A small card fell out from the book. Rarity picked it up and read it aloud.
 
 "Saffron and I are still doing well, thanks to you! I decided to write something for your library to try and repay everything you have done for us. Saffron is more than embarrassed with my story however, so I believe I have done well."
 
@@ -16,7 +16,7 @@ Rarity chuckled. "I guess we'll see."
 >
 > By Coriander Cumin
 >
-> Rarity was in the middle of designing her latest creation. She had been on a roll, with new customers coming to buy dresses daily at this point. Everypony in town had to own at least one of her dresses at this point, but weirdly, she didn't see many mares out and about in them.
+> Rarity was in the middle of designing her latest creation. She had been on a roll, with new customers coming to buy dresses daily at this point. Everypony in town had to own at least one of her dresses at this point, but weirdly, she didn't see many mares wearing them out and about.
 >
 > She didn't mind however, as long as the customer was happy, she was happy.
 
@@ -32,7 +32,7 @@ Pinkie nodded.
 >
 > Rarity was confused, she had to have heard her friend wrong. "Dresstaurant?"
 >
-> "Yes, its this new style of restaurant, I've never been, but it sounded interesting!"
+> "Yes, it's this new style of restaurant, I've never been, but it sounded interesting!"
 >
 > "Well, I guess I can go. I needed a break from all the orders lately anyway."
 >
@@ -54,7 +54,7 @@ Pinkie giggled.
 
 Pinkie laughed. "Guess he forgot to name them later."
 
-Rarity pondered, "I'surprised Saffron didn't catch that one."
+Rarity pondered, "I'm surprised Saffron didn't catch that one."
 
 Pinkie replied, "What if that is their name?"
 
@@ -142,9 +142,9 @@ Pinkie shook her head. "No."
 >
 > He returned after a few minutes carrying a serving rack with their dresses hanging from it, and a bottle of buttons with two drinking glasses.
 >
-> He set the glasses down in front of them and poured the liquid buttons for both of them. Then to took the dresses off the rack and neatly folded them into small squares before placing them on some empty plates in front of them.
+> He set the glasses down in front of them and poured the liquid buttons for both of them. Then he took the dresses off the rack and neatly folded them into small squares before placing them on some empty plates in front of them.
 >
-> "Tonight's meal in on the house, consider it the chef's compliment for making my business possible."
+> "Tonight's meal is on the house, consider it the chef's compliment for making my business possible."
 >
 > They both thanked him and he left so they could eat in peace.
 
@@ -162,7 +162,7 @@ Rarity said, "Now we can finally learn what a dress tastes like."
 
 Pinkie interjected, "Rarity, we have to go try these dresses right now. They sound so *good*!"
 
-Rarity chucked. "Oh, haha."
+Rarity chucked. "Oh, haha. Very funny."
 
 Pinkie was already running for the door. "Carousel Boutique here I come!"
 
