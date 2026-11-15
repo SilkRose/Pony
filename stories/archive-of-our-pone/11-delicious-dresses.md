@@ -120,3 +120,33 @@ Rarity said, "He's put a lot of thought into this. I can see why Saffron would b
 
 Rarity asked, "If dresses are food, what are the drinks going to be?"
 
+Pinkie exclaimed with excitement, "Buttons!"
+
+> "Buttons, my dear."
+>
+> "How do you drink buttons? Let me guess, another spell?"
+>
+> "Yes, we cast the same edible spell on them then cast another spell to liquefy them."
+>
+> "Well, which buttons should we get?"
+>
+> "I think some nice vintage twenty two ligne four hole buttons would pair nicely with both your selections."
+>
+> "We'll have that then, thank you."
+
+Rarity chuckled. "I guess you were right. You didn't pre-read this did you?"
+
+Pinkie shook her head. "No."
+
+> With that Edible took their menus and left to go prepare their food.
+>
+> He returned after a few minutes carrying a serving rack with their dresses hanging from it, and a bottle of buttons with two drinking glasses.
+>
+> He set the glasses down in front of them and poured the liquid buttons for both of them. Then to took the dresses off the rack and neatly folded them into small squares before placing them on some empty plates in front of them.
+>
+> "Tonight's meal in on the house, consider it the chef's compliment for making my business possible."
+>
+> They both thanked him and he left so they could eat in peace.
+
+Rarity said, "Now we can finally learn what a dress tastes like."
+
