@@ -187,3 +187,6 @@ This file contains random story names that don't have enough thought to have the
 - felt cute, might delete later
 - Double Blind Date
 - D'awe Inspiring
+- Emotional Planning
+- Scheduled Strife
+- Presented Without Comment
