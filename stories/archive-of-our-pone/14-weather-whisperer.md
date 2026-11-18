@@ -20,7 +20,7 @@ Rainbow just rolled her eyes.
 >
 > "Wake up!"
 >
-> Rainbow mumbled a response, "Now now mom. I'm trying to finish my homework for pancake class…"
+> Rainbow mumbled a response, "Not now mom. I'm trying to finish my homework for pancake class…"
 
 Rainbow asked, "Pancake class, what does that even mean?"
 
@@ -148,6 +148,6 @@ Twilight commented, "I guess we know *why* they wrote it."
 
 Pinkie asked, "So, now we get to plan the super fun party now, right?"
 
-Rainbow nodded. "Sure."
+Rainbow nodded. "Sure, after we get those pancakes!"
 
 Pinkie jumped up. "Yay!"
