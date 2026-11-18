@@ -142,7 +142,7 @@ Rainbow rolled her eyes. "Really pushing it there, eh, Clear?"
 
 "I guess we know *why* she wrote it," said Twilight.
 
-"So, now we get to plan the super fun party now, right?" asked Pinkie.
+"So, now we get to plan the super fun party, right?" asked Pinkie.
 
 Rainbow nodded. "Sure. Right after we get those pancakes!"
 
