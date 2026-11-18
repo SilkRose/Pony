@@ -122,7 +122,7 @@ Pinkie answered cheerful, "Sure can do, Dashie!"
 >
 > "I'm sure Pinkie would love to throw that party, but what were the other demands?"
 >
-> "Oh, they just want use to handle them more carefully, I'll talk about it with the team at our next meeting."
+> "Oh, they just want us to handle them more carefully, I'll talk about it with the team at our next meeting."
 >
 > "Well, can you go talk to them and get them to end the strike?"
 >
@@ -132,11 +132,11 @@ Pinkie answered cheerful, "Sure can do, Dashie!"
 
 Rainbow rolled her eyes. "Really pushing it there aye, Clear."
 
-> With that the strike ended. All the clouds went back to their places of hover at a very slow pace.
+> With that the strike ended. All the clouds went back to hovering at a very slow pace.
 >
-> Cloudsdale had to be pushed back into place because it was moving so slow, but they go it there in only five business days.
+> Cloudsdale had to be pushed back into place because it was moving so slow, but, eventually, they got there in only five business days.
 >
-> At that next meeting Rainbow informed them of the new cloud handling procedures, and about the laser tag, ice cream, and pizza party that was for Clear Skies, and the rest of the weather team, I guess.
+> At that next meeting, Rainbow informed them of the new cloud handling procedures, and the laser tag, ice cream, and pizza party being held for Clear Skies and the rest of the weather team.
 >
 > Everypony was happy, especially Clear Skies.
 >
