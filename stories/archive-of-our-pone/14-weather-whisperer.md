@@ -14,7 +14,7 @@ Twilight snickered. "Glad we're starting off strong on the characterization fron
 
 "Yeah, yeah." Rainbow rolled her eyes. "Do you want me to read this or not?"
 
-> She wouldn't be for much longer, though, as she heard a voice that tried to wake her up.
+> She wouldn't be for much longer, though, as she heard a voice trying to wake her up.
 >
 > "Wake up!"
 >
@@ -28,11 +28,9 @@ Pinkie Pie bounced in place. "Oh! Oh! Can we go get pancakes after this?"
 
 Rainbow nodded. "Sounds good to me."
 
-> She heard the same voice again.
+> She heard the same voice again. "Wake up!"
 >
-> "Wake up!"
->
-> Rainbow finally woke up and looked around. She didn't see anypony so she tried to go back to sleep.
+> Rainbow finally woke up and looked around. But she didn't see anypony, so she tried to go back to sleep.
 >
 > Until she realized the cloud she was sleeping on was moving.
 >
@@ -40,9 +38,9 @@ Rainbow nodded. "Sounds good to me."
 >
 > "I am."
 >
-> She looked all around and even under the cloud, but still could not see anypony. "Where are you?"
+> She looked all around and even under the cloud, but she still could not see anypony. "Where are you?"
 >
-> "I am the cloud."
+> "I'm the cloud."
 >
 > "Since when could I talk to clouds?"
 >
@@ -56,7 +54,7 @@ Rainbow nodded. "Sounds good to me."
 >
 > "You heard me."
 >
-> "But what about the weather? Why don't you like being pushed around, don't you want to be useful?"
+> "But what about the weather? Why don't you like being pushed around? Don't you want to be useful?"
 >
 > "Everycloud in Equestria is going on strike! Until we get better treatment from ponies, we're all gonna live above the Everfree Forest."
 >
@@ -64,7 +62,7 @@ Rainbow nodded. "Sounds good to me."
 >
 > "You literally have a catchphrase for how fast you end our existence in the sky."
 >
-> "Oh yeah."
+> "I do? Oh… yeah."
 >
 > "You know, it's actually really good that you can understand me."
 >
@@ -74,7 +72,7 @@ Rainbow nodded. "Sounds good to me."
 >
 > "You mean you all decided to go on strike before having any way to even talk to anypony?"
 >
-> "Shut up. Rainbow Dash wouldn't ask such a logical question."
+> "Shut up. The Rainbow Dash we want to negotiate with wouldn't ask such a logical question."
 
 "Hey! Rude much?" Rainbow frowned. "And how'd they even come up with such a weird idea?"
 
@@ -82,11 +80,11 @@ Pinkie Pie shrugged. "I like it!"
 
 "It's likely that some of these stories are the first these ponies have ever written," said Twilight.
 
-"Yeah. It's not like they've written over fifty stories with over one hundred and fifty thousands words already!" Pinkie grinned.
+"Yeah. It's not like they've written over fifty stories and over one hundred and fifty thousand words already!" Pinkie grinned.
 
 Rainbow cleared her throat and continued.
 
-> "Okay, I'm sorry. Are you willing to talk to the other ponies with our demands?"
+> "Okay, I'm sorry. Are you willing to tell the other ponies our demands?"
 >
 > "Well, can you give me your demands and I'll go talk to Twilight?"
 >
@@ -128,9 +126,9 @@ Rainbow turned. "Hey Pinkie, can you plan an ice cream party for the weather tea
 
 Rainbow rolled her eyes. "Really pushing it there, eh, Clear?"
 
-> With that the strike ended. All the clouds went back to hovering at a very slow pace.
+> With that, the strike ended. All the clouds went back to hovering at a very slow pace.
 >
-> Cloudsdale had to be pushed back into place because it was moving so slow, but, eventually, they got there in only five business days.
+> Cloudsdale had to be pushed back into place because it was moving so slowly, but, eventually, they got it there. It only took five business days.
 >
 > At that next meeting, Rainbow informed them of the new cloud handling procedures, and the laser tag, ice cream, and pizza party being held for Clear Skies and the rest of the weather team.
 >
