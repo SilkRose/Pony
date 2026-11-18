@@ -102,7 +102,7 @@ Yet the pleading ran off of Sunset just the same as the pouring rain. "Come back
 
 The lightning bolt that flashed across the sky lit up the square and masked the sound of Twilight's gasp. Princess Celestia was Sunset's mother?!? It made little sense, yet the more she thought about it the more sense it did. The two of them had always had a weird relationship with one and another. More than student and teacher, yet less than family.
 
-Celestia stared down at her child with contempt. "Your inherited connected to the sun is dangerous, surely you must see that!"
+Celestia stared down at her child with contempt. "Your inherited connection to the sun is dangerous, surely you must see that!"
 
 "You can't control everything, Celestia! Maybe one day that lesson will finally stick. But on this day—" Sunset lit her horn "—the lesson you'll learn: Is to never underestimate Sunset Shimmer!" A spell unlike any other went off as the guards charged her, one that turned Sunset's entire body into a ball of plasma that went flying off and out, away from Canterlot.
 
