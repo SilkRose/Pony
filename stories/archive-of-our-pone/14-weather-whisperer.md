@@ -76,7 +76,7 @@ Rainbow nodded. "Sounds good to me."
 >
 > "Shut up. Rainbow Dash wouldn't ask such a logical question."
 
-"Rude!" Rainbow frowned. "And how'd they even come up with such a weird idea?"
+"Hey! Rude much?" Rainbow frowned. "And how'd they even come up with such a weird idea?"
 
 Pinkie Pie shrugged. "I like it!"
 
