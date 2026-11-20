@@ -1,8 +1,8 @@
-# 
+# Rarity’s Super Spectacular Show!
 
-Rarity’s Super Spectacular Show!
+**Rarity’s Super Spectacular Show!**
 
-by Hoofpaint
+**by Hoofpaint**
 
 **Once upon a time Rarity said “I’m going to put on a big fashion show!” and everypony was excited because Rarity has the most beautiful dresses. She got all her friends together and made beautiful dresses for everypony. All her friends were super happy to help her friend and put on a fun show.**
 
