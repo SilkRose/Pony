@@ -1,76 +1,82 @@
 # Bouncy Books
 
-Twilight opened another package with a book inside. "Bouncy Books by Book Binder."
+Twilight opened another package and pulled out a book. "Bouncy Books by Book Binder."
 
-Pinkie smiled. "It's about books, you'll love this one, Twilight!"
+Pinkie smiled. "You'll love this one, Twilight. It's about books!"
 
-Twilight blushed slightly before she opened the book and read it aloud…
+Twilight grinned sheepishly, then opened the book and began reading it aloud…
 
-> Twilight was enjoying another normal day in the newly rebuilt Golden Oak Library. She was doing what she loved categorizing books.
+> On another normal day in the newly rebuilt Golden Oak Library, Princess Twilight Sparkle was enjoying doing what she loved most: categorizing books. She prided herself on her organization skills, as anypony should.
 >
-> She prided herself on her organization skills, as any pony should.
+> Unfortunately, her day was about to become a lot more interesting. She picked up a book off the floor and it immediately bounced out of her hooves.
 >
-> But her day was about to get a whole lot more interesting. She picked up a book in the floor and it immediately bounced out of her hooves.
+> The book whizzed around the room, ricocheting off of every surface it touched. Impossibly, it seemed to gain momentum on every bounce.
 >
-> The book whizzed around the room, bouncing off every surface it touched. It even seemed to be gaining momentum, which in theory shouldn't be possible.
+> Luckily for Twilight, she had friends. Pinkie grabbed the stray book and wrestled it to the floor.
 >
-> Luckily for her, she had friends. Pinkie caught the book and was even able to hold it.
+> "Can you put it on that shelf there, Pinkie?" Twilight asked, pointing.
 >
-> "Can you put it on that shelf there, Pinkie?" Twilight asked as she pointed to a shelf.
+> Pinkie nodded and followed her friend's instructions. As soon as she slid the book into the shelf, though, two neighboring books shot out and started bouncing around the room.
 >
-> Pinkie nodded and tried to put the book back, but as soon as it slid into the shelf, the two books beside it bounced out and started shooting around the room.
+> "Oh no!" said Twilight.
 >
-> "Oh no," Twilight said.
+> "Yippee!" said Pinkie.
 >
-> "Yippee," Pinkie said.
+> Twilight managed to nab one with her magic. Rainbow Dash leapt into the air and caught the other.
 >
-> Twilight managed to catch one in her magic, while Rainbow caught the other.
+> "How do we put them away without more of them flying everywhere?" asked Rainbow.
 >
-> "How do we put them away without more shooting off?" Rainbow asked.
+> "I don't know." Twilight frowned, then suggested the only idea she could think of. "Let's put them away very slowly."
 >
-> Twilight did know, so she tried the only thing she could think of. "Let's put them away very slowly."
->
-> Both ponies tried to be very sneaky and quiet as they slowly slide the books into their respective spots.
+> Both ponies tried to be very sneaky and quiet as they slowly slid the books into their respective spots.
 
-Pinkie commented, "I like this story!"
+"I like this story!" said Pinkie.
 
-Twilight replied, "It's interesting…"
+"It's…" Twilight hesitated, glancing up at her bookshelves with newfound fear. "…interesting."
 
-> As the books finished their decent into their places, both ponies breathed a sigh of relief.
+> Slotting both books back into their places, the two ponies breathed a sigh of relief.
 >
-> They snuck away from the shelves, as if any sudden movement or sound would alert the books to the true nature of where they were.
+> They snuck away from the shelves, as if they feared that any sudden movement or sound would reawaken the boisterous bounded beasts.
 >
-> And they were right to be scared, as not a moment later, four books were zooming around the room.
+> Unfortunately, that fear was well-founded. Not a moment later, four books zipped across the room.
 >
-> This is the exact moment Twilight did what she did best, and panicked. She began frantically shoving books back onto the shelves only for more books to start shooting off the shelves.
+> Subsequently, Twilight did what she did best: she panicked. She frantically shoved books back into shelves only for more to shoot out.
 >
-> Pinkie started to race the books around the room at high speed. "Wooo!"
+> Pinkie began rapidly recklessly racing the books around the room. "Wooo!"
 >
-> Everypony in the library was now trying to help. Rarity was just catching books in her magic and holding them. Applejack was trying to lasso the books. Fluttershy was trying the stare on them.
+> Everypony in the library tried to help. Rarity tried to magically hold books in place, Applejack tried to lasso them, Fluttershy tried using The Stare, Rainbow Dash tried chasing books down, and Twilight tried to maintain her sanity. All had limited success.
+
+"Hey!" said Twilight. 
 
 Pinkie asked, excitedly, "Can we do this in real life? This sounds fun!"
 
-Twilight just rolled her eyes.
+Twilight's eyes widened. "Absolutely not! Are you kidding? Reshelving would take hours!"
 
-> With every book that touched another book setting off a chain reaction, it wasn't long before all the books in the entire library were airborne.
->
-> Twilight had a crazy idea, one that just might work.
->
-> She lit up her horn and cast a spell to make every book *very* sticky.
->
-> And it worked… a little too well.
->
-> All the books were sticking to each other, some even went and got stuck on the shelves. But most of the books got stuck to the ponies...
->
-> Eventually all the books stopped moving, everything was calm, except for Rarity.
->
-> "Get these books off me!"
+"Relax, Twilight. It's just a story," said Rainbow Dash. 
 
-Rarity commented, "Valid."
+"Of course. Just a story." Twilight took a deep breath and continued reading.
 
-> Twilight used her magic to peel the ponies from the piles of books they were stuck to. She looked around at the mess before she noticed a book stuck the the floor at her hooves.
+> Every book that touched another book set off a chain reaction. It wasn't long before every book in the entire library was airborne.
+>
+> "I have an idea," Twilight shouted over the din. "It's crazy, but it just might work!"
+>
+> She lit up her horn and cast a spell. Every book flashed purple.
+>
+> The spell worked.
 > 
-> "How to fix your library when all your books are bouncy so you cast a spell to make them sticky and now you need help to cleanup this mess."
+> In fact, it worked a little too well.
+>
+> Every book became very, very sticky. They all suddenly started sticking to each other. Some even stuck to the shelves. Most of them, however, stuck to the ponies.
+>
+> Eventually, all of the books stopped moving. Everything was calm, with one notable exception.
+>
+> "Get these books off of me!" shrieked Rarity. 
+
+Rarity nodded. "A perfectly understandable reaction."
+
+> Twilight used her magic to peel the ponies and piles of books apart. Looking around at the mess, she noticed a book at her hooves stuck to the floor.
+> 
+> She read the title: "*How to Fix Your Library When All Your Books Are Bouncy So You Cast a Spell to Make Them Sticky and Now You Need Help to Cleanup This Mess*?"
 >
 > Wow, what great timing, that was the exact scenario Twilight and her friends were in right now!
 >
@@ -78,8 +84,8 @@ Rarity commented, "Valid."
 >
 > The end.
 
-Twilight said, "that was something."
+"Well," said Twilight, "that was a little bit anticlimactic."
 
-Rainbow commented, "Sounds exactly like you."
+Rainbow grinned. "A pretty believable story, though."
 
 Twilight rolled her eyes.
