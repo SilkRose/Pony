@@ -20,7 +20,7 @@ Mom’s bosses were very upset. Some even yelled at her! They said if she didn�
 
 > A circle of angry ponies’ faces surrounded a nervous-looking Derpy. Central to them was a ghastly rendition of Mayor Mare, flames in her eyes as she shot some sort of deathray at the poor pegasus!
 
-Mom was very sad. Sadder than even a hug and kiss and pat could fix. She was so sad, she drank some of the funny-tasting cider I’m not supposed to have. She took a nap, and didn’t wake up until the next morning. That’s when she told me we might have to move to a smaller house again.
+Mom was very sad. Sadder than even a hug and kiss and pat could fix. She was so sad, she drank some cider and took a nap. Mom didn't wake up until next morning. That’s when she told me we might have to move to a smaller house again.
 
 > The page conspicuously lacked a picture, but the paper itself was marred with a few small circles of water damage.
 
