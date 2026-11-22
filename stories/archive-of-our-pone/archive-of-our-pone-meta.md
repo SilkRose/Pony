@@ -38,7 +38,15 @@ The Mane 6 read stories about themselves. (150k FiM story celebration!)
 [Attractive Apples](05-attractive-apples.md)
 - Applejack goes to buck her field and all her apples are magnetic. Written by Doctor Whooves.
 
-
+[Narrative Intervention](./22-narrative-intervention.md)
+- Fluttershy says something but you have to pay $5 to read it.
+- Rainbow dash is now a real horse.
+- Rarity points out the narrator and author are different ponies.
+- They try to bribe the narrator to be more reliable.
+- Cover done by Tiki Bat: [Fimfiction](https://www.fimfiction.net/user/218083/Tiki+Bat), [Bluesky](https://bsky.app/profile/tikibat.com).
+- Original proofreaders: [Ashy](https://www.fimfiction.net/user/499793/ashley1227) and [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook).
+- Original pre-readers: [heaviside__](https://www.fimfiction.net/user/860080/heaviside__), [MATP](https://www.fimfiction.net/user/544735/MATP), [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl), [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz), and [AtomicGlow](https://www.fimfiction.net/user/90142/AtomicGlow).
+- Originally appeared in the story: [Ashy](https://www.fimfiction.net/user/499793/ashley1227), [MATP](https://www.fimfiction.net/user/544735/MATP), [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl), [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus), [knighty](https://www.fimfiction.net/user/1/knighty), and [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops).
 
 ## Cover:
 ![cover](./covers/archive-of-our-pone-cover-7.png)
