@@ -60,3 +60,83 @@ Fluttershy hugged Lola. "Yay."
 
 ***
 
+Fluttershy entered Pinkie's bedroom. "Pinkie?"
+
+Pinkie bounced from where she was sitting over to Fluttershy. "Fluttershy!"
+
+"I need to ask for your help."
+
+"Oh, what for? I love helping my friends."
+
+"A sloth showed up at my house. She was trying to go to the Ponyville Pet Party that happened a few months ago."
+
+"Oh, so you want to throw a party for your new sloth friend since she missed the town's?"
+
+Fluttershy smiled. "Yes, exactly!"
+
+"I'd love to help! This sounds super fun, but what do sloths like at their party?"
+
+Fluttershy has an idea. "Why don't you come with me and we can try to ask her what she likes without ruining the surprise?"
+
+Pinkie nodded. "Lead the way!"
+
+Fluttershy lead them towards her house and they talked about their plan and slots on the way.
+
+"Now, you might think it would be easy to surprise a sloth with a party, but I don't think it will be that easy."
+
+Pinkie was confused. "Oh, why?"
+
+"While they do move very slow, they are just as smart as any other critter."
+
+Pinkie nodded.
+
+"Wherever they are at the time of the party is where the party will have to happen."
+
+Pinkie nodded again.
+
+"But, how do you set up a whole party where she is when we have to do it all without her noticing?"
+
+"I'm sure we'll think of something!"
+
+Fluttershy smiled. "Thank you for helping."
+
+"You're welcome!"
+
+"I don't even know what kind of games a sloth could do. Wouldn't they move too slow for a piñata?"
+
+"I can make a special one that breaks from the slightest touch. They're used for little little ponies that can't whack the stick very hard."
+
+"Yay!"
+
+"Pin the tail on the pony should be fine."
+
+"That's true."
+
+"I think this is going to be a really fun and memorable party!"
+
+"Me too."
+
+***
+
+Fluttershy introcuded her two friends. "Pinkie, this is Lola the sloth. Lola this is my friend Pinkie."
+
+Pinkie said, "Nice to meet you, Lola."
+
+Lola said, "Nice to meet you too."
+
+Fluttershy translated for Pinkie going forward.
+
+Lola made her way to Fluttershy and clung to her leg. Fluttershy blushed slightly. "Sloths like to cling to ponies, especially their caretaker or ponies they feel safe around."
+
+Pinkie asked, "I've never met a sloth before. Can I ask you some questions?"
+
+Lola nodded.
+
+"What's your favorite color?"
+
+"Green."
+
+"Mine is pink!"
+
+Pinkie giggled and both Fluttershy and Lola joined in.
+
