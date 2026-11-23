@@ -244,7 +244,28 @@ The field mice from before returned placing streamers on the ground all around t
 
 Fluttershy and Lola giggled together.
 
-The last wave of movement wasn't to bring any more party stuff, it was to bring the crowd. All of Fluttershy's animal friends quietly moved into a circle around them. Pinkie moved into position just behind them and sat down on the grass. The rest of Fluttershy and Pinkie's friends stood behind the picnic table.
+The last wave of movement wasn't to bring any more party stuff, it was to bring the crowd. All of Fluttershy's animal friends quietly moved into a circle around them. Pinkie moved into position just behind them where she sat down on the grass. The rest of Fluttershy and Pinkie's friends stood behind the picnic table.
 
 It was time to surprise this sloth with a party!
 
+Pinkie said, "Lola."
+
+Fluttershy pulled her mane away while Lola turned to look at Pinkie.
+
+Everypony present yelled together in unison, "Surprise!"
+
+Lola took in the moment, looking around at all the decorations, animals, and ponies. She was definitely surprised, her mouth hung open and her eyes started to water.
+
+She was in disbelief. Her friends had planned a party all for her. All these ponies and animals were there for her.
+
+She stood up along with Fluttershy and Pinkie.
+
+Pinkie asked, "You want some cake?!"
+
+Lola nodded.
+
+Lola enjoyed the party. She loved the cake and cupcakes. She loved how many ponies and animals showed up for her. She loved The decorations. She loved the games. But, most important, she loved her friends.
+
+After the party was over, Lola moved over to Pinkie, where she clung to her back leg, like she had done so many times before with Fluttershy.
+
+Pinkie smiled as she looked down at her best friend.
