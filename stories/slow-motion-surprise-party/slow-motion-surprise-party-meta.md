@@ -6,6 +6,8 @@ Pinkie helps Fluttershy plan and host a surprise party for a sloth. The idea bei
 ## Description:
 
 
+Thanks to [Majin Syeekoh](https://www.fimfiction.net/user/163937/Majin+Syeekoh) for pre-reading.
+
 Thanks to [Nebbie](https://www.fimfiction.net/user/35109/Nebbie) for providing feedback on the cover.
 
 Thanks to [Silver Arctic Wolf](https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf) for providing feedback on the cover.
