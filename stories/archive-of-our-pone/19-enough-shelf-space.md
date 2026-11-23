@@ -1,6 +1,6 @@
 # Enough Shelf Space
 
-As more and more stories about the Bearers and their friends (and associates, and vague acquaintances, and…) came in, an issue soon made itself known. The new town library had been filled, yes. Several times over, even. The question now was what to do with the remaindered, well, *remainders*, and that question has getting increasingly pressing. This was both metaphorically and literally the case; the soil outside of Twilight’s castle had already sunk by half an inch beneath the aggregated works by the time she started making plans
+As more and more stories about the Bearers and their friends (and associates, and vague acquaintances, and…) came in, an issue soon made itself known. The new town library had been filled, yes. Several times over, even. The question now was what to do with the remaindered, well, *remainders*, and that question has getting increasingly pressing. This was both metaphorically and literally the case; the soil outside of Twilight’s castle had already sunk by half an inch beneath the aggregated works by the time she started making plans.
 
 Thankfully, while her own collection had never needed *advanced* library science, Twilight had spent more than one lazy afternoon figuring out how she’d store and sort thousands upon thousands of books. Now she finally had an opportunity to make that dream a reality, especially once she threw a little royal weight around to get everything she needed.
 
@@ -10,7 +10,7 @@ Within a week, the setup was complete and the collection had been successfully i
 
 She had planned out a detailed lecture about the efforts that went into assembling the extradimensional space, then populating it with books that could, would, or might have been written on top of the ones that already had been. She’d carved out an entire five-minute sidebar praising Pinkie Pie for her invaluable help in designing the parts that weren’t, in the strictest sense, *possible.*
 
-Rainbow Dash interrupted her less than a minute in. “So… it’s a library,” she said, looking around. She tilted her head as she tracked the fractal swirl of one of the closer bookshelves
+Rainbow Dash interrupted her less than a minute in. “So… it’s a library,” she said, looking around. She tilted her head as she tracked the fractal swirl of one of the closer bookshelves.
 
 In hindsight, maybe Twilight should have delivered the lecture *before* showing Rainbow the end result. Or just skipped it altogether. Or gone with a different friend. “Yes. It’s a library. The ultimate library in terms of stories about us and our friends!”
 
@@ -18,7 +18,7 @@ In hindsight, maybe Twilight should have delivered the lecture *before* showing 
 
 Twilight gave her a flat look. “Rainbow Dash, I’m glad the series got you into reading for fun, but there’s more to literature than Daring Do books.”
 
-“For some reason, sure. But how many are we talking here?” Rainbow arched her head up, watching as countless spines curved around them in hyberbolic shelving units that folded into themselves beyond the horizon. She betrayed no appreciation for or awareness of the effort that had gone into sorting it all. “A thousand? A million? A bajillion?”
+“For some reason, sure. But how many are we talking here?” Rainbow arched her head up, watching as countless spines curved around them in hyperbolic shelving units that folded into themselves beyond the horizon. She betrayed no appreciation for or awareness of the effort that had gone into sorting it all. “A thousand? A million? A bajillion?”
 
 “The hypothetical titles are still instantiating, so there are only one hundred and fifty thousand titles total at the moment.” Twilight couldn’t help but add, “Also, ‘bajillion,’ isn’t a real number.”
 
