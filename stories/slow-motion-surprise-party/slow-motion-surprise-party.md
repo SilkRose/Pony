@@ -118,7 +118,7 @@ Fluttershy smiled. "Thank you for helping."
 
 ***
 
-Fluttershy introcuded her two friends. "Pinkie, this is Lola the sloth. Lola this is my friend Pinkie."
+Fluttershy introduced her two friends. "Pinkie, this is Lola the sloth. Lola this is my friend Pinkie."
 
 Pinkie said, "Nice to meet you, Lola."
 
@@ -139,4 +139,12 @@ Lola nodded.
 "Mine is pink!"
 
 Pinkie giggled and both Fluttershy and Lola joined in.
+
+Pinkie asked her next question, "I work at Sugarcube Corner in town, its a bakery and sweets shop. So, I like to ask about food. What's your favorite sweet?"
+
+"I haven't had many sweets to tell you the truth. I would like to try some cake and cupcakes. I don't know if Fluttershy mentioned, but I've actually never been to a party."
+
+Pinkie tried to hide her cutie mark. "Oh, wow. I love cake and cupcakes, I bet you'd love them too!"
+
+Lola nodded.
 
