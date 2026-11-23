@@ -38,7 +38,7 @@ Lola frowned. "I miss every party."
 
 "I even miss my own parties."
 
-Fluttershy gasped. "The ones you plane yourself?"
+Fluttershy gasped. "The ones you plan yourself?"
 
 Lola nodded as she continued to eat.
 
