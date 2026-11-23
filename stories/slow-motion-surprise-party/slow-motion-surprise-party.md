@@ -2,7 +2,7 @@
 
 Fluttershy stood over her garden, she had just finished weeding and was admiring the progress on her plants. Feeling something attaching itself around her back leg, she turned to see a sloth was now clinging to her.
 
-Fluttershy asked, "Hello there critter, what's your name?"
+Fluttershy asked, "Hello there little critter, what's your name?"
 
 the sloth answered, practically in slow motion, "I'm Lola."
 
@@ -62,9 +62,11 @@ After the hug was over, Fluttershy excused herself, "I need to go for now. You c
 
 Lola nodded. "Bye."
 
+"Bye."
+
 ***
 
-Fluttershy entered Pinkie's bedroom. "Pinkie?"
+Fluttershy made her way to Sugarcube Corner, where she entered Pinkie's bedroom. "Pinkie?"
 
 Pinkie bounced from where she was sitting over to Fluttershy. "Fluttershy!"
 
@@ -74,7 +76,7 @@ Pinkie bounced from where she was sitting over to Fluttershy. "Fluttershy!"
 
 "A sloth showed up at my house. She was trying to go to the Ponyville Pet Party that happened a few months ago."
 
-"Oh, so you want to throw a party for your new sloth friend since she missed the town's?"
+Pinkie immediately understood the plan. "Oh, so you want to throw a party for your new sloth friend since she missed the town's?"
 
 Fluttershy smiled. "Yes, exactly!"
 
@@ -84,7 +86,7 @@ Fluttershy has an idea. "Why don't you come with me and we can try to ask her wh
 
 Pinkie nodded. "Lead the way!"
 
-Fluttershy lead them towards her house and they talked about their plan and slots on the way.
+Fluttershy lead them towards her house and they talked about their plan and sloths on the way.
 
 "Now, you might think it would be easy to surprise a sloth with a party, but I don't think it will be that easy."
 
@@ -122,13 +124,13 @@ Fluttershy smiled. "Thank you for helping."
 
 ***
 
-Fluttershy introduced her two friends. "Pinkie, this is Lola the sloth. Lola this is my friend Pinkie."
+Fluttershy introduced her two friends. "Pinkie, this is Lola the sloth. Lola, this is my friend Pinkie."
 
 Pinkie said, "Nice to meet you, Lola."
 
 Lola said, "Nice to meet you too."
 
-Fluttershy translated for Pinkie going forward.
+Fluttershy translated that for Pinkie and everything else going forward.
 
 Lola made her way to Fluttershy and clung to her leg. Fluttershy blushed slightly. "Sloths like to cling to ponies, especially their caretaker or ponies they feel safe around."
 
@@ -166,7 +168,7 @@ Fluttershy said, "You too! See you later."
 
 Over the next few days they prepped for the party.
 
-Fluttershy watched over Lola and kept track of the places she frequented. She also talked with her other animals to get them on board with the party, and asked them for help.
+Fluttershy watched over Lola and kept track of the places she frequented. She also talked with her other animal friends to get them on board with the party, and asked them for help.
 
 Pinkie prepped the party decorations and games. She made the easy-bursting piñata. She got her party canon ready, and baked Lola a cake and many flavors of cupcakes to try.
 
@@ -174,7 +176,7 @@ Pinkie prepped the party decorations and games. She made the easy-bursting piña
 
 After all the preparation Fluttershy made her way to Sugarcube Corner once again. She trotted through the doors and went up the stairs.
 
-Fluttershy entered Pinkie's room again. "Pinkie?"
+Fluttershy entered Pinkie's room. "Pinkie?"
 
 Pinkie bounced over to her and gave her a hug. "Fluttershy!"
 
@@ -186,7 +188,7 @@ Pinkie nodded. "I've got everything ready on my end. How about your animals? And
 
 "Good. I've been thinking about how we can pull off the surprise!"
 
-Fluttershy was relieved. "That's good. I've been trying to think of something."
+Fluttershy was relieved. "That's good. I've been trying to think of something, but didn't have any ideas yet."
 
 ***
 
@@ -200,17 +202,17 @@ Lola replied as she got up and moved to Fluttershy, clinging to her back leg. "I
 
 "I was thinking about where I might go next."
 
-Fluttershy turns so they're both facing away from her cottage. "What places are you considering?"
+Fluttershy turned so they're both facing away from her cottage. "What places are you considering?"
 
 "The Everfree Forest, actually."
 
-As Lola was answered, Fluttershy blew a whistle that was inaudible to sloths that one of her animal friends would hear.
+As Lola was answering, Fluttershy blew a whistle that was inaudible to sloths that one of her animal friends would hear.
 
 "Oh, wow. It's very dangerous in there."
 
 "I know, but I think I'd be safe up in the trees, and I'd be close to my friends."
 
-several of Fluttershy's animal friends were quietly moving behind them, bringing all the party paraphernalia close to the pair. Henry the bear carried a picnic table. A group of birds placed a table cover over it. A pack of field mice carried in a picnic basket and left it beside the table.
+Several of Fluttershy's animal friends were quietly moving behind them, bringing all the party paraphernalia close to the pair. Henry the bear carried a picnic table. A group of birds placed a table cover over it. A pack of field mice carried in a picnic basket and left it beside the table.
 
 Fluttershy blushed slightly at her answer. "I'd be glad to have you nearby."
 
@@ -256,7 +258,7 @@ Everypony present yelled together in unison, "Surprise!"
 
 Lola took in the moment, looking around at all the decorations, animals, and ponies. She was definitely surprised, her mouth hung open and her eyes started to water.
 
-She was in disbelief. Her friends had planned a party all for her. All these ponies and animals were there for her.
+She was in disbelief. Her friends had planned a party all for her. All these ponies and animals were there for her. How did they do all this without her noticing?
 
 She stood up along with Fluttershy and Pinkie.
 
@@ -264,8 +266,18 @@ Pinkie asked, "You want some cake?!"
 
 Lola nodded.
 
-Lola enjoyed the party. She loved the cake and cupcakes. She loved how many ponies and animals showed up for her. She loved The decorations. She loved the games. But, most important, she loved her friends.
+She loved the cake and the cupcakes. Her favorite flavor of cupcake was chocolate.
+
+She loved the punch, it went well with all the sweets present.
+
+She loved the decorations, especially the trail of streamers caught in her claws dragging behind her for most of the party.
+
+She loved how many ponies and animals showed up for her. Everypony and animal was excited to meet her and happy to help on her first ever party.
+
+She loved the games. She burst the piñata on her first try, spewing out candy she'd never tried before. She might have taken a while, but she got the pin pretty close at Pin the Tail on the Pony.
+
+She loved the party, but most important, she loved her friends.
 
 After the party was over, Lola moved over to Pinkie, where she clung to her back leg, like she had done so many times before with Fluttershy.
 
-Pinkie smiled as she looked down at her best friend.
+Pinkie smiled as she looked down at her new best friend.
