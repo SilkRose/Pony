@@ -172,7 +172,7 @@ Pinkie prepped the party decorations and games. She made the easy-bursting piña
 
 ***
 
-After all the preparation Fluttershy made her way to Sugarcube Corner once again. She trotted through the doors and went up the stares.
+After all the preparation Fluttershy made her way to Sugarcube Corner once again. She trotted through the doors and went up the stairs.
 
 Fluttershy entered Pinkie's room again. "Pinkie?"
 
@@ -189,4 +189,62 @@ Pinkie nodded. "I've got everything ready on my end. How about your animals? And
 Fluttershy was relieved. "That's good. I've been trying to think of something."
 
 ***
+
+Fluttershy trotted into her backyard, finding Lola sitting by herself in an empty patch of grass.
+
+"Hi, Lola. How's it going?"
+
+Lola replied as she got up and moved to Fluttershy, clinging to her back leg. "It's good. How are you?"
+
+"I'm good. What are you doing out here?"
+
+"I was thinking about where I might go next."
+
+Fluttershy turns so they're both facing away from her cottage. "What places are you considering?"
+
+"The Everfree Forest, actually."
+
+As Lola was answered, Fluttershy blew a whistle that was inaudible to sloths that one of her animal friends would hear.
+
+"Oh, wow. It's very dangerous in there."
+
+"I know, but I think I'd be safe up in the trees, and I'd be close to my friends."
+
+several of Fluttershy's animal friends were quietly moving behind them, bringing all the party paraphernalia close to the pair. Henry the bear carried a picnic table. A group of birds placed a table cover over it. A pack of field mice carried in a picnic basket and left it beside the table.
+
+Fluttershy blushed slightly at her answer. "I'd be glad to have you nearby."
+
+"I've had a lot of fun hanging out with you and your animals, and with Pinkie when she comes around."
+
+More animals carried stuff and setup the first half of the party. Henry came back carrying the cake and set it on the table. Angel carried the knife for cutting the cake and set it on the table. A bunch of gophers each brought a pack of balloons tied to weights, they set them down around the pair in a half circle outside of their vision.
+
+"I've had a lot of fun having you here. You're welcome to stay as long as you want."
+
+"Thank you, it means a lot to me to hear you say that."
+
+Pinkie pushed her party canon so it was next to one end of the picnic table. Henry returned for the third time carrying the punch bowl filled with punch. A group of raccoons carried glasses and set them down on the table by the punch bowl. Pinkie blew a different whistle, signalling this side of the party was done.
+
+Fluttershy laid down in the grass, conveniently laying her long mane over Lola.
+
+"This is such a nice day, isn't it?"
+
+Lola simply laid with her and didn't try to move her mane. "It really is. Do you have any plans for the rest of the day?"
+
+More animals moved into action. The gophers from before brought more balloons to complete the circle. Henry carried the wooden post that the piñata would hang from. Pinkie brought and laid down a mat with the Pin the Tail on the Pony game printed on it.
+
+"I didn't have much planned. I think I could just lay here with you for at least another ten minutes."
+
+"That would be alright with me too."
+
+The field mice from before returned placing streamers on the ground all around the pair. Pinkie carefully brought the piñata and hung it from the post. Henry carried his last item, a tray full of wrapped presents he set on the empty side of the table. Pinkie returned again and set down a tray of cupcakes between the cake and the presents.
+
+"What do you think Pinkie Pie is doing right now?"
+
+"She's probably making those cupcakes she said she would bring me."
+
+Fluttershy and Lola giggled together.
+
+The last wave of movement wasn't to bring any more party stuff, it was to bring the crowd. All of Fluttershy's animal friends quietly moved into a circle around them. Pinkie moved into position just behind them and sat down on the grass. The rest of Fluttershy and Pinkie's friends stood behind the picnic table.
+
+It was time to surprise this sloth with a party!
 
