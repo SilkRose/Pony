@@ -58,6 +58,10 @@ Lola smiled. "Sure."
 
 Fluttershy hugged Lola. "Yay."
 
+After the hug was over, Fluttershy excused herself, "I need to go for now. You can make yourself at home while I'm gone."
+
+Lola nodded. "Bye."
+
 ***
 
 Fluttershy entered Pinkie's bedroom. "Pinkie?"
@@ -147,4 +151,42 @@ Pinkie asked her next question, "I work at Sugarcube Corner in town, its a baker
 Pinkie tried to hide her cutie mark. "Oh, wow. I love cake and cupcakes, I bet you'd love them too!"
 
 Lola nodded.
+
+"How long you going to be staying with Fluttershy? Maybe next time I come over I can bring you a cupcake."
+
+Lola shrugged. "I'm not sure, probably a until I hear about another party."
+
+Pinkie nodded. "I gotta go for now, but it was nice meeting you Lola, and it was nice hanging out Fluttershy."
+
+Lola said, "Goodbye."
+
+Fluttershy said, "You too! See you later."
+
+***
+
+Over the next few days they prepped for the party.
+
+Fluttershy watched over Lola and kept track of the places she frequented. She also talked with her other animals to get them on board with the party, and asked them for help.
+
+Pinkie prepped the party decorations and games. She made the easy-bursting piñata. She got her party canon ready, and baked Lola a cake and many flavors of cupcakes to try.
+
+***
+
+After all the preparation Fluttershy made her way to Sugarcube Corner once again. She trotted through the doors and went up the stares.
+
+Fluttershy entered Pinkie's room again. "Pinkie?"
+
+Pinkie bounced over to her and gave her a hug. "Fluttershy!"
+
+Fluttershy returned the hug. "Is everything for the party ready?"
+
+Pinkie nodded. "I've got everything ready on my end. How about your animals? And Lola?"
+
+"They're all on board, and Lola doesn't suspect a thing."
+
+"Good. I've been thinking about how we can pull off the surprise!"
+
+Fluttershy was relieved. "That's good. I've been trying to think of something."
+
+***
 
