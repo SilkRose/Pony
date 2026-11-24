@@ -14,7 +14,7 @@ Pinkie Pie speaks down, "He lied about the size of my last party!"
 
 Rainbow Dash becomes a real horse and whinnies.
 
-Fluttershy says something, but you can only read it if you [donate five dollars](https://ko-fi.com/loveandtolerance).
+Fluttershy says something, but you can only read it if you donate five dollars.
 
 Rarity groans. "Can you at least talk to us?"
 
@@ -28,7 +28,7 @@ I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
 
 Twilight groans. Which one? I don't know.
 
-Fluttershy tries to pay Twilight the five dollars from earlier, but Ko-Fi doesn't accept bits.
+Fluttershy tries to pay Twilight the five dollars from earlier, but the Ko-Fi link had to be removed to not break the rules.
 
 Rarity asks, "Did you just change to third pony perspective from first?"
 
@@ -64,21 +64,21 @@ Fluttershy did not see the blinks as they were not done hugging at the time.
 
 Pinkie Pie asks, "So, um, Silk Rose, why are you making the narrator change the stories we are in?"
 
-Silk Rose replied, "Because I needed to write this story for a comedy entry in the [A Thousand Words Contest IV](https://www.fimfiction.net/group/216361/a-thousand-words/thread/561086/a-thousand-words-contest-iv-2025-may-25-jul-06)."
+Silk Rose replied, "Because I wanted to write this story to send in to the New Golden Oak Library."
 
-Twilight, the narrator one, asks, "So, this is all just a bit for a one thousand word story?"
+Twilight, the narrator one, asks, "So, this is all just a bit for a story?"
 
 Silk Rose replied, "Yes. None of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
 
-A darkness spreads across pony Twilight's face. "How many words are left in this story?"
+A darkness spreads across pony Twilight's face. "Well, how many words are left in this story?"
 
 Rarity replies, "Five hundred and forty."
 
 Pinkie gasps. "What's going to happen for the rest of the story then?"
 
-Silk Rose thought for a moment, then said, "[MATP](https://www.fimfiction.net/user/544735/MATP), you decide."
+Silk Rose thought for a moment, then said, "Thorax, you decide."
 
-Unfortunately, [MATP](https://www.fimfiction.net/user/544735/MATP)'s section had to be cut due to budgetary constraints.
+Unfortunately, Thorax's section had to be cut due to budgetary constraints.
 
 Rainbow Dash finally speaks normally, asking, "What does that even mean?"
 
@@ -114,9 +114,9 @@ Everypony smiles as they think of what to name their puppy.
 
 They settle on the names of: Sprinkles, Sprinkles, Sprinkles, Sprinkles, Sprinkles, Twilight Sprinkles, and Narrator Sprinkles.
 
-Silk Rose didn't know what to do next so they asked [knighty](https://www.fimfiction.net/user/1/knighty).
+Silk Rose didn't know what to do next so they asked Smolder.
 
-[knighty](https://www.fimfiction.net/user/1/knighty) returns from getting milk and says, "talk about their favourite scrap metal :V"
+Smolder returns from getting milk and says, "talk about their favourite scrap metal :V"
 
 Rarity spoke first. "I really like platinum. It's great for jewelry and accents on dresses."
 
@@ -130,11 +130,11 @@ Pinkie Pie says, "I love stainless steel, it's great for bakeware and in a pinch
 
 Applejack says, "I like lead because it tastes good."
 
-[knighty](https://www.fimfiction.net/user/1/knighty) un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
+Smolder un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
 
-Silk Rose forgot what they were doing and asks [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) what to do.
+Silk Rose forgot what they were doing and asks Aloe what to do.
 
-[RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops) says, "They should compare tails!"
+Aloe says, "They should compare tails!"
 
 All six ponies turn their butts towards each other to form a circle. They each try to move their tail so it's in view, but struggle with how cramped it is.
 
@@ -156,7 +156,7 @@ Rainbow Dash Rainbow Dashes.
 
 Twilight casts a spell, freeing them all.
 
-˙uʍop ǝpᴉsdn ʎɹoʇs ǝɥʇ sdᴉlɟ puɐ ʎq sǝɯoɔ [qoqopnǝsԀ](https://www.fimfiction.net/user/12771/PseudoBob+Delightus)
+˙uʍop ǝpᴉsdn ʎɹoʇs ǝɥʇ sdᴉlɟ puɐ ʎq sǝɯoɔ lɹᴉʍS ɐǝS
 
 [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) flips the story right side up.
 
