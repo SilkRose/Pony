@@ -48,5 +48,24 @@ The Mane 6 read stories about themselves. (150k FiM story celebration!)
 - Original pre-readers: [heaviside__](https://www.fimfiction.net/user/860080/heaviside__), [MATP](https://www.fimfiction.net/user/544735/MATP), [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl), [Hoofprintz](https://www.fimfiction.net/user/503681/Hoofprintz), and [AtomicGlow](https://www.fimfiction.net/user/90142/AtomicGlow).
 - Originally appeared in the story: [Ashy](https://www.fimfiction.net/user/499793/ashley1227), [MATP](https://www.fimfiction.net/user/544735/MATP), [ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl), [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus), [knighty](https://www.fimfiction.net/user/1/knighty), and [RunicTreetops](https://www.fimfiction.net/user/489485/RunicTreetops).
 
+[Buy my Butt](./27-buy-my-butt.md)
+- Thanks to [Night-Shine](https://www.fimfiction.net/user/876710/Night-Shine) for helping with ideas and writing the description.
+- Original synopsis: Pinkie gets the idea to sell cutie mark cushions of her cutie mark after her marefriend (Rarity?) says her flank is really soft.
+- Original description: After Rarity has discovered a peculiar quirk to to Pinkie Pies physique, both decided to profit out of it.
+- Original short description: Pinkie starts selling cutie mark cushions after Rarity says her flanks are soft.
+- Pinkie and Rarity are cuddling.
+- Rarity says her flanks are very soft.
+- Pinkie gets the idea to sell cushions of her cutie mark.
+- What if at first Pinkie wanted one so she could feel how soft it is then had the idea to sell them?
+- Pinkie tries to get Rarity to make them, eventually convincing her.
+- Heart shaped cushions?
+- Rarity validates the softness?
+- The cushions say a catchphrase or plays Pinkie's giggle when squeezed?
+- Initially they sell out.
+- Somepony else starts selling cutie mark cushions and everypony buys them instead of Pinkie's.
+- Pinkie becomes sad.
+- Rarity buys out the rest from Pinkie.
+- Rarity gives Pinkie a cutie mark cushion of Rarity's own cutie mark.
+
 ## Cover:
 ![cover](./covers/archive-of-our-pone-cover-7.png)
