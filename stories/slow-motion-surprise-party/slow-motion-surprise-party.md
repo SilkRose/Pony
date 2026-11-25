@@ -1,20 +1,20 @@
 # Slow Motion Surprise Party
 
-Fluttershy stood over her garden, she had just finished weeding and was admiring the progress on her plants. Feeling something attaching itself around her back leg, she turned to see a sloth was now clinging to her.
+Fluttershy stood over her garden. She had just finished weeding and was admiring the progress on her plants. Feeling something attaching itself around her back leg, she turned to see a sloth was now clinging to her.
 
-Fluttershy asked, "Hello there little critter, what's your name?"
+Fluttershy asked, "Hello there, little critter, what's your name?"
 
-the sloth answered, practically in slow motion, "I'm Lola."
+The sloth answered, practically in slow motion, "I'm Lola."
 
-"It's a pleasure to meet you Lola. Can I help you with something?"
+"It's a pleasure to meet you, Lola. Can I help you with something?"
 
 "I would like some food."
 
-"Oh, I can definitely help with that. Do you want to come with me in my cottage and I can get you a big plate of leafy greens?"
+"Oh, I can definitely help with that. Do you want to come with me to my cottage and I can get you a big plate of leafy greens?"
 
 "That sounds great."
 
-Lola let go of her leg and started to follow her. Unfortunately she was a lot slower than Fluttershy.
+Lola let go of Fluttershy's leg and started to follow her. Unfortunately, she was a lot slower than Fluttershy.
 
 "Do you want me to carry you in?"
 
@@ -30,7 +30,7 @@ Fluttershy had prepared the plate and set it in front of her before she even fin
 
 "I heard about a big party the town throws for pets and animals."
 
-Thinking for a second, Fluttershy realized what she was referring to. "You mean the annual Ponyville Pet Party. That was over two months ago, you missed it."
+Thinking for a second, Fluttershy realized what she was referring to. "You mean the annual Ponyville Pet Party. That was over two months ago. You missed it."
 
 Lola frowned. "I miss every party."
 
@@ -44,7 +44,7 @@ Lola nodded as she continued to eat.
 
 "Oh, my."
 
-*I knew sloths didn't move very fast but two months late is crazy.*
+*I knew sloths didn't move very fast, but two months late is crazy.*
 
 "Where were you coming from?"
 
@@ -82,11 +82,11 @@ Fluttershy smiled. "Yes, exactly!"
 
 "I'd love to help! This sounds super fun, but what do sloths like at their party?"
 
-Fluttershy has an idea. "Why don't you come with me and we can try to ask her what she likes without ruining the surprise?"
+Fluttershy had an idea. "Why don't you come with me and we can try to ask her what she likes without ruining the surprise?"
 
 Pinkie nodded. "Lead the way!"
 
-Fluttershy lead them towards her house and they talked about their plan and sloths on the way.
+Fluttershy led them toward her house, and they talked about their plan and sloths on the way.
 
 "Now, you might think it would be easy to surprise a sloth with a party, but I don't think it will be that easy."
 
@@ -146,7 +146,7 @@ Lola nodded.
 
 Pinkie giggled and both Fluttershy and Lola joined in.
 
-Pinkie asked her next question, "I work at Sugarcube Corner in town, its a bakery and sweets shop. So, I like to ask about food. What's your favorite sweet?"
+Pinkie asked her next question, "I work at Sugarcube Corner in town. It's a bakery and sweets shop, so, I like to ask about food. What's your favorite sweet?"
 
 "I haven't had many sweets to tell you the truth. I would like to try some cake and cupcakes. I don't know if Fluttershy mentioned, but I've actually never been to a party."
 
@@ -156,7 +156,7 @@ Lola nodded.
 
 "How long you going to be staying with Fluttershy? Maybe next time I come over I can bring you a cupcake."
 
-Lola shrugged. "I'm not sure, probably a until I hear about another party."
+Lola shrugged. "I'm not sure, probably until I hear about another party."
 
 Pinkie nodded. "I gotta go for now, but it was nice meeting you Lola, and it was nice hanging out Fluttershy."
 
@@ -166,15 +166,15 @@ Fluttershy said, "You too! See you later."
 
 ***
 
-Over the next few days they prepped for the party.
+Over the next few days, they prepped for the party.
 
 Fluttershy watched over Lola and kept track of the places she frequented. She also talked with her other animal friends to get them on board with the party, and asked them for help.
 
-Pinkie prepped the party decorations and games. She made the easy-bursting piñata. She got her party canon ready, and baked Lola a cake and many flavors of cupcakes to try.
+Pinkie prepped the party decorations and games. She made the easy-bursting piñata. She got her party cannon ready, and baked Lola a cake and many flavors of cupcakes to try.
 
 ***
 
-After all the preparation Fluttershy made her way to Sugarcube Corner once again. She trotted through the doors and went up the stairs.
+After all the preparation, Fluttershy made her way to Sugarcube Corner once again. She trotted through the doors and went up the stairs.
 
 Fluttershy entered Pinkie's room. "Pinkie?"
 
@@ -212,19 +212,19 @@ As Lola was answering, Fluttershy blew a whistle that was inaudible to sloths th
 
 "I know, but I think I'd be safe up in the trees, and I'd be close to my friends."
 
-Several of Fluttershy's animal friends were quietly moving behind them, bringing all the party paraphernalia close to the pair. Henry the bear carried a picnic table. A group of birds placed a table cover over it. A pack of field mice carried in a picnic basket and left it beside the table.
+Several of Fluttershy's animal friends were quietly moving behind them, bringing all the party paraphernalia close to the pair. Harry the bear carried a picnic table. A group of birds placed a table cover over it. A pack of field mice carried in a picnic basket and left it beside the table.
 
 Fluttershy blushed slightly at her answer. "I'd be glad to have you nearby."
 
 "I've had a lot of fun hanging out with you and your animals, and with Pinkie when she comes around."
 
-More animals carried stuff and setup the first half of the party. Henry came back carrying the cake and set it on the table. Angel carried the knife for cutting the cake and set it on the table. A bunch of gophers each brought a pack of balloons tied to weights, they set them down around the pair in a half circle outside of their vision.
+More animals carried stuff and setup the first half of the party. Harry came back carrying the cake and set it on the table. Angel carried the knife for cutting the cake and set it on the table. A bunch of gophers each brought a pack of balloons tied to weights and set them down around the pair in a half circle outside of their vision.
 
 "I've had a lot of fun having you here. You're welcome to stay as long as you want."
 
 "Thank you, it means a lot to me to hear you say that."
 
-Pinkie pushed her party canon so it was next to one end of the picnic table. Henry returned for the third time carrying the punch bowl filled with punch. A group of raccoons carried glasses and set them down on the table by the punch bowl. Pinkie blew a different whistle, signalling this side of the party was done.
+Pinkie pushed her party cannon so it was next to one end of the picnic table. Harry returned for the third time carrying the punch bowl filled with punch. A group of raccoons carried glasses and set them down on the table by the punch bowl. Pinkie blew a different whistle, signaling this side of the party was done.
 
 Fluttershy laid down in the grass, conveniently laying her long mane over Lola.
 
@@ -232,13 +232,13 @@ Fluttershy laid down in the grass, conveniently laying her long mane over Lola.
 
 Lola simply laid with her and didn't try to move her mane. "It really is. Do you have any plans for the rest of the day?"
 
-More animals moved into action. The gophers from before brought more balloons to complete the circle. Henry carried the wooden post that the piñata would hang from. Pinkie brought and laid down a mat with the Pin the Tail on the Pony game printed on it.
+More animals moved into action. The gophers from before brought more balloons to complete the circle. Harry carried the wooden post that the piñata would hang from. Pinkie brought and laid down a mat with the Pin the Tail on the Pony game printed on it.
 
-"I didn't have much planned. I think I could just lay here with you for at least another ten minutes."
+"I didn't have much planned. I think I could just lie here with you for at least another ten minutes."
 
 "That would be alright with me too."
 
-The field mice from before returned placing streamers on the ground all around the pair. Pinkie carefully brought the piñata and hung it from the post. Henry carried his last item, a tray full of wrapped presents he set on the empty side of the table. Pinkie returned again and set down a tray of cupcakes between the cake and the presents.
+The field mice from before returned, placing streamers on the ground all around the pair. Pinkie carefully brought the piñata and hung it from the post. Harry carried his last item, a tray full of wrapped presents he set on the empty side of the table. Pinkie returned again and set down a tray of cupcakes between the cake and the presents.
 
 "What do you think Pinkie Pie is doing right now?"
 
@@ -272,7 +272,7 @@ She loved the punch, it went well with all the sweets present.
 
 She loved the decorations, especially the trail of streamers caught in her claws dragging behind her for most of the party.
 
-She loved how many ponies and animals showed up for her. Everypony and animal was excited to meet her and happy to help on her first ever party.
+She loved how many ponies and animals showed up for her. Every pony and animal was excited to meet her and happy to help on her first ever party.
 
 She loved the games. She burst the piñata on her first try, spewing out candy she'd never tried before. She might have taken a while, but she got the pin pretty close at Pin the Tail on the Pony.
 
