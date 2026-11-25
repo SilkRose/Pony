@@ -73,7 +73,9 @@ Twilight laughed. "Definitely the second thing."
 > Everypony gasps at this revelation.
 >
 > Silk Rose pauses this story to remind you that Pinkie is in fact best pony!
->
+
+Pinkie cheered, "Yay!"
+
 > Rainbow Dash, unable to speak, blinks in Morse code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
 
 Twilight said, "She asked to be turned back into a pony, in all capitol letters, mind you."
@@ -172,62 +174,100 @@ Pinkie said, "I would name my puppy Sprinkles, yes."
 
 Applejack said, "I would name mine Sandy."
 
-Rarity said, "I would name my puppy Pearl."
+Rarity said, "I would name them after a gemstone like Opal."
 
 Fluttershy said, "I would name them Chip."
 
 Rainbow said, "I would name him Buddy."
 
+> Silk Rose didn't know what to do next so they asked Smolder.
+>
+> Smolder returns from getting milk and says, "Talk about their favourite scrap metal."
 
+Twilight said, "Why would they put this in the story, does this pony know how a story works?"
 
-Silk Rose didn't know what to do next so they asked Smolder.
+> Rarity spoke first. "I really like platinum. It's great for jewelry and accents on dresses."
+>
+> Rainbow Dash says, "Gold, because I'm always in first place!"
+>
+> Pony Twilight says, "I like copper because it's so versatile and useful."
+>
+> Fluttershy says, "I love uranium, it's great for making nuclear bombs."
 
-Smolder returns from getting milk and says, "talk about their favourite scrap metal :V"
+Everypony looked at Fluttershy. 👀
 
-Rarity spoke first. "I really like platinum. It's great for jewelry and accents on dresses."
+She just hid behind her mane.
 
-Rainbow Dash says, "Gold, because I'm always in first place!"
+> Pinkie Pie says, "I love stainless steel, it's great for bakeware and in a pinch you can use it as a mirror."
+>
+> Applejack says, "I like lead because it tastes good."
+>
+> Smolder un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
 
-Pony Twilight says, "I like copper because it's so versatile and useful."
+Twilight commented, "Maybe now the story can go somewhere…"
 
-Fluttershy says, "I love uranium, it's great for making nuclear bombs."
+> Silk Rose forgot what they were doing and asks Aloe what to do.
+>
+> Aloe says, "They should compare tails!"
+>
+> All six ponies turn their butts towards each other to form a circle. They each try to move their tail so it's in view, but struggle with how cramped it is.
+>
+> While struggling, their tails get interwoven into a knot.
+>
+> Each pony starts to struggle to get loose, but all fail.
+>
+> Rarity starts to panic, worried for her tail's health.
 
-Pinkie Pie says, "I love stainless steel, it's great for bakeware and in a pinch you can use it as a mirror."
+Rarity stated, "Valid."
 
-Applejack says, "I like lead because it tastes good."
+> Fluttershy's tail extensions break loose and she is fried. (freed?)
 
-Smolder un-pauses this story to remind you that Fluttershy and Sweetie Belle are in fact best pony!
+Fluttershy said sadly, "I don't have tail extensions…"
 
-Silk Rose forgot what they were doing and asks Aloe what to do.
+> Pinkie giggles and starts playing tug of war.
+>
+> Twilight sighs in defeat and gives up.
+>
+> Applejack does a cartwheel.
+>
+> Rainbow Dash Rainbow Dashes.
+>
+> Twilight casts a spell, freeing them all.
 
-Aloe says, "They should compare tails!"
+Twilight said, "At least it didn't turn into a queen rat… or queen pony in this case."
 
-All six ponies turn their butts towards each other to form a circle. They each try to move their tail so it's in view, but struggle with how cramped it is.
+> Sea Swirl comes by and flips the story upside down.
 
-While struggling, their tails get interwoven into a knot.
+Applejack asked, "How do you turn a story upside down?"
 
-Each pony starts to struggle to get loose, but all fail.
+Rainbow added, "Does that mean it'll get good now?"
 
-Rarity starts to panic, worried for her tail's health.
+Everypony laughed.
 
-Fluttershy's tail extensions break loose and she is fried. (freed?)
+Twilight had to flip the book one hundred and eighty degrees to read the next section.
 
-Pinkie giggles and starts playing tug of war.
+> ˙dn ǝpᴉs ʇɥƃᴉɹ ʎɹoʇs ǝɥʇ pǝddᴉlɟ ǝɹɐɯ ʎlǝuol ɯopuɐɹ ∀
+>
+> ˙ɹoolɟ ǝɥʇ ʍou sɐʍ ɥɔᴉɥʍ ƃuᴉlᴉǝɔ ǝɥʇ oʇ llǝɟ ʎuodʎɹǝʌƎ
 
-Twilight sighs in defeat and gives up.
+Twilight asked, "Why?"
 
-Applejack does a cartwheel.
+Pinkie shrugged.
 
-Rainbow Dash Rainbow Dashes.
+> Everypony falls back onto the floor.
+>
+> Twilight groans. "Okay, I'm done. This story is over," she says before catching on fire.
+>
+> The end.
 
-Twilight casts a spell, freeing them all.
+Twilight said, "Well, that was something…"
 
-˙uʍop ǝpᴉsdn ʎɹoʇs ǝɥʇ sdᴉlɟ puɐ ʎq sǝɯoɔ lɹᴉʍS ɐǝS
+Pinkie nodded as she pet her new puppy Sprinkles. "I liked it!"
 
-[ARandomLonelyGirl](https://www.fimfiction.net/user/419652/ARandomLonelyGirl) flips the story right side up.
+"Pinkie, where did you get that puppy?"
 
-Due to the rapid turning of the story, everypony falls to the ceiling then back onto the floor.
+"From Silk Rose."
 
-Twilight groans. "Okay, I'm done. This story is over," she says before catching on fire.
+Twilight looked around, noticing all her friends had new puppies, including herself.
 
-The end.
+She just shrugged and pet her puppy.
