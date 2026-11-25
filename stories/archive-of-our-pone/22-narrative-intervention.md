@@ -1,118 +1,184 @@
 # Narrative Intervention
 
-Twilight and her friends are all gathered inside her treehouse, for some reason.
+Rainbow gave Twilight another book. "Look, this one has a custom cover."
 
-"Okay girls, you remember why we're here?" Twilight asks, without catching fire.
+Twilight took the book in her hooves and examined the cover.
 
-Her friends nod, amazed by her skill at not spontaneously combusting.
+![Cover](./22-images/narrative-intervention-cover.png)
 
-Twilight sighs. "That's why we're here, Mr. Narrator. You need to stop lying in our stories."
+"Narrative Intervention by Silk Rose."
 
-I, the narrator, don't reply.
+Pinkie chimed in, "Hey, I know that name, they wrote me a [letter](https://www.fimfiction.net/story/580171/a-letter-of-little-to-no-significance) once!"
 
-Pinkie Pie speaks down, "He lied about the size of my last party!"
+Twilight opened the book and read it aloud to the group…
 
-Rainbow Dash becomes a real horse and whinnies.
+> Twilight and her friends are all gathered inside her treehouse, for some reason.
+>
+> "Okay girls, you remember why we're here?" Twilight asks, without catching fire.
+>
+> Her friends nod, amazed by her skill at not spontaneously combusting.
+>
+> Twilight sighs. "That's why we're here, Mr. Narrator. You need to stop lying in our stories."
+>
+> I, the narrator, don't reply.
+>
+> Pinkie Pie speaks down, "He lied about the size of my last party!"
+>
+> Rainbow Dash becomes a real horse and whinnies.
+>
+> Fluttershy says something, but you can only read it if you donate five dollars.
 
-Fluttershy says something, but you can only read it if you donate five dollars.
+Twilight sighed. "One of *those* stories."
 
-Rarity groans. "Can you at least talk to us?"
+Pinkie shrugged. "I like it so far."
 
-Applejack does a cartwheel. "Come on, just talk with us."
+> Rarity groans. "Can you at least talk to us?"
+>
+> Applejack does a cartwheel. "Come on, just talk with us."
+>
+> I finally decide to speak. "Maybe."
+>
+> Twilight asks, "Do you have a name we should call you?"
+>
+> I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
+>
+> Twilight groans. Which one? I don't know.
 
-I finally decide to speak. "Maybe."
+Twilight groans.
 
-Twilight asks, "Do you have a name we should call you?"
+> Fluttershy tries to pay Twilight the five dollars from earlier, but the Ko-Fi link had to be removed to not break the rules.
+>
+> Rarity asks, "Did you just change to third pony perspective from first?"
+>
+> Twilight doesn't reply, but Twilight does. "I don't know," I say.
+>
+> Applejack asks, "Can we have a normal conversation? We're just trying to talk here."
+>
+> I, the real Twilight Sparkle, say, "Why don't you like my changes? I'm just doing my job."
+>
+> Pinkie protests the current destruction of this story. "You're supposed to narrate the story how it happens, not lie and change facts."
+>
+> Unfortunately, she was looking at the wrong Twilight while saying it.
 
-I simply answer, "Twilight Sparkle, but you can call me Twilight for short."
+Rarity pondered, "Do you think they had an idea for what they were writing when they started, or did they just start writing and making up stuff as they went?"
 
-Twilight groans. Which one? I don't know.
+Twilight laughed. "Definitely the second thing."
 
-Fluttershy tries to pay Twilight the five dollars from earlier, but the Ko-Fi link had to be removed to not break the rules.
+> Twilight backs her up, "Yeah, why are you doing this?"
+>
+> I frown. "I'm not the one doing this, really."
+>
+> Rarity realizes a realization of real life. "Wait, Twilight's right! The author is the one making them do all this stuff."
+>
+> Everypony gasps at this revelation.
+>
+> Silk Rose pauses this story to remind you that Pinkie is in fact best pony!
+>
+> Rainbow Dash, unable to speak, blinks in Morse code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
 
-Rarity asks, "Did you just change to third pony perspective from first?"
+Twilight said, "She asked to be turned back into a pony, in all capitol letters, mind you."
 
-Twilight doesn't reply, but Twilight does. "I don't know," I say.
+> Twilight obliges and turns Rainbow Dash back into a pony.
+>
+> Fluttershy hugs Rainbow Dash. "I missed you!"
+>
+> Rainbow Dash blinks. ".. / -- .. ... ... . -.. / -.-- --- ..- / - --- --- .-.-.-"
 
-Applejack asks, "Can we have a normal conversation? We're just trying to talk here."
+Twilight explained again, "She said she missed you too, Fluttershy."
 
-I, the real Twilight Sparkle, say, "Why don't you like my changes? I'm just doing my job."
+> Fluttershy did not see the blinks as they were not done hugging at the time.
+>
+> Pinkie Pie asks, "So, um, Silk Rose, why are you making the narrator change the stories we are in?"
+>
+>Silk Rose replied, "Because I wanted to write this story to send in to the New Golden Oak Library."
 
-Pinkie protests the current destruction of this story. "You're supposed to narrate the story how it happens, not lie and change facts."
+Pinkie commented, "It has been interesting seeing ponies write stories about the new library."
 
-Unfortunately, she was looking at the wrong Twilight while saying it.
+Twilight nodded.
 
-Twilight backs her up, "Yeah, why are you doing this?"
+> Twilight, the narrator one, asks, "So, this is all just a bit for a story?"
+>
+> Silk Rose replied, "Yes. None of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
+>
+> A darkness spreads across pony Twilight's face. "Well, how many words are left in this story?"
+>
+> Rarity replies, "(Insert correct answer here.)"
 
-I frown. "I'm not the one doing this, really."
+Twilight chucked, "Looks like they forgot something…"
 
-Rarity realizes a realization of real life. "Wait, Twilight's right! The author is the one making them do all this stuff."
+> Pinkie gasps. "What's going to happen for the rest of the story then?"
+>
+> Silk Rose thought for a moment, then said, "Thorax, you decide."
+>
+> Unfortunately, Thorax's section had to be cut due to budgetary constraints.
 
-Everypony gasps at this revelation.
+Pinkie said, "Hey, a new character!"
 
-Silk Rose pauses this story to remind you that Pinkie is in fact best pony!
+> Rainbow Dash finally speaks normally, asking, "What does that even mean?"
 
-Rainbow Dash, unable to speak, blinks in Morse code. "-.-. .- -. / -.-- --- ..- / - ..- .-. -. / -- . / -... .- -.-. -.- / .. -. - --- / .- / .--. --- -. -.-- ..--.."
+Rainbow agreed with herself. "Yea, what does that even mean, they are the one who wrote this story!"
 
-Twilight obliges and turns Rainbow Dash back into a pony.
+> Silk Rose shrugged. "You girls like romance?"
+>
+>Rarity smiles and nods. "Of course, darling."
 
-Fluttershy hugs Rainbow Dash. "I missed you!"
+Rarity commented, "At least they are getting characteristics about us right."
 
-Rainbow Dash blinks. ".. / -- .. ... ... . -.. / -.-- --- ..- / - --- --- .-.-.-"
+> Silk Rose asked, "Do you have a crush on anypony?"
+>
+> Rarity thinks for a second as a blush forms on her face. "I might have a crush on Pinkie Pie."
 
-Fluttershy did not see the blinks as they were not done hugging at the time.
+Pinkie gasped, "Is that true, Rarity?"
 
-Pinkie Pie asks, "So, um, Silk Rose, why are you making the narrator change the stories we are in?"
+Rarity answered, "No, sorry darling," before giving Rainbow a sidelong glance.
 
-Silk Rose replied, "Because I wanted to write this story to send in to the New Golden Oak Library."
+> Pinkie gasps. "Wait, if Silk Rose is the one writing this story, and they asked you the question, doesn't that mean they would just make you have a crush on whoever they wanted?"
+>
+> Twilight (Which one?) answers, "Probably, but don't you have a crush on Rarity too?"
+>
+> Pinkie blushes. "Umm, yes."
+>
+> Pinkie bounces over to Rarity. "Rarity, will you go out with me?"
+>
+> Rarity answers with delight in her eyes, "Yes!"
+>
+> The two ponies hug as everypony else d'awws in response.
 
-Twilight, the narrator one, asks, "So, this is all just a bit for a story?"
+Twilight said, "that was a quick romance."
 
-Silk Rose replied, "Yes. None of those previous changes before this meeting ever actually happened. I just wrote them in to give examples."
+> Fluttershy's other world counterpart from Canterlot High shows up and takes a selfie with Fluttershy and then they hug.
 
-A darkness spreads across pony Twilight's face. "Well, how many words are left in this story?"
+Twilight questioned, "How does this author know about that world and school?"
 
-Rarity replies, "Five hundred and forty."
+Everypony shurgged.
 
-Pinkie gasps. "What's going to happen for the rest of the story then?"
+> After all the hugging was over, Fluttershy files her taxes.
 
-Silk Rose thought for a moment, then said, "Thorax, you decide."
+Fluttershy said, "Oh, that's a good reminder, I need to do that soon."
 
-Unfortunately, Thorax's section had to be cut due to budgetary constraints.
+> Pinkie asks an innocent question, "What happens to us when the story ends?"
+>
+> Silk Rose told her the harsh truth. "You will each get a free puppy."
 
-Rainbow Dash finally speaks normally, asking, "What does that even mean?"
+Fluttershy smiled. "I like puppies."
 
-Silk Rose shrugged. "You girls like romance?"
+> Everypony smiles as they think of what to name their puppy.
+>
+> They settle on the names of: Sprinkles, Sprinkles, Sprinkles, Sprinkles, Sprinkles, Twilight Sprinkles, and Narrator Sprinkles.
 
-Rarity smiles and nods. "Of course, darling."
+Twilight said, "I think Sprinkles is a fine name, but I would probably name my puppy Orion."
 
-Silk Rose asked, "Do you have a crush on anypony?"
+Pinkie said, "I would name my puppy Sprinkles, yes."
 
-Rarity thinks for a second as a blush forms on her face. "I might have a crush on Pinkie Pie."
+Applejack said, "I would name mine Sandy."
 
-Pinkie gasps. "Wait, if Silk Rose is the one writing this story, and they asked you the question, doesn't that mean they would just make you have a crush on whoever they wanted?"
+Rarity said, "I would name my puppy Pearl."
 
-Twilight (Which one?) answers, "Probably, but don't you have a crush on Rarity too?"
+Fluttershy said, "I would name them Chip."
 
-Pinkie blushes. "Umm, yes."
+Rainbow said, "I would name him Buddy."
 
-Pinkie bounces over to Rarity. "Rarity, will you go out with me?"
 
-Rarity answers with delight in her eyes, "Yes!"
-
-The two ponies hug as everypony else d'awws in response.
-
-[Ashy](https://www.fimfiction.net/user/499793/ashley1227) shows up and takes a selfie with Fluttershy and then they hug.
-
-After all the hugging was over, Fluttershy files her taxes.
-
-Pinkie asks an innocent question, "What happens to us when the story ends?"
-
-Silk Rose told her the harsh truth. "You will each get a free puppy."
-
-Everypony smiles as they think of what to name their puppy.
-
-They settle on the names of: Sprinkles, Sprinkles, Sprinkles, Sprinkles, Sprinkles, Twilight Sprinkles, and Narrator Sprinkles.
 
 Silk Rose didn't know what to do next so they asked Smolder.
 
