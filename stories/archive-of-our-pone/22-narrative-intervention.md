@@ -182,7 +182,7 @@ Rainbow said, "I would name him Buddy."
 
 > Silk Rose didn't know what to do next so they asked Smolder.
 >
-> Smolder returns from getting milk and says, "Talk about their favourite scrap metal."
+> Smolder says, "Talk about your favourite scrap metal."
 
 Twilight said, "Why would they put this in the story, does this pony know how a story works?"
 
