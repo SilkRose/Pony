@@ -238,7 +238,7 @@ A wicked grin formed on Rainbow's face. "I bet it'd be a least—"
 >
 > "I love uranium!" says Fluttershy. "It's great for making nuclear bombs."
 
-Everypony looked at Fluttershy.
+Everypony looked at Fluttershy. 👀
 
 She hid behind her mane.
 
@@ -304,9 +304,9 @@ Everypony laughed.
 
 Twilight had to flip the book one hundred and eighty degrees to read the next section.
 
-> ˙ɹoolɟ ǝɥʇ ʍou sɐʍ ɥɔᴉɥʍ ƃuᴉlᴉǝɔ ǝɥʇ oʇ llǝɟ ʎuodʎɹǝʌƎ
->
 > ˙dn ǝpᴉs ʇɥƃᴉɹ ʎɹoʇs ǝɥʇ pǝddᴉlɟ ǝɹɐɯ ʎlǝuol ɯopuɐɹ ∀
+>
+> ˙ɹoolɟ ǝɥʇ ʍou sɐʍ ɥɔᴉɥʍ ƃuᴉlᴉǝɔ ǝɥʇ oʇ llǝɟ ʎuodʎɹǝʌƎ
 
 Twilight almost asked why, but thought better of it. She rotated the book again.
 
