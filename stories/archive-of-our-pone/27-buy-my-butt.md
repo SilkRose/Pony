@@ -46,5 +46,15 @@ Pinkie agreed. "Yep!"
 
 Pinkie blushed slightly in real life. "Rarity, I know were not dating, but can you make me a cutie mark cushion in real life?"
 
-Rarity giggled. "Sure, I'm curious how it would turn out myself…"
+Rarity giggled. "Sure, I'm curious how it would turn out myself anyway…"
+
+> "Its so soft!"
+>
+> Rarity blushed. "It matches you exactly."
+>
+> Pinkie blushed. "Thank you!"
+>
+> Rarity leaned and Pinkie followed until their lips met. The kiss lasted until Pinkie had an idea…
+>
+> "Rarity!"
 
