@@ -4,7 +4,7 @@
 Pinkie helps Fluttershy plan and host a surprise party for a sloth. The idea being that the sloth is so slow they have to build a surprise party wherever the sloth is currently at, and still somehow surprise it.
 
 ## Description:
-Fluttershy and Pinkie throw a surprise party for a critter that's never made it to a single party.
+Fluttershy and Pinkie surprise a sloth who's always too late to parties.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
@@ -15,7 +15,7 @@ Thanks to [Nebbie](https://www.fimfiction.net/user/35109/Nebbie) for providing f
 Thanks to [Silver Arctic Wolf](https://www.fimfiction.net/user/359387/Silver+Arctic+Wolf) for providing feedback on the cover.
 
 ## Short Description:
-Fluttershy and Pinkie throw a surprise party for a critter that's never made it to a single party.
+Fluttershy and Pinkie surprise a sloth who's always too late to parties.
 
 ## Ideas:
 - Fluttershy is tending her garden at the start and stops to admire it.
