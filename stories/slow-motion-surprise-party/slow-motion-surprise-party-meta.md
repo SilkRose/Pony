@@ -8,6 +8,8 @@ Fluttershy and Pinkie surprise a sloth who's always too late to parties.
 
 Thanks to [Math Spook](https://www.fimfiction.net/user/612387/Math+Spook) for proofreading.
 
+Thanks to [PseudoBob Delightus](https://www.fimfiction.net/user/12771/PseudoBob+Delightus) for proofreading.
+
 Thanks to [Majin Syeekoh](https://www.fimfiction.net/user/163937/Majin+Syeekoh) for pre-reading.
 
 Thanks to [Nebbie](https://www.fimfiction.net/user/35109/Nebbie) for providing feedback on the cover.
