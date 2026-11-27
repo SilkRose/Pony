@@ -222,7 +222,7 @@ More animals joined in to set up the first half of the party. Harry came back ca
 
 "I've had a lot of fun having you here. You're welcome to stay as long as you want."
 
-"Thank you, it means a lot to me to hear you say that."
+"Thank you, it means a lot to hear you say that."
 
 Pinkie pushed her party cannon so it was next to one end of the picnic table. Harry returned for the third time carrying the punch bowl filled with punch. A group of raccoons carried glasses and set them down on the table by the punch bowl. Pinkie blew a different whistle, signaling this side of the party was done.
 
