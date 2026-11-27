@@ -2,7 +2,7 @@
 
 Fluttershy stood over her garden. She had just finished weeding and was admiring the progress on her plants. Feeling something attaching itself around her back leg, she turned to see a sloth was now clinging to her.
 
-Fluttershy asked, "Hello there, little critter, what's your name?"
+Fluttershy asked, "Hello there, little critter. What's your name?"
 
 The sloth answered, practically in slow motion, "I'm Lola."
 
@@ -24,7 +24,7 @@ Fluttershy picked up Lola and carried her gently inside. She sat Lola down at he
 
 Lola said, "Thank you for your kindness."
 
-Fluttershy had prepared the plate and set it in front of her before she even finished her sentence.
+Fluttershy had prepared the plate and set it in front of her before she'd even finished her sentence.
 
 "You're welcome. What brought you to Ponyville?"
 
@@ -100,7 +100,7 @@ Pinkie nodded.
 
 Pinkie nodded again.
 
-"But, how do you set up a whole party where she is when we have to do it all without her noticing?"
+"But how do you set up a whole party where she is when we have to do it all without her noticing?"
 
 "I'm sure we'll think of something!"
 
@@ -196,7 +196,7 @@ Fluttershy trotted into her backyard, finding Lola sitting by herself in an empt
 
 "Hi, Lola. How's it going?"
 
-Lola replied as she got up and moved to Fluttershy, clinging to her back leg. "It's good. How are you?"
+Lola replied, "It's good," as she got up and moved to Fluttershy, clinging to her back leg. "How are you?"
 
 "I'm good. What are you doing out here?"
 
@@ -218,11 +218,11 @@ Fluttershy blushed slightly at her answer. "I'd be glad to have you nearby."
 
 "I've had a lot of fun hanging out with you and your animals, and with Pinkie when she comes around."
 
-More animals carried stuff and setup the first half of the party. Harry came back carrying the cake and set it on the table. Angel carried the knife for cutting the cake and set it on the table. A bunch of gophers each brought a pack of balloons tied to weights and set them down around the pair in a half circle outside of their vision.
+More animals joined in to set up the first half of the party. Harry came back carrying the cake and set it on the table. Angel carried the knife for cutting the cake and set it on the table. A bunch of gophers each brought a pack of balloons tied to weights and set them down around the pair in a half circle outside of their vision.
 
 "I've had a lot of fun having you here. You're welcome to stay as long as you want."
 
-"Thank you, it means a lot to me to hear you say that."
+"Thank you, it means a lot to hear you say that."
 
 Pinkie pushed her party cannon so it was next to one end of the picnic table. Harry returned for the third time carrying the punch bowl filled with punch. A group of raccoons carried glasses and set them down on the table by the punch bowl. Pinkie blew a different whistle, signaling this side of the party was done.
 
@@ -238,7 +238,7 @@ More animals moved into action. The gophers from before brought more balloons to
 
 "That would be alright with me too."
 
-The field mice from before returned, placing streamers on the ground all around the pair. Pinkie carefully brought the piñata and hung it from the post. Harry carried his last item, a tray full of wrapped presents he set on the empty side of the table. Pinkie returned again and set down a tray of cupcakes between the cake and the presents.
+The field mice from before returned, placing streamers on the ground all around the pair. Pinkie carefully brought the piñata and hung it from the post. Harry carried his last item, a tray full of wrapped presents, and set it on the empty side of the table. Pinkie returned again and set down a tray of cupcakes between the cake and the presents.
 
 "What do you think Pinkie Pie is doing right now?"
 
@@ -246,7 +246,7 @@ The field mice from before returned, placing streamers on the ground all around 
 
 Fluttershy and Lola giggled together.
 
-The last wave of movement wasn't to bring any more party stuff, it was to bring the crowd. All of Fluttershy's animal friends quietly moved into a circle around them. Pinkie moved into position just behind them where she sat down on the grass. The rest of Fluttershy and Pinkie's friends stood behind the picnic table.
+The last wave of movement wasn't to bring any more party stuff; it was to bring the crowd. All of Fluttershy's animal friends quietly moved into a circle around them. Pinkie moved into position just behind them where she sat down on the grass. The rest of Fluttershy and Pinkie's friends stood behind the picnic table.
 
 It was time to surprise this sloth with a party!
 
