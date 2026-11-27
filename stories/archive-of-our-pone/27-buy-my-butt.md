@@ -54,7 +54,13 @@ Rarity giggled. "Sure, I'm curious how it would turn out myself anyway…"
 >
 > Pinkie blushed. "Thank you!"
 >
-> Rarity leaned and Pinkie followed until their lips met. The kiss lasted until Pinkie had an idea…
+> Rarity leaned in and Pinkie followed suit until their lips met. The kiss lasted until Pinkie had an idea…
 >
 > "Rarity!"
+>
+> She giggled. "What, darling?"
+>
+> Pinkie explained enthusiastically, "We should make more cutie mark cushions and sell them!"
+
+Rarity quirked, "That would explain the name."
 
