@@ -4,7 +4,7 @@ Ponyville Ikea opened to great fanfare. The colossal blue-and-yellow block tower
 
 “Well, girls, this is it. If this is your first time in Ikea, prepare to be amazed,” Twilight announced. The other day she had attempted to write a letter to the council about the five inch deep pothole outside her castle, but, to her horror, her writing desk had vanished. She’d bet her bottom bit it was Spoiled Rich that stole it. She’d been complaining about a bad back and the surprising danger of shattered glass for a few days, but Twilight needed more solid evidence to make a conviction.
 
-“Twailight, why are ya’ll starin’ inta space like that? Howdy, howdy,” Applejack drawled Southernly.
+“Twailight, why are ya’ll starin’ inta space like that? Howdy, howdy,” Applejack drawled southernly.
 
 “Sorry, I was thinking about something else. As I was saying, this Ikea is what will really put Ponyville on the map.”
 
@@ -16,7 +16,7 @@ Ponyville Ikea opened to great fanfare. The colossal blue-and-yellow block tower
 
 As if on cue, a sudden flash of magic deposited a letter into Twilight’s hooves. She read it, and her blood ran so cold her veins grew icicles. Dear Twilight, I will not be complicit in the erasure and erosion of Equestrian culture by Swedish imperialism. Swedish stores belong on Swedish soil. Rarity - P.S. you still need to return my mane brush. It’s been a week.
 
-“Twilight, I think Rarity might have some uncool vibes,” Rainbow pointed out, having overheard Twilight’s silent reading of the letter.
+“Twilight, I think Rarity might have some uncool vibes.” Rainbow pointed out, having overheard Twilight’s silent reading of the letter.
 
 “I’ll talk to her about that later. But for now, let’s finally immerse ourselves in the perfection of Ikea.” Twilight led the way, avoiding the rotating door because some colt had somehow got his entire body wedged in it. Like, it was pushing against his ribs and stuff, the security guards were staring dumbfounded at it. Genuinely stressful sight to behold.
 
@@ -56,7 +56,7 @@ She liked them.
 
 …
 
-Meanwhile, Pinkie Pie bounced around the store and stuff. “DJUNGLORM!” she giggled, looking at the weird and funny word used to refer to the snake plushies. “Hahaha! BLÅHAJ HAAAHAHA!” She continued bouncing and laughing at the strange-looking words. “BILLY!” She laughed so hard she nearly threw up. “That’s just a GUY’S NAME! Swedish is my FAVOURITE SILLY LANGUAGE!”
+Meanwhile, Pinkie Pie bounced around the store and stuff. “DJUNGLORM!” She giggled, looking at the weird and funny word used to refer to the snake plushies. “Hahaha! BLÅHAJ HAAAHAHA!” She continued bouncing and laughing at the strange-looking words. “BILLY!” She laughed so hard she nearly threw up. “That’s just a GUY’S NAME! Swedish is my FAVOURITE SILLY LANGUAGE!”
 
 “PINKIE!” Twilight snapped out of her furniture-induced trance. “Come here, come over here with me.”
 
@@ -74,9 +74,9 @@ Pinkie obliged and huddled into the corner with Twilight. She turned to face her
 
 “GIRLS! OH MY ACTUAL GOSH!” Rainbow yelled, suddenly appearing behind the pair. “Applejack got taken to A&E ‘cos she was acting odd. I’ll fly over there and see what’s goi-”
 
-Fluttershy meekly approached the others, her snout covered in that ambrosia-for-mortals known as Ikea gravy, her stomach 5 times larger than medically possible. “I want to eat more animals.”
+Fluttershy meekly approached the others, her snout covered in that ambrosia-for-mortals known as Ikea gravy, her stomach five times larger than medically possible. “I want to eat more animals.”
 
-5 hours later…
+Five hours later…
 
 “Turns out, I had some Poison Joke lodged in ma nose that was makin’ me act like a slightly offensive stereotype,” Applejack explained.
 
@@ -96,7 +96,7 @@ Anyway, Rarity looked at the table as if it just insulted her lineage. “This i
 
 “I actually know a Satanist,” Rainbow Dash yelled, “and he’s chill. He introduced me to Mareilyn Manson.”
 
-As Fluttershy mumbled something about her preference for Skinny Puppy’s discography, then silently complained about a stomach ache, Applejack turned, “Twailight, actions speak louder than words. Give that thingimajig the stress test.”
+As Fluttershy mumbled something about her preference for Skinny Puppy’s discography, then silently complained about a stomach ache, Applejack turned to Twilight, and said, “Twailight, actions speak louder than words. Give that thingimajig the stress test.”
 
 “Right.” She picked up a heavy stack of books that did NOT contain Fifty Shades of Grey (and if it did, it was a gift. And Twilight wouldn’t have read it.) and carried it over to the nascent Tonstad. The twelve-book-high pile loomed over the table, and then, with the fury of a scorned goddess, she slammed it onto the table. “See?” she said smugly, “quality building standards! If it can stand that, it can-”
 
@@ -144,6 +144,6 @@ Then Fluttershy threw up.
 
 Twilight set the book down. She paused for a second, probably weighing up the social impact of an Ikea manifesting in Ponyville.
 
-“Twilight,” Rarity perked up, turning to Twilight, “I have no idea… I love the Swedish! I love Sweden! I would never…” she froze suddenly, unable to compute how out of character she was.
+“Twilight.” Rarity perked up, turning to Twilight. “I have no idea… I love the Swedish! I love Sweden! I would never…” She froze suddenly, unable to compute how out of character she was.
 
-“I know, Rarity…” Twilight stared for a few seconds, “I know.”
+“I know, Rarity…” Twilight stared for a few seconds. “I know.”
