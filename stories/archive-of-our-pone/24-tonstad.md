@@ -2,7 +2,7 @@
 
 Ponyville Ikea opened to great fanfare. The colossal blue-and-yellow block towered over the small town, with seven Swedish flags proudly flapping in the wind. Ponies filtered into the rotating door out the front, in awe of the mere existence of an Ikea in their area. Manehattan wept like a widow, Fillydelphia raged at the Heavens, Canterlot pretended it didn’t care, but they could do nothing but accept that the store was planted firmly at the East side of Ponyville.
 
-“Well, girls, this is it. If this is your first time in Ikea, prepare to be amazed,” Twilight announced. The other day she had attempted to write a letter to the council about the 5 inch deep pothole outside her castle, but, to her horror, her writing desk had vanished. She’d bet her bottom Bit it was Spoiled Rich that stole it. She’d been complaining about a bad back and the surprising danger of shattered glass for a few days, but Twilight needed more solid evidence to make a conviction.
+“Well, girls, this is it. If this is your first time in Ikea, prepare to be amazed,” Twilight announced. The other day she had attempted to write a letter to the council about the five inch deep pothole outside her castle, but, to her horror, her writing desk had vanished. She’d bet her bottom bit it was Spoiled Rich that stole it. She’d been complaining about a bad back and the surprising danger of shattered glass for a few days, but Twilight needed more solid evidence to make a conviction.
 
 “Twailight, why are ya’ll starin’ inta space like that? Howdy, howdy,” Applejack drawled Southernly.
 
@@ -20,11 +20,7 @@ As if on cue, a sudden flash of magic deposited a letter into Twilight’s hoove
 
 “I’ll talk to her about that later. But for now, let’s finally immerse ourselves in the perfection of Ikea.” Twilight led the way, avoiding the rotating door because some colt had somehow got his entire body wedged in it. Like, it was pushing against his ribs and stuff, the security guards were staring dumbfounded at it. Genuinely stressful sight to behold.
 
-“I’m here too!” Pinkie Pie yelled, suddenly realising she’d been quiet for too long.
-
-Inside
-
----
+“I’m here too!” Pinkie Pie yelled, suddenly realizing she’d been quiet for too long.
 
 The inside of the store was lined with the most amazing flatpack furniture the world had ever had the pleasure of containing. The Germans had their beer, the Belgians their chocolate, the Colombians something I can’t bring up in an E-rated fic, but the Swedes had their furniture.
 
@@ -32,7 +28,7 @@ The inside of the store was lined with the most amazing flatpack furniture the w
 
 …
 
-Meanwhile, Rainbow Dash saw something that caught her magenta eyes. The racecar bed. A bedroom staple for all children who will grow up to be philosophers and world leaders. “This is radical!” she yelled, “I don’t know what it's supposed to be because I’ve never seen a race car before, but I bet it can go fast. Like me.” She turned to read the information plaque. It was only 90 Bits. It was for foals, but, if Rainbow curled into a ball and held her knees to her chest, she could maybe squeeze in.
+Meanwhile, Rainbow Dash saw something that caught her magenta eyes. The racecar bed. A bedroom staple for all children who will grow up to be philosophers and world leaders. “This is radical!” she yelled, “I don’t know what it's supposed to be because I’ve never seen a race car before, but I bet it can go fast. Like me.” She turned to read the information plaque. It was only ninety bits. It was for foals, but, if Rainbow curled into a ball and held her knees to her chest, she could maybe squeeze in.
 
 She thought for a few seconds.
 
@@ -53,8 +49,6 @@ Meanwhile, Applejack had accosted a member of staff, and was ready to fire off t
 The staff member’s expression dropped. He picked up his walkie-talkie. “Uh, I think we have a customer- She’s saying- She’s not making any sense. I think she might need some medical attention. Can we get somepony down here to- Yeah, yeah, like, it’s nonsensical words. Just send somepony down here…”
 
 …
-
----
 
 Meanwhile, Fluttershy ate five meatballs. Meat. M. E. A. T. She knew what they were as well. She wasn’t tricked or ignorant or anything, she knew what she was eating the entire time.
 
@@ -86,11 +80,7 @@ Fluttershy meekly approached the others, her snout covered in that ambrosia-for-
 
 “Turns out, I had some Poison Joke lodged in ma nose that was makin’ me act like a slightly offensive stereotype,” Applejack explained.
 
-The ponies stood around the newly assembled Tonstad. Rainbow Dash insisted she make it alone because she just… She just doesn’t want others breathing down her neck. Okay? You
-
----
-
-need space to make these things, and too many hooves will get in the way and cause problems… Okay? So the others watched Fluttershy inhale a 40oz steak like some freakshow at a classic P.T. Barnum circus thingy.
+The ponies stood around the newly assembled Tonstad. Rainbow Dash insisted she make it alone because she just… She just doesn’t want others breathing down her neck. Okay? You need space to make these things, and too many hooves will get in the way and cause problems… Okay? So the others watched Fluttershy inhale a forty ounce steak like some freakshow at a classic P.T. Barnum circus thingy.
 
 Anyway, Rarity looked at the table as if it just insulted her lineage. “This isn’t Equestrian made.”
 
@@ -102,13 +92,13 @@ Anyway, Rarity looked at the table as if it just insulted her lineage. “This i
 
 “Twilight said hating Swedes is racist, Rarity! Discriminating others for the circumstances of their birth is immoral, as it increases social tensions, rejects the beneficial and interesting contributions of other cultures, and results in judging others for traits out of their control,” Pinkie Pie lectured.
 
-“I see the Devil smiling at me when I look into it,” Rarity replied, glaring at the apparently devil-worshipping table.
+“I see the Devil smiling at me when I look into it,” Rarity replied, glaring at the apparently devil-worshiping table.
 
 “I actually know a Satanist,” Rainbow Dash yelled, “and he’s chill. He introduced me to Mareilyn Manson.”
 
 As Fluttershy mumbled something about her preference for Skinny Puppy’s discography, then silently complained about a stomach ache, Applejack turned, “Twailight, actions speak louder than words. Give that thingimajig the stress test.”
 
-“Right.” She picked up a heavy stack of books that did NOT contain Fifty Shades of Grey (and if it did, it was a gift. And Twilight wouldn’t have read it.) and carried it over to the nascent Tonstad. The 12-book-high pile loomed over the table, and then, with the fury of a scorned goddess, she slammed it onto the table. “See?” she said smugly, “quality building standards! If it can stand that, it can-”
+“Right.” She picked up a heavy stack of books that did NOT contain Fifty Shades of Grey (and if it did, it was a gift. And Twilight wouldn’t have read it.) and carried it over to the nascent Tonstad. The twelve-book-high pile loomed over the table, and then, with the fury of a scorned goddess, she slammed it onto the table. “See?” she said smugly, “quality building standards! If it can stand that, it can-”
 
 The table collapsed. Completely gave way. Like, utterly dismantled in the blink of an eye.
 
@@ -119,8 +109,6 @@ The table collapsed. Completely gave way. Like, utterly dismantled in the blink 
 “Why’d you slam it down so hard, Twi?” Rainbow asked.
 
 “To prove its strength! I mean, what if I had a stack of books and a candle, and the candle went onto the books and then the fire and the castle became in flames and I was inside so I was burned to death?”
-
----
 
 “Well said, Twilight!” Pinkie exclaimed while juggling cupcakes for some godforsaken reason.
 
